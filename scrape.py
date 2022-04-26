@@ -18,7 +18,7 @@ def scrape_page(url):
     for bit in bits:
         if not bit:
             continue
-        tds = Soup(bit, "html5lib").select("td")
+        tds = Soup(bit, "html.parser").select("td")
         if not tds:
             continue
         time, id = tds[0].text.strip().replace("\xa0", " ").rsplit(None, 1)
