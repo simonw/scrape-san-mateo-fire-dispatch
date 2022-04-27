@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2204676",
+        "date": "2022-04-27",
+        "time": "11:07:13 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "1601 BEACH PARK BLVD #303 ,FCY",
+        "latitude": 37.566306268846,
+        "longitude": -122.251935201377,
+        "units": "E29"
+    },
+    {
+        "id": "MF2203131",
+        "date": "2022-04-27",
+        "time": "11:02:34 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD / UNIVERSITY AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">R77"
+    },
+    {
+        "id": "FF2202276",
+        "date": "2022-04-27",
+        "time": "10:54:44 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "MF2203130",
+        "date": "2022-04-27",
+        "time": "10:53:54 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "342 O'CONNOR ST ,MNP",
+        "latitude": 37.4603888268315,
+        "longitude": -122.148116583838,
+        "units": ">E2"
+    },
+    {
         "id": "NF2204175",
         "date": "2022-04-27",
         "time": "10:44:35 AM",
@@ -8,29 +52,7 @@
         "location": "WESTLINE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
-    },
-    {
-        "id": "FF2202275",
-        "date": "2022-04-27",
-        "time": "10:43:42 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMPO DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "MF2203129",
-        "date": "2022-04-27",
-        "time": "10:41:55 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1805 E BAYSHORE RD #BLDG W ,EPA",
-        "latitude": 37.456882075852,
-        "longitude": -122.133305178237,
-        "units": "E2"
+        "units": ">E71"
     },
     {
         "id": "SF2204675",
@@ -44,17 +66,6 @@
         "units": ">E27"
     },
     {
-        "id": "NF2204174",
-        "date": "2022-04-27",
-        "time": "10:30:32 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MARINA BLVD ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
         "id": "WF2200510",
         "date": "2022-04-27",
         "time": "10:24:20 AM",
@@ -64,38 +75,5 @@
         "latitude": 37.3889125257711,
         "longitude": -122.244564200948,
         "units": ">SQ407"
-    },
-    {
-        "id": "CF2202553",
-        "date": "2022-04-27",
-        "time": "10:19:21 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHERMAN AVE #3A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "SF2204673",
-        "date": "2022-04-27",
-        "time": "10:18:09 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DAVEY GLEN RD #416 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2203126",
-        "date": "2022-04-27",
-        "time": "9:57:48 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E6"
     }
 ]
