@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2204175",
+        "date": "2022-04-27",
+        "time": "10:44:35 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WESTLINE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "FF2202275",
+        "date": "2022-04-27",
+        "time": "10:43:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMPO DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "MF2203129",
+        "date": "2022-04-27",
+        "time": "10:41:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1805 E BAYSHORE RD #BLDG W ,EPA",
+        "latitude": 37.456882075852,
+        "longitude": -122.133305178237,
+        "units": "E2"
+    },
+    {
+        "id": "SF2204675",
+        "date": "2022-04-27",
+        "time": "10:36:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD COUNTY RD #206 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
         "id": "NF2204174",
         "date": "2022-04-27",
         "time": "10:30:32 AM",
@@ -8,7 +52,7 @@
         "location": "MARINA BLVD ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": "?E65"
+        "units": ">E65"
     },
     {
         "id": "WF2200510",
@@ -19,18 +63,7 @@
         "location": "300 OLD LA HONDA RD ,WDS",
         "latitude": 37.3889125257711,
         "longitude": -122.244564200948,
-        "units": "SQ407 E8"
-    },
-    {
-        "id": "HF2200929",
-        "date": "2022-04-27",
-        "time": "10:23:13 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY S #226 ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
+        "units": ">SQ407"
     },
     {
         "id": "CF2202553",
@@ -55,50 +88,6 @@
         "units": ">E28"
     },
     {
-        "id": "NF2204173",
-        "date": "2022-04-27",
-        "time": "10:17:25 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Smoke investigation",
-        "location": "MONTEREY ST / VISITACION AVE  ,BRS",
-        "latitude": 37.6830891674165,
-        "longitude": -122.403291489823,
-        "units": ""
-    },
-    {
-        "id": "RF2204085",
-        "date": "2022-04-27",
-        "time": "10:15:19 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "EL CAMINO REAL / WHIPPLE AVE",
-        "latitude": 37.4904415192005,
-        "longitude": -122.239772684996,
-        "units": "*>T9"
-    },
-    {
-        "id": "NF2204172",
-        "date": "2022-04-27",
-        "time": "10:10:10 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "MF2203127",
-        "date": "2022-04-27",
-        "time": "10:01:40 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
         "id": "MF2203126",
         "date": "2022-04-27",
         "time": "9:57:48 AM",
@@ -107,6 +96,6 @@
         "location": "EL CAMINO REAL ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
+        "units": "E6"
     }
 ]
