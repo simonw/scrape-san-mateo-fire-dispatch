@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2203121",
+        "id": "HF2200928",
         "date": "2022-04-27",
-        "time": "8:08:39 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:30:36 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "50 PATRICK WAY ,HMB",
+        "latitude": 37.4676052901406,
+        "longitude": -122.426828519533,
+        "units": "E40"
+    },
+    {
+        "id": "SF2204669",
+        "date": "2022-04-27",
+        "time": "8:20:35 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "PENINSULA AVE / N BAYSHORE BLVD",
+        "latitude": 37.5846155834046,
+        "longitude": -122.328355964118,
+        "units": "CM21X3 >T34 ?TAC25"
+    },
+    {
+        "id": "SF2204668",
+        "date": "2022-04-27",
+        "time": "8:16:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVE ,NFO",
+        "location": "LAUREL AVE #301 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E5"
+        "units": ">E21"
     },
     {
         "id": "LF2200363",
@@ -19,17 +41,6 @@
         "location": "7800 EL CAMINO REAL ,BRD",
         "latitude": 37.6847983614674,
         "longitude": -122.46446676944,
-        "units": ">T85 >E85 >CM31X5 TAC35"
-    },
-    {
-        "id": "LF2200362",
-        "date": "2022-04-27",
-        "time": "7:39:38 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "F ST #225 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E85 >CM31X5 >TAC35"
     }
 ]
