@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2204190",
+        "date": "2022-04-27",
+        "time": "3:22:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "RF2204092",
+        "date": "2022-04-27",
+        "time": "3:21:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAUREL ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "MF2203139",
+        "date": "2022-04-27",
+        "time": "3:13:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #422 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "NF2204189",
         "date": "2022-04-27",
         "time": "3:05:02 PM",
@@ -8,7 +41,7 @@
         "location": "WARWICK ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E64"
+        "units": ""
     },
     {
         "id": "NF2204188",
@@ -16,31 +49,9 @@
         "time": "3:02:38 PM",
         "summary": "North County Fire on Control-3",
         "category": "Traffic accident",
-        "location": "SB 280 / NO SERRAMONTE BLVD",
+        "location": "SB 280 / NO 1",
         "latitude": 37.6737538263321,
         "longitude": -122.46851233473,
-        "units": ">CM31X1 E94 E91 BC20 T95?TAC35"
-    },
-    {
-        "id": "FF2202282",
-        "date": "2022-04-27",
-        "time": "3:00:06 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ASH AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "FF2202281",
-        "date": "2022-04-27",
-        "time": "2:54:49 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ">E94 >CM31X1 >BC20 >TAC35 >T95"
     }
 ]
