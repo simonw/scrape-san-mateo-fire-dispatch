@@ -1,14 +1,36 @@
 [
     {
+        "id": "MF2203158",
+        "date": "2022-04-28",
+        "time": "11:40:46 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "CLARKE AVE / MYRTLE ST",
+        "latitude": 37.4632352228045,
+        "longitude": -122.134712426928,
+        "units": "E6"
+    },
+    {
+        "id": "MF2203157",
+        "date": "2022-04-28",
+        "time": "11:39:56 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #422 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
         "id": "NF2204225",
         "date": "2022-04-28",
         "time": "11:33:28 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "WERNER AVE ,DCY",
+        "location": "STATION AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     },
     {
         "id": "SF2204720",
@@ -20,28 +42,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E14"
-    },
-    {
-        "id": "SF2204719",
-        "date": "2022-04-28",
-        "time": "11:19:53 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "STATE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2204716",
-        "date": "2022-04-28",
-        "time": "11:07:47 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE #522 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     },
     {
         "id": "MF2203155",
@@ -63,6 +63,6 @@
         "location": "1071 EL CAMINO REAL ,RCY",
         "latitude": 37.4844815634121,
         "longitude": -122.230419626787,
-        "units": ">PR3A >E13"
+        "units": ">PR3A"
     }
 ]
