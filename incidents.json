@@ -1,25 +1,47 @@
 [
     {
-        "id": "SF2204710",
+        "id": "NF2204219",
         "date": "2022-04-28",
-        "time": "8:17:23 AM",
+        "time": "8:50:08 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "1551 SOUTHGATE AVE ,DCY",
+        "latitude": 37.6767242901384,
+        "longitude": -122.47468760155,
+        "units": "E95"
+    },
+    {
+        "id": "SF2204712",
+        "date": "2022-04-28",
+        "time": "8:49:26 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "731 EDGEWOOD RD ,SMO",
+        "latitude": 37.5693462429685,
+        "longitude": -122.350243957692,
+        "units": "E32"
+    },
+    {
+        "id": "NF2204218",
+        "date": "2022-04-28",
+        "time": "8:38:40 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "80 MONTEBELLO DR ,DCY",
+        "latitude": 37.665145682954,
+        "longitude": -122.488721027696,
+        "units": ">E94"
+    },
+    {
+        "id": "SF2204711",
+        "date": "2022-04-28",
+        "time": "8:34:49 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "GARFIELD ST ,SMO",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
         "units": ">E23"
-    },
-    {
-        "id": "SF2204709",
-        "date": "2022-04-28",
-        "time": "8:16:20 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KLAMATH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
     },
     {
         "id": "SF2204708",
@@ -30,6 +52,6 @@
         "location": "CARLMONT DR #C422 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
+        "units": ""
     }
 ]
