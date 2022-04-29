@@ -1,25 +1,36 @@
 [
     {
-        "id": "RF2204143",
+        "id": "CF2202593",
         "date": "2022-04-29",
-        "time": "8:28:50 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1001 CHESTNUT ST ,SNC",
-        "latitude": 37.4977901738353,
-        "longitude": -122.25835828101,
-        "units": "E16"
+        "time": "8:41:54 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAGUNA AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
     },
     {
-        "id": "BF2201314",
+        "id": "BF2201315",
         "date": "2022-04-29",
-        "time": "8:27:38 AM",
+        "time": "8:38:49 AM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c2",
-        "location": "SAN BRUNO AVE W ON RAMP / SB 280",
-        "latitude": 37.6211877701078,
-        "longitude": -122.426497932625,
-        "units": "E52"
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #2417 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2204259",
+        "date": "2022-04-29",
+        "time": "8:35:01 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WESTMOOR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "NF2204258",
@@ -33,39 +44,6 @@
         "units": ">E94"
     },
     {
-        "id": "SF2204765",
-        "date": "2022-04-29",
-        "time": "8:10:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E HILLSDALE BLVD #C207 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "NF2204257",
-        "date": "2022-04-29",
-        "time": "8:10:13 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HILLSDALE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E91"
-    },
-    {
-        "id": "SF2204764",
-        "date": "2022-04-29",
-        "time": "7:51:15 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "1333 PALOS VERDES DR ,SMO",
-        "latitude": 37.5310930418581,
-        "longitude": -122.328067220169,
-        "units": ">T17 >E27"
-    },
-    {
         "id": "FF2202316",
         "date": "2022-04-29",
         "time": "7:44:50 AM",
@@ -75,16 +53,5 @@
         "latitude": 37.6477277253842,
         "longitude": -122.431441411457,
         "units": ">BC17 >E61 >TAC36 >CM31X3"
-    },
-    {
-        "id": "NF2204254",
-        "date": "2022-04-29",
-        "time": "6:44:44 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Structure fire",
-        "location": "307 VALLEY ST ,DCY",
-        "latitude": 37.6880805624209,
-        "longitude": -122.461857278362,
-        "units": ">TAC35 >PR20D >CM31X4"
     }
 ]
