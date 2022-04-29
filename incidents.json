@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2204274",
+        "date": "2022-04-29",
+        "time": "4:03:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST FRANCIS BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E95"
+    },
+    {
+        "id": "HF2200947",
+        "date": "2022-04-29",
+        "time": "4:02:35 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "N CABRILLO HWY ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E44"
+    },
+    {
+        "id": "BF2201324",
+        "date": "2022-04-29",
+        "time": "3:54:31 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
         "id": "BF2201322",
         "date": "2022-04-29",
         "time": "3:43:17 PM",
@@ -8,40 +41,7 @@
         "location": "EL CAMINO REAL #277 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E61"
-    },
-    {
-        "id": "WF2200517",
-        "date": "2022-04-29",
-        "time": "3:34:26 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "PORTOLA RD / HOME RD",
-        "latitude": 37.3925520147674,
-        "longitude": -122.242545676475,
-        "units": ">E8"
-    },
-    {
-        "id": "NF2204273",
-        "date": "2022-04-29",
-        "time": "3:32:55 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO CANDLESTICK PARK",
-        "latitude": 37.6927809446673,
-        "longitude": -122.391323110023,
-        "units": ">E65 >BC17"
-    },
-    {
-        "id": "RF2204161",
-        "date": "2022-04-29",
-        "time": "3:24:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ENCINA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ""
     },
     {
         "id": "BF2201321",
@@ -52,7 +52,7 @@
         "location": "PACIFIC HEIGHTS BLVD ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
+        "units": "E52"
     },
     {
         "id": "SF2204778",
@@ -63,6 +63,6 @@
         "location": "1450 TARPON ST ,FCY",
         "latitude": 37.559043951811,
         "longitude": -122.248765898385,
-        "units": ">E28 PR5B PR5C"
+        "units": ">E28 >PR5B PR5C"
     }
 ]
