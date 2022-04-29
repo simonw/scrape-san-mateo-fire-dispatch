@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2201322",
+        "date": "2022-04-29",
+        "time": "3:43:17 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #277 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E61"
+    },
+    {
+        "id": "WF2200517",
+        "date": "2022-04-29",
+        "time": "3:34:26 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "PORTOLA RD / HOME RD",
+        "latitude": 37.3925520147674,
+        "longitude": -122.242545676475,
+        "units": ">E8"
+    },
+    {
+        "id": "NF2204273",
+        "date": "2022-04-29",
+        "time": "3:32:55 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO CANDLESTICK PARK",
+        "latitude": 37.6927809446673,
+        "longitude": -122.391323110023,
+        "units": ">E65 >BC17"
+    },
+    {
         "id": "RF2204161",
         "date": "2022-04-29",
         "time": "3:24:01 PM",
@@ -8,7 +41,7 @@
         "location": "ENCINA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "BF2201321",
@@ -19,95 +52,7 @@
         "location": "PACIFIC HEIGHTS BLVD ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
-    },
-    {
-        "id": "RF2204160",
-        "date": "2022-04-29",
-        "time": "3:21:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BARCELONA CIR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "NF2204272",
-        "date": "2022-04-29",
-        "time": "3:19:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "BRUNSWICK ST / CROCKER AVE",
-        "latitude": 37.7054267779276,
-        "longitude": -122.458117662166,
-        "units": ">E92 CM31X5 ?TAC35"
-    },
-    {
-        "id": "SF2204781",
-        "date": "2022-04-29",
-        "time": "3:16:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "223 37TH AVE ,SMO",
-        "latitude": 37.5320336672355,
-        "longitude": -122.300057675874,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2204159",
-        "date": "2022-04-29",
-        "time": "3:13:21 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "1337 CHESTNUT ST ,SNC",
-        "latitude": 37.4950065710146,
-        "longitude": -122.255117423931,
-        "units": ">E16"
-    },
-    {
-        "id": "SF2204780",
-        "date": "2022-04-29",
-        "time": "3:08:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COMSTOCK CIR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "BF2201320",
-        "date": "2022-04-29",
-        "time": "3:08:01 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MASTICK AVE #202 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "LF2200369",
-        "date": "2022-04-29",
-        "time": "3:07:28 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL / A ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "NF2204271",
-        "date": "2022-04-29",
-        "time": "3:07:08 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "11 EASTWOOD AVE ,DCY",
-        "latitude": 37.6793667147916,
-        "longitude": -122.487431932251,
-        "units": ""
+        "units": ">E52"
     },
     {
         "id": "SF2204778",
@@ -118,6 +63,6 @@
         "location": "1450 TARPON ST ,FCY",
         "latitude": 37.559043951811,
         "longitude": -122.248765898385,
-        "units": ">E28 PR5C"
+        "units": ">E28 PR5B PR5C"
     }
 ]
