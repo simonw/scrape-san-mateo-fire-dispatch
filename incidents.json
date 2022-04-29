@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2204771",
+        "id": "MF2203184",
         "date": "2022-04-29",
-        "time": "10:43:34 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:01:28 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "AVE ,BLM",
+        "location": "E BAYSHORE RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E2"
+    },
+    {
+        "id": "CF2202597",
+        "date": "2022-04-29",
+        "time": "11:01:16 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "BROADWAY / CALIFORNIA DR",
+        "latitude": 37.5875385530631,
+        "longitude": -122.363512980488,
+        "units": ">BC8 E34 >TAC25 >CM21X5 T51"
+    },
+    {
+        "id": "NF2204262",
+        "date": "2022-04-29",
+        "time": "10:54:04 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NB 280 / SO 1",
+        "latitude": null,
+        "longitude": null,
+        "units": "?CM31X2 ?TAC35 E91 >E95"
+    },
+    {
+        "id": "CF2202596",
+        "date": "2022-04-29",
+        "time": "10:49:52 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LA MESA DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "RF2204149",
+        "date": "2022-04-29",
+        "time": "10:45:54 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Hazardous material - investiga",
+        "location": "201 INDUSTRIAL RD #410 ,SNC",
+        "latitude": 37.5192151138775,
+        "longitude": -122.264291968738,
+        "units": "TAC15 >E14 >BC3 >E26 CM11X2"
     },
     {
         "id": "MF2203183",
@@ -19,51 +63,7 @@
         "location": "SAND HILL CIR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "MF2203182",
-        "date": "2022-04-29",
-        "time": "10:37:19 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD #206 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">BC101 >E2 CM11X1"
-    },
-    {
-        "id": "MF2203181",
-        "date": "2022-04-29",
-        "time": "10:32:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "BAY RD / BERKELEY AVE",
-        "latitude": 37.4705104811995,
-        "longitude": -122.163156178437,
-        "units": ">T1"
-    },
-    {
-        "id": "CF2202595",
-        "date": "2022-04-29",
-        "time": "10:30:26 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "330 BEACH RD ,BRM",
-        "latitude": 37.5886151117298,
-        "longitude": -122.335761953837,
-        "units": ""
-    },
-    {
-        "id": "BF2201317",
-        "date": "2022-04-29",
-        "time": "10:30:17 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PICCADILLY PL #D ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">E4"
     },
     {
         "id": "FF2202321",
@@ -74,29 +74,7 @@
         "location": "KIPLING AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "SF2204770",
-        "date": "2022-04-29",
-        "time": "10:22:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROBERTA DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2204769",
-        "date": "2022-04-29",
-        "time": "10:21:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DALE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "E63"
     },
     {
         "id": "RF2204145",
@@ -107,6 +85,6 @@
         "location": "355 QUARRY RD ,SNC",
         "latitude": 37.5177132429861,
         "longitude": -122.265708288088,
-        "units": ">E13"
+        "units": ">PR3A >E13"
     }
 ]
