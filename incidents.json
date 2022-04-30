@@ -1,5 +1,16 @@
 [
     {
+        "id": "HF2200955",
+        "date": "2022-04-30",
+        "time": "3:42:09 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PURISSIMA ST ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
         "id": "RF2204179",
         "date": "2022-04-30",
         "time": "3:26:23 AM",
@@ -8,7 +19,7 @@
         "location": "3146 LA MESA DR ,SNC",
         "latitude": 37.4819928309695,
         "longitude": -122.276409846838,
-        "units": "?TAC15 ?CM11X4 ?BC3 ?E18 ?T9"
+        "units": "TAC15 >E18 ?CM11X4 >T9 >BC3"
     },
     {
         "id": "WF2200520",
@@ -19,7 +30,7 @@
         "location": "LINARIA WAY ,LAD",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
+        "units": ""
     },
     {
         "id": "SF2204811",
@@ -42,27 +53,5 @@
         "latitude": 37.6915967471036,
         "longitude": -122.480724136412,
         "units": ">E86"
-    },
-    {
-        "id": "CF2202607",
-        "date": "2022-04-30",
-        "time": "3:15:41 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "NB 280 / NO MILLBRAE AVE",
-        "latitude": 37.5924416061273,
-        "longitude": -122.415501134811,
-        "units": ">E38 BC11 USR133 CM21X5 ?TAC25"
-    },
-    {
-        "id": "CF2202606",
-        "date": "2022-04-30",
-        "time": "3:12:43 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "JUANITA AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
     }
 ]
