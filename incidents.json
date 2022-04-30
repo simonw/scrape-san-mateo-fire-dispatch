@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2202616",
+        "date": "2022-04-30",
+        "time": "11:05:16 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRESTVIEW DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E38"
+    },
+    {
+        "id": "SF2204823",
+        "date": "2022-04-30",
+        "time": "11:00:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E POPLAR AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "NF2204296",
+        "date": "2022-04-30",
+        "time": "10:47:21 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "1 THORNTON BEACH RD ,DCY",
+        "latitude": 37.6981350685065,
+        "longitude": -122.495826316142,
+        "units": ">BC20 ?TAC35 >T95 CM31X4"
+    },
+    {
         "id": "SF2204822",
         "date": "2022-04-30",
         "time": "10:41:56 AM",
@@ -8,7 +41,7 @@
         "location": "N SAN MATEO DR #2 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E26"
+        "units": ">E26"
     },
     {
         "id": "CF2202612",
@@ -19,28 +52,6 @@
         "location": "1001 BROADWAY ,MLB",
         "latitude": 37.6053282424725,
         "longitude": -122.398016354972,
-        "units": "E51 BC16 T51 E37 ?TAC25?CM21X4 ?E33"
-    },
-    {
-        "id": "NF2204295",
-        "date": "2022-04-30",
-        "time": "10:39:38 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "863 GREEN RIDGE DR ,DCY",
-        "latitude": 37.7000874431136,
-        "longitude": -122.452445487468,
-        "units": "CM31X5 T95 BC20 E92 ?TAC35"
-    },
-    {
-        "id": "SF2204821",
-        "date": "2022-04-30",
-        "time": "10:37:53 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #608 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": "?CCFINV >E37"
     }
 ]
