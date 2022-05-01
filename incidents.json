@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2204224",
+        "date": "2022-05-01",
+        "time": "3:42:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAKESHORE DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E20"
+    },
+    {
+        "id": "NF2204343",
+        "date": "2022-05-01",
+        "time": "3:39:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "N MAYFAIR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
         "id": "SF2204862",
         "date": "2022-05-01",
         "time": "3:26:08 PM",
@@ -8,29 +30,7 @@
         "location": "W 20TH AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T21"
-    },
-    {
-        "id": "NF2204342",
-        "date": "2022-05-01",
-        "time": "2:56:07 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "430 CHESTER ST ,DCY",
-        "latitude": 37.6911089891029,
-        "longitude": -122.455175670179,
-        "units": ">E92"
-    },
-    {
-        "id": "NF2204341",
-        "date": "2022-05-01",
-        "time": "2:52:47 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "INVERNESS DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "units": ">T21"
     },
     {
         "id": "DF2200751",
@@ -52,6 +52,6 @@
         "location": "1 VISTA 3 ,SOS",
         "latitude": 37.4933983081908,
         "longitude": -122.310929232484,
-        "units": ">E1762 ?CM11X2 >E1781 ?VFIR22"
+        "units": ">E1762 >E1781 ?VFIR22 ?CM11X2"
     }
 ]
