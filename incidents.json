@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2204838",
+        "date": "2022-04-30",
+        "time": "10:08:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MONROE AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "RF2204206",
+        "date": "2022-04-30",
+        "time": "9:56:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "RF2204205",
         "date": "2022-04-30",
         "time": "9:54:04 PM",
@@ -8,7 +30,7 @@
         "location": "ELM ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": ">E13"
     },
     {
         "id": "HF2200963",
@@ -19,17 +41,6 @@
         "location": "SECOND AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "BF2201335",
-        "date": "2022-04-30",
-        "time": "9:35:37 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EASTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": "*>E40"
     }
 ]
