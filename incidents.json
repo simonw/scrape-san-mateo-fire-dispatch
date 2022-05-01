@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2204848",
+        "date": "2022-05-01",
+        "time": "6:40:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2204847",
+        "date": "2022-05-01",
+        "time": "6:35:00 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "99 27TH AVE ,SMO",
+        "latitude": 37.5415483056407,
+        "longitude": -122.305300025779,
+        "units": ">E23"
+    },
+    {
         "id": "FF2202353",
         "date": "2022-05-01",
         "time": "6:30:32 AM",
@@ -8,7 +30,7 @@
         "location": "EL CAMINO REAL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E63"
+        "units": ">E63"
     },
     {
         "id": "BF2201338",
@@ -19,7 +41,7 @@
         "location": "EL CAMINO REAL ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "RF2204214",
@@ -41,7 +63,7 @@
         "location": "BEECH ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">T2 >E2 CM11X1"
+        "units": "CM11X1 >E2 >T2"
     },
     {
         "id": "RF2204213",
@@ -52,7 +74,7 @@
         "location": "HARBOR COLONY CT ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E20"
+        "units": "E20"
     },
     {
         "id": "MF2203230",
@@ -63,6 +85,6 @@
         "location": "SB 101 / NO WILLOW RD",
         "latitude": 37.4775111992726,
         "longitude": -122.170198805936,
-        "units": ">T9 >R77 >E5 >BC3 CM11X5?TAC15"
+        "units": "?TAC15 >T9 CM11X5 >E5"
     }
 ]
