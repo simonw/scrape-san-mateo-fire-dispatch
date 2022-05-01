@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2204849",
+        "date": "2022-05-01",
+        "time": "7:06:03 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "CF2202635",
+        "date": "2022-05-01",
+        "time": "6:47:43 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MOUNTAIN WOOD LN ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
         "id": "SF2204848",
         "date": "2022-05-01",
         "time": "6:40:02 AM",
@@ -11,39 +33,6 @@
         "units": ">E21"
     },
     {
-        "id": "SF2204847",
-        "date": "2022-05-01",
-        "time": "6:35:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "99 27TH AVE ,SMO",
-        "latitude": 37.5415483056407,
-        "longitude": -122.305300025779,
-        "units": ">E23"
-    },
-    {
-        "id": "FF2202353",
-        "date": "2022-05-01",
-        "time": "6:30:32 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "BF2201338",
-        "date": "2022-05-01",
-        "time": "6:30:28 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "RF2204214",
         "date": "2022-05-01",
         "time": "6:18:37 AM",
@@ -52,7 +41,7 @@
         "location": "GLENNAN DR ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E12"
+        "units": ""
     },
     {
         "id": "MF2203231",
@@ -63,7 +52,7 @@
         "location": "BEECH ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 >E2 >T2"
+        "units": "CM11X1"
     },
     {
         "id": "RF2204213",
@@ -85,6 +74,6 @@
         "location": "SB 101 / NO WILLOW RD",
         "latitude": 37.4775111992726,
         "longitude": -122.170198805936,
-        "units": "?TAC15 >T9 CM11X5 >E5"
+        "units": ">T9"
     }
 ]
