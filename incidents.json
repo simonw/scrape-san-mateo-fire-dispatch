@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2204220",
+        "id": "CF2202641",
         "date": "2022-05-01",
-        "time": "11:59:04 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "3383 BRITTAN AVE #8 ,SNC",
-        "latitude": 37.4825816501531,
-        "longitude": -122.288109236784,
-        "units": ">E18"
+        "time": "12:21:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "331 MARCELLA WAY ,MLB",
+        "latitude": 37.5897051752379,
+        "longitude": -122.391601195622,
+        "units": "E35"
+    },
+    {
+        "id": "CF2202640",
+        "date": "2022-05-01",
+        "time": "12:21:17 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
     },
     {
         "id": "WF2200531",
@@ -19,29 +30,7 @@
         "location": "19501 SKYLINE BLVD ,PVY",
         "latitude": 37.3610815406703,
         "longitude": -122.247445012013,
-        "units": ">BC11 >E57 SQ407 CM11X3 E8E7 ?TAC15"
-    },
-    {
-        "id": "CF2202639",
-        "date": "2022-05-01",
-        "time": "11:46:25 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "1608 BARROILHET AVE ,BRM",
-        "latitude": 37.572073116169,
-        "longitude": -122.347678435697,
-        "units": ""
-    },
-    {
-        "id": "NF2204332",
-        "date": "2022-05-01",
-        "time": "11:36:51 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TERRA NOVA BLVD #207A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM11X3 ?TAC15 >E7 >E8 >BC11>E57"
     },
     {
         "id": "WF2200530",
@@ -52,6 +41,6 @@
         "location": "LA HONDA RD / SKYLINE BLVD",
         "latitude": 37.3863361829933,
         "longitude": -122.264191935302,
-        "units": ">E1781 >E58"
+        "units": ">E1781"
     }
 ]
