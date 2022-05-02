@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2204903",
+        "date": "2022-05-02",
+        "time": "10:46:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 4TH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2202658",
+        "date": "2022-05-02",
+        "time": "10:43:54 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "JEWELL PL ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "E32"
+    },
+    {
+        "id": "SF2204902",
+        "date": "2022-05-02",
+        "time": "10:39:30 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "2758 EDISON ST ,SMO",
+        "latitude": 37.5414110506207,
+        "longitude": -122.304399766032,
+        "units": ">E26"
+    },
+    {
         "id": "CF2202657",
         "date": "2022-05-02",
         "time": "10:34:14 AM",
@@ -8,7 +41,7 @@
         "location": "CLYDESDALE DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "RF2204263",
@@ -19,29 +52,18 @@
         "location": "VERA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": ">E12"
     },
     {
         "id": "RF2204262",
         "date": "2022-05-02",
         "time": "10:31:19 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Pole fire",
+        "category": "Full assignment response",
         "location": "2950 FAIR OAKS AVE ,NFO",
         "latitude": 37.478907607726,
         "longitude": -122.206048973148,
-        "units": "E11"
-    },
-    {
-        "id": "RF2204261",
-        "date": "2022-05-02",
-        "time": "10:17:17 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LA MESA DR #8 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": "?TAC15 ?CM11X4 >T9 >BC3 >E9>E11 >PR3D >E10"
     },
     {
         "id": "NF2204366",
@@ -52,17 +74,6 @@
         "location": "SKYLINE BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "CM31X1 TAC35 >R95 >T95 >BC120"
-    },
-    {
-        "id": "RF2204257",
-        "date": "2022-05-02",
-        "time": "8:44:02 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Structure fire",
-        "location": "1417 MIDDLEFIELD RD ,RCY",
-        "latitude": 37.4832738830615,
-        "longitude": -122.223256304829,
-        "units": ">E9"
+        "units": "CM31X1 TAC35 >R95 >T95"
     }
 ]
