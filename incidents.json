@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2202380",
+        "date": "2022-05-02",
+        "time": "9:04:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "TIPPERARY AVE #1 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "SF2204900",
+        "date": "2022-05-02",
+        "time": "8:52:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "NF2204365",
         "date": "2022-05-02",
         "time": "8:49:57 AM",
@@ -8,7 +30,7 @@
         "location": "ST FRANCIS BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "NF2204363",
@@ -19,7 +41,7 @@
         "location": "MORNINGSIDE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": ">E95"
     },
     {
         "id": "MF2203261",
@@ -37,22 +59,11 @@
         "date": "2022-05-02",
         "time": "8:44:02 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
+        "category": "Structure fire",
         "location": "1417 MIDDLEFIELD RD ,RCY",
         "latitude": 37.4832738830615,
         "longitude": -122.223256304829,
-        "units": "CM11X2 ?TAC15 >T9 >BC3 >E9PR3D >E11 >E10"
-    },
-    {
-        "id": "FF2202379",
-        "date": "2022-05-02",
-        "time": "8:37:59 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "651 GATEWAY BLVD ,SSF",
-        "latitude": 37.6601152635886,
-        "longitude": -122.394849746567,
-        "units": "?TAC35 >Q62 >E61 CM31X3"
+        "units": "CM11X2 ?TAC15 >T9 >E13 >BC3>E9 >PR3D >E11 >BC1 >E10"
     },
     {
         "id": "SF2204899",
@@ -66,17 +77,6 @@
         "units": ">E28"
     },
     {
-        "id": "CF2202656",
-        "date": "2022-05-02",
-        "time": "8:32:55 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "FF2202378",
         "date": "2022-05-02",
         "time": "8:31:10 AM",
@@ -85,17 +85,6 @@
         "location": "N ACCESS RD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "SF2204897",
-        "date": "2022-05-02",
-        "time": "8:18:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS / W HILLSDALE BLV",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "T51"
     }
 ]
