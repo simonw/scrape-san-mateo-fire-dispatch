@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2203285",
+        "date": "2022-05-03",
+        "time": "8:50:37 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E1"
+    },
+    {
+        "id": "NF2204395",
+        "date": "2022-05-03",
+        "time": "8:46:59 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "UPLAND AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
         "id": "CF2202675",
         "date": "2022-05-03",
         "time": "8:29:52 AM",
@@ -8,18 +30,7 @@
         "location": "CULEBRA RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
-    },
-    {
-        "id": "CF2202673",
-        "date": "2022-05-03",
-        "time": "8:27:29 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "GARDEN DR / SEQUOIA AVE",
-        "latitude": 37.5918265279525,
-        "longitude": -122.389166091911,
-        "units": ">E37 T34 BC8 CM21X4 ?TAC25"
+        "units": ">E25"
     },
     {
         "id": "RF2204304",
@@ -30,7 +41,7 @@
         "location": "1452 GORDON ST ,RCY",
         "latitude": 37.4673274246351,
         "longitude": -122.229277247479,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "CF2202672",
@@ -41,7 +52,7 @@
         "location": "W SANTA INEZ AVE ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E32"
+        "units": ""
     },
     {
         "id": "NF2204394",
@@ -55,17 +66,6 @@
         "units": ">E92"
     },
     {
-        "id": "NF2204393",
-        "date": "2022-05-03",
-        "time": "8:10:17 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN PEDRO TERRACE RD #116B ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
         "id": "FF2202393",
         "date": "2022-05-03",
         "time": "8:01:08 AM",
@@ -75,16 +75,5 @@
         "latitude": 37.6629230249062,
         "longitude": -122.43116559646,
         "units": ">E65"
-    },
-    {
-        "id": "RF2204303",
-        "date": "2022-05-03",
-        "time": "7:09:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Trash fire",
-        "location": "1075 EL CAMINO REAL ,RCY",
-        "latitude": 37.4839944814359,
-        "longitude": -122.232155972852,
-        "units": ">PR3B"
     }
 ]
