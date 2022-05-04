@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2204343",
+        "date": "2022-05-04",
+        "time": "10:08:34 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "926 WOODSIDE RD ,RCY",
+        "latitude": 37.4644578410727,
+        "longitude": -122.225292463504,
+        "units": "BC3 E10 T9 ?TAC15 ?CM11X5"
+    },
+    {
+        "id": "FF2202415",
+        "date": "2022-05-04",
+        "time": "10:06:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "1 DNA WAY ,SSF",
+        "latitude": 37.6558808702497,
+        "longitude": -122.377621806375,
+        "units": "E65"
+    },
+    {
+        "id": "NF2204434",
+        "date": "2022-05-04",
+        "time": "10:01:44 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN PEDRO TERRACE RD #117B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "SF2204992",
         "date": "2022-05-04",
         "time": "9:51:20 AM",
@@ -8,18 +41,7 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "NF2204433",
-        "date": "2022-05-04",
-        "time": "9:48:31 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "S MAYFAIR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E91"
+        "units": ">E23"
     },
     {
         "id": "BF2201375",
@@ -31,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T51"
-    },
-    {
-        "id": "CF2202714",
-        "date": "2022-05-04",
-        "time": "9:26:51 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MURCHISON DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
     }
 ]
