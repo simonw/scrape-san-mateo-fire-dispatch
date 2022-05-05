@@ -1,14 +1,47 @@
 [
     {
-        "id": "DF2200769",
+        "id": "FF2202452",
         "date": "2022-05-05",
-        "time": "1:22:15 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 1 / NO TUNNEL",
-        "latitude": 37.5908406268089,
-        "longitude": -122.503983476237,
-        "units": "E44"
+        "time": "1:40:23 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "159 W HARRIS AVE ,SSF",
+        "latitude": 37.650804285727,
+        "longitude": -122.401588022689,
+        "units": "Q62"
+    },
+    {
+        "id": "CF2202727",
+        "date": "2022-05-05",
+        "time": "1:35:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "NF2204476",
+        "date": "2022-05-05",
+        "time": "1:32:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "NF2204475",
+        "date": "2022-05-05",
+        "time": "1:30:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "122 SAN JOSE AVE ,PCF",
+        "latitude": 37.6341856130717,
+        "longitude": -122.49139271008,
+        "units": ""
     },
     {
         "id": "DF2200768",
@@ -19,18 +52,7 @@
         "location": "CANADA RD / EDGEWOOD RD",
         "latitude": 37.4638098941832,
         "longitude": -122.297942531098,
-        "units": "CM11X1 >E18 ?TAC16 >T17 >BC11"
-    },
-    {
-        "id": "RF2204390",
-        "date": "2022-05-05",
-        "time": "1:10:24 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLINTON ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM11X1 >E18 ?TAC16 >T17 *>BC11"
     },
     {
         "id": "DF2200767",
@@ -41,6 +63,6 @@
         "location": "LAKEVIEW WAY / WOODLAND PL",
         "latitude": 37.4669281750127,
         "longitude": -122.269161936397,
-        "units": "?TAC15 CM11X4 >T9 >E12"
+        "units": ">E12"
     }
 ]
