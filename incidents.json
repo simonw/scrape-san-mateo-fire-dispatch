@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2203359",
+        "date": "2022-05-06",
+        "time": "9:49:40 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TATE ST #C113 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "NF2204507",
+        "date": "2022-05-06",
+        "time": "9:43:04 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ARCADIA DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "SF2205076",
         "date": "2022-05-06",
         "time": "9:28:37 AM",
@@ -8,7 +30,7 @@
         "location": "CATALPA ST #114 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "RF2204425",
@@ -19,7 +41,7 @@
         "location": "JAMES AVE / EL CAMINO REAL",
         "latitude": 37.4845258801912,
         "longitude": -122.233002506605,
-        "units": ">BC3 E9 CM11X2 T9 ?TAC15"
+        "units": "CM11X2 ?TAC15 >E9"
     },
     {
         "id": "MF2203357",
@@ -30,18 +52,7 @@
         "location": "SAND HILL RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "CF2202749",
-        "date": "2022-05-06",
-        "time": "9:12:48 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #212 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
+        "units": ""
     },
     {
         "id": "MF2203356",
@@ -53,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E3"
-    },
-    {
-        "id": "RF2204424",
-        "date": "2022-05-06",
-        "time": "9:10:20 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ORANGE AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
     }
 ]
