@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2205089",
+        "id": "HF2201003",
         "date": "2022-05-06",
-        "time": "2:42:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:02:43 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "E HILLSDALE BLVD #C302 ,FCY",
+        "location": "ETHELDORE ST ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
+        "units": "?TAC45 E40 E41 E44 ?CM41X2BC10 E72"
+    },
+    {
+        "id": "NF2204516",
+        "date": "2022-05-06",
+        "time": "2:58:31 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "NF2204515",
+        "date": "2022-05-06",
+        "time": "2:45:46 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "1039 VALENCIA WAY ,PCF",
+        "latitude": 37.5947952121965,
+        "longitude": -122.488354044195,
+        "units": ""
     },
     {
         "id": "LF2200389",
@@ -19,28 +41,6 @@
         "location": "1199 EL CAMINO REAL #NB ,CLM",
         "latitude": 37.6771811488496,
         "longitude": -122.458355532256,
-        "units": ">TAC35 >CM31X2 BC19 E86 T85"
-    },
-    {
-        "id": "FF2202482",
-        "date": "2022-05-06",
-        "time": "2:37:35 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "KENWOOD WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "RF2204434",
-        "date": "2022-05-06",
-        "time": "2:37:05 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GUNTER LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": "E14"
+        "units": ">BC19 >CM31X2 >TAC35 >E86"
     }
 ]
