@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2205110",
+        "date": "2022-05-06",
+        "time": "11:45:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "COMMONS LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "FF2202498",
+        "date": "2022-05-06",
+        "time": "11:42:48 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LINDEN AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
+        "id": "LF2200390",
+        "date": "2022-05-06",
+        "time": "11:31:01 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "1300 EL CAMINO REAL ,CLM",
+        "latitude": 37.6743571936648,
+        "longitude": -122.456211015,
+        "units": ">BC19 >E86 TAC36 T85 ?CM31X5"
+    },
+    {
         "id": "SF2205109",
         "date": "2022-05-06",
         "time": "11:22:36 PM",
@@ -8,62 +41,7 @@
         "location": "PARROTT DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "CF2202768",
-        "date": "2022-05-06",
-        "time": "11:17:06 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ANSEL AVE #106 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2203375",
-        "date": "2022-05-06",
-        "time": "11:17:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALTSCHUL AVE ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "SF2205108",
-        "date": "2022-05-06",
-        "time": "11:15:18 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #LOBBY ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "SF2205107",
-        "date": "2022-05-06",
-        "time": "11:06:00 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "SB 101 / NO HOLLY ST",
-        "latitude": 37.5193594727245,
-        "longitude": -122.262360666777,
-        "units": "?TAC15 CM11X5"
-    },
-    {
-        "id": "RF2204448",
-        "date": "2022-05-06",
-        "time": "10:57:56 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": "*>E25"
     },
     {
         "id": "MF2203372",
@@ -74,7 +52,7 @@
         "location": "3379 MIDDLEFIELD RD ,NFO",
         "latitude": 37.4703063528984,
         "longitude": -122.201175473495,
-        "units": ">PR1C >PR2B >E3 >PR1B"
+        "units": ">E3"
     },
     {
         "id": "NF2204526",
@@ -85,6 +63,6 @@
         "location": "216 EDGEWOOD DR ,PCF",
         "latitude": 37.663047254966,
         "longitude": -122.482842370089,
-        "units": ">E94 >BC124 TAC35 >PR20C >T95?CM31X4 >BS86 >E95"
+        "units": ">E94 >BC124 >TAC35 >T95 ?CM31X4>BS86 >E95"
     }
 ]
