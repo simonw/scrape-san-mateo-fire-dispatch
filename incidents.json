@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2203395",
+        "date": "2022-05-07",
+        "time": "3:01:09 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "SF2205127",
+        "date": "2022-05-07",
+        "time": "2:49:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "DF2200781",
         "date": "2022-05-07",
         "time": "2:41:28 PM",
@@ -8,7 +30,7 @@
         "location": "LAKEVIEW WAY ,EML",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": ">E12"
     },
     {
         "id": "WF2200559",
@@ -19,7 +41,7 @@
         "location": "WOODSIDE RD / KINGS MOUNTAIN RD",
         "latitude": 37.4260289048307,
         "longitude": -122.266246261922,
-        "units": ">E7 >SQ407 >BC2 >TAC15 >CM11X2"
+        "units": ">TAC15 >CM11X2 >E7 >BC2 >SQ407"
     },
     {
         "id": "NF2204559",
@@ -41,39 +63,6 @@
         "location": "NB 101 / SO CANDLESTICK PARK",
         "latitude": 37.6927809446673,
         "longitude": -122.391323110023,
-        "units": ">Q62 >BC17 E65 ?CG22A ?TAC35?CM51X3"
-    },
-    {
-        "id": "RF2204469",
-        "date": "2022-05-07",
-        "time": "2:24:16 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2205126",
-        "date": "2022-05-07",
-        "time": "2:21:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N SAN MATEO DR #B304 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2203393",
-        "date": "2022-05-07",
-        "time": "2:15:48 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E O'KEEFE ST #7 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">Q62 ?TAC35 >BOAT62 ?CM51X3"
     }
 ]
