@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2204445",
+        "date": "2022-05-06",
+        "time": "9:42:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROOSEVELT AVE / CLINTON ST",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "FF2202497",
+        "date": "2022-05-06",
+        "time": "9:36:44 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "37 ELKWOOD DR ,SSF",
+        "latitude": 37.6671914977747,
+        "longitude": -122.453492993498,
+        "units": ">E38"
+    },
+    {
         "id": "SF2205104",
         "date": "2022-05-06",
         "time": "9:29:42 PM",
@@ -8,18 +30,7 @@
         "location": "S NORFOLK ST / CARY AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "CF2202766",
-        "date": "2022-05-06",
-        "time": "9:24:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MAHLER RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ""
     },
     {
         "id": "NF2204532",
@@ -30,18 +41,7 @@
         "location": "HILLSIDE BLVD #305 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2202496",
-        "date": "2022-05-06",
-        "time": "9:15:44 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CYPRESS AVE #110 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ""
     },
     {
         "id": "FF2202494",
@@ -63,7 +63,7 @@
         "location": "3379 MIDDLEFIELD RD ,NFO",
         "latitude": 37.4703063528984,
         "longitude": -122.201175473495,
-        "units": ">R77 ?TAC15 CM11X2 >T1 PR2B>E3 PR1C >BC1 PR1B"
+        "units": "?TAC15 CM11X2 >T1 PR2B >E3PR1C >BC1 PR1B"
     },
     {
         "id": "NF2204526",
@@ -74,6 +74,6 @@
         "location": "216 EDGEWOOD DR ,PCF",
         "latitude": 37.663047254966,
         "longitude": -122.482842370089,
-        "units": ">E94 >BC20 >BC124 >E63 TAC35>E71 >E64 >PR20C >CH20B >T95"
+        "units": ">E94 *>BC20 >BC124 TAC35 >E71>E64 >PR20C >CH20B >T95 ?CM31X4"
     }
 ]
