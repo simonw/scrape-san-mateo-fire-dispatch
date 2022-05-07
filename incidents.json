@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2205109",
+        "date": "2022-05-06",
+        "time": "11:22:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PARROTT DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "CF2202768",
+        "date": "2022-05-06",
+        "time": "11:17:06 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ANSEL AVE #106 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "MF2203375",
+        "date": "2022-05-06",
+        "time": "11:17:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALTSCHUL AVE ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "SF2205108",
+        "date": "2022-05-06",
+        "time": "11:15:18 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #LOBBY ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
         "id": "SF2205107",
         "date": "2022-05-06",
         "time": "11:06:00 PM",
@@ -8,18 +52,7 @@
         "location": "SB 101 / NO HOLLY ST",
         "latitude": 37.5193594727245,
         "longitude": -122.262360666777,
-        "units": "?TAC15 ?CM11X5 ?E13 ?BC5 ?E14?T23"
-    },
-    {
-        "id": "SF2205106",
-        "date": "2022-05-06",
-        "time": "10:59:38 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "55 TRITON PARK LN #228 ,FCY",
-        "latitude": 37.5653651479082,
-        "longitude": -122.26910507645,
-        "units": "E28"
+        "units": "?TAC15 CM11X5"
     },
     {
         "id": "RF2204448",
@@ -41,7 +74,7 @@
         "location": "3379 MIDDLEFIELD RD ,NFO",
         "latitude": 37.4703063528984,
         "longitude": -122.201175473495,
-        "units": ">PR1C >PR2B >E3 >PR1 >PR1B"
+        "units": ">PR1C >PR2B >E3 >PR1B"
     },
     {
         "id": "NF2204526",
@@ -52,6 +85,6 @@
         "location": "216 EDGEWOOD DR ,PCF",
         "latitude": 37.663047254966,
         "longitude": -122.482842370089,
-        "units": ">E94 >BC124 TAC35 >E71 >PR20C>T95 ?CM31X4 >BS86 >E95"
+        "units": ">E94 >BC124 TAC35 >PR20C >T95?CM31X4 >BS86 >E95"
     }
 ]
