@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2205123",
+        "date": "2022-05-07",
+        "time": "10:44:00 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #214 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E21"
+    },
+    {
+        "id": "NF2204547",
+        "date": "2022-05-07",
+        "time": "10:35:18 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "860 CAMPUS DR ,DCY",
+        "latitude": 37.6659205501196,
+        "longitude": -122.477130748548,
+        "units": ">E95"
+    },
+    {
         "id": "NF2204545",
         "date": "2022-05-07",
         "time": "10:25:09 AM",
@@ -8,29 +30,7 @@
         "location": "3 SERRAMONTE CTR ,DCY",
         "latitude": 37.6725022722999,
         "longitude": -122.471402942882,
-        "units": "E81"
-    },
-    {
-        "id": "HF2201011",
-        "date": "2022-05-07",
-        "time": "10:24:08 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "498 KELLY AVE #B ,HMB",
-        "latitude": 37.4623874671238,
-        "longitude": -122.435584886538,
-        "units": "E40"
-    },
-    {
-        "id": "CF2202780",
-        "date": "2022-05-07",
-        "time": "10:18:46 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "MYRTLE RD / HOWARD AVE",
-        "latitude": 37.5797136289906,
-        "longitude": -122.342172944964,
-        "units": ">E21"
+        "units": ">E94"
     },
     {
         "id": "CF2202779",
@@ -42,49 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T34"
-    },
-    {
-        "id": "MF2203387",
-        "date": "2022-05-07",
-        "time": "10:15:47 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2202508",
-        "date": "2022-05-07",
-        "time": "10:13:24 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GARDINER AVE #2 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "NF2204544",
-        "date": "2022-05-07",
-        "time": "10:02:32 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IMPERIAL WAY #226 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2202778",
-        "date": "2022-05-07",
-        "time": "10:02:05 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY / LA CRUZ AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
