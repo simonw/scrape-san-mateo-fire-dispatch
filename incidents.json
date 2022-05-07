@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2205130",
+        "id": "FF2202509",
         "date": "2022-05-07",
-        "time": "4:19:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "4:40:49 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "N KINGSTON ST #111 ,SMO",
+        "location": "PALOS VERDES WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E64"
+    },
+    {
+        "id": "MF2203399",
+        "date": "2022-05-07",
+        "time": "4:33:16 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CAMINO A LOS CERROS ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "MF2203398",
+        "date": "2022-05-07",
+        "time": "4:33:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2204561",
+        "date": "2022-05-07",
+        "time": "4:29:48 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Grass fire",
+        "location": "1190 SEVILLE DR ,PCF",
+        "latitude": 37.5914083173472,
+        "longitude": -122.492886097268,
+        "units": ">E72"
     },
     {
         "id": "HF2201014",
@@ -19,40 +52,7 @@
         "location": "SURFERS BEACH RD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E41 >E44 >CM41X1 >BC10"
-    },
-    {
-        "id": "MF2203397",
-        "date": "2022-05-07",
-        "time": "4:14:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "721 NEWBRIDGE ST ,MNP",
-        "latitude": 37.4735605889387,
-        "longitude": -122.156279479642,
-        "units": ">E77"
-    },
-    {
-        "id": "SF2205129",
-        "date": "2022-05-07",
-        "time": "4:11:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S SAN MATEO DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "NF2204560",
-        "date": "2022-05-07",
-        "time": "4:11:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "1580 SOUTHGATE AVE ,DCY",
-        "latitude": 37.6752465338076,
-        "longitude": -122.474188706823,
-        "units": ">E95"
+        "units": ">E41"
     },
     {
         "id": "RF2204472",
@@ -64,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E12"
-    },
-    {
-        "id": "CF2202782",
-        "date": "2022-05-07",
-        "time": "3:19:07 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "SB 101 / SO MILLBRAE AVE",
-        "latitude": 37.5968398858127,
-        "longitude": -122.371807046932,
-        "units": "E37"
     }
 ]
