@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2205116",
+        "date": "2022-05-07",
+        "time": "7:37:08 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BRIDGEPOINTE PKWY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
+    },
+    {
+        "id": "SF2205115",
+        "date": "2022-05-07",
+        "time": "7:33:55 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NIANTIC DR ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
         "id": "NF2204540",
         "date": "2022-05-07",
         "time": "7:23:09 AM",
@@ -8,7 +30,7 @@
         "location": "HICKEY BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "FF2202504",
@@ -19,28 +41,6 @@
         "location": "SB 101 / SO OYSTER POINT BLVD",
         "latitude": 37.6592358176394,
         "longitude": -122.405086070715,
-        "units": ">Q62 >E61 >BC17 >E65 CM31X2?TAC35"
-    },
-    {
-        "id": "CF2202773",
-        "date": "2022-05-07",
-        "time": "6:54:18 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TRAIN TRACK ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "MF2203382",
-        "date": "2022-05-07",
-        "time": "6:42:49 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / NO WILLOW RD",
-        "latitude": 37.4775715102468,
-        "longitude": -122.169821019453,
-        "units": ">T2"
+        "units": ">E65 >BC17 CM31X2 ?TAC35 >Q62>E61"
     }
 ]
