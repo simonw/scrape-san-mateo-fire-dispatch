@@ -1,5 +1,38 @@
 [
     {
+        "id": "LF2200396",
+        "date": "2022-05-07",
+        "time": "9:43:22 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "HILLSIDE BLVD / EVERGREEN DR",
+        "latitude": 37.6709583454131,
+        "longitude": -122.434819708874,
+        "units": "T85 CM31X3 E86 ?TAC35"
+    },
+    {
+        "id": "FF2202514",
+        "date": "2022-05-07",
+        "time": "9:39:09 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "721 AIRPORT BLVD ,SSF",
+        "latitude": 37.6592720463077,
+        "longitude": -122.405902445879,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2204582",
+        "date": "2022-05-07",
+        "time": "9:32:11 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SCHWERIN ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
         "id": "CF2202789",
         "date": "2022-05-07",
         "time": "9:28:43 PM",
@@ -8,7 +41,7 @@
         "location": "HILLCREST BLVD #2 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "BF2201405",
@@ -19,18 +52,7 @@
         "location": "CHESTNUT AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "RF2204480",
-        "date": "2022-05-07",
-        "time": "9:25:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "333 TWIN DOLPHIN DR ,RWS",
-        "latitude": 37.5223127161508,
-        "longitude": -122.257940121578,
-        "units": "E14"
+        "units": ">E51"
     },
     {
         "id": "SF2205135",
@@ -41,7 +63,7 @@
         "location": "1307 PALOS VERDES DR ,SMO",
         "latitude": 37.5311708274223,
         "longitude": -122.326951558659,
-        "units": ">BC5 >E17 CM21X5 >E25 TAC25>T17 *>BC11 >E27"
+        "units": ">BC5 CM21X5 TAC25 *>BC11 >E27"
     },
     {
         "id": "FF2202513",
@@ -50,17 +72,6 @@
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
         "location": "S AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "Q62"
-    },
-    {
-        "id": "MF2203402",
-        "date": "2022-05-07",
-        "time": "9:03:18 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WATKINS AVE ,ATN",
         "latitude": null,
         "longitude": null,
         "units": ""
