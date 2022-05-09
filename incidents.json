@@ -1,14 +1,47 @@
 [
     {
-        "id": "BF2201419",
+        "id": "SF2205194",
         "date": "2022-05-09",
-        "time": "10:32:30 AM",
+        "time": "10:46:55 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SEQUOIA AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E27"
+    },
+    {
+        "id": "WF2200571",
+        "date": "2022-05-09",
+        "time": "10:39:59 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WOODSIDE WAY ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E7"
+    },
+    {
+        "id": "BF2201420",
+        "date": "2022-05-09",
+        "time": "10:39:58 AM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "1100 TRAIN TRACK ,SNB",
-        "latitude": 37.6304814684682,
-        "longitude": -122.411468567058,
-        "units": "T51"
+        "category": "Fire alarm - smoke detector",
+        "location": "1001 NATIONAL AVE ,SNB",
+        "latitude": 37.6326750877595,
+        "longitude": -122.422501913003,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2205193",
+        "date": "2022-05-09",
+        "time": "10:37:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OUTRIGGER LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
     },
     {
         "id": "RF2204534",
@@ -19,18 +52,7 @@
         "location": "GOODWIN AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "CF2202822",
-        "date": "2022-05-09",
-        "time": "10:31:00 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHATEAU DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": "E33"
+        "units": ">E10"
     },
     {
         "id": "HF2201022",
@@ -42,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E40"
-    },
-    {
-        "id": "RF2204532",
-        "date": "2022-05-09",
-        "time": "10:02:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TOYON WAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E12"
     }
 ]
