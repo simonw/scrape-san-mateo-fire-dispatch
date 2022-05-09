@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2204543",
+        "date": "2022-05-09",
+        "time": "1:43:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GORDON ST #203 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "FF2202551",
+        "date": "2022-05-09",
+        "time": "1:36:58 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA VISTA DR #2 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
         "id": "FF2202550",
         "date": "2022-05-09",
         "time": "1:31:46 PM",
@@ -8,18 +30,7 @@
         "location": "HOWARD CT ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E64"
-    },
-    {
-        "id": "RF2204542",
-        "date": "2022-05-09",
-        "time": "1:27:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
+        "units": ">E64"
     },
     {
         "id": "CF2202830",
@@ -33,17 +44,6 @@
         "units": ">E38"
     },
     {
-        "id": "SF2205200",
-        "date": "2022-05-09",
-        "time": "1:18:32 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "1510 FASHION ISLAND BLVD ,SMO",
-        "latitude": 37.5576677439464,
-        "longitude": -122.285491481927,
-        "units": ">E28"
-    },
-    {
         "id": "RF2204538",
         "date": "2022-05-09",
         "time": "1:05:52 PM",
@@ -52,6 +52,6 @@
         "location": "WOODSIDE RD / UNDER 101",
         "latitude": 37.4889950161234,
         "longitude": -122.212788196617,
-        "units": "?TAC15 ?CM11X2 PR3B >BC3 >E9>E11"
+        "units": "?TAC15 ?CM11X2 >PR3B >BC3 >E9"
     }
 ]
