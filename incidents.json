@@ -1,14 +1,47 @@
 [
     {
-        "id": "HF2201025",
+        "id": "FF2202550",
         "date": "2022-05-09",
-        "time": "1:07:35 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "1:31:46 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "BEACH AVE ,HMB",
+        "location": "HOWARD CT ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
+        "units": "?E64"
+    },
+    {
+        "id": "RF2204542",
+        "date": "2022-05-09",
+        "time": "1:27:09 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "CF2202830",
+        "date": "2022-05-09",
+        "time": "1:20:00 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FRONTERA WAY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "SF2205200",
+        "date": "2022-05-09",
+        "time": "1:18:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1510 FASHION ISLAND BLVD ,SMO",
+        "latitude": 37.5576677439464,
+        "longitude": -122.285491481927,
+        "units": ">E28"
     },
     {
         "id": "RF2204538",
@@ -19,28 +52,6 @@
         "location": "WOODSIDE RD / UNDER 101",
         "latitude": 37.4889950161234,
         "longitude": -122.212788196617,
-        "units": "?TAC15 ?CM11X2 ?BC3 ?E10 ?E11?T9 ?E9"
-    },
-    {
-        "id": "RF2204537",
-        "date": "2022-05-09",
-        "time": "1:02:15 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EATON AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "SF2205199",
-        "date": "2022-05-09",
-        "time": "12:57:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLSDALE MALL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E23 CM21X1 >E26"
+        "units": "?TAC15 ?CM11X2 PR3B >BC3 >E9>E11"
     }
 ]
