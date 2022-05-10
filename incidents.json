@@ -1,14 +1,58 @@
 [
     {
-        "id": "HF2201033",
+        "id": "RF2204579",
         "date": "2022-05-10",
-        "time": "2:37:52 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Vehicle fire",
-        "location": "N CABRILLO HWY / CAPISTRANO RD",
-        "latitude": 37.5099209402917,
-        "longitude": -122.488121129645,
-        "units": ">E44 CM41X1 E41"
+        "time": "3:04:36 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "SF2205232",
+        "date": "2022-05-10",
+        "time": "2:56:25 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DEL MONTE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
+        "id": "MF2203473",
+        "date": "2022-05-10",
+        "time": "2:55:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "540 MIDDLEFIELD RD ,ATN",
+        "latitude": 37.4610456843281,
+        "longitude": -122.177759235528,
+        "units": ">E1"
+    },
+    {
+        "id": "CF2202855",
+        "date": "2022-05-10",
+        "time": "2:50:19 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAROLAN AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "MF2203472",
+        "date": "2022-05-10",
+        "time": "2:45:57 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EMMETT WAY ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "SF2205231",
@@ -30,7 +74,7 @@
         "location": "SOUTH BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E25"
+        "units": ""
     },
     {
         "id": "NF2204681",
@@ -48,22 +92,11 @@
         "date": "2022-05-10",
         "time": "2:29:51 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Hazardous material - investiga",
+        "category": "Hazardous material - consult",
         "location": "111 MITCHELL AVE #224 ,SSF",
         "latitude": 37.6494169604691,
         "longitude": -122.40431296998,
-        "units": ">E61 >MED17 TAC35 CM31X1 BC17"
-    },
-    {
-        "id": "NF2204680",
-        "date": "2022-05-10",
-        "time": "2:29:24 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #217B ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": "CM31X1 >BC17 >MED17 TAC35 ?HM14>E61"
     },
     {
         "id": "FF2202578",
@@ -74,51 +107,7 @@
         "location": "WESTBOROUGH BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "NF2204679",
-        "date": "2022-05-10",
-        "time": "2:25:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BRUNSWICK ST #436 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "BF2201434",
-        "date": "2022-05-10",
-        "time": "2:23:36 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN MATEO AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2205229",
-        "date": "2022-05-10",
-        "time": "2:21:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "FF2202577",
-        "date": "2022-05-10",
-        "time": "2:09:09 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "Q62"
+        "units": "E64"
     },
     {
         "id": "CF2202850",
@@ -129,6 +118,6 @@
         "location": "EL CAMINO REAL / CHAPIN AVE",
         "latitude": 37.5767486417152,
         "longitude": -122.351332135388,
-        "units": ">E32 CM21X2 ?TAC25 >E34 >BC8"
+        "units": "CM21X2 ?TAC25 >E34"
     }
 ]
