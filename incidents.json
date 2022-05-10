@@ -1,5 +1,38 @@
 [
     {
+        "id": "DF2200797",
+        "date": "2022-05-10",
+        "time": "3:22:56 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROXBURY LN ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E17"
+    },
+    {
+        "id": "MF2203474",
+        "date": "2022-05-10",
+        "time": "3:06:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #2 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2205233",
+        "date": "2022-05-10",
+        "time": "3:06:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "60 W HILLSDALE BLVD ,SMO",
+        "latitude": 37.5361183870952,
+        "longitude": -122.298980070961,
+        "units": ">E26"
+    },
+    {
         "id": "RF2204579",
         "date": "2022-05-10",
         "time": "3:04:36 PM",
@@ -8,18 +41,7 @@
         "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
-    },
-    {
-        "id": "SF2205232",
-        "date": "2022-05-10",
-        "time": "2:56:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DEL MONTE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
+        "units": ">E9"
     },
     {
         "id": "MF2203473",
@@ -33,61 +55,6 @@
         "units": ">E1"
     },
     {
-        "id": "CF2202855",
-        "date": "2022-05-10",
-        "time": "2:50:19 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CAROLAN AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "MF2203472",
-        "date": "2022-05-10",
-        "time": "2:45:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EMMETT WAY ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2205231",
-        "date": "2022-05-10",
-        "time": "2:35:44 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BOUNTY DR #609 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "SF2205230",
-        "date": "2022-05-10",
-        "time": "2:30:53 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SOUTH BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2204681",
-        "date": "2022-05-10",
-        "time": "2:29:54 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WILLITS ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
         "id": "FF2202579",
         "date": "2022-05-10",
         "time": "2:29:51 PM",
@@ -96,7 +63,7 @@
         "location": "111 MITCHELL AVE #224 ,SSF",
         "latitude": 37.6494169604691,
         "longitude": -122.40431296998,
-        "units": "CM31X1 >BC17 >MED17 TAC35 ?HM14>E61"
+        "units": "CM31X1 >BC17 >MED17 TAC35 >E61"
     },
     {
         "id": "FF2202578",
@@ -108,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E64"
-    },
-    {
-        "id": "CF2202850",
-        "date": "2022-05-10",
-        "time": "12:59:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Gas main break",
-        "location": "EL CAMINO REAL / CHAPIN AVE",
-        "latitude": 37.5767486417152,
-        "longitude": -122.351332135388,
-        "units": "CM21X2 ?TAC25 >E34"
     }
 ]
