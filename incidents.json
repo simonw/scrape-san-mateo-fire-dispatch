@@ -1,46 +1,79 @@
 [
     {
-        "id": "FF2202613",
+        "id": "FF2202615",
         "date": "2022-05-12",
-        "time": "4:44:10 PM",
+        "time": "5:21:43 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Lock out - vehicle",
+        "location": "1200 EL CAMINO REAL ,SSF",
+        "latitude": 37.6583337906124,
+        "longitude": -122.438126296721,
+        "units": "E63"
+    },
+    {
+        "id": "FF2202614",
+        "date": "2022-05-12",
+        "time": "5:14:37 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "LN ,SSF",
+        "location": "CORTESI AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E61"
+        "units": ">E61"
     },
     {
-        "id": "SF2205306",
+        "id": "SF2205308",
         "date": "2022-05-12",
-        "time": "4:39:44 PM",
+        "time": "5:11:40 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "NANTUCKET ST ,FCY",
+        "location": "F ST ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E13"
     },
     {
-        "id": "SF2205305",
+        "id": "RF2204655",
         "date": "2022-05-12",
-        "time": "4:30:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDISON ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2204652",
-        "date": "2022-05-12",
-        "time": "4:27:20 PM",
+        "time": "5:10:55 PM",
         "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "620 VETERANS BLVD ,RCY",
+        "latitude": 37.4924155678734,
+        "longitude": -122.23296525127,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2204749",
+        "date": "2022-05-12",
+        "time": "5:07:05 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BUCKEYE ST #5 ,RCY",
+        "location": "LAUSANNE AVE #2 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": ">E92"
+    },
+    {
+        "id": "SF2205307",
+        "date": "2022-05-12",
+        "time": "4:58:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOWFIN ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "NF2204748",
+        "date": "2022-05-12",
+        "time": "4:45:48 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SANTA ELENA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
     }
 ]
