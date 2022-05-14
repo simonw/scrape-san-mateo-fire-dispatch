@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2204713",
+        "date": "2022-05-14",
+        "time": "1:28:08 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E9"
+    },
+    {
+        "id": "NF2204827",
+        "date": "2022-05-14",
+        "time": "1:26:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LOS OLIVOS AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "CF2202933",
+        "date": "2022-05-14",
+        "time": "1:19:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1075 MILLBRAE AVE ,MLB",
+        "latitude": 37.5934290294012,
+        "longitude": -122.397122694607,
+        "units": ">E37"
+    },
+    {
+        "id": "SF2205376",
+        "date": "2022-05-14",
+        "time": "1:10:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "11 W HILLSDALE BLVD ,SMO",
+        "latitude": 37.5361469885684,
+        "longitude": -122.29729050721,
+        "units": ">E23"
+    },
+    {
+        "id": "SF2205375",
+        "date": "2022-05-14",
+        "time": "1:09:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HAVENRIDGE CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
         "id": "CF2202932",
         "date": "2022-05-14",
         "time": "1:03:49 PM",
@@ -8,29 +63,7 @@
         "location": "2005 PARKSIDE AVE ,HIL",
         "latitude": 37.5692543438945,
         "longitude": -122.35450719805,
-        "units": "?E24"
-    },
-    {
-        "id": "RF2204712",
-        "date": "2022-05-14",
-        "time": "1:01:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ARLINGTON RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "T9"
-    },
-    {
-        "id": "SF2205374",
-        "date": "2022-05-14",
-        "time": "12:50:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO 92",
-        "latitude": 37.5488862457401,
-        "longitude": -122.2917809826,
-        "units": ">CM21X1 >TAC26"
+        "units": ">E24"
     },
     {
         "id": "SF2205372",
@@ -41,29 +74,7 @@
         "location": "S DELAWARE ST / CONCAR DR",
         "latitude": 37.5543257658805,
         "longitude": -122.30609961331,
-        "units": ">CM21X5 >TAC25 >E26"
-    },
-    {
-        "id": "SF2205371",
-        "date": "2022-05-14",
-        "time": "12:41:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "SF2205370",
-        "date": "2022-05-14",
-        "time": "12:35:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #217B ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E26"
     },
     {
         "id": "BF2201465",
@@ -74,6 +85,6 @@
         "location": "2800 VALLEYWOOD DR ,SNB",
         "latitude": 37.6310289071761,
         "longitude": -122.4489273665,
-        "units": ">BC16 >T51 ?TAC36 CM31X4"
+        "units": "*>BC16 >T51 ?TAC36 CM31X4"
     }
 ]
