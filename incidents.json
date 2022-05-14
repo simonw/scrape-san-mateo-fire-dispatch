@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2205369",
+        "date": "2022-05-14",
+        "time": "12:02:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DIX ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
+    },
+    {
+        "id": "CF2202930",
+        "date": "2022-05-14",
+        "time": "11:59:26 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ADELINE DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E35"
+    },
+    {
+        "id": "NF2204825",
+        "date": "2022-05-14",
+        "time": "11:58:01 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARK PACIFICA AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "NF2204824",
         "date": "2022-05-14",
         "time": "11:42:38 AM",
@@ -8,7 +41,7 @@
         "location": "DENNIS DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "SF2205368",
@@ -22,17 +55,6 @@
         "units": ">E21"
     },
     {
-        "id": "NF2204823",
-        "date": "2022-05-14",
-        "time": "11:36:41 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "GELLERT BLVD / PLYMOUTH CIR",
-        "latitude": 37.6510982009682,
-        "longitude": -122.456556462554,
-        "units": ">E64"
-    },
-    {
         "id": "CF2202929",
         "date": "2022-05-14",
         "time": "11:33:49 AM",
@@ -44,39 +66,6 @@
         "units": ">E37"
     },
     {
-        "id": "MF2203584",
-        "date": "2022-05-14",
-        "time": "11:31:08 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BURGESS DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "RF2204710",
-        "date": "2022-05-14",
-        "time": "11:22:35 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PERRY ST #112 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
-    },
-    {
-        "id": "RF2204709",
-        "date": "2022-05-14",
-        "time": "11:11:11 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WHIPPLE AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
         "id": "BF2201465",
         "date": "2022-05-14",
         "time": "9:17:41 AM",
@@ -85,6 +74,6 @@
         "location": "2800 VALLEYWOOD DR ,SNB",
         "latitude": 37.6310289071761,
         "longitude": -122.4489273665,
-        "units": ">E52 >BC16 >T51 ?TAC36 CM31X4"
+        "units": ">BC16 >T51 ?TAC36 CM31X4"
     }
 ]
