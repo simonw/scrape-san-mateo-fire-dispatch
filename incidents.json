@@ -1,36 +1,91 @@
 [
     {
-        "id": "FF2202699",
+        "id": "CF2202983",
         "date": "2022-05-16",
-        "time": "1:05:11 PM",
+        "time": "1:26:03 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "SF2205447",
+        "date": "2022-05-16",
+        "time": "1:25:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EDISON ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "FF2202700",
+        "date": "2022-05-16",
+        "time": "1:23:57 PM",
         "summary": "South San Francisco on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "200 LINDEN AVE ,SSF",
+        "latitude": 37.6543916091127,
+        "longitude": -122.410082420916,
+        "units": ">E65"
+    },
+    {
+        "id": "CF2202982",
+        "date": "2022-05-16",
+        "time": "1:22:54 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "PARK WAY ,SSF",
+        "location": "MAHLER RD ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E63"
+        "units": ">T34"
     },
     {
-        "id": "DF2200829",
+        "id": "NF2204911",
         "date": "2022-05-16",
-        "time": "12:52:04 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "CABRILLO HWY / SO TUNNEL",
-        "latitude": 37.5629500165583,
-        "longitude": -122.513137177766,
-        "units": ">E72 >BC10 >E44 CM41X4 ?TAC45"
-    },
-    {
-        "id": "NF2204909",
-        "date": "2022-05-16",
-        "time": "12:45:30 PM",
+        "time": "1:19:02 PM",
         "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "689 LADERA WAY ,PCF",
+        "latitude": 37.596590952004,
+        "longitude": -122.495538202281,
+        "units": ">E72"
+    },
+    {
+        "id": "MF2203642",
+        "date": "2022-05-16",
+        "time": "1:18:38 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WB 84 / WILLOW RD",
+        "latitude": 37.4819266276664,
+        "longitude": -122.150298804463,
+        "units": "CM11X1 ?TAC15 >E77 T2"
+    },
+    {
+        "id": "RF2204773",
+        "date": "2022-05-16",
+        "time": "1:12:55 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "FLEETWOOD DR ,DCY",
+        "location": "HOOVER ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ">E11"
+    },
+    {
+        "id": "RF2204772",
+        "date": "2022-05-16",
+        "time": "1:09:10 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "INDUSTRIAL RD / BRITTAN AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
     },
     {
         "id": "FF2202696",
@@ -41,6 +96,6 @@
         "location": "250 E GRAND AVE #65 ,SSF",
         "latitude": 37.6528218268932,
         "longitude": -122.39691317698,
-        "units": ">E65 >BC17 ?TAC35 >Q62 >E61>T51 CM31X4"
+        "units": ""
     }
 ]
