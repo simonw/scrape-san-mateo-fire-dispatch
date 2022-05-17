@@ -1,5 +1,115 @@
 [
     {
+        "id": "SF2205499",
+        "date": "2022-05-17",
+        "time": "3:23:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "120 SEM LN ,BLM",
+        "latitude": 37.5249242961001,
+        "longitude": -122.266962106106,
+        "units": "BC5 E26 CM11X2 ?TAC17 ?T9"
+    },
+    {
+        "id": "NF2204955",
+        "date": "2022-05-17",
+        "time": "3:23:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "KING DR / BRIGHTON CT",
+        "latitude": 37.6499651149038,
+        "longitude": -122.460762364222,
+        "units": "E64 BC121 T95 ?TAC35 ?CM31X2"
+    },
+    {
+        "id": "SF2205498",
+        "date": "2022-05-17",
+        "time": "3:18:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "SF2205497",
+        "date": "2022-05-17",
+        "time": "3:15:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOUNTY DR #1801 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "RF2204828",
+        "date": "2022-05-17",
+        "time": "3:15:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HARRISON AVE #5 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2204827",
+        "date": "2022-05-17",
+        "time": "3:14:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "ALAMEDA DE LAS PULGAS / BRITTAN AVE",
+        "latitude": 37.4911457053255,
+        "longitude": -122.265475581688,
+        "units": "CM11X3 ?TAC16"
+    },
+    {
+        "id": "RF2204826",
+        "date": "2022-05-17",
+        "time": "3:12:11 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CORK HARBOUR CIR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "RF2204825",
+        "date": "2022-05-17",
+        "time": "3:10:09 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GORDON ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "RF2204823",
+        "date": "2022-05-17",
+        "time": "3:09:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Structure fire - working",
+        "location": "935 5TH AVE ,RCY",
+        "latitude": 37.4823711603294,
+        "longitude": -122.198489783012,
+        "units": "?TAC15 >T1 >PR3E >E3 >E13>BC3 >E77 PR1D CM11X5 >BC1"
+    },
+    {
+        "id": "MF2203678",
+        "date": "2022-05-17",
+        "time": "3:07:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWBRIDGE ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
         "id": "RF2204822",
         "date": "2022-05-17",
         "time": "3:03:54 PM",
@@ -8,61 +118,6 @@
         "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
-    },
-    {
-        "id": "BF2201498",
-        "date": "2022-05-17",
-        "time": "2:52:53 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #277 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "FF2202728",
-        "date": "2022-05-17",
-        "time": "2:44:54 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "VETERANS BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "NF2204954",
-        "date": "2022-05-17",
-        "time": "2:42:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>BC20"
-    },
-    {
-        "id": "RF2204821",
-        "date": "2022-05-17",
-        "time": "2:23:32 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "BAY RD / 5TH AVE",
-        "latitude": 37.4816223562494,
-        "longitude": -122.198603710211,
-        "units": "E11"
-    },
-    {
-        "id": "FF2202725",
-        "date": "2022-05-17",
-        "time": "2:08:37 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CAMARITAS CIR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ""
     }
 ]
