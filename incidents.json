@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2203656",
+        "date": "2022-05-16",
+        "time": "10:02:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UNIVERSITY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2202994",
+        "date": "2022-05-16",
+        "time": "10:02:04 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NEUCHATEL AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2205464",
+        "date": "2022-05-16",
+        "time": "10:00:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NOE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "BF2201491",
         "date": "2022-05-16",
         "time": "9:49:37 PM",
@@ -8,7 +41,7 @@
         "location": "701 SHELTER CREEK LN ,SNB",
         "latitude": 37.6196118935287,
         "longitude": -122.427952492168,
-        "units": "E52 BC16 CM31X1 E51 T51?TAC35 ?Q62"
+        "units": ">E52 >T51 >E51 >BC16 CM31X1?TAC35"
     },
     {
         "id": "SF2205463",
@@ -19,7 +52,7 @@
         "location": "1500 MARINA VISTA ,SMO",
         "latitude": 37.5545783378125,
         "longitude": -122.285614106698,
-        "units": "E29 E24 BC5 E26 T23?TAC25 ?CM21X2"
+        "units": ">T23 >E29 >E26 ?TAC25 ?CM21X2"
     },
     {
         "id": "HF2201074",
@@ -31,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E44"
-    },
-    {
-        "id": "SF2205462",
-        "date": "2022-05-16",
-        "time": "9:37:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHESS DR #316 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
     }
 ]
