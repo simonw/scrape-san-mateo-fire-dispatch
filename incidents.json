@@ -1,25 +1,36 @@
 [
     {
-        "id": "SF2205505",
+        "id": "RF2204832",
         "date": "2022-05-17",
-        "time": "4:21:32 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "4:42:35 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "N HUMBOLDT ST #A ,SMO",
+        "location": "WOODSIDE RD #4110 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": "E12"
     },
     {
-        "id": "FF2202730",
+        "id": "MF2203680",
         "date": "2022-05-17",
-        "time": "4:17:02 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "time": "4:39:13 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "UNIVERSITY AVE / DONOHOE ST",
+        "latitude": 37.4627249091171,
+        "longitude": -122.14175519534,
+        "units": ">BC101 >T2 >E2 CM11X4 ?TAC17"
+    },
+    {
+        "id": "RF2204831",
+        "date": "2022-05-17",
+        "time": "4:32:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "1531 MAIN ST ,RCY",
+        "latitude": 37.479062612289,
+        "longitude": -122.223086607325,
+        "units": ">T9 >E9"
     },
     {
         "id": "HF2201078",
@@ -30,18 +41,7 @@
         "location": "501 SAN MATEO RD ,HMB",
         "latitude": 37.4706530994798,
         "longitude": -122.421382423093,
-        "units": ">PR11 >E41 >BC10 >E40 CM41X1?TAC45"
-    },
-    {
-        "id": "SF2205504",
-        "date": "2022-05-17",
-        "time": "4:14:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
+        "units": "?TAC45 >E40 *>E41 CM41X1 >PR11>BC10"
     },
     {
         "id": "MF2203679",
@@ -52,7 +52,7 @@
         "location": "CONSTITUTION DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E5"
+        "units": ""
     },
     {
         "id": "NF2204958",
@@ -85,18 +85,7 @@
         "location": "NB 101 / SO BROADWAY",
         "latitude": 37.587789108553,
         "longitude": -122.356007840522,
-        "units": "CM21X5 ?TAC25 >BC8 >E24 >T21"
-    },
-    {
-        "id": "CF2203010",
-        "date": "2022-05-17",
-        "time": "3:59:34 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BURLINGAME AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "units": ">E24"
     },
     {
         "id": "RF2204823",
@@ -107,6 +96,6 @@
         "location": "935 5TH AVE ,RCY",
         "latitude": 37.4823711603294,
         "longitude": -122.198489783012,
-        "units": "?TAC15 >T1 >PR3E >PR3B >E3>E13 >BC3 CM11X5 >E10 >E1"
+        "units": "?TAC15 >T1 >PR3E >PR3B >E13>BC3 CM11X5 >E10 >E1"
     }
 ]
