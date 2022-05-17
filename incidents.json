@@ -1,5 +1,82 @@
 [
     {
+        "id": "NF2204958",
+        "date": "2022-05-17",
+        "time": "4:04:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ARGUELLO BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E72"
+    },
+    {
+        "id": "SF2205503",
+        "date": "2022-05-17",
+        "time": "4:04:25 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #218 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "CF2203011",
+        "date": "2022-05-17",
+        "time": "4:02:10 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO BROADWAY",
+        "latitude": 37.587789108553,
+        "longitude": -122.356007840522,
+        "units": "T21 BC8 E37 E24 CM21X5?TAC25"
+    },
+    {
+        "id": "DF2200834",
+        "date": "2022-05-17",
+        "time": "4:00:32 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLIFFORD AVE ,PAL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "CF2203010",
+        "date": "2022-05-17",
+        "time": "3:59:34 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BURLINGAME AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "RF2204829",
+        "date": "2022-05-17",
+        "time": "3:56:13 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2205502",
+        "date": "2022-05-17",
+        "time": "3:49:23 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #22 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
         "id": "CF2203009",
         "date": "2022-05-17",
         "time": "3:44:29 PM",
@@ -8,18 +85,7 @@
         "location": "EL CAMINO REAL #12 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E34"
-    },
-    {
-        "id": "FF2202729",
-        "date": "2022-05-17",
-        "time": "3:40:15 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ELKWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
+        "units": ">E34"
     },
     {
         "id": "SF2205501",
@@ -30,73 +96,7 @@
         "location": "DOMINICA LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
-    },
-    {
-        "id": "SF2205500",
-        "date": "2022-05-17",
-        "time": "3:35:01 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORES ST #5 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "CF2203008",
-        "date": "2022-05-17",
-        "time": "3:32:29 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HOWARD AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "NF2204956",
-        "date": "2022-05-17",
-        "time": "3:29:29 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALISADES DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2204828",
-        "date": "2022-05-17",
-        "time": "3:15:14 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HARRISON AVE #5 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "RF2204826",
-        "date": "2022-05-17",
-        "time": "3:12:11 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CORK HARBOUR CIR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "RF2204825",
-        "date": "2022-05-17",
-        "time": "3:10:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GORDON ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": ">E28"
     },
     {
         "id": "RF2204823",
@@ -107,6 +107,6 @@
         "location": "935 5TH AVE ,RCY",
         "latitude": 37.4823711603294,
         "longitude": -122.198489783012,
-        "units": "?TAC15 >T1 >PR3E >PR3B >E3>E13 >BC3 >E77 CM11X5 >BC1"
+        "units": "?TAC15 >T1 >PR3E >PR3B >E3>E13 >BC3 CM11X5 >E10 >E1"
     }
 ]
