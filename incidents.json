@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2203715",
+        "date": "2022-05-18",
+        "time": "3:21:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UNIVERSITY AVE / BELL ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2205550",
+        "date": "2022-05-18",
+        "time": "3:11:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "2025 KEHOE AVE ,SMO",
+        "latitude": 37.566819034305,
+        "longitude": -122.294786751737,
+        "units": ">E28"
+    },
+    {
+        "id": "MF2203714",
+        "date": "2022-05-18",
+        "time": "3:09:45 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "477 WAVERLEY ST ,MNP",
+        "latitude": 37.4508795531344,
+        "longitude": -122.174288416005,
+        "units": ">E4"
+    },
+    {
+        "id": "BF2201509",
+        "date": "2022-05-18",
+        "time": "3:09:15 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEECH AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "MF2203713",
+        "date": "2022-05-18",
+        "time": "3:05:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "330 WILLOW RD ,MNP",
+        "latitude": 37.4591233216638,
+        "longitude": -122.161310309723,
+        "units": ">T1"
+    },
+    {
         "id": "CF2203033",
         "date": "2022-05-18",
         "time": "3:04:33 PM",
@@ -8,7 +63,7 @@
         "location": "945 LINK RD ,HIL",
         "latitude": 37.5531479775731,
         "longitude": -122.349510422187,
-        "units": "?E32"
+        "units": ">E32"
     },
     {
         "id": "SF2205549",
@@ -19,28 +74,6 @@
         "location": "LODI AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26 CM21X1 BC5"
-    },
-    {
-        "id": "SF2205548",
-        "date": "2022-05-18",
-        "time": "2:52:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "811 CRESCENT AVE ,SMO",
-        "latitude": 37.5712395795201,
-        "longitude": -122.346356670597,
-        "units": ">E25"
-    },
-    {
-        "id": "SF2205546",
-        "date": "2022-05-18",
-        "time": "2:16:37 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HIGHLAND AVE #4 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
+        "units": ">BC5 CM21X1 >E26 >E24"
     }
 ]
