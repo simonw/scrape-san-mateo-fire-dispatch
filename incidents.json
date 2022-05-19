@@ -1,58 +1,80 @@
 [
     {
-        "id": "NF2205010",
+        "id": "LF2200431",
         "date": "2022-05-18",
-        "time": "8:00:40 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:39:05 PM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "MILAGRA DR ,PCF",
+        "location": "PLUMERIA CT ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": "E86"
     },
     {
-        "id": "NF2205009",
+        "id": "MF2203726",
         "date": "2022-05-18",
-        "time": "7:58:10 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:38:09 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD ,DCY",
+        "location": "E O'KEEFE ST #12 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": "E1"
     },
     {
-        "id": "NF2205008",
+        "id": "FF2202755",
         "date": "2022-05-18",
-        "time": "7:55:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "CLARENDON RD / FRANCES AVE",
-        "latitude": 37.6298345054057,
-        "longitude": -122.487646141078,
-        "units": "?E72"
-    },
-    {
-        "id": "SF2205560",
-        "date": "2022-05-18",
-        "time": "7:54:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:37:43 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "GULL AVE ,FCY",
+        "location": "MILLER AVE / EUCALYPTUS AVE",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
+        "units": ">E63"
     },
     {
-        "id": "HF2201093",
+        "id": "DF2200837",
         "date": "2022-05-18",
-        "time": "7:47:15 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "8:31:04 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "CRYSTAL SPRINGS RD / SKYLINE BLVD",
+        "latitude": 37.5310016302935,
+        "longitude": -122.363958338633,
+        "units": ">E17"
+    },
+    {
+        "id": "MF2203725",
+        "date": "2022-05-18",
+        "time": "8:24:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ST ,MON",
+        "location": "MADERA AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
+        "units": ">E77"
+    },
+    {
+        "id": "CF2203048",
+        "date": "2022-05-18",
+        "time": "8:21:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TARTAN TRAIL RD ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
+        "id": "RF2204881",
+        "date": "2022-05-18",
+        "time": "8:18:22 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "ROCKRIDGE RD / ALAMEDA DE LAS PULGAS",
+        "latitude": 37.4937428021808,
+        "longitude": -122.266671310798,
+        "units": ">E16 >CM11X2 ?TAC15"
     },
     {
         "id": "DF2200836",
@@ -63,6 +85,6 @@
         "location": "LA HONDA RD ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR22 >E58 >R57"
+        "units": "?VFIR22"
     }
 ]
