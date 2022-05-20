@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2204949",
+        "date": "2022-05-20",
+        "time": "1:57:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "SF2205634",
+        "date": "2022-05-20",
+        "time": "1:52:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N B ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "SF2205633",
         "date": "2022-05-20",
         "time": "1:44:49 PM",
@@ -8,18 +30,18 @@
         "location": "CLARK DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E32"
+        "units": ">E34"
     },
     {
         "id": "MF2203780",
         "date": "2022-05-20",
         "time": "1:31:21 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Grass fire",
+        "category": "Structure fire",
         "location": "211 DAPHNE WAY ,EPA",
         "latitude": 37.4540309468883,
         "longitude": -122.125976009419,
-        "units": ">R77 ?VFIR22 CM11X1 >E2 >E77>BC101 >E1"
+        "units": "PR1E >R77 ?VFIR22 CM11X1 >E2>E77 >BC1 >BC101 >E5 >T2"
     },
     {
         "id": "CF2203083",
@@ -31,16 +53,5 @@
         "latitude": 37.584774217831,
         "longitude": -122.404033670577,
         "units": ">E38"
-    },
-    {
-        "id": "SF2205632",
-        "date": "2022-05-20",
-        "time": "1:19:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SOUTH RD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
     }
 ]
