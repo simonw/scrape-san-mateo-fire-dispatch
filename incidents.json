@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2204983",
+        "id": "FF2202796",
         "date": "2022-05-21",
-        "time": "5:02:16 AM",
+        "time": "5:30:23 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "W ORANGE AVE / EL CAMINO REAL",
+        "latitude": 37.6502963997741,
+        "longitude": -122.430589095692,
+        "units": "E63"
+    },
+    {
+        "id": "RF2204984",
+        "date": "2022-05-21",
+        "time": "5:21:39 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "143 SOMERSET ST ,RCY",
-        "latitude": 37.4873736077214,
-        "longitude": -122.247515916032,
-        "units": "E16"
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
     },
     {
         "id": "RF2204982",
@@ -16,31 +27,9 @@
         "time": "5:00:09 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Public assist, water problem",
-        "location": "MAIN ST / MARSHALL ST",
+        "location": "1900 BROADWAY ,RCY",
         "latitude": 37.4876777744552,
         "longitude": -122.226395070495,
         "units": ">E9"
-    },
-    {
-        "id": "RF2204981",
-        "date": "2022-05-21",
-        "time": "4:57:05 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "850 WOODSIDE RD ,RCY",
-        "latitude": 37.4655871364034,
-        "longitude": -122.225084244905,
-        "units": "?TAC15 T9 >BC3 ?CM11X5 >E10"
-    },
-    {
-        "id": "NF2205091",
-        "date": "2022-05-21",
-        "time": "4:40:52 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "898 JOHN DALY BLVD ,DCY",
-        "latitude": 37.7017972609787,
-        "longitude": -122.484747090492,
-        "units": ">BC20 >E91"
     }
 ]
