@@ -1,36 +1,80 @@
 [
     {
+        "id": "SF2205656",
+        "date": "2022-05-20",
+        "time": "8:46:34 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "841 HADDOCK ST ,FCY",
+        "latitude": 37.5545858405842,
+        "longitude": -122.25023459276,
+        "units": "E28"
+    },
+    {
+        "id": "SF2205655",
+        "date": "2022-05-20",
+        "time": "8:46:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "40 26TH PL ,SMO",
+        "latitude": 37.5435985963764,
+        "longitude": -122.305587743211,
+        "units": "E23"
+    },
+    {
+        "id": "RF2204965",
+        "date": "2022-05-20",
+        "time": "8:44:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "231 OAKVIEW DR ,SNC",
+        "latitude": 37.4902161923487,
+        "longitude": -122.259872314759,
+        "units": "E16"
+    },
+    {
+        "id": "WF2200629",
+        "date": "2022-05-20",
+        "time": "8:40:17 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "620 MOUNTAIN HOME RD ,WDS",
+        "latitude": 37.4159328349568,
+        "longitude": -122.251842517106,
+        "units": ">E7"
+    },
+    {
+        "id": "NF2205081",
+        "date": "2022-05-20",
+        "time": "8:39:13 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "E VISTA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "BF2201532",
+        "date": "2022-05-20",
+        "time": "8:34:38 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Gas main break",
+        "location": "210 SAN ANTONIO AVE ,SNB",
+        "latitude": 37.6183422326927,
+        "longitude": -122.404716251681,
+        "units": ">E51"
+    },
+    {
         "id": "FF2202791",
         "date": "2022-05-20",
         "time": "8:28:35 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Landscape fire",
+        "category": "Full assignment response",
         "location": "39 S LINDEN AVE ,SSF",
         "latitude": 37.6495104223472,
         "longitude": -122.411594697487,
-        "units": ">E61"
-    },
-    {
-        "id": "SF2205654",
-        "date": "2022-05-20",
-        "time": "8:23:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "120 42ND AVE ,SMO",
-        "latitude": 37.529087279526,
-        "longitude": -122.293160598467,
-        "units": "E23"
-    },
-    {
-        "id": "RF2204964",
-        "date": "2022-05-20",
-        "time": "8:22:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CARMELITA DR ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": "PR17B ?SOFINV >E63 >E65 >Q62>BC17 CM31X2 ?TAC35 >E61"
     },
     {
         "id": "MF2203788",
@@ -41,17 +85,6 @@
         "location": "600 MENLO AVE ,MNP",
         "latitude": 37.4527958946832,
         "longitude": -122.18204259459,
-        "units": ">E4 >E3 E5 BC2 >T1>E1 >BC1 >E6 ?TAC15 ?CM11X2"
-    },
-    {
-        "id": "BF2201531",
-        "date": "2022-05-20",
-        "time": "8:14:44 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "INYO CT ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "units": "?TAC15 ?CM11X2 >E6 >BC1 >E1"
     }
 ]
