@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2205008",
+        "date": "2022-05-21",
+        "time": "10:04:23 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "SF2205673",
+        "date": "2022-05-21",
+        "time": "10:02:58 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1141 TRITON DR ,FCY",
+        "latitude": 37.5639216459737,
+        "longitude": -122.271020474962,
+        "units": "E25"
+    },
+    {
+        "id": "CF2203099",
+        "date": "2022-05-21",
+        "time": "9:59:55 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "933 W SANTA INEZ AVE ,HIL",
+        "latitude": 37.5584816815044,
+        "longitude": -122.350439930034,
+        "units": ">E32"
+    },
+    {
+        "id": "SF2205672",
+        "date": "2022-05-21",
+        "time": "9:52:00 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PENINSULA AVE #407 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "NF2205098",
         "date": "2022-05-21",
         "time": "9:43:32 AM",
@@ -8,18 +52,7 @@
         "location": "CARMEL AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "RF2205007",
-        "date": "2022-05-21",
-        "time": "9:39:08 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL / HEMLOCK AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
+        "units": ""
     },
     {
         "id": "NF2205097",
@@ -30,29 +63,7 @@
         "location": "CAMPUS DR #304 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2205671",
-        "date": "2022-05-21",
-        "time": "9:36:41 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALBACORE LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "SF2205670",
-        "date": "2022-05-21",
-        "time": "9:31:41 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #229 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": ""
     },
     {
         "id": "LF2200440",
@@ -63,6 +74,6 @@
         "location": "HILLSIDE BLVD ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E86"
+        "units": "E86"
     }
 ]
