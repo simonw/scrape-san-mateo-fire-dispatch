@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2203842",
+        "date": "2022-05-22",
+        "time": "3:41:33 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SB 101 / UNIVERSITY AVE ON RAMP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E11 ?TAC16 ?CM11X5"
+    },
+    {
+        "id": "FF2202825",
+        "date": "2022-05-22",
+        "time": "3:40:07 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "DF2200865",
+        "date": "2022-05-22",
+        "time": "3:32:21 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LA HONDA RD / CABRILLO HWY S",
+        "latitude": 37.3245009945071,
+        "longitude": -122.399899192199,
+        "units": "R57 >U57"
+    },
+    {
         "id": "SF2205725",
         "date": "2022-05-22",
         "time": "3:19:35 PM",
@@ -19,7 +52,7 @@
         "location": "THORNTON BEACH RD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T95 ERV95 >BC20 >E91 TAC35?CM31X1"
+        "units": ">ERV95 CM31X1 >BC20 TAC35 >T95>E91"
     },
     {
         "id": "MF2203841",
@@ -33,17 +66,6 @@
         "units": ">E4"
     },
     {
-        "id": "DF2200863",
-        "date": "2022-05-22",
-        "time": "2:38:02 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "10165 PESCADERO CREEK RD ,LAH",
-        "latitude": 37.2821923102442,
-        "longitude": -122.285293708987,
-        "units": ">E59"
-    },
-    {
         "id": "WF2200640",
         "date": "2022-05-22",
         "time": "2:37:48 PM",
@@ -52,7 +74,7 @@
         "location": "SKYLINE BLVD / OLD LA HONDA RD",
         "latitude": 37.3863361829933,
         "longitude": -122.264191935302,
-        "units": "?TAC15 CM11X4 >E7 >BC2 >SQ407>R56"
+        "units": ">E7 >SQ407 >R56"
     },
     {
         "id": "DF2200862",
@@ -63,6 +85,6 @@
         "location": "PORTOLA STATE PARK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": ">E1762 >E1791 >E58 >VFIR23 >R57"
+        "units": ">E1762 >E1791 >VFIR23"
     }
 ]
