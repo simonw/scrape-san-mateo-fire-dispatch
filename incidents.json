@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2201114",
+        "date": "2022-05-22",
+        "time": "8:45:57 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PEARL AVE ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E44"
+    },
+    {
+        "id": "CF2203115",
+        "date": "2022-05-22",
+        "time": "8:40:28 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAUREL AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "NF2205135",
+        "date": "2022-05-22",
+        "time": "8:35:26 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN PEDRO TERRACE RD #116A ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "RF2205042",
         "date": "2022-05-22",
         "time": "8:28:15 AM",
@@ -8,7 +41,7 @@
         "location": "ALAMEDA DE LAS PULGAS ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": ">E12"
     },
     {
         "id": "MF2203831",
@@ -19,39 +52,6 @@
         "location": "VERBENA DR / ABELIA WAY",
         "latitude": 37.454158371602,
         "longitude": -122.127484510564,
-        "units": "E2 >TAC15 >CM11X3 R77"
-    },
-    {
-        "id": "RF2205041",
-        "date": "2022-05-22",
-        "time": "8:23:21 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GORDON ST #203 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "MF2203830",
-        "date": "2022-05-22",
-        "time": "8:20:37 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAND HILL RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "CF2203112",
-        "date": "2022-05-22",
-        "time": "8:02:09 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Grass fire",
-        "location": "EL CAMINO REAL / DUFFERIN AVE",
-        "latitude": 37.5924862413596,
-        "longitude": -122.380569663258,
-        "units": ">E37"
+        "units": ">R77 >CM11X3 >TAC15 >E2"
     }
 ]
