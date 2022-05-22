@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2205722",
+        "date": "2022-05-22",
+        "time": "1:42:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "2900 BAZE RD ,SMO",
+        "latitude": 37.542941344797,
+        "longitude": -122.297033523072,
+        "units": "T23"
+    },
+    {
+        "id": "MF2203836",
+        "date": "2022-05-22",
+        "time": "1:41:34 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MULBERRY LN ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
         "id": "CF2203116",
         "date": "2022-05-22",
         "time": "1:08:05 PM",
@@ -11,17 +33,6 @@
         "units": ">E34"
     },
     {
-        "id": "RF2205048",
-        "date": "2022-05-22",
-        "time": "1:04:55 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COMMANDER LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
         "id": "NF2205140",
         "date": "2022-05-22",
         "time": "12:54:59 PM",
@@ -30,6 +41,6 @@
         "location": "40 HUMBOLDT CT ,PCF",
         "latitude": 37.5835648829272,
         "longitude": -122.466821980607,
-        "units": ">E72 BC120 CM31X2 ?TAC35"
+        "units": "CM31X2 >BC120 >E72 ?TAC35"
     }
 ]
