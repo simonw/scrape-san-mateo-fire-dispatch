@@ -1,5 +1,38 @@
 [
     {
+        "id": "DF2200869",
+        "date": "2022-05-22",
+        "time": "4:41:44 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "18400 SKYLINE BLVD ,SKY",
+        "latitude": 37.3712069538538,
+        "longitude": -122.254056234148,
+        "units": "E58 ?TAC15 ?CO57"
+    },
+    {
+        "id": "FF2202827",
+        "date": "2022-05-22",
+        "time": "4:40:53 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "MF2203843",
+        "date": "2022-05-22",
+        "time": "4:30:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Boat in distress",
+        "location": "2100 BAY RD ,EPA",
+        "latitude": 37.4766382936214,
+        "longitude": -122.121757367168,
+        "units": "E2 BC101 CM11X1 R77"
+    },
+    {
         "id": "DF2200868",
         "date": "2022-05-22",
         "time": "4:26:05 PM",
@@ -8,18 +41,7 @@
         "location": "E BAYSHORE RD #90 ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "?E77"
-    },
-    {
-        "id": "FF2202826",
-        "date": "2022-05-22",
-        "time": "4:25:02 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Landscape fire",
-        "location": "275 S AIRPORT BLVD ,SSF",
-        "latitude": 37.6463849553125,
-        "longitude": -122.404273368693,
-        "units": "?Q62"
+        "units": ">E77"
     },
     {
         "id": "WF2200641",
@@ -30,29 +52,7 @@
         "location": "400A OLD LA HONDA RD ,WDS",
         "latitude": 37.3880104108274,
         "longitude": -122.249985904923,
-        "units": "E8"
-    },
-    {
-        "id": "DF2200867",
-        "date": "2022-05-22",
-        "time": "4:07:07 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY / GAZOS CREEK RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E59 E1767 E1761 ?VFIR22"
-    },
-    {
-        "id": "SF2205727",
-        "date": "2022-05-22",
-        "time": "4:02:02 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W 5TH AVE #302 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
+        "units": ""
     },
     {
         "id": "NF2205141",
@@ -63,6 +63,6 @@
         "location": "THORNTON BEACH RD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">ERV95 CM31X1 TAC35 >T95 >E91"
+        "units": ">ERV95 CM31X1 TAC35 >T95"
     }
 ]
