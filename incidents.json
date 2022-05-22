@@ -1,25 +1,69 @@
 [
     {
-        "id": "SF2205723",
+        "id": "FF2202824",
         "date": "2022-05-22",
-        "time": "1:55:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "2:24:57 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
+        "location": "BEECH AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
+        "units": "E65"
     },
     {
-        "id": "RF2205049",
+        "id": "MF2203839",
         "date": "2022-05-22",
-        "time": "1:54:51 PM",
+        "time": "2:22:52 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "60 MULBERRY LN ,ATN",
+        "latitude": 37.4432754999325,
+        "longitude": -122.216734091979,
+        "units": "E4"
+    },
+    {
+        "id": "RF2205050",
+        "date": "2022-05-22",
+        "time": "2:16:36 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "WOODSIDE RD #4302 ,RCY",
+        "location": "HEMLOCK AVE ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ">E12"
+    },
+    {
+        "id": "MF2203838",
+        "date": "2022-05-22",
+        "time": "2:08:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #67 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "MF2203837",
+        "date": "2022-05-22",
+        "time": "2:08:42 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CARLTON AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "SF2205724",
+        "date": "2022-05-22",
+        "time": "2:03:17 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "942 VIEWRIDGE DR ,SMO",
+        "latitude": 37.5248179435973,
+        "longitude": -122.314134580621,
+        "units": ">T23"
     },
     {
         "id": "DF2200862",
@@ -30,28 +74,6 @@
         "location": "PORTOLA STATE PARK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": ">VFIR23 E1791 E1762 E58 R57"
-    },
-    {
-        "id": "BF2201549",
-        "date": "2022-05-22",
-        "time": "1:45:53 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2205140",
-        "date": "2022-05-22",
-        "time": "12:54:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Gas main break",
-        "location": "40 HUMBOLDT CT ,PCF",
-        "latitude": 37.5835648829272,
-        "longitude": -122.466821980607,
-        "units": "CM31X2 ?TAC35 >E72 >BC120"
+        "units": ">E1762 E1791 E58 >VFIR23 >R57"
     }
 ]
