@@ -1,25 +1,47 @@
 [
     {
-        "id": "MF2203879",
+        "id": "SF2205795",
         "date": "2022-05-24",
-        "time": "8:05:13 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLEMAN PL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E1"
+        "time": "8:28:53 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Vehicle fire",
+        "location": "3053 BAZE RD ,SMO",
+        "latitude": 37.5408462359743,
+        "longitude": -122.296082618062,
+        "units": "?E23"
     },
     {
-        "id": "RF2205091",
+        "id": "MF2203880",
         "date": "2022-05-24",
-        "time": "7:58:32 AM",
+        "time": "8:23:45 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 101 / SO WOODSIDE RD",
+        "latitude": 37.4860898454352,
+        "longitude": -122.193396924125,
+        "units": ">E5 BC101 R77 CM11X3 T2?TAC15"
+    },
+    {
+        "id": "NF2205227",
+        "date": "2022-05-24",
+        "time": "8:17:59 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IDLEWILD CT ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "RF2205092",
+        "date": "2022-05-24",
+        "time": "8:15:01 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1082 HEWITT DR ,SNC",
-        "latitude": 37.4891807185044,
-        "longitude": -122.271010242164,
-        "units": ">E16"
+        "category": "Medical aid",
+        "location": "SPRINGFIELD DR ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
     },
     {
         "id": "CF2203166",
@@ -33,17 +55,6 @@
         "units": ">E37"
     },
     {
-        "id": "RF2205090",
-        "date": "2022-05-24",
-        "time": "7:42:33 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FARM HILL BLVD #203 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
         "id": "HF2201126",
         "date": "2022-05-24",
         "time": "7:39:20 AM",
@@ -52,6 +63,6 @@
         "location": "GRANELLI AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": "E40"
     }
 ]
