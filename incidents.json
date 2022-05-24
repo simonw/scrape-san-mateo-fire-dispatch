@@ -1,5 +1,60 @@
 [
     {
+        "id": "FF2202854",
+        "date": "2022-05-24",
+        "time": "10:29:53 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "NF2205229",
+        "date": "2022-05-24",
+        "time": "10:28:44 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GENEVA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E93"
+    },
+    {
+        "id": "DF2200880",
+        "date": "2022-05-24",
+        "time": "10:17:26 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LA HONDA RD ,LAH",
+        "latitude": null,
+        "longitude": null,
+        "units": "E58 >R57 ?VFIR23"
+    },
+    {
+        "id": "CF2203169",
+        "date": "2022-05-24",
+        "time": "10:13:40 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "RF2205100",
+        "date": "2022-05-24",
+        "time": "10:12:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JETTY WAY ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
         "id": "MF2203885",
         "date": "2022-05-24",
         "time": "10:09:14 AM",
@@ -8,7 +63,7 @@
         "location": "AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": ">E5"
     },
     {
         "id": "RF2205098",
@@ -19,18 +74,7 @@
         "location": "SHASTA ST / UNDER WOODSIDE RD",
         "latitude": 37.4785456675931,
         "longitude": -122.220499917192,
-        "units": "CM11X1 BC3"
-    },
-    {
-        "id": "RF2205097",
-        "date": "2022-05-24",
-        "time": "10:02:30 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KNOLL DR ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": "TAC15 CM11X1 PR3B >E3 >E12"
     },
     {
         "id": "RF2205095",
@@ -44,39 +88,6 @@
         "units": ">E9"
     },
     {
-        "id": "SF2205808",
-        "date": "2022-05-24",
-        "time": "9:54:44 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "846 BALBOA LN ,FCY",
-        "latitude": 37.5528113440377,
-        "longitude": -122.270773606984,
-        "units": ">E29"
-    },
-    {
-        "id": "RF2205094",
-        "date": "2022-05-24",
-        "time": "9:54:32 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JAMES AVE / CALIFORNIA ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "CF2203168",
-        "date": "2022-05-24",
-        "time": "9:53:37 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "150 SERRA AVE ,MLB",
-        "latitude": 37.6003233390347,
-        "longitude": -122.387941990805,
-        "units": ""
-    },
-    {
         "id": "SF2205795",
         "date": "2022-05-24",
         "time": "8:28:53 AM",
@@ -85,6 +96,6 @@
         "location": "3053 BAZE RD ,SMO",
         "latitude": 37.5408462359743,
         "longitude": -122.296082618062,
-        "units": ">BC5 >E23 >CM21X1 >TAC25 >E28"
+        "units": ">BC5 >CM21X1 >TAC25"
     }
 ]
