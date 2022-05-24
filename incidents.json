@@ -1,36 +1,80 @@
 [
     {
-        "id": "RF2205108",
+        "id": "CF2203184",
         "date": "2022-05-24",
-        "time": "3:35:32 PM",
+        "time": "4:05:11 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Smoke investigation",
+        "location": "2318 OAKDALE RD ,HIL",
+        "latitude": 37.574891219323,
+        "longitude": -122.375797379736,
+        "units": "?E35"
+    },
+    {
+        "id": "RF2205113",
+        "date": "2022-05-24",
+        "time": "4:04:28 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "200 REDWOOD SHORES PKWY ,RWS",
+        "latitude": 37.5204426986894,
+        "longitude": -122.251460663064,
+        "units": "?E13"
+    },
+    {
+        "id": "RF2205112",
+        "date": "2022-05-24",
+        "time": "4:03:42 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BREWSTER AVE / WARREN ST",
+        "location": "KATHERINE AVE ,RCY",
         "latitude": null,
         "longitude": null,
+        "units": "E10 ?E16"
+    },
+    {
+        "id": "CF2203183",
+        "date": "2022-05-24",
+        "time": "3:54:08 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GREEN HILLS DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "RF2205111",
+        "date": "2022-05-24",
+        "time": "3:52:07 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "403 WINSLOW ST ,RCY",
+        "latitude": 37.4903236342825,
+        "longitude": -122.231206753701,
         "units": ">E9"
     },
     {
-        "id": "NF2205239",
+        "id": "RF2205110",
         "date": "2022-05-24",
-        "time": "3:22:36 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "3:51:08 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CAMPUS DR ,DCY",
+        "location": "WARRINGTON AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": ">E11"
     },
     {
-        "id": "DF2200881",
+        "id": "DF2200882",
         "date": "2022-05-24",
-        "time": "2:29:26 PM",
+        "time": "3:48:23 PM",
         "summary": "County Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "151 ALPINE OAKS RD ,SOS",
-        "latitude": 37.2867577471924,
-        "longitude": -122.22704327681,
-        "units": ">E357 >E1761"
+        "category": "Water rescue investigation",
+        "location": "1 PESCADERO CREEK RD ,PES",
+        "latitude": 37.2596210725272,
+        "longitude": -122.41307410961,
+        "units": "*>E59"
     },
     {
         "id": "MF2203892",
@@ -41,6 +85,6 @@
         "location": "3300 EDISON WAY ,NFO",
         "latitude": 37.4761369811805,
         "longitude": -122.199540341857,
-        "units": ">E5"
+        "units": ""
     }
 ]
