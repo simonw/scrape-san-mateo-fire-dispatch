@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2203916",
+        "id": "SF2205871",
         "date": "2022-05-25",
-        "time": "1:03:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "1:25:18 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "E O'KEEFE ST #6 ,EPA",
+        "location": "ALAMEDA DE LAS PULGAS ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "E15"
+    },
+    {
+        "id": "SF2205870",
+        "date": "2022-05-25",
+        "time": "1:12:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROBERTA DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
     },
     {
         "id": "SF2205869",
@@ -19,7 +30,7 @@
         "location": "N SAN MATEO DR / GRAND BLVD",
         "latitude": 37.5743945339501,
         "longitude": -122.335035240746,
-        "units": "BC5 T21 >TAC25 >CM21X1 E21"
+        "units": ">CM21X1 >TAC25 >E21"
     },
     {
         "id": "FF2202874",
@@ -27,64 +38,9 @@
         "time": "1:02:12 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "GRAND AVE ,SSF",
+        "location": "BADEN AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "SF2205868",
-        "date": "2022-05-25",
-        "time": "12:49:44 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OCCIDENTAL AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2205867",
-        "date": "2022-05-25",
-        "time": "12:47:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORES ST #212D ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2205276",
-        "date": "2022-05-25",
-        "time": "12:40:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "295 COUNTY ST #B ,DCY",
-        "latitude": 37.6884011758323,
-        "longitude": -122.464869594707,
-        "units": ""
-    },
-    {
-        "id": "MF2203914",
-        "date": "2022-05-25",
-        "time": "12:30:48 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #301 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "CF2203209",
-        "date": "2022-05-25",
-        "time": "12:25:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1715 QUESADA WAY ,BRM",
-        "latitude": 37.5879789708062,
-        "longitude": -122.386369040088,
-        "units": ""
+        "units": ">E61"
     }
 ]
