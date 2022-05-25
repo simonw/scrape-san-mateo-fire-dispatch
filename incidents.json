@@ -1,36 +1,80 @@
 [
     {
-        "id": "NF2205275",
+        "id": "RF2205144",
         "date": "2022-05-25",
-        "time": "12:22:36 PM",
+        "time": "12:41:15 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BREWSTER AVE / EL CAMINO REAL",
+        "latitude": null,
+        "longitude": null,
+        "units": "T9"
+    },
+    {
+        "id": "NF2205276",
+        "date": "2022-05-25",
+        "time": "12:40:03 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "3150 GENEVA AVE ,DCY",
-        "latitude": 37.7054813040364,
-        "longitude": -122.410136543599,
-        "units": "E93 BC20 CM31X5 Q62 ?TAC35"
+        "category": "Carbon monoxide alarm",
+        "location": "295 COUNTY ST #B ,DCY",
+        "latitude": 37.6884011758323,
+        "longitude": -122.464869594707,
+        "units": "T95"
     },
     {
-        "id": "BF2201581",
+        "id": "MF2203915",
         "date": "2022-05-25",
-        "time": "12:18:01 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EMARON DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "time": "12:36:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "550 MENLO OAKS DR ,MOK",
+        "latitude": 37.4648728567428,
+        "longitude": -122.168261670482,
+        "units": ">E1"
     },
     {
-        "id": "FF2202873",
+        "id": "RF2205143",
         "date": "2022-05-25",
-        "time": "12:14:33 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "12:33:49 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "FAIRFAX WAY ,SSF",
+        "location": "ALLERTON ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
+        "units": ">E9"
+    },
+    {
+        "id": "MF2203914",
+        "date": "2022-05-25",
+        "time": "12:30:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #301 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "HF2201137",
+        "date": "2022-05-25",
+        "time": "12:29:45 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GOLDEN GATE AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "CF2203209",
+        "date": "2022-05-25",
+        "time": "12:25:50 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1715 QUESADA WAY ,BRM",
+        "latitude": 37.5879789708062,
+        "longitude": -122.386369040088,
+        "units": ">E35"
     },
     {
         "id": "MF2203913",
@@ -42,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">CM11X1 >E2 >T2"
-    },
-    {
-        "id": "SF2205866",
-        "date": "2022-05-25",
-        "time": "12:07:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BEACH PARK BLVD #303 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
     }
 ]
