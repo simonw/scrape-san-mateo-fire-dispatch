@@ -1,57 +1,101 @@
 [
     {
-        "id": "MF2203923",
+        "id": "MF2203929",
         "date": "2022-05-25",
-        "time": "6:54:04 PM",
+        "time": "8:01:39 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WILLOW RD #BLDG360 ,MNP",
+        "location": "GLEN WAY #2 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E1"
+        "units": "E2"
     },
     {
-        "id": "NF2205285",
+        "id": "MF2203928",
         "date": "2022-05-25",
-        "time": "6:50:26 PM",
+        "time": "7:56:36 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "3639 HAVEN AVE #BLDG C ,MNP",
+        "latitude": 37.4858325861825,
+        "longitude": -122.183204913733,
+        "units": "E77"
+    },
+    {
+        "id": "RF2205164",
+        "date": "2022-05-25",
+        "time": "7:48:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Structure fire",
+        "location": "439 BUCKEYE ST ,RCY",
+        "latitude": 37.4813685672227,
+        "longitude": -122.220375466645,
+        "units": ">BC5 >BC101 >T1 >E13 >E11>E3 >E5 TAC16 ?CM11X3"
+    },
+    {
+        "id": "NF2205290",
+        "date": "2022-05-25",
+        "time": "7:48:05 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "WINCHESTER ST ,DCY",
+        "location": "GALVEZ DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": ">E72"
     },
     {
-        "id": "FF2202881",
+        "id": "SF2205883",
         "date": "2022-05-25",
-        "time": "6:47:11 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:44:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "S AIRPORT BLVD #LOBBY ,SSF",
+        "location": "LA SELVA ST #201 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": ""
     },
     {
-        "id": "CF2203221",
+        "id": "NF2205289",
         "date": "2022-05-25",
-        "time": "6:40:02 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "2109 CLARICE LN ,BRM",
-        "latitude": 37.5885774974973,
-        "longitude": -122.384675467538,
-        "units": ">E37"
+        "time": "7:42:30 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #211B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
-        "id": "CF2203220",
+        "id": "BF2201585",
         "date": "2022-05-25",
-        "time": "6:06:22 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Landscape fire",
-        "location": "35 INGOLD RD ,BRM",
-        "latitude": 37.599244422051,
-        "longitude": -122.385504796218,
-        "units": "CM21X1 TAC25 >E34 >BC8 >E35"
+        "time": "7:38:08 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD #215 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2205882",
+        "date": "2022-05-25",
+        "time": "7:32:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CASCADE CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "WF2200655",
+        "date": "2022-05-25",
+        "time": "7:10:02 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Structure fire - working",
+        "location": "477 HILLCREST WAY ,RCY",
+        "latitude": 37.4606526925699,
+        "longitude": -122.275808586242,
+        "units": ">TAC15 >TO2 >E18 >T9 E7>BC2 >BC3 MED2 >CM11X5 >E9"
     }
 ]
