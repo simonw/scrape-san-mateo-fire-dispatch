@@ -1,14 +1,36 @@
 [
     {
+        "id": "NF2205302",
+        "date": "2022-05-25",
+        "time": "11:03:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Pole fire",
+        "location": "551 MANOR DR ,PCF",
+        "latitude": 37.6463150424497,
+        "longitude": -122.476975963024,
+        "units": "E71"
+    },
+    {
         "id": "NF2205301",
         "date": "2022-05-25",
         "time": "10:44:37 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "CAMPUS DR #210 ,DCY",
+        "location": "CAMPUS DR #201 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E94"
+        "units": ">E94"
+    },
+    {
+        "id": "MF2203932",
+        "date": "2022-05-25",
+        "time": "10:41:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "1711 TULANE AVE ,EPA",
+        "latitude": 37.4817888827212,
+        "longitude": -122.137180378908,
+        "units": ">E2"
     },
     {
         "id": "SF2205891",
@@ -19,7 +41,7 @@
         "location": "900 YATES WAY ,SMO",
         "latitude": 37.5444637926389,
         "longitude": -122.295014113287,
-        "units": "E26"
+        "units": ">E26"
     },
     {
         "id": "WF2200659",
@@ -42,28 +64,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E91"
-    },
-    {
-        "id": "LF2200455",
-        "date": "2022-05-25",
-        "time": "10:28:46 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Public assist",
-        "location": "1199 EL CAMINO REAL ,CLM",
-        "latitude": 37.6771811488496,
-        "longitude": -122.458355532256,
-        "units": ">BC19 CM31X2 >E86"
-    },
-    {
-        "id": "HF2201144",
-        "date": "2022-05-25",
-        "time": "10:28:33 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "109 BARRANCA ST ,MBH",
-        "latitude": 37.5087081905863,
-        "longitude": -122.4983959753,
-        "units": ">E44"
     },
     {
         "id": "MF2203931",
@@ -96,6 +96,6 @@
         "location": "437 HILLCREST WAY ,RCY",
         "latitude": 37.4606526925699,
         "longitude": -122.275808586242,
-        "units": ">TAC15 >E20 >TO2 E7 >BC2>BC3 MED2 >CM11X5 >SQ407 >E19"
+        "units": ">TAC15 >E20 >TO2 E7 >BC2>BC3 MED2 >CM11X5 >E19"
     }
 ]
