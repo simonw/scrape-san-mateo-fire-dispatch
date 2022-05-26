@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2203933",
+        "id": "SF2205893",
         "date": "2022-05-25",
-        "time": "11:28:17 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:47:49 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "NEWELL RD #102 ,EPA",
+        "location": "LYONRIDGE LN ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "?E27"
+    },
+    {
+        "id": "NF2205310",
+        "date": "2022-05-25",
+        "time": "11:39:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IRVINGTON ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "NF2205309",
+        "date": "2022-05-25",
+        "time": "11:33:18 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "543 MANOR DR ,PCF",
+        "latitude": 37.6463122185156,
+        "longitude": -122.47730754289,
+        "units": ">E71"
     },
     {
         "id": "CF2203228",
@@ -19,29 +41,7 @@
         "location": "101 ROBIN RD ,HIL",
         "latitude": 37.5607943341436,
         "longitude": -122.362805961838,
-        "units": "?E33"
-    },
-    {
-        "id": "NF2205308",
-        "date": "2022-05-25",
-        "time": "11:18:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GARIBALDI ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2205891",
-        "date": "2022-05-25",
-        "time": "10:41:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "900 YATES WAY ,SMO",
-        "latitude": 37.5444637926389,
-        "longitude": -122.295014113287,
-        "units": ">E26"
+        "units": ">E33"
     },
     {
         "id": "BF2201588",
@@ -52,7 +52,7 @@
         "location": "335 ANGUS AVE E ,SNB",
         "latitude": 37.62706151705,
         "longitude": -122.408251592084,
-        "units": ">E37 CM31X1 >E51 ?TAC35 >E52>BC16 >T51 >E61 >PR16 >PR16A"
+        "units": ">E37 CM31X1 >E51 ?TAC35 >E52>BC16 >T51 >PR16 >PR16A"
     },
     {
         "id": "WF2200655",
