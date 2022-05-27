@@ -1,57 +1,68 @@
 [
     {
-        "id": "RF2205200",
+        "id": "SF2205923",
         "date": "2022-05-26",
-        "time": "7:57:22 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "8:40:07 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "EATON AVE ,SNC",
+        "location": "HARBOR BLVD / INDUSTRIAL RD",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "E14"
     },
     {
-        "id": "RF2205199",
+        "id": "NF2205349",
         "date": "2022-05-26",
-        "time": "7:45:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CARMELITA DR ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "NF2205347",
-        "date": "2022-05-26",
-        "time": "7:44:49 PM",
+        "time": "8:38:05 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "LAKE MERCED BLVD ,DCY",
+        "location": "SANTA CLARA ST ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": ">E81"
     },
     {
-        "id": "NF2205346",
+        "id": "CF2203256",
         "date": "2022-05-26",
-        "time": "7:40:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALMCREST DR #11 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "time": "8:36:23 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "920 PARROTT DR ,HIL",
+        "latitude": 37.5459491285211,
+        "longitude": -122.339123211418,
+        "units": "E25"
     },
     {
-        "id": "RF2205197",
+        "id": "RF2205203",
         "date": "2022-05-26",
-        "time": "7:36:15 PM",
+        "time": "8:36:08 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "1188 SAN CARLOS AVE ,SNC",
-        "latitude": 37.5068026840886,
-        "longitude": -122.261301772206,
+        "category": "Medical aid",
+        "location": "SAN CARLOS AVE #2C ,SNC",
+        "latitude": null,
+        "longitude": null,
         "units": ">E13"
+    },
+    {
+        "id": "CF2203255",
+        "date": "2022-05-26",
+        "time": "8:34:23 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1245 RIDGEWOOD DR ,MLB",
+        "latitude": 37.6062155742716,
+        "longitude": -122.422536784548,
+        "units": "E38"
+    },
+    {
+        "id": "NF2205348",
+        "date": "2022-05-26",
+        "time": "8:06:12 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "1003 SAN ANTONIO CIR #203 ,DCY",
+        "latitude": 37.7067004651389,
+        "longitude": -122.440580078929,
+        "units": ">E92"
     }
 ]
