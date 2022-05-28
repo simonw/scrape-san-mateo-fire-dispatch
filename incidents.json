@@ -1,14 +1,102 @@
 [
     {
-        "id": "SF2205994",
+        "id": "NF2205413",
         "date": "2022-05-28",
-        "time": "11:04:52 AM",
+        "time": "11:25:37 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "555 OCEANA BLVD ,PCF",
+        "latitude": 37.6480051537865,
+        "longitude": -122.490297754644,
+        "units": ">E71"
+    },
+    {
+        "id": "SF2205996",
+        "date": "2022-05-28",
+        "time": "11:24:42 AM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "851 N SAN MATEO DR ,SMO",
+        "latitude": 37.5763898766932,
+        "longitude": -122.338484024632,
+        "units": "E32"
+    },
+    {
+        "id": "RF2205246",
+        "date": "2022-05-28",
+        "time": "11:24:20 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1301 BROADWAY ,RCY",
+        "latitude": 37.485990197738,
+        "longitude": -122.215590627636,
+        "units": "E9"
+    },
+    {
+        "id": "RF2205244",
+        "date": "2022-05-28",
+        "time": "11:20:41 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BEACH PARK BLVD ,FCY",
+        "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E29"
+        "units": ">T1"
+    },
+    {
+        "id": "SF2205995",
+        "date": "2022-05-28",
+        "time": "11:18:21 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2203293",
+        "date": "2022-05-28",
+        "time": "11:17:11 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "1100 TROUSDALE DR ,BRM",
+        "latitude": 37.5954836542456,
+        "longitude": -122.382771993222,
+        "units": ">E34 CM21X4 ?TAC25"
+    },
+    {
+        "id": "HF2201161",
+        "date": "2022-05-28",
+        "time": "11:14:13 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BIRCH ST ,MON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "BF2201627",
+        "date": "2022-05-28",
+        "time": "11:11:50 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "DARBY PL #2 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "RF2205243",
+        "date": "2022-05-28",
+        "time": "11:08:11 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELM ST #2 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
     },
     {
         "id": "SF2205993",
@@ -19,29 +107,7 @@
         "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T21"
-    },
-    {
-        "id": "FF2202941",
-        "date": "2022-05-28",
-        "time": "10:59:04 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "N ACCESS RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "MF2204006",
-        "date": "2022-05-28",
-        "time": "10:55:35 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PULGAS AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">T21"
     },
     {
         "id": "NF2205412",
@@ -52,18 +118,7 @@
         "location": "LINDA MAR BLVD / ALICANTE DR",
         "latitude": 37.5833406572376,
         "longitude": -122.485393735794,
-        "units": ">BC121 ?TAC35 >T95 CM31X4 >E95"
-    },
-    {
-        "id": "WF2200666",
-        "date": "2022-05-28",
-        "time": "10:41:35 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "S CASTANYA WAY ,LAD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
+        "units": "BC121 E95"
     },
     {
         "id": "MF2204005",
@@ -74,17 +129,6 @@
         "location": "SHARON PARK DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "FF2202940",
-        "date": "2022-05-28",
-        "time": "10:13:00 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "PINE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
+        "units": "*>E4"
     }
 ]
