@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2204044",
+        "date": "2022-05-29",
+        "time": "2:41:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "6 NEWELL CT ,EPA",
+        "latitude": 37.4573109602062,
+        "longitude": -122.138796747127,
+        "units": "?E2"
+    },
+    {
+        "id": "FF2202969",
+        "date": "2022-05-29",
+        "time": "2:34:29 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Lock out - vehicle",
+        "location": "LINDEN AVE / ASPEN AVE",
+        "latitude": 37.6599751407603,
+        "longitude": -122.408453208726,
+        "units": "E61"
+    },
+    {
+        "id": "HF2201177",
+        "date": "2022-05-29",
+        "time": "2:27:04 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Water rescue investigation",
+        "location": "1 SURFERS BEACH RD ,HMB",
+        "latitude": 37.5007274302086,
+        "longitude": -122.470136020389,
+        "units": "*>E41 CG22A >TO10 >BC10 CM41X3?TAC45"
+    },
+    {
         "id": "NF2205459",
         "date": "2022-05-29",
         "time": "2:25:26 PM",
@@ -8,7 +41,7 @@
         "location": "HAMPSHIRE AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "RF2205280",
@@ -19,18 +52,7 @@
         "location": "1923 ALAMEDA DE LAS PULGAS ,RCY",
         "latitude": 37.4518549474325,
         "longitude": -122.234055912088,
-        "units": "E12"
-    },
-    {
-        "id": "NF2205458",
-        "date": "2022-05-29",
-        "time": "2:22:54 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MIDWAY DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E93"
+        "units": ">E12"
     },
     {
         "id": "SF2206052",
@@ -52,7 +74,7 @@
         "location": "2203 VISTA DEL MAR ,SMO",
         "latitude": 37.55375115409,
         "longitude": -122.285818549994,
-        "units": "E29"
+        "units": ">E29"
     },
     {
         "id": "MF2204043",
@@ -64,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E1"
-    },
-    {
-        "id": "SF2206050",
-        "date": "2022-05-29",
-        "time": "2:07:17 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
