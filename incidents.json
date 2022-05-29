@@ -1,25 +1,47 @@
 [
     {
-        "id": "SF2206023",
+        "id": "BF2201636",
         "date": "2022-05-28",
-        "time": "10:26:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:36:49 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "S RAILROAD AVE / E 3RD AVE",
+        "location": "AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E51"
     },
     {
-        "id": "NF2205437",
+        "id": "CF2203307",
         "date": "2022-05-28",
-        "time": "10:26:10 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "10:34:10 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / TROUSDALE DR",
+        "latitude": 37.5945539738117,
+        "longitude": -122.383190374232,
+        "units": ">E37 >T34 CM21X1 >BC8 TAC26"
+    },
+    {
+        "id": "SF2206024",
+        "date": "2022-05-28",
+        "time": "10:33:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / NO PENINSULA AVE",
+        "latitude": 37.5804221513466,
+        "longitude": -122.324214673445,
+        "units": ">E21"
+    },
+    {
+        "id": "HF2201168",
+        "date": "2022-05-28",
+        "time": "10:31:07 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "ESCUELA DR #101B ,DCY",
+        "location": "EL PASEO ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": "*>E41"
     },
     {
         "id": "HF2201167",
@@ -31,38 +53,5 @@
         "latitude": 37.4619053116634,
         "longitude": -122.442323419733,
         "units": ">E40 ?FECC"
-    },
-    {
-        "id": "CF2203306",
-        "date": "2022-05-28",
-        "time": "10:12:00 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "BF2201635",
-        "date": "2022-05-28",
-        "time": "10:10:23 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #1105 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2206022",
-        "date": "2022-05-28",
-        "time": "10:01:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S DELAWARE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
     }
 ]
