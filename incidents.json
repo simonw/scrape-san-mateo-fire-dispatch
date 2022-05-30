@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2204061",
+        "date": "2022-05-30",
+        "time": "12:01:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TRINITY DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "MF2204062",
+        "date": "2022-05-30",
+        "time": "12:00:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "555 GLENWOOD AVE ,MNP",
+        "latitude": 37.4564270227973,
+        "longitude": -122.18627313514,
+        "units": ">E6 T1 E3 E1 BC1CM11X4 ?TAC15"
+    },
+    {
+        "id": "RF2205300",
+        "date": "2022-05-30",
+        "time": "11:57:33 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "FF2202978",
+        "date": "2022-05-30",
+        "time": "11:54:52 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "2380 GALWAY DR ,SSF",
+        "latitude": 37.6437319786241,
+        "longitude": -122.457309321671,
+        "units": ">E64"
+    },
+    {
         "id": "SF2206087",
         "date": "2022-05-30",
         "time": "11:46:39 AM",
@@ -8,7 +52,7 @@
         "location": "WINDJAMMER CIR ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E29"
+        "units": ">E29"
     },
     {
         "id": "RF2205299",
@@ -19,28 +63,6 @@
         "location": "EDDYSTONE CT ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E20"
-    },
-    {
-        "id": "RF2205298",
-        "date": "2022-05-30",
-        "time": "11:33:45 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ORACLE PKWY ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "NF2205483",
-        "date": "2022-05-30",
-        "time": "11:00:33 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "65 E CAVOUR ST ,DCY",
-        "latitude": 37.6952767739633,
-        "longitude": -122.462569162712,
-        "units": ">E92"
+        "units": ">E20"
     }
 ]
