@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2204096",
+        "date": "2022-05-31",
+        "time": "1:42:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Trash fire",
+        "location": "1221 WILLOW RD ,MNP",
+        "latitude": 37.4745385172623,
+        "longitude": -122.154133316654,
+        "units": "R77 E77 ?TAC15 ?CM11X3"
+    },
+    {
+        "id": "MF2204095",
+        "date": "2022-05-31",
+        "time": "1:39:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAK AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "HF2201193",
+        "date": "2022-05-31",
+        "time": "1:33:28 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WASHINGTON BLVD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "WF2200686",
+        "date": "2022-05-31",
+        "time": "1:30:56 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "W CALIFORNIA WAY ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
         "id": "MF2204094",
         "date": "2022-05-31",
         "time": "1:27:41 PM",
@@ -8,7 +52,7 @@
         "location": "ILLINOIS ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "FF2203003",
@@ -26,11 +70,11 @@
         "date": "2022-05-31",
         "time": "1:26:24 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
+        "category": "Traffic accident pd request c2",
         "location": "CHARTER ST / BAY RD",
-        "latitude": null,
-        "longitude": null,
-        "units": "E11"
+        "latitude": 37.4850203247745,
+        "longitude": -122.21221775633,
+        "units": ""
     },
     {
         "id": "MF2204093",
@@ -41,7 +85,7 @@
         "location": "FREDRICK AVE ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": ">E1"
+        "units": ""
     },
     {
         "id": "CF2203352",
@@ -64,16 +108,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E63"
-    },
-    {
-        "id": "SF2206133",
-        "date": "2022-05-31",
-        "time": "12:39:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SAN MIGUEL WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
     }
 ]
