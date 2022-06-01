@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2205548",
+        "id": "FF2203020",
         "date": "2022-06-01",
-        "time": "11:44:10 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:04:25 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
+        "location": "GELLERT BLVD #104 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": "E64"
+    },
+    {
+        "id": "RF2205393",
+        "date": "2022-06-01",
+        "time": "11:59:31 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST #3RD FLR ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "RF2205391",
+        "date": "2022-06-01",
+        "time": "11:53:48 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #107 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2203019",
+        "date": "2022-06-01",
+        "time": "11:52:41 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
     },
     {
         "id": "NF2205549",
@@ -19,29 +52,7 @@
         "location": "905 CAMPUS DR ,DCY",
         "latitude": 37.6666211265771,
         "longitude": -122.476143767198,
-        "units": "E63 E64 E51 BC122 T51?TAC35 ?CM31X5 ?BC120 ?E95 E71"
-    },
-    {
-        "id": "BF2201681",
-        "date": "2022-06-01",
-        "time": "11:36:20 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Smoke investigation",
-        "location": "3531 SNEATH LN ,SNB",
-        "latitude": 37.6225872677592,
-        "longitude": -122.453240913833,
-        "units": ">E52"
-    },
-    {
-        "id": "MF2204123",
-        "date": "2022-06-01",
-        "time": "11:30:27 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "SONOMA AVE / BAY RD",
-        "latitude": 37.4717127174938,
-        "longitude": -122.167866684062,
-        "units": ">E5"
+        "units": ">BC122 PR20A >E95"
     },
     {
         "id": "RF2205388",
@@ -53,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "RF2205387",
-        "date": "2022-06-01",
-        "time": "11:09:10 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "109 WHARF RW ,RWS",
-        "latitude": 37.5386214645309,
-        "longitude": -122.250190767018,
-        "units": ">E14"
     }
 ]
