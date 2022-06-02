@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2206222",
+        "id": "MF2204158",
         "date": "2022-06-02",
-        "time": "10:26:24 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "RALSTON AVE / 6TH AVE",
-        "latitude": 37.5192246328833,
-        "longitude": -122.277328265646,
-        "units": "?E14"
+        "time": "10:45:38 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Gas main break",
+        "location": "27 PARK DR ,ATN",
+        "latitude": 37.4626249105537,
+        "longitude": -122.204659970695,
+        "units": "BC1 T1 E11 E5 E3CM11X4 ?TAC15"
+    },
+    {
+        "id": "MF2204156",
+        "date": "2022-06-02",
+        "time": "10:31:32 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ARBOR RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "NF2205583",
+        "date": "2022-06-02",
+        "time": "10:31:32 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "S MAYFAIR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
     },
     {
         "id": "NF2205582",
@@ -19,7 +41,7 @@
         "location": "MUIRWOOD DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
+        "units": ">E92"
     },
     {
         "id": "LF2200475",
@@ -30,28 +52,6 @@
         "location": "D ST ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">MED19 >E86 >CM31X1"
-    },
-    {
-        "id": "SF2206220",
-        "date": "2022-06-02",
-        "time": "10:10:45 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2205581",
-        "date": "2022-06-02",
-        "time": "10:07:01 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "555 BUEL AVE ,PCF",
-        "latitude": 37.6066366448662,
-        "longitude": -122.492634267368,
-        "units": ""
+        "units": ">CM31X1 >MED19"
     }
 ]
