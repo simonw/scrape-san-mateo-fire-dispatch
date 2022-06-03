@@ -1,5 +1,82 @@
 [
     {
+        "id": "FF2203064",
+        "date": "2022-06-03",
+        "time": "10:00:51 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "853 OLIVE AVE ,SSF",
+        "latitude": 37.6621538113914,
+        "longitude": -122.409279663132,
+        "units": ">E34"
+    },
+    {
+        "id": "NF2205622",
+        "date": "2022-06-03",
+        "time": "9:57:52 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CALLAN BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "RF2205448",
+        "date": "2022-06-03",
+        "time": "9:57:15 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FAIR OAKS AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "SF2206254",
+        "date": "2022-06-03",
+        "time": "9:55:10 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "FF2203062",
+        "date": "2022-06-03",
+        "time": "9:55:00 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "249 KENWOOD WAY ,SSF",
+        "latitude": 37.6420071547051,
+        "longitude": -122.425993713323,
+        "units": ">E61"
+    },
+    {
+        "id": "WF2200710",
+        "date": "2022-06-03",
+        "time": "9:53:39 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "6 FRANCISCAN RIDGE ,PVY",
+        "latitude": 37.3660718118941,
+        "longitude": -122.204972037029,
+        "units": ">E19"
+    },
+    {
+        "id": "BF2201704",
+        "date": "2022-06-03",
+        "time": "9:51:51 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
         "id": "FF2203060",
         "date": "2022-06-03",
         "time": "9:48:59 AM",
@@ -8,62 +85,7 @@
         "location": "EL CAMPO DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
-    },
-    {
-        "id": "RF2205447",
-        "date": "2022-06-03",
-        "time": "9:43:39 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARSHALL ST / HAMILTON ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "NF2205621",
-        "date": "2022-06-03",
-        "time": "9:41:02 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #311A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "BF2201703",
-        "date": "2022-06-03",
-        "time": "9:34:30 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FLEETWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "NF2205620",
-        "date": "2022-06-03",
-        "time": "9:33:50 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PHILIP DR #304 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "NF2205619",
-        "date": "2022-06-03",
-        "time": "9:32:45 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ">E64"
     },
     {
         "id": "MF2204192",
@@ -77,17 +99,6 @@
         "units": ">E77"
     },
     {
-        "id": "NF2205617",
-        "date": "2022-06-03",
-        "time": "9:19:44 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN PEDRO TERRACE RD #122A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
         "id": "FF2203055",
         "date": "2022-06-03",
         "time": "4:08:25 AM",
@@ -96,6 +107,6 @@
         "location": "AIRPORT BLVD / TOWER PL",
         "latitude": 37.6664256071732,
         "longitude": -122.396859249491,
-        "units": ">E1771 >E1791 ?CM31X2 >E65 >BC17>BC20 >E63 ?VFIR23 >E51 >Q62"
+        "units": ">E1771 >E1791 ?CM31X2 >E65 >BC17>E63 ?VFIR23 >E51 >Q62 >E52"
     }
 ]
