@@ -1,14 +1,69 @@
 [
     {
-        "id": "WF2200708",
+        "id": "WF2200709",
         "date": "2022-06-03",
-        "time": "8:03:54 AM",
+        "time": "8:26:22 AM",
         "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "WHISKEY HILL RD ,WDS",
+        "location": "PORTOLA RD #BLDG5 ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
+        "units": "E8"
+    },
+    {
+        "id": "NF2205614",
+        "date": "2022-06-03",
+        "time": "8:24:48 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST / SAN JOSE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2205443",
+        "date": "2022-06-03",
+        "time": "8:18:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEVADA ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2205442",
+        "date": "2022-06-03",
+        "time": "8:18:26 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALTAMONT WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "CF2203406",
+        "date": "2022-06-03",
+        "time": "8:14:25 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #501 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
+    },
+    {
+        "id": "SF2206251",
+        "date": "2022-06-03",
+        "time": "8:08:15 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MOUNDS RD #207 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "SF2206250",
@@ -19,40 +74,7 @@
         "location": "MOUNDS RD #405 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "MF2204185",
-        "date": "2022-06-03",
-        "time": "7:58:14 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAK GROVE AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T1"
-    },
-    {
-        "id": "NF2205613",
-        "date": "2022-06-03",
-        "time": "7:57:28 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #214 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E95"
-    },
-    {
-        "id": "NF2205612",
-        "date": "2022-06-03",
-        "time": "7:55:51 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CORONADO AVE #318 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": "*>E24"
     },
     {
         "id": "NF2205611",
@@ -63,18 +85,7 @@
         "location": "SHARP PARK RD / GYPSY HILL RD",
         "latitude": 37.6295716327188,
         "longitude": -122.47781604105,
-        "units": ">E94 >BC123 ?TAC35 ?CM31X3"
-    },
-    {
-        "id": "NF2205610",
-        "date": "2022-06-03",
-        "time": "7:29:29 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">E94"
     },
     {
         "id": "FF2203055",
@@ -85,6 +96,6 @@
         "location": "AIRPORT BLVD / TOWER PL",
         "latitude": 37.6664256071732,
         "longitude": -122.396859249491,
-        "units": ">E1771 >E1791 ?OESC ?CM31X2 >E65>BC17 >BC20 >E63 ?VFIR23 >E51"
+        "units": ">E1771 >E1791 ?CM31X2 OESC >E65>BC17 >BC20 >E63 ?VFIR23 >E51"
     }
 ]
