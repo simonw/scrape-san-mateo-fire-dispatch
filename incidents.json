@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2203064",
+        "id": "SF2206255",
         "date": "2022-06-03",
-        "time": "10:00:51 AM",
+        "time": "10:14:24 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "313 SUSSEX CT ,BLM",
+        "latitude": 37.5281165259598,
+        "longitude": -122.282400131495,
+        "units": ">T23"
+    },
+    {
+        "id": "FF2203065",
+        "date": "2022-06-03",
+        "time": "10:08:14 AM",
         "summary": "South San Francisco on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "853 OLIVE AVE ,SSF",
-        "latitude": 37.6621538113914,
-        "longitude": -122.409279663132,
-        "units": ">E34"
+        "category": "Medical aid",
+        "location": "N ACCESS RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "NF2205622",
@@ -22,28 +33,6 @@
         "units": ">E71"
     },
     {
-        "id": "RF2205448",
-        "date": "2022-06-03",
-        "time": "9:57:15 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FAIR OAKS AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "SF2206254",
-        "date": "2022-06-03",
-        "time": "9:55:10 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORES ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
         "id": "FF2203062",
         "date": "2022-06-03",
         "time": "9:55:00 AM",
@@ -53,17 +42,6 @@
         "latitude": 37.6420071547051,
         "longitude": -122.425993713323,
         "units": ">E61"
-    },
-    {
-        "id": "WF2200710",
-        "date": "2022-06-03",
-        "time": "9:53:39 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "6 FRANCISCAN RIDGE ,PVY",
-        "latitude": 37.3660718118941,
-        "longitude": -122.204972037029,
-        "units": ">E19"
     },
     {
         "id": "BF2201704",
@@ -85,18 +63,7 @@
         "location": "EL CAMPO DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "MF2204192",
-        "date": "2022-06-03",
-        "time": "9:31:35 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W BAYSHORE RD / NEWELL RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "units": "E64"
     },
     {
         "id": "FF2203055",
@@ -107,6 +74,6 @@
         "location": "AIRPORT BLVD / TOWER PL",
         "latitude": 37.6664256071732,
         "longitude": -122.396859249491,
-        "units": ">E1771 >E1791 ?CM31X2 >E65 >BC17>E63 ?VFIR23 >E51 >Q62 >E52"
+        "units": ">E1771 >E1791 ?CM31X2 >E65 >BC17?VFIR23 >Q62 OES54 >CH17A >BC111"
     }
 ]
