@@ -1,25 +1,47 @@
 [
     {
+        "id": "NF2205639",
+        "date": "2022-06-03",
+        "time": "10:23:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "RF2205472",
+        "date": "2022-06-03",
+        "time": "10:16:26 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GORDON ST #102 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "MF2204211",
+        "date": "2022-06-03",
+        "time": "10:11:38 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "82 LINDA VISTA AVE ,ATN",
+        "latitude": 37.4415989803086,
+        "longitude": -122.210022417918,
+        "units": ">E4"
+    },
+    {
         "id": "FF2203084",
         "date": "2022-06-03",
         "time": "9:38:26 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
+        "category": "Structure fire",
         "location": "15 SUNRISE CT ,SSF",
         "latitude": 37.6413983554967,
         "longitude": -122.447461361423,
-        "units": "T51 ?TAC35 ?CM31X5 ?BC17 ?E94?E64 >E63"
-    },
-    {
-        "id": "BF2201719",
-        "date": "2022-06-03",
-        "time": "9:31:28 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "2011 WILLOW WAY ,SNB",
-        "latitude": 37.6312785352514,
-        "longitude": -122.451103028401,
-        "units": ">E52"
+        "units": ">E51 >E94 >BC123 >T51 >BC17TAC35 >E52 >E64 CM31X5 >E63"
     },
     {
         "id": "FF2203055",
