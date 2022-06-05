@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2206352",
+        "date": "2022-06-05",
+        "time": "11:42:21 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S DELAWARE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "SF2206351",
+        "date": "2022-06-05",
+        "time": "11:40:04 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "390 EL CAMINO REAL ,BLM",
+        "latitude": 37.5266260094455,
+        "longitude": -122.284682243111,
+        "units": ">E14 E23 BC5 T23 E13CM11X5 ?TAC15"
+    },
+    {
+        "id": "BF2201736",
+        "date": "2022-06-05",
+        "time": "11:39:08 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CHABOT DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "FF2203114",
+        "date": "2022-06-05",
+        "time": "11:33:59 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "OLIVE AVE #8 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "MF2204247",
+        "date": "2022-06-05",
+        "time": "11:30:53 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TRINITY DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "WF2200721",
         "date": "2022-06-05",
         "time": "11:24:35 AM",
@@ -8,7 +63,7 @@
         "location": "LA HONDA RD / FRIARS LN",
         "latitude": null,
         "longitude": null,
-        "units": "E58 >E1781"
+        "units": ">E1781"
     },
     {
         "id": "NF2205689",
@@ -19,40 +74,7 @@
         "location": "MANOR DR / FREMONT AVE",
         "latitude": 37.6488683209569,
         "longitude": -122.487173462411,
-        "units": ">E71"
-    },
-    {
-        "id": "SF2206350",
-        "date": "2022-06-05",
-        "time": "11:18:42 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "OLD COUNTY RD / RALSTON AVE",
-        "latitude": 37.5209913950639,
-        "longitude": -122.275297679547,
-        "units": ">E14 CM11X2 ?TAC15"
-    },
-    {
-        "id": "NF2205688",
-        "date": "2022-06-05",
-        "time": "11:17:40 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "6655 MISSION ST ,DCY",
-        "latitude": 37.7020322105696,
-        "longitude": -122.462861582162,
-        "units": ">E92"
-    },
-    {
-        "id": "WF2200720",
-        "date": "2022-06-05",
-        "time": "11:16:57 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "50 PASO DEL ARROYO ,PVY",
-        "latitude": 37.37751120056,
-        "longitude": -122.202620657937,
-        "units": ">E8"
+        "units": "*>E71"
     },
     {
         "id": "WF2200719",
@@ -63,7 +85,7 @@
         "location": "LA HONDA RD / PORTOLA RD",
         "latitude": null,
         "longitude": null,
-        "units": ">E7 >E1791"
+        "units": "E7"
     },
     {
         "id": "BF2201735",
