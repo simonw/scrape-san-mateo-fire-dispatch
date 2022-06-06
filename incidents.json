@@ -1,36 +1,47 @@
 [
     {
-        "id": "NF2205709",
+        "id": "NF2205710",
         "date": "2022-06-05",
-        "time": "6:58:12 PM",
+        "time": "7:50:12 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
+        "location": "ESCUELA DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E95"
     },
     {
-        "id": "SF2206366",
+        "id": "SF2206370",
         "date": "2022-06-05",
-        "time": "6:57:43 PM",
+        "time": "7:49:10 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "900 YATES WAY ,SMO",
+        "latitude": 37.5444637926389,
+        "longitude": -122.295014113287,
+        "units": ">E26"
+    },
+    {
+        "id": "SF2206369",
+        "date": "2022-06-05",
+        "time": "7:43:59 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MARINA VISTA #405 ,SMO",
+        "location": "RALSTON AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E14"
     },
     {
-        "id": "HF2201234",
+        "id": "CF2203465",
         "date": "2022-06-05",
-        "time": "6:53:18 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "1001 MAIN ST ,HMB",
-        "latitude": 37.4552652521776,
-        "longitude": -122.429025244892,
-        "units": ">E40"
+        "time": "7:37:52 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BELLA VISTA DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
     },
     {
         "id": "BF2201743",
@@ -41,6 +52,6 @@
         "location": "1150 EL CAMINO REAL ,SNB",
         "latitude": 37.6369388775055,
         "longitude": -122.418601675439,
-        "units": "T51 >BC16 TAC35 CM31X1 >E51"
+        "units": "CM31X1 >E51 TAC35 >BC16 >T51"
     }
 ]
