@@ -1,25 +1,47 @@
 [
     {
-        "id": "MF2204306",
+        "id": "FF2203160",
         "date": "2022-06-07",
-        "time": "4:23:16 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "4:41:26 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,NFO",
+        "location": "CHESTNUT AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "RF2205610",
+        "date": "2022-06-07",
+        "time": "4:40:54 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MEDFORD AVE ,RCY",
         "latitude": null,
         "longitude": null,
         "units": "E10"
     },
     {
-        "id": "MF2204305",
+        "id": "RF2205609",
         "date": "2022-06-07",
-        "time": "4:19:20 PM",
+        "time": "4:35:29 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RIVIERA CIR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "T9"
+    },
+    {
+        "id": "MF2204307",
+        "date": "2022-06-07",
+        "time": "4:29:30 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "404 5TH AVE ,NFO",
-        "latitude": 37.4725304808083,
-        "longitude": -122.203886896455,
-        "units": ">E5"
+        "category": "Traffic accident pd request c2",
+        "location": "MIDDLE AVE / EL CAMINO REAL",
+        "latitude": 37.450472927918,
+        "longitude": -122.177180362371,
+        "units": ""
     },
     {
         "id": "MF2204303",
@@ -33,17 +55,6 @@
         "units": ">E3"
     },
     {
-        "id": "BF2201770",
-        "date": "2022-06-07",
-        "time": "4:08:20 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OAKMONT DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
         "id": "RF2205600",
         "date": "2022-06-07",
         "time": "4:05:33 PM",
@@ -52,18 +63,7 @@
         "location": "COMMERCIAL ST / OLD COUNTY RD",
         "latitude": 37.5033975851622,
         "longitude": -122.254621936592,
-        "units": "TAC15 E1771 >E20 CM11X2 >PR3E>E13 >BC3 WT108 E9 >E14"
-    },
-    {
-        "id": "HF2201247",
-        "date": "2022-06-07",
-        "time": "3:59:44 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BALBOA BLVD ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
+        "units": "TAC15 >E1771 >E20 CM11X2 >PR3E>E13 >BC3 WT108 >E9 >E14"
     },
     {
         "id": "CF2203507",
@@ -74,7 +74,7 @@
         "location": "HEMLOCK AVE / E HILLCREST BLVD",
         "latitude": 37.6029352480486,
         "longitude": -122.390877387206,
-        "units": "PR8D >TO8 ?CCFINV >T34 CM21X4>E94 >E37 E32 >BC16 >E34"
+        "units": "PR8D >TO8 ?CCFINV >T34 CM21X4>E94 >E32 >E37 >E34 >E38"
     },
     {
         "id": "CF2203504",
@@ -86,17 +86,6 @@
         "latitude": 37.604304817428,
         "longitude": -122.390608333801,
         "units": ""
-    },
-    {
-        "id": "CF2203502",
-        "date": "2022-06-07",
-        "time": "3:50:26 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "400 MURCHISON DR ,MLB",
-        "latitude": 37.5938516139867,
-        "longitude": -122.390156482832,
-        "units": ">E21"
     },
     {
         "id": "BF2201766",
