@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2206454",
+        "id": "MF2204306",
         "date": "2022-06-07",
-        "time": "4:01:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "921 E HILLSDALE BLVD ,FCY",
-        "latitude": 37.5565153492704,
-        "longitude": -122.275612886242,
-        "units": "E29"
+        "time": "4:23:16 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "MF2204305",
+        "date": "2022-06-07",
+        "time": "4:19:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "404 5TH AVE ,NFO",
+        "latitude": 37.4725304808083,
+        "longitude": -122.203886896455,
+        "units": ">E5"
+    },
+    {
+        "id": "MF2204303",
+        "date": "2022-06-07",
+        "time": "4:13:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "WATKINS AVE / TRAIN TRACK",
+        "latitude": 37.4621191053324,
+        "longitude": -122.19386930029,
+        "units": ">E3"
+    },
+    {
+        "id": "BF2201770",
+        "date": "2022-06-07",
+        "time": "4:08:20 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "OAKMONT DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "RF2205600",
+        "date": "2022-06-07",
+        "time": "4:05:33 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Grass fire",
+        "location": "COMMERCIAL ST / OLD COUNTY RD",
+        "latitude": 37.5033975851622,
+        "longitude": -122.254621936592,
+        "units": "TAC15 E1771 >E20 CM11X2 >PR3E>E13 >BC3 WT108 E9 >E14"
     },
     {
         "id": "HF2201247",
@@ -22,17 +66,6 @@
         "units": ">E44"
     },
     {
-        "id": "SF2206453",
-        "date": "2022-06-07",
-        "time": "3:58:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N IDAHO ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "T21"
-    },
-    {
         "id": "CF2203507",
         "date": "2022-06-07",
         "time": "3:57:05 PM",
@@ -41,7 +74,7 @@
         "location": "HEMLOCK AVE / E HILLCREST BLVD",
         "latitude": 37.6029352480486,
         "longitude": -122.390877387206,
-        "units": "CM21X4 E94 >BC16 E64 E24TAC26"
+        "units": "PR8D >TO8 ?CCFINV >T34 CM21X4>E94 >E37 E32 >BC16 >E34"
     },
     {
         "id": "CF2203504",
@@ -52,7 +85,7 @@
         "location": "355 AVIADOR AVE ,MLB",
         "latitude": 37.604304817428,
         "longitude": -122.390608333801,
-        "units": ">TO8 >T34 >E37 BC123 ?CM21X1?TAC25 CH8A >E34 >E38 E33"
+        "units": ""
     },
     {
         "id": "CF2203502",
@@ -63,7 +96,7 @@
         "location": "400 MURCHISON DR ,MLB",
         "latitude": 37.5938516139867,
         "longitude": -122.390156482832,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "BF2201766",
@@ -74,18 +107,7 @@
         "location": "501 1ST AVE ,SNB",
         "latitude": 37.6248675424815,
         "longitude": -122.408198792223,
-        "units": "?VFIR22 ?CM31X2 BC17 E63 >E52E71 >PR16 >CH16"
-    },
-    {
-        "id": "WF2200734",
-        "date": "2022-06-07",
-        "time": "3:47:11 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "LA HONDA RD / EO SKYLINE BLVD",
-        "latitude": 37.3859156165163,
-        "longitude": -122.261286827248,
-        "units": "?TAC15 >SQ407"
+        "units": "?VFIR22 >CM31X2 >BC17 *>E63 >E52>E71 >PR16 >CH16"
     },
     {
         "id": "NF2205788",
@@ -96,7 +118,7 @@
         "location": "511 TUNNEL AVE ,BRS",
         "latitude": 37.706400248805,
         "longitude": -122.400707416675,
-        "units": "?NFAINV >E65 E1781 CM31X1 >BC20?VFIR23 >E51 >Q62 >E61 >E93"
+        "units": ">E65 CM31X1 >BC20 ?VFIR23 >E51>Q62 >E61 >E93 >PR20B >BC11"
     },
     {
         "id": "BF2201765",
