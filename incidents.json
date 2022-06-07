@@ -1,14 +1,91 @@
 [
     {
-        "id": "HF2201246",
+        "id": "SF2206454",
         "date": "2022-06-07",
-        "time": "3:39:08 PM",
+        "time": "4:01:08 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "921 E HILLSDALE BLVD ,FCY",
+        "latitude": 37.5565153492704,
+        "longitude": -122.275612886242,
+        "units": "E29"
+    },
+    {
+        "id": "HF2201247",
+        "date": "2022-06-07",
+        "time": "3:59:44 PM",
         "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "8888 N CABRILLO HWY ,MON",
-        "latitude": 37.5346098263686,
-        "longitude": -122.518508340538,
-        "units": "E41"
+        "category": "Medical aid",
+        "location": "BALBOA BLVD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "SF2206453",
+        "date": "2022-06-07",
+        "time": "3:58:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N IDAHO ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "T21"
+    },
+    {
+        "id": "CF2203507",
+        "date": "2022-06-07",
+        "time": "3:57:05 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Grass fire",
+        "location": "HEMLOCK AVE / E HILLCREST BLVD",
+        "latitude": 37.6029352480486,
+        "longitude": -122.390877387206,
+        "units": "CM21X4 E94 >BC16 E64 E24TAC26"
+    },
+    {
+        "id": "CF2203504",
+        "date": "2022-06-07",
+        "time": "3:54:08 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Structure fire",
+        "location": "355 AVIADOR AVE ,MLB",
+        "latitude": 37.604304817428,
+        "longitude": -122.390608333801,
+        "units": ">TO8 >T34 >E37 BC123 ?CM21X1?TAC25 CH8A >E34 >E38 E33"
+    },
+    {
+        "id": "CF2203502",
+        "date": "2022-06-07",
+        "time": "3:50:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "400 MURCHISON DR ,MLB",
+        "latitude": 37.5938516139867,
+        "longitude": -122.390156482832,
+        "units": "E21"
+    },
+    {
+        "id": "BF2201766",
+        "date": "2022-06-07",
+        "time": "3:49:47 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Grass fire",
+        "location": "501 1ST AVE ,SNB",
+        "latitude": 37.6248675424815,
+        "longitude": -122.408198792223,
+        "units": "?VFIR22 ?CM31X2 BC17 E63 >E52E71 >PR16 >CH16"
+    },
+    {
+        "id": "WF2200734",
+        "date": "2022-06-07",
+        "time": "3:47:11 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "LA HONDA RD / EO SKYLINE BLVD",
+        "latitude": 37.3859156165163,
+        "longitude": -122.261286827248,
+        "units": "?TAC15 >SQ407"
     },
     {
         "id": "NF2205788",
@@ -19,40 +96,7 @@
         "location": "511 TUNNEL AVE ,BRS",
         "latitude": 37.706400248805,
         "longitude": -122.400707416675,
-        "units": "BC11 BC17 Q62 >E65 E51E61 ?WT108 BC20 CM31X1 E81"
-    },
-    {
-        "id": "RF2205599",
-        "date": "2022-06-07",
-        "time": "3:25:48 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE / FLORENCE ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2203159",
-        "date": "2022-06-07",
-        "time": "3:17:31 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "SUSIE WAY #2 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "FF2203158",
-        "date": "2022-06-07",
-        "time": "3:11:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "RADBURN DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
+        "units": "?NFAINV >E65 E1781 CM31X1 >BC20?VFIR23 >E51 >Q62 >E61 >E93"
     },
     {
         "id": "BF2201765",
@@ -64,16 +108,5 @@
         "latitude": 37.6243047957051,
         "longitude": -122.414093587335,
         "units": "T51"
-    },
-    {
-        "id": "HF2201245",
-        "date": "2022-06-07",
-        "time": "2:07:59 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BARRANCA ST ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": "E44"
     }
 ]
