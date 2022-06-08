@@ -1,47 +1,58 @@
 [
     {
-        "id": "RF2205645",
+        "id": "FF2203178",
         "date": "2022-06-08",
-        "time": "11:45:40 AM",
+        "time": "12:01:18 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EVERGREEN DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "RF2205646",
+        "date": "2022-06-08",
+        "time": "12:00:56 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "SEAPORT BLVD / E BAYSHORE RD",
+        "location": "CHARTER ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
+        "units": ">CM11X4 T9 >E11"
     },
     {
-        "id": "RF2205644",
+        "id": "WF2200738",
         "date": "2022-06-08",
-        "time": "11:39:32 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:59:33 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "LAUREL ST #1 ,SNC",
+        "location": "PORTOLA RD #BLDG 6 ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
+        "units": ">E8"
     },
     {
-        "id": "NF2205812",
+        "id": "MF2204339",
         "date": "2022-06-08",
-        "time": "11:25:22 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #108A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "MF2204337",
-        "date": "2022-06-08",
-        "time": "11:22:15 AM",
+        "time": "11:56:38 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "OAKWOOD DR ,EPA",
+        "location": "UNIVERSITY AVE #106 ,EPA",
         "latitude": null,
         "longitude": null,
         "units": ">E2"
+    },
+    {
+        "id": "NF2205813",
+        "date": "2022-06-08",
+        "time": "11:54:04 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Lock out - vehicle",
+        "location": "175 2ND AVE ,DCY",
+        "latitude": 37.6903296249249,
+        "longitude": -122.463053895451,
+        "units": "E92"
     },
     {
         "id": "SF2206487",
@@ -52,7 +63,7 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E25"
+        "units": ""
     },
     {
         "id": "DF2200966",
@@ -63,17 +74,6 @@
         "location": "WRIGHT DR ,LMR",
         "latitude": null,
         "longitude": null,
-        "units": ">VFIR22 >E59 >R57"
-    },
-    {
-        "id": "FF2203177",
-        "date": "2022-06-08",
-        "time": "10:35:03 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALLERTON AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E65"
+        "units": ">VFIR22 *>E59"
     }
 ]
