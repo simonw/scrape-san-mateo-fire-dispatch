@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2205650",
+        "date": "2022-06-08",
+        "time": "1:39:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE PLZ ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "NF2205818",
+        "date": "2022-06-08",
+        "time": "1:37:00 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "REDWOOD WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "NF2205817",
+        "date": "2022-06-08",
+        "time": "1:28:49 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "TERRA NOVA BLVD #C ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "SF2206495",
         "date": "2022-06-08",
         "time": "1:24:44 PM",
@@ -8,18 +41,18 @@
         "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "SF2206494",
         "date": "2022-06-08",
         "time": "1:23:58 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Grass fire",
-        "location": "EDGEWATER BLVD / E HILLSDALE BLVD",
+        "category": "Structure fire",
+        "location": "900 E HILLSDALE BLVD ,FCY",
         "latitude": 37.5543267768894,
         "longitude": -122.277382494056,
-        "units": "E29"
+        "units": ">BC5D >BC5 >CM21X2 >TAC25 >E29>E28 >E14 >T23 >E24 >E26"
     },
     {
         "id": "NF2205816",
@@ -31,17 +64,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E91"
-    },
-    {
-        "id": "NF2205815",
-        "date": "2022-06-08",
-        "time": "1:05:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ASPEN DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
     },
     {
         "id": "MF2204341",
@@ -63,6 +85,6 @@
         "location": "RAINIER AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
+        "units": "*>E72"
     }
 ]
