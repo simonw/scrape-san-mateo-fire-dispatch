@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2204363",
+        "date": "2022-06-09",
+        "time": "10:12:09 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD / OVER 101",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E2"
+    },
+    {
+        "id": "CF2203544",
+        "date": "2022-06-09",
+        "time": "9:57:16 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GREVILLEA CT ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
         "id": "FF2203195",
         "date": "2022-06-09",
         "time": "9:49:03 AM",
@@ -8,7 +30,7 @@
         "location": "CRESTWOOD DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "NF2205842",
@@ -19,28 +41,6 @@
         "location": "2600 GENEVA AVE ,DCY",
         "latitude": 37.7056718330871,
         "longitude": -122.419874157561,
-        "units": ">E81"
-    },
-    {
-        "id": "SF2206529",
-        "date": "2022-06-09",
-        "time": "9:42:22 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1450 TARPON ST ,FCY",
-        "latitude": 37.559043951811,
-        "longitude": -122.248765898385,
-        "units": "E29"
-    },
-    {
-        "id": "NF2205841",
-        "date": "2022-06-09",
-        "time": "9:40:34 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MARTIN TRL ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
+        "units": ">E93 >CM31X1 >E81"
     }
 ]
