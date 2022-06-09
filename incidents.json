@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2206545",
+        "date": "2022-06-09",
+        "time": "4:42:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T23"
+    },
+    {
+        "id": "NF2205852",
+        "date": "2022-06-09",
+        "time": "4:35:47 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "HICKEY BLVD / ST FRANCIS BLVD",
+        "latitude": 37.6632684367197,
+        "longitude": -122.475733334607,
+        "units": ">E94"
+    },
+    {
+        "id": "RF2205689",
+        "date": "2022-06-09",
+        "time": "4:35:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Grass fire",
+        "location": "SEAPORT BLVD / CHESAPEAKE DR",
+        "latitude": 37.4989256148619,
+        "longitude": -122.212185440977,
+        "units": ">E11 >E9 PR3E E5 >CM11X4BC1 ?VFIR23"
+    },
+    {
+        "id": "SF2206544",
+        "date": "2022-06-09",
+        "time": "4:29:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #212 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "FF2203206",
+        "date": "2022-06-09",
+        "time": "4:25:57 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "C ST #1 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
         "id": "SF2206543",
         "date": "2022-06-09",
         "time": "4:25:18 PM",
@@ -8,7 +63,7 @@
         "location": "NB 101 / E HILLSDALE BLVD OFF RAMP",
         "latitude": 37.5414337270627,
         "longitude": -122.284747142435,
-        "units": "BC11 T23 ?TAC26 ?CM21X2 ?E27"
+        "units": ">E27"
     },
     {
         "id": "SF2206542",
@@ -30,29 +85,18 @@
         "location": "FLORES ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
+        "units": ">E28"
     },
     {
         "id": "RF2205688",
         "date": "2022-06-09",
         "time": "4:21:10 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
+        "category": "Full assignment response",
         "location": "1001 LAUREL ST ,SNC",
         "latitude": 37.5013370868225,
         "longitude": -122.254090740883,
-        "units": ">E13 >BC3 T9 >CM11X3 ?TAC15"
-    },
-    {
-        "id": "NF2205851",
-        "date": "2022-06-09",
-        "time": "4:17:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HICKEY BLVD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "?TAC15 >CM11X3 >T9 >E13 >BC3>E14 ?E16"
     },
     {
         "id": "RF2205687",
@@ -74,6 +118,6 @@
         "location": "3506 CASANOVA DR ,SMO",
         "latitude": 37.5406924596415,
         "longitude": -122.287792721045,
-        "units": ">CM21X3 >BC5 >E23 >E25 >TAC25>E29 >BC8 >PR5F >PR5B >E14"
+        "units": ">CM21X3 >BC5 >E23 >E25 >TAC25>PR5F >PR5B >E26 >T21 PR5C"
     }
 ]
