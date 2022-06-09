@@ -1,5 +1,27 @@
 [
     {
+        "id": "LF2200490",
+        "date": "2022-06-09",
+        "time": "1:42:50 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SWEETWOOD DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "WF2200743",
+        "date": "2022-06-09",
+        "time": "1:32:14 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALPINE RD ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E8"
+    },
+    {
         "id": "MF2204368",
         "date": "2022-06-09",
         "time": "1:26:18 PM",
@@ -8,7 +30,7 @@
         "location": "CURTIS AVE #3 ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
+        "units": ">E11"
     },
     {
         "id": "BF2201794",
@@ -19,18 +41,7 @@
         "location": "340 ALLEN DR ,SNB",
         "latitude": 37.6314969929404,
         "longitude": -122.45862127909,
-        "units": ">E52 T51 >CM31X5 >TAC35 E64E72"
-    },
-    {
-        "id": "CF2203546",
-        "date": "2022-06-09",
-        "time": "1:08:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HOWARD AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ">E52"
     },
     {
         "id": "HF2201263",
@@ -41,6 +52,6 @@
         "location": "320 10TH ST ,MON",
         "latitude": 37.5391665666202,
         "longitude": -122.514864600291,
-        "units": "CM41X5 ?TAC45 E40 >E41 >E44>BC10"
+        "units": "CM41X5 ?TAC45 E40 >E41 *>E44>BC10"
     }
 ]
