@@ -1,14 +1,58 @@
 [
     {
-        "id": "RF2205703",
+        "id": "MF2204383",
         "date": "2022-06-09",
-        "time": "9:27:12 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "9:42:10 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WARRINGTON AVE ,NFO",
+        "location": "FELTON DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
+        "units": "E6"
+    },
+    {
+        "id": "RF2205704",
+        "date": "2022-06-09",
+        "time": "9:41:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROCKPORT AVE ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "SF2206554",
+        "date": "2022-06-09",
+        "time": "9:39:17 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAUREL AVE #205 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "HF2201267",
+        "date": "2022-06-09",
+        "time": "9:37:49 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SONORA AVE ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "BF2201801",
+        "date": "2022-06-09",
+        "time": "9:35:41 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "528 4TH AVE ,SNB",
+        "latitude": 37.6259207595562,
+        "longitude": -122.405587140282,
+        "units": ">E51"
     },
     {
         "id": "FF2203215",
@@ -19,29 +63,7 @@
         "location": "OLYMPIC DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "NF2205862",
-        "date": "2022-06-09",
-        "time": "9:17:44 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MONTEREY RD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "BF2201800",
-        "date": "2022-06-09",
-        "time": "9:16:15 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ""
     },
     {
         "id": "CF2203561",
@@ -52,7 +74,7 @@
         "location": "TROUSDALE DR #1067B ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "FF2203213",
@@ -64,16 +86,5 @@
         "latitude": 37.6516026996894,
         "longitude": -122.417729144815,
         "units": ">BC17 ?CM31X2 >E65 >E63 ?TAC35"
-    },
-    {
-        "id": "FF2203212",
-        "date": "2022-06-09",
-        "time": "9:03:21 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "JAMES CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
     }
 ]
