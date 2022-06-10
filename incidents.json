@@ -1,5 +1,16 @@
 [
     {
+        "id": "RF2205730",
+        "date": "2022-06-10",
+        "time": "3:05:54 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "531 STANFORD AVE ,NFO",
+        "latitude": 37.4783435279594,
+        "longitude": -122.209703424206,
+        "units": ">T9"
+    },
+    {
         "id": "NF2205884",
         "date": "2022-06-10",
         "time": "3:02:27 PM",
@@ -8,7 +19,7 @@
         "location": "IMPERIAL WAY #226 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "BF2201809",
@@ -19,40 +30,7 @@
         "location": "676 4TH AVE ,SNB",
         "latitude": 37.628620569254,
         "longitude": -122.407141431457,
-        "units": ">E51 >T51 >BC16 E52 >CM31X2>TAC35 E61"
-    },
-    {
-        "id": "NF2205883",
-        "date": "2022-06-10",
-        "time": "2:51:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "3240 BAYSHORE BLVD ,BRS",
-        "latitude": 37.6941987762796,
-        "longitude": -122.406797705518,
-        "units": "*>E81"
-    },
-    {
-        "id": "SF2206584",
-        "date": "2022-06-10",
-        "time": "2:44:32 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREVIEW AVE #3 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "SF2206583",
-        "date": "2022-06-10",
-        "time": "2:39:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #525 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">CM31X2 >E51 >TAC35 >BC16 >T51"
     },
     {
         "id": "SF2206581",
@@ -63,6 +41,6 @@
         "location": "20 N QUEBEC ST ,SMO",
         "latitude": 37.5783617464676,
         "longitude": -122.312505144727,
-        "units": ">CM21X2 ?TAC25 >PR5F >PR5B >PR5C"
+        "units": ">CM21X2 ?TAC25 >PR5F"
     }
 ]
