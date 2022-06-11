@@ -1,58 +1,69 @@
 [
     {
-        "id": "MF2204406",
+        "id": "SF2206600",
         "date": "2022-06-10",
-        "time": "7:00:23 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "7:54:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "LAUREL ST ,MNP",
+        "location": "DEL MONTE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E23"
     },
     {
-        "id": "RF2205737",
+        "id": "NF2205896",
         "date": "2022-06-10",
-        "time": "6:59:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "901 SHASTA ST ,RCY",
-        "latitude": 37.4790760898131,
-        "longitude": -122.221418664477,
-        "units": "E9"
-    },
-    {
-        "id": "RF2205736",
-        "date": "2022-06-10",
-        "time": "6:57:28 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN CARLOS AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": "E13"
-    },
-    {
-        "id": "NF2205894",
-        "date": "2022-06-10",
-        "time": "6:52:59 PM",
+        "time": "7:49:39 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
+        "location": "PIERCE ST #222 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": ">E95"
     },
     {
-        "id": "NF2205893",
+        "id": "BF2201813",
         "date": "2022-06-10",
-        "time": "6:49:01 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "7:47:31 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "2585 OAKMONT DR ,SNB",
+        "latitude": 37.6370028016132,
+        "longitude": -122.456755801678,
+        "units": ">E52"
+    },
+    {
+        "id": "DF2200981",
+        "date": "2022-06-10",
+        "time": "7:44:02 PM",
+        "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "WILDWOOD AVE ,DCY",
+        "location": "GERI PL ,EML",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ">E12"
+    },
+    {
+        "id": "DF2200980",
+        "date": "2022-06-10",
+        "time": "7:38:57 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Cliff rescue",
+        "location": "1 SAN GREGORIO BEACH RD ,SNG",
+        "latitude": 37.3231476337668,
+        "longitude": -122.401027417072,
+        "units": "E40 ?VFIR23 BC10 R40 >E59>R57"
+    },
+    {
+        "id": "RF2205739",
+        "date": "2022-06-10",
+        "time": "7:33:23 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #108 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "FF2203231",
@@ -63,17 +74,6 @@
         "location": "SB 101 / NO 380",
         "latitude": 37.6426283504007,
         "longitude": -122.406232661856,
-        "units": ">BC17 >T51 E51 E61 ?TAC35?CM31X4"
-    },
-    {
-        "id": "FF2203229",
-        "date": "2022-06-10",
-        "time": "6:06:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CYPRESS AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": "E61"
     }
 ]
