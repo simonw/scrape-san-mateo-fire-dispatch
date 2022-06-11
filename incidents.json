@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2206624",
+        "id": "SF2206625",
         "date": "2022-06-11",
-        "time": "12:42:51 PM",
+        "time": "1:01:31 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "FOLKSTONE AVE ,SMO",
+        "location": "SHOREVIEW AVE #3 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E24"
+    },
+    {
+        "id": "MF2204429",
+        "date": "2022-06-11",
+        "time": "12:50:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PIERCE RD #3 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "CF2203594",
+        "date": "2022-06-11",
+        "time": "12:48:35 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1333 OLD BAYSHORE HWY ,BRM",
+        "latitude": 37.5940483349132,
+        "longitude": -122.36527774304,
+        "units": "E34"
+    },
+    {
+        "id": "CF2203593",
+        "date": "2022-06-11",
+        "time": "12:48:18 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVIADOR AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "NF2205916",
@@ -20,60 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E81"
-    },
-    {
-        "id": "FF2203253",
-        "date": "2022-06-11",
-        "time": "12:27:07 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "670 GATEWAY BLVD ,SSF",
-        "latitude": 37.6577318453578,
-        "longitude": -122.397349346191,
-        "units": ">E65"
-    },
-    {
-        "id": "FF2203252",
-        "date": "2022-06-11",
-        "time": "12:23:27 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE #1 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2204427",
-        "date": "2022-06-11",
-        "time": "12:16:43 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALBERNI ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "RF2205763",
-        "date": "2022-06-11",
-        "time": "12:09:41 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FRANCISCAN CT ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "FF2203251",
-        "date": "2022-06-11",
-        "time": "11:50:02 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "SHERWOOD WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
     }
 ]
