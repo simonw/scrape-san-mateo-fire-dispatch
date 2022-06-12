@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2203260",
+        "date": "2022-06-11",
+        "time": "9:31:02 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E63"
+    },
+    {
+        "id": "RF2205772",
+        "date": "2022-06-11",
+        "time": "9:28:37 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "866 KAYNYNE AVE ,NFO",
+        "latitude": 37.4839898765585,
+        "longitude": -122.211111729351,
+        "units": "?E11"
+    },
+    {
         "id": "SF2206644",
         "date": "2022-06-11",
         "time": "9:03:56 PM",
@@ -11,28 +33,6 @@
         "units": ">E26"
     },
     {
-        "id": "MF2204444",
-        "date": "2022-06-11",
-        "time": "9:02:48 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "2345 CONNOLLY WAY ,EPA",
-        "latitude": 37.4677256911666,
-        "longitude": -122.130809780673,
-        "units": ">E2 R77 ?TAC16 ?CM11X1"
-    },
-    {
-        "id": "BF2201830",
-        "date": "2022-06-11",
-        "time": "8:53:22 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WILLIAMS AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "RF2205771",
         "date": "2022-06-11",
         "time": "8:52:23 PM",
@@ -41,6 +41,6 @@
         "location": "NB 101 / SO WHIPPLE AVE",
         "latitude": 37.5194827250338,
         "longitude": -122.262201492139,
-        "units": ">BC3 >E13 >E14 >T9 CM11X2?TAC15"
+        "units": ">T9"
     }
 ]
