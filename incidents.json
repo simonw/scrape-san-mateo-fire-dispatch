@@ -1,36 +1,80 @@
 [
     {
-        "id": "SF2206633",
+        "id": "NF2205926",
         "date": "2022-06-11",
-        "time": "5:17:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "6:00:08 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "CARLMONT DR ,BLM",
+        "location": "CUTTY CT ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
+        "units": "E71"
     },
     {
-        "id": "BF2201826",
+        "id": "RF2205769",
         "date": "2022-06-11",
-        "time": "5:15:22 PM",
+        "time": "5:53:27 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "BF2201828",
+        "date": "2022-06-11",
+        "time": "5:52:31 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "ELSTON DR ,SNB",
+        "location": "EL CAMINO REAL ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
+        "units": ">E51"
     },
     {
-        "id": "HF2201284",
+        "id": "NF2205925",
         "date": "2022-06-11",
-        "time": "4:57:13 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "5:45:52 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "MIRADA RD ,MIR",
+        "location": "ROSITA RD ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E41"
+        "units": ">E72"
+    },
+    {
+        "id": "MF2204439",
+        "date": "2022-06-11",
+        "time": "5:40:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MONTWOOD CIR ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "MF2204438",
+        "date": "2022-06-11",
+        "time": "5:35:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RUNNYMEDE ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "T2"
+    },
+    {
+        "id": "RF2205768",
+        "date": "2022-06-11",
+        "time": "5:33:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "823 HAMILTON ST ,RCY",
+        "latitude": 37.4861237450331,
+        "longitude": -122.229892405387,
+        "units": ">E9"
     },
     {
         "id": "DF2200989",
@@ -41,6 +85,6 @@
         "location": "SKYLINE BLVD #PLOT ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC15 >E40 >R56"
+        "units": "?TAC15 >R56"
     }
 ]
