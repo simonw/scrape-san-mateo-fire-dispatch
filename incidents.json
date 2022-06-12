@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2206644",
+        "date": "2022-06-11",
+        "time": "9:03:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "600 MARINERS ISLAND BLVD ,SMO",
+        "latitude": 37.5653117614035,
+        "longitude": -122.284812005061,
+        "units": ">E26"
+    },
+    {
+        "id": "MF2204444",
+        "date": "2022-06-11",
+        "time": "9:02:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "2345 CONNOLLY WAY ,EPA",
+        "latitude": 37.4677256911666,
+        "longitude": -122.130809780673,
+        "units": ">E2 R77 ?TAC16 ?CM11X1"
+    },
+    {
         "id": "BF2201830",
         "date": "2022-06-11",
         "time": "8:53:22 PM",
@@ -8,7 +30,7 @@
         "location": "WILLIAMS AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "RF2205771",
@@ -16,20 +38,9 @@
         "time": "8:52:23 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Traffic accident",
-        "location": "NB 101 / NO HOLLY ST",
+        "location": "NB 101 / SO WHIPPLE AVE",
         "latitude": 37.5194827250338,
         "longitude": -122.262201492139,
-        "units": "BC3 E13 T9 CM11X2 E14?TAC15"
-    },
-    {
-        "id": "NF2205934",
-        "date": "2022-06-11",
-        "time": "8:50:09 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">BC3 >E13 >E14 >T9 CM11X2?TAC15"
     }
 ]
