@@ -1,24 +1,57 @@
 [
     {
+        "id": "RF2205775",
+        "date": "2022-06-12",
+        "time": "12:02:59 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2356 GOODWIN AVE ,RCY",
+        "latitude": 37.4623955857139,
+        "longitude": -122.238095053695,
+        "units": "E12"
+    },
+    {
+        "id": "SF2206656",
+        "date": "2022-06-12",
+        "time": "12:01:24 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE #2516 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "RF2205774",
+        "date": "2022-06-12",
+        "time": "6/11/2022 11:57:23 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "1615 HUDSON ST ,RCY",
+        "latitude": 37.4698537202456,
+        "longitude": -122.22429376345,
+        "units": ">E10 >T9 >BC3 CM11X3 ?TAC15"
+    },
+    {
+        "id": "BF2201832",
+        "date": "2022-06-12",
+        "time": "6/11/2022 11:49:54 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #2218 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "SF2206655",
-        "date": "2022-06-11",
-        "time": "11:45:15 PM",
+        "date": "2022-06-12",
+        "time": "6/11/2022 11:45:15 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
         "location": "MARTIN DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "WF2200762",
-        "date": "2022-06-11",
-        "time": "11:09:13 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KINGS MOUNTAIN RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
+        "units": ">E26"
     }
 ]
