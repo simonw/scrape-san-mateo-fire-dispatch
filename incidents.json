@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2204486",
+        "id": "RF2205826",
         "date": "2022-06-13",
-        "time": "9:19:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:50:54 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "LOGAN LN ,ATN",
+        "location": "ENSIGN LN ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
+        "units": "E20"
+    },
+    {
+        "id": "SF2206714",
+        "date": "2022-06-13",
+        "time": "9:37:04 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "217 8TH AVE ,SMO",
+        "latitude": 37.5620104849916,
+        "longitude": -122.319536653574,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2205824",
+        "date": "2022-06-13",
+        "time": "9:29:39 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD #503 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "SF2206713",
@@ -19,18 +41,7 @@
         "location": "1722 S GRANT ST #5 ,SMO",
         "latitude": 37.5567484880996,
         "longitude": -122.302883867973,
-        "units": "CM21X5 >BC5 >E23 >E25 ?TAC25>E26 >T21"
-    },
-    {
-        "id": "RF2205822",
-        "date": "2022-06-13",
-        "time": "9:11:55 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLINTON ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": "CM21X5 *>BC5 >E23 ?TAC25 >T21"
     },
     {
         "id": "MF2204485",
@@ -42,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E2"
-    },
-    {
-        "id": "NF2205985",
-        "date": "2022-06-13",
-        "time": "9:05:38 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #407 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
