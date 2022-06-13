@@ -1,68 +1,46 @@
 [
     {
-        "id": "BF2201846",
+        "id": "FF2203289",
         "date": "2022-06-13",
-        "time": "2:58:58 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "3:22:10 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "FLEETWOOD DR ,SNB",
+        "location": "ROCCA AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": "E65"
     },
     {
-        "id": "NF2205991",
+        "id": "RF2205839",
         "date": "2022-06-13",
-        "time": "2:58:43 PM",
+        "time": "3:21:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "641 2ND AVE ,NFO",
+        "latitude": 37.4778843439098,
+        "longitude": -122.204822651757,
+        "units": ">E11"
+    },
+    {
+        "id": "RF2205838",
+        "date": "2022-06-13",
+        "time": "3:19:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO WHIPPLE AVE",
+        "latitude": 37.501502985081,
+        "longitude": -122.242206420289,
+        "units": "?TAC15 E9 T9 BC3 CM11X5>E16"
+    },
+    {
+        "id": "NF2205992",
+        "date": "2022-06-13",
+        "time": "3:09:07 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "HICKEY BLVD ,DCY",
+        "location": "PALMDALE AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "MF2204499",
-        "date": "2022-06-13",
-        "time": "2:51:36 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CONSTITUTION DR #BLDG 23 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "RF2205837",
-        "date": "2022-06-13",
-        "time": "2:41:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TURNBUCKLE DR #1912 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "RF2205836",
-        "date": "2022-06-13",
-        "time": "2:41:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLEVELAND ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "MF2204498",
-        "date": "2022-06-13",
-        "time": "2:41:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SPIROS WAY ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": ">E95"
     }
 ]
