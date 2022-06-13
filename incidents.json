@@ -1,5 +1,16 @@
 [
     {
+        "id": "RF2205812",
+        "date": "2022-06-13",
+        "time": "4:56:44 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2139 HILLCREST RD ,RCY",
+        "latitude": 37.4739207706615,
+        "longitude": -122.258264241033,
+        "units": ">E16"
+    },
+    {
         "id": "NF2205983",
         "date": "2022-06-13",
         "time": "4:38:36 AM",
@@ -8,28 +19,6 @@
         "location": "75 SAN MIGUEL AVE ,DCY",
         "latitude": 37.6744926183868,
         "longitude": -122.481619934207,
-        "units": "BC123 T95 E95 E94 E71?TAC35 ?CM31X3"
-    },
-    {
-        "id": "MF2204479",
-        "date": "2022-06-13",
-        "time": "4:25:48 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "RF2205811",
-        "date": "2022-06-13",
-        "time": "4:10:35 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
+        "units": ">BC123 ?TAC35 >T95 CM31X3 >E95"
     }
 ]
