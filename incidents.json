@@ -1,36 +1,47 @@
 [
     {
-        "id": "HF2201313",
+        "id": "SF2206753",
         "date": "2022-06-14",
-        "time": "9:05:26 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KELLY AVE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E40"
+        "time": "9:21:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "222 W 39TH AVE ,SMO",
+        "latitude": 37.5309086826939,
+        "longitude": -122.300154674965,
+        "units": "CM21X5 >E23 ?TAC25"
     },
     {
-        "id": "HF2201312",
+        "id": "HF2201314",
         "date": "2022-06-14",
-        "time": "8:59:06 AM",
+        "time": "9:18:30 AM",
         "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "206 SAN CLEMENTE RD ,ELG",
-        "latitude": 37.5067095275904,
-        "longitude": -122.466259656624,
+        "category": "Landscape fire",
+        "location": "100 POPLAR ST ,HMB",
+        "latitude": 37.4550758645158,
+        "longitude": -122.44350326144,
         "units": ">E41"
     },
     {
-        "id": "NF2206019",
+        "id": "NF2206020",
         "date": "2022-06-14",
-        "time": "8:52:24 AM",
+        "time": "9:17:05 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "EATON AVE ,DCY",
+        "location": "LUNDY WAY ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E71"
+    },
+    {
+        "id": "FF2203303",
+        "date": "2022-06-14",
+        "time": "9:05:47 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HICKEY BLVD #27 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
     },
     {
         "id": "NF2206017",
@@ -41,17 +52,6 @@
         "location": "1901 JUNIPERO SERRA BLVD ,DCY",
         "latitude": 37.7029531482654,
         "longitude": -122.470222418823,
-        "units": "*>E86 >PR20D >E91"
-    },
-    {
-        "id": "FF2203302",
-        "date": "2022-06-14",
-        "time": "8:13:13 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": ">PR20D"
     }
 ]
