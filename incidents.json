@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2206009",
+        "date": "2022-06-13",
+        "time": "11:21:58 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD #223 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2204507",
+        "date": "2022-06-13",
+        "time": "11:17:17 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1805 WHITE OAK DR ,MNP",
+        "latitude": 37.4335947533348,
+        "longitude": -122.191048199016,
+        "units": ">E4"
+    },
+    {
         "id": "FF2203297",
         "date": "2022-06-13",
         "time": "10:50:12 PM",
@@ -11,28 +33,6 @@
         "units": ">Q62"
     },
     {
-        "id": "MF2204506",
-        "date": "2022-06-13",
-        "time": "10:46:09 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COOLEY AVE #1 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2203296",
-        "date": "2022-06-13",
-        "time": "10:42:01 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
         "id": "DF2201003",
         "date": "2022-06-13",
         "time": "10:29:23 PM",
@@ -41,6 +41,6 @@
         "location": "SKYLINE BLVD / QUAIL CT",
         "latitude": 37.4384809129697,
         "longitude": -122.322470293806,
-        "units": "E1791 TAC15 >E56 >BC11"
+        "units": "TAC15 >E56 >BC11"
     }
 ]
