@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2204506",
+        "date": "2022-06-13",
+        "time": "10:46:09 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE #1 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "FF2203296",
+        "date": "2022-06-13",
+        "time": "10:42:01 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTWOOD DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "CF2203651",
         "date": "2022-06-13",
         "time": "10:34:16 PM",
@@ -8,7 +30,7 @@
         "location": "PALM AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "?E37"
+        "units": ">E37"
     },
     {
         "id": "CF2203650",
@@ -19,7 +41,7 @@
         "location": "1125 AIRPORT BLVD ,BRM",
         "latitude": 37.5913231033347,
         "longitude": -122.356962406895,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "DF2201003",
@@ -27,42 +49,9 @@
         "time": "10:29:23 PM",
         "summary": "County Fire on Control-1",
         "category": "Vehicle fire",
-        "location": "SKYLINE BLVD / HENRIK IBSEN RD",
+        "location": "SKYLINE BLVD / QUAIL CT",
         "latitude": 37.4384809129697,
         "longitude": -122.322470293806,
-        "units": "E56 E58 ?TAC15"
-    },
-    {
-        "id": "NF2206008",
-        "date": "2022-06-13",
-        "time": "10:28:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TALBOT AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E71"
-    },
-    {
-        "id": "FF2203295",
-        "date": "2022-06-13",
-        "time": "10:26:58 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "SF2206744",
-        "date": "2022-06-13",
-        "time": "10:13:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VILLA TE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": "E1791 >E56 E58 TAC15 E17BC11"
     }
 ]
