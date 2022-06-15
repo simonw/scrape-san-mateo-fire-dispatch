@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2206806",
+        "date": "2022-06-15",
+        "time": "11:44:23 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SUNNYSLOPE AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "RF2205896",
+        "date": "2022-06-15",
+        "time": "11:41:57 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
         "id": "SF2206805",
         "date": "2022-06-15",
         "time": "11:27:24 AM",
@@ -8,7 +30,7 @@
         "location": "320 N ELLSWORTH AVE ,SMO",
         "latitude": 37.5722767130492,
         "longitude": -122.330096167084,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "SF2206804",
@@ -30,7 +52,7 @@
         "location": "ROQUENA DR ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": ">VFIR22 E58 ?CO57"
+        "units": ">VFIR22 >E58"
     },
     {
         "id": "NF2206072",
@@ -44,17 +66,6 @@
         "units": ""
     },
     {
-        "id": "MF2204550",
-        "date": "2022-06-15",
-        "time": "11:08:04 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #321 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
         "id": "RF2205895",
         "date": "2022-06-15",
         "time": "10:31:50 AM",
@@ -63,6 +74,6 @@
         "location": "871 KAYNYNE AVE ,RCY",
         "latitude": 37.4837537561425,
         "longitude": -122.211292449983,
-        "units": ">E11 >PR3D"
+        "units": ">PR3D"
     }
 ]
