@@ -1,14 +1,36 @@
 [
     {
-        "id": "FF2203321",
+        "id": "MF2204550",
         "date": "2022-06-15",
-        "time": "10:41:55 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "11:08:04 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "FORBES BLVD #7126 ,SSF",
+        "location": "CRANE ST #321 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": ">E6"
+    },
+    {
+        "id": "SF2206803",
+        "date": "2022-06-15",
+        "time": "11:02:22 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S CLAREMONT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "NF2206070",
+        "date": "2022-06-15",
+        "time": "10:57:52 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "TERRA NOVA BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
     },
     {
         "id": "NF2206069",
@@ -19,7 +41,7 @@
         "location": "CORONADO AVE #318 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">T95 >E95"
     },
     {
         "id": "RF2205895",
@@ -30,39 +52,6 @@
         "location": "871 KAYNYNE AVE ,RCY",
         "latitude": 37.4837537561425,
         "longitude": -122.211292449983,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2206068",
-        "date": "2022-06-15",
-        "time": "10:28:51 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c2",
-        "location": "785 PRICE ST ,DCY",
-        "latitude": 37.6950854199234,
-        "longitude": -122.454585378982,
-        "units": ">E91"
-    },
-    {
-        "id": "BF2201859",
-        "date": "2022-06-15",
-        "time": "10:28:17 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #2A ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "MF2204547",
-        "date": "2022-06-15",
-        "time": "10:24:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Lock out - vehicle",
-        "location": "75 ARBOR RD ,MNP",
-        "latitude": 37.4413707193887,
-        "longitude": -122.178839520427,
-        "units": ">E6"
+        "units": ">E11 >PR3D"
     }
 ]
