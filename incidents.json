@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2203711",
+        "date": "2022-06-16",
+        "time": "4:27:02 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SPRUCE ST ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T51"
+    },
+    {
+        "id": "FF2203347",
+        "date": "2022-06-16",
+        "time": "4:16:15 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRAND AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "SF2206859",
+        "date": "2022-06-16",
+        "time": "4:02:07 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "410 OCCIDENTAL AVE ,SMO",
+        "latitude": 37.5651304533978,
+        "longitude": -122.346874706869,
+        "units": ">E37"
+    },
+    {
         "id": "BF2201878",
         "date": "2022-06-16",
         "time": "3:35:20 PM",
@@ -8,40 +41,7 @@
         "location": "1050 BAYHILL DR ,SNB",
         "latitude": 37.6307287196387,
         "longitude": -122.419902599821,
-        "units": ">CM31X1 >BC16 >T51"
-    },
-    {
-        "id": "RF2205943",
-        "date": "2022-06-16",
-        "time": "3:34:40 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JACKSON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "RF2205942",
-        "date": "2022-06-16",
-        "time": "3:30:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 101 / NO WOODSIDE RD",
-        "latitude": 37.4924375527393,
-        "longitude": -122.221572014907,
-        "units": ">E9"
-    },
-    {
-        "id": "NF2206119",
-        "date": "2022-06-16",
-        "time": "3:28:38 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CLIFF SWALLOW CT ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
+        "units": ">CM31X1 >E52 >BC16 >CH16"
     },
     {
         "id": "HF2201333",
@@ -63,6 +63,6 @@
         "location": "105 DIGGES CANYON RD ,SON",
         "latitude": 37.4879085010625,
         "longitude": -122.418948529118,
-        "units": "*>E40"
+        "units": ""
     }
 ]
