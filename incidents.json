@@ -1,58 +1,47 @@
 [
     {
-        "id": "RF2205941",
+        "id": "BF2201878",
         "date": "2022-06-16",
-        "time": "3:21:15 PM",
+        "time": "3:35:20 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "1050 BAYHILL DR ,SNB",
+        "latitude": 37.6307287196387,
+        "longitude": -122.419902599821,
+        "units": ">CM31X1 >BC16 >T51"
+    },
+    {
+        "id": "RF2205943",
+        "date": "2022-06-16",
+        "time": "3:34:40 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "AVE ,NFO",
+        "location": "JACKSON AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
+        "units": ">E14"
     },
     {
-        "id": "RF2205940",
+        "id": "RF2205942",
         "date": "2022-06-16",
-        "time": "3:20:59 PM",
+        "time": "3:30:01 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JEFFERSON AVE #611 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "category": "Traffic accident",
+        "location": "SB 101 / NO WOODSIDE RD",
+        "latitude": 37.4924375527393,
+        "longitude": -122.221572014907,
+        "units": ">E9"
     },
     {
-        "id": "CF2203708",
+        "id": "NF2206119",
         "date": "2022-06-16",
-        "time": "3:18:45 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CORTEZ AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "NF2206118",
-        "date": "2022-06-16",
-        "time": "3:17:45 PM",
+        "time": "3:28:38 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "WESTPARK DR ,DCY",
+        "location": "CLIFF SWALLOW CT ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": "T95"
-    },
-    {
-        "id": "NF2206117",
-        "date": "2022-06-16",
-        "time": "3:17:08 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PONCETTA DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ">E93"
     },
     {
         "id": "HF2201333",
@@ -63,51 +52,7 @@
         "location": "2001 MIRAMONTES POINT RD ,SOS",
         "latitude": 37.4340362534449,
         "longitude": -122.416949888952,
-        "units": ">BC10 >E41"
-    },
-    {
-        "id": "MF2204586",
-        "date": "2022-06-16",
-        "time": "3:09:13 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "W SELBY LN / NIMITZ AVE",
-        "latitude": 37.4554927905572,
-        "longitude": -122.221115652687,
-        "units": ">E3"
-    },
-    {
-        "id": "MF2204585",
-        "date": "2022-06-16",
-        "time": "3:04:32 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Landscape fire",
-        "location": "100 INDEPENDENCE DR ,MNP",
-        "latitude": 37.4832625829479,
-        "longitude": -122.17833148318,
-        "units": ""
-    },
-    {
-        "id": "MF2204584",
-        "date": "2022-06-16",
-        "time": "3:03:35 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #101 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "MF2204583",
-        "date": "2022-06-16",
-        "time": "2:46:44 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD #23 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E41 >BC10"
     },
     {
         "id": "HF2201330",
@@ -118,6 +63,6 @@
         "location": "105 DIGGES CANYON RD ,SON",
         "latitude": 37.4879085010625,
         "longitude": -122.418948529118,
-        "units": ">E40"
+        "units": "*>E40"
     }
 ]
