@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2206912",
+        "date": "2022-06-17",
+        "time": "8:47:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EDISON ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "FF2203365",
+        "date": "2022-06-17",
+        "time": "8:43:34 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist, water problem",
+        "location": "TAMARACK LN / ORANGE AVE",
+        "latitude": 37.659458964216,
+        "longitude": -122.422447759204,
+        "units": ">E61"
+    },
+    {
         "id": "MF2204629",
         "date": "2022-06-17",
         "time": "8:30:51 PM",
@@ -11,17 +33,6 @@
         "units": ">E1"
     },
     {
-        "id": "RF2205980",
-        "date": "2022-06-17",
-        "time": "8:29:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "REDWOOD SHORES PKWY / AVOCET DR",
-        "latitude": 37.5345690195871,
-        "longitude": -122.239326597389,
-        "units": "CM11X5 E14 T9 BC3 ?TAC15"
-    },
-    {
         "id": "HF2201346",
         "date": "2022-06-17",
         "time": "8:22:34 PM",
@@ -31,17 +42,6 @@
         "latitude": 37.5415201800658,
         "longitude": -122.50574804668,
         "units": ">E44"
-    },
-    {
-        "id": "BF2201896",
-        "date": "2022-06-17",
-        "time": "8:15:50 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PICCADILLY PL #8 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
     },
     {
         "id": "RF2205978",
@@ -63,6 +63,6 @@
         "location": "788 BAIN PL ,RCY",
         "latitude": 37.4688382835424,
         "longitude": -122.255738867147,
-        "units": "E9 >E20"
+        "units": ">E9"
     }
 ]
