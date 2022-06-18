@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2206932",
+        "id": "SF2206933",
         "date": "2022-06-18",
-        "time": "11:03:41 AM",
+        "time": "11:27:05 AM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "2 N B ST ,SMO",
+        "latitude": 37.5680940677039,
+        "longitude": -122.324202620973,
+        "units": "?E21"
+    },
+    {
+        "id": "MF2204638",
+        "date": "2022-06-18",
+        "time": "11:24:53 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": "E4"
+    },
+    {
+        "id": "MF2204637",
+        "date": "2022-06-18",
+        "time": "11:23:43 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MEFFERD AVE ,SMO",
+        "location": "WILLOW RD #112 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": "E77 >E1 CM11X1"
+    },
+    {
+        "id": "NF2206177",
+        "date": "2022-06-18",
+        "time": "11:16:55 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #209A ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "DF2201027",
+        "date": "2022-06-18",
+        "time": "11:15:49 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "ALPINE RD / MINDEGO HILL TRL",
+        "latitude": 37.3074376541351,
+        "longitude": -122.197853827829,
+        "units": "?TAC15"
+    },
+    {
+        "id": "DF2201026",
+        "date": "2022-06-18",
+        "time": "11:15:11 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PESCADERO CREEK RD / CABRILLO HWY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?VFIR22"
     },
     {
         "id": "MF2204636",
@@ -19,18 +74,7 @@
         "location": "GARDEN ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "SF2206931",
-        "date": "2022-06-18",
-        "time": "11:02:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SPYGLASS DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E27"
+        "units": ">E2"
     },
     {
         "id": "CF2203753",
@@ -41,28 +85,6 @@
         "location": "E MILLBRAE AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
-    },
-    {
-        "id": "RF2205993",
-        "date": "2022-06-18",
-        "time": "10:51:59 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLOCK ARGUELLO ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "NF2206176",
-        "date": "2022-06-18",
-        "time": "10:47:19 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALE ST #54 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">E38"
     }
 ]
