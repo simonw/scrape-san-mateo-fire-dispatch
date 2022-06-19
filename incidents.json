@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2204664",
+        "id": "NF2206219",
         "date": "2022-06-19",
-        "time": "3:02:59 PM",
+        "time": "3:25:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Auto aid request - paramedic",
+        "location": "2116 SKYLINE BLVD ,DCY",
+        "latitude": 37.7005317093711,
+        "longitude": -122.496886347614,
+        "units": "?E91"
+    },
+    {
+        "id": "MF2204667",
+        "date": "2022-06-19",
+        "time": "3:10:26 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1097 WOODLAND AVE ,MNP",
-        "latitude": 37.4579605157172,
-        "longitude": -122.153200595435,
-        "units": "?E1"
+        "category": "Medical aid",
+        "location": "SANTA CRUZ AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "MF2204665",
+        "date": "2022-06-19",
+        "time": "3:07:52 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PULGAS AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2206031",
+        "date": "2022-06-19",
+        "time": "3:07:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Grass fire",
+        "location": "5TH AVE / FAIR OAKS AVE",
+        "latitude": 37.4780601373513,
+        "longitude": -122.200845678542,
+        "units": "CM11X2 ?VFIR23 >E3 >BC3 >E11>E5"
     },
     {
         "id": "RF2206030",
@@ -19,7 +52,7 @@
         "location": "BECKET DR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ""
     },
     {
         "id": "SF2206993",
@@ -30,7 +63,7 @@
         "location": "2850 S DELAWARE ST ,SMO",
         "latitude": 37.5424002089774,
         "longitude": -122.300442661859,
-        "units": "T23"
+        "units": ">T23"
     },
     {
         "id": "NF2206218",
@@ -42,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E71"
-    },
-    {
-        "id": "FF2203393",
-        "date": "2022-06-19",
-        "time": "2:54:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALHAMBRA RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2206029",
-        "date": "2022-06-19",
-        "time": "2:41:56 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST / VETERANS BLVD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
     }
 ]
