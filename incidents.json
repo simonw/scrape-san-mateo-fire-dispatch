@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2204677",
+        "date": "2022-06-19",
+        "time": "10:23:42 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "RF2206045",
+        "date": "2022-06-19",
+        "time": "10:21:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2207008",
+        "date": "2022-06-19",
+        "time": "10:15:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #313 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2207007",
+        "date": "2022-06-19",
+        "time": "10:14:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "400 CONCOURSE DR ,BLM",
+        "latitude": 37.5321415596503,
+        "longitude": -122.270903313819,
+        "units": ">E14"
+    },
+    {
         "id": "LF2200513",
         "date": "2022-06-19",
         "time": "10:02:50 PM",
@@ -8,7 +52,7 @@
         "location": "SWEETWOOD DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E86"
     },
     {
         "id": "BF2201924",
@@ -19,40 +63,7 @@
         "location": "HUNTINGTON AVE / E SAN BRUNO AVE",
         "latitude": 37.6305847348348,
         "longitude": -122.412044576574,
-        "units": "?TAC35 BC16 E61 T51 CM31X3"
-    },
-    {
-        "id": "HF2201363",
-        "date": "2022-06-19",
-        "time": "9:59:29 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAWSER LN ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "NF2206233",
-        "date": "2022-06-19",
-        "time": "9:58:20 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IDLEWILD CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "RF2206044",
-        "date": "2022-06-19",
-        "time": "9:54:15 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": "?TAC35 >BC16 >E61 >T51 CM31X3"
     },
     {
         "id": "CF2203779",
@@ -63,17 +74,6 @@
         "location": "ROCKRIDGE RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "SF2207006",
-        "date": "2022-06-19",
-        "time": "9:40:36 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "420 LINCOLN CENTRE DR ,FCY",
-        "latitude": 37.5697417397826,
-        "longitude": -122.269419543066,
-        "units": ">E28"
+        "units": ""
     }
 ]
