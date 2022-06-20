@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2206032",
+        "id": "RF2206034",
         "date": "2022-06-19",
-        "time": "4:42:51 PM",
+        "time": "5:21:44 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ROOSEVELT AVE #6 ,RCY",
+        "location": "CRINGLE DR / NEPTUNE DR",
         "latitude": null,
         "longitude": null,
-        "units": "?T9"
+        "units": "?E20"
+    },
+    {
+        "id": "FF2203394",
+        "date": "2022-06-19",
+        "time": "5:15:13 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LN / LINDEN AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
     },
     {
         "id": "NF2206221",
@@ -19,18 +30,7 @@
         "location": "100 PALISADES DR ,DCY",
         "latitude": 37.6896297940998,
         "longitude": -122.495373339151,
-        "units": "TAC35 E91 R95 BC120 BC20?CM31X2"
-    },
-    {
-        "id": "MF2204673",
-        "date": "2022-06-19",
-        "time": "4:37:38 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">R77"
+        "units": "?CM31X2 >BC20 TAC35 >R95 >E91>BC120 >E95"
     },
     {
         "id": "DF2201035",
@@ -41,39 +41,6 @@
         "location": "STAGE RD / SEASIDE SCHOOL RD",
         "latitude": 37.3249873059476,
         "longitude": -122.386974388222,
-        "units": "E1791 TAC15 >E59"
-    },
-    {
-        "id": "MF2204672",
-        "date": "2022-06-19",
-        "time": "4:24:38 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SHARON PARK DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "CF2203770",
-        "date": "2022-06-19",
-        "time": "4:24:06 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #109 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "DF2201034",
-        "date": "2022-06-19",
-        "time": "4:04:11 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "3066 HILLSIDE DR ,BRH",
-        "latitude": 37.5750981670276,
-        "longitude": -122.393049062908,
-        "units": ">E35"
+        "units": ">E59"
     }
 ]
