@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2206074",
+        "date": "2022-06-20",
+        "time": "1:41:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "100 WOODSIDE PLZ ,RCY",
+        "latitude": 37.4578596499684,
+        "longitude": -122.229405792033,
+        "units": "E11"
+    },
+    {
+        "id": "SF2207024",
+        "date": "2022-06-20",
+        "time": "1:41:30 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Smoke investigation",
+        "location": "3125 CLEARVIEW WAY ,SMO",
+        "latitude": 37.5331938702598,
+        "longitude": -122.331985517559,
+        "units": "?E27"
+    },
+    {
+        "id": "CF2203793",
+        "date": "2022-06-20",
+        "time": "1:41:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "VALLEJO DR #102 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E35"
+    },
+    {
+        "id": "RF2206073",
+        "date": "2022-06-20",
+        "time": "1:37:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #1567 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "RF2206072",
+        "date": "2022-06-20",
+        "time": "1:32:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "SF2207023",
         "date": "2022-06-20",
         "time": "1:28:41 PM",
@@ -8,7 +63,7 @@
         "location": "SHOREWAY RD ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E14"
     },
     {
         "id": "SF2207022",
@@ -19,7 +74,7 @@
         "location": "2732 SEQUOIA WAY ,BLM",
         "latitude": 37.5219655415861,
         "longitude": -122.309216064215,
-        "units": "T17 BC5 E15 CM11X3 ?TAC15"
+        "units": "CM11X3 ?TAC15 >BC5 >E15 >T17>PR11"
     },
     {
         "id": "MF2204693",
@@ -31,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E3"
-    },
-    {
-        "id": "CF2203792",
-        "date": "2022-06-20",
-        "time": "1:06:04 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AIRPORT BLVD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
     }
 ]
