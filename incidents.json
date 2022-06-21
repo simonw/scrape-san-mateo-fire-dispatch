@@ -1,36 +1,113 @@
 [
     {
-        "id": "SF2207068",
+        "id": "NF2206289",
         "date": "2022-06-21",
-        "time": "2:31:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "2031 MONROE AVE ,BLM",
-        "latitude": 37.5233860101741,
-        "longitude": -122.299179723218,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2206122",
-        "date": "2022-06-21",
-        "time": "2:30:17 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "3:04:55 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "VETERANS BLVD / WALNUT ST",
+        "location": "SAN PEDRO AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "?F72 ?E72"
     },
     {
-        "id": "MF2204726",
+        "id": "CF2203818",
         "date": "2022-06-21",
-        "time": "2:27:24 PM",
+        "time": "3:02:02 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #211 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "T34"
+    },
+    {
+        "id": "CF2203817",
+        "date": "2022-06-21",
+        "time": "2:59:18 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL / BROADWAY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2203816",
+        "date": "2022-06-21",
+        "time": "2:53:50 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "740 ENDFIELD WAY ,HIL",
+        "latitude": 37.5541234753139,
+        "longitude": -122.341967990281,
+        "units": ">E32"
+    },
+    {
+        "id": "WF2200816",
+        "date": "2022-06-21",
+        "time": "2:49:53 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "815 BAY VIEW WAY ,EML",
+        "latitude": 37.4597849499314,
+        "longitude": -122.265043461865,
+        "units": ">E19"
+    },
+    {
+        "id": "MF2204728",
+        "date": "2022-06-21",
+        "time": "2:48:35 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WOODSIDE RD ,WSB",
+        "location": "MIDDLE AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E19"
+        "units": ">E1"
+    },
+    {
+        "id": "BF2201946",
+        "date": "2022-06-21",
+        "time": "2:47:25 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "E HUNTINGTON AVE #1 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "FF2203439",
+        "date": "2022-06-21",
+        "time": "2:47:11 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "OLIVE AVE #A ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "DF2201060",
+        "date": "2022-06-21",
+        "time": "2:47:00 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "200 EDMONDS RD ,EML",
+        "latitude": 37.4736225535701,
+        "longitude": -122.285667928585,
+        "units": ">T9"
+    },
+    {
+        "id": "MF2204727",
+        "date": "2022-06-21",
+        "time": "2:45:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "825 BELL ST ,EPA",
+        "latitude": 37.4663113075917,
+        "longitude": -122.136713140142,
+        "units": ">E2"
     },
     {
         "id": "WF2200812",
@@ -41,7 +118,7 @@
         "location": "1 COLTON CT ,RCY",
         "latitude": 37.4615227108781,
         "longitude": -122.276222146759,
-        "units": "?VFIR22 E17 ?CM11X4 E6 PR2BE507 >E7 E25 >BC2 E13"
+        "units": "VFIR22 >E17 ?CM11X4 PR2B >E507>E7 >BC2 >E13 >BC3 >WT108"
     },
     {
         "id": "DF2201051",
@@ -52,6 +129,6 @@
         "location": "EDGEWOOD RD / CRESTVIEW DR",
         "latitude": 37.4745661952949,
         "longitude": -122.280327551381,
-        "units": ">E18 ?VFIR23 CM11X5 >PR2A CH11ABC11 BC15 PR11 M107 E10"
+        "units": "?E2609 ?WTG >E18 VFIR23 >E25CM11X5 WT156 >PR2A >CH11A >BC15"
     }
 ]
