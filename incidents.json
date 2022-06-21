@@ -1,5 +1,27 @@
 [
     {
+        "id": "LF2200520",
+        "date": "2022-06-21",
+        "time": "12:38:00 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LARCHMONT DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "CF2203814",
+        "date": "2022-06-21",
+        "time": "12:34:31 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "STANTON RD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
         "id": "RF2206115",
         "date": "2022-06-21",
         "time": "12:14:36 PM",
@@ -8,18 +30,7 @@
         "location": "BROADWAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2206285",
-        "date": "2022-06-21",
-        "time": "12:08:25 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WYANDOTTE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ""
     },
     {
         "id": "FF2203437",
@@ -30,29 +41,7 @@
         "location": "GRAND AVE / LINDEN AVE",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "FF2203436",
-        "date": "2022-06-21",
-        "time": "12:05:59 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Structure fire",
-        "location": "131 N SPRUCE AVE ,SSF",
-        "latitude": 37.664494131017,
-        "longitude": -122.407929877211,
-        "units": ">BC17 >E65 ?TAC35 ?CM31X3"
-    },
-    {
-        "id": "FF2203435",
-        "date": "2022-06-21",
-        "time": "12:03:38 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD #777 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": "E61"
     },
     {
         "id": "MF2204723",
@@ -63,6 +52,6 @@
         "location": "89 DOUGLAS WAY ,ATN",
         "latitude": 37.4541853646374,
         "longitude": -122.189533717198,
-        "units": ">E3"
+        "units": "BC1 >E3"
     }
 ]
