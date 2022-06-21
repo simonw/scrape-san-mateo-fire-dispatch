@@ -1,47 +1,58 @@
 [
     {
-        "id": "NF2206290",
+        "id": "CF2203821",
         "date": "2022-06-21",
-        "time": "3:39:47 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "4:03:03 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "VALLEY DR ,BRS",
+        "location": "CHADBOURNE AVE #448 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E81"
+        "units": "T51"
     },
     {
-        "id": "WF2200818",
+        "id": "BF2201947",
         "date": "2022-06-21",
-        "time": "3:39:24 PM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "3:59:30 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "LAKEMEAD WAY ,EML",
+        "location": "NATIONAL AVE #1330 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": ">E51"
     },
     {
-        "id": "MF2204729",
+        "id": "SF2207071",
         "date": "2022-06-21",
-        "time": "3:39:22 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "EL CAMINO REAL / 5TH AVE",
-        "latitude": 37.4671874030112,
-        "longitude": -122.209013468662,
-        "units": "E2 T1 >BC101 E35 E77?TAC15"
+        "time": "3:54:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Hazardous material - investiga",
+        "location": "E HILLSDALE BLVD / S NORFOLK ST",
+        "latitude": 37.5462117179506,
+        "longitude": -122.285037545012,
+        "units": ">E26"
     },
     {
-        "id": "FF2203441",
+        "id": "DF2201075",
         "date": "2022-06-21",
-        "time": "3:37:23 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1 APPIAN WAY ,SSF",
-        "latitude": 37.643559020898,
-        "longitude": -122.450851592374,
-        "units": ">E64"
+        "time": "3:48:44 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2320 NEWPORT ST ,EIC",
+        "latitude": 37.5241664515855,
+        "longitude": -122.350622605052,
+        "units": ">T17"
+    },
+    {
+        "id": "DF2201074",
+        "date": "2022-06-21",
+        "time": "3:42:14 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "SKYLINE BLVD / KINGS MOUNTAIN RD",
+        "latitude": 37.4250155300573,
+        "longitude": -122.313764731392,
+        "units": "E356"
     },
     {
         "id": "RF2206128",
@@ -66,17 +77,6 @@
         "units": ">E3"
     },
     {
-        "id": "DF2201060",
-        "date": "2022-06-21",
-        "time": "2:47:00 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "200 EDMONDS RD ,EML",
-        "latitude": 37.4736225535701,
-        "longitude": -122.285667928585,
-        "units": ">T9"
-    },
-    {
         "id": "WF2200812",
         "date": "2022-06-21",
         "time": "2:24:41 PM",
@@ -85,7 +85,7 @@
         "location": "1 COLTON CT ,RCY",
         "latitude": 37.4615227108781,
         "longitude": -122.276222146759,
-        "units": "VFIR22 >E17 ?CM11X4 PR2B >E507>E7 >BC2 >E13 >BC3 >WT108"
+        "units": "VFIR22 >E17 ?CM11X4 PR2B >PR3E>E507 >E7 >BC2 >E13 >BC3"
     },
     {
         "id": "DF2201051",
@@ -96,6 +96,6 @@
         "location": "EDGEWOOD RD / CRESTVIEW DR",
         "latitude": 37.4745661952949,
         "longitude": -122.280327551381,
-        "units": "E2606 ?E2608 >E2609 E2607 E9E2610 ?OESC BC5 E23 >E20"
+        "units": ">E2608 >E2609 >BC5 E2607 >E23>E20 ?WTG >E9 >E18 E2606"
     }
 ]
