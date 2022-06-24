@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2204823",
+        "date": "2022-06-24",
+        "time": "1:04:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HACKER WAY ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "NF2206419",
+        "date": "2022-06-24",
+        "time": "12:57:42 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Smoke investigation",
+        "location": "1 SAN BRUNO MTN DCY E MKT ,DCY",
+        "latitude": 37.6941890694621,
+        "longitude": -122.45513221217,
+        "units": ">E92"
+    },
+    {
+        "id": "SF2207222",
+        "date": "2022-06-24",
+        "time": "12:53:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOUNTY DR #4201 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "CF2203905",
+        "date": "2022-06-24",
+        "time": "12:48:35 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Tree down",
+        "location": "EL CAMINO REAL / TROUSDALE DR",
+        "latitude": 37.5945539738117,
+        "longitude": -122.383190374232,
+        "units": ">E37"
+    },
+    {
         "id": "SF2207221",
         "date": "2022-06-24",
         "time": "12:41:32 PM",
@@ -8,18 +52,7 @@
         "location": "W HILLSDALE BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
-    },
-    {
-        "id": "SF2207220",
-        "date": "2022-06-24",
-        "time": "12:31:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST #334 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": ">E27"
     },
     {
         "id": "NF2206418",
@@ -30,29 +63,7 @@
         "location": "SAN PEDRO TERRACE RD #107A ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "NF2206417",
-        "date": "2022-06-24",
-        "time": "12:26:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "1147 DE SOLO DR ,PCF",
-        "latitude": 37.5953631791515,
-        "longitude": -122.499572211304,
-        "units": ""
-    },
-    {
-        "id": "FF2203507",
-        "date": "2022-06-24",
-        "time": "12:21:01 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FERNDALE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E65"
+        "units": "E72"
     },
     {
         "id": "HF2201410",
@@ -63,6 +74,6 @@
         "location": "501 SAN MATEO RD ,HMB",
         "latitude": 37.4706530994798,
         "longitude": -122.421382423093,
-        "units": "?TAC45 *>E40 >E41 *>R40 CM41X4>BC10"
+        "units": "*>E40 >E41 *>R40"
     }
 ]
