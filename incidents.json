@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2204826",
+        "id": "RF2206253",
         "date": "2022-06-24",
-        "time": "2:01:09 PM",
+        "time": "2:20:28 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "HARRISON AVE / EL CAMINO REAL",
+        "latitude": 37.4833820206856,
+        "longitude": -122.231404085572,
+        "units": "E9"
+    },
+    {
+        "id": "MF2204827",
+        "date": "2022-06-24",
+        "time": "2:14:39 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "ROBLE AVE / CURTIS WAY",
-        "latitude": 37.450470358769,
-        "longitude": -122.181008206158,
-        "units": ">R77"
+        "category": "Medical aid",
+        "location": "GLORIA WAY ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "WF2200848",
+        "date": "2022-06-24",
+        "time": "2:14:30 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALPINE RD ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E8"
     },
     {
         "id": "HF2201412",
@@ -19,18 +41,7 @@
         "location": "SAN MATEO RD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2206252",
-        "date": "2022-06-24",
-        "time": "1:52:13 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MINDANAO DR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": "E26"
+        "units": "*>E40"
     },
     {
         "id": "NF2206421",
@@ -41,17 +52,6 @@
         "location": "501 ATLANTA ST ,DCY",
         "latitude": 37.6916775449877,
         "longitude": -122.455014321819,
-        "units": ">BC20 >E94"
-    },
-    {
-        "id": "SF2207222",
-        "date": "2022-06-24",
-        "time": "12:53:47 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BOUNTY DR #4201 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E94"
     }
 ]
