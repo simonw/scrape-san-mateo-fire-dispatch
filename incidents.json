@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2206438",
+        "id": "RF2206270",
         "date": "2022-06-24",
-        "time": "9:31:15 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:45:24 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ST FRANCIS BLVD #1119 ,DCY",
+        "location": "KENTFIELD AVE #2 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E94"
+        "units": "E10"
+    },
+    {
+        "id": "NF2206439",
+        "date": "2022-06-24",
+        "time": "9:40:05 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "7255 MISSION ST ,DCY",
+        "latitude": 37.6927544553073,
+        "longitude": -122.464746106363,
+        "units": "CM31X1 >E92 >BC20"
     },
     {
         "id": "MF2204839",
@@ -19,7 +30,7 @@
         "location": "795 WILLOW RD ,MNP",
         "latitude": 37.4663546046411,
         "longitude": -122.160234197566,
-        "units": "T1 BC1 E77 E5 E1CM11X2 ?TAC16"
+        "units": ">E1"
     },
     {
         "id": "MF2204838",
@@ -30,7 +41,7 @@
         "location": "WB 84 / WO TOLL PLZ",
         "latitude": 37.5326223484999,
         "longitude": -122.08773172975,
-        "units": "R77 ?TAC15 CM11X1 E2 BC101T2"
+        "units": ">R77 ?TAC15 CM11X1 >E2 FRBC6FRE60 >BC101 >T2"
     },
     {
         "id": "SF2207237",
@@ -41,50 +52,6 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "CF2203911",
-        "date": "2022-06-24",
-        "time": "9:23:18 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "EB 380 ON RAMP / SB 101 FRONTAGE RD",
-        "latitude": 37.6263499493009,
-        "longitude": -122.402151281116,
-        "units": "CM21X5 >BC16 ?TAC25 >T51"
-    },
-    {
-        "id": "DF2201103",
-        "date": "2022-06-24",
-        "time": "9:20:04 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CORDILLERAS RD ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "NF2206437",
-        "date": "2022-06-24",
-        "time": "9:12:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "862 CAMPUS DR ,DCY",
-        "latitude": 37.6660959315068,
-        "longitude": -122.477156144243,
-        "units": ""
-    },
-    {
-        "id": "FF2203523",
-        "date": "2022-06-24",
-        "time": "8:54:20 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ">E23"
     }
 ]
