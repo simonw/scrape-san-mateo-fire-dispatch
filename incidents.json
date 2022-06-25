@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2206276",
+        "date": "2022-06-25",
+        "time": "1:42:13 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "848 BOARDWALK PL ,RWS",
+        "latitude": 37.5371372836329,
+        "longitude": -122.250800965425,
+        "units": "E20"
+    },
+    {
+        "id": "RF2206275",
+        "date": "2022-06-25",
+        "time": "1:40:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "BAY RD / CHARTER ST",
+        "latitude": 37.4850203247745,
+        "longitude": -122.21221775633,
+        "units": ">E11 CM11X2 BC3 T9 ?TAC15"
+    },
+    {
+        "id": "FF2203524",
+        "date": "2022-06-25",
+        "time": "1:35:48 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S SPRUCE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "MF2204847",
+        "date": "2022-06-25",
+        "time": "1:29:38 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "MF2204846",
         "date": "2022-06-25",
         "time": "1:27:06 AM",
@@ -8,7 +52,7 @@
         "location": "OAK GROVE AVE #D ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E3 ?T1"
+        "units": ">T1"
     },
     {
         "id": "CF2203915",
@@ -19,7 +63,7 @@
         "location": "LAKEVIEW DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E33"
+        "units": ">E33"
     },
     {
         "id": "CF2203914",
@@ -30,18 +74,7 @@
         "location": "N ROLLINS RD ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "HF2201417",
-        "date": "2022-06-25",
-        "time": "1:13:57 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVENUE ALHAMBRA #8 ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "E37"
     },
     {
         "id": "MF2204845",
@@ -52,18 +85,7 @@
         "location": "HAMILTON AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2206274",
-        "date": "2022-06-25",
-        "time": "1:00:26 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GRANGER WAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": "E6"
     },
     {
         "id": "NF2206443",
@@ -75,16 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E91"
-    },
-    {
-        "id": "MF2204841",
-        "date": "2022-06-25",
-        "time": "6/24/2022 11:40:30 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Grass fire",
-        "location": "1520 WILLOW RD ,MNP",
-        "latitude": 37.4813181964101,
-        "longitude": -122.147462360352,
-        "units": ">E2 >E1 >E5 >R77 >E77>BC101 CM11X5 ?VFIR22"
     }
 ]
