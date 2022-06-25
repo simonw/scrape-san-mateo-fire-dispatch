@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2204840",
+        "date": "2022-06-24",
+        "time": "9:56:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD / NEWBRIDGE ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77 >R77"
+    },
+    {
+        "id": "NF2206441",
+        "date": "2022-06-24",
+        "time": "9:54:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Pole fire",
+        "location": "211 KENT RD ,PCF",
+        "latitude": 37.5967549029753,
+        "longitude": -122.510909495257,
+        "units": ">E72"
+    },
+    {
+        "id": "WF2200850",
+        "date": "2022-06-24",
+        "time": "9:53:29 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ELEANOR DR ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E7"
+    },
+    {
+        "id": "DF2201104",
+        "date": "2022-06-24",
+        "time": "9:51:38 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GERI PL ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
         "id": "RF2206270",
         "date": "2022-06-24",
         "time": "9:45:24 PM",
@@ -8,7 +52,7 @@
         "location": "KENTFIELD AVE #2 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "NF2206439",
@@ -19,18 +63,7 @@
         "location": "7255 MISSION ST ,DCY",
         "latitude": 37.6927544553073,
         "longitude": -122.464746106363,
-        "units": "CM31X1 >E92 >BC20"
-    },
-    {
-        "id": "MF2204839",
-        "date": "2022-06-24",
-        "time": "9:29:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "795 WILLOW RD ,MNP",
-        "latitude": 37.4663546046411,
-        "longitude": -122.160234197566,
-        "units": ">E1"
+        "units": ">E92 CM31X1 *>BC20"
     },
     {
         "id": "MF2204838",
@@ -41,17 +74,6 @@
         "location": "WB 84 / WO TOLL PLZ",
         "latitude": 37.5326223484999,
         "longitude": -122.08773172975,
-        "units": ">R77 ?TAC15 CM11X1 >E2 FRBC6FRE60 >BC101 >T2"
-    },
-    {
-        "id": "SF2207237",
-        "date": "2022-06-24",
-        "time": "9:25:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": "?TAC15 CM11X1 >E2 >BC101"
     }
 ]
