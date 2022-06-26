@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2204874",
+        "id": "NF2206485",
         "date": "2022-06-26",
-        "time": "8:34:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:01:19 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "62 ROBINSON DR ,DCY",
+        "latitude": 37.7077663399142,
+        "longitude": -122.429038902178,
+        "units": "E92"
+    },
+    {
+        "id": "CF2203937",
+        "date": "2022-06-26",
+        "time": "8:59:30 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "ILLINOIS ST ,EPA",
+        "location": "S EL CAMINO REAL ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E2 >BC101 >T2 CM11X3 ?TAC16"
+        "units": "E37"
+    },
+    {
+        "id": "MF2204875",
+        "date": "2022-06-26",
+        "time": "8:56:50 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #113 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "NF2206484",
+        "date": "2022-06-26",
+        "time": "8:56:02 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BALTIMORE WAY ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E93"
+    },
+    {
+        "id": "CF2203936",
+        "date": "2022-06-26",
+        "time": "8:55:54 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAGUNA AVE / BROADWAY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
     },
     {
         "id": "MF2204873",
@@ -30,6 +74,6 @@
         "location": "151 CERVANTES RD ,PVY",
         "latitude": 37.3904198486015,
         "longitude": -122.202560429644,
-        "units": "?WOFINV TAC15 CM11X1 E507 >E7>BC2 >E8"
+        "units": "?WOFINV TAC15 CM11X1 >E7 >BC2>E8"
     }
 ]
