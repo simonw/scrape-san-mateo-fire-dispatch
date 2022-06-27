@@ -1,14 +1,47 @@
 [
     {
-        "id": "HF2201433",
+        "id": "RF2206380",
         "date": "2022-06-27",
-        "time": "11:22:36 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Lock out - vehicle",
-        "location": "270 CABRILLO HWY S ,HMB",
-        "latitude": 37.464444032929,
-        "longitude": -122.434476858984,
-        "units": "E40"
+        "time": "11:36:12 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WALNUT ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "NF2206551",
+        "date": "2022-06-27",
+        "time": "11:35:59 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALICANTE DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "FF2203571",
+        "date": "2022-06-27",
+        "time": "11:31:57 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CAMARITAS CIR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "SF2207355",
+        "date": "2022-06-27",
+        "time": "11:30:39 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
     },
     {
         "id": "FF2203570",
@@ -22,17 +55,6 @@
         "units": ">E64"
     },
     {
-        "id": "SF2207354",
-        "date": "2022-06-27",
-        "time": "11:18:09 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE / EDISON ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
-    },
-    {
         "id": "RF2206377",
         "date": "2022-06-27",
         "time": "11:11:25 AM",
@@ -41,39 +63,6 @@
         "location": "633 ELM ST #304 ,SNC",
         "latitude": 37.5046222670758,
         "longitude": -122.261991579519,
-        "units": "CM11X2 ?TAC15 >PR3E >T9 >E13>BC3 >E16"
-    },
-    {
-        "id": "NF2206550",
-        "date": "2022-06-27",
-        "time": "11:01:38 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ROYCE WAY ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92 CM31X1 >E91"
-    },
-    {
-        "id": "RF2206376",
-        "date": "2022-06-27",
-        "time": "11:00:20 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "DF2201122",
-        "date": "2022-06-27",
-        "time": "10:41:47 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EDMONDS RD ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": "E18"
+        "units": ">E13"
     }
 ]
