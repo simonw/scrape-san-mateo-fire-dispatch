@@ -1,57 +1,68 @@
 [
     {
-        "id": "MF2204931",
+        "id": "BF2202016",
         "date": "2022-06-28",
-        "time": "1:02:05 PM",
+        "time": "1:26:30 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1101 NATIONAL AVE ,SNB",
+        "latitude": 37.6344382028256,
+        "longitude": -122.423369549572,
+        "units": "E61 E51 BC16 E52 ?TAC35?CM31X1 ?Q62"
+    },
+    {
+        "id": "NF2206586",
+        "date": "2022-06-28",
+        "time": "1:24:12 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GREENVIEW DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "MF2204932",
+        "date": "2022-06-28",
+        "time": "1:15:07 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Wires down (not sparking)",
-        "location": "2190 STERLING AVE ,WMP",
-        "latitude": 37.4322230419114,
-        "longitude": -122.206486931437,
-        "units": "E4"
+        "location": "1164 LAUREL AVE ,EPA",
+        "latitude": 37.4710357439531,
+        "longitude": -122.151046932843,
+        "units": ">E2"
     },
     {
-        "id": "SF2207403",
+        "id": "DF2201129",
         "date": "2022-06-28",
-        "time": "1:01:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "1:12:00 PM",
+        "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "J HART CLINTON DR ,SMO",
+        "location": "DEVONSHIRE BLVD ,DVN",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
+        "units": ">E13"
     },
     {
-        "id": "FF2203595",
+        "id": "BF2202015",
         "date": "2022-06-28",
-        "time": "12:51:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "KENWOOD WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "MF2204930",
-        "date": "2022-06-28",
-        "time": "12:36:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #101 ,MNP",
-        "latitude": null,
-        "longitude": null,
+        "time": "1:09:24 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "850 CHERRY AVE ,SNB",
+        "latitude": 37.6269945030683,
+        "longitude": -122.424171869514,
         "units": ""
     },
     {
-        "id": "NF2206585",
+        "id": "RF2206425",
         "date": "2022-06-28",
-        "time": "12:29:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BUFFALO CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "time": "1:04:26 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "3700 FLORENCE ST ,RCY",
+        "latitude": 37.4783311115455,
+        "longitude": -122.1873957351,
+        "units": ">E5"
     }
 ]
