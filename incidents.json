@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2207443",
+        "date": "2022-06-29",
+        "time": "11:57:27 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HILLCREST DR ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "FF2203619",
+        "date": "2022-06-29",
+        "time": "11:56:57 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MAYWOOD WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "NF2206627",
         "date": "2022-06-29",
         "time": "11:47:11 AM",
@@ -8,18 +30,7 @@
         "location": "GREENVIEW DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E93"
-    },
-    {
-        "id": "BF2202022",
-        "date": "2022-06-29",
-        "time": "11:44:56 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "1801 NILES AVE ,SNB",
-        "latitude": 37.6157383307213,
-        "longitude": -122.418562842241,
-        "units": "E94"
+        "units": ">E93"
     },
     {
         "id": "CF2204000",
@@ -30,18 +41,7 @@
         "location": "3060 ATWATER DR ,BRM",
         "latitude": 37.5810773139436,
         "longitude": -122.398054076809,
-        "units": "E37 E51 >VFIR23 BC108 >CM21X2BC16 E34 E38 E64 E33"
-    },
-    {
-        "id": "WF2200875",
-        "date": "2022-06-29",
-        "time": "11:41:02 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "155 ARBOR CT ,WDS",
-        "latitude": 37.4383364743952,
-        "longitude": -122.260312573539,
-        "units": "*>BC2 >CM11X1 E19"
+        "units": ">E38"
     },
     {
         "id": "NF2206626",
@@ -53,49 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E71"
-    },
-    {
-        "id": "FF2203618",
-        "date": "2022-06-29",
-        "time": "11:34:52 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD #136 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2206462",
-        "date": "2022-06-29",
-        "time": "11:29:48 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "RF2206461",
-        "date": "2022-06-29",
-        "time": "11:27:56 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAKSIDE AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "MF2204954",
-        "date": "2022-06-29",
-        "time": "9:34:32 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Grass fire",
-        "location": "1520 WILLOW RD ,MNP",
-        "latitude": 37.4813181964101,
-        "longitude": -122.147462360352,
-        "units": ">PR1D"
     }
 ]
