@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2204028",
+        "id": "SF2207492",
         "date": "2022-06-30",
-        "time": "10:26:02 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "10:42:40 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "2900 S EL CAMINO REAL ,SMO",
+        "latitude": 37.5403000722569,
+        "longitude": -122.302510026984,
+        "units": "E26"
+    },
+    {
+        "id": "FF2203639",
+        "date": "2022-06-30",
+        "time": "10:36:04 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
+        "location": "EL CAMINO REAL #218A ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">T51"
+    },
+    {
+        "id": "RF2206495",
+        "date": "2022-06-30",
+        "time": "10:34:56 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WAYNE CT E ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "SF2207491",
+        "date": "2022-06-30",
+        "time": "10:33:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SEXTANT CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
     },
     {
         "id": "RF2206494",
@@ -19,61 +52,6 @@
         "location": "BROADWAY / WINSLOW ST",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2207488",
-        "date": "2022-06-30",
-        "time": "10:16:15 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "100 S ELLSWORTH AVE ,SMO",
-        "latitude": 37.5665390782717,
-        "longitude": -122.324747743917,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2206658",
-        "date": "2022-06-30",
-        "time": "10:15:20 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "MF2204990",
-        "date": "2022-06-30",
-        "time": "10:15:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLARKE AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "MF2204989",
-        "date": "2022-06-30",
-        "time": "10:15:08 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #1 ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "CF2204027",
-        "date": "2022-06-30",
-        "time": "10:08:50 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEBASTIAN DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
+        "units": ""
     }
 ]
