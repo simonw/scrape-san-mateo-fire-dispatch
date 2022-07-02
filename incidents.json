@@ -1,5 +1,16 @@
 [
     {
+        "id": "WF2200894",
+        "date": "2022-07-01",
+        "time": "11:46:16 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CROYDON WAY ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E4"
+    },
+    {
         "id": "HF2201471",
         "date": "2022-07-01",
         "time": "11:28:19 PM",
@@ -8,7 +19,7 @@
         "location": "SAN MATEO RD #2 ,SON",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC45 ?CM41X3 ?BC10 ?E40"
+        "units": ">BC10 >E40 ?TAC45 ?CM41X3"
     },
     {
         "id": "RF2206557",
@@ -19,18 +30,7 @@
         "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "FF2203669",
-        "date": "2022-07-01",
-        "time": "11:20:58 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": ">E10"
     },
     {
         "id": "CF2204070",
@@ -42,49 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "RF2206556",
-        "date": "2022-07-01",
-        "time": "11:13:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "104 CEDAR ST #2 ,RCY",
-        "latitude": 37.4795996734479,
-        "longitude": -122.224674218719,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2207571",
-        "date": "2022-07-01",
-        "time": "11:10:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "2829 E KYNE ST ,SMO",
-        "latitude": 37.5435664356771,
-        "longitude": -122.298908064193,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2206555",
-        "date": "2022-07-01",
-        "time": "11:08:02 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "39 WILLOW GLEN WAY ,SNC",
-        "latitude": 37.4988055793815,
-        "longitude": -122.278489508149,
-        "units": "?CM11X2 ?TAC15 >T9 >E13 >E15>BC3 >E14"
-    },
-    {
-        "id": "BF2202044",
-        "date": "2022-07-01",
-        "time": "10:10:37 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Pole fire",
-        "location": "SCOTT ST / MONTGOMERY AVE",
-        "latitude": 37.6372075492996,
-        "longitude": -122.412390919258,
-        "units": ">E51"
     }
 ]
