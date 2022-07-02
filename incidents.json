@@ -1,36 +1,36 @@
 [
     {
+        "id": "RF2206558",
+        "date": "2022-07-02",
+        "time": "1:29:23 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAUREL WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E12"
+    },
+    {
+        "id": "DF2201142",
+        "date": "2022-07-02",
+        "time": "1:18:56 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDMONDS RD #215 ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
         "id": "NF2206723",
         "date": "2022-07-02",
         "time": "1:02:41 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "PALOMA AVE ,PCF",
+        "location": "PALOMA AVE #107 ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
-    },
-    {
-        "id": "SF2207573",
-        "date": "2022-07-02",
-        "time": "1:02:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VILLA TE #4 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "SF2207574",
-        "date": "2022-07-02",
-        "time": "1:00:51 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "58 DARCY AVE ,SMO",
-        "latitude": 37.531730389071,
-        "longitude": -122.294203797823,
-        "units": "E23"
+        "units": ">E71"
     },
     {
         "id": "SF2207572",
@@ -41,61 +41,6 @@
         "location": "33 S GRANT ST ,SMO",
         "latitude": 37.5722820603928,
         "longitude": -122.321261248122,
-        "units": ">E24 BC8 T21 ?TAC25 ?CM21X3"
-    },
-    {
-        "id": "CF2204071",
-        "date": "2022-07-02",
-        "time": "12:58:14 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ROLLINS RD ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2206722",
-        "date": "2022-07-02",
-        "time": "12:50:46 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #10A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "WF2200895",
-        "date": "2022-07-02",
-        "time": "12:43:20 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "135 NORTHRIDGE LN ,WDS",
-        "latitude": 37.4507796797013,
-        "longitude": -122.242854869874,
-        "units": ">E10"
-    },
-    {
-        "id": "FF2203671",
-        "date": "2022-07-02",
-        "time": "12:32:05 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "201 W ORANGE AVE ,SSF",
-        "latitude": 37.6518854821025,
-        "longitude": -122.427659066085,
-        "units": ">E63"
-    },
-    {
-        "id": "FF2203670",
-        "date": "2022-07-02",
-        "time": "12:30:34 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Pole fire",
-        "location": "211 BRENTWOOD DR ,SSF",
-        "latitude": 37.6398426712166,
-        "longitude": -122.427830699345,
-        "units": ">E61"
+        "units": "?CM21X3 ?TAC25 >BC8 >E24 >T21"
     }
 ]
