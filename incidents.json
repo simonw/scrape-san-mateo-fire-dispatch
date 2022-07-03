@@ -1,36 +1,58 @@
 [
     {
-        "id": "RF2206597",
+        "id": "RF2206598",
         "date": "2022-07-03",
-        "time": "9:00:55 AM",
+        "time": "9:28:35 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #311 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
+        "category": "Full assignment response",
+        "location": "2200 EL CAMINO REAL ,RCY",
+        "latitude": 37.4753810594706,
+        "longitude": -122.221260995233,
+        "units": "E10 E3 E9 T9 BC3CM11X5 ?TAC16"
     },
     {
-        "id": "NF2206754",
+        "id": "FF2203699",
         "date": "2022-07-03",
-        "time": "9:00:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SHARP PARK RD / GYPSY HILL RD",
-        "latitude": 37.6295716327188,
-        "longitude": -122.47781604105,
-        "units": "E52 BC124 T95 >CM31X3 >TAC35"
-    },
-    {
-        "id": "NF2206753",
-        "date": "2022-07-03",
-        "time": "9:00:42 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:26:09 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD ,DCY",
+        "location": "KENWOOD WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E61"
+    },
+    {
+        "id": "FF2203698",
+        "date": "2022-07-03",
+        "time": "9:20:18 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "WESTBOROUGH BLVD / JUNIPERO SERRA BLVD",
+        "latitude": 37.6459959212589,
+        "longitude": -122.448345189396,
+        "units": ">BC17 >E52 >CM31X4 >TAC35"
+    },
+    {
+        "id": "SF2207629",
+        "date": "2022-07-03",
+        "time": "9:09:40 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GEORGE AVE #1 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "SF2207628",
+        "date": "2022-07-03",
+        "time": "9:07:23 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ARMADA WAY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
     },
     {
         "id": "MF2205061",
@@ -42,16 +64,5 @@
         "latitude": 37.4673584800781,
         "longitude": -122.150403799032,
         "units": "?TAC15 >R77 CM11X1 >E2 >T2"
-    },
-    {
-        "id": "WF2200900",
-        "date": "2022-07-03",
-        "time": "8:35:40 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PATROL CT ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
     }
 ]
