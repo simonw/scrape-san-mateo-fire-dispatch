@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2207632",
+        "date": "2022-07-03",
+        "time": "10:03:42 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SANDPIPER CT ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E28"
+    },
+    {
+        "id": "SF2207631",
+        "date": "2022-07-03",
+        "time": "10:02:33 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
+    },
+    {
+        "id": "BF2202061",
+        "date": "2022-07-03",
+        "time": "9:57:15 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FERNWOOD DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
         "id": "MF2205064",
         "date": "2022-07-03",
         "time": "9:45:27 AM",
@@ -8,7 +41,7 @@
         "location": "EVELYN ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "T1"
+        "units": ">T1"
     },
     {
         "id": "MF2205063",
@@ -19,51 +52,7 @@
         "location": "SANTA CLARA AVE ,WSB",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "HF2201483",
-        "date": "2022-07-03",
-        "time": "9:40:58 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ARNOLD WAY #A204 ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "MF2205062",
-        "date": "2022-07-03",
-        "time": "9:37:53 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2207630",
-        "date": "2022-07-03",
-        "time": "9:31:38 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COYOTE POINT DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2206755",
-        "date": "2022-07-03",
-        "time": "9:31:33 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "E MARKET ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">E4"
     },
     {
         "id": "RF2206598",
@@ -74,7 +63,7 @@
         "location": "2200 EL CAMINO REAL ,RCY",
         "latitude": 37.4753810594706,
         "longitude": -122.221260995233,
-        "units": ">E9 ?TAC16 >E3 >BC3 CM11X5>E10"
+        "units": ">E9 ?TAC16 >E3 >BC3 CM11X5"
     },
     {
         "id": "MF2205061",
@@ -85,6 +74,6 @@
         "location": "2208 MENALTO AVE ,EPA",
         "latitude": 37.4673584800781,
         "longitude": -122.150403799032,
-        "units": "?TAC15 >R77 CM11X1 >E2 >T2"
+        "units": ">E2"
     }
 ]
