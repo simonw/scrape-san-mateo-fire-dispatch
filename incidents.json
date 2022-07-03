@@ -1,46 +1,68 @@
 [
     {
-        "id": "MF2205050",
+        "id": "SF2207617",
         "date": "2022-07-02",
-        "time": "10:13:44 PM",
+        "time": "11:04:23 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "120 S ELLSWORTH AVE ,SMO",
+        "latitude": 37.5661539026784,
+        "longitude": -122.324786620493,
+        "units": "?E24"
+    },
+    {
+        "id": "CF2204090",
+        "date": "2022-07-02",
+        "time": "11:03:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N ROLLINS RD ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "SF2207616",
+        "date": "2022-07-02",
+        "time": "10:56:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "E POPLAR AVE / N DELAWARE ST",
+        "latitude": 37.5756177305488,
+        "longitude": -122.329343040114,
+        "units": ">BC8 >T21 >E21 >CM21X2 >TAC25"
+    },
+    {
+        "id": "SF2207615",
+        "date": "2022-07-02",
+        "time": "10:49:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "JOANNE DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "MF2205051",
+        "date": "2022-07-02",
+        "time": "10:49:21 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MONTAGE CIR ,EPA",
+        "location": "OAKES ST ,EPA",
         "latitude": null,
         "longitude": null,
         "units": ">E2"
     },
     {
-        "id": "RF2206592",
+        "id": "FF2203692",
         "date": "2022-07-02",
-        "time": "10:13:02 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLANDFORD BLVD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "FF2203691",
-        "date": "2022-07-02",
-        "time": "10:06:10 PM",
+        "time": "10:46:19 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "GELLERT BLVD ,SSF",
+        "location": "HICKEY BLVD ,SSF",
         "latitude": null,
         "longitude": null,
         "units": ""
-    },
-    {
-        "id": "BF2202055",
-        "date": "2022-07-02",
-        "time": "9:57:14 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SHELTER CREEK LN ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
     }
 ]
