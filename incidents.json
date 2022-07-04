@@ -1,5 +1,16 @@
 [
     {
+        "id": "RF2206624",
+        "date": "2022-07-04",
+        "time": "4:28:12 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CANYON RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "HF2201492",
         "date": "2022-07-04",
         "time": "4:22:58 AM",
@@ -8,7 +19,7 @@
         "location": "SPYGLASS LN ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
+        "units": ">E41"
     },
     {
         "id": "SF2207661",
@@ -19,39 +30,6 @@
         "location": "RALSTON AVE / DAVIS DR",
         "latitude": 37.5126674991471,
         "longitude": -122.309369707322,
-        "units": ">E15 BC11 T17 >CM11X4 >TAC15"
-    },
-    {
-        "id": "HF2201491",
-        "date": "2022-07-04",
-        "time": "4:10:50 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GROVE ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "MF2205085",
-        "date": "2022-07-04",
-        "time": "4:00:57 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GONZAGA ST / PURDUE AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2204104",
-        "date": "2022-07-04",
-        "time": "4:00:21 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "POETT RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
+        "units": ">TAC15 >CM11X4 >E15 >T17"
     }
 ]
