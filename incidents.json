@@ -1,25 +1,58 @@
 [
     {
-        "id": "BF2202079",
+        "id": "LF2200560",
         "date": "2022-07-04",
-        "time": "10:27:13 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "10:40:55 PM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "GREEN AVE / SYLVAN AVE",
+        "location": "D ST ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "T51"
+        "units": "E86 CM31X1 MED19"
     },
     {
-        "id": "MF2205110",
+        "id": "MF2205112",
         "date": "2022-07-04",
-        "time": "10:23:20 PM",
+        "time": "10:40:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1730 BAY RD ,EPA",
+        "latitude": 37.471266014797,
+        "longitude": -122.136956280652,
+        "units": "E2"
+    },
+    {
+        "id": "MF2205111",
+        "date": "2022-07-04",
+        "time": "10:35:11 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MADERA AVE ,MNP",
+        "location": "COOLEY AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": "R77"
+    },
+    {
+        "id": "SF2207698",
+        "date": "2022-07-04",
+        "time": "10:33:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c2",
+        "location": "901 EDGEWATER BLVD ,FCY",
+        "latitude": 37.544750760356,
+        "longitude": -122.271030518789,
+        "units": ">E26"
+    },
+    {
+        "id": "NF2206833",
+        "date": "2022-07-04",
+        "time": "10:33:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "NF2206832",
@@ -31,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "RF2206650",
-        "date": "2022-07-04",
-        "time": "10:18:57 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SEAPORT BLVD / SEAPORT CT",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2207696",
-        "date": "2022-07-04",
-        "time": "10:05:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Boat in distress",
-        "location": "900 SHELL BLVD ,FCY",
-        "latitude": 37.5552099054174,
-        "longitude": -122.265078870647,
-        "units": "E29"
-    },
-    {
-        "id": "FF2203734",
-        "date": "2022-07-04",
-        "time": "10:03:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c2",
-        "location": "WESTBOROUGH BLVD / GELLERT BLVD",
-        "latitude": 37.6434322718537,
-        "longitude": -122.452862292328,
-        "units": ">E63"
     }
 ]
