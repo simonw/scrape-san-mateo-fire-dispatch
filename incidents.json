@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2207767",
+        "date": "2022-07-06",
+        "time": "12:04:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N DELAWARE ST #1 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T21"
+    },
+    {
+        "id": "BF2202104",
+        "date": "2022-07-06",
+        "time": "12:01:33 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "EL CAMINO REAL / SAN MARCO AVE",
+        "latitude": 37.6162534066053,
+        "longitude": -122.407328738848,
+        "units": "T51"
+    },
+    {
         "id": "SF2207765",
         "date": "2022-07-06",
         "time": "11:39:15 AM",
@@ -8,7 +30,7 @@
         "location": "N ELLSWORTH AVE #2 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">BC5 >E21 CM21X5 ?TAC25"
+        "units": "CM21X5 ?TAC25 >E21"
     },
     {
         "id": "SF2207764",
@@ -30,18 +52,7 @@
         "location": "WILLOW RD / EB 84",
         "latitude": 37.4819266276664,
         "longitude": -122.150298804463,
-        "units": ">R77 >E77 VFIR22 CM11X3"
-    },
-    {
-        "id": "RF2206725",
-        "date": "2022-07-06",
-        "time": "11:33:17 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BARK DR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
+        "units": "VFIR22 CM11X3 >R77 >E77"
     },
     {
         "id": "RF2206724",
@@ -53,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E10"
-    },
-    {
-        "id": "CF2204153",
-        "date": "2022-07-06",
-        "time": "11:13:25 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #554 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "CF2204152",
-        "date": "2022-07-06",
-        "time": "11:12:26 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PEPPER AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
     }
 ]
