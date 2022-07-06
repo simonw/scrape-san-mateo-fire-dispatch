@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2207776",
+        "date": "2022-07-06",
+        "time": "4:23:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "VENTURA AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
         "id": "SF2207775",
         "date": "2022-07-06",
         "time": "4:03:46 PM",
@@ -8,29 +19,7 @@
         "location": "MARISMA ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "CF2204157",
-        "date": "2022-07-06",
-        "time": "4:03:28 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BURLINGAME AVE / MYRTLE RD",
-        "latitude": null,
-        "longitude": null,
-        "units": "T34"
-    },
-    {
-        "id": "SF2207774",
-        "date": "2022-07-06",
-        "time": "4:02:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1625 MARINA CT #H ,SMO",
-        "latitude": 37.551739231107,
-        "longitude": -122.287160758101,
-        "units": "?E28"
+        "units": ">E29"
     },
     {
         "id": "SF2207773",
@@ -44,17 +33,6 @@
         "units": ">E26"
     },
     {
-        "id": "CF2204156",
-        "date": "2022-07-06",
-        "time": "3:48:45 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HEMLOCK AVE #3B ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
         "id": "NF2206908",
         "date": "2022-07-06",
         "time": "3:41:52 PM",
@@ -63,7 +41,7 @@
         "location": "1 MORI POINT RD ,PCF",
         "latitude": 37.6191752920208,
         "longitude": -122.4865533702,
-        "units": ">E72 >BC123 >E94 TAC35 CM31X2"
+        "units": "CM31X2 >BC123 >E94 TAC35 >E72"
     },
     {
         "id": "LF2200564",
@@ -74,6 +52,6 @@
         "location": "SOUTHGATE AVE / JUNIPERO SERRA BLVD",
         "latitude": 37.6754922754781,
         "longitude": -122.468371719514,
-        "units": ">PR19 >E85 VFIR22 CM31X1 >MED19>E86 >E285 >E95"
+        "units": ">PR19 >MED19 >E86 >E285"
     }
 ]
