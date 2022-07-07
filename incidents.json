@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2204178",
+        "id": "SF2207810",
         "date": "2022-07-07",
-        "time": "12:55:23 PM",
+        "time": "1:19:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1031 S DELAWARE ST ,SMO",
+        "latitude": 37.561636676561,
+        "longitude": -122.312795223402,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2204180",
+        "date": "2022-07-07",
+        "time": "1:18:47 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "AIRPORT BLVD #242 ,BRM",
+        "location": "BROADWAY ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">T34"
+        "units": ">E37"
+    },
+    {
+        "id": "BF2202117",
+        "date": "2022-07-07",
+        "time": "1:18:40 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "1000 NATIONAL AVE ,SNB",
+        "latitude": 37.6340957753588,
+        "longitude": -122.421125877403,
+        "units": ">E52"
+    },
+    {
+        "id": "BF2202115",
+        "date": "2022-07-07",
+        "time": "1:13:47 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Landscape fire",
+        "location": "430 EL CAMINO REAL ,SNB",
+        "latitude": 37.6224054178836,
+        "longitude": -122.411803366488,
+        "units": ">E51"
     },
     {
         "id": "MF2205173",
@@ -30,6 +63,6 @@
         "location": "3519 GLENWOOD AVE ,RCY",
         "latitude": 37.4686317208748,
         "longitude": -122.253569699357,
-        "units": ">E9 >CM11X4 >PR3E >T9 >TAC16>BC2 >E12"
+        "units": ">CM11X4 >TAC16 >BC2 >E12"
     }
 ]
