@@ -1,14 +1,25 @@
 [
     {
-        "id": "BF2202129",
+        "id": "SF2207856",
         "date": "2022-07-08",
-        "time": "1:44:23 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "890 EL CAMINO REAL ,SNB",
-        "latitude": 37.6304885862457,
-        "longitude": -122.417109059781,
-        "units": "?E51"
+        "time": "2:01:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "2163 PALM AVE ,SMO",
+        "latitude": 37.547635053858,
+        "longitude": -122.306403173654,
+        "units": "E23"
+    },
+    {
+        "id": "NF2206979",
+        "date": "2022-07-08",
+        "time": "1:58:39 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "CARLTON AVE / SOUTHGATE AVE",
+        "latitude": 37.6823668253498,
+        "longitude": -122.487083514223,
+        "units": ">E95"
     },
     {
         "id": "RF2206803",
@@ -19,7 +30,7 @@
         "location": "MIDDLEFIELD RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E12"
+        "units": ">E12"
     },
     {
         "id": "FF2203826",
@@ -30,29 +41,7 @@
         "location": "ALIDA WAY #23 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E61"
-    },
-    {
-        "id": "RF2206802",
-        "date": "2022-07-08",
-        "time": "1:37:03 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2206978",
-        "date": "2022-07-08",
-        "time": "1:36:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "239 ORIENTE ST ,DCY",
-        "latitude": 37.7040439011226,
-        "longitude": -122.414919188025,
-        "units": ">E93"
+        "units": "E61"
     },
     {
         "id": "CF2204206",
@@ -63,51 +52,7 @@
         "location": "TROUSDALE DR #64 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2206801",
-        "date": "2022-07-08",
-        "time": "1:32:24 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CEDAR ST #9 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2206977",
-        "date": "2022-07-08",
-        "time": "1:32:09 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BELCREST AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "SF2207855",
-        "date": "2022-07-08",
-        "time": "1:31:38 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W 25TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
         "units": ""
-    },
-    {
-        "id": "FF2203825",
-        "date": "2022-07-08",
-        "time": "1:31:20 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "CAMARITAS AVE / HICKEY BLVD",
-        "latitude": 37.6660815116713,
-        "longitude": -122.453505309854,
-        "units": ">E94"
     },
     {
         "id": "CF2204204",
@@ -118,7 +63,7 @@
         "location": "777 AIRPORT BLVD ,BRM",
         "latitude": 37.5895216315467,
         "longitude": -122.350306879904,
-        "units": ">BC8"
+        "units": ""
     },
     {
         "id": "RF2206799",
@@ -129,6 +74,6 @@
         "location": "1775 BROADWAY ,RCY",
         "latitude": 37.4865114621747,
         "longitude": -122.222951940147,
-        "units": "TAC15 CM11X1 >T9 >PR3D"
+        "units": ">PR3D"
     }
 ]
