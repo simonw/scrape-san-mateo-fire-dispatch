@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2207899",
+        "id": "NF2207018",
         "date": "2022-07-09",
-        "time": "2:20:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "E 3RD AVE / MARINERS ISLAND BLVD",
-        "latitude": 37.5706212061433,
-        "longitude": -122.2844733408,
-        "units": "E28 ?TAC25 ?CM21X2"
+        "time": "2:43:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E91"
+    },
+    {
+        "id": "FF2203839",
+        "date": "2022-07-09",
+        "time": "2:40:31 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD #206 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "RF2206840",
+        "date": "2022-07-09",
+        "time": "2:31:42 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "INDUSTRIAL RD #G ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
     },
     {
         "id": "RF2206839",
@@ -19,7 +41,7 @@
         "location": "SEABROOK CT / CANVASBACK WAY",
         "latitude": 37.5482203039721,
         "longitude": -122.239196790691,
-        "units": "CG22A >E20 BOAT9 BC3 CM51X4?TAC15"
+        "units": "BOAT9 CG22A ?TAC15 >E20 CM51X4BC3"
     },
     {
         "id": "FF2203837",
@@ -31,16 +53,5 @@
         "latitude": 37.6661346312691,
         "longitude": -122.425440078137,
         "units": "CM31X1 >BC20 >BC121 >E63 >BC17>E92 >E65 >E51 >Q62 ?TAC35"
-    },
-    {
-        "id": "SF2207896",
-        "date": "2022-07-09",
-        "time": "1:38:18 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Vehicle fire",
-        "location": "RALSTON AVE / KEDITH ST",
-        "latitude": 37.5246875600897,
-        "longitude": -122.27100900686,
-        "units": ">E14"
     }
 ]
