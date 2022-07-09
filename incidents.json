@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2206843",
+        "date": "2022-07-09",
+        "time": "3:39:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "HF2201533",
+        "date": "2022-07-09",
+        "time": "3:34:05 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "SF2207901",
+        "date": "2022-07-09",
+        "time": "3:28:49 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CONCAR DR #BLDG 900 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
         "id": "WF2200914",
         "date": "2022-07-09",
         "time": "3:21:27 PM",
@@ -8,62 +41,7 @@
         "location": "SKYLINE BLVD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "R56 ERV58 E58 CM11X3 ?TAC16"
-    },
-    {
-        "id": "NF2207019",
-        "date": "2022-07-09",
-        "time": "3:21:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #204D ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "RF2206842",
-        "date": "2022-07-09",
-        "time": "3:18:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "INDUSTRIAL RD ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
-    },
-    {
-        "id": "FF2203840",
-        "date": "2022-07-09",
-        "time": "3:12:50 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE / CYPRESS AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2206841",
-        "date": "2022-07-09",
-        "time": "3:03:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WINSLOW ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2203839",
-        "date": "2022-07-09",
-        "time": "2:40:31 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD #206 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM11X3 >E58 ?TAC16 >E8 >ERV58"
     },
     {
         "id": "RF2206839",
@@ -74,7 +52,7 @@
         "location": "SEABROOK CT / CANVASBACK WAY",
         "latitude": 37.5482203039721,
         "longitude": -122.239196790691,
-        "units": "*>BOAT9 >CG22A ?TAC15 >E20 CM51X4"
+        "units": "*>BOAT9 >CG22A ?TAC15 *>E20 CM51X4"
     },
     {
         "id": "FF2203837",
@@ -85,6 +63,6 @@
         "location": "920 STONEGATE DR ,SSF",
         "latitude": 37.6661346312691,
         "longitude": -122.425440078137,
-        "units": "CM31X1 >BC121 >E63 >BC17 >E92>E65 >E51 >Q62 ?TAC35 >E52"
+        "units": "CM31X1 >BC121 >E63 >BC17 >E92>E65 >E51 >Q62 ?TAC35 >PR17"
     }
 ]
