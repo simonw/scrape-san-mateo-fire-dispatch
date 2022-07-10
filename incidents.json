@@ -4,11 +4,11 @@
         "date": "2022-07-10",
         "time": "10:24:36 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
+        "category": "Hazardous material - consult",
         "location": "100 S SAN MATEO DR ,SMO",
         "latitude": 37.5649003297418,
         "longitude": -122.326263931242,
-        "units": "BC8 >TAC25 ?CM21X4 ?T34 ?E21"
+        "units": "HM14 >CM21X4 >BC8 >T34 >E21>TAC25"
     },
     {
         "id": "MF2205249",
@@ -22,39 +22,6 @@
         "units": ">E6"
     },
     {
-        "id": "FF2203858",
-        "date": "2022-07-10",
-        "time": "10:22:48 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALHAMBRA RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "CF2204248",
-        "date": "2022-07-10",
-        "time": "10:12:47 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ANITA DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "CF2204247",
-        "date": "2022-07-10",
-        "time": "10:11:53 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c2",
-        "location": "ASHTON AVE / HILLCREST BLVD",
-        "latitude": 37.595860344117,
-        "longitude": -122.397788804496,
-        "units": ">E38"
-    },
-    {
         "id": "RF2206866",
         "date": "2022-07-10",
         "time": "10:10:44 AM",
@@ -64,27 +31,5 @@
         "latitude": 37.5093128779676,
         "longitude": -122.257116312542,
         "units": ">E13"
-    },
-    {
-        "id": "NF2207041",
-        "date": "2022-07-10",
-        "time": "10:04:36 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TEMPLETON AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "MF2205248",
-        "date": "2022-07-10",
-        "time": "10:03:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VAN BUREN RD #1 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
     }
 ]
