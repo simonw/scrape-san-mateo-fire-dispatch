@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2207972",
+        "date": "2022-07-11",
+        "time": "6:06:06 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "WB 92 / EO HIGH RI",
+        "latitude": 37.5970069460201,
+        "longitude": -122.222650415637,
+        "units": ">BC5 CM21X1 HABC2 HAE2 ?TAC25>E28 >T23 HAT7"
+    },
+    {
+        "id": "FF2203875",
+        "date": "2022-07-11",
+        "time": "6:01:03 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "329 MILLER AVE ,SSF",
+        "latitude": 37.6561781748417,
+        "longitude": -122.411202842242,
+        "units": ">E61"
+    },
+    {
         "id": "NF2207077",
         "date": "2022-07-11",
         "time": "5:56:32 AM",
@@ -8,18 +30,7 @@
         "location": "OAKMONT DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "NF2207076",
-        "date": "2022-07-11",
-        "time": "5:55:30 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHGATE AVE #101 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E95"
+        "units": ">E91"
     },
     {
         "id": "SF2207971",
@@ -30,18 +41,7 @@
         "location": "N IDAHO ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "CF2204266",
-        "date": "2022-07-11",
-        "time": "5:38:29 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "401 E MILLBRAE AVE ,MLB",
-        "latitude": 37.6027327274046,
-        "longitude": -122.377627894092,
-        "units": ">CM21X5 >T34 >E37 TAC25"
+        "units": ""
     },
     {
         "id": "NF2207075",
@@ -52,6 +52,6 @@
         "location": "NB 1 / NB 1 ON RAMP",
         "latitude": 37.7000224568024,
         "longitude": -122.471351328495,
-        "units": ">E94 TAC35 >T95 >CM31X3"
+        "units": ""
     }
 ]
