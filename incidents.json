@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2202169",
+        "date": "2022-07-11",
+        "time": "11:06:11 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #18A ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "SF2208017",
+        "date": "2022-07-11",
+        "time": "10:51:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "414 WESSEX WAY ,BLM",
+        "latitude": 37.5256202483986,
+        "longitude": -122.272914320979,
+        "units": ""
+    },
+    {
         "id": "SF2208016",
         "date": "2022-07-11",
         "time": "10:47:50 PM",
@@ -8,7 +30,7 @@
         "location": "ROCKWOOD CT ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
+        "units": ">E27"
     },
     {
         "id": "RF2206919",
@@ -19,7 +41,7 @@
         "location": "WOODSIDE RD / HUDSON ST",
         "latitude": 37.4694723261136,
         "longitude": -122.223516406887,
-        "units": "BC3 T9 E10 CM11X2 ?TAC15"
+        "units": "?TAC15 CM11X2 >T9 >BC3 >E10"
     },
     {
         "id": "NF2207106",
@@ -31,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E81"
-    },
-    {
-        "id": "CF2204284",
-        "date": "2022-07-11",
-        "time": "10:21:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1073 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2207105",
-        "date": "2022-07-11",
-        "time": "10:19:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BEL MAR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
     }
 ]
