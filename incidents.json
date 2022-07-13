@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2205335",
+        "id": "BF2202186",
         "date": "2022-07-13",
-        "time": "9:00:08 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:30:26 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "HIDDEN OAKS DR ,MNP",
+        "location": "LINDEN AVE #6 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
+        "units": "E51"
+    },
+    {
+        "id": "BF2202185",
+        "date": "2022-07-13",
+        "time": "9:28:48 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MASSON AVE #4 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "T51"
+    },
+    {
+        "id": "RF2206980",
+        "date": "2022-07-13",
+        "time": "9:20:31 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "1201 RADIO RD ,RWS",
+        "latitude": 37.5435275835102,
+        "longitude": -122.232756874827,
+        "units": ">E20"
+    },
+    {
+        "id": "MF2205337",
+        "date": "2022-07-13",
+        "time": "9:16:28 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDGEWOOD LN ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6 >E4"
     },
     {
         "id": "SF2208064",
@@ -20,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E15"
-    },
-    {
-        "id": "NF2207146",
-        "date": "2022-07-13",
-        "time": "8:53:03 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHGATE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "NF2207145",
-        "date": "2022-07-13",
-        "time": "8:44:22 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "82 OCEANSIDE DR ,DCY",
-        "latitude": 37.6716035597422,
-        "longitude": -122.489878639637,
-        "units": ""
-    },
-    {
-        "id": "RF2206978",
-        "date": "2022-07-13",
-        "time": "8:37:50 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #206 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
     }
 ]
