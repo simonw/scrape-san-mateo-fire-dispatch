@@ -1,13 +1,35 @@
 [
     {
-        "id": "MF2205327",
+        "id": "NF2207135",
         "date": "2022-07-12",
-        "time": "10:56:36 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:24:08 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "E SELBY LN #117 ,NFO",
+        "location": "JOHN DALY BLVD ,DCY",
         "latitude": null,
         "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "DF2201203",
+        "date": "2022-07-12",
+        "time": "11:23:09 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #9 ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "RF2206967",
+        "date": "2022-07-12",
+        "time": "11:22:36 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "2485 EL CAMINO REAL ,RCY",
+        "latitude": 37.4752826080338,
+        "longitude": -122.217667335411,
         "units": ">E5"
     },
     {
@@ -19,29 +41,7 @@
         "location": "WEDGEWOOD DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "HF2201560",
-        "date": "2022-07-12",
-        "time": "10:52:49 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BUENA VISTA ST ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "RF2206966",
-        "date": "2022-07-12",
-        "time": "10:47:46 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRITTAN AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": ""
     },
     {
         "id": "MF2205326",
@@ -52,7 +52,7 @@
         "location": "2865 BLENHEIM AVE #5 ,NFO",
         "latitude": 37.4706195853912,
         "longitude": -122.211752741949,
-        "units": ">T9 >E6 >BC1 >E3 TAC15?CM11X5"
+        "units": "?CM11X5"
     },
     {
         "id": "BF2202183",
@@ -63,6 +63,6 @@
         "location": "AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": "E51"
     }
 ]
