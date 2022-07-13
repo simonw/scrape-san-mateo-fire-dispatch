@@ -1,35 +1,46 @@
 [
     {
-        "id": "SF2208069",
+        "id": "SF2208072",
         "date": "2022-07-13",
-        "time": "11:04:41 AM",
+        "time": "11:25:27 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "2000 WINWARD WAY ,SMO",
-        "latitude": 37.5559829618877,
-        "longitude": -122.283018564476,
-        "units": "E26"
-    },
-    {
-        "id": "NF2207149",
-        "date": "2022-07-13",
-        "time": "10:56:53 AM",
-        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "VALE ST #53 ,DCY",
+        "location": "BEACH PARK BLVD ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E93"
+        "units": "E27"
     },
     {
-        "id": "RF2206983",
+        "id": "MF2205338",
         "date": "2022-07-13",
-        "time": "10:55:20 AM",
+        "time": "11:22:51 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CEDAR CT ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2206985",
+        "date": "2022-07-13",
+        "time": "11:14:06 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CEDAR ST #C ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "category": "Traffic accident",
+        "location": "VETERANS BLVD / WOODSIDE RD",
+        "latitude": 37.4883151735144,
+        "longitude": -122.213634387043,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2207150",
+        "date": "2022-07-13",
+        "time": "11:08:46 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "6543 MISSION ST ,DCY",
+        "latitude": 37.7034623133302,
+        "longitude": -122.462761044657,
+        "units": ">E92"
     }
 ]
