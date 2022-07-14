@@ -1,14 +1,25 @@
 [
     {
-        "id": "HF2201572",
+        "id": "NF2207189",
         "date": "2022-07-14",
-        "time": "3:03:27 AM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "3:19:16 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "ROOSEVELT BLVD ,HMB",
+        "location": "EASTMOOR AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
+        "units": ">E95"
+    },
+    {
+        "id": "FF2203934",
+        "date": "2022-07-14",
+        "time": "3:07:34 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "329 MILLER AVE ,SSF",
+        "latitude": 37.6561781748417,
+        "longitude": -122.411202842242,
+        "units": ">E61"
     },
     {
         "id": "RF2207014",
@@ -19,7 +30,7 @@
         "location": "DUANE ST #1 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T9 >E9 CM11X1"
+        "units": "E9"
     },
     {
         "id": "SF2208093",
@@ -31,27 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E29"
-    },
-    {
-        "id": "RF2207013",
-        "date": "2022-07-14",
-        "time": "2:36:50 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #214A ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "SF2208092",
-        "date": "2022-07-14",
-        "time": "2:34:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MERIDIAN BAY LN #134 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
     }
 ]
