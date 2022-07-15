@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2205390",
+        "date": "2022-07-15",
+        "time": "11:27:06 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GEORGETOWN ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "NF2207248",
+        "date": "2022-07-15",
+        "time": "11:17:09 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ACTON ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "NF2207247",
+        "date": "2022-07-15",
+        "time": "11:16:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA VISTA WAY ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
         "id": "SF2208160",
         "date": "2022-07-15",
         "time": "11:04:08 AM",
@@ -8,40 +41,7 @@
         "location": "CARLMONT DR #8 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "FF2203959",
-        "date": "2022-07-15",
-        "time": "10:55:59 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Smoke investigation",
-        "location": "SB 101 / NO S AIRPORT BLVD",
-        "latitude": 37.6532145791878,
-        "longitude": -122.407115445744,
-        "units": ">E65"
-    },
-    {
-        "id": "MF2205389",
-        "date": "2022-07-15",
-        "time": "10:55:48 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD #23 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "MF2205388",
-        "date": "2022-07-15",
-        "time": "10:53:20 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #18 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": ">E15"
     },
     {
         "id": "WF2200946",
@@ -50,17 +50,6 @@
         "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
         "location": "ELEANOR DR ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">CM11X1 >E7"
-    },
-    {
-        "id": "MF2205386",
-        "date": "2022-07-15",
-        "time": "10:45:50 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLARKE AVE ,EPA",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -74,7 +63,7 @@
         "location": "406 91ST ST ,DCY",
         "latitude": 37.6906071590489,
         "longitude": -122.474876530195,
-        "units": ">BC20 *>E92 TAC36 >E91 CM31X4>E95"
+        "units": ">E91"
     },
     {
         "id": "NF2207235",
@@ -85,6 +74,6 @@
         "location": "SAN MARLO WAY / DONDEE WAY",
         "latitude": 37.6103838224685,
         "longitude": -122.49505159481,
-        "units": ">BC121 CM31X1 >TAC35 >R95 >E71>T95 >E72"
+        "units": "CM31X1 >TAC35 >R95 >E71 >T95>E72"
     }
 ]
