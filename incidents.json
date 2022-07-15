@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2205386",
+        "date": "2022-07-15",
+        "time": "10:45:50 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLARKE AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E2"
+    },
+    {
+        "id": "MF2205385",
+        "date": "2022-07-15",
+        "time": "10:40:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EVELYN ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2208159",
+        "date": "2022-07-15",
+        "time": "10:32:14 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CORONET BLVD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
         "id": "RF2207064",
         "date": "2022-07-15",
         "time": "10:28:59 AM",
@@ -8,18 +41,7 @@
         "location": "1 ELM ST ,SNC",
         "latitude": 37.5124467629783,
         "longitude": -122.269400891673,
-        "units": "?E13"
-    },
-    {
-        "id": "FF2203958",
-        "date": "2022-07-15",
-        "time": "10:28:16 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BIRCH AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E65"
+        "units": ">E13"
     },
     {
         "id": "SF2208158",
@@ -27,10 +49,10 @@
         "time": "10:26:12 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Wires down (not sparking)",
-        "location": "423 VOELKER DR ,SMO",
+        "location": "419 VOELKER DR ,SMO",
         "latitude": 37.5311037579753,
         "longitude": -122.30641636077,
-        "units": "T23"
+        "units": ">T23"
     },
     {
         "id": "RF2207063",
@@ -41,7 +63,7 @@
         "location": "1662 PALM AVE ,RCY",
         "latitude": 37.4647401011108,
         "longitude": -122.231681258813,
-        "units": ">E10 E12 BC3 T9 E4TAC15 CM11X2 E11"
+        "units": ">TAC15 >CM11X2 >T9 >E10"
     },
     {
         "id": "SF2208157",
@@ -52,7 +74,7 @@
         "location": "443 STATE ST ,SMO",
         "latitude": 37.5778341651754,
         "longitude": -122.334301999301,
-        "units": ">E24"
+        "units": ""
     },
     {
         "id": "SF2208156",
@@ -63,29 +85,7 @@
         "location": "SHORELINE DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2208155",
-        "date": "2022-07-15",
-        "time": "10:17:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E HILLSDALE BLVD ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2205384",
-        "date": "2022-07-15",
-        "time": "10:14:55 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COOLEY AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ""
     },
     {
         "id": "SF2208154",
@@ -107,7 +107,7 @@
         "location": "406 91ST ST ,DCY",
         "latitude": 37.6906071590489,
         "longitude": -122.474876530195,
-        "units": ">BC20 >E92 >E94 >T51 TAC36>PR20B >E91 CM31X4 >BS86 >E95"
+        "units": ">BC20 >E92 TAC36 >E91 CM31X4>BS86 >E95"
     },
     {
         "id": "NF2207235",
