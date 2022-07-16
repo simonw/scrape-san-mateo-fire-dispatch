@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2208201",
+        "id": "SF2208202",
         "date": "2022-07-16",
-        "time": "2:20:54 PM",
+        "time": "2:35:37 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO 92",
+        "latitude": 37.5488862457401,
+        "longitude": -122.2917809826,
+        "units": "BC5"
+    },
+    {
+        "id": "CF2204409",
+        "date": "2022-07-16",
+        "time": "2:32:26 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
+        "location": "HOWARD AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">T34"
+    },
+    {
+        "id": "MF2205416",
+        "date": "2022-07-16",
+        "time": "2:26:47 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AMHERST AVE #B ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
     },
     {
         "id": "HF2201591",
@@ -19,7 +41,7 @@
         "location": "WILLOW AVE #2 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": "*>E40"
     },
     {
         "id": "NF2207292",
@@ -55,17 +77,6 @@
         "units": ">E25"
     },
     {
-        "id": "RF2207112",
-        "date": "2022-07-16",
-        "time": "1:52:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1430 CRESTVIEW DR ,SNC",
-        "latitude": 37.4763452670155,
-        "longitude": -122.281114514288,
-        "units": ">E18"
-    },
-    {
         "id": "NF2207286",
         "date": "2022-07-16",
         "time": "1:11:06 PM",
@@ -75,17 +86,6 @@
         "latitude": 37.671104784259,
         "longitude": -122.471687299226,
         "units": ">E94"
-    },
-    {
-        "id": "CF2204406",
-        "date": "2022-07-16",
-        "time": "1:08:54 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "1704 ROLLINS RD ,BRM",
-        "latitude": 37.5965351613837,
-        "longitude": -122.376277085083,
-        "units": ""
     },
     {
         "id": "MF2205402",
