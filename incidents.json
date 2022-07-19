@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2208297",
+        "date": "2022-07-19",
+        "time": "12:41:03 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E32"
+    },
+    {
+        "id": "NF2207377",
+        "date": "2022-07-19",
+        "time": "12:39:10 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SKYLINE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "SF2208296",
+        "date": "2022-07-19",
+        "time": "12:35:50 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "120 W 3RD AVE #1010 ,SMO",
+        "latitude": 37.5613469049052,
+        "longitude": -122.328488771638,
+        "units": "BC5 E25 E21 T21 E24?TAC25 ?CM21X4"
+    },
+    {
         "id": "BF2202235",
         "date": "2022-07-19",
         "time": "12:25:30 AM",
@@ -8,18 +41,7 @@
         "location": "HUNTINGTON AVE / W ANGUS AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "NF2207376",
-        "date": "2022-07-19",
-        "time": "12:21:40 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E91"
+        "units": ">E51"
     },
     {
         "id": "CF2204454",
@@ -30,17 +52,6 @@
         "location": "VISTA GRANDE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "HF2201610",
-        "date": "2022-07-19",
-        "time": "7/18/2022 11:52:09 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CYPRESS AVE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E40"
+        "units": ""
     }
 ]
