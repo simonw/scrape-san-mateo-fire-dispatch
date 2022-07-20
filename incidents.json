@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2207249",
+        "id": "RF2207250",
         "date": "2022-07-20",
-        "time": "2:00:44 PM",
+        "time": "2:08:43 PM",
         "summary": "Redwood City Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "411 FLYNN AVE ,RCY",
+        "latitude": 37.4794186663043,
+        "longitude": -122.21452604022,
+        "units": ">E9"
+    },
+    {
+        "id": "MF2205557",
+        "date": "2022-07-20",
+        "time": "2:07:35 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MC EVOY ST ,RCY",
+        "location": "HAVEN AVE #B121 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": ">E77"
+    },
+    {
+        "id": "SF2208361",
+        "date": "2022-07-20",
+        "time": "2:04:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "50 E 5TH AVE ,SMO",
+        "latitude": 37.5614637210917,
+        "longitude": -122.322204481672,
+        "units": ">E21"
     },
     {
         "id": "RF2207248",
@@ -20,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T9"
-    },
-    {
-        "id": "CF2204488",
-        "date": "2022-07-20",
-        "time": "1:17:24 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GREEN HILLS DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "T51"
     }
 ]
