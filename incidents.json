@@ -1,5 +1,82 @@
 [
     {
+        "id": "MF2205550",
+        "date": "2022-07-20",
+        "time": "11:43:35 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MANHATTAN AVE #32 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "SF2208353",
+        "date": "2022-07-20",
+        "time": "11:42:39 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "319 CLARK DR ,SMO",
+        "latitude": 37.5677448046307,
+        "longitude": -122.345873174214,
+        "units": ">E32"
+    },
+    {
+        "id": "CF2204481",
+        "date": "2022-07-20",
+        "time": "11:40:52 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Gas main break",
+        "location": "3035 ARGUELLO DR ,BRM",
+        "latitude": 37.5777066346162,
+        "longitude": -122.395848951402,
+        "units": "E38 CM21X1 E52 BC8 T34E51 ?TAC26"
+    },
+    {
+        "id": "MF2205549",
+        "date": "2022-07-20",
+        "time": "11:35:42 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CALLADO WAY ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3 >BC1 >E4 CM11X1"
+    },
+    {
+        "id": "CF2204480",
+        "date": "2022-07-20",
+        "time": "11:32:56 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HILLCREST BLVD ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "CF2204479",
+        "date": "2022-07-20",
+        "time": "11:32:54 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GROVE AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "NF2207422",
+        "date": "2022-07-20",
+        "time": "11:31:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #103A ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
+    },
+    {
         "id": "SF2208352",
         "date": "2022-07-20",
         "time": "11:26:38 AM",
@@ -8,18 +85,7 @@
         "location": "S NORFOLK ST #15A ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "MF2205548",
-        "date": "2022-07-20",
-        "time": "11:25:30 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DEMETER ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "R77"
+        "units": ">E26"
     },
     {
         "id": "FF2204048",
@@ -30,18 +96,7 @@
         "location": "EVERGREEN DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "CF2204477",
-        "date": "2022-07-20",
-        "time": "11:23:59 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VISTA GRANDE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
+        "units": ""
     },
     {
         "id": "MF2205547",
@@ -52,39 +107,17 @@
         "location": "HAZELWOOD WAY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
-    },
-    {
-        "id": "FF2204047",
-        "date": "2022-07-20",
-        "time": "11:16:12 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "150 EL CAMINO REAL ,SSF",
-        "latitude": 37.6411641395296,
-        "longitude": -122.423287777785,
-        "units": ">MED17 >T51 >BC17 >E51 CM31X3?TAC35"
-    },
-    {
-        "id": "CF2204476",
-        "date": "2022-07-20",
-        "time": "11:12:13 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #222 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "units": ">T2"
     },
     {
         "id": "SF2208351",
         "date": "2022-07-20",
         "time": "11:10:41 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Water rescue investigation",
+        "category": "Water rescue response",
         "location": "2403 E 3RD AVE ,FCY",
         "latitude": 37.5706712229326,
         "longitude": -122.283349484716,
-        "units": "JS28 BOAT9 CG22A >BC5 >TO5CM51X4 ?TAC25 >E28"
+        "units": "BOAT9 CG22A >BC5 >JS28 >TO5>E25 CM51X4 ?TAC25 BOAT14 >E28"
     }
 ]
