@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2204469",
+        "id": "CF2204470",
         "date": "2022-07-20",
-        "time": "12:09:57 AM",
+        "time": "12:42:45 AM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "TROUSDALE DR #1077A ,BRM",
+        "location": "TROUSDALE DR #1033A ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": "?E37"
+    },
+    {
+        "id": "RF2207229",
+        "date": "2022-07-20",
+        "time": "12:41:45 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "207 REDWOOD SHORES PKWY ,RWS",
+        "latitude": 37.5228687344022,
+        "longitude": -122.254004298146,
+        "units": "?E20"
+    },
+    {
+        "id": "SF2208338",
+        "date": "2022-07-20",
+        "time": "12:34:37 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PALM AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "NF2207412",
+        "date": "2022-07-20",
+        "time": "12:25:18 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "365 TALBOT AVE ,PCF",
+        "latitude": 37.633941962832,
+        "longitude": -122.48793201567,
+        "units": "CM31X5 >E94 ?TAC35 >E72"
     },
     {
         "id": "NF2207411",
@@ -20,16 +53,5 @@
         "latitude": 37.6368835403214,
         "longitude": -122.484380123132,
         "units": ">E71"
-    },
-    {
-        "id": "BF2202250",
-        "date": "2022-07-20",
-        "time": "12:09:09 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
     }
 ]
