@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2205567",
+        "date": "2022-07-20",
+        "time": "10:05:13 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "560 COTTON ST ,MNP",
+        "latitude": 37.4394830664734,
+        "longitude": -122.187113159691,
+        "units": "*>E6"
+    },
+    {
+        "id": "SF2208381",
+        "date": "2022-07-20",
+        "time": "10:01:38 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BETTINA AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
         "id": "CF2204498",
         "date": "2022-07-20",
         "time": "9:52:32 PM",
@@ -8,29 +30,7 @@
         "location": "SB 101 / E MILLBRAE AVE OFF RAMP",
         "latitude": 37.6052725539121,
         "longitude": -122.384739038774,
-        "units": "T51 BC16 E51 CM21X1 ?TAC25"
-    },
-    {
-        "id": "RF2207263",
-        "date": "2022-07-20",
-        "time": "9:43:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WARRINGTON AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2207262",
-        "date": "2022-07-20",
-        "time": "9:40:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR #102 ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ">E51 >T51 >BC16 CM21X1 ?TAC25"
     },
     {
         "id": "RF2207261",
@@ -41,18 +41,7 @@
         "location": "BROADWAY #26 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2204497",
-        "date": "2022-07-20",
-        "time": "9:25:09 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #414 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "NF2207437",
