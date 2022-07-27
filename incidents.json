@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2207701",
+        "date": "2022-07-27",
+        "time": "11:42:02 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ODDSTAD BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "NF2207700",
+        "date": "2022-07-27",
+        "time": "11:39:43 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "FF2204150",
+        "date": "2022-07-27",
+        "time": "11:31:14 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "COMMERCIAL AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "BF2202335",
+        "date": "2022-07-27",
+        "time": "11:30:10 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SHELTER CREEK LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
         "id": "SF2208644",
         "date": "2022-07-27",
         "time": "11:28:44 AM",
@@ -8,7 +52,7 @@
         "location": "LAURIE MEADOWS DR #504 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": ">E13"
     },
     {
         "id": "SF2208643",
@@ -19,29 +63,7 @@
         "location": "128 N EL CAMINO REAL ,SMO",
         "latitude": 37.5678257507474,
         "longitude": -122.330683903845,
-        "units": "T21"
-    },
-    {
-        "id": "NF2207699",
-        "date": "2022-07-27",
-        "time": "11:23:49 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "RIDGEFIELD AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "CF2204682",
-        "date": "2022-07-27",
-        "time": "11:22:01 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "MILLBRAE AVE / S EL CAMINO REAL",
-        "latitude": 37.5985188871241,
-        "longitude": -122.387409437657,
-        "units": ">E37"
+        "units": ">T21"
     },
     {
         "id": "BF2202333",
@@ -52,28 +74,6 @@
         "location": "1173 SAN MATEO AVE ,SNB",
         "latitude": 37.6387196707292,
         "longitude": -122.411804546643,
-        "units": ">T51 >E61 >BC16 TAC35 CM31X3"
-    },
-    {
-        "id": "RF2207482",
-        "date": "2022-07-27",
-        "time": "11:09:00 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TRILLIUM LN ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "NF2207696",
-        "date": "2022-07-27",
-        "time": "10:30:55 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WESTLAKE CTR / SOUTHGATE AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": "TAC35 >BC16 >E61 >T51 CM31X3"
     }
 ]
