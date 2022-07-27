@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2205712",
+        "id": "MF2205713",
         "date": "2022-07-27",
-        "time": "2:25:06 PM",
+        "time": "2:38:02 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MIDDLEFIELD RD #202 ,NFO",
+        "location": "NEWELL CT #3207 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E10"
+        "units": ">E2"
+    },
+    {
+        "id": "RF2207483",
+        "date": "2022-07-27",
+        "time": "2:27:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SYCAMORE ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
     },
     {
         "id": "CF2204685",
@@ -19,7 +30,7 @@
         "location": "ANSON LN ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
+        "units": ">T34"
     },
     {
         "id": "BF2202339",
@@ -30,40 +41,7 @@
         "location": "320 CYPRESS AVE ,SNB",
         "latitude": 37.6176144463853,
         "longitude": -122.413845564338,
-        "units": "?SBFINV >E63 >BC17 CM31X1 E52TAC35 >Q62 >BC16 >E61 >T51"
-    },
-    {
-        "id": "MF2205711",
-        "date": "2022-07-27",
-        "time": "2:09:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E77"
-    },
-    {
-        "id": "DF2201293",
-        "date": "2022-07-27",
-        "time": "2:04:26 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CANADA RD ,SOS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "MF2205710",
-        "date": "2022-07-27",
-        "time": "1:50:28 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SELBY LN ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E63 >BC17 >CM31X1 >E52 >TAC35>Q62 >BC16 >E61 >T51 >PR16"
     },
     {
         "id": "NF2207708",
@@ -74,6 +52,6 @@
         "location": "GARDEN GROVE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ""
     }
 ]
