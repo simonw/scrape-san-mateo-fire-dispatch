@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2204704",
+        "id": "MF2205739",
         "date": "2022-07-28",
-        "time": "10:31:00 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "10:44:12 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "795 WILLOW RD ,MNP",
+        "latitude": 37.4663546046411,
+        "longitude": -122.160234197566,
+        "units": "E1"
+    },
+    {
+        "id": "DF2201297",
+        "date": "2022-07-28",
+        "time": "10:44:01 AM",
+        "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL / RAY DR",
+        "location": "TOWER RD ,SON",
         "latitude": null,
         "longitude": null,
-        "units": "?E37"
+        "units": "E15 T17"
+    },
+    {
+        "id": "SF2208683",
+        "date": "2022-07-28",
+        "time": "10:38:42 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
     },
     {
         "id": "RF2207502",
@@ -19,7 +41,7 @@
         "location": "INDUSTRIAL RD / HOWARD AVE",
         "latitude": 37.5016377246503,
         "longitude": -122.246081520637,
-        "units": "T9 BC3 E13 CM11X3 ?TAC16"
+        "units": ">T9 >E13 >BC3"
     },
     {
         "id": "MF2205738",
@@ -30,28 +52,6 @@
         "location": "2005 WILLOW RD ,MNP",
         "latitude": 37.492972561631,
         "longitude": -122.136109043538,
-        "units": ">E5 >BC101 E2 >R77 CM11X4?TAC15"
-    },
-    {
-        "id": "MF2205737",
-        "date": "2022-07-28",
-        "time": "10:17:22 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HACKER WAY #BLDG 17 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "FF2204160",
-        "date": "2022-07-28",
-        "time": "10:14:11 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "NORTHWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">R77 ?TAC15 CM11X4 >E5"
     }
 ]
