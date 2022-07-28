@@ -1,14 +1,47 @@
 [
     {
+        "id": "SF2208684",
+        "date": "2022-07-28",
+        "time": "11:01:52 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "RF2207503",
+        "date": "2022-07-28",
+        "time": "10:59:33 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "1121 OLD COUNTY RD ,SNC",
+        "latitude": 37.5004387911881,
+        "longitude": -122.2507803903,
+        "units": ">E13"
+    },
+    {
+        "id": "CF2204705",
+        "date": "2022-07-28",
+        "time": "10:50:16 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #294 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "MF2205739",
         "date": "2022-07-28",
         "time": "10:44:12 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Odor investigation",
+        "category": "Full assignment response",
         "location": "795 WILLOW RD ,MNP",
         "latitude": 37.4663546046411,
         "longitude": -122.160234197566,
-        "units": "E1"
+        "units": ">T2 >BC101 CM11X2 ?TAC16 >E1"
     },
     {
         "id": "DF2201297",
@@ -19,29 +52,7 @@
         "location": "TOWER RD ,SON",
         "latitude": null,
         "longitude": null,
-        "units": "E15 T17"
-    },
-    {
-        "id": "SF2208683",
-        "date": "2022-07-28",
-        "time": "10:38:42 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "RF2207502",
-        "date": "2022-07-28",
-        "time": "10:28:59 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "INDUSTRIAL RD / HOWARD AVE",
-        "latitude": 37.5016377246503,
-        "longitude": -122.246081520637,
-        "units": ">T9 >E13 >BC3"
+        "units": ">T17"
     },
     {
         "id": "MF2205738",
@@ -52,6 +63,6 @@
         "location": "2005 WILLOW RD ,MNP",
         "latitude": 37.492972561631,
         "longitude": -122.136109043538,
-        "units": ">R77 ?TAC15 CM11X4 >E5"
+        "units": ">E5"
     }
 ]
