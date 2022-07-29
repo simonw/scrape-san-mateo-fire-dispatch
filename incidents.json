@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2207792",
+        "id": "RF2207555",
         "date": "2022-07-29",
-        "time": "1:43:21 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "1:56:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "757 7TH AVE ,NFO",
+        "latitude": 37.4785164387341,
+        "longitude": -122.198546752847,
+        "units": ">E11"
+    },
+    {
+        "id": "SF2208738",
+        "date": "2022-07-29",
+        "time": "1:54:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "60 31ST AVE ,SMO",
+        "latitude": 37.5389350979686,
+        "longitude": -122.301956113109,
+        "units": ">E23"
+    },
+    {
+        "id": "MF2205775",
+        "date": "2022-07-29",
+        "time": "1:46:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "CYPRESS CT ,DCY",
+        "location": "DAPHNE WAY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
+        "units": ">E2"
     },
     {
         "id": "NF2207791",
@@ -19,7 +41,7 @@
         "location": "SAN DIEGO AVE #1 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": ">E91"
     },
     {
         "id": "SF2208737",
@@ -42,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E71"
-    },
-    {
-        "id": "SF2208736",
-        "date": "2022-07-29",
-        "time": "1:26:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SAN ANTONIO ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
