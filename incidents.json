@@ -1,25 +1,36 @@
 [
     {
-        "id": "SF2208805",
+        "id": "RF2207603",
         "date": "2022-07-30",
-        "time": "11:15:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:46:23 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "HARDING AVE ,SMO",
+        "location": "PELICAN LN ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": "?E14"
     },
     {
-        "id": "LF2200651",
+        "id": "NF2207859",
         "date": "2022-07-30",
-        "time": "11:15:22 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "STONEYFORD DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
+        "time": "11:45:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SAN PEDRO RD / WASHINGTON ST",
+        "latitude": 37.6878505575408,
+        "longitude": -122.468232202093,
+        "units": "T95 E92 ?TAC35 ?CM31X2 ?BC20"
+    },
+    {
+        "id": "SF2208806",
+        "date": "2022-07-30",
+        "time": "11:35:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "565 EDGEWOOD RD ,SMO",
+        "latitude": 37.5665878464898,
+        "longitude": -122.349923517978,
+        "units": ">E32"
     },
     {
         "id": "SF2208804",
@@ -31,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T34"
-    },
-    {
-        "id": "WF2201035",
-        "date": "2022-07-30",
-        "time": "11:01:34 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALMER LN ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
     }
 ]
