@@ -1,14 +1,58 @@
 [
     {
-        "id": "FF2204213",
+        "id": "NF2207919",
         "date": "2022-08-01",
-        "time": "10:08:32 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "10:28:08 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "OYSTER POINT BLVD ,SSF",
+        "location": "LISBON ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": "E92"
+    },
+    {
+        "id": "SF2208859",
+        "date": "2022-08-01",
+        "time": "10:27:16 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TRAIN TRACK ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "RF2207655",
+        "date": "2022-08-01",
+        "time": "10:26:18 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAVEN AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "SF2208858",
+        "date": "2022-08-01",
+        "time": "10:18:41 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "901 BROMFIELD RD ,SMO",
+        "latitude": 37.5638253603244,
+        "longitude": -122.353699122152,
+        "units": ">E34"
+    },
+    {
+        "id": "RF2207654",
+        "date": "2022-08-01",
+        "time": "10:14:17 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WALNUT ST #8 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
     },
     {
         "id": "HF2201741",
@@ -19,39 +63,6 @@
         "location": "KELLY AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "SF2208856",
-        "date": "2022-08-01",
-        "time": "9:59:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #308 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "MF2205860",
-        "date": "2022-08-01",
-        "time": "9:57:01 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MANHATTAN AVE #32 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2208855",
-        "date": "2022-08-01",
-        "time": "9:53:20 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CYPRESS AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": ""
     }
 ]
