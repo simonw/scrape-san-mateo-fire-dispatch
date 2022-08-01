@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2205846",
+        "date": "2022-07-31",
+        "time": "11:05:16 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARLBOROUGH AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "FF2204206",
         "date": "2022-07-31",
         "time": "10:55:50 PM",
@@ -8,7 +19,7 @@
         "location": "CYPRESS AVE #110 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "FF2204205",
@@ -19,28 +30,6 @@
         "location": "255 S AIRPORT BLVD ,SSF",
         "latitude": 37.6474535841907,
         "longitude": -122.404269626976,
-        "units": ">Q62 BC17 E61 CM31X2 ?TAC35"
-    },
-    {
-        "id": "RF2207637",
-        "date": "2022-07-31",
-        "time": "10:49:48 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "18 WOODLEAF AVE ,RCY",
-        "latitude": 37.4483721695952,
-        "longitude": -122.25968801599,
-        "units": "E12"
-    },
-    {
-        "id": "NF2207904",
-        "date": "2022-07-31",
-        "time": "10:38:29 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "E MOLTKE ST #41 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">BC17 >E61 >Q62 CM31X2 ?TAC35"
     }
 ]
