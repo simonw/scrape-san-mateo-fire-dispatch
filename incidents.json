@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2208863",
+        "date": "2022-08-01",
+        "time": "12:02:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "MARINERS ISLAND BLVD / E 3RD AVE",
+        "latitude": 37.5706212061433,
+        "longitude": -122.2844733408,
+        "units": "E28"
+    },
+    {
         "id": "CF2204791",
         "date": "2022-08-01",
         "time": "11:47:43 AM",
@@ -8,7 +19,7 @@
         "location": "ELDER AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
+        "units": ">E37 >E38 >CM21X5"
     },
     {
         "id": "RF2207660",
@@ -19,18 +30,7 @@
         "location": "OLD COUNTY RD #3 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
-    },
-    {
-        "id": "RF2207659",
-        "date": "2022-08-01",
-        "time": "11:41:12 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HUDSON ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": ""
     },
     {
         "id": "RF2207658",
@@ -42,49 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E10"
-    },
-    {
-        "id": "NF2207925",
-        "date": "2022-08-01",
-        "time": "11:34:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BAYSHORE BLVD ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "SF2208860",
-        "date": "2022-08-01",
-        "time": "11:26:13 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Gas main break",
-        "location": "710 ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": 37.5180164247127,
-        "longitude": -122.296801580001,
-        "units": ">E15"
-    },
-    {
-        "id": "CF2204790",
-        "date": "2022-08-01",
-        "time": "11:24:23 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PRIMROSE RD #201 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "SF2208859",
-        "date": "2022-08-01",
-        "time": "10:27:16 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TRAIN TRACK ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E14"
     }
 ]
