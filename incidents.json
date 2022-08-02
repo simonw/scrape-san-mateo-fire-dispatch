@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2205885",
+        "id": "HF2201747",
         "date": "2022-08-02",
-        "time": "2:44:08 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "2:58:03 AM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "ROBERT S DR ,MNP",
+        "location": "CULEBRA DR ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "?E4"
+        "units": ">E44"
+    },
+    {
+        "id": "SF2208886",
+        "date": "2022-08-02",
+        "time": "2:46:25 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROBERT AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
     },
     {
         "id": "MF2205884",
@@ -19,7 +30,7 @@
         "location": "592 HOBART ST ,MNP",
         "latitude": 37.4389694478125,
         "longitude": -122.188255597948,
-        "units": "E6"
+        "units": ">E6"
     },
     {
         "id": "SF2208885",
@@ -30,28 +41,6 @@
         "location": "400 S EL CAMINO REAL ,SMO",
         "latitude": 37.5618959660663,
         "longitude": -122.32515160887,
-        "units": ">E24 >E25 >E21 >T21 TAC25BC5 ?CM21X3"
-    },
-    {
-        "id": "MF2205883",
-        "date": "2022-08-02",
-        "time": "2:33:18 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2208884",
-        "date": "2022-08-02",
-        "time": "2:25:32 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROOKS ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": ">E21 >T21 TAC25 ?CM21X3"
     }
 ]
