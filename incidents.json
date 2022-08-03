@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2207975",
+        "id": "SF2208924",
         "date": "2022-08-02",
-        "time": "6:03:31 PM",
+        "time": "6:55:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "900 ALAMEDA DE LAS PULGAS ,SMO",
+        "latitude": 37.5503294393049,
+        "longitude": -122.329336224786,
+        "units": ">E25"
+    },
+    {
+        "id": "RF2207706",
+        "date": "2022-08-02",
+        "time": "6:50:23 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "104 ARUNDEL RD ,SNC",
+        "latitude": 37.5042400586415,
+        "longitude": -122.270602545532,
+        "units": ">E14"
+    },
+    {
+        "id": "NF2207976",
+        "date": "2022-08-02",
+        "time": "6:45:22 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "SOUTHGATE AVE ,DCY",
+        "location": "KESTREL CT ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": ">E81"
+    },
+    {
+        "id": "SF2208923",
+        "date": "2022-08-02",
+        "time": "6:42:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MOUNDS RD #405 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "SF2208919",
@@ -19,39 +52,6 @@
         "location": "EB 92 / WO HIGH RI",
         "latitude": 37.5819022143102,
         "longitude": -122.253289256567,
-        "units": "BC5 HABC2 HAT7 HAE2 T23E28 CM21X4 ?TAC25"
-    },
-    {
-        "id": "MF2205905",
-        "date": "2022-08-02",
-        "time": "5:45:35 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / NO UNIVERSITY AVE",
-        "latitude": 37.4655873647658,
-        "longitude": -122.149382461131,
-        "units": ">E2 ?TAC16 CM11X5 >T2"
-    },
-    {
-        "id": "WF2201050",
-        "date": "2022-08-02",
-        "time": "5:30:38 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SKYLINE BLVD / RAPLEY",
-        "latitude": 37.3719533571862,
-        "longitude": -122.253189200923,
-        "units": ">E58 ?TAC15 CM11X3 >E1765 >BC15"
-    },
-    {
-        "id": "SF2208916",
-        "date": "2022-08-02",
-        "time": "5:26:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Pole fire",
-        "location": "2140 CARLMONT DR ,BLM",
-        "latitude": 37.5097066540427,
-        "longitude": -122.294842657296,
-        "units": ">E15"
+        "units": ">E28"
     }
 ]
