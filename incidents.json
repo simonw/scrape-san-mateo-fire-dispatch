@@ -1,14 +1,25 @@
 [
     {
-        "id": "BF2202406",
+        "id": "SF2208980",
         "date": "2022-08-04",
-        "time": "2:26:11 AM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "2:31:27 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
+        "location": "CARLMONT DR #W111 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E15"
+    },
+    {
+        "id": "CF2204860",
+        "date": "2022-08-04",
+        "time": "2:27:45 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CHADBOURNE AVE #246 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "FF2204265",
@@ -30,18 +41,7 @@
         "location": "227 RAPLEY RANCH RD ,SOS",
         "latitude": 37.3247930096473,
         "longitude": -122.240336178273,
-        "units": "E56 E7 WT157"
-    },
-    {
-        "id": "SF2208979",
-        "date": "2022-08-04",
-        "time": "2:04:12 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E56 >E7 >WT157"
     },
     {
         "id": "WF2201065",
@@ -52,6 +52,6 @@
         "location": "MEDWAY RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 ?TAC15 ?CM11X3"
+        "units": ">E58"
     }
 ]
