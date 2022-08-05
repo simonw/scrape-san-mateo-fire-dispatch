@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2207797",
+        "id": "MF2205954",
         "date": "2022-08-05",
-        "time": "9:50:04 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:07:02 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "HUDSON ST ,RCY",
+        "location": "BERESFORD PL ,WSB",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "E3"
+    },
+    {
+        "id": "FF2204289",
+        "date": "2022-08-05",
+        "time": "10:03:37 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S AIRPORT BLVD #RM 308 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
     },
     {
         "id": "DF2201347",
@@ -19,7 +30,7 @@
         "location": "CABRILLO HWY / BEAN HOLLOW RD",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC15 ?CO55 E59"
+        "units": ">E59"
     },
     {
         "id": "SF2209047",
@@ -30,7 +41,7 @@
         "location": "WB 92 / EO FOSTER CITY BLVD",
         "latitude": 37.5692506302792,
         "longitude": -122.26737177994,
-        "units": "CM21X5 BC5 ?TAC25 >E28 T23>E26"
+        "units": "CM21X5 >BC5 ?TAC25 >E28 >T23>E26"
     },
     {
         "id": "WF2201079",
@@ -41,17 +52,6 @@
         "location": "WOODSIDE RD / KINGS MOUNTAIN RD",
         "latitude": 37.4260289048307,
         "longitude": -122.266246261922,
-        "units": "CM11X1 >E507 >E19"
-    },
-    {
-        "id": "WF2201078",
-        "date": "2022-08-05",
-        "time": "9:32:21 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BIG TREE WAY ,SKY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM11X1 >E507 TAC16 >BC2 >E19"
     }
 ]
