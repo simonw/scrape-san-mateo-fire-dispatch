@@ -1,5 +1,49 @@
 [
     {
+        "id": "WF2201086",
+        "date": "2022-08-06",
+        "time": "11:02:52 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Smoke investigation",
+        "location": "MANUELLA AVE / MIRAMONTES RD",
+        "latitude": 37.4310100111507,
+        "longitude": -122.268193253437,
+        "units": "E7"
+    },
+    {
+        "id": "NF2208127",
+        "date": "2022-08-06",
+        "time": "11:00:42 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "SF2209096",
+        "date": "2022-08-06",
+        "time": "10:56:43 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W HILLSDALE BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "SF2209095",
+        "date": "2022-08-06",
+        "time": "10:49:06 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO DORE AVE",
+        "latitude": 37.5750510119517,
+        "longitude": -122.318419501939,
+        "units": "CM21X5 ?TAC25 >E24 >E26 >T21"
+    },
+    {
         "id": "MF2205983",
         "date": "2022-08-06",
         "time": "10:40:14 AM",
@@ -8,7 +52,7 @@
         "location": "HAIGHT ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": ">E5"
     },
     {
         "id": "DF2201353",
@@ -19,7 +63,7 @@
         "location": "1 PESCADERO CREEK RD ,PES",
         "latitude": 37.2596210725272,
         "longitude": -122.41307410961,
-        "units": ">E59 E1791 VFIR22 ?CO57"
+        "units": ">E1791 *>E59"
     },
     {
         "id": "NF2208125",
@@ -30,7 +74,7 @@
         "location": "BELLEVUE AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": ">E91"
     },
     {
         "id": "NF2208124",
@@ -44,39 +88,6 @@
         "units": ">E92"
     },
     {
-        "id": "MF2205981",
-        "date": "2022-08-06",
-        "time": "10:25:12 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HERITAGE PL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM11X1 >E1"
-    },
-    {
-        "id": "RF2207830",
-        "date": "2022-08-06",
-        "time": "10:24:44 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #310 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2204925",
-        "date": "2022-08-06",
-        "time": "10:13:04 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #1110 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "BF2202439",
         "date": "2022-08-06",
         "time": "9:49:26 AM",
@@ -85,6 +96,6 @@
         "location": "422 SAN MATEO AVE ,SNB",
         "latitude": 37.6221393652885,
         "longitude": -122.410933140889,
-        "units": "CM31X1 >BC16 >T51"
+        "units": ">T51"
     }
 ]
