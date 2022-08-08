@@ -1,25 +1,58 @@
 [
     {
+        "id": "RF2207899",
+        "date": "2022-08-08",
+        "time": "2:22:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DOUGLAS AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "SF2209179",
+        "date": "2022-08-08",
+        "time": "2:22:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WATERBURY LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "NF2208223",
+        "date": "2022-08-08",
+        "time": "2:18:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NORWOOD AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "BF2202457",
+        "date": "2022-08-08",
+        "time": "2:12:39 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #1D ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
         "id": "SF2209177",
         "date": "2022-08-08",
         "time": "2:02:31 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Structure fire",
-        "location": "N ELLSWORTH AVE / E POPLAR AVE",
+        "location": "353 N ELLSWORTH AVE ,SMO",
         "latitude": 37.5729399668804,
         "longitude": -122.331251369224,
-        "units": "E21 E26 E25 E32 BC5BC8 T21 T34 CM21X3 E35"
-    },
-    {
-        "id": "NF2208221",
-        "date": "2022-08-08",
-        "time": "1:59:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
+        "units": "CM21X3 >BC8 >T34 >TAC25 >E34>E21"
     },
     {
         "id": "HF2201789",
@@ -30,40 +63,7 @@
         "location": "GRANELLI AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "SF2209176",
-        "date": "2022-08-08",
-        "time": "1:50:20 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SYLVAN AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "CF2204979",
-        "date": "2022-08-08",
-        "time": "1:49:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "N HUMBOLDT ST / PENINSULA AVE",
-        "latitude": 37.5830001950305,
-        "longitude": -122.330839488766,
-        "units": ">E34"
-    },
-    {
-        "id": "BF2202456",
-        "date": "2022-08-08",
-        "time": "1:48:18 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "155 LONDON CT ,SNB",
-        "latitude": 37.6084799139411,
-        "longitude": -122.429532227959,
-        "units": ">E52"
+        "units": "*>E40"
     },
     {
         "id": "FF2204353",
@@ -75,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E64"
-    },
-    {
-        "id": "SF2209175",
-        "date": "2022-08-08",
-        "time": "1:28:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1520 CYPRESS AVE ,SMO",
-        "latitude": 37.5755696248951,
-        "longitude": -122.313476044803,
-        "units": ">E24"
-    },
-    {
-        "id": "RF2207897",
-        "date": "2022-08-08",
-        "time": "12:56:30 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SEAPORT BLVD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
