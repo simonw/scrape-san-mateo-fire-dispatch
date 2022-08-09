@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2206074",
+        "date": "2022-08-09",
+        "time": "10:05:38 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WESTMINSTER AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "FF2204376",
+        "date": "2022-08-09",
+        "time": "10:01:14 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "499 FORBES BLVD ,SSF",
+        "latitude": 37.6574692267927,
+        "longitude": -122.389426801775,
+        "units": "Q62"
+    },
+    {
+        "id": "NF2208258",
+        "date": "2022-08-09",
+        "time": "10:00:35 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "26 LYCETT CIR ,DCY",
+        "latitude": 37.6560139196371,
+        "longitude": -122.466529546868,
+        "units": ">E94"
+    },
+    {
         "id": "NF2208256",
         "date": "2022-08-09",
         "time": "9:44:36 AM",
@@ -8,39 +41,6 @@
         "location": "SCHOOL ST / MISSION ST",
         "latitude": 37.6933931600778,
         "longitude": -122.464991139904,
-        "units": ">BC20 T95 E91 CM31X2 ?TAC35"
-    },
-    {
-        "id": "MF2206073",
-        "date": "2022-08-09",
-        "time": "9:39:59 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "2422 SHARON OAKS DR ,MNP",
-        "latitude": 37.4254553159797,
-        "longitude": -122.195641020105,
-        "units": ">E4"
-    },
-    {
-        "id": "BF2202467",
-        "date": "2022-08-09",
-        "time": "9:36:43 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLEGE DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "NF2208255",
-        "date": "2022-08-09",
-        "time": "9:32:17 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FRANKFORT ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">T95 >BC20 CM31X2 ?TAC35"
     }
 ]
