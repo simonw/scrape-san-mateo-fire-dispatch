@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2204379",
+        "id": "NF2208265",
         "date": "2022-08-09",
-        "time": "11:59:45 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "12:27:04 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 1 / MANOR DR OFF RAMP",
+        "latitude": 37.6543792570026,
+        "longitude": -122.490723963042,
+        "units": "?TAC35 ?CM31X3 ?E71 ?BC121 ?E95?T95"
+    },
+    {
+        "id": "RF2207923",
+        "date": "2022-08-09",
+        "time": "12:26:03 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CAMARITAS CIR ,SSF",
+        "location": "WOODSIDE RD #1567 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": "?E9"
+    },
+    {
+        "id": "SF2209222",
+        "date": "2022-08-09",
+        "time": "12:22:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N KINGSTON ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "NF2208264",
+        "date": "2022-08-09",
+        "time": "12:15:48 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "RF2207922",
@@ -30,28 +63,6 @@
         "location": "E 4TH AVE / S HUMBOLDT ST",
         "latitude": 37.5689038174034,
         "longitude": -122.315546561614,
-        "units": "CM21X2 ?TAC25 >E24 >T21"
-    },
-    {
-        "id": "CF2204998",
-        "date": "2022-08-09",
-        "time": "11:36:10 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #301 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "BF2202468",
-        "date": "2022-08-09",
-        "time": "11:32:26 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GREEN AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E24"
     }
 ]
