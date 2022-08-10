@@ -1,5 +1,38 @@
 [
     {
+        "id": "WF2201114",
+        "date": "2022-08-10",
+        "time": "2:36:26 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "RAMONA RD ,LTW",
+        "latitude": null,
+        "longitude": null,
+        "units": "E8"
+    },
+    {
+        "id": "NF2208311",
+        "date": "2022-08-10",
+        "time": "2:36:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IMPERIAL WAY ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "RF2207970",
+        "date": "2022-08-10",
+        "time": "2:31:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "200 REDWOOD SHORES PKWY ,RWS",
+        "latitude": 37.5204426986894,
+        "longitude": -122.251460663064,
+        "units": ">E20"
+    },
+    {
         "id": "CF2205025",
         "date": "2022-08-10",
         "time": "2:25:08 PM",
@@ -8,7 +41,7 @@
         "location": "TROUSDALE DR #307 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
+        "units": ">E38"
     },
     {
         "id": "DF2201374",
@@ -30,7 +63,7 @@
         "location": "SOUTHGATE AVE #101 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
+        "units": ""
     },
     {
         "id": "NF2208309",
@@ -41,7 +74,7 @@
         "location": "PARK PLAZA DR #4 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ""
     },
     {
         "id": "NF2208308",
@@ -53,16 +86,5 @@
         "latitude": 37.6440143164515,
         "longitude": -122.491887230526,
         "units": ">BC123 TAC35 >E71 >T95 ?CM31X4"
-    },
-    {
-        "id": "SF2209295",
-        "date": "2022-08-10",
-        "time": "1:57:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #210A ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
