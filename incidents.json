@@ -1,25 +1,36 @@
 [
     {
-        "id": "NF2208324",
+        "id": "SF2209313",
         "date": "2022-08-10",
-        "time": "9:30:28 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:41:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "GARDEN GROVE DR ,DCY",
+        "location": "HILLMAN AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E91"
+        "units": ">E15"
     },
     {
-        "id": "MF2206115",
+        "id": "HF2201819",
         "date": "2022-08-10",
-        "time": "9:28:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:39:04 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "120 SAN MATEO RD ,HMB",
+        "latitude": 37.4688541145955,
+        "longitude": -122.432075311638,
+        "units": ">E17 >BC10"
+    },
+    {
+        "id": "DF2201378",
+        "date": "2022-08-10",
+        "time": "9:37:37 PM",
+        "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "HAMILTON AVE ,MNP",
+        "location": "TOWER RD ,SON",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">T17"
     },
     {
         "id": "SF2209312",
@@ -30,7 +41,7 @@
         "location": "OLD COUNTY RD / MASONIC WAY",
         "latitude": 37.5215708297348,
         "longitude": -122.276035731277,
-        "units": "?TAC15 CM11X4 BC5 >E14 T23"
+        "units": "?TAC15 CM11X4 >BC5 >E14 >T23"
     },
     {
         "id": "FF2204409",
@@ -44,17 +55,6 @@
         "units": ">E63"
     },
     {
-        "id": "RF2207987",
-        "date": "2022-08-10",
-        "time": "9:24:00 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
         "id": "HF2201818",
         "date": "2022-08-10",
         "time": "9:21:37 PM",
@@ -63,17 +63,6 @@
         "location": "CABRILLO HWY S / GROVE ST",
         "latitude": 37.4552542532932,
         "longitude": -122.432532841479,
-        "units": ">E40 ?TAC45 E41 >BC10 CM41X4"
-    },
-    {
-        "id": "RF2207986",
-        "date": "2022-08-10",
-        "time": "9:06:52 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SILVER HILL RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": "?TAC45 >E41 CM41X4"
     }
 ]
