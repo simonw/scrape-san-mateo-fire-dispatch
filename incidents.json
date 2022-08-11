@@ -1,5 +1,16 @@
 [
     {
+        "id": "RF2208018",
+        "date": "2022-08-11",
+        "time": "4:28:44 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UNION AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "MF2206140",
         "date": "2022-08-11",
         "time": "4:24:39 PM",
@@ -19,7 +30,7 @@
         "location": "ROCCA AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E61"
     },
     {
         "id": "SF2209341",
@@ -41,18 +52,7 @@
         "location": "PORTOLA RD / SAND HILL RD",
         "latitude": 37.4024369970635,
         "longitude": -122.245031769094,
-        "units": ">SQ407 >E4 >BC2 CM11X3 ?TAC15"
-    },
-    {
-        "id": "CF2205051",
-        "date": "2022-08-11",
-        "time": "4:14:53 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">BC2 >SQ407"
     },
     {
         "id": "CF2205049",
@@ -64,16 +64,5 @@
         "latitude": 37.5945539738117,
         "longitude": -122.383190374232,
         "units": ">E34"
-    },
-    {
-        "id": "MF2206139",
-        "date": "2022-08-11",
-        "time": "4:03:25 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WAVERLEY ST #1 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
     }
 ]
