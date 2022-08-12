@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2208060",
+        "date": "2022-08-12",
+        "time": "4:12:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST #617 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "DF2201384",
+        "date": "2022-08-12",
+        "time": "4:07:48 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "5720 CABRILLO HWY #GAS ,SOS",
+        "latitude": 37.16525477378,
+        "longitude": -122.359924485508,
+        "units": ">E40 ?TAC17 ?CFE33 BC10 E59R57"
+    },
+    {
         "id": "MF2206176",
         "date": "2022-08-12",
         "time": "3:56:39 PM",
@@ -8,7 +30,7 @@
         "location": "STANFORD AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
+        "units": "*>E4"
     },
     {
         "id": "SF2209374",
@@ -19,7 +41,7 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
+        "units": ""
     },
     {
         "id": "RF2208059",
@@ -30,18 +52,7 @@
         "location": "3507 GLENWOOD AVE ,RCY",
         "latitude": 37.4689255454366,
         "longitude": -122.252656429922,
-        "units": ">CM11X3 ?TAC16 >BC3 >E16"
-    },
-    {
-        "id": "LF2200697",
-        "date": "2022-08-12",
-        "time": "3:42:34 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "D ST ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM31X1"
+        "units": ">CM11X3 ?TAC16"
     },
     {
         "id": "MF2206174",
@@ -52,6 +63,6 @@
         "location": "120 ABELIA WAY ,EPA",
         "latitude": 37.45471633997,
         "longitude": -122.126666289458,
-        "units": "?TAC15 >R77 >CM11X1 >E2 >E77PR1D >BC101 >T2 >E1"
+        "units": "?TAC15 >CM11X1 >E2 >E77 PR1D>BC101 >T2 >E1"
     }
 ]
