@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2208099",
+        "date": "2022-08-13",
+        "time": "3:40:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "1280 VETERANS BLVD #602 ,RCY",
+        "latitude": 37.4888339486976,
+        "longitude": -122.219861707853,
+        "units": ">T9"
+    },
+    {
+        "id": "NF2208408",
+        "date": "2022-08-13",
+        "time": "3:29:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "39 GRANDVIEW AVE ,DCY",
+        "latitude": 37.6751768347675,
+        "longitude": -122.486659855657,
+        "units": ""
+    },
+    {
+        "id": "SF2209412",
+        "date": "2022-08-13",
+        "time": "3:27:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MEZES AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
         "id": "DF2201395",
         "date": "2022-08-13",
         "time": "3:17:43 PM",
@@ -8,18 +41,7 @@
         "location": "1 SAN GREGORIO BEACH RD ,SNG",
         "latitude": 37.3231476337668,
         "longitude": -122.401027417072,
-        "units": "TO10 E40 E41"
-    },
-    {
-        "id": "MF2206204",
-        "date": "2022-08-13",
-        "time": "3:00:35 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #219B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "units": ">E40 >E41 >TO10"
     },
     {
         "id": "NF2208406",
@@ -31,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ""
-    },
-    {
-        "id": "RF2208096",
-        "date": "2022-08-13",
-        "time": "2:46:42 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO MARSH RD",
-        "latitude": 37.4859579510142,
-        "longitude": -122.193590413825,
-        "units": ">T9"
     }
 ]
