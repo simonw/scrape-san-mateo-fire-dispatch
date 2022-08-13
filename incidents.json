@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2209408",
+        "id": "HF2201844",
         "date": "2022-08-13",
-        "time": "12:39:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "1:03:03 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "995 RONALD CT ,HMB",
+        "latitude": 37.4558434774097,
+        "longitude": -122.42710361282,
+        "units": "E44"
+    },
+    {
+        "id": "RF2208093",
+        "date": "2022-08-13",
+        "time": "12:59:18 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
+        "location": "VERA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E10"
     },
     {
         "id": "SF2209407",
@@ -30,7 +41,7 @@
         "location": "1020 YATES WAY #304 ,SMO",
         "latitude": 37.5457474347236,
         "longitude": -122.29334076874,
-        "units": ">E24 >E26 >T23 >BC5 >E23CM21X5 ?TAC25"
+        "units": ">E23 CM21X5 ?TAC25 >T23"
     },
     {
         "id": "HF2201843",
@@ -41,40 +52,7 @@
         "location": "JOHNSON PIER ,PRN",
         "latitude": null,
         "longitude": null,
-        "units": ">BC10 >E41 E44"
-    },
-    {
-        "id": "RF2208092",
-        "date": "2022-08-13",
-        "time": "12:32:56 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #305 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "BF2202508",
-        "date": "2022-08-13",
-        "time": "12:30:13 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHESTNUT AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "NF2208402",
-        "date": "2022-08-13",
-        "time": "12:25:40 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VELASCO AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
+        "units": ">E41 CM41X1 >BC10"
     },
     {
         "id": "DF2201394",
@@ -85,7 +63,7 @@
         "location": "POPE RD ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 E59 >E57"
+        "units": "?VFIR23 >E59 >E57"
     },
     {
         "id": "DF2201393",
@@ -97,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "?VFIR22 >E58 >R57"
-    },
-    {
-        "id": "FF2204463",
-        "date": "2022-08-13",
-        "time": "11:30:11 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Tree down",
-        "location": "MAGNOLIA AVE / BADEN AVE",
-        "latitude": 37.6563031490757,
-        "longitude": -122.419895768155,
-        "units": ""
     }
 ]
