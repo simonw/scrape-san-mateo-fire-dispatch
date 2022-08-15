@@ -31,7 +31,11 @@ def scrape_page(url):
         map_link = tds[3].select("a[href^='https://maps.google.com']")
         if map_link:
             map_bits = map_link[0]["href"].split("q=")[1]
-            latitude, longitude = map(float, map_bits.split(","))
+            try:
+                latitude, longitude = map(float, map_bits.split(","))
+            except ValueError:
+                # Likely ValueError: could not convert string to float: ''
+                pass
         units = tds[4].text.strip().replace("\xa0", " ")
         events.append(
             {
