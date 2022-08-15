@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2208468",
+        "id": "RF2208145",
         "date": "2022-08-15",
-        "time": "5:32:51 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "5:53:58 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "655 BRADFORD ST ,RCY",
+        "latitude": 37.4888671434588,
+        "longitude": -122.228825350267,
+        "units": "BC3 CM11X4 E11 E10 >T9E9 ?TAC15"
+    },
+    {
+        "id": "MF2206245",
+        "date": "2022-08-15",
+        "time": "5:46:01 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ESPLANADE AVE #208 ,PCF",
+        "location": "CRANE ST #207C ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E71"
+        "units": ">E6"
     },
     {
         "id": "FF2204494",
@@ -16,42 +27,9 @@
         "time": "5:30:28 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Landscape fire",
-        "location": "NB 280 / AVALON DR OFF RAMP",
+        "location": "341 VALVERDE DR ,SSF",
         "latitude": 37.6367912586307,
         "longitude": -122.439668852986,
-        "units": "E52"
-    },
-    {
-        "id": "CF2205124",
-        "date": "2022-08-15",
-        "time": "5:15:08 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LOMITA AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "NF2208467",
-        "date": "2022-08-15",
-        "time": "5:03:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTVIEW AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2209467",
-        "date": "2022-08-15",
-        "time": "4:55:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MARQUETTE LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E52"
     }
 ]
