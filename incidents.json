@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2206289",
+        "date": "2022-08-16",
+        "time": "4:14:39 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "3500 ALAMEDA DE LAS PULGAS #STE 200 ,WM",
+        "latitude": 37.4323488076999,
+        "longitude": -122.20312439777,
+        "units": "E4"
+    },
+    {
+        "id": "LF2200711",
+        "date": "2022-08-16",
+        "time": "4:10:05 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "COLLINS AVE #27B ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
         "id": "MF2206288",
         "date": "2022-08-16",
         "time": "4:02:53 PM",
@@ -8,61 +30,6 @@
         "location": "LAUREL ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
-    },
-    {
-        "id": "RF2208207",
-        "date": "2022-08-16",
-        "time": "4:00:07 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "1044 MIDDLEFIELD RD ,RCY",
-        "latitude": 37.4841360450849,
-        "longitude": -122.227767725382,
-        "units": "E9"
-    },
-    {
-        "id": "RF2208206",
-        "date": "2022-08-16",
-        "time": "3:59:35 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "119 FRANKLIN ST ,RCY",
-        "latitude": 37.4829147171457,
-        "longitude": -122.228256475557,
-        "units": "T9"
-    },
-    {
-        "id": "MF2206287",
-        "date": "2022-08-16",
-        "time": "3:44:33 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EMILIE AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "SF2209549",
-        "date": "2022-08-16",
-        "time": "3:28:13 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2208204",
-        "date": "2022-08-16",
-        "time": "3:15:21 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROYAL LN ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": "E16"
+        "units": ">E1"
     }
 ]
