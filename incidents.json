@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2206276",
+        "id": "MF2206277",
         "date": "2022-08-16",
-        "time": "8:27:30 AM",
+        "time": "8:38:44 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "150 JEFFERSON DR ,MNP",
-        "latitude": 37.4821570698504,
-        "longitude": -122.173801480357,
-        "units": "E77"
+        "category": "Medical aid",
+        "location": "WOODLAND CT ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "CF2205142",
+        "date": "2022-08-16",
+        "time": "8:32:46 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #2005A ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     },
     {
         "id": "CF2205141",
@@ -19,18 +30,7 @@
         "location": "HENRY PL ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "NF2208537",
-        "date": "2022-08-16",
-        "time": "8:24:49 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SULLIVAN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
+        "units": ">E37"
     },
     {
         "id": "NF2208536",
@@ -41,6 +41,6 @@
         "location": "850 CAMPUS DR #121 ,DCY",
         "latitude": 37.6656717290301,
         "longitude": -122.477061933285,
-        "units": "CM31X5 >BC124 >E94 ?TAC35 E64>T95 >E95"
+        "units": "CM31X5 >E94 ?TAC35 >T95"
     }
 ]
