@@ -1,5 +1,16 @@
 [
     {
+        "id": "NF2208545",
+        "date": "2022-08-16",
+        "time": "11:32:20 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "380 90TH ST ,DCY",
+        "latitude": 37.6913245247008,
+        "longitude": -122.474197303856,
+        "units": ">E91"
+    },
+    {
         "id": "WF2201150",
         "date": "2022-08-16",
         "time": "11:31:00 AM",
@@ -8,7 +19,7 @@
         "location": "MORSE LN ,SKY",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC15 ?CM11X4 ?CO56 ?E58"
+        "units": ">E58"
     },
     {
         "id": "NF2208544",
@@ -30,7 +41,7 @@
         "location": "12TH AVE / S EL CAMINO REAL",
         "latitude": 37.5560334145571,
         "longitude": -122.318276173958,
-        "units": ">BC5 >E25 >T21 CM21X3 ?TAC25"
+        "units": "CM21X3 >E25 ?TAC25 >T21"
     },
     {
         "id": "DF2201406",
@@ -41,17 +52,6 @@
         "location": "SAWYER CAMP TRL / SKYLINE BLVD",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 >E17 U17"
-    },
-    {
-        "id": "FF2204529",
-        "date": "2022-08-16",
-        "time": "11:01:19 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #102 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E17 CM11X1 >U17"
     }
 ]
