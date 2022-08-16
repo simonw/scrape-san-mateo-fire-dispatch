@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2209543",
+        "date": "2022-08-16",
+        "time": "12:38:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "222 W 39TH AVE ,SMO",
+        "latitude": 37.5309086826939,
+        "longitude": -122.300154674965,
+        "units": "T21 E23 BC5 CM21X5 ?TAC25"
+    },
+    {
+        "id": "RF2208196",
+        "date": "2022-08-16",
+        "time": "12:25:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "700 BAIR ISLAND RD ,RCY",
+        "latitude": 37.4991046328101,
+        "longitude": -122.221736312786,
+        "units": ">E9 CM11X2 ?TAC15"
+    },
+    {
         "id": "SF2209542",
         "date": "2022-08-16",
         "time": "12:23:29 PM",
@@ -8,7 +30,7 @@
         "location": "PARK PL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E26"
     },
     {
         "id": "NF2208550",
@@ -19,17 +41,6 @@
         "location": "ESCUELA DR #136A ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
-    },
-    {
-        "id": "CF2205146",
-        "date": "2022-08-16",
-        "time": "12:07:23 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BLOCK POPLAR AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">E95"
     }
 ]
