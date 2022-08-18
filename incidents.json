@@ -1,5 +1,82 @@
 [
     {
+        "id": "FF2204572",
+        "date": "2022-08-18",
+        "time": "12:43:07 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BYRON DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "RF2208286",
+        "date": "2022-08-18",
+        "time": "12:41:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "MF2206351",
+        "date": "2022-08-18",
+        "time": "12:41:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MODOC AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "MF2206352",
+        "date": "2022-08-18",
+        "time": "12:41:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1000 EL CAMINO REAL ,ATN",
+        "latitude": 37.4560770363324,
+        "longitude": -122.192078155915,
+        "units": "E5 T1 E1 E6 ?TAC16?CM11X1 ?BC1"
+    },
+    {
+        "id": "CF2205207",
+        "date": "2022-08-18",
+        "time": "12:40:55 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "RALSTON AVE #301 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "SF2209617",
+        "date": "2022-08-18",
+        "time": "12:37:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #112 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "NF2208630",
+        "date": "2022-08-18",
+        "time": "12:30:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "6879 MISSION ST ,DCY",
+        "latitude": 37.697051079705,
+        "longitude": -122.46291330643,
+        "units": ">E92"
+    },
+    {
         "id": "DF2201424",
         "date": "2022-08-18",
         "time": "12:21:24 PM",
@@ -8,7 +85,7 @@
         "location": "NB 280 / SO 92",
         "latitude": 37.5010326373211,
         "longitude": -122.325975079224,
-        "units": "?TAC15 ?CM11X2 ?E17 ?E27"
+        "units": "E1781 TAC15 ?CM11X2"
     },
     {
         "id": "SF2209616",
@@ -19,7 +96,7 @@
         "location": "PLAZA VIEW LN #113 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
+        "units": ""
     },
     {
         "id": "NF2208629",
@@ -30,6 +107,6 @@
         "location": "295 EDGEWOOD DR ,PCF",
         "latitude": 37.661394645804,
         "longitude": -122.480493538429,
-        "units": ">BC120 >E94 >E64 >E71 >T95CM31X2 ?TAC35"
+        "units": ">E94 ?TAC35 CM31X2 >E71 PR20D>T95 >BC120"
     }
 ]
