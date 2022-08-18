@@ -1,80 +1,58 @@
 [
     {
+        "id": "RF2208288",
+        "date": "2022-08-18",
+        "time": "1:28:34 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHESTNUT ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E9"
+    },
+    {
+        "id": "SF2209620",
+        "date": "2022-08-18",
+        "time": "1:23:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS #PARK ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
+        "id": "FF2204573",
+        "date": "2022-08-18",
+        "time": "1:14:56 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTWOOD DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "CF2205209",
+        "date": "2022-08-18",
+        "time": "1:09:58 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "810 CRESTVIEW DR ,MLB",
+        "latitude": 37.6017014175846,
+        "longitude": -122.415518415993,
+        "units": "CM21X3 >E37 >BC8 >E52 ?TAC25?CH8A >T51 >E38"
+    },
+    {
         "id": "DF2201425",
         "date": "2022-08-18",
         "time": "1:03:15 PM",
         "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "BEAN HOLLOW BEACH RD / CABRILLO HWY",
-        "latitude": null,
-        "longitude": null,
-        "units": "CO55 E59 ?VFIR23"
-    },
-    {
-        "id": "MF2206353",
-        "date": "2022-08-18",
-        "time": "12:58:48 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "102 CATALPA DR ,ATN",
-        "latitude": 37.471233999542,
-        "longitude": -122.178905173132,
-        "units": ""
-    },
-    {
-        "id": "CF2205208",
-        "date": "2022-08-18",
-        "time": "12:58:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #191 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "RF2208286",
-        "date": "2022-08-18",
-        "time": "12:41:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2206351",
-        "date": "2022-08-18",
-        "time": "12:41:25 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MODOC AVE ,MNP",
+        "location": "CABRILLO HWY ,PES",
         "latitude": null,
         "longitude": null,
         "units": ""
-    },
-    {
-        "id": "MF2206352",
-        "date": "2022-08-18",
-        "time": "12:41:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1000 EL CAMINO REAL ,ATN",
-        "latitude": 37.4560770363324,
-        "longitude": -122.192078155915,
-        "units": ""
-    },
-    {
-        "id": "SF2209617",
-        "date": "2022-08-18",
-        "time": "12:37:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORES ST #112 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
     },
     {
         "id": "NF2208629",
@@ -85,6 +63,6 @@
         "location": "295 EDGEWOOD DR ,PCF",
         "latitude": 37.661394645804,
         "longitude": -122.480493538429,
-        "units": ">E94 ?TAC35 CM31X2 >E71 >PR20D>T95 >BC120"
+        "units": ">E94 >E71 >PR20D >T95 *>BC120"
     }
 ]
