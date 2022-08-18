@@ -1,14 +1,36 @@
 [
     {
-        "id": "FF2204572",
+        "id": "DF2201425",
         "date": "2022-08-18",
-        "time": "12:43:07 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "1:03:15 PM",
+        "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "BYRON DR ,SSF",
+        "location": "BEAN HOLLOW BEACH RD / CABRILLO HWY",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": "CO55 E59 ?VFIR23"
+    },
+    {
+        "id": "MF2206353",
+        "date": "2022-08-18",
+        "time": "12:58:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "102 CATALPA DR ,ATN",
+        "latitude": 37.471233999542,
+        "longitude": -122.178905173132,
+        "units": ""
+    },
+    {
+        "id": "CF2205208",
+        "date": "2022-08-18",
+        "time": "12:58:35 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #191 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
     },
     {
         "id": "RF2208286",
@@ -19,7 +41,7 @@
         "location": "WOODSIDE RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "MF2206351",
@@ -30,7 +52,7 @@
         "location": "MODOC AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ""
     },
     {
         "id": "MF2206352",
@@ -41,18 +63,7 @@
         "location": "1000 EL CAMINO REAL ,ATN",
         "latitude": 37.4560770363324,
         "longitude": -122.192078155915,
-        "units": "E5 T1 E1 E6 ?TAC16?CM11X1 ?BC1"
-    },
-    {
-        "id": "CF2205207",
-        "date": "2022-08-18",
-        "time": "12:40:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE #301 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
+        "units": ""
     },
     {
         "id": "SF2209617",
@@ -66,39 +77,6 @@
         "units": ">E23"
     },
     {
-        "id": "NF2208630",
-        "date": "2022-08-18",
-        "time": "12:30:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - manual",
-        "location": "6879 MISSION ST ,DCY",
-        "latitude": 37.697051079705,
-        "longitude": -122.46291330643,
-        "units": ">E92"
-    },
-    {
-        "id": "DF2201424",
-        "date": "2022-08-18",
-        "time": "12:21:24 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "NB 280 / SO 92",
-        "latitude": 37.5010326373211,
-        "longitude": -122.325975079224,
-        "units": "E1781 TAC15 ?CM11X2"
-    },
-    {
-        "id": "SF2209616",
-        "date": "2022-08-18",
-        "time": "12:17:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PLAZA VIEW LN #113 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "NF2208629",
         "date": "2022-08-18",
         "time": "12:09:33 PM",
@@ -107,6 +85,6 @@
         "location": "295 EDGEWOOD DR ,PCF",
         "latitude": 37.661394645804,
         "longitude": -122.480493538429,
-        "units": ">E94 ?TAC35 CM31X2 >E71 PR20D>T95 >BC120"
+        "units": ">E94 ?TAC35 CM31X2 >E71 >PR20D>T95 >BC120"
     }
 ]
