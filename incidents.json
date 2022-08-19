@@ -1,25 +1,25 @@
 [
     {
-        "id": "FF2204598",
+        "id": "FF2204600",
         "date": "2022-08-19",
-        "time": "1:03:25 PM",
+        "time": "1:17:44 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "1150 VETERANS BLVD ,SSF",
-        "latitude": 37.6646605204368,
-        "longitude": -122.391492726653,
-        "units": "E65"
-    },
-    {
-        "id": "CF2205232",
-        "date": "2022-08-19",
-        "time": "1:01:38 PM",
-        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BRM",
+        "location": "ALIDA WAY #220 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": ">E63"
+    },
+    {
+        "id": "CF2205233",
+        "date": "2022-08-19",
+        "time": "1:13:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1067A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
     },
     {
         "id": "NF2208656",
@@ -33,17 +33,6 @@
         "units": ">E92"
     },
     {
-        "id": "FF2204597",
-        "date": "2022-08-19",
-        "time": "12:53:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "324 AVALON DR ,SSF",
-        "latitude": 37.6434501488181,
-        "longitude": -122.435987136335,
-        "units": ">E63"
-    },
-    {
         "id": "DF2201428",
         "date": "2022-08-19",
         "time": "12:49:12 PM",
@@ -52,28 +41,6 @@
         "location": "2213 BUNKER HILL DR ,EIC",
         "latitude": 37.525129780663,
         "longitude": -122.344738347922,
-        "units": ">E1799 >E17 >T17 >BC11 CM11X5?TAC15"
-    },
-    {
-        "id": "NF2208655",
-        "date": "2022-08-19",
-        "time": "12:47:09 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BEECHWOOD DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2209670",
-        "date": "2022-08-19",
-        "time": "12:45:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CIPRIANI BLVD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": "?BLDSMC *>E17 ?TAC15 CM11X5 >BC11"
     }
 ]
