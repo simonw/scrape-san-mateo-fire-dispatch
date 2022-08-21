@@ -1,58 +1,36 @@
 [
     {
+        "id": "SF2209750",
+        "date": "2022-08-21",
+        "time": "1:40:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "NF2208730",
+        "date": "2022-08-21",
+        "time": "1:39:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NORTHRIDGE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
         "id": "MF2206438",
         "date": "2022-08-21",
         "time": "1:25:40 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL / OAK GROVE AVE",
+        "location": "MERRILL ST / OAK GROVE AVE",
         "latitude": null,
         "longitude": null,
-        "units": ">E6 BC1 ?TAC16 ?CM11X5"
-    },
-    {
-        "id": "FF2204636",
-        "date": "2022-08-21",
-        "time": "1:17:07 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2205266",
-        "date": "2022-08-21",
-        "time": "1:06:33 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2204635",
-        "date": "2022-08-21",
-        "time": "1:03:42 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist, water problem",
-        "location": "106 RAMONA AVE ,SSF",
-        "latitude": 37.6457992767065,
-        "longitude": -122.426585894122,
-        "units": ""
-    },
-    {
-        "id": "BF2202594",
-        "date": "2022-08-21",
-        "time": "1:02:15 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "1140 EL CAMINO REAL ,SNB",
-        "latitude": 37.6360211411401,
-        "longitude": -122.418785266374,
-        "units": "CM31X5 >E51 ?TAC35 >BC16"
+        "units": ">E6 >T1 CM11X1 TAC16 >BC1"
     },
     {
         "id": "DF2201437",
@@ -63,7 +41,7 @@
         "location": "CABRILLO HWY / NEW YEARS CREEK RD",
         "latitude": 37.1247700990933,
         "longitude": -122.308232607311,
-        "units": "TAC15 >E1767 >E59"
+        "units": "*>E59"
     },
     {
         "id": "DF2201438",
@@ -74,6 +52,6 @@
         "location": "1 GRAY WHALE COVE ,SON",
         "latitude": 37.5632966675234,
         "longitude": -122.51262545831,
-        "units": "?TAC45 >E44 >BC10 CM41X4 >E72"
+        "units": ">E44 >BC10"
     }
 ]
