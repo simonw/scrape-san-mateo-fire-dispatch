@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2209834",
+        "id": "SF2209838",
         "date": "2022-08-23",
-        "time": "10:40:56 AM",
+        "time": "11:04:48 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "211 S FREMONT ST ,SMO",
-        "latitude": 37.5692095727693,
-        "longitude": -122.318335555209,
+        "category": "Medical aid",
+        "location": "N SAN MATEO DR #2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E34"
+    },
+    {
+        "id": "SF2209837",
+        "date": "2022-08-23",
+        "time": "11:02:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BRIDGEPORT LN ,FCY",
+        "latitude": null,
+        "longitude": null,
         "units": "E26"
+    },
+    {
+        "id": "MF2206485",
+        "date": "2022-08-23",
+        "time": "11:00:27 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "3500 ALAMEDA DE LAS PULGAS #STE 200 ,WM",
+        "latitude": 37.4323488076999,
+        "longitude": -122.20312439777,
+        "units": ">E4"
+    },
+    {
+        "id": "SF2209836",
+        "date": "2022-08-23",
+        "time": "10:54:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GULL AVE ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "NF2208806",
+        "date": "2022-08-23",
+        "time": "10:52:07 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "E MARKET ST #313 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "CF2205301",
+        "date": "2022-08-23",
+        "time": "10:45:11 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "100 CRESCENT AVE ,BRM",
+        "latitude": 37.5722799999182,
+        "longitude": -122.346924302554,
+        "units": ">E32"
     },
     {
         "id": "BF2202612",
@@ -19,50 +74,6 @@
         "location": "1495 CRESTWOOD DR ,SNB",
         "latitude": 37.631931270518,
         "longitude": -122.438036216423,
-        "units": "E52"
-    },
-    {
-        "id": "SF2209833",
-        "date": "2022-08-23",
-        "time": "10:37:26 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "201 N FREMONT ST ,SMO",
-        "latitude": 37.5737980532709,
-        "longitude": -122.323762519424,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2206482",
-        "date": "2022-08-23",
-        "time": "10:27:41 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #BLDG 331B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "NF2208805",
-        "date": "2022-08-23",
-        "time": "10:26:37 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ANNIE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2209831",
-        "date": "2022-08-23",
-        "time": "9:17:41 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N IDAHO ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM21X1 >USR133"
+        "units": ">PR16 >E52"
     }
 ]
