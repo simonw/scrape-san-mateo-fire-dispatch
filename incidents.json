@@ -1,36 +1,69 @@
 [
     {
-        "id": "SF2209838",
+        "id": "FF2204676",
         "date": "2022-08-23",
-        "time": "11:04:48 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:27:43 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "N SAN MATEO DR #2 ,SMO",
+        "location": "MARIPOSA DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E34"
+        "units": "E64"
     },
     {
-        "id": "SF2209837",
+        "id": "FF2204675",
         "date": "2022-08-23",
-        "time": "11:02:11 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:18:44 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "BRIDGEPORT LN ,FCY",
+        "location": "PARKGROVE DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E65"
     },
     {
-        "id": "MF2206485",
+        "id": "SF2209839",
         "date": "2022-08-23",
-        "time": "11:00:27 AM",
+        "time": "11:15:43 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "1852 DALE AVE ,SMO",
+        "latitude": 37.5680735345035,
+        "longitude": -122.298975406928,
+        "units": ">E24"
+    },
+    {
+        "id": "HF2201926",
+        "date": "2022-08-23",
+        "time": "11:14:46 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ST ,MON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "DF2201446",
+        "date": "2022-08-23",
+        "time": "11:13:28 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "3400 LONG RIDGE RD ,SOS",
+        "latitude": 37.2815811370956,
+        "longitude": -122.18623517881,
+        "units": "E1763 E1769 R57 SQ407 E58BC2 E7 TAC15"
+    },
+    {
+        "id": "MF2206486",
+        "date": "2022-08-23",
+        "time": "11:10:10 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "3500 ALAMEDA DE LAS PULGAS #STE 200 ,WM",
-        "latitude": 37.4323488076999,
-        "longitude": -122.20312439777,
-        "units": ">E4"
+        "category": "Medical aid",
+        "location": "MADERA AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
     },
     {
         "id": "SF2209836",
@@ -52,18 +85,7 @@
         "location": "E MARKET ST #313 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "CF2205301",
-        "date": "2022-08-23",
-        "time": "10:45:11 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "100 CRESCENT AVE ,BRM",
-        "latitude": 37.5722799999182,
-        "longitude": -122.346924302554,
-        "units": ">E32"
+        "units": ""
     },
     {
         "id": "BF2202612",
@@ -74,6 +96,6 @@
         "location": "1495 CRESTWOOD DR ,SNB",
         "latitude": 37.631931270518,
         "longitude": -122.438036216423,
-        "units": ">PR16 >E52"
+        "units": ">E52 >PR16"
     }
 ]
