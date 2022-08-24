@@ -1,5 +1,60 @@
 [
     {
+        "id": "HF2201941",
+        "date": "2022-08-24",
+        "time": "12:38:24 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIRAMONTES AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "FF2204697",
+        "date": "2022-08-24",
+        "time": "12:37:35 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ORANGE AVE #1 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "SF2209885",
+        "date": "2022-08-24",
+        "time": "12:33:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "RF2208497",
+        "date": "2022-08-24",
+        "time": "12:30:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELM ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "RF2208496",
+        "date": "2022-08-24",
+        "time": "12:27:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "EB WHIPPLE AVE ON RAMP / SB 101",
+        "latitude": 37.4951182036865,
+        "longitude": -122.229073725396,
+        "units": ">E9 >BC3 CM11X5 ?TAC15"
+    },
+    {
         "id": "RF2208495",
         "date": "2022-08-24",
         "time": "12:24:51 PM",
@@ -8,7 +63,7 @@
         "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E3"
+        "units": ">E3"
     },
     {
         "id": "CF2205324",
@@ -41,18 +96,7 @@
         "location": "HEATHER RD ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">MED19 CM31X2 >E86"
-    },
-    {
-        "id": "SF2209884",
-        "date": "2022-08-24",
-        "time": "12:09:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "600 MARINERS ISLAND BLVD ,SMO",
-        "latitude": 37.5653117614035,
-        "longitude": -122.284812005061,
-        "units": ">E24"
+        "units": "CM31X2"
     },
     {
         "id": "MF2206517",
@@ -66,17 +110,6 @@
         "units": ">E2"
     },
     {
-        "id": "BF2202619",
-        "date": "2022-08-24",
-        "time": "12:06:46 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SNEATH LN ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "SF2209879",
         "date": "2022-08-24",
         "time": "11:31:21 AM",
@@ -85,6 +118,6 @@
         "location": "EB 92 / W HILLSDALE BLVD OFF RAMP",
         "latitude": 37.5298313885489,
         "longitude": -122.330588699918,
-        "units": "PR5A ?VFIR22 >E17 >E1799 >E1771CM21X2 >E25 >E1763 PR5B >PR11B"
+        "units": "PR5A ?VFIR22 >E17 >E1799 >E1771CM21X2 >E25 >E1763 >PR5B >CH10A"
     }
 ]
