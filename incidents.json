@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2202618",
+        "date": "2022-08-24",
+        "time": "11:52:01 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "3300 COLLEGE DR ,SNB",
+        "latitude": 37.6297229529346,
+        "longitude": -122.466494512477,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2208493",
+        "date": "2022-08-24",
+        "time": "11:51:05 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE PLZ ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "HF2201940",
+        "date": "2022-08-24",
+        "time": "11:50:23 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVENUE PORTOLA ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "FF2204696",
+        "date": "2022-08-24",
+        "time": "11:49:14 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1000 GATEWAY BLVD ,SSF",
+        "latitude": 37.6613386783848,
+        "longitude": -122.394956928218,
+        "units": ">E65"
+    },
+    {
         "id": "LF2200734",
         "date": "2022-08-24",
         "time": "11:32:42 AM",
@@ -8,7 +52,7 @@
         "location": "STEWART AVE #OFFICE ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">E86 >MED19 CM31X1"
+        "units": "CM31X1 E86"
     },
     {
         "id": "SF2209879",
@@ -19,17 +63,6 @@
         "location": "EB 92 / W HILLSDALE BLVD OFF RAMP",
         "latitude": 37.5298313885489,
         "longitude": -122.330588699918,
-        "units": ">PR11B >CH10A >E1763 >E1771 >E1799>E25 >E17 >E27 >BC11 CM21X2"
-    },
-    {
-        "id": "FF2204694",
-        "date": "2022-08-24",
-        "time": "11:06:42 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "SPRUCE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
+        "units": "?VFIR22 >E17 >E1799 >E1771 CM21X2>E25 >E1763 >PR11B >CH10A >BC11"
     }
 ]
