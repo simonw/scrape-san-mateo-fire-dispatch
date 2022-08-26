@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2208908",
+        "date": "2022-08-26",
+        "time": "11:03:58 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1101 CARTER ST ,DCY",
+        "latitude": 37.7018982840874,
+        "longitude": -122.424876198762,
+        "units": "?E81"
+    },
+    {
+        "id": "FF2204747",
+        "date": "2022-08-26",
+        "time": "11:01:50 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "4000 SHORELINE CT ,SSF",
+        "latitude": 37.6714198000731,
+        "longitude": -122.389328473948,
+        "units": "Q62"
+    },
+    {
+        "id": "CF2205373",
+        "date": "2022-08-26",
+        "time": "11:00:50 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "RIDGEWOOD DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E38"
+    },
+    {
+        "id": "SF2209983",
+        "date": "2022-08-26",
+        "time": "10:53:27 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST #124 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "MF2206579",
+        "date": "2022-08-26",
+        "time": "10:47:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #101 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
         "id": "BF2202637",
         "date": "2022-08-26",
         "time": "10:44:14 AM",
@@ -8,51 +63,7 @@
         "location": "SAN ANSELMO AVE S #2 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?T34"
-    },
-    {
-        "id": "MF2206578",
-        "date": "2022-08-26",
-        "time": "10:41:58 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO UNIVERSITY AVE",
-        "latitude": 37.4564271860104,
-        "longitude": -122.133818965041,
-        "units": "BC3 E1 E2 T9 ?TAC16?CM11X3"
-    },
-    {
-        "id": "SF2209981",
-        "date": "2022-08-26",
-        "time": "10:36:41 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEVILLE WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "SF2209980",
-        "date": "2022-08-26",
-        "time": "10:34:27 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N B ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "SF2209978",
-        "date": "2022-08-26",
-        "time": "10:21:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DEL MONTE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
+        "units": ">E37"
     },
     {
         "id": "MF2206577",
@@ -63,6 +74,6 @@
         "location": "SB 101 / NO UNIVERSITY AVE",
         "latitude": 37.4653880538424,
         "longitude": -122.149491775869,
-        "units": "?TAC15 >T1 CM11X1 >E77"
+        "units": ">E77"
     }
 ]
