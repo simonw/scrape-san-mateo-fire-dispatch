@@ -1,5 +1,49 @@
 [
     {
+        "id": "HF2201965",
+        "date": "2022-08-27",
+        "time": "4:38:19 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "565 WILLOW AVE ,HMB",
+        "latitude": 37.4666508902496,
+        "longitude": -122.434416920966,
+        "units": "E40"
+    },
+    {
+        "id": "RF2208601",
+        "date": "2022-08-27",
+        "time": "4:37:15 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2210049",
+        "date": "2022-08-27",
+        "time": "4:33:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "CF2205402",
+        "date": "2022-08-27",
+        "time": "4:30:20 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CHADBOURNE AVE #409 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "FF2204776",
         "date": "2022-08-27",
         "time": "4:25:46 PM",
@@ -8,7 +52,7 @@
         "location": "239 ARMOUR AVE #3 ,SSF",
         "latitude": 37.6610801763876,
         "longitude": -122.407389661461,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "SF2210048",
@@ -19,7 +63,7 @@
         "location": "MARQUETTE LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E29"
     },
     {
         "id": "NF2208960",
@@ -30,18 +74,7 @@
         "location": "NB 280 / SO JOHN DALY BLVD",
         "latitude": 37.7034101220142,
         "longitude": -122.471313233753,
-        "units": ">E94 >E92 TAC35 CM31X5"
-    },
-    {
-        "id": "MF2206614",
-        "date": "2022-08-27",
-        "time": "4:19:58 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #4 ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": ""
     },
     {
         "id": "NF2208959",
@@ -64,27 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ""
-    },
-    {
-        "id": "WF2201215",
-        "date": "2022-08-27",
-        "time": "3:37:36 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA RD ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E8"
-    },
-    {
-        "id": "RF2208600",
-        "date": "2022-08-27",
-        "time": "3:18:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Grass fire",
-        "location": "WOODSIDE RD ON RAMP / SB 101",
-        "latitude": 37.4873580725445,
-        "longitude": -122.21409154979,
-        "units": ">E9 TAC15 CM11X1 >BC3 >E11"
     }
 ]
