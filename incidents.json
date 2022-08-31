@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2206719",
+        "id": "MF2206721",
         "date": "2022-08-31",
-        "time": "3:29:12 PM",
+        "time": "3:44:30 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "PLUMAS AVE ,MNP",
+        "location": "WAREHOUSE RD / BAY RD",
         "latitude": null,
         "longitude": null,
-        "units": "?E77"
+        "units": "?T1"
+    },
+    {
+        "id": "MF2206720",
+        "date": "2022-08-31",
+        "time": "3:37:42 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SANTA CRUZ AVE / EL CAMINO REAL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2210212",
+        "date": "2022-08-31",
+        "time": "3:35:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "2292 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5605957866518,
+        "longitude": -122.280251161119,
+        "units": ">E29"
+    },
+    {
+        "id": "NF2209150",
+        "date": "2022-08-31",
+        "time": "3:33:47 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #311B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "NF2209149",
+        "date": "2022-08-31",
+        "time": "3:32:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "293 ST FRANCIS BLVD ,DCY",
+        "latitude": 37.6801459876653,
+        "longitude": -122.478677174768,
+        "units": ">E94"
     },
     {
         "id": "NF2209148",
@@ -19,28 +63,6 @@
         "location": "298 NORTHGATE AVE ,DCY",
         "latitude": 37.7025062614177,
         "longitude": -122.493513135982,
-        "units": "?E93 E91 E95 BC20 T95?TAC35 ?CM31X5"
-    },
-    {
-        "id": "BF2202698",
-        "date": "2022-08-31",
-        "time": "3:20:24 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "2120 CRESTMOOR DR ,SNB",
-        "latitude": 37.6244317760318,
-        "longitude": -122.429693674467,
-        "units": ">E52"
-    },
-    {
-        "id": "SF2210211",
-        "date": "2022-08-31",
-        "time": "3:14:02 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GARFIELD ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">CM31X5 >BC20 ?TAC35 >E91"
     }
 ]
