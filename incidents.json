@@ -1,5 +1,71 @@
 [
     {
+        "id": "CF2205519",
+        "date": "2022-09-01",
+        "time": "10:43:44 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #214 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "T34"
+    },
+    {
+        "id": "BF2202707",
+        "date": "2022-09-01",
+        "time": "10:43:30 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GREEN AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "MF2206741",
+        "date": "2022-09-01",
+        "time": "10:36:21 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2330 UNIVERSITY AVE ,EPA",
+        "latitude": 37.4689894575698,
+        "longitude": -122.140652427387,
+        "units": ">E4"
+    },
+    {
+        "id": "NF2209175",
+        "date": "2022-09-01",
+        "time": "10:30:47 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE #134 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "MF2206740",
+        "date": "2022-09-01",
+        "time": "10:30:40 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "RF2208768",
+        "date": "2022-09-01",
+        "time": "10:30:05 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "SB 101 / SO WOODSIDE RD",
+        "latitude": 37.4859579510142,
+        "longitude": -122.193590413825,
+        "units": ">E9"
+    },
+    {
         "id": "BF2202706",
         "date": "2022-09-01",
         "time": "10:26:26 AM",
@@ -8,7 +74,7 @@
         "location": "ELSTON DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": ">E52"
     },
     {
         "id": "MF2206738",
@@ -22,28 +88,6 @@
         "units": ">E2"
     },
     {
-        "id": "CF2205518",
-        "date": "2022-09-01",
-        "time": "10:21:24 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "ROLLINS RD / DAVID RD",
-        "latitude": 37.5933596691316,
-        "longitude": -122.371105064243,
-        "units": ">T34"
-    },
-    {
-        "id": "FF2204867",
-        "date": "2022-09-01",
-        "time": "10:20:22 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "SUSIE WAY #2 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
         "id": "SF2210237",
         "date": "2022-09-01",
         "time": "10:18:32 AM",
@@ -55,36 +99,14 @@
         "units": ">E34"
     },
     {
-        "id": "FF2204866",
-        "date": "2022-09-01",
-        "time": "10:16:51 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "SUNNYSIDE DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
         "id": "NF2209172",
         "date": "2022-09-01",
         "time": "10:05:28 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Hazardous material - consult",
+        "category": "Hazardous material - response",
         "location": "1600 SIERRA POINT PKWY ,BRS",
         "latitude": 37.673701755545,
         "longitude": -122.384748567285,
-        "units": "HM14 >E81"
-    },
-    {
-        "id": "SF2210236",
-        "date": "2022-09-01",
-        "time": "10:04:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N GRANT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": "?OESC >E65 BC20 CM31X1 >E51?TAC35 HM33 HM14 T51 ?ENVHAZ"
     }
 ]
