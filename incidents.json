@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2209180",
+        "date": "2022-09-01",
+        "time": "11:27:12 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HILLSIDE BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E93"
+    },
+    {
+        "id": "LF2200754",
+        "date": "2022-09-01",
+        "time": "11:20:42 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "BF2202708",
+        "date": "2022-09-01",
+        "time": "11:20:28 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2209179",
+        "date": "2022-09-01",
+        "time": "11:18:40 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALENCIA WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "CF2205521",
+        "date": "2022-09-01",
+        "time": "11:09:39 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #615 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "RF2208771",
         "date": "2022-09-01",
         "time": "11:01:02 AM",
@@ -22,138 +77,6 @@
         "units": ">E71"
     },
     {
-        "id": "SF2210238",
-        "date": "2022-09-01",
-        "time": "10:59:26 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #220C ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "T17"
-    },
-    {
-        "id": "RF2208770",
-        "date": "2022-09-01",
-        "time": "10:56:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VALOTA RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM11X1 E3 >E10"
-    },
-    {
-        "id": "DF2201492",
-        "date": "2022-09-01",
-        "time": "10:55:07 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "SAN MATEO RD / SKYLINE UPPER  ,SON",
-        "latitude": 37.4955750561378,
-        "longitude": -122.368892307841,
-        "units": "E32 E58"
-    },
-    {
-        "id": "RF2208769",
-        "date": "2022-09-01",
-        "time": "10:53:50 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1123 ROYAL LN ,SNC",
-        "latitude": 37.4811833913985,
-        "longitude": -122.28359812346,
-        "units": ">E18"
-    },
-    {
-        "id": "NF2209176",
-        "date": "2022-09-01",
-        "time": "10:50:27 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IMPERIAL DR #2 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "CF2205519",
-        "date": "2022-09-01",
-        "time": "10:43:44 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #214 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2202707",
-        "date": "2022-09-01",
-        "time": "10:43:30 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GREEN AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "MF2206741",
-        "date": "2022-09-01",
-        "time": "10:36:21 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "2330 UNIVERSITY AVE ,EPA",
-        "latitude": 37.4689894575698,
-        "longitude": -122.140652427387,
-        "units": ""
-    },
-    {
-        "id": "NF2209175",
-        "date": "2022-09-01",
-        "time": "10:30:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHGATE AVE #134 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2206740",
-        "date": "2022-09-01",
-        "time": "10:30:40 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2208768",
-        "date": "2022-09-01",
-        "time": "10:30:05 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Landscape fire",
-        "location": "SB 101 / SO WOODSIDE RD",
-        "latitude": 37.4859579510142,
-        "longitude": -122.193590413825,
-        "units": ""
-    },
-    {
-        "id": "MF2206738",
-        "date": "2022-09-01",
-        "time": "10:21:34 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ILLINOIS ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "NF2209172",
         "date": "2022-09-01",
         "time": "10:05:28 AM",
@@ -162,6 +85,6 @@
         "location": "1600 SIERRA POINT PKWY ,BRS",
         "latitude": 37.673701755545,
         "longitude": -122.384748567285,
-        "units": "?OESC >E65 CM31X1 >BC20 >E51TAC35 HM33 HM14 >T51 >E81"
+        "units": ">E65 >BC20 CM31X1 >E51 TAC35HM33 >OES55 >HM14 >T51 >E81"
     }
 ]
