@@ -1,25 +1,80 @@
 [
     {
-        "id": "NF2209173",
+        "id": "BF2202706",
         "date": "2022-09-01",
-        "time": "10:07:31 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "860 CAMPUS DR ,DCY",
-        "latitude": 37.6659205501196,
-        "longitude": -122.477130748548,
-        "units": "?E94"
+        "time": "10:26:26 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ELSTON DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "MF2206738",
+        "date": "2022-09-01",
+        "time": "10:21:34 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ILLINOIS ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2205518",
+        "date": "2022-09-01",
+        "time": "10:21:24 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "ROLLINS RD / DAVID RD",
+        "latitude": 37.5933596691316,
+        "longitude": -122.371105064243,
+        "units": ">T34"
+    },
+    {
+        "id": "FF2204867",
+        "date": "2022-09-01",
+        "time": "10:20:22 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SUSIE WAY #2 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2210237",
+        "date": "2022-09-01",
+        "time": "10:18:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "STATE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "FF2204866",
+        "date": "2022-09-01",
+        "time": "10:16:51 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SUNNYSIDE DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
     },
     {
         "id": "NF2209172",
         "date": "2022-09-01",
         "time": "10:05:28 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Carbon monoxide alarm",
+        "category": "Hazardous material - consult",
         "location": "1600 SIERRA POINT PKWY ,BRS",
         "latitude": 37.673701755545,
         "longitude": -122.384748567285,
-        "units": "E81"
+        "units": "HM14 >E81"
     },
     {
         "id": "SF2210236",
@@ -31,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E24"
-    },
-    {
-        "id": "RF2208766",
-        "date": "2022-09-01",
-        "time": "9:29:28 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PERRY ST #321 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
