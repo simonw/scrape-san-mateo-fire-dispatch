@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2210249",
+        "date": "2022-09-01",
+        "time": "4:02:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE #2201 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "FF2204873",
+        "date": "2022-09-01",
+        "time": "3:54:03 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "1240 BAYWOOD AVE ,SSF",
+        "latitude": 37.6640372317321,
+        "longitude": -122.439750414295,
+        "units": ">E65"
+    },
+    {
+        "id": "FF2204872",
+        "date": "2022-09-01",
+        "time": "3:52:16 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #1 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "RF2208784",
+        "date": "2022-09-01",
+        "time": "3:50:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GORDON ST #14 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "MF2206747",
         "date": "2022-09-01",
         "time": "3:40:24 PM",
@@ -8,18 +52,7 @@
         "location": "PULGAS AVE / BAY RD",
         "latitude": 37.4728637441164,
         "longitude": -122.131894032715,
-        "units": "E2"
-    },
-    {
-        "id": "NF2209185",
-        "date": "2022-09-01",
-        "time": "3:39:45 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "1368 SOLANO DR ,PCF",
-        "latitude": 37.584763863222,
-        "longitude": -122.490091735675,
-        "units": ">E72"
+        "units": ">E2"
     },
     {
         "id": "DF2201497",
@@ -30,50 +63,6 @@
         "location": "SB 280 / NO BLACK MOUNTAIN RD OFF RAMP",
         "latitude": 37.5128003426877,
         "longitude": -122.347426465418,
-        "units": "E32 E1771 TAC15 CM11X1 E15>T17 >BC11"
-    },
-    {
-        "id": "WF2201247",
-        "date": "2022-09-01",
-        "time": "3:28:25 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "ALAMEDA DE LAS PULGAS / STOCKBRIDGE AVE",
-        "latitude": 37.4439815515376,
-        "longitude": -122.224970547668,
-        "units": ">E4"
-    },
-    {
-        "id": "SF2210248",
-        "date": "2022-09-01",
-        "time": "3:28:02 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE #2201 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E24"
-    },
-    {
-        "id": "CF2205527",
-        "date": "2022-09-01",
-        "time": "3:27:41 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HEATHER PL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2208781",
-        "date": "2022-09-01",
-        "time": "2:37:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Gas main break",
-        "location": "700 ARLINGTON RD ,RCY",
-        "latitude": 37.4861826326078,
-        "longitude": -122.24780514262,
-        "units": ""
+        "units": ">E1771 >TAC15 >CM11X1 >E15 >T17>BC11"
     }
 ]
