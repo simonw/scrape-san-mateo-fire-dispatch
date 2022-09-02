@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2206777",
+        "date": "2022-09-02",
+        "time": "3:41:52 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "99 BROADACRES RD ,ATN",
+        "latitude": 37.4357699221323,
+        "longitude": -122.217178029199,
+        "units": "E4"
+    },
+    {
+        "id": "MF2206776",
+        "date": "2022-09-02",
+        "time": "3:39:31 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CONSTITUTION DR #MPK 22 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
         "id": "NF2209222",
         "date": "2022-09-02",
         "time": "3:26:27 PM",
@@ -8,7 +30,7 @@
         "location": "SAN FERNANDO WAY ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E91"
+        "units": ">BC20 >E94"
     },
     {
         "id": "SF2210294",
@@ -22,61 +44,6 @@
         "units": ">E23"
     },
     {
-        "id": "NF2209221",
-        "date": "2022-09-02",
-        "time": "3:16:37 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "THIERS ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "HF2201995",
-        "date": "2022-09-02",
-        "time": "3:07:23 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY S #100A ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E41"
-    },
-    {
-        "id": "RF2208811",
-        "date": "2022-09-02",
-        "time": "3:01:34 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident - train",
-        "location": "SEAPORT BLVD / BLOMQUIST ST",
-        "latitude": 37.4929867127668,
-        "longitude": -122.213510776097,
-        "units": ">BC3 >E11"
-    },
-    {
-        "id": "CF2205551",
-        "date": "2022-09-02",
-        "time": "2:58:57 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "440 EL CERRITO AVE ,HIL",
-        "latitude": 37.5616004210153,
-        "longitude": -122.340406821586,
-        "units": ""
-    },
-    {
-        "id": "CF2205550",
-        "date": "2022-09-02",
-        "time": "2:52:56 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #323 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "DF2201508",
         "date": "2022-09-02",
         "time": "2:26:44 PM",
@@ -85,6 +52,6 @@
         "location": "100 SHAMROCK RANCH RD ,SON",
         "latitude": 37.5852978384641,
         "longitude": -122.503133565715,
-        "units": ">E44 >E52 ?TAC35 >BC121 CM31X1>E71 >PR20A >T95 >BC10 >E72"
+        "units": ">E44 ?TAC35 *>BC121 CM31X1 >E71>BC10 >E72"
     }
 ]
