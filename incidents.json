@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2208838",
+        "date": "2022-09-03",
+        "time": "9:44:10 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "CRESTVIEW DR / BRITTAN AVE",
+        "latitude": 37.482355487145,
+        "longitude": -122.284015669312,
+        "units": "E18"
+    },
+    {
+        "id": "CF2205566",
+        "date": "2022-09-03",
+        "time": "9:43:08 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Sparking/arcing wires down",
+        "location": "3645 RALSTON AVE ,HIL",
+        "latitude": 37.5542705496668,
+        "longitude": -122.36970922455,
+        "units": ">E33"
+    },
+    {
+        "id": "MF2206804",
+        "date": "2022-09-03",
+        "time": "9:37:47 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "MF2206803",
         "date": "2022-09-03",
         "time": "9:21:25 AM",
@@ -8,39 +41,6 @@
         "location": "70 COLUMBIA AVE ,NFO",
         "latitude": 37.468728190119,
         "longitude": -122.208462899852,
-        "units": "E5"
-    },
-    {
-        "id": "FF2204903",
-        "date": "2022-09-03",
-        "time": "9:20:39 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MILLER AVE #1 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "FF2204902",
-        "date": "2022-09-03",
-        "time": "9:20:19 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #119 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "FF2204901",
-        "date": "2022-09-03",
-        "time": "9:15:00 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "JOAQUIN DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ">E5"
     }
 ]
