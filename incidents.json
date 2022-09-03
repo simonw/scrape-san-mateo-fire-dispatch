@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2210311",
+        "date": "2022-09-02",
+        "time": "11:42:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #115 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "NF2209239",
+        "date": "2022-09-02",
+        "time": "11:36:19 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HEATH CT ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "FF2204898",
         "date": "2022-09-02",
         "time": "11:30:03 PM",
@@ -8,7 +30,7 @@
         "location": "PORTOLA AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E61"
+        "units": ">E61"
     },
     {
         "id": "BF2202729",
@@ -19,39 +41,6 @@
         "location": "7TH AVE / E SAN BRUNO AVE",
         "latitude": 37.6309329580534,
         "longitude": -122.405480614209,
-        "units": ">E51 >BC16 >TAC35 >CM31X5"
-    },
-    {
-        "id": "MF2206795",
-        "date": "2022-09-02",
-        "time": "11:16:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #237 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "NF2209238",
-        "date": "2022-09-02",
-        "time": "11:16:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #6 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2208826",
-        "date": "2022-09-02",
-        "time": "10:57:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "MAIN ST / SPRUCE ST",
-        "latitude": 37.4810932683928,
-        "longitude": -122.219104103963,
-        "units": ">E9 >E10"
+        "units": ">CM31X5 >E51 >TAC35"
     }
 ]
