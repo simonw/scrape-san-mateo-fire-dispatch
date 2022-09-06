@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2204968",
+        "id": "SF2210469",
         "date": "2022-09-06",
-        "time": "11:26:33 AM",
+        "time": "11:47:53 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E23"
+    },
+    {
+        "id": "FF2204970",
+        "date": "2022-09-06",
+        "time": "11:47:09 AM",
         "summary": "South San Francisco on Control-3",
-        "category": "Lock out - vehicle",
-        "location": "12 PARKGROVE DR ,SSF",
-        "latitude": 37.6705507232619,
-        "longitude": -122.415062526723,
-        "units": "E63"
+        "category": "Fire alarm",
+        "location": "12 WEST WAY ,SSF",
+        "latitude": 37.6689389408683,
+        "longitude": -122.408762684378,
+        "units": "?E81"
+    },
+    {
+        "id": "SF2210468",
+        "date": "2022-09-06",
+        "time": "11:35:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TARPON ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "NF2209357",
+        "date": "2022-09-06",
+        "time": "11:34:14 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "RIO VERDE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
     },
     {
         "id": "NF2209356",
@@ -19,73 +52,7 @@
         "location": "JOHN DALY BLVD #DCY ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "MF2206902",
-        "date": "2022-09-06",
-        "time": "11:24:55 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "249 SELBY LN ,ATN",
-        "latitude": 37.4558624629865,
-        "longitude": -122.217444140248,
-        "units": "E4"
-    },
-    {
-        "id": "NF2209355",
-        "date": "2022-09-06",
-        "time": "11:20:34 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KING DR / CALLAN BLVD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "NF2209354",
-        "date": "2022-09-06",
-        "time": "11:13:21 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ABBOT AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2210467",
-        "date": "2022-09-06",
-        "time": "11:06:45 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OVERLOOK CT ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "CF2205644",
-        "date": "2022-09-06",
-        "time": "11:05:03 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #316 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "CF2205643",
-        "date": "2022-09-06",
-        "time": "10:56:33 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COLUMBUS AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ">E91"
     },
     {
         "id": "BF2202787",
@@ -96,6 +63,6 @@
         "location": "6304 SHELTER CREEK LN #6304 ,SNB",
         "latitude": 37.6196118935287,
         "longitude": -122.427952492168,
-        "units": ">BC20 CM31X5 >E51 >E52 >TAC35>BC16 >T51 >E61 >E38 CH16"
+        "units": "?SBFINV >BC20 CM31X5 >E51 >E52>TAC35 >BC16 >T51 >E61 >E38"
     }
 ]
