@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2206907",
+        "date": "2022-09-06",
+        "time": "1:25:17 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": "E7"
+    },
+    {
         "id": "FF2204975",
         "date": "2022-09-06",
         "time": "1:03:58 PM",
@@ -8,40 +19,7 @@
         "location": "DIAMOND AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "RF2208964",
-        "date": "2022-09-06",
-        "time": "12:57:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "REDWOOD AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "MF2206906",
-        "date": "2022-09-06",
-        "time": "12:56:47 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "103 O'CONNOR ST ,MNP",
-        "latitude": 37.4614843709689,
-        "longitude": -122.151862411186,
-        "units": ">R77 >E1 CM11X2 ?VFIR22"
-    },
-    {
-        "id": "FF2204974",
-        "date": "2022-09-06",
-        "time": "12:53:22 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "681 GATEWAY BLVD ,SSF",
-        "latitude": 37.6588420874855,
-        "longitude": -122.398853059191,
-        "units": ">T34"
+        "units": ""
     },
     {
         "id": "NF2209363",
@@ -52,40 +30,7 @@
         "location": "1 ROCKAWAY BEACH RD ,PCF",
         "latitude": 37.609874888495,
         "longitude": -122.497037277987,
-        "units": "CM31X1 BC20 >E72"
-    },
-    {
-        "id": "NF2209362",
-        "date": "2022-09-06",
-        "time": "12:50:27 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #234C ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "RF2208963",
-        "date": "2022-09-06",
-        "time": "12:50:08 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JEFFERSON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2210475",
-        "date": "2022-09-06",
-        "time": "12:46:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Pole fire",
-        "location": "240 HARBOR BLVD ,BLM",
-        "latitude": 37.5220046719185,
-        "longitude": -122.26766887244,
-        "units": ">E26"
+        "units": ">BC20 >E72"
     },
     {
         "id": "RF2208961",
@@ -96,7 +41,7 @@
         "location": "OLD COUNTY RD / HOLLY ST",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X3 ?TAC16 >BC3 >E14 >T23"
+        "units": "CM11X3 ?TAC16 >E14 >T23"
     },
     {
         "id": "SF2210473",
@@ -118,7 +63,7 @@
         "location": "199 AIRPORT BLVD ,SSF",
         "latitude": 37.653536928402,
         "longitude": -122.408751023952,
-        "units": ">E65 >BC17 >Q62 CM31X2 >TO17?TAC36"
+        "units": ">E65 >BC17 CM31X2 ?TAC36"
     },
     {
         "id": "BF2202787",
@@ -129,6 +74,6 @@
         "location": "6304 SHELTER CREEK LN #6304 ,SNB",
         "latitude": 37.6196118935287,
         "longitude": -122.427952492168,
-        "units": "CM31X5 >E51 >E52 >TAC35 >BC16>T51 >E61 >E38 >PR16 PR16A"
+        "units": "CM31X5 >E51 >E52 >TAC35 >BC16>T51 >E61 >E38 >PR16 >PR16A"
     }
 ]
