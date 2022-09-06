@@ -1,14 +1,102 @@
 [
     {
+        "id": "RF2208957",
+        "date": "2022-09-06",
+        "time": "10:25:59 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "369 CLUB DR ,SNC",
+        "latitude": 37.4981252667228,
+        "longitude": -122.291081628089,
+        "units": "E15"
+    },
+    {
+        "id": "BF2202786",
+        "date": "2022-09-06",
+        "time": "10:25:10 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ELSTON DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "RF2208956",
+        "date": "2022-09-06",
+        "time": "10:22:29 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "582 WOODSIDE RD ,RCY",
+        "latitude": 37.4697677939835,
+        "longitude": -122.223785159431,
+        "units": ">E10"
+    },
+    {
+        "id": "CF2205642",
+        "date": "2022-09-06",
+        "time": "10:21:06 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "REDWOOD WAY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "FF2204966",
+        "date": "2022-09-06",
+        "time": "10:18:21 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "RANDOLPH AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "MF2206901",
+        "date": "2022-09-06",
+        "time": "10:17:03 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST #C3 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "HF2202045",
+        "date": "2022-09-06",
+        "time": "10:10:59 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "100 POPLAR ST ,HMB",
+        "latitude": 37.4550758645158,
+        "longitude": -122.44350326144,
+        "units": ">U40 >E40"
+    },
+    {
+        "id": "WF2201284",
+        "date": "2022-09-06",
+        "time": "10:09:20 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "SOUTHDALE WAY / WOODSIDE WAY",
+        "latitude": 37.4516321069759,
+        "longitude": -122.272148284545,
+        "units": ">E19"
+    },
+    {
         "id": "MF2206900",
         "date": "2022-09-06",
         "time": "10:08:51 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "SEVIER AVE ,MNP",
+        "location": "WILLOW RD #104 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E77"
     },
     {
         "id": "NF2209352",
@@ -22,17 +110,6 @@
         "units": ">E92"
     },
     {
-        "id": "NF2209351",
-        "date": "2022-09-06",
-        "time": "10:06:00 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DOCKSIDE DR #324 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E95"
-    },
-    {
         "id": "SF2210464",
         "date": "2022-09-06",
         "time": "10:02:06 AM",
@@ -41,18 +118,7 @@
         "location": "516 EL CAMINO REAL ,BLM",
         "latitude": 37.5252776734885,
         "longitude": -122.282483991874,
-        "units": ">BC5 >E23 >E14 CM11X2 T17?TAC15"
-    },
-    {
-        "id": "SF2210463",
-        "date": "2022-09-06",
-        "time": "10:01:55 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S CLAREMONT ST #101 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
+        "units": "CM11X2 ?TAC15 >T17 >E14"
     },
     {
         "id": "FF2204965",
@@ -66,17 +132,6 @@
         "units": ">E94"
     },
     {
-        "id": "FF2204963",
-        "date": "2022-09-06",
-        "time": "9:52:11 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ROMNEY AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "SF2210462",
         "date": "2022-09-06",
         "time": "9:51:19 AM",
@@ -86,27 +141,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E27"
-    },
-    {
-        "id": "SF2210461",
-        "date": "2022-09-06",
-        "time": "9:50:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "TILTON AVE / N SAN MATEO DR",
-        "latitude": 37.5682688017456,
-        "longitude": -122.328161753341,
-        "units": ">E24"
-    },
-    {
-        "id": "MF2206898",
-        "date": "2022-09-06",
-        "time": "9:30:55 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "2575 SAND HILL RD ,MNP",
-        "latitude": 37.4197700506166,
-        "longitude": -122.20392567363,
-        "units": ">E4"
     }
 ]
