@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2206963",
+        "date": "2022-09-08",
+        "time": "9:50:14 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 101 / SO WOODSIDE RD",
+        "latitude": 37.4860898454352,
+        "longitude": -122.193396924125,
+        "units": "BC101 E9 E77 T2 >CM11X4>TAC15"
+    },
+    {
+        "id": "NF2209438",
+        "date": "2022-09-08",
+        "time": "9:43:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "3 SERRAMONTE CTR ,DCY",
+        "latitude": 37.6725022722999,
+        "longitude": -122.471402942882,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2209084",
+        "date": "2022-09-08",
+        "time": "9:41:18 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAMPSHIRE AVE #1 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "MF2206962",
+        "date": "2022-09-08",
+        "time": "9:40:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "1658 PURDUE AVE ,EPA",
+        "latitude": 37.4789399002551,
+        "longitude": -122.138396575554,
+        "units": ""
+    },
+    {
+        "id": "SF2210566",
+        "date": "2022-09-08",
+        "time": "9:37:17 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "2311 CASA BONA AVE ,BLM",
+        "latitude": 37.5177045285932,
+        "longitude": -122.299590912251,
+        "units": ""
+    },
+    {
+        "id": "NF2209437",
+        "date": "2022-09-08",
+        "time": "9:36:35 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST FRANCIS BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
         "id": "SF2210564",
         "date": "2022-09-08",
         "time": "9:31:08 AM",
@@ -8,7 +74,7 @@
         "location": "CARLMONT DR #203W ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E15"
     },
     {
         "id": "SF2210563",
@@ -22,39 +88,6 @@
         "units": ">E21"
     },
     {
-        "id": "SF2210562",
-        "date": "2022-09-08",
-        "time": "9:18:20 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "FF2205018",
-        "date": "2022-09-08",
-        "time": "9:09:53 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "2540 TARA LN ,SSF",
-        "latitude": 37.6415500430425,
-        "longitude": -122.460164071327,
-        "units": ">E52"
-    },
-    {
-        "id": "NF2209435",
-        "date": "2022-09-08",
-        "time": "9:09:32 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "365 TALBOT AVE #D5 ,PCF",
-        "latitude": 37.633941962832,
-        "longitude": -122.48793201567,
-        "units": ">E72 >E71 CM31X4 ?TAC35"
-    },
-    {
         "id": "RF2209078",
         "date": "2022-09-08",
         "time": "8:36:38 AM",
@@ -63,6 +96,6 @@
         "location": "PORT WALK PL ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ""
     }
 ]
