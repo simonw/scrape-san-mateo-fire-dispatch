@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2210569",
+        "id": "SF2210570",
         "date": "2022-09-08",
-        "time": "11:28:08 AM",
+        "time": "11:47:02 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
+        "location": "ARAGON BLVD #8 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": "T21"
+    },
+    {
+        "id": "NF2209448",
+        "date": "2022-09-08",
+        "time": "11:39:42 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Gas main break",
+        "location": "130 SKYLINE PLZ ,DCY",
+        "latitude": 37.6825779298863,
+        "longitude": -122.488247059524,
+        "units": ">E95 >E94 >E92 >BC124 CM31X2T95 ?TAC35"
+    },
+    {
+        "id": "WF2201306",
+        "date": "2022-09-08",
+        "time": "11:32:10 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "1100 MOUNTAIN HOME RD ,WDS",
+        "latitude": 37.4058630991271,
+        "longitude": -122.249781170574,
+        "units": ">SQ407"
     },
     {
         "id": "CF2205706",
@@ -19,7 +41,7 @@
         "location": "HILLSIDE DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
+        "units": ">T34"
     },
     {
         "id": "NF2209447",
@@ -31,49 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E81"
-    },
-    {
-        "id": "CF2205705",
-        "date": "2022-09-08",
-        "time": "11:23:44 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARMELITA AVE / EL CAMINO REAL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2209446",
-        "date": "2022-09-08",
-        "time": "11:11:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SULLIVAN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2209445",
-        "date": "2022-09-08",
-        "time": "11:08:49 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2210568",
-        "date": "2022-09-08",
-        "time": "11:05:30 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
     }
 ]
