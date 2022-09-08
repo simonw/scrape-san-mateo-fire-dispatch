@@ -1,47 +1,58 @@
 [
     {
-        "id": "NF2209434",
+        "id": "SF2210564",
         "date": "2022-09-08",
-        "time": "9:04:35 AM",
+        "time": "9:31:08 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #203W ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
+    },
+    {
+        "id": "SF2210563",
+        "date": "2022-09-08",
+        "time": "9:25:57 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD #1501 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2210562",
+        "date": "2022-09-08",
+        "time": "9:18:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "FF2205018",
+        "date": "2022-09-08",
+        "time": "9:09:53 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "2540 TARA LN ,SSF",
+        "latitude": 37.6415500430425,
+        "longitude": -122.460164071327,
+        "units": ">E52"
+    },
+    {
+        "id": "NF2209435",
+        "date": "2022-09-08",
+        "time": "9:09:32 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BRIGHTON CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
-    },
-    {
-        "id": "WF2201304",
-        "date": "2022-09-08",
-        "time": "9:03:03 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "SKYLINE BLVD / OLD LA HONDA RD",
-        "latitude": 37.3719491635442,
-        "longitude": -122.252734773846,
-        "units": "?CO56 ?E58"
-    },
-    {
-        "id": "RF2209081",
-        "date": "2022-09-08",
-        "time": "8:57:18 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "1235 RADIO RD ,RWS",
-        "latitude": 37.5435275835102,
-        "longitude": -122.232756874827,
-        "units": ">E20"
-    },
-    {
-        "id": "CF2205702",
-        "date": "2022-09-08",
-        "time": "8:50:33 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #205 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "category": "Full assignment response",
+        "location": "365 TALBOT AVE #D5 ,PCF",
+        "latitude": 37.633941962832,
+        "longitude": -122.48793201567,
+        "units": ">E72 >E71 CM31X4 ?TAC35"
     },
     {
         "id": "RF2209078",
@@ -52,28 +63,6 @@
         "location": "PORT WALK PL ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "MF2206960",
-        "date": "2022-09-08",
-        "time": "8:22:22 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "700 BLOCK AVELAR ST ,EPA",
-        "latitude": 37.4679502293163,
-        "longitude": -122.137372873469,
-        "units": ">R77"
-    },
-    {
-        "id": "FM2200113",
-        "date": "2022-09-08",
-        "time": "9/7/2022 6:58:52 PM",
-        "summary": "Fire Mutual Aid on White-1",
-        "category": "Out of county strike team",
-        "location": "MOSQUITO FIRE , TAHOE NATIONAL FOREST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E132 >E107 >E104 >BC121 >E116"
+        "units": "E14"
     }
 ]
