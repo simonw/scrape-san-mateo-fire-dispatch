@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2209128",
+        "date": "2022-09-09",
+        "time": "2:23:37 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY #4TH FLR ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "RF2209127",
+        "date": "2022-09-09",
+        "time": "2:21:44 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "CF2205744",
+        "date": "2022-09-09",
+        "time": "2:19:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #214 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "WF2201313",
+        "date": "2022-09-09",
+        "time": "2:17:57 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1042 WILMINGTON WAY ,EML",
+        "latitude": 37.4557587836474,
+        "longitude": -122.263525100093,
+        "units": ""
+    },
+    {
+        "id": "RF2209126",
+        "date": "2022-09-09",
+        "time": "2:16:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "393 LAUREL ST ,SNC",
+        "latitude": 37.508713927606,
+        "longitude": -122.263722743521,
+        "units": ">E13"
+    },
+    {
+        "id": "NF2209496",
+        "date": "2022-09-09",
+        "time": "2:06:04 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Gas main break",
+        "location": "99 SKYLINE PLZ ,DCY",
+        "latitude": 37.6827014270077,
+        "longitude": -122.488091365242,
+        "units": ""
+    },
+    {
         "id": "SF2210632",
         "date": "2022-09-09",
         "time": "2:05:06 PM",
@@ -8,7 +74,18 @@
         "location": "BAFFIN ST ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E29"
+        "units": ">E29"
+    },
+    {
+        "id": "WF2201312",
+        "date": "2022-09-09",
+        "time": "2:04:55 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "255 WOODSIDE DR ,WDS",
+        "latitude": 37.4490231140735,
+        "longitude": -122.239237476683,
+        "units": ">E12"
     },
     {
         "id": "NF2209495",
@@ -22,17 +99,6 @@
         "units": ">E92"
     },
     {
-        "id": "NF2209493",
-        "date": "2022-09-09",
-        "time": "1:50:55 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FREMONT AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
         "id": "CF2205743",
         "date": "2022-09-09",
         "time": "1:50:17 PM",
@@ -41,29 +107,7 @@
         "location": "460 PULLMAN DR ,HIL",
         "latitude": 37.5565822868015,
         "longitude": -122.367020651986,
-        "units": ">E38 >E32"
-    },
-    {
-        "id": "CF2205742",
-        "date": "2022-09-09",
-        "time": "1:37:51 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #314 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2205740",
-        "date": "2022-09-09",
-        "time": "1:04:31 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "30 MARIALINDA CT ,HIL",
-        "latitude": 37.5746389292112,
-        "longitude": -122.373875533578,
-        "units": ""
+        "units": ">E32"
     },
     {
         "id": "FM2200119",
@@ -85,6 +129,6 @@
         "location": "2421 ROSEWOOD DR ,SNB",
         "latitude": 37.6155471817782,
         "longitude": -122.433759216951,
-        "units": ">E52 >BC16 ?CM31X4"
+        "units": ">E52"
     }
 ]
