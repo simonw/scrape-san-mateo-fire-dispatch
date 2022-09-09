@@ -1,14 +1,69 @@
 [
     {
-        "id": "CF2205736",
+        "id": "RF2209121",
         "date": "2022-09-09",
-        "time": "10:51:15 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "11:27:20 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "WHITWELL RD ,HIL",
+        "location": "MARSHALL ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E32"
+        "units": ">T9"
+    },
+    {
+        "id": "MF2207002",
+        "date": "2022-09-09",
+        "time": "11:25:41 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2210626",
+        "date": "2022-09-09",
+        "time": "11:24:46 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #118 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "NF2209487",
+        "date": "2022-09-09",
+        "time": "11:21:06 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HANOVER ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "NF2209486",
+        "date": "2022-09-09",
+        "time": "11:20:59 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CAMPUS DR #STE 214 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "BF2202823",
+        "date": "2022-09-09",
+        "time": "11:19:23 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO MILLBRAE AVE",
+        "latitude": 37.6076284150697,
+        "longitude": -122.388400032852,
+        "units": ">E51 >BC16 >T51 TAC35 ?CM31X3"
     },
     {
         "id": "MF2207000",
@@ -19,6 +74,6 @@
         "location": "2160 COOLEY AVE ,EPA",
         "latitude": 37.4647218664439,
         "longitude": -122.139004371733,
-        "units": ">T2 >BC101 >E2 CM11X2 ?TAC15"
+        "units": "CM11X2 ?TAC15 >E2 >BC101 >T2"
     }
 ]
