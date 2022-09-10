@@ -1,14 +1,69 @@
 [
     {
-        "id": "DF2201580",
+        "id": "SF2210679",
         "date": "2022-09-10",
-        "time": "11:46:20 AM",
-        "summary": "County Fire on Control-1",
+        "time": "12:01:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Structure fire",
+        "location": "700 MARLIN AVE #714 ,FCY",
+        "latitude": 37.5535997092451,
+        "longitude": -122.253551290346,
+        "units": "E23 E29 E28 BC5 T23BC11 E25 E26 ?TAC25 ?CM21X1"
+    },
+    {
+        "id": "BF2202838",
+        "date": "2022-09-10",
+        "time": "11:57:09 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "REFLECTION LAKE RD ,LAH",
+        "location": "SAN BRUNO AVE W / ELM AVE",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 ?E59"
+        "units": ">T51"
+    },
+    {
+        "id": "BF2202837",
+        "date": "2022-09-10",
+        "time": "11:52:58 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "COLLEGE DR #8319 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "NF2209522",
+        "date": "2022-09-10",
+        "time": "11:50:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "RIFLE RANGE RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "RF2209166",
+        "date": "2022-09-10",
+        "time": "11:49:24 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "SHASTA ST / PINE ST",
+        "latitude": 37.4792720335212,
+        "longitude": -122.22266748785,
+        "units": ">T9"
+    },
+    {
+        "id": "BF2202836",
+        "date": "2022-09-10",
+        "time": "11:48:06 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN ANTONIO AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     },
     {
         "id": "DF2201579",
@@ -19,28 +74,6 @@
         "location": "HILDEBRAND RD / LA HONDA RD",
         "latitude": 37.3262653253355,
         "longitude": -122.272773214972,
-        "units": "R57 E58 ?TAC15 ?BC2 ?CO57?E7"
-    },
-    {
-        "id": "CF2205756",
-        "date": "2022-09-10",
-        "time": "11:30:46 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2210678",
-        "date": "2022-09-10",
-        "time": "11:25:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BAHIA ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": "TAC15 E58 >E7 BC2 >E57>R57"
     }
 ]
