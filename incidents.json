@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2209530",
+        "id": "DF2201583",
         "date": "2022-09-10",
-        "time": "3:38:59 PM",
+        "time": "4:01:31 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "CABRILLO HWY S / PESCADERO CREEK RD  ,P",
+        "latitude": 37.2597092171182,
+        "longitude": -122.413227584936,
+        "units": "?CO55 ?TAC15 ?CO57 ?E59"
+    },
+    {
+        "id": "HF2202079",
+        "date": "2022-09-10",
+        "time": "3:58:02 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "TERRACE AVE / ETHELDORE ST",
+        "latitude": 37.5263031322927,
+        "longitude": -122.509829346017,
+        "units": ">E44"
+    },
+    {
+        "id": "NF2209531",
+        "date": "2022-09-10",
+        "time": "3:53:31 PM",
         "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "LINDA MAR BLVD / CAPISTRANO DR",
+        "latitude": 37.5825999412212,
+        "longitude": -122.483382305,
+        "units": ">E72"
+    },
+    {
+        "id": "RF2209174",
+        "date": "2022-09-10",
+        "time": "3:48:44 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "WESTLAKE AVE ,DCY",
+        "location": "HARRISON AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": ">E10"
     },
     {
         "id": "SF2210691",
@@ -20,60 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "MF2207036",
-        "date": "2022-09-10",
-        "time": "3:32:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAK GROVE AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2210690",
-        "date": "2022-09-10",
-        "time": "3:26:42 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "1420 S EL CAMINO REAL ,SMO",
-        "latitude": 37.5539720179809,
-        "longitude": -122.31657659951,
-        "units": ""
-    },
-    {
-        "id": "RF2209173",
-        "date": "2022-09-10",
-        "time": "3:21:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FAIRFIELD DR ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2210689",
-        "date": "2022-09-10",
-        "time": "3:18:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KEHOE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2210688",
-        "date": "2022-09-10",
-        "time": "3:16:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VILLAGE DR #9 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
