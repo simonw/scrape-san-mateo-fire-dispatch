@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2209204",
+        "date": "2022-09-11",
+        "time": "3:02:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AIRPORT WAY ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "NF2209574",
+        "date": "2022-09-11",
+        "time": "2:59:16 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WESTLAKE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "MF2207074",
+        "date": "2022-09-11",
+        "time": "2:57:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODLAND AVE #47 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
         "id": "SF2210727",
         "date": "2022-09-11",
         "time": "2:43:41 PM",
@@ -8,7 +41,7 @@
         "location": "N EL CAMINO REAL #7 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "NF2209573",
@@ -16,21 +49,10 @@
         "time": "2:41:41 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BAYSHORE BLVD / INDUSTRIAL WAY",
+        "location": "INDUSTRIAL WAY ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": "E81"
-    },
-    {
-        "id": "NF2209572",
-        "date": "2022-09-11",
-        "time": "2:36:44 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALMETTO AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E71"
+        "units": ">E81"
     },
     {
         "id": "CF2205781",
@@ -44,17 +66,6 @@
         "units": ">E25"
     },
     {
-        "id": "RF2209202",
-        "date": "2022-09-11",
-        "time": "2:26:04 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OLIVER ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
         "id": "NF2209569",
         "date": "2022-09-11",
         "time": "1:57:55 PM",
@@ -64,16 +75,5 @@
         "latitude": 37.708197492076,
         "longitude": -122.469050975611,
         "units": ">E92 CM31X2 ?TAC36 >T95"
-    },
-    {
-        "id": "FF2205062",
-        "date": "2022-09-11",
-        "time": "1:56:38 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "DNA WAY / POINT SAN BRUNO BLVD",
-        "latitude": 37.6544268496382,
-        "longitude": -122.380774111775,
-        "units": ">E61"
     }
 ]
