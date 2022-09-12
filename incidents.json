@@ -1,14 +1,36 @@
 [
     {
-        "id": "FF2205079",
+        "id": "CF2205801",
         "date": "2022-09-12",
-        "time": "3:14:08 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "3:43:39 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "135 S EL CAMINO REAL ,MLB",
+        "latitude": 37.5966392540104,
+        "longitude": -122.386426197614,
+        "units": "?TAC25 ?CM21X3 ?BC8 ?E34 ?E33?E37 ?T51"
+    },
+    {
+        "id": "CF2205800",
+        "date": "2022-09-12",
+        "time": "3:33:18 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "OYSTER POINT BLVD ,SSF",
+        "location": "EL CAMINO REAL ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": ""
+    },
+    {
+        "id": "SF2210785",
+        "date": "2022-09-12",
+        "time": "3:29:10 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "715 INDIAN AVE ,SMO",
+        "latitude": 37.5771294416327,
+        "longitude": -122.326812318259,
+        "units": ">E24"
     },
     {
         "id": "RF2209241",
@@ -19,39 +41,6 @@
         "location": "2110 WHITE OAK WAY ,SNC",
         "latitude": 37.4896131411041,
         "longitude": -122.256852019807,
-        "units": ">T9 >BC3 >E13 >E16 CM11X2?TAC15"
-    },
-    {
-        "id": "RF2209240",
-        "date": "2022-09-12",
-        "time": "3:13:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #3114 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2205799",
-        "date": "2022-09-12",
-        "time": "3:11:45 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROLLINS RD #109 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2209620",
-        "date": "2022-09-12",
-        "time": "3:05:26 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GLEN PKWY ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
+        "units": "CM11X2 ?TAC15 >E13 >BC3 >E16"
     }
 ]
