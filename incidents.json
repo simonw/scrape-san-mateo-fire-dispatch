@@ -1,5 +1,71 @@
 [
     {
+        "id": "FF2205077",
+        "date": "2022-09-12",
+        "time": "1:28:19 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MCLELLAN DR #1076 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
+        "id": "SF2210780",
+        "date": "2022-09-12",
+        "time": "1:27:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOSMER ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
+    },
+    {
+        "id": "NF2209611",
+        "date": "2022-09-12",
+        "time": "1:22:47 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "BF2202863",
+        "date": "2022-09-12",
+        "time": "1:22:13 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN BRUNO AVE W ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2207096",
+        "date": "2022-09-12",
+        "time": "1:19:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "795 WILLOW RD ,MNP",
+        "latitude": 37.4663546046411,
+        "longitude": -122.160234197566,
+        "units": "CM11X3 ?TAC16 >E1"
+    },
+    {
+        "id": "DF2201596",
+        "date": "2022-09-12",
+        "time": "1:19:14 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "EDGEWOOD RD / CRESTVIEW DR",
+        "latitude": 37.4745661952949,
+        "longitude": -122.280327551381,
+        "units": ">E18"
+    },
+    {
         "id": "BF2202861",
         "date": "2022-09-12",
         "time": "1:04:45 PM",
@@ -8,7 +74,7 @@
         "location": "OAKMONT DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "SF2210779",
@@ -19,29 +85,7 @@
         "location": "CHERRYWOOD DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
-    },
-    {
-        "id": "CF2205798",
-        "date": "2022-09-12",
-        "time": "1:01:06 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MURCHISON DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "NF2209608",
-        "date": "2022-09-12",
-        "time": "12:57:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SULLIVAN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">E27"
     },
     {
         "id": "DF2201594",
@@ -52,28 +96,6 @@
         "location": "SAN MATEO RD / EO SKYLINE BLVD",
         "latitude": 37.4961980037225,
         "longitude": -122.363226114908,
-        "units": "CM11X1 E1771 E17"
-    },
-    {
-        "id": "SF2210777",
-        "date": "2022-09-12",
-        "time": "12:52:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CURLEW CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "SF2210776",
-        "date": "2022-09-12",
-        "time": "12:48:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S B ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": "E1771 >E17 CM11X1 >BC11"
     }
 ]
