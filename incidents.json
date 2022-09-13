@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2202107",
+        "date": "2022-09-13",
+        "time": "9:30:11 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "448 MAIN ST ,HMB",
+        "latitude": 37.4638865657331,
+        "longitude": -122.4294584379,
+        "units": "?E59"
+    },
+    {
+        "id": "SF2210824",
+        "date": "2022-09-13",
+        "time": "9:10:33 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST #223 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2209262",
+        "date": "2022-09-13",
+        "time": "9:07:45 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "630 VETERANS BLVD ,RCY",
+        "latitude": 37.492045976967,
+        "longitude": -122.231950016558,
+        "units": ">E10"
+    },
+    {
         "id": "RF2209260",
         "date": "2022-09-13",
         "time": "8:56:00 AM",
@@ -11,28 +44,6 @@
         "units": ">E11"
     },
     {
-        "id": "FF2205096",
-        "date": "2022-09-13",
-        "time": "8:52:08 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "VIEWCREST CIR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "NF2209642",
-        "date": "2022-09-13",
-        "time": "8:43:10 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "148 SERRAMONTE CTR #A ,DCY",
-        "latitude": 37.6706298244095,
-        "longitude": -122.473965946668,
-        "units": ">E94"
-    },
-    {
         "id": "SF2210818",
         "date": "2022-09-13",
         "time": "7:51:19 AM",
@@ -41,6 +52,6 @@
         "location": "266 42ND AVE ,SMO",
         "latitude": 37.5272552842767,
         "longitude": -122.299435243028,
-        "units": ">CM21X5 >E23 >OES51 *>BC5 >TAC25>HM31 >MED5 >E15 >HM14 >T23"
+        "units": ">CM21X5 >E23 >OES51 >TAC25 >HM31>MED5 >E15 >HM14 >T23"
     }
 ]
