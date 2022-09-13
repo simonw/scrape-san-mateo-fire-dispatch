@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2209657",
+        "id": "CF2205815",
         "date": "2022-09-13",
-        "time": "2:43:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMPUS DR #206 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94 ?E95"
+        "time": "3:05:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "330 BEACH RD ,BRM",
+        "latitude": 37.5886151117298,
+        "longitude": -122.335761953837,
+        "units": "?E34"
+    },
+    {
+        "id": "FF2205100",
+        "date": "2022-09-13",
+        "time": "3:00:50 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "100 MCLELLAN DR ,SSF",
+        "latitude": 37.6644534355834,
+        "longitude": -122.445490576834,
+        "units": "E65"
+    },
+    {
+        "id": "SF2210837",
+        "date": "2022-09-13",
+        "time": "3:00:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "715 INDIAN AVE ,SMO",
+        "latitude": 37.5771294416327,
+        "longitude": -122.326812318259,
+        "units": ">E24"
     },
     {
         "id": "RF2209275",
@@ -30,62 +52,7 @@
         "location": "MAIN ST / SAN MATEO RD",
         "latitude": 37.4678953282926,
         "longitude": -122.430075664143,
-        "units": "BC10 ?TAC45 ?CM41X1 ?E72 ?E44?E40 E41"
-    },
-    {
-        "id": "RF2209274",
-        "date": "2022-09-13",
-        "time": "2:37:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LOCUST ST #4 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "SF2210835",
-        "date": "2022-09-13",
-        "time": "2:30:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "W HILLSDALE BLVD / HACIENDA ST",
-        "latitude": 37.5337865167262,
-        "longitude": -122.304515239871,
-        "units": ">E23 CM21X3 ?TAC25"
-    },
-    {
-        "id": "RF2209273",
-        "date": "2022-09-13",
-        "time": "2:22:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COUNTY CN ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2210834",
-        "date": "2022-09-13",
-        "time": "2:16:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CYPRESS AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2207127",
-        "date": "2022-09-13",
-        "time": "2:11:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MENLO AVE #F ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E40 ?TAC45 >E41 >E44 CM41X1>BC10"
     },
     {
         "id": "FF2205099",
@@ -97,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E63"
-    },
-    {
-        "id": "NF2209654",
-        "date": "2022-09-13",
-        "time": "1:31:50 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "202 FOREST PARK DR ,PCF",
-        "latitude": 37.6595089780663,
-        "longitude": -122.488874406995,
-        "units": ">E71"
     }
 ]
