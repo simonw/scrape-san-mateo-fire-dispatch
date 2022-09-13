@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2209648",
+        "id": "RF2209263",
         "date": "2022-09-13",
-        "time": "10:25:43 AM",
+        "time": "10:42:40 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "903 10TH AVE ,RCY",
+        "latitude": 37.4798918363236,
+        "longitude": -122.194038609634,
+        "units": "E5"
+    },
+    {
+        "id": "NF2209651",
+        "date": "2022-09-13",
+        "time": "10:41:44 AM",
         "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "155 ORIENTE ST ,DCY",
+        "latitude": 37.7054112364007,
+        "longitude": -122.413944836159,
+        "units": ">E81"
+    },
+    {
+        "id": "MF2207119",
+        "date": "2022-09-13",
+        "time": "10:36:05 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "PEORIA ST ,DCY",
+        "location": "HIDDEN OAKS DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": ">E4"
+    },
+    {
+        "id": "NF2209650",
+        "date": "2022-09-13",
+        "time": "10:36:02 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CORONADO AVE #21 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T95"
     },
     {
         "id": "CF2205810",
@@ -19,7 +52,7 @@
         "location": "TROUSDALE DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">T34"
+        "units": "T34"
     },
     {
         "id": "NF2209646",
@@ -31,16 +64,5 @@
         "latitude": 37.6905611036907,
         "longitude": -122.470575059424,
         "units": "E92"
-    },
-    {
-        "id": "SF2210818",
-        "date": "2022-09-13",
-        "time": "7:51:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Hazardous material - response",
-        "location": "266 42ND AVE ,SMO",
-        "latitude": 37.5272552842767,
-        "longitude": -122.299435243028,
-        "units": ">CM21X5 >E23 >OES51 >TAC25 >HM31>HM14 >T23"
     }
 ]
