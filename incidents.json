@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2209343",
+        "date": "2022-09-15",
+        "time": "8:01:18 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Water rescue investigation",
+        "location": "101 WESTPOINT HARBOR DR ,RCY",
+        "latitude": 37.5129299005762,
+        "longitude": -122.19471703694,
+        "units": "E9"
+    },
+    {
+        "id": "SF2210915",
+        "date": "2022-09-15",
+        "time": "7:58:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EDGEWOOD RD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E32"
+    },
+    {
+        "id": "RF2209342",
+        "date": "2022-09-15",
+        "time": "7:58:05 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WINSLOW ST / BROADWAY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T9"
+    },
+    {
         "id": "RF2209341",
         "date": "2022-09-15",
         "time": "7:46:04 AM",
@@ -8,7 +41,7 @@
         "location": "TOPAZ ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "RF2209340",
@@ -19,29 +52,7 @@
         "location": "SAN CARLOS AVE #16 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
-    },
-    {
-        "id": "FF2205133",
-        "date": "2022-09-15",
-        "time": "7:41:57 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MIRA VISTA WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
-    },
-    {
-        "id": "SF2210914",
-        "date": "2022-09-15",
-        "time": "7:40:43 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SANTA CLARA WAY / SARATOGA DR",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": ">E13"
     },
     {
         "id": "SF2210913",
@@ -63,28 +74,6 @@
         "location": "BEACH PARK BLVD / TEAL ST",
         "latitude": 37.571618662025,
         "longitude": -122.261685312509,
-        "units": "BOAT9 >BC5 >E28 JS28 CG22A>CM51X5"
-    },
-    {
-        "id": "BF2202898",
-        "date": "2022-09-15",
-        "time": "7:03:33 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SEA CLIFF WAY #1 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E52"
-    },
-    {
-        "id": "SF2210911",
-        "date": "2022-09-15",
-        "time": "7:01:52 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "506 N DELAWARE ST ,SMO",
-        "latitude": 37.5766387891099,
-        "longitude": -122.329747774397,
-        "units": ""
+        "units": "BOAT9 >CG22A >JS28 >BC5 ?BOAT14>CM51X5 >E28"
     }
 ]
