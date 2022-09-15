@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2209352",
+        "id": "RF2209353",
         "date": "2022-09-15",
-        "time": "10:08:08 AM",
+        "time": "10:24:05 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
+        "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
+        "units": ">E9"
+    },
+    {
+        "id": "FF2205136",
+        "date": "2022-09-15",
+        "time": "10:23:59 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "160 COUNTRY CLUB DR ,SSF",
+        "latitude": 37.6456755198419,
+        "longitude": -122.428942229863,
+        "units": ""
+    },
+    {
+        "id": "NF2209733",
+        "date": "2022-09-15",
+        "time": "10:20:08 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #305A ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
     },
     {
         "id": "CF2205839",
@@ -20,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "MF2207162",
-        "date": "2022-09-15",
-        "time": "10:01:51 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD #217 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2210924",
-        "date": "2022-09-15",
-        "time": "9:39:06 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HACIENDA ST #227 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2209351",
-        "date": "2022-09-15",
-        "time": "9:33:50 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Vehicle fire",
-        "location": "EL CAMINO REAL / ROOSEVELT AVE",
-        "latitude": 37.4791476102457,
-        "longitude": -122.225528913478,
-        "units": ">E9 PR5A >PR3B"
     }
 ]
