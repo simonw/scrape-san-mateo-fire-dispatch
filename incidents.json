@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2209343",
+        "id": "RF2209345",
         "date": "2022-09-15",
-        "time": "8:01:18 AM",
+        "time": "8:25:10 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Water rescue investigation",
-        "location": "101 WESTPOINT HARBOR DR ,RCY",
-        "latitude": 37.5129299005762,
-        "longitude": -122.19471703694,
-        "units": "E9"
+        "category": "Medical aid",
+        "location": "IRIS ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E12"
+    },
+    {
+        "id": "FF2205134",
+        "date": "2022-09-15",
+        "time": "8:17:01 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "JUNIPERO SERRA BLVD / HICKEY BLVD",
+        "latitude": 37.665502447348,
+        "longitude": -122.458431629047,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2209726",
+        "date": "2022-09-15",
+        "time": "8:15:34 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "TERRA NOVA BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "MF2207158",
+        "date": "2022-09-15",
+        "time": "8:11:47 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAVEN CT ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
     },
     {
         "id": "SF2210915",
@@ -19,7 +52,7 @@
         "location": "EDGEWOOD RD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E32"
+        "units": ">E32"
     },
     {
         "id": "RF2209342",
@@ -30,7 +63,7 @@
         "location": "WINSLOW ST / BROADWAY",
         "latitude": null,
         "longitude": null,
-        "units": "?T9"
+        "units": ">T9"
     },
     {
         "id": "RF2209341",
@@ -44,28 +77,6 @@
         "units": ">E10"
     },
     {
-        "id": "RF2209340",
-        "date": "2022-09-15",
-        "time": "7:44:44 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN CARLOS AVE #16 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2210913",
-        "date": "2022-09-15",
-        "time": "7:37:45 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FOLGER DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
         "id": "SF2210912",
         "date": "2022-09-15",
         "time": "7:24:02 AM",
@@ -74,6 +85,6 @@
         "location": "BEACH PARK BLVD / TEAL ST",
         "latitude": 37.571618662025,
         "longitude": -122.261685312509,
-        "units": "BOAT9 >CG22A >JS28 >BC5 ?BOAT14>CM51X5 >E28"
+        "units": ">BOAT9 >CG22A >JS28 >BC5 >BC3BOAT14 >CM51X5 >E28 BOAT62 E24"
     }
 ]
