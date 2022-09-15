@@ -1,25 +1,47 @@
 [
     {
-        "id": "MF2207175",
+        "id": "MF2207177",
         "date": "2022-09-15",
-        "time": "4:00:40 PM",
+        "time": "4:23:30 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1065 RINGWOOD AVE ,MNP",
-        "latitude": 37.474652309053,
-        "longitude": -122.166095405557,
-        "units": "BC1 ?TAC15 >T1 CM11X1 >E1"
+        "category": "Fire alarm - smoke detector",
+        "location": "1765 E BAYSHORE RD ,EPA",
+        "latitude": 37.4611384515088,
+        "longitude": -122.135369443345,
+        "units": ">E2"
     },
     {
-        "id": "FF2205143",
+        "id": "MF2207176",
         "date": "2022-09-15",
-        "time": "3:56:47 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "4:16:51 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SANTA CRUZ AVE / EL CAMINO REAL",
+        "latitude": 37.4535815530816,
+        "longitude": -122.182997513007,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2210938",
+        "date": "2022-09-15",
+        "time": "4:11:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "LN / MAGNOLIA AVE",
+        "location": "PLYMOUTH LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": ">E26"
+    },
+    {
+        "id": "SF2210937",
+        "date": "2022-09-15",
+        "time": "4:07:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOWFIN ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
     },
     {
         "id": "SF2210936",
@@ -31,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E29"
-    },
-    {
-        "id": "SF2210935",
-        "date": "2022-09-15",
-        "time": "3:51:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "CF2205851",
-        "date": "2022-09-15",
-        "time": "3:50:54 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident - structure",
-        "location": "341 DWIGHT RD ,BRM",
-        "latitude": 37.5849483728961,
-        "longitude": -122.340127817279,
-        "units": ">E34"
     }
 ]
