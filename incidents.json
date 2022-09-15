@@ -1,14 +1,58 @@
 [
     {
-        "id": "FF2205132",
+        "id": "RF2209341",
         "date": "2022-09-15",
-        "time": "7:28:54 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:46:04 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "HICKEY BLVD ,SSF",
+        "location": "TOPAZ ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": "E10"
+    },
+    {
+        "id": "RF2209340",
+        "date": "2022-09-15",
+        "time": "7:44:44 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN CARLOS AVE #16 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "FF2205133",
+        "date": "2022-09-15",
+        "time": "7:41:57 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MIRA VISTA WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "SF2210914",
+        "date": "2022-09-15",
+        "time": "7:40:43 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SANTA CLARA WAY / SARATOGA DR",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "SF2210913",
+        "date": "2022-09-15",
+        "time": "7:37:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FOLGER DR ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
     },
     {
         "id": "SF2210912",
@@ -19,18 +63,7 @@
         "location": "BEACH PARK BLVD / TEAL ST",
         "latitude": 37.571618662025,
         "longitude": -122.261685312509,
-        "units": "JS28 BOAT9 BC5 CG22A >CM51X5E28"
-    },
-    {
-        "id": "RF2209339",
-        "date": "2022-09-15",
-        "time": "7:14:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROOSEVELT AVE #44 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
+        "units": "BOAT9 >BC5 >E28 JS28 CG22A>CM51X5"
     },
     {
         "id": "BF2202898",
@@ -41,7 +74,7 @@
         "location": "SEA CLIFF WAY #1 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
+        "units": "E52"
     },
     {
         "id": "SF2210911",
@@ -52,6 +85,6 @@
         "location": "506 N DELAWARE ST ,SMO",
         "latitude": 37.5766387891099,
         "longitude": -122.329747774397,
-        "units": ">T21"
+        "units": ""
     }
 ]
