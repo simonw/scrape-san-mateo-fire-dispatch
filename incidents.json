@@ -1,46 +1,57 @@
 [
     {
-        "id": "RF2209353",
+        "id": "HF2202138",
         "date": "2022-09-15",
-        "time": "10:24:05 AM",
+        "time": "10:46:13 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FILBERT ST ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "SF2210926",
+        "date": "2022-09-15",
+        "time": "10:43:12 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "RF2209357",
+        "date": "2022-09-15",
+        "time": "10:41:21 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
+        "location": "WOODSIDE RD #502 ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ">E9"
     },
     {
-        "id": "FF2205136",
+        "id": "RF2209355",
         "date": "2022-09-15",
-        "time": "10:23:59 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "10:36:01 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "2900 WHIPPLE AVE #STE 210 ,RCY",
+        "latitude": 37.4792765959607,
+        "longitude": -122.256291393936,
+        "units": ">E10"
+    },
+    {
+        "id": "WF2201345",
+        "date": "2022-09-15",
+        "time": "10:34:17 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Fire alarm",
-        "location": "160 COUNTRY CLUB DR ,SSF",
-        "latitude": 37.6456755198419,
-        "longitude": -122.428942229863,
-        "units": ""
-    },
-    {
-        "id": "NF2209733",
-        "date": "2022-09-15",
-        "time": "10:20:08 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #305A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "CF2205839",
-        "date": "2022-09-15",
-        "time": "10:02:59 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1039A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "location": "408 ELEANOR DR ,WDS",
+        "latitude": 37.4349189008669,
+        "longitude": -122.232839031733,
+        "units": ">E4"
     }
 ]
