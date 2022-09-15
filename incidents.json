@@ -1,14 +1,36 @@
 [
     {
-        "id": "HF2202140",
+        "id": "RF2209374",
         "date": "2022-09-15",
-        "time": "3:17:38 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "3:37:11 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "SAN MATEO RD #IFO ,HMB",
+        "location": "ELM ST #110 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "*>E41"
+        "units": ">E13"
+    },
+    {
+        "id": "SF2210934",
+        "date": "2022-09-15",
+        "time": "3:31:30 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W 20TH AVE #303 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "MF2207174",
+        "date": "2022-09-15",
+        "time": "3:28:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "125 ARLINGTON WAY ,MOK",
+        "latitude": 37.4608636591574,
+        "longitude": -122.171841920115,
+        "units": ">T1"
     },
     {
         "id": "SF2210933",
@@ -20,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E25"
-    },
-    {
-        "id": "MF2207173",
-        "date": "2022-09-15",
-        "time": "3:05:16 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #204 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2209372",
-        "date": "2022-09-15",
-        "time": "2:59:51 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1017 CEDAR ST ,SNC",
-        "latitude": 37.4976924559166,
-        "longitude": -122.259197213174,
-        "units": ">E13"
-    },
-    {
-        "id": "HF2202139",
-        "date": "2022-09-15",
-        "time": "1:27:24 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PURISIMA CREEK RD ,SOS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E58 VFIR22 >R56 >ERV58"
     }
 ]
