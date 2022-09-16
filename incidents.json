@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2205164",
+        "id": "NF2209784",
         "date": "2022-09-16",
-        "time": "1:45:31 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "1:59:02 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "S LINDEN AVE #10 ,SSF",
+        "location": "CRESPI DR #N303 ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E72"
+    },
+    {
+        "id": "RF2209393",
+        "date": "2022-09-16",
+        "time": "1:54:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY #PAV B ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "CF2205869",
+        "date": "2022-09-16",
+        "time": "1:54:21 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #1010 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "WF2201350",
+        "date": "2022-09-16",
+        "time": "1:48:33 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PORTOLA RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E7"
     },
     {
         "id": "SF2210982",
@@ -19,18 +52,7 @@
         "location": "MULBERRY CT #6 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "CF2205868",
-        "date": "2022-09-16",
-        "time": "1:43:44 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
+        "units": ">E15"
     },
     {
         "id": "MF2207205",
@@ -41,18 +63,7 @@
         "location": "COOLEY AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC15 >E2 CM11X5 >BC101 >T2"
-    },
-    {
-        "id": "NF2209782",
-        "date": "2022-09-16",
-        "time": "1:16:13 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "2580 FRANCISCO BLVD ,PCF",
-        "latitude": 37.6290347669761,
-        "longitude": -122.490267049747,
-        "units": ">E52"
+        "units": "E2"
     },
     {
         "id": "NF2209781",
@@ -63,6 +74,6 @@
         "location": "WESTMOOR AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC35 CM31X2 *>BC121 >E71 >T95>E91 >E95"
+        "units": "*>BC121"
     }
 ]
