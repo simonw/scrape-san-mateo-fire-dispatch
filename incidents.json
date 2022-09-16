@@ -1,5 +1,16 @@
 [
     {
+        "id": "FF2205162",
+        "date": "2022-09-16",
+        "time": "11:18:27 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #305A ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "SF2210976",
         "date": "2022-09-16",
         "time": "11:04:52 AM",
@@ -8,18 +19,7 @@
         "location": "S DELAWARE ST / E 3RD AVE",
         "latitude": 37.5671281985217,
         "longitude": -122.320058531086,
-        "units": "BC5 E25 E32 >E24 E26?E23 ?TAC26 ?CM21X3 ?BC8 ?T21"
-    },
-    {
-        "id": "MF2207199",
-        "date": "2022-09-16",
-        "time": "11:02:47 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY AVE #LIB ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
+        "units": ">BC5 >E32 >CM21X3 >TO5 >PR5B>CH5B >E24 >TAC26 >T21 >PR5C"
     },
     {
         "id": "SF2210975",
@@ -33,17 +33,6 @@
         "units": ">E21"
     },
     {
-        "id": "NF2209775",
-        "date": "2022-09-16",
-        "time": "10:55:13 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "INDUSTRIAL WAY ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
-    },
-    {
         "id": "NF2209774",
         "date": "2022-09-16",
         "time": "10:48:32 AM",
@@ -52,39 +41,6 @@
         "location": "GLASGOW DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "T95"
-    },
-    {
-        "id": "RF2209388",
-        "date": "2022-09-16",
-        "time": "10:48:20 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "RF2209387",
-        "date": "2022-09-16",
-        "time": "10:40:15 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "1584 GRANGER WAY ,RCY",
-        "latitude": 37.4548680636721,
-        "longitude": -122.243715334166,
-        "units": "*>E10"
-    },
-    {
-        "id": "SF2210964",
-        "date": "2022-09-16",
-        "time": "7:32:49 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Structure fire",
-        "location": "327 RAMONA ST #1 ,SMO",
-        "latitude": 37.5726758344097,
-        "longitude": -122.330043852551,
-        "units": "CM21X4 ?TAC25 >PR5B >CH5B >PR5C"
+        "units": ">T95"
     }
 ]
