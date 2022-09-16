@@ -1,14 +1,80 @@
 [
     {
-        "id": "MF2207197",
+        "id": "WF2201349",
         "date": "2022-09-16",
-        "time": "10:17:19 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "10:31:36 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "2091 PORTOLA RD ,WDS",
+        "latitude": 37.4021673418643,
+        "longitude": -122.253351302274,
+        "units": "E8"
+    },
+    {
+        "id": "NF2209773",
+        "date": "2022-09-16",
+        "time": "10:31:03 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "W BAYSHORE RD ,EPA",
+        "location": "CAMPUS DR #111 STE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
+        "units": ">T95"
+    },
+    {
+        "id": "MF2207198",
+        "date": "2022-09-16",
+        "time": "10:29:49 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "NB 101 / SO WOODSIDE RD",
+        "latitude": 37.4860898454352,
+        "longitude": -122.193396924125,
+        "units": "E5 R77 E11 CM11X2 ?TAC15"
+    },
+    {
+        "id": "RF2209385",
+        "date": "2022-09-16",
+        "time": "10:25:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAIR ISLAND RD #300 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "FF2205161",
+        "date": "2022-09-16",
+        "time": "10:23:43 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MILLER AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "SF2210974",
+        "date": "2022-09-16",
+        "time": "10:21:13 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #617 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "SF2210973",
+        "date": "2022-09-16",
+        "time": "10:19:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #131 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
     },
     {
         "id": "HF2202146",
@@ -19,40 +85,7 @@
         "location": "SILVER AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "BF2202909",
-        "date": "2022-09-16",
-        "time": "10:09:30 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EASTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2209772",
-        "date": "2022-09-16",
-        "time": "10:09:06 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "20 WILLITS ST ,DCY",
-        "latitude": 37.704566004856,
-        "longitude": -122.468885643819,
-        "units": ">E91"
-    },
-    {
-        "id": "BF2202908",
-        "date": "2022-09-16",
-        "time": "10:06:07 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #2123 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "units": ">E40"
     },
     {
         "id": "FF2205160",
@@ -63,18 +96,7 @@
         "location": "172 STARLITE ST #2ND FLOOR ,SSF",
         "latitude": 37.6494324137189,
         "longitude": -122.417234439171,
-        "units": "CM31X5 >E63 >BC17 ?TAC35 >Q62>T51 >E81"
-    },
-    {
-        "id": "SF2210972",
-        "date": "2022-09-16",
-        "time": "9:37:38 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S SAN MATEO DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": "CM31X5 ?TAC35"
     },
     {
         "id": "SF2210964",
