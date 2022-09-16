@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2209757",
+        "id": "CF2205857",
         "date": "2022-09-15",
-        "time": "11:14:34 PM",
+        "time": "11:53:53 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #162BED1 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "HF2202142",
+        "date": "2022-09-15",
+        "time": "11:49:54 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KELLY AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "NF2209758",
+        "date": "2022-09-15",
+        "time": "11:47:33 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "870 CAMPUS DR ,DCY",
-        "latitude": 37.6661998067424,
-        "longitude": -122.477186550651,
-        "units": ">E95"
+        "category": "Public assist",
+        "location": "1059 YOSEMITE DR ,PCF",
+        "latitude": 37.586816990086,
+        "longitude": -122.471436868254,
+        "units": "E72"
     },
     {
         "id": "DF2201615",
@@ -19,39 +41,6 @@
         "location": "SB 280 / NO 92",
         "latitude": 37.5128003426877,
         "longitude": -122.347426465418,
-        "units": ">T17 >E17 >BC11 >E27 E1771TAC15 CM11X3"
-    },
-    {
-        "id": "MF2207188",
-        "date": "2022-09-15",
-        "time": "11:07:50 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #221A ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "FF2205150",
-        "date": "2022-09-15",
-        "time": "10:59:44 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LUX AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "RF2209379",
-        "date": "2022-09-15",
-        "time": "10:47:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #163 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "units": "CM11X3 >E17 >E1771 TAC15 >T17>BC11 >E27"
     }
 ]
