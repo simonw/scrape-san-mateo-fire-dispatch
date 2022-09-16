@@ -1,36 +1,47 @@
 [
     {
+        "id": "FF2205158",
+        "date": "2022-09-16",
+        "time": "8:46:26 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "COMMERCIAL AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E61"
+    },
+    {
+        "id": "RF2209384",
+        "date": "2022-09-16",
+        "time": "8:42:35 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LANCASTER WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "MF2207193",
+        "date": "2022-09-16",
+        "time": "8:39:57 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1751 E BAYSHORE RD #150 ,EPA",
+        "latitude": 37.4616058226676,
+        "longitude": -122.136720161577,
+        "units": "E2"
+    },
+    {
         "id": "FF2205157",
         "date": "2022-09-16",
         "time": "8:25:04 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Traffic accident pd request c3",
-        "location": "657 FORBES BLVD ,SSF",
+        "location": "FORBES BLVD / DNA WAY",
         "latitude": 37.6600078196047,
         "longitude": -122.381512981289,
-        "units": "BC17 Q62 CM31X4 ?TAC35 ?E65"
-    },
-    {
-        "id": "SF2210970",
-        "date": "2022-09-16",
-        "time": "8:17:05 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Smoke investigation",
-        "location": "RALSTON AVE / NOTRE DAME AVE",
-        "latitude": 37.5140672570436,
-        "longitude": -122.287557583827,
-        "units": ">E14"
-    },
-    {
-        "id": "RF2209383",
-        "date": "2022-09-16",
-        "time": "8:12:53 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PAGE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
+        "units": ">Q62"
     },
     {
         "id": "SF2210964",
@@ -41,6 +52,6 @@
         "location": "327 RAMONA ST #1 ,SMO",
         "latitude": 37.5726758344097,
         "longitude": -122.330043852551,
-        "units": ">E32 CM21X4 >BC8 ?TAC25 >E21PR5B *>E24 >T21"
+        "units": ">BC5 CM21X4 >BC8 ?TAC25 >E21PR5B *>E24 >T21"
     }
 ]
