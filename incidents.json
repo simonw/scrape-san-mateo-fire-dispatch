@@ -1,14 +1,80 @@
 [
     {
-        "id": "SF2211098",
+        "id": "SF2211100",
         "date": "2022-09-19",
-        "time": "12:54:29 PM",
+        "time": "1:26:29 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "110 36TH AVE #6 ,SMO",
-        "latitude": 37.5348278404712,
-        "longitude": -122.297510499186,
-        "units": ">BC5 >E23 CM21X2 E14 T23E25 ?TAC25"
+        "category": "Medical aid",
+        "location": "PACIFIC BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "FF2205211",
+        "date": "2022-09-19",
+        "time": "1:25:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HILLSIDE BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "SF2211099",
+        "date": "2022-09-19",
+        "time": "1:19:39 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "1900 OFARRELL ST ,SMO",
+        "latitude": 37.5484501745591,
+        "longitude": -122.315541491149,
+        "units": ">E25"
+    },
+    {
+        "id": "RF2209485",
+        "date": "2022-09-19",
+        "time": "1:14:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MC KINLEY ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2209484",
+        "date": "2022-09-19",
+        "time": "1:13:18 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "BF2202941",
+        "date": "2022-09-19",
+        "time": "1:12:43 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CHABOT DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "CF2205932",
+        "date": "2022-09-19",
+        "time": "1:06:48 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "SB 101 / E MILLBRAE AVE OFF RAMP",
+        "latitude": 37.6052725539121,
+        "longitude": -122.384739038774,
+        "units": ">T51"
     },
     {
         "id": "DF2201636",
@@ -19,61 +85,6 @@
         "location": "3540 LA HONDA RD ,SNG",
         "latitude": 37.3218835209244,
         "longitude": -122.341021312659,
-        "units": "E659 E357 WT156 E40 BC10E59 E58 >VFIR22"
-    },
-    {
-        "id": "FF2205209",
-        "date": "2022-09-19",
-        "time": "12:48:48 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "TELFORD AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "MF2207290",
-        "date": "2022-09-19",
-        "time": "12:47:48 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "O'BRIEN DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">R77"
-    },
-    {
-        "id": "CF2205931",
-        "date": "2022-09-19",
-        "time": "12:45:17 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1095A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM21X1 >E37 >E35"
-    },
-    {
-        "id": "NF2209896",
-        "date": "2022-09-19",
-        "time": "12:40:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE PLZ ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "CF2205929",
-        "date": "2022-09-19",
-        "time": "12:19:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #1216 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">E357 >VFIR22 >E659 >E59"
     }
 ]
