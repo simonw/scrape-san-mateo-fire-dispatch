@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2207295",
+        "date": "2022-09-19",
+        "time": "3:28:10 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1132 O'CONNOR ST ,EPA",
+        "latitude": 37.4608282510253,
+        "longitude": -122.128043543594,
+        "units": "?E2"
+    },
+    {
+        "id": "HF2202174",
+        "date": "2022-09-19",
+        "time": "3:22:35 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S #100 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17"
+    },
+    {
+        "id": "SF2211105",
+        "date": "2022-09-19",
+        "time": "3:22:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W HILLSDALE BLVD #303 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
         "id": "SF2211104",
         "date": "2022-09-19",
         "time": "3:03:14 PM",
@@ -19,40 +52,7 @@
         "location": "NB 280 / SO EDGEWOOD RD",
         "latitude": 37.4503547561209,
         "longitude": -122.278505928096,
-        "units": "CM11X1 ?TAC15 E18 R7 BC2E12"
-    },
-    {
-        "id": "RF2209487",
-        "date": "2022-09-19",
-        "time": "2:52:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COUNTY CN #1ST FLOOR ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2205934",
-        "date": "2022-09-19",
-        "time": "2:29:08 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #302 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2211102",
-        "date": "2022-09-19",
-        "time": "2:19:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NORTON ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": "CM11X1 >E18 TAC15 >BC2 >E12"
     },
     {
         "id": "SF2211101",
@@ -74,6 +74,6 @@
         "location": "2700 LOBITOS CREEK RD ,SOS",
         "latitude": 37.3953132332208,
         "longitude": -122.372793365462,
-        "units": ">E40 >VFIR23 >E41 >E640"
+        "units": ">VFIR23 >E41 >E640"
     }
 ]
