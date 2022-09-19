@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2211100",
+        "id": "DF2201637",
         "date": "2022-09-19",
-        "time": "1:26:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PACIFIC BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
+        "time": "1:45:32 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Grass fire",
+        "location": "2700 LOBITOS CREEK RD ,SOS",
+        "latitude": 37.3953132332208,
+        "longitude": -122.372793365462,
+        "units": "E40 WT157 E44 >VFIR23 ?BC2?CO56 ?E41"
+    },
+    {
+        "id": "CF2205933",
+        "date": "2022-09-19",
+        "time": "1:43:13 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "1030 LAGUNA AVE ,BRM",
+        "latitude": 37.5851603753635,
+        "longitude": -122.361561871302,
+        "units": "E34"
+    },
+    {
+        "id": "NF2209898",
+        "date": "2022-09-19",
+        "time": "1:32:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "278 IRVINGTON ST ,DCY",
+        "latitude": 37.7071579005877,
+        "longitude": -122.455936597067,
+        "units": ">E92 >BC20 ?TAC35 >T95 CM31X4>E95"
     },
     {
         "id": "FF2205211",
@@ -19,7 +41,7 @@
         "location": "HILLSIDE BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": "E65"
     },
     {
         "id": "SF2211099",
@@ -33,50 +55,6 @@
         "units": ">E25"
     },
     {
-        "id": "RF2209485",
-        "date": "2022-09-19",
-        "time": "1:14:40 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MC KINLEY ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2209484",
-        "date": "2022-09-19",
-        "time": "1:13:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2202941",
-        "date": "2022-09-19",
-        "time": "1:12:43 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHABOT DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "CF2205932",
-        "date": "2022-09-19",
-        "time": "1:06:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "SB 101 / E MILLBRAE AVE OFF RAMP",
-        "latitude": 37.6052725539121,
-        "longitude": -122.384739038774,
-        "units": ">T51"
-    },
-    {
         "id": "DF2201636",
         "date": "2022-09-19",
         "time": "12:54:20 PM",
@@ -85,6 +63,6 @@
         "location": "3540 LA HONDA RD ,SNG",
         "latitude": 37.3218835209244,
         "longitude": -122.341021312659,
-        "units": ">E357 >VFIR22 >E659 >E59"
+        "units": ">E659 >E59"
     }
 ]
