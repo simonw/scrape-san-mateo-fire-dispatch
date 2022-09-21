@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2211201",
+        "date": "2022-09-21",
+        "time": "3:20:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2209991",
+        "date": "2022-09-21",
+        "time": "3:18:16 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PONCETTA DR #45D ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2207349",
+        "date": "2022-09-21",
+        "time": "3:11:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "SF2211199",
         "date": "2022-09-21",
         "time": "3:02:55 PM",
@@ -8,50 +41,6 @@
         "location": "3917 BERESFORD ST #4 ,SMO",
         "latitude": 37.5321422248741,
         "longitude": -122.293137528873,
-        "units": "E26 T23 >TAC25 E14 ?CM21X4?BC5 ?E25"
-    },
-    {
-        "id": "NF2209989",
-        "date": "2022-09-21",
-        "time": "3:02:10 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "CF2205980",
-        "date": "2022-09-21",
-        "time": "3:00:43 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MONTE CORVINO WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "RF2209555",
-        "date": "2022-09-21",
-        "time": "2:41:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "2650 EL CAMINO REAL ,RCY",
-        "latitude": 37.471063109001,
-        "longitude": -122.215805584171,
-        "units": ">T9"
-    },
-    {
-        "id": "SF2211198",
-        "date": "2022-09-21",
-        "time": "2:30:36 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "2210 HASTINGS DR ,BLM",
-        "latitude": 37.5091412721962,
-        "longitude": -122.297146266255,
-        "units": ">E15"
+        "units": ">CM21X4 >TAC25 >T23 >E26"
     }
 ]
