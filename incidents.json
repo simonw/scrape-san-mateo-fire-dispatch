@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2209995",
+        "date": "2022-09-21",
+        "time": "4:29:24 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEAUMONT BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E94"
+    },
+    {
+        "id": "FF2205255",
+        "date": "2022-09-21",
+        "time": "4:24:26 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Odor investigation",
+        "location": "814 NEWMAN DR ,SSF",
+        "latitude": 37.6602452657481,
+        "longitude": -122.45509355039,
+        "units": "E64"
+    },
+    {
+        "id": "SF2211206",
+        "date": "2022-09-21",
+        "time": "4:12:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HASTINGS DR ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "CF2205981",
+        "date": "2022-09-21",
+        "time": "4:11:15 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / CARMELITA AVE",
+        "latitude": 37.5829699612131,
+        "longitude": -122.364057931138,
+        "units": ">BC8 CM21X3 >T34 ?TAC25"
+    },
+    {
+        "id": "HF2202191",
+        "date": "2022-09-21",
+        "time": "4:09:20 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "410 BEACH AVE ,HMB",
+        "latitude": 37.4778035912084,
+        "longitude": -122.445239962014,
+        "units": ">E41"
+    },
+    {
         "id": "SF2211204",
         "date": "2022-09-21",
         "time": "4:01:30 PM",
@@ -8,29 +63,7 @@
         "location": "CRESCENT AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "MF2207350",
-        "date": "2022-09-21",
-        "time": "3:55:11 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ADDISON AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2211202",
-        "date": "2022-09-21",
-        "time": "3:47:53 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #214 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": ">E34"
     },
     {
         "id": "HF2202190",
@@ -41,6 +74,6 @@
         "location": "MAIN ST #125N ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": "*>E40"
     }
 ]
