@@ -1,14 +1,25 @@
 [
     {
-        "id": "HF2202186",
+        "id": "MF2207342",
         "date": "2022-09-21",
-        "time": "10:06:45 AM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "10:21:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MIRAMONTES POINT RD ,HMB",
+        "location": "COOLEY AVE #2ND FLR ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": ""
+    },
+    {
+        "id": "FF2205251",
+        "date": "2022-09-21",
+        "time": "10:15:26 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALIDA WAY #200 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
     },
     {
         "id": "RF2209544",
@@ -19,18 +30,7 @@
         "location": "NB 101 / SO WHIPPLE AVE",
         "latitude": 37.4926029176342,
         "longitude": -122.221534463968,
-        "units": ">E9 T1 ?TAC16 >BC3 CM11X5E10"
-    },
-    {
-        "id": "BF2202962",
-        "date": "2022-09-21",
-        "time": "10:05:21 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "157 SANTA INEZ AVE #2 ,SNB",
-        "latitude": 37.6146100996365,
-        "longitude": -122.403805792399,
-        "units": "T51"
+        "units": ">E9"
     },
     {
         "id": "CF2205977",
@@ -41,7 +41,7 @@
         "location": "CABRILLO AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": ""
     },
     {
         "id": "DF2201645",
@@ -52,28 +52,6 @@
         "location": "13130 SKYLINE BLVD ,KMT",
         "latitude": 37.4456193312691,
         "longitude": -122.345035927299,
-        "units": "?TAC15 E58 >R56"
-    },
-    {
-        "id": "DF2201646",
-        "date": "2022-09-21",
-        "time": "10:01:58 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "1 WATERSHED N ,SON",
-        "latitude": 37.524534632841,
-        "longitude": -122.373667666878,
-        "units": "CM11X1 E1781 E1771 E17"
-    },
-    {
-        "id": "SF2211191",
-        "date": "2022-09-21",
-        "time": "9:59:33 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1221 CHESS DR ,FCY",
-        "latitude": 37.5622080641952,
-        "longitude": -122.276994283274,
-        "units": ">E28"
+        "units": "*>E58 >R56"
     }
 ]
