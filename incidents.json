@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2207356",
+        "id": "NF2210003",
         "date": "2022-09-21",
-        "time": "10:21:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "10:48:49 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "CRANE ST #231 ,MNP",
+        "location": "HICKEY BLVD #1 ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
+        "units": ">E94"
+    },
+    {
+        "id": "RF2209567",
+        "date": "2022-09-21",
+        "time": "10:45:37 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "645 PROSPECT ST ,SNC",
+        "latitude": 37.5024565392696,
+        "longitude": -122.264629766222,
+        "units": ">E13"
     },
     {
         "id": "CF2205987",
@@ -19,28 +30,6 @@
         "location": "SB 101 / NO BROADWAY",
         "latitude": 37.5968398858127,
         "longitude": -122.371807046932,
-        "units": ">T34 >E37 >BC16 >E34 >CM21X1?TAC25"
-    },
-    {
-        "id": "FF2205262",
-        "date": "2022-09-21",
-        "time": "10:15:34 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "TOWER PL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "MF2207355",
-        "date": "2022-09-21",
-        "time": "10:15:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MANHATTAN AVE #10 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E37 >T34 >CM21X1 ?TAC25"
     }
 ]
