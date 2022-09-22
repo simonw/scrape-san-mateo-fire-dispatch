@@ -1,25 +1,47 @@
 [
     {
-        "id": "NF2210015",
+        "id": "CF2205999",
         "date": "2022-09-22",
-        "time": "11:41:06 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:00:46 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
+        "location": "BROADWAY #3RD FLR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E81"
+        "units": ">E37"
     },
     {
-        "id": "SF2211237",
+        "id": "SF2211238",
         "date": "2022-09-22",
-        "time": "11:34:43 AM",
+        "time": "11:58:34 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CERRITO AVE #2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "category": "Fire alarm - manual",
+        "location": "3133 CASA DE CAMPO ,SMO",
+        "latitude": 37.5436118210051,
+        "longitude": -122.283133046134,
+        "units": ">E26"
+    },
+    {
+        "id": "FF2205269",
+        "date": "2022-09-22",
+        "time": "11:57:14 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "500 E JAMIE CT ,SSF",
+        "latitude": 37.6486821235683,
+        "longitude": -122.383061053776,
+        "units": "Q62"
+    },
+    {
+        "id": "NF2210016",
+        "date": "2022-09-22",
+        "time": "11:54:41 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "164 MIRADA DR ,DCY",
+        "latitude": 37.682706253041,
+        "longitude": -122.476056194944,
+        "units": ">E95"
     },
     {
         "id": "CF2205998",
@@ -33,17 +55,6 @@
         "units": ">E33"
     },
     {
-        "id": "RF2209581",
-        "date": "2022-09-22",
-        "time": "11:31:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARLIN CT ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
         "id": "RF2209580",
         "date": "2022-09-22",
         "time": "11:30:35 AM",
@@ -52,7 +63,7 @@
         "location": "WOODSIDE RD #105 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": ""
     },
     {
         "id": "MF2207367",
@@ -74,17 +85,6 @@
         "location": "COOLEY AVE #106 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">R77 >T2"
-    },
-    {
-        "id": "SF2211236",
-        "date": "2022-09-22",
-        "time": "11:12:13 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COUNTRYSIDE DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "R77"
     }
 ]
