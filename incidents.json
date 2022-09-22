@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2209583",
+        "id": "RF2209584",
         "date": "2022-09-22",
-        "time": "12:25:57 PM",
+        "time": "12:36:54 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1401 SHOREWAY RD ,BLM",
-        "latitude": 37.5203790363928,
-        "longitude": -122.261964028464,
-        "units": "?E14"
+        "category": "Medical aid",
+        "location": "PAGE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "CF2206001",
+        "date": "2022-09-22",
+        "time": "12:33:15 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MURCHISON DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "NF2210017",
@@ -19,18 +30,7 @@
         "location": "850 CAMPUS DR ,DCY",
         "latitude": 37.6656717290301,
         "longitude": -122.477061933285,
-        "units": "?E94"
-    },
-    {
-        "id": "FF2205270",
-        "date": "2022-09-22",
-        "time": "12:23:57 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "500 E JAMIE CT ,SSF",
-        "latitude": 37.6486821235683,
-        "longitude": -122.383061053776,
-        "units": "?Q62"
+        "units": ">E94"
     },
     {
         "id": "RF2209582",
@@ -41,39 +41,6 @@
         "location": "KENSINGTON RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "MF2207369",
-        "date": "2022-09-22",
-        "time": "12:09:18 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "181 ENCINAL AVE ,ATN",
-        "latitude": 37.4641057888701,
-        "longitude": -122.186763773302,
-        "units": ">E6"
-    },
-    {
-        "id": "CF2205999",
-        "date": "2022-09-22",
-        "time": "12:00:46 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #3RD FLR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "MF2207364",
-        "date": "2022-09-22",
-        "time": "11:24:37 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COOLEY AVE #106 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "R77"
+        "units": ">E10"
     }
 ]
