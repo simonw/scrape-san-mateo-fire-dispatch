@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2210059",
+        "id": "CF2206031",
         "date": "2022-09-23",
-        "time": "12:42:20 PM",
+        "time": "1:03:14 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MINORCA WAY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "RF2209621",
+        "date": "2022-09-23",
+        "time": "1:02:11 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROLISON RD #1 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "MF2207388",
+        "date": "2022-09-23",
+        "time": "1:00:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #360F ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "NF2210061",
+        "date": "2022-09-23",
+        "time": "12:59:18 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "WASHINGTON ST / SAN PEDRO RD",
+        "category": "Traffic accident pd request c2",
+        "location": "SAN PEDRO RD / WASHINGTON ST",
         "latitude": 37.6878505575408,
         "longitude": -122.468232202093,
-        "units": "BC20 T95 E92 CM31X3 ?TAC35"
+        "units": "E92"
     },
     {
         "id": "WF2201382",
@@ -19,28 +52,6 @@
         "location": "1100 KINGS MOUNTAIN RD ,KMT",
         "latitude": 37.4357810425709,
         "longitude": -122.298765666373,
-        "units": ">CM11X4 E1781 >TAC15 E58 >BC2E1765 >SQ407"
-    },
-    {
-        "id": "MF2207387",
-        "date": "2022-09-23",
-        "time": "12:12:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TRINITY DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2209620",
-        "date": "2022-09-23",
-        "time": "11:56:43 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DUANE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">BC2 >SQ407"
     }
 ]
