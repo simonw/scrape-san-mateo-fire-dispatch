@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2209603",
+        "date": "2022-09-22",
+        "time": "11:16:00 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "HF2202204",
+        "date": "2022-09-22",
+        "time": "11:13:07 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CAPISTRANO RD ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "DF2201657",
+        "date": "2022-09-22",
+        "time": "11:04:27 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #90 ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "NF2210040",
+        "date": "2022-09-22",
+        "time": "11:03:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #307 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "HF2202203",
         "date": "2022-09-22",
         "time": "10:43:42 PM",
@@ -8,29 +52,7 @@
         "location": "70 N CABRILLO HWY ,HMB",
         "latitude": 37.4691180656919,
         "longitude": -122.436062855293,
-        "units": "E40"
-    },
-    {
-        "id": "HF2202202",
-        "date": "2022-09-22",
-        "time": "10:31:18 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVENUE GRANADA ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "SF2211262",
-        "date": "2022-09-22",
-        "time": "9:06:20 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "EB 92 / WO FOSTER CITY BLVD",
-        "latitude": 37.569202087793,
-        "longitude": -122.267129057565,
-        "units": ">CM21X4 TAC25"
+        "units": ">E40 *>E41"
     },
     {
         "id": "CF2206013",
@@ -41,6 +63,6 @@
         "location": "1411 EL CAMINO REAL ,BRM",
         "latitude": 37.5876340425635,
         "longitude": -122.372545629078,
-        "units": ">CM21X1 >E35"
+        "units": ">CM21X1"
     }
 ]
