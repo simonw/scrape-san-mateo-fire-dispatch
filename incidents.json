@@ -1,14 +1,58 @@
 [
     {
-        "id": "FF2205324",
+        "id": "FF2205325",
         "date": "2022-09-24",
-        "time": "4:25:24 PM",
+        "time": "4:43:05 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "ROCCA AVE ,SSF",
+        "location": "CHESTNUT AVE ,SSF",
         "latitude": null,
         "longitude": null,
         "units": "E63"
+    },
+    {
+        "id": "MF2207420",
+        "date": "2022-09-24",
+        "time": "4:42:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Pole fire",
+        "location": "LEMON ST / DORIS DR",
+        "latitude": 37.4348369438631,
+        "longitude": -122.192912398155,
+        "units": "E4"
+    },
+    {
+        "id": "NF2210105",
+        "date": "2022-09-24",
+        "time": "4:39:45 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CALLAN BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "SF2211329",
+        "date": "2022-09-24",
+        "time": "4:36:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EDISON ST / W 38TH AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
+        "id": "SF2211328",
+        "date": "2022-09-24",
+        "time": "4:30:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W 25TH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
     },
     {
         "id": "SF2211327",
@@ -19,7 +63,7 @@
         "location": "THAYER LN #505 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E29"
     },
     {
         "id": "MF2207418",
@@ -30,7 +74,7 @@
         "location": "CLARKE AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
+        "units": ""
     },
     {
         "id": "WF2201387",
@@ -41,51 +85,7 @@
         "location": "19501 SKYLINE BLVD ,PVY",
         "latitude": 37.3420681167364,
         "longitude": -122.221206914621,
-        "units": "E1771 R56 SQ407 E17 BC2TAC15 CM11X5"
-    },
-    {
-        "id": "CF2206065",
-        "date": "2022-09-24",
-        "time": "4:18:57 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Lock out - vehicle",
-        "location": "1335 EL CAMINO REAL ,BRM",
-        "latitude": 37.586843732582,
-        "longitude": -122.371459117893,
-        "units": ">T34"
-    },
-    {
-        "id": "NF2210104",
-        "date": "2022-09-24",
-        "time": "4:18:34 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALOMA AVE / PALMETTO AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "BF2203001",
-        "date": "2022-09-24",
-        "time": "4:03:35 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "3326 SHELTER CREEK LN #BLDG 3 ,SNB",
-        "latitude": 37.6196118935287,
-        "longitude": -122.427952492168,
-        "units": "*>E51"
-    },
-    {
-        "id": "MF2207417",
-        "date": "2022-09-24",
-        "time": "4:00:39 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KAVANAUGH DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E1781 >E1771 TAC15 >E17 >BC2CM11X5"
     },
     {
         "id": "CF2206062",
@@ -96,6 +96,6 @@
         "location": "SB 101 / SO MILLBRAE AVE",
         "latitude": 37.5968398858127,
         "longitude": -122.371807046932,
-        "units": ">E37 >CM21X4 >BC16 >TAC25"
+        "units": ">E37"
     }
 ]
