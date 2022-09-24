@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2207411",
+        "date": "2022-09-24",
+        "time": "11:46:09 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2110 CLAYTON DR ,MNP",
+        "latitude": 37.4292577689366,
+        "longitude": -122.197869892983,
+        "units": "?E8"
+    },
+    {
+        "id": "RF2209657",
+        "date": "2022-09-24",
+        "time": "11:45:09 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "441 POPLAR AVE #131 ,RCY",
+        "latitude": 37.4727670287336,
+        "longitude": -122.2254950233,
+        "units": "E10"
+    },
+    {
+        "id": "HF2202215",
+        "date": "2022-09-24",
+        "time": "11:44:47 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Boat in distress",
+        "location": "N LAKE ST / NEVADA AVE",
+        "latitude": 37.5240865944884,
+        "longitude": -122.516702264059,
+        "units": "BC10 E72 ?TAC45 ?CM41X1 ?E44"
+    },
+    {
+        "id": "SF2211311",
+        "date": "2022-09-24",
+        "time": "11:43:31 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c2",
+        "location": "WB 92 / EO S DELAWARE ST",
+        "latitude": 37.5527062195397,
+        "longitude": -122.303341537406,
+        "units": "E26"
+    },
+    {
         "id": "MF2207410",
         "date": "2022-09-24",
         "time": "11:27:23 AM",
@@ -8,18 +52,7 @@
         "location": "ASHTON AVE ,WMP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
-    },
-    {
-        "id": "MF2207409",
-        "date": "2022-09-24",
-        "time": "11:26:54 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #14B ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E4"
+        "units": ">E1"
     },
     {
         "id": "RF2209656",
@@ -31,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E3"
-    },
-    {
-        "id": "NF2210093",
-        "date": "2022-09-24",
-        "time": "11:15:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Landscape fire",
-        "location": "35 ESCUELA DR ,DCY",
-        "latitude": 37.6747848870612,
-        "longitude": -122.477307643003,
-        "units": ">E81"
-    },
-    {
-        "id": "NF2210092",
-        "date": "2022-09-24",
-        "time": "11:06:10 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #407 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
