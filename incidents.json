@@ -1,25 +1,47 @@
 [
     {
-        "id": "SF2211359",
+        "id": "BF2203007",
         "date": "2022-09-25",
-        "time": "10:43:44 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:05:37 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
+        "location": "NATIONAL AVE #2123 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": "?E51"
     },
     {
-        "id": "FF2205336",
+        "id": "CF2206081",
         "date": "2022-09-25",
-        "time": "10:42:25 AM",
+        "time": "10:57:38 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N ROLLINS RD ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "FF2205337",
+        "date": "2022-09-25",
+        "time": "10:52:10 AM",
         "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "358 GARDENSIDE AVE ,SSF",
-        "latitude": 37.6669380464942,
-        "longitude": -122.43674706372,
-        "units": "E65 CM31X5 TAC35 BC17 E61E94 Q62"
+        "category": "Medical aid",
+        "location": "WILLOW AVE #3 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "FF2205338",
+        "date": "2022-09-25",
+        "time": "10:51:32 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "101 MCLELLAN DR #4020 ,SSF",
+        "latitude": 37.6642962765265,
+        "longitude": -122.446854864105,
+        "units": ">E94"
     },
     {
         "id": "FF2205335",
@@ -27,7 +49,7 @@
         "time": "10:39:15 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Fire alarm",
-        "location": "145 ROMNEY AVE ,SSF",
+        "location": "165 ROMNEY AVE ,SSF",
         "latitude": 37.659584107795,
         "longitude": -122.451399696035,
         "units": ">E63"
@@ -52,6 +74,6 @@
         "location": "HAYWARD DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E35"
+        "units": ""
     }
 ]
