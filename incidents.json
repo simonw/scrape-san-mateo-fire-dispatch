@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2203019",
+        "date": "2022-09-26",
+        "time": "10:10:31 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "850 CHERRY AVE ,SNB",
+        "latitude": 37.6269945030683,
+        "longitude": -122.424171869514,
+        "units": "E38 BC16 T51 E51 E52CM31X3 ?TAC35"
+    },
+    {
+        "id": "FF2205358",
+        "date": "2022-09-26",
+        "time": "10:01:32 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LARCH AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "WF2201400",
         "date": "2022-09-26",
         "time": "9:36:54 AM",
@@ -8,29 +30,7 @@
         "location": "766 LA MESA DR ,LAD",
         "latitude": 37.3977662984236,
         "longitude": -122.203991565025,
-        "units": ">E8"
-    },
-    {
-        "id": "CF2206099",
-        "date": "2022-09-26",
-        "time": "9:34:14 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MANGINI WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "CF2206098",
-        "date": "2022-09-26",
-        "time": "9:25:48 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "POPLAR AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">SQ407 CM11X1 >E8"
     },
     {
         "id": "NF2210164",
@@ -42,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E92"
-    },
-    {
-        "id": "DF2201673",
-        "date": "2022-09-26",
-        "time": "8:57:44 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SUENO CAMINO ,LAH",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
