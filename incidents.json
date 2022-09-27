@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2211467",
+        "id": "SF2211469",
         "date": "2022-09-27",
-        "time": "3:02:39 PM",
+        "time": "3:27:03 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "CLAUDIA AVE ,SMO",
+        "location": "S NORFOLK ST #1B ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
+        "units": "E29"
+    },
+    {
+        "id": "SF2211468",
+        "date": "2022-09-27",
+        "time": "3:25:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1520 RALSTON AVE ,BLM",
+        "latitude": 37.5154369052869,
+        "longitude": -122.285279914848,
+        "units": "E14"
+    },
+    {
+        "id": "RF2209751",
+        "date": "2022-09-27",
+        "time": "3:21:56 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #1552 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "CF2206127",
+        "date": "2022-09-27",
+        "time": "3:07:18 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PARROTT DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
     },
     {
         "id": "RF2209749",
@@ -16,42 +49,9 @@
         "time": "2:56:41 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Vehicle fire",
-        "location": "1909 EL CAMINO REAL ,RCY",
+        "location": "EL CAMINO REAL / OAK AVE",
         "latitude": 37.4782241934189,
         "longitude": -122.223315402434,
-        "units": "CM11X1 E9 TAC15 >PR3E >BC3"
-    },
-    {
-        "id": "CF2206126",
-        "date": "2022-09-27",
-        "time": "2:49:26 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #331 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "BF2203036",
-        "date": "2022-09-27",
-        "time": "2:37:43 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "63 LINDEN AVE ,SNB",
-        "latitude": 37.6139617981246,
-        "longitude": -122.406689884231,
-        "units": ">T51"
-    },
-    {
-        "id": "RF2209748",
-        "date": "2022-09-27",
-        "time": "2:37:32 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BECKET DR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
+        "units": "CM11X1 >E9 TAC15 >PR3E"
     }
 ]
