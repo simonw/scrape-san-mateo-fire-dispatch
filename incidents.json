@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2206129",
+        "date": "2022-09-27",
+        "time": "4:42:08 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAROLAN AVE #317 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "BF2203037",
+        "date": "2022-09-27",
+        "time": "4:33:48 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1150 EL CAMINO REAL ,SNB",
+        "latitude": 37.6369388775055,
+        "longitude": -122.418601675439,
+        "units": ">E51"
+    },
+    {
         "id": "RF2209756",
         "date": "2022-09-27",
         "time": "4:30:27 PM",
@@ -8,7 +30,7 @@
         "location": "LANYARD DR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E20"
+        "units": ">E20"
     },
     {
         "id": "RF2209755",
@@ -30,18 +52,7 @@
         "location": "EB 92 / EO W HILLSDALE BLVD",
         "latitude": 37.5419775538365,
         "longitude": -122.329586543087,
-        "units": ">BC5 E25 T17 CM21X5 E27?TAC25"
-    },
-    {
-        "id": "MF2207493",
-        "date": "2022-09-27",
-        "time": "4:26:18 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WINSLOW ST / BREWSTER AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
+        "units": ">BC5 CM21X5 ?TAC25 >T17 >E27"
     },
     {
         "id": "MF2207494",
@@ -53,38 +64,5 @@
         "latitude": 37.4426407870199,
         "longitude": -122.179729372269,
         "units": ">E6"
-    },
-    {
-        "id": "SF2211473",
-        "date": "2022-09-27",
-        "time": "4:19:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2206128",
-        "date": "2022-09-27",
-        "time": "4:14:13 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #144 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "MF2207492",
-        "date": "2022-09-27",
-        "time": "4:10:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #133 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
     }
 ]
