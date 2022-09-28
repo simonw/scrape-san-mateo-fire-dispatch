@@ -1,25 +1,47 @@
 [
     {
-        "id": "FF2205392",
+        "id": "BF2203045",
         "date": "2022-09-28",
-        "time": "8:06:31 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "8:29:26 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL / MCLELLAN DR",
+        "location": "PICCADILLY PL #C ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E94"
+        "units": "E52"
     },
     {
-        "id": "MF2207505",
+        "id": "CF2206139",
         "date": "2022-09-28",
-        "time": "8:06:26 AM",
+        "time": "8:28:26 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1497 EL CAMINO REAL ,MLB",
+        "latitude": 37.6106875609737,
+        "longitude": -122.402269012153,
+        "units": "BC8 T34 E51 CM21X3 ?TAC26"
+    },
+    {
+        "id": "SF2211494",
+        "date": "2022-09-28",
+        "time": "8:27:43 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "EB 92 / WO EDGEWATER BLVD",
+        "latitude": 37.5553136043485,
+        "longitude": -122.287481132893,
+        "units": "E26 CM21X4 BC5 T23 ?TAC25"
+    },
+    {
+        "id": "MF2207506",
+        "date": "2022-09-28",
+        "time": "8:17:54 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "BAY RD ,EPA",
+        "location": "LEXINGTON DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E1"
     },
     {
         "id": "FF2205391",
@@ -30,29 +52,7 @@
         "location": "ALTA MESA DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "WF2201403",
-        "date": "2022-09-28",
-        "time": "8:01:05 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA RD #BLDG 1 ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "NF2210236",
-        "date": "2022-09-28",
-        "time": "7:59:16 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">E63"
     },
     {
         "id": "DF2201684",
@@ -63,17 +63,6 @@
         "location": "500 LOG CABIN RANCH RD ,LAH",
         "latitude": 37.3022646426092,
         "longitude": -122.261695397936,
-        "units": "TAC15 E58"
-    },
-    {
-        "id": "SF2211492",
-        "date": "2022-09-28",
-        "time": "7:48:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "540 S EL CAMINO REAL ,SMO",
-        "latitude": 37.5606230652082,
-        "longitude": -122.323450305662,
-        "units": ">E21"
+        "units": ">TAC15 >E58"
     }
 ]
