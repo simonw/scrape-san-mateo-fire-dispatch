@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2205400",
+        "date": "2022-09-28",
+        "time": "11:34:23 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "636 EL CAMINO REAL ,SSF",
+        "latitude": 37.6494113219722,
+        "longitude": -122.429450213618,
+        "units": ""
+    },
+    {
+        "id": "FF2205399",
+        "date": "2022-09-28",
+        "time": "11:32:55 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "1600 EL CAMINO REAL ,SSF",
+        "latitude": 37.663872266813,
+        "longitude": -122.444587305742,
+        "units": ""
+    },
+    {
         "id": "HF2202252",
         "date": "2022-09-28",
         "time": "11:31:04 AM",
@@ -8,7 +30,7 @@
         "location": "N CABRILLO HWY / CYPRESS AVE",
         "latitude": 37.5244895859816,
         "longitude": -122.510339194346,
-        "units": "BC10 >CM41X5 >TAC45 ?E40 ?E44"
+        "units": ">E40 >TAC45 >E44 >CM41X5 >BC10"
     },
     {
         "id": "NF2210245",
@@ -19,7 +41,7 @@
         "location": "CRESPI DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": ""
     },
     {
         "id": "SF2211502",
@@ -30,84 +52,7 @@
         "location": "LAKESIDE DR #BLDG 368 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "WF2201408",
-        "date": "2022-09-28",
-        "time": "11:26:37 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": "SQ407"
-    },
-    {
-        "id": "MF2207516",
-        "date": "2022-09-28",
-        "time": "11:26:13 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "WILLOW RD / OVER 101",
-        "latitude": 37.4689935449092,
-        "longitude": -122.155233775118,
-        "units": "R77"
-    },
-    {
-        "id": "RF2209785",
-        "date": "2022-09-28",
-        "time": "11:25:24 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VIRGINIA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2210244",
-        "date": "2022-09-28",
-        "time": "11:24:54 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #2E RN STN ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "RF2209784",
-        "date": "2022-09-28",
-        "time": "11:19:46 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GORDON ST #111 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "NF2210243",
-        "date": "2022-09-28",
-        "time": "11:18:44 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST #B121 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2206150",
-        "date": "2022-09-28",
-        "time": "11:12:56 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MARCO POLO WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "MF2207515",
@@ -118,28 +63,6 @@
         "location": "325 SHARON PARK DR ,MNP",
         "latitude": 37.4237778998493,
         "longitude": -122.198044870866,
-        "units": ">TAC15 >T1 >CM11X5 >E4"
-    },
-    {
-        "id": "HF2202251",
-        "date": "2022-09-28",
-        "time": "10:59:16 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ST ,MON",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2206149",
-        "date": "2022-09-28",
-        "time": "10:55:07 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EUCALYPTUS AVE ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
+        "units": ">TAC15 >CM11X5 >E4"
     }
 ]
