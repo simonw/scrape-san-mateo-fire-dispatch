@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2207508",
+        "date": "2022-09-28",
+        "time": "9:31:20 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "98 UNIVERSITY DR ,MNP",
+        "latitude": 37.444055453841,
+        "longitude": -122.175885417881,
+        "units": "E1 T1 E3 ?TAC15 ?CM11X4?BC1 ?E6"
+    },
+    {
+        "id": "BF2203046",
+        "date": "2022-09-28",
+        "time": "9:26:36 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN BENITO AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "FF2205394",
+        "date": "2022-09-28",
+        "time": "9:16:01 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "W ORANGE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "NF2210238",
         "date": "2022-09-28",
         "time": "9:06:36 AM",
@@ -8,73 +41,7 @@
         "location": "OAKLAWN DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "SF2211497",
-        "date": "2022-09-28",
-        "time": "9:03:05 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S ELLSWORTH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2209782",
-        "date": "2022-09-28",
-        "time": "9:02:23 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRITTAN AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "CF2206143",
-        "date": "2022-09-28",
-        "time": "9:01:25 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "1300 BROADWAY ,BRM",
-        "latitude": 37.5855485215125,
-        "longitude": -122.365496309715,
-        "units": "E32"
-    },
-    {
-        "id": "WF2201405",
-        "date": "2022-09-28",
-        "time": "8:57:57 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SB 280/ PAGE MILL OFF RAMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2207507",
-        "date": "2022-09-28",
-        "time": "8:56:38 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T1"
-    },
-    {
-        "id": "CF2206142",
-        "date": "2022-09-28",
-        "time": "8:56:07 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "123 LOMA VISTA DR ,BRM",
-        "latitude": 37.5715485301689,
-        "longitude": -122.395298759482,
-        "units": ""
+        "units": ">E91"
     },
     {
         "id": "SF2211496",
@@ -88,17 +55,6 @@
         "units": ">T21"
     },
     {
-        "id": "RF2209781",
-        "date": "2022-09-28",
-        "time": "8:52:52 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #207 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
         "id": "FF2205393",
         "date": "2022-09-28",
         "time": "8:43:20 AM",
@@ -107,17 +63,6 @@
         "location": "TOWER PL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "FF2205391",
-        "date": "2022-09-28",
-        "time": "8:03:59 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA MESA DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
+        "units": "E65"
     }
 ]
