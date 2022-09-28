@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2206151",
+        "date": "2022-09-28",
+        "time": "12:32:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "SF2211507",
+        "date": "2022-09-28",
+        "time": "12:32:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #105 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "SF2211506",
         "date": "2022-09-28",
         "time": "12:27:48 PM",
@@ -8,7 +30,7 @@
         "location": "W HILLSDALE BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E26"
     },
     {
         "id": "SF2211505",
@@ -19,29 +41,7 @@
         "location": "BEACH PARK BLVD #109 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "RF2209787",
-        "date": "2022-09-28",
-        "time": "12:18:08 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BARNEGAT LN #444 ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "HF2202253",
-        "date": "2022-09-28",
-        "time": "11:58:24 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARINE BLVD #NURSE ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
+        "units": "T23 ?CM21X1 >E28"
     },
     {
         "id": "HF2202252",
@@ -52,6 +52,6 @@
         "location": "N CABRILLO HWY / CYPRESS AVE",
         "latitude": 37.5244895859816,
         "longitude": -122.510339194346,
-        "units": ">BC10"
+        "units": "*>BC10"
     }
 ]
