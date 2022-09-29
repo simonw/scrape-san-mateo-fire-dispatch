@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2211533",
+        "id": "SF2211534",
         "date": "2022-09-29",
-        "time": "8:28:28 AM",
+        "time": "8:45:16 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E25"
+        "category": "Traffic accident pd request c3",
+        "location": "N EL CAMINO REAL / MONTE DIABLO AVE",
+        "latitude": 37.5680987057946,
+        "longitude": -122.331853600291,
+        "units": "BC8 T21 E21 CM21X4 ?TAC25"
+    },
+    {
+        "id": "RF2209832",
+        "date": "2022-09-29",
+        "time": "8:41:52 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "2480 MIDDLEFIELD RD ,NFO",
+        "latitude": 37.4781447718574,
+        "longitude": -122.215420483678,
+        "units": "E10"
+    },
+    {
+        "id": "WF2201416",
+        "date": "2022-09-29",
+        "time": "8:30:55 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "411 LA MESA DR ,LAD",
+        "latitude": 37.4005367719005,
+        "longitude": -122.197061732781,
+        "units": "*>E8"
+    },
+    {
+        "id": "RF2209831",
+        "date": "2022-09-29",
+        "time": "8:29:57 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "552 SHOAL CIR ,RWS",
+        "latitude": 37.5408155700482,
+        "longitude": -122.235232764185,
+        "units": ">E14"
     },
     {
         "id": "RF2209830",
@@ -19,7 +52,7 @@
         "location": "814 WARRINGTON AVE ,NFO",
         "latitude": 37.4821314270374,
         "longitude": -122.205364402555,
-        "units": "BC1 T9 E7 E9 E5E3 ?TAC16 ?CM11X5 ?BC3 ?E11"
+        "units": ">BC1 >PR3E >E9 >T9 TAC16>E3 >E7 >BC3 ?CM11X5 >E11"
     },
     {
         "id": "CF2206171",
@@ -33,50 +66,6 @@
         "units": ">E51"
     },
     {
-        "id": "RF2209829",
-        "date": "2022-09-29",
-        "time": "8:20:39 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TAFT ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2209828",
-        "date": "2022-09-29",
-        "time": "8:19:47 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GUNTER LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "NF2210274",
-        "date": "2022-09-29",
-        "time": "8:14:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "201 SPRINGDALE DR ,PCF",
-        "latitude": 37.6634205467691,
-        "longitude": -122.480412711949,
-        "units": "E64"
-    },
-    {
-        "id": "FF2205411",
-        "date": "2022-09-29",
-        "time": "8:11:43 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DELVIN WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
         "id": "MF2207542",
         "date": "2022-09-29",
         "time": "8:04:59 AM",
@@ -85,17 +74,6 @@
         "location": "NB 101 / NO WILLOW RD",
         "latitude": 37.4775715102468,
         "longitude": -122.169821019453,
-        "units": "CM11X3 ?TAC15 >R77 >T2"
-    },
-    {
-        "id": "MF2207541",
-        "date": "2022-09-29",
-        "time": "7:58:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #BLDG 360B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">R77 >T2"
     }
 ]
