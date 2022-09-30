@@ -1,36 +1,58 @@
 [
     {
-        "id": "RF2209888",
+        "id": "SF2211599",
         "date": "2022-09-30",
-        "time": "4:21:58 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ENSIGN LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "SF2211598",
-        "date": "2022-09-30",
-        "time": "4:15:15 PM",
+        "time": "4:46:59 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "BELMONT WOODS WAY ,BLM",
+        "location": "ROSEWOOD DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
+        "units": "E21"
     },
     {
-        "id": "NF2210318",
+        "id": "LF2200824",
         "date": "2022-09-30",
-        "time": "4:08:52 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "4:43:44 PM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "ESPLANADE AVE #302A ,PCF",
+        "location": "COLLINS AVE #2 ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": "E86"
+    },
+    {
+        "id": "MF2207591",
+        "date": "2022-09-30",
+        "time": "4:39:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "1157 WILLOW RD ,MNP",
+        "latitude": 37.4717912285904,
+        "longitude": -122.155526776265,
+        "units": ">R77 >E77 CM11X4 ?TAC15"
+    },
+    {
+        "id": "MF2207590",
+        "date": "2022-09-30",
+        "time": "4:39:38 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BERKSHIRE AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "RF2209889",
+        "date": "2022-09-30",
+        "time": "4:38:41 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "531 WOODSIDE RD ,RCY",
+        "latitude": 37.4697354901845,
+        "longitude": -122.222991746459,
+        "units": "T9"
     },
     {
         "id": "RF2209887",
@@ -42,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": "CM11X1 >E9 >E10"
-    },
-    {
-        "id": "FF2205444",
-        "date": "2022-09-30",
-        "time": "3:29:36 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DUNDEE DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
     }
 ]
