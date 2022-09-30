@@ -1,14 +1,36 @@
 [
     {
-        "id": "HF2202271",
+        "id": "RF2209874",
         "date": "2022-09-30",
-        "time": "10:34:09 AM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "10:52:29 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "GEORGE ST ,MON",
+        "location": "PARK ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E17"
+        "units": "E3"
+    },
+    {
+        "id": "MF2207580",
+        "date": "2022-09-30",
+        "time": "10:51:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL CT #1206 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "RF2209873",
+        "date": "2022-09-30",
+        "time": "10:50:20 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SPRING ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
     },
     {
         "id": "BF2203072",
@@ -19,73 +41,7 @@
         "location": "NATIONAL AVE #2123 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "SF2211584",
-        "date": "2022-09-30",
-        "time": "10:32:04 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N DELAWARE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "FF2205438",
-        "date": "2022-09-30",
-        "time": "10:29:51 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "W ORANGE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E65"
-    },
-    {
-        "id": "BF2203071",
-        "date": "2022-09-30",
-        "time": "10:28:37 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "850 CHERRY AVE ,SNB",
-        "latitude": 37.6269945030683,
-        "longitude": -122.424171869514,
-        "units": "CM31X4"
-    },
-    {
-        "id": "NF2210305",
-        "date": "2022-09-30",
-        "time": "10:27:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SHARP PARK RD / LUNDY WAY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52 CM31X1"
-    },
-    {
-        "id": "SF2211582",
-        "date": "2022-09-30",
-        "time": "10:20:41 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GARDEN LN ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "FF2205437",
-        "date": "2022-09-30",
-        "time": "10:20:04 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ">E51"
     },
     {
         "id": "DF2201701",
@@ -96,17 +52,6 @@
         "location": "CABRILLO HWY / GRAY WHALE COVE",
         "latitude": 37.5639287891971,
         "longitude": -122.512608029108,
-        "units": ">MED11 >E44 ?TAC45 >T17 CM41X3>BC10 >R40 >E72"
-    },
-    {
-        "id": "DF2201700",
-        "date": "2022-09-30",
-        "time": "8:00:41 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLOVERDALE RD ,PES",
-        "latitude": null,
-        "longitude": null,
-        "units": ">TO11"
+        "units": ">TAC45 >T17 >CM41X3 >BC10 >R40"
     }
 ]
