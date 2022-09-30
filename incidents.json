@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2210307",
+        "date": "2022-09-30",
+        "time": "11:27:14 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ORIENTE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "CF2206204",
+        "date": "2022-09-30",
+        "time": "11:22:46 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BAYBERRY PL ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
+    },
+    {
+        "id": "RF2209877",
+        "date": "2022-09-30",
+        "time": "11:21:52 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "201 FAIRMONT AVE ,SNC",
+        "latitude": 37.4895192867291,
+        "longitude": -122.254678001871,
+        "units": "E9"
+    },
+    {
+        "id": "MF2207582",
+        "date": "2022-09-30",
+        "time": "11:19:25 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1677 WOODLAND AVE ,EPA",
+        "latitude": 37.4562338597475,
+        "longitude": -122.139606943236,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2211585",
+        "date": "2022-09-30",
+        "time": "11:13:30 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GEORGETOWN AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "NF2210306",
         "date": "2022-09-30",
         "time": "11:07:47 AM",
@@ -8,7 +63,7 @@
         "location": "SKYLINE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "BF2203073",
@@ -33,28 +88,6 @@
         "units": ">E12"
     },
     {
-        "id": "DF2201703",
-        "date": "2022-09-30",
-        "time": "10:58:15 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "WURR RD / PESCADERO CREEK RD",
-        "latitude": 37.2767620251854,
-        "longitude": -122.287422514422,
-        "units": "E1799 ?TAC16 E59 E655"
-    },
-    {
-        "id": "MF2207581",
-        "date": "2022-09-30",
-        "time": "10:55:45 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD #7 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
         "id": "WF2201423",
         "date": "2022-09-30",
         "time": "10:54:49 AM",
@@ -63,40 +96,7 @@
         "location": "MORSE LN ,SKY",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X4 >E58 TAC15"
-    },
-    {
-        "id": "RF2209874",
-        "date": "2022-09-30",
-        "time": "10:52:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PARK ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "MF2207580",
-        "date": "2022-09-30",
-        "time": "10:51:33 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL CT #1206 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "RF2209873",
-        "date": "2022-09-30",
-        "time": "10:50:20 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SPRING ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
+        "units": "*>E58"
     },
     {
         "id": "DF2201701",
@@ -107,6 +107,6 @@
         "location": "CABRILLO HWY / GRAY WHALE COVE",
         "latitude": 37.5639287891971,
         "longitude": -122.512608029108,
-        "units": "E40 >TAC45 >T17 >CM41X3 >BC10>R40"
+        "units": ">E40 >TAC45 >T17 >CM41X3 >BC10>R40"
     }
 ]
