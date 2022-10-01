@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2209916",
+        "date": "2022-10-01",
+        "time": "12:23:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "205 REDWOOD SHORES PKWY ,RWS",
+        "latitude": 37.5230003631162,
+        "longitude": -122.253283135579,
+        "units": "E20"
+    },
+    {
+        "id": "CF2206234",
+        "date": "2022-10-01",
+        "time": "12:13:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
         "id": "SF2211632",
         "date": "2022-10-01",
         "time": "12:04:08 PM",
@@ -8,7 +30,7 @@
         "location": "FOSTER CITY BLVD #4408 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E29"
     },
     {
         "id": "NF2210361",
@@ -19,7 +41,7 @@
         "location": "PALMCREST DR / SOUTHGATE AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": ">E95"
     },
     {
         "id": "MF2207618",
@@ -30,7 +52,7 @@
         "location": "NB 101 / SO MARSH RD",
         "latitude": 37.4775715102468,
         "longitude": -122.169821019453,
-        "units": "E5 E77 R77 CM11X4 ?TAC15"
+        "units": "CM11X4 ?TAC15 >R77 >E77 >E5"
     },
     {
         "id": "FF2205456",
@@ -41,6 +63,6 @@
         "location": "NB 101 / SO S AIRPORT BLVD",
         "latitude": 37.6433298173213,
         "longitude": -122.406001905655,
-        "units": "CM31X5 E51 ?TAC35 >BC16 T51E61"
+        "units": ">BC16 >T51"
     }
 ]
