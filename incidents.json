@@ -1,5 +1,82 @@
 [
     {
+        "id": "FF2205466",
+        "date": "2022-10-01",
+        "time": "4:04:37 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LITTLEFIELD AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?Q62"
+    },
+    {
+        "id": "NF2210371",
+        "date": "2022-10-01",
+        "time": "4:03:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALE ST #53 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "RF2209925",
+        "date": "2022-10-01",
+        "time": "4:02:11 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "119 DARTMOUTH AVE ,SNC",
+        "latitude": 37.5087926069049,
+        "longitude": -122.275820935914,
+        "units": "E20"
+    },
+    {
+        "id": "RF2209924",
+        "date": "2022-10-01",
+        "time": "3:59:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BUCKLAND AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "FF2205465",
+        "date": "2022-10-01",
+        "time": "3:57:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Odor investigation",
+        "location": "1252 BIRCH AVE ,SSF",
+        "latitude": 37.6684017645124,
+        "longitude": -122.435102234799,
+        "units": ">E65"
+    },
+    {
+        "id": "BF2203088",
+        "date": "2022-10-01",
+        "time": "3:56:22 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "434 SAN MATEO AVE ,SNB",
+        "latitude": 37.6223232255254,
+        "longitude": -122.410775543536,
+        "units": ">E51"
+    },
+    {
+        "id": "CF2206240",
+        "date": "2022-10-01",
+        "time": "3:52:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OCCIDENTAL AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
+    },
+    {
         "id": "MF2207625",
         "date": "2022-10-01",
         "time": "3:46:44 PM",
@@ -8,40 +85,18 @@
         "location": "E BAYSHORE RD #1201 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
+        "units": ">E2"
     },
     {
         "id": "RF2209922",
         "date": "2022-10-01",
         "time": "3:38:56 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Structure fire",
+        "category": "Structure fire - working",
         "location": "140 NORTHAM AVE ,SNC",
         "latitude": 37.5087926069049,
         "longitude": -122.275820935914,
-        "units": ">E13 E16 BC3 T9 CM11X1E26 BC5 E14 E15 ?TAC15"
-    },
-    {
-        "id": "CF2206239",
-        "date": "2022-10-01",
-        "time": "3:38:46 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "1415 FLORIBUNDA AVE ,BRM",
-        "latitude": 37.5797830608516,
-        "longitude": -122.351742371616,
-        "units": ">T34"
-    },
-    {
-        "id": "FF2205464",
-        "date": "2022-10-01",
-        "time": "3:37:20 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BRUSCO WAY #1 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": ">BC5 CM11X1 ?TAC15 >T9 >E13>E15 >BC3 >E14 >E26 >E16"
     },
     {
         "id": "RF2209920",
@@ -63,6 +118,6 @@
         "location": "EL CAMINO REAL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": ""
     }
 ]
