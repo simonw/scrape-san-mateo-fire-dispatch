@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2210402",
+        "id": "RF2209938",
         "date": "2022-10-02",
-        "time": "9:56:40 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "10:24:10 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "801 AMERICAN ST ,SNC",
+        "latitude": 37.5018105411026,
+        "longitude": -122.24332382227,
+        "units": "E13"
+    },
+    {
+        "id": "BF2203099",
+        "date": "2022-10-02",
+        "time": "10:18:09 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "400 SAN MATEO AVE ,SNB",
+        "latitude": 37.6217547808156,
+        "longitude": -122.410933627338,
+        "units": ">E51"
+    },
+    {
+        "id": "CF2206257",
+        "date": "2022-10-02",
+        "time": "10:18:07 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "ESCUELA DR ,DCY",
+        "location": "LIBRARY AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
+        "units": ">E37"
+    },
+    {
+        "id": "SF2211660",
+        "date": "2022-10-02",
+        "time": "10:16:46 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W SANTA INEZ AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "FF2205477",
@@ -19,28 +52,6 @@
         "location": "CROFTON WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "NF2210401",
-        "date": "2022-10-02",
-        "time": "9:41:03 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SCHWERIN ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">BC20 >TAC35 >E93 >CM31X3"
-    },
-    {
-        "id": "SF2211658",
-        "date": "2022-10-02",
-        "time": "9:28:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "3217 GLENDORA DR #7 ,SMO",
-        "latitude": 37.5323937132883,
-        "longitude": -122.326036419159,
-        "units": "CM21X1 >E25 ?TAC25 >BC11 >T23"
+        "units": "E64"
     }
 ]
