@@ -1,36 +1,80 @@
 [
     {
-        "id": "MF2207691",
+        "id": "NF2210450",
         "date": "2022-10-03",
-        "time": "1:05:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "1:27:55 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "UNIVERSITY AVE ,EPA",
+        "location": "MISSION ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
+        "units": "E92"
     },
     {
-        "id": "BF2203115",
+        "id": "NF2210449",
         "date": "2022-10-03",
-        "time": "1:00:33 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "130 CAMBRIDGE LN ,SNB",
-        "latitude": 37.6139813288029,
-        "longitude": -122.436101249531,
+        "time": "1:22:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "1200 SIERRA POINT PKWY ,BRS",
+        "latitude": 37.6739158954726,
+        "longitude": -122.384069715722,
+        "units": ">E81"
+    },
+    {
+        "id": "HF2202291",
+        "date": "2022-10-03",
+        "time": "1:16:15 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN BENITO ST ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "MF2207693",
+        "date": "2022-10-03",
+        "time": "1:15:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1846 W BAYSHORE RD #6 ,EPA",
+        "latitude": 37.4548262443947,
+        "longitude": -122.132402205711,
+        "units": ">T2"
+    },
+    {
+        "id": "RF2209967",
+        "date": "2022-10-03",
+        "time": "1:09:13 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NORTHAM AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "DF2201723",
+        "date": "2022-10-03",
+        "time": "1:07:37 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MORELAND DR ,SON",
+        "latitude": null,
+        "longitude": null,
         "units": ">E52"
     },
     {
-        "id": "MF2207690",
+        "id": "MF2207692",
         "date": "2022-10-03",
-        "time": "12:59:03 PM",
+        "time": "1:06:47 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "1535 ALTSCHUL AVE ,WMP",
-        "latitude": 37.432674868828,
-        "longitude": -122.208660506506,
-        "units": "CM11X3 ?TAC15 T1 E1 >E4"
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
     },
     {
         "id": "DF2201722",
@@ -41,51 +85,7 @@
         "location": "SAN GREGORIO BEACH RD ,SNG",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 ?CO57 E59"
-    },
-    {
-        "id": "BF2203114",
-        "date": "2022-10-03",
-        "time": "12:56:08 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN ANTONIO AVE / SAN BENITO AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "FF2205502",
-        "date": "2022-10-03",
-        "time": "12:53:17 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "RF2209965",
-        "date": "2022-10-03",
-        "time": "12:26:43 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RUBY AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">CM11X1 >E13"
-    },
-    {
-        "id": "WF2201442",
-        "date": "2022-10-03",
-        "time": "12:18:17 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OLD SPANISH TRL ,LTW",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E59"
     },
     {
         "id": "NF2210444",
@@ -96,6 +96,6 @@
         "location": "452 IRVINGTON ST ,DCY",
         "latitude": 37.705865333746,
         "longitude": -122.459826841702,
-        "units": "CM31X5 >BC20 >E92 >E94 >BC122?TAC35 >PR20 >PR20C >T95 >E91"
+        "units": "CM31X5 >BC20 >BC122 ?TAC35 >PR20>PR20C >T95 >E95"
     }
 ]
