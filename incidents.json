@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2203191",
+        "date": "2022-10-09",
+        "time": "10:31:28 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T51"
+    },
+    {
+        "id": "SF2211962",
+        "date": "2022-10-09",
+        "time": "10:21:43 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2210675",
+        "date": "2022-10-09",
+        "time": "10:08:24 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Cliff rescue",
+        "location": "1 MORI POINT RD ,PCF",
+        "latitude": 37.6191752920208,
+        "longitude": -122.4865533702,
+        "units": ">ERV95 >T95 >BC120 >E72 R95CM31X1 ?TAC35"
+    },
+    {
         "id": "SF2211961",
         "date": "2022-10-09",
         "time": "10:07:51 AM",
@@ -8,7 +41,7 @@
         "location": "ALAMEDA DE LAS PULGAS #302 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "SF2211959",
@@ -30,18 +63,7 @@
         "location": "MARINE BLVD #306C ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "CF2206401",
-        "date": "2022-10-09",
-        "time": "9:51:47 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR #221 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ""
     },
     {
         "id": "NF2210674",
@@ -55,28 +77,6 @@
         "units": ""
     },
     {
-        "id": "SF2211958",
-        "date": "2022-10-09",
-        "time": "9:49:02 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1540 RALSTON AVE ,BLM",
-        "latitude": 37.5153312893091,
-        "longitude": -122.286625759087,
-        "units": ""
-    },
-    {
-        "id": "SF2211957",
-        "date": "2022-10-09",
-        "time": "9:40:39 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 39TH AVE #3 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
-    },
-    {
         "id": "NF2210673",
         "date": "2022-10-09",
         "time": "9:39:03 AM",
@@ -85,7 +85,7 @@
         "location": "AVALON DR / NORTHRIDGE DR",
         "latitude": 37.6804325853188,
         "longitude": -122.491493957629,
-        "units": "?VFIR23 CM31X5 >E92 >E91 >BC120>E95"
+        "units": "?VFIR23 CM31X5 >E92 >E95"
     },
     {
         "id": "MF2207717",
