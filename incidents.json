@@ -1,5 +1,49 @@
 [
     {
+        "id": "DF2201771",
+        "date": "2022-10-12",
+        "time": "2:44:51 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RAINBOW DR ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "MF2207956",
+        "date": "2022-10-12",
+        "time": "2:40:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "EB 84 / UNIVERSITY AVE",
+        "latitude": 37.48645840738,
+        "longitude": -122.142501801018,
+        "units": ">BC101 >E77 >T2 R77 >CM11X3>TAC15"
+    },
+    {
+        "id": "SF2212116",
+        "date": "2022-10-12",
+        "time": "2:38:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "120 FRANKLIN PKWY ,SMO",
+        "latitude": 37.5402907872064,
+        "longitude": -122.29683850972,
+        "units": "E23"
+    },
+    {
+        "id": "CF2206469",
+        "date": "2022-10-12",
+        "time": "2:37:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Lock out - vehicle",
+        "location": "855 BROADWAY ,MLB",
+        "latitude": 37.6034682525234,
+        "longitude": -122.395990543396,
+        "units": ">E38"
+    },
+    {
         "id": "CF2206468",
         "date": "2022-10-12",
         "time": "2:28:10 PM",
@@ -8,7 +52,7 @@
         "location": "RHINETTE AVE #206 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "MF2207954",
@@ -41,7 +85,7 @@
         "location": "BERKSHIRE AVE #2 ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": ">E5"
+        "units": ""
     },
     {
         "id": "BF2203230",
@@ -55,39 +99,6 @@
         "units": ">E52"
     },
     {
-        "id": "FF2205662",
-        "date": "2022-10-12",
-        "time": "2:17:04 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALLERTON AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "SF2212114",
-        "date": "2022-10-12",
-        "time": "2:10:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "425 BARNESON AVE ,SMO",
-        "latitude": 37.5496567011289,
-        "longitude": -122.321360225435,
-        "units": ">E25"
-    },
-    {
-        "id": "CF2206467",
-        "date": "2022-10-12",
-        "time": "2:08:36 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SFO OFF RAMP",
-        "latitude": 37.6060985670998,
-        "longitude": -122.38564732168,
-        "units": ">E32 CM21X4 >T34 ?TAC25"
-    },
-    {
         "id": "LF2200862",
         "date": "2022-10-12",
         "time": "1:49:26 PM",
@@ -96,6 +107,6 @@
         "location": "1535 SULLIVAN AVE #8 ,BRD",
         "latitude": 37.6890880271325,
         "longitude": -122.471929080335,
-        "units": ">PR19 E85 ?TAC35 >E92 >CM31X1>E86 >E285 >PR20 >T85"
+        "units": ">PR19 E85 ?TAC35 >CM31X1 >E86>E285 >PR20 >T85"
     }
 ]
