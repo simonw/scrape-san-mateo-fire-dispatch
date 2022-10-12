@@ -1,14 +1,102 @@
 [
     {
-        "id": "RF2210279",
+        "id": "LF2200861",
         "date": "2022-10-12",
-        "time": "9:57:58 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:22:33 AM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL #LOBBY ,RCY",
+        "location": "D ST ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E3"
+        "units": "?E86"
+    },
+    {
+        "id": "CF2206460",
+        "date": "2022-10-12",
+        "time": "10:11:51 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "1321 PALOMA AVE ,BRM",
+        "latitude": 37.5872723256421,
+        "longitude": -122.368518499286,
+        "units": ""
+    },
+    {
+        "id": "RF2210282",
+        "date": "2022-10-12",
+        "time": "10:11:16 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "SF2212096",
+        "date": "2022-10-12",
+        "time": "10:10:01 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "F ST #312 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "SF2212094",
+        "date": "2022-10-12",
+        "time": "10:07:58 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "MF2207946",
+        "date": "2022-10-12",
+        "time": "10:07:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PULGAS AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "WF2201489",
+        "date": "2022-10-12",
+        "time": "10:06:12 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Active assailant - fire",
+        "location": "199 CHURCHILL AVE ,WSB",
+        "latitude": 37.4447609637611,
+        "longitude": -122.232850573059,
+        "units": ">BC1 >E9 >CM11X2 >T9 >TAC16>E7 >BC2 >E11 >SQ407 >E19"
+    },
+    {
+        "id": "RF2210281",
+        "date": "2022-10-12",
+        "time": "10:02:40 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "3732 RED OAK WAY ,RCY",
+        "latitude": 37.4597756212287,
+        "longitude": -122.255039675937,
+        "units": ">E12"
+    },
+    {
+        "id": "BF2203228",
+        "date": "2022-10-12",
+        "time": "9:59:39 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTWOOD DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "FF2205656",
@@ -19,40 +107,7 @@
         "location": "400 B ST ,SSF",
         "latitude": 37.6478816196094,
         "longitude": -122.426577629477,
-        "units": "E51 E65 BC121 BC17 E63E61 E64 T51 Q62 ?TAC35"
-    },
-    {
-        "id": "SF2212092",
-        "date": "2022-10-12",
-        "time": "9:55:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VILLA TE #A ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "CF2206459",
-        "date": "2022-10-12",
-        "time": "9:48:42 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MINORCA WAY ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "BF2203227",
-        "date": "2022-10-12",
-        "time": "9:42:59 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #2417 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">BC17 >Q62 >E65 >E63 >E51>TAC35 >BC121 >E61 >T51 >E64"
     },
     {
         "id": "MF2207945",
@@ -63,6 +118,6 @@
         "location": "NEWELL CT #1109 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">CM11X4 >E2 >T2"
+        "units": ">CM11X4 E2"
     }
 ]
