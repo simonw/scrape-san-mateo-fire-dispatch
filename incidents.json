@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2210803",
+        "id": "CF2206473",
         "date": "2022-10-12",
-        "time": "4:31:53 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "4:46:10 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "BERNI CT / SAN ANSELMO AVE",
+        "latitude": 37.6110261447185,
+        "longitude": -122.400015921413,
+        "units": "E51 BC16 T34 ?TAC25 ?CM21X3"
+    },
+    {
+        "id": "FF2205664",
+        "date": "2022-10-12",
+        "time": "4:41:04 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Traffic accident pd request c3",
-        "location": "HICKEY BLVD / GATEWAY DR",
-        "latitude": 37.6597145720087,
-        "longitude": -122.477978224677,
-        "units": "?TAC35 ?CM31X2 ?BC121 ?E94 ?T95"
+        "location": "S SPRUCE AVE / EL CAMINO REAL",
+        "latitude": 37.6426568632403,
+        "longitude": -122.425067444391,
+        "units": ">T51 >E61 >BC17 >CM31X3 ?TAC36"
+    },
+    {
+        "id": "SF2212121",
+        "date": "2022-10-12",
+        "time": "4:40:39 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOUNTY DR #7001 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "MF2207959",
+        "date": "2022-10-12",
+        "time": "4:32:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALPARAISO AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
     },
     {
         "id": "FF2205663",
@@ -19,50 +52,6 @@
         "location": "NYLA AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "NF2210802",
-        "date": "2022-10-12",
-        "time": "4:13:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GRAYSTONE LN ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "DF2201772",
-        "date": "2022-10-12",
-        "time": "4:12:57 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DUGGAN CT ,PAL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "SF2212120",
-        "date": "2022-10-12",
-        "time": "4:09:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N CLAREMONT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "CF2206471",
-        "date": "2022-10-12",
-        "time": "3:41:51 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1200 BURLINGAME AVE ,BRM",
-        "latitude": 37.5793112502615,
-        "longitude": -122.346460147222,
-        "units": "CM21X1 >T34 >E34"
+        "units": ""
     }
 ]
