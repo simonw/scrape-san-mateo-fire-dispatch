@@ -1,36 +1,58 @@
 [
     {
-        "id": "NF2210835",
+        "id": "SF2212167",
         "date": "2022-10-13",
-        "time": "2:41:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "689 LADERA WAY ,PCF",
-        "latitude": 37.596590952004,
-        "longitude": -122.495538202281,
-        "units": ""
+        "time": "3:00:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "600 36TH AVE ,SMO",
+        "latitude": 37.5303632175501,
+        "longitude": -122.309199190809,
+        "units": "E23"
     },
     {
-        "id": "RF2210333",
+        "id": "CF2206493",
         "date": "2022-10-13",
-        "time": "2:39:03 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "2:58:33 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "JOHNSON ST ,RCY",
+        "location": "BURLINGAME AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">T9"
+        "units": ">E34"
     },
     {
-        "id": "BF2203244",
+        "id": "NF2210836",
         "date": "2022-10-13",
-        "time": "2:34:32 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "757 EASTON AVE #1 ,SNB",
-        "latitude": 37.6286347463066,
-        "longitude": -122.414049528838,
-        "units": ">E51 ?TAC35 >BC16 >T51 CM31X3"
+        "time": "2:55:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CAMELOT CT ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2212165",
+        "date": "2022-10-13",
+        "time": "2:49:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S CLAREMONT ST / E 3RD AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
+        "id": "DF2201776",
+        "date": "2022-10-13",
+        "time": "2:46:39 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SAN MATEO RD / SKYLINE UPPER",
+        "latitude": 37.4955750561378,
+        "longitude": -122.368892307841,
+        "units": "?TAC15 >E17 ?CM11X2 >PR11A >BC11>T23"
     },
     {
         "id": "CF2206492",
@@ -41,7 +63,7 @@
         "location": "1256 CORTEZ AVE ,BRM",
         "latitude": 37.5841634186547,
         "longitude": -122.369341403006,
-        "units": "CM21X1 T34 >E35"
+        "units": "CM21X1 >T34 >E35"
     },
     {
         "id": "SF2212163",
@@ -53,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E25"
-    },
-    {
-        "id": "RF2210332",
-        "date": "2022-10-13",
-        "time": "2:32:03 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY #BLDG D ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "FF2205681",
-        "date": "2022-10-13",
-        "time": "2:31:37 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "700 GATEWAY BLVD ,SSF",
-        "latitude": 37.6588828286683,
-        "longitude": -122.396155539984,
-        "units": ">Q62"
-    },
-    {
-        "id": "MF2207985",
-        "date": "2022-10-13",
-        "time": "2:16:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FORDHAM ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
     }
 ]
