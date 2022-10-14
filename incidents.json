@@ -1,14 +1,91 @@
 [
     {
+        "id": "NF2210840",
+        "date": "2022-10-13",
+        "time": "6:07:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HIGATE DR / PORTOLA AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E95"
+    },
+    {
+        "id": "FF2205686",
+        "date": "2022-10-13",
+        "time": "6:05:36 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHCLIFF AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "MF2207995",
+        "date": "2022-10-13",
+        "time": "6:04:54 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "INYO PL ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "SF2212173",
+        "date": "2022-10-13",
+        "time": "6:04:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #C222 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "FF2205685",
+        "date": "2022-10-13",
+        "time": "6:00:39 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "100 MCLELLAN DR ,SSF",
+        "latitude": 37.6644534355834,
+        "longitude": -122.445490576834,
+        "units": ">E63"
+    },
+    {
+        "id": "FF2205684",
+        "date": "2022-10-13",
+        "time": "5:59:41 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "NURSERY WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "NF2210839",
+        "date": "2022-10-13",
+        "time": "5:56:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE BLVD #HI ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "DF2201778",
         "date": "2022-10-13",
         "time": "5:34:53 PM",
         "summary": "County Fire on Control-1",
-        "category": "Landscape fire",
+        "category": "Grass fire",
         "location": "SAN MATEO RD / EO SKYLINE BLVD",
         "latitude": 37.4961980037225,
         "longitude": -122.363226114908,
-        "units": "?E27"
+        "units": "?VFIR23 E1771 >CM11X5"
     },
     {
         "id": "NF2210838",
@@ -19,7 +96,7 @@
         "location": "MANOR DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "?E71"
+        "units": "*>E71"
     },
     {
         "id": "MF2207994",
@@ -30,29 +107,7 @@
         "location": "COOLEY AVE #30 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "DF2201777",
-        "date": "2022-10-13",
-        "time": "5:29:43 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "285 SYLVAN WAY ,EML",
-        "latitude": 37.4674976068364,
-        "longitude": -122.274386257094,
-        "units": "E12"
-    },
-    {
-        "id": "MF2207990",
-        "date": "2022-10-13",
-        "time": "5:29:37 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Landscape fire",
-        "location": "EL CAMINO REAL / 5TH AVE",
-        "latitude": 37.4671874030112,
-        "longitude": -122.209013468662,
-        "units": ">E3"
+        "units": ">E2"
     },
     {
         "id": "MF2207989",
@@ -64,16 +119,5 @@
         "latitude": 37.4667688603332,
         "longitude": -122.155797827107,
         "units": ">E1"
-    },
-    {
-        "id": "SF2212172",
-        "date": "2022-10-13",
-        "time": "5:09:53 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S HUMBOLDT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
     }
 ]
