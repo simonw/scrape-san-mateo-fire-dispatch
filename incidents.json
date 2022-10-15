@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2208050",
+        "id": "HF2202398",
         "date": "2022-10-15",
-        "time": "11:27:34 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:38:24 AM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "COOLEY AVE #204 ,EPA",
+        "location": "N CABRILLO HWY #B2 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ">E40"
+    },
+    {
+        "id": "FF2205718",
+        "date": "2022-10-15",
+        "time": "11:34:59 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Odor investigation",
+        "location": "408 MILLER AVE ,SSF",
+        "latitude": 37.6570464443378,
+        "longitude": -122.41254157508,
+        "units": ">Q62"
     },
     {
         "id": "HF2202397",
@@ -30,18 +41,7 @@
         "location": "KENWOOD WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "SF2212244",
-        "date": "2022-10-15",
-        "time": "11:18:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
+        "units": "E61"
     },
     {
         "id": "HF2202396",
@@ -53,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">CM41X2 >E41"
-    },
-    {
-        "id": "SF2212243",
-        "date": "2022-10-15",
-        "time": "11:11:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CABOT LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
     }
 ]
