@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2208072",
+        "id": "RF2210425",
         "date": "2022-10-15",
-        "time": "10:54:40 PM",
+        "time": "11:04:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "BROADWAY / WINSLOW ST",
+        "latitude": 37.4864031461193,
+        "longitude": -122.231064024222,
+        "units": ">T9 >E9 >BC3 TAC15 ?CM11X4"
+    },
+    {
+        "id": "MF2208073",
+        "date": "2022-10-15",
+        "time": "11:01:48 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "W BAYSHORE RD #53 ,EPA",
+        "location": "MENALTO AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
+        "units": ">E2"
+    },
+    {
+        "id": "CF2206555",
+        "date": "2022-10-15",
+        "time": "10:57:55 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #218 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
     },
     {
         "id": "CF2206554",
@@ -19,7 +41,7 @@
         "location": "GARDEN DR #105 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "CF2206553",
@@ -31,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "RF2210424",
-        "date": "2022-10-15",
-        "time": "10:38:59 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOOVER ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
