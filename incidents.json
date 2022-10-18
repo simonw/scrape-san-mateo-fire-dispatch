@@ -1,5 +1,104 @@
 [
     {
+        "id": "MF2208139",
+        "date": "2022-10-18",
+        "time": "2:27:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1000 EL CAMINO REAL ,ATN",
+        "latitude": 37.4560770363324,
+        "longitude": -122.192078155915,
+        "units": "E77 E1 E3 CM11X1 ?TAC15?BC1 ?T1"
+    },
+    {
+        "id": "LF2200888",
+        "date": "2022-10-18",
+        "time": "2:25:40 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "COLMA BLVD ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "NF2211025",
+        "date": "2022-10-18",
+        "time": "2:25:32 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WOODROW ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "NF2211024",
+        "date": "2022-10-18",
+        "time": "2:23:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINCOLN AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
+    },
+    {
+        "id": "NF2211023",
+        "date": "2022-10-18",
+        "time": "2:22:57 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "SF2212373",
+        "date": "2022-10-18",
+        "time": "2:18:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "800 N HUMBOLDT ST ,SMO",
+        "latitude": 37.5815847183301,
+        "longitude": -122.328419615837,
+        "units": ">E34"
+    },
+    {
+        "id": "FF2205805",
+        "date": "2022-10-18",
+        "time": "2:16:16 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "BF2203309",
+        "date": "2022-10-18",
+        "time": "2:10:34 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JENEVEIN AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "CF2206609",
+        "date": "2022-10-18",
+        "time": "2:09:44 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DEXTER PL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "SF2212372",
         "date": "2022-10-18",
         "time": "2:04:45 PM",
@@ -8,18 +107,7 @@
         "location": "MAPLE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E21"
-    },
-    {
-        "id": "BF2203308",
-        "date": "2022-10-18",
-        "time": "2:01:47 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN BENITO AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ""
     },
     {
         "id": "RF2210513",
@@ -30,7 +118,7 @@
         "location": "LOWELL ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "SF2212371",
@@ -41,6 +129,6 @@
         "location": "S EL CAMINO REAL #251 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
+        "units": ""
     }
 ]
