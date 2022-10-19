@@ -1,25 +1,69 @@
 [
     {
-        "id": "MF2208183",
+        "id": "CF2206637",
         "date": "2022-10-19",
-        "time": "3:02:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHILCO ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "time": "3:28:31 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "1215 BAYSWATER AVE ,BRM",
+        "latitude": 37.5760637637998,
+        "longitude": -122.343521888605,
+        "units": "E34"
     },
     {
-        "id": "WF2201522",
+        "id": "BF2203324",
         "date": "2022-10-19",
-        "time": "2:52:02 PM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "3:28:21 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "ALPINE RD #2 ,LAD",
+        "location": "COMMODORE DR #405 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E8"
+        "units": ">E51"
+    },
+    {
+        "id": "NF2211063",
+        "date": "2022-10-19",
+        "time": "3:27:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "WATERFORD ST / MONTEREY RD",
+        "latitude": 37.6517754941078,
+        "longitude": -122.489075354909,
+        "units": ">E71 TAC35 ?CM31X3"
+    },
+    {
+        "id": "HF2202451",
+        "date": "2022-10-19",
+        "time": "3:23:32 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN MATEO RD ,SON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "BF2203322",
+        "date": "2022-10-19",
+        "time": "3:07:35 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "1801 CRYSTAL SPRINGS RD ,SNB",
+        "latitude": 37.6127814187686,
+        "longitude": -122.420990155045,
+        "units": ""
+    },
+    {
+        "id": "MF2208184",
+        "date": "2022-10-19",
+        "time": "3:02:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1 FACEBOOK WAY ,MNP",
+        "latitude": 37.4813461746428,
+        "longitude": -122.155628599949,
+        "units": ">E77"
     },
     {
         "id": "SF2212427",
@@ -28,17 +72,6 @@
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
         "location": "TRAIN TRACK ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "BF2203321",
-        "date": "2022-10-19",
-        "time": "2:41:56 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLEGE DR ,SNB",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -52,18 +85,7 @@
         "location": "EL CAMINO REAL #200 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "MF2208176",
-        "date": "2022-10-19",
-        "time": "2:35:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "545 MIDDLEFIELD RD ,MNP",
-        "latitude": 37.4584288657089,
-        "longitude": -122.172879675451,
-        "units": ">E4"
+        "units": ""
     },
     {
         "id": "SF2212418",
@@ -74,6 +96,6 @@
         "location": "2701 HACIENDA ST ,SMO",
         "latitude": 37.5406292929185,
         "longitude": -122.307544219975,
-        "units": ">BC5 >E23 >CM21X1 >E25 >TAC25HM31 >HM14 >T23"
+        "units": ">BC5 >E23 >CM21X1 >E25 >TAC25>HM31 >HM14"
     }
 ]
