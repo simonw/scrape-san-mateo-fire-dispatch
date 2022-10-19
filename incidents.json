@@ -1,14 +1,146 @@
 [
     {
-        "id": "NF2211062",
+        "id": "MF2208181",
         "date": "2022-10-19",
-        "time": "2:25:07 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "2:42:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Unspecified fire incident",
+        "location": "535 MIDDLEFIELD RD ,MNP",
+        "latitude": 37.4584288657089,
+        "longitude": -122.172879675451,
+        "units": "PR1A"
+    },
+    {
+        "id": "BF2203321",
+        "date": "2022-10-19",
+        "time": "2:41:56 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "ESPLANADE AVE #4 ,PCF",
+        "location": "COLLEGE DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
+        "units": ">E52 ?E64"
+    },
+    {
+        "id": "CF2206636",
+        "date": "2022-10-19",
+        "time": "2:39:54 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #200 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "LF2200890",
+        "date": "2022-10-19",
+        "time": "2:39:03 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "5001 JUNIPERO SERRA BLVD ,CLM",
+        "latitude": 37.6732793063756,
+        "longitude": -122.464687826434,
+        "units": "?TAC35 >E86 CM31X4 T85"
+    },
+    {
+        "id": "MF2208180",
+        "date": "2022-10-19",
+        "time": "2:38:42 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1555 ADAMS DR ,MNP",
+        "latitude": 37.4779747411462,
+        "longitude": -122.141025884284,
+        "units": "BC101"
+    },
+    {
+        "id": "MF2208179",
+        "date": "2022-10-19",
+        "time": "2:38:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1005 HAMILTON CT ,MNP",
+        "latitude": 37.4795754968113,
+        "longitude": -122.148133897842,
+        "units": "E77"
+    },
+    {
+        "id": "SF2212426",
+        "date": "2022-10-19",
+        "time": "2:37:30 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLYING FISH ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "MF2208175",
+        "date": "2022-10-19",
+        "time": "2:35:52 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GONZAGA ST / PURDUE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">R77 >T2"
+    },
+    {
+        "id": "MF2208176",
+        "date": "2022-10-19",
+        "time": "2:35:26 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "545 MIDDLEFIELD RD ,MNP",
+        "latitude": 37.4584288657089,
+        "longitude": -122.172879675451,
+        "units": ">E4"
+    },
+    {
+        "id": "MF2208173",
+        "date": "2022-10-19",
+        "time": "2:34:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "795 WILLOW RD ,MNP",
+        "latitude": 37.4663546046411,
+        "longitude": -122.160234197566,
+        "units": ">BC1 >T1 CM11X1 ?TAC15 >E6E11 >E5"
+    },
+    {
+        "id": "MF2208172",
+        "date": "2022-10-19",
+        "time": "2:33:54 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1 HACKER WAY ,MNP",
+        "latitude": 37.4836117468064,
+        "longitude": -122.148447159494,
+        "units": ">E2"
+    },
+    {
+        "id": "HF2202450",
+        "date": "2022-10-19",
+        "time": "2:33:31 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "210 SAN MATEO RD ,HMB",
+        "latitude": 37.4684484655666,
+        "longitude": -122.429848725999,
+        "units": ">E40"
+    },
+    {
+        "id": "RF2210562",
+        "date": "2022-10-19",
+        "time": "2:28:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "438 CEDAR ST ,RCY",
+        "latitude": 37.4821858393602,
+        "longitude": -122.222338400968,
+        "units": ">E9"
     },
     {
         "id": "BF2203320",
@@ -19,7 +151,7 @@
         "location": "FLEETWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52 CM31X1 >CH16"
+        "units": ""
     },
     {
         "id": "SF2212425",
@@ -30,40 +162,7 @@
         "location": "MIRAMAR #106 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "RF2210561",
-        "date": "2022-10-19",
-        "time": "2:12:05 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #1253 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "NF2211061",
-        "date": "2022-10-19",
-        "time": "2:11:43 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BARCELONA DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E72"
-    },
-    {
-        "id": "SF2212422",
-        "date": "2022-10-19",
-        "time": "2:08:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ""
     },
     {
         "id": "BF2203319",
