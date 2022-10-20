@@ -1,5 +1,16 @@
 [
     {
+        "id": "RF2210593",
+        "date": "2022-10-20",
+        "time": "3:00:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
         "id": "CF2206662",
         "date": "2022-10-20",
         "time": "2:46:05 PM",
@@ -8,7 +19,7 @@
         "location": "BROADWAY / LA CRUZ AVE",
         "latitude": null,
         "longitude": null,
-        "units": "?E37"
+        "units": ">E37"
     },
     {
         "id": "BF2203334",
@@ -19,18 +30,7 @@
         "location": "SHELTER CREEK LN ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "RF2210592",
-        "date": "2022-10-20",
-        "time": "2:42:14 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "680 WARREN ST ,RCY",
-        "latitude": 37.4888341076585,
-        "longitude": -122.233302579372,
-        "units": "E10"
+        "units": ">E51"
     },
     {
         "id": "RF2210591",
@@ -42,49 +42,5 @@
         "latitude": 37.489626010442,
         "longitude": -122.216605050778,
         "units": ">E9"
-    },
-    {
-        "id": "SF2212473",
-        "date": "2022-10-20",
-        "time": "2:30:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W 39TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2212472",
-        "date": "2022-10-20",
-        "time": "2:10:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #402 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "WF2201525",
-        "date": "2022-10-20",
-        "time": "2:08:34 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Vehicle fire",
-        "location": "NB 280 / SO EDGEWOOD RD",
-        "latitude": 37.4503547561209,
-        "longitude": -122.278505928096,
-        "units": ">E1771"
-    },
-    {
-        "id": "MF2208208",
-        "date": "2022-10-20",
-        "time": "1:50:55 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CONSTITUTION DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
     }
 ]
