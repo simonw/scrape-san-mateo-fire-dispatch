@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2205861",
+        "date": "2022-10-21",
+        "time": "8:08:27 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "E GRAND AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "RF2210620",
+        "date": "2022-10-21",
+        "time": "8:02:30 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "301 INDUSTRIAL RD #BLDG3 ,SNC",
+        "latitude": 37.514850722215,
+        "longitude": -122.259498720622,
+        "units": ">E13 T23 BC3 CM11X3 ?TAC16"
+    },
+    {
+        "id": "MF2208228",
+        "date": "2022-10-21",
+        "time": "8:01:20 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c2",
+        "location": "EB WILLOW RD ON RAMP / SB 101",
+        "latitude": 37.466029681578,
+        "longitude": -122.150550150518,
+        "units": "E2"
+    },
+    {
+        "id": "FF2205860",
+        "date": "2022-10-21",
+        "time": "7:55:58 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "WESTBOROUGH BLVD / GALWAY DR",
+        "latitude": 37.643166976784,
+        "longitude": -122.457256458442,
+        "units": ">E64"
+    },
+    {
         "id": "FF2205859",
         "date": "2022-10-21",
         "time": "7:51:46 AM",
@@ -8,7 +52,7 @@
         "location": "S AIRPORT BLVD #207 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?Q62"
+        "units": ">Q62"
     },
     {
         "id": "RF2210619",
@@ -19,7 +63,7 @@
         "location": "WHIPPLE AVE / EL CAMINO REAL",
         "latitude": 37.4904415192005,
         "longitude": -122.239772684996,
-        "units": ">BC3 >E9 T9 CM11X4 ?TAC15"
+        "units": ">E9 >T9"
     },
     {
         "id": "MF2208226",
@@ -33,17 +77,6 @@
         "units": ">E77"
     },
     {
-        "id": "MF2208225",
-        "date": "2022-10-21",
-        "time": "7:29:38 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #314A ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
         "id": "LF2200896",
         "date": "2022-10-21",
         "time": "7:29:12 AM",
@@ -52,6 +85,6 @@
         "location": "GILMAN DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">MED19 >E86 CM31X1"
+        "units": "CM31X1"
     }
 ]
