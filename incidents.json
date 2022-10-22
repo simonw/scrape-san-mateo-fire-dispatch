@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2211172",
+        "id": "FF2205885",
         "date": "2022-10-22",
-        "time": "11:32:47 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "11:59:57 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "59 BUENA VISTA RD ,SSF",
+        "latitude": 37.642217361805,
+        "longitude": -122.448764426554,
+        "units": "E64"
+    },
+    {
+        "id": "MF2208259",
+        "date": "2022-10-22",
+        "time": "11:52:37 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ESCUELA DR #209C ,DCY",
+        "location": "UNIVERSITY AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">T95"
+        "units": ">E2"
     },
     {
         "id": "SF2212555",
@@ -19,18 +30,7 @@
         "location": "320 PENINSULA AVE #320 ,SMO",
         "latitude": 37.5776770759182,
         "longitude": -122.337677098668,
-        "units": ">T34 CM21X1 >E32"
-    },
-    {
-        "id": "CF2206708",
-        "date": "2022-10-22",
-        "time": "11:11:08 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "SKYLINE BLVD / LARKSPUR DR",
-        "latitude": 37.5964657264152,
-        "longitude": -122.418884426458,
-        "units": ">E38"
+        "units": ">E32 CM21X1 >T34"
     },
     {
         "id": "NF2211168",
@@ -41,6 +41,6 @@
         "location": "150 CORONADO AVE #301 ,DCY",
         "latitude": 37.6967722784499,
         "longitude": -122.483323458654,
-        "units": "PR20A"
+        "units": ">PR20A"
     }
 ]
