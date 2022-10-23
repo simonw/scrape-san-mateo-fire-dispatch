@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2206727",
+        "id": "FF2205908",
         "date": "2022-10-23",
-        "time": "12:21:27 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "12:39:09 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "2 TOWER PL ,SSF",
+        "latitude": 37.6671122101777,
+        "longitude": -122.397208500667,
+        "units": ">E65 BC17 E81 E61 Q62CM31X5 ?TAC35"
+    },
+    {
+        "id": "NF2211223",
+        "date": "2022-10-23",
+        "time": "12:35:43 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "525 CRESPI DR ,PCF",
+        "latitude": 37.5998130867154,
+        "longitude": -122.499104786353,
+        "units": ">E72"
+    },
+    {
+        "id": "RF2210701",
+        "date": "2022-10-23",
+        "time": "12:35:34 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "N ROLLINS RD ,MLB",
+        "location": "CEDAR ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": ">E13"
+    },
+    {
+        "id": "SF2212602",
+        "date": "2022-10-23",
+        "time": "12:34:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARINA VISTA #405 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
     },
     {
         "id": "DF2201839",
@@ -19,18 +52,7 @@
         "location": "PORTOLA STATE PARK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": ">U55 >R57 E1762 VFIR23 E7"
-    },
-    {
-        "id": "SF2212601",
-        "date": "2022-10-23",
-        "time": "11:55:29 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CYPRESS AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": ">U55 >VFIR23 >E1762 >E7 >R57"
     },
     {
         "id": "HF2202480",
@@ -41,7 +63,7 @@
         "location": "20 AVENUE PORTOLA ,ELG",
         "latitude": 37.5020896227583,
         "longitude": -122.469665156758,
-        "units": ">E41 >TAC45 >BC10 >CM41X4"
+        "units": ">E41"
     },
     {
         "id": "RF2210699",
@@ -52,6 +74,6 @@
         "location": "FARM HILL BLVD / EDEN BOWER LN",
         "latitude": null,
         "longitude": null,
-        "units": ">BC2"
+        "units": ""
     }
 ]
