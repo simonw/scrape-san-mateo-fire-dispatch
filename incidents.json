@@ -1,35 +1,90 @@
 [
     {
-        "id": "NF2211187",
+        "id": "SF2212570",
         "date": "2022-10-22",
-        "time": "6:01:06 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "7:01:34 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ALEXANDER AVE ,DCY",
+        "location": "LAURIE MEADOWS DR #210 ,SMO",
         "latitude": null,
         "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "NF2211190",
+        "date": "2022-10-22",
+        "time": "6:59:04 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "35 COUNTY ST #BLDG A ,DCY",
+        "latitude": 37.6892326037443,
+        "longitude": -122.465088597618,
+        "units": "E63"
+    },
+    {
+        "id": "RF2210679",
+        "date": "2022-10-22",
+        "time": "6:55:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PALM AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2211189",
+        "date": "2022-10-22",
+        "time": "6:55:44 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "45 PONCETTA DR ,DCY",
+        "latitude": 37.7025870576576,
+        "longitude": -122.472892162436,
+        "units": "CM31X5 E94 >BC20 TAC35 T95>E91 E95"
+    },
+    {
+        "id": "NF2211188",
+        "date": "2022-10-22",
+        "time": "6:53:35 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "50 E MARKET ST #102 ,DCY",
+        "latitude": 37.6895210111284,
+        "longitude": -122.464760915977,
         "units": ">E92"
     },
     {
-        "id": "SF2212568",
+        "id": "MF2208270",
         "date": "2022-10-22",
-        "time": "5:57:32 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HACIENDA ST #115A ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
+        "time": "6:46:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": ">E7"
     },
     {
-        "id": "MF2208269",
+        "id": "BF2203365",
         "date": "2022-10-22",
-        "time": "5:47:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "6:44:10 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "SANTA CLARA AVE ,WSB",
+        "location": "CATALPA WAY ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
+        "units": ">E52"
+    },
+    {
+        "id": "CF2206715",
+        "date": "2022-10-22",
+        "time": "6:20:58 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MURCHISON DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
     }
 ]
