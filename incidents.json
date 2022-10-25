@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2212689",
+        "id": "RF2210767",
         "date": "2022-10-25",
-        "time": "8:30:44 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:40:54 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CYPRESS AVE ,SMO",
+        "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": "E9"
+    },
+    {
+        "id": "NF2211281",
+        "date": "2022-10-25",
+        "time": "8:36:51 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "850 CAMPUS DR ,DCY",
+        "latitude": 37.6656717290301,
+        "longitude": -122.477061933285,
+        "units": "T95"
     },
     {
         "id": "FF2205940",
@@ -19,7 +30,7 @@
         "location": "EL CAMINO REAL / CHESTNUT AVE",
         "latitude": 37.6551542552064,
         "longitude": -122.434363762518,
-        "units": "E63"
+        "units": ">E63"
     },
     {
         "id": "NF2211280",
@@ -30,18 +41,7 @@
         "location": "SB 1 / NO MANOR DR",
         "latitude": 37.6578989851063,
         "longitude": -122.487262663423,
-        "units": ">E71 CM31X3 ?TAC35"
-    },
-    {
-        "id": "FF2205939",
-        "date": "2022-10-25",
-        "time": "8:13:11 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "637 GRAND AVE ,SSF",
-        "latitude": 37.6573141018577,
-        "longitude": -122.421238292156,
-        "units": "CM31X2 >E61 ?TAC36"
+        "units": ">E71"
     },
     {
         "id": "NF2211279",
@@ -52,6 +52,6 @@
         "location": "SKYLINE BLVD #A2 ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ""
     }
 ]
