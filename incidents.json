@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2212741",
+        "date": "2022-10-26",
+        "time": "12:00:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Smoke investigation",
+        "location": "2523 HASTINGS DR ,BLM",
+        "latitude": 37.50266303903,
+        "longitude": -122.293973142257,
+        "units": "E15"
+    },
+    {
+        "id": "MF2208386",
+        "date": "2022-10-26",
+        "time": "11:56:07 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "879 COLLEGE AVE ,MNP",
+        "latitude": 37.4459266483775,
+        "longitude": -122.178921367919,
+        "units": ">E6"
+    },
+    {
         "id": "SF2212740",
         "date": "2022-10-26",
         "time": "11:47:29 AM",
@@ -8,7 +30,7 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E23"
+        "units": ">E23"
     },
     {
         "id": "NF2211322",
@@ -19,7 +41,7 @@
         "location": "BRUNSWICK ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     },
     {
         "id": "BF2203405",
@@ -30,18 +52,7 @@
         "location": "3300 COLLEGE DR ,SNB",
         "latitude": 37.6297229529346,
         "longitude": -122.466494512477,
-        "units": "T51 BC16 E52 ?TAC35 ?CM31X5"
-    },
-    {
-        "id": "FF2205957",
-        "date": "2022-10-26",
-        "time": "11:42:25 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - manual",
-        "location": "2228 WESTBOROUGH BLVD ,SSF",
-        "latitude": 37.6442039028563,
-        "longitude": -122.452713268457,
-        "units": "E64"
+        "units": ">E52"
     },
     {
         "id": "DF2201854",
@@ -66,28 +77,6 @@
         "units": ">T2"
     },
     {
-        "id": "SF2212739",
-        "date": "2022-10-26",
-        "time": "11:36:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAURIE MEADOWS DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "MF2208384",
-        "date": "2022-10-26",
-        "time": "11:27:37 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WESTFIELD DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
         "id": "RF2210807",
         "date": "2022-10-26",
         "time": "10:50:29 AM",
@@ -96,6 +85,6 @@
         "location": "1400 SAN CARLOS AVE ,SNC",
         "latitude": 37.5052398308304,
         "longitude": -122.263488835051,
-        "units": "CM11X4 >T9 ?TAC16 >E13 >BC3"
+        "units": ">E13"
     }
 ]
