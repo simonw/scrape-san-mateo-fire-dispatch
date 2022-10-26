@@ -1,14 +1,69 @@
 [
     {
+        "id": "CF2206798",
+        "date": "2022-10-26",
+        "time": "3:43:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2211339",
+        "date": "2022-10-26",
+        "time": "3:43:18 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD / SHEFFIELD DR",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "SF2212752",
+        "date": "2022-10-26",
+        "time": "3:39:18 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SUNSET TE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "SF2212753",
+        "date": "2022-10-26",
+        "time": "3:38:23 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Structure fire",
+        "location": "506 19TH AVE ,SMO",
+        "latitude": 37.5518082398478,
+        "longitude": -122.303682074716,
+        "units": ">E28 >TAC25 >BC5 >T21 >E26E29 CM21X2 E21 BC11 E24"
+    },
+    {
+        "id": "HF2202525",
+        "date": "2022-10-26",
+        "time": "3:32:09 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAND DUNE CT ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
         "id": "HF2202524",
         "date": "2022-10-26",
         "time": "3:28:20 PM",
         "summary": "Coastside Fire on Control-1",
-        "category": "Traffic accident pd request c3",
+        "category": "Medical aid",
         "location": "CABRILLO HWY S / POPLAR ST",
-        "latitude": 37.4567052071443,
-        "longitude": -122.433335427065,
-        "units": "E41 E40 CM41X1 ?TAC45 ?BC10"
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E40"
     },
     {
         "id": "CF2206797",
@@ -19,7 +74,7 @@
         "location": "RHINETTE AVE #104 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "MF2208397",
@@ -33,17 +88,6 @@
         "units": ">E2"
     },
     {
-        "id": "DF2201859",
-        "date": "2022-10-26",
-        "time": "3:22:19 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PARROTT DR ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": "E27"
-    },
-    {
         "id": "NF2211337",
         "date": "2022-10-26",
         "time": "3:21:23 PM",
@@ -52,7 +96,7 @@
         "location": "20 PONCETTA DR ,DCY",
         "latitude": 37.7036914148624,
         "longitude": -122.474363205541,
-        "units": "T95 BC20 E71 E94 >E91E95 ?TAC35 ?CM31X3"
+        "units": "?TAC35 >T95 >E91 ?CM31X3"
     },
     {
         "id": "NF2211336",
@@ -66,17 +110,6 @@
         "units": ">E92"
     },
     {
-        "id": "MF2208396",
-        "date": "2022-10-26",
-        "time": "3:13:44 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "1003 WINDERMERE AVE ,MNP",
-        "latitude": 37.4703542841096,
-        "longitude": -122.161577707259,
-        "units": ">E5"
-    },
-    {
         "id": "WF2201562",
         "date": "2022-10-26",
         "time": "3:06:50 PM",
@@ -85,17 +118,6 @@
         "location": "KINGS MOUNTAIN RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 >SQ407 >E19"
-    },
-    {
-        "id": "SF2212751",
-        "date": "2022-10-26",
-        "time": "3:06:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #404 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
+        "units": ">SQ407"
     }
 ]
