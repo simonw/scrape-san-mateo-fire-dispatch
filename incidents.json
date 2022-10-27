@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2211379",
+        "id": "RF2210862",
         "date": "2022-10-27",
-        "time": "3:57:31 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "4:27:33 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1603 PECAN CT ,RCY",
+        "latitude": 37.4634008787626,
+        "longitude": -122.227866363458,
+        "units": "E9"
+    },
+    {
+        "id": "RF2210861",
+        "date": "2022-10-27",
+        "time": "4:19:53 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BELLEVUE AVE ,DCY",
+        "location": "GORDON ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E81"
+        "units": ">E10"
+    },
+    {
+        "id": "FF2205980",
+        "date": "2022-10-27",
+        "time": "4:16:18 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "E GRAND AVE #LOBBY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "BF2203414",
+        "date": "2022-10-27",
+        "time": "4:09:10 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     },
     {
         "id": "NF2211378",
@@ -19,18 +52,7 @@
         "location": "NB 280 / NB 1 ON RAMP",
         "latitude": 37.682679407922,
         "longitude": -122.47143078478,
-        "units": ">E95 CM31X1 >BC123"
-    },
-    {
-        "id": "SF2212814",
-        "date": "2022-10-27",
-        "time": "3:51:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PRINCETON RD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">BC123 CM31X1 >E95"
     },
     {
         "id": "NF2211377",
@@ -41,18 +63,7 @@
         "location": "MISSION ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "NF2211375",
-        "date": "2022-10-27",
-        "time": "3:43:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SKYLINE BLVD / JOHN DALY BLVD",
-        "latitude": 37.6984508080946,
-        "longitude": -122.494863325599,
-        "units": ">BC20 >E91"
+        "units": "*>BC20 >E92"
     },
     {
         "id": "NF2211372",
@@ -74,6 +85,6 @@
         "location": "LAWLER RANCH RD / SAND HILL RD",
         "latitude": 37.4182238763792,
         "longitude": -122.225329219367,
-        "units": "CM11X1 >TAC15 >E8 >SQ407"
+        "units": "CM11X1 >TAC15 >SQ407"
     }
 ]
