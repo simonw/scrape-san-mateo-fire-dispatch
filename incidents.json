@@ -1,69 +1,91 @@
 [
     {
+        "id": "HF2202543",
+        "date": "2022-10-29",
+        "time": "3:23:42 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SEA SHELL CIR ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "MF2208481",
+        "date": "2022-10-29",
+        "time": "3:22:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UNIVERSITY DR #26 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "DF2201871",
+        "date": "2022-10-29",
+        "time": "3:22:27 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ADELINE DR ,BRH",
+        "latitude": null,
+        "longitude": null,
+        "units": "E35"
+    },
+    {
+        "id": "NF2211465",
+        "date": "2022-10-29",
+        "time": "3:21:12 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "E MOLTKE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "NF2211464",
+        "date": "2022-10-29",
+        "time": "3:16:42 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #208A ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2210933",
+        "date": "2022-10-29",
+        "time": "3:12:39 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #2315 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2210932",
+        "date": "2022-10-29",
+        "time": "3:09:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KING ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "WF2201581",
         "date": "2022-10-29",
         "time": "3:01:41 PM",
         "summary": "Woodside Fire on Control-3",
-        "category": "Vehicle fire",
+        "category": "Full assignment response",
         "location": "SB 280 / NO WOODSIDE RD",
         "latitude": 37.4414953804549,
         "longitude": -122.251137026606,
-        "units": "E19 E4 E12 CM11X3 ?TAC15"
-    },
-    {
-        "id": "SF2212916",
-        "date": "2022-10-29",
-        "time": "3:00:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE / S EL CAMINO REAL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "MF2208480",
-        "date": "2022-10-29",
-        "time": "3:00:19 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL CT #1206 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "SF2212915",
-        "date": "2022-10-29",
-        "time": "2:59:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #222 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "CF2206876",
-        "date": "2022-10-29",
-        "time": "2:58:38 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "1244 EL CAMINO REAL ,BRM",
-        "latitude": 37.5855279179795,
-        "longitude": -122.368005277784,
-        "units": "CM21X1 T34 E37 BC8 E35E21 ?TAC25"
-    },
-    {
-        "id": "CF2206875",
-        "date": "2022-10-29",
-        "time": "2:58:15 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ANSEL AVE #106 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
+        "units": ">BC11B >E18 CM11X3 >E1771 ?TAC15E1791 >T9 >BC2 >E1765 >BC11"
     },
     {
         "id": "HF2202542",
@@ -75,27 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E41"
-    },
-    {
-        "id": "NF2211463",
-        "date": "2022-10-29",
-        "time": "2:55:19 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WINDSOR DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2211462",
-        "date": "2022-10-29",
-        "time": "2:54:08 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ST FRANCIS BLVD #1040 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
     }
 ]
