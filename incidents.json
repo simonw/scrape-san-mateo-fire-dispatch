@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2212912",
+        "date": "2022-10-29",
+        "time": "12:23:25 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "RF2210927",
+        "date": "2022-10-29",
+        "time": "12:22:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CORRIENTE POINTE DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E20"
+    },
+    {
+        "id": "SF2212911",
+        "date": "2022-10-29",
+        "time": "12:16:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "815 BELMONT AVE ,BLM",
+        "latitude": 37.5272538671704,
+        "longitude": -122.286387327021,
+        "units": ">E14"
+    },
+    {
         "id": "SF2212909",
         "date": "2022-10-29",
         "time": "12:03:45 PM",
@@ -8,7 +41,7 @@
         "location": "769 SHELL BLVD #204 ,FCY",
         "latitude": 37.555081103726,
         "longitude": -122.266338647853,
-        "units": "E29 E28 ?TAC25 ?CM21X2 ?BC5?E23 ?T23"
+        "units": ">E29"
     },
     {
         "id": "SF2212908",
@@ -20,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E24"
-    },
-    {
-        "id": "WF2201579",
-        "date": "2022-10-29",
-        "time": "11:45:44 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BAY VIEW WAY ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E19"
-    },
-    {
-        "id": "FF2206013",
-        "date": "2022-10-29",
-        "time": "10:52:37 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Elevator rescue",
-        "location": "310 MILLER AVE ,SSF",
-        "latitude": 37.6565320021291,
-        "longitude": -122.410220300784,
-        "units": ">E61"
     }
 ]
