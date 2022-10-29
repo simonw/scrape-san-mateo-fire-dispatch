@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2206862",
+        "date": "2022-10-28",
+        "time": "9:13:54 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #295 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "NF2211427",
+        "date": "2022-10-28",
+        "time": "9:03:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "CABRILLO HWY / CRESPI DR",
+        "latitude": 37.5994821245966,
+        "longitude": -122.499990118487,
+        "units": ">E71"
+    },
+    {
         "id": "CF2206861",
         "date": "2022-10-28",
         "time": "8:42:35 PM",
@@ -8,40 +30,7 @@
         "location": "1136 EL CAMINO REAL ,BRM",
         "latitude": 37.5839722737228,
         "longitude": -122.365291137768,
-        "units": ">CM21X5 BC8 T34 ?TAC25 E34"
-    },
-    {
-        "id": "RF2210912",
-        "date": "2022-10-28",
-        "time": "8:38:00 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "NF2211424",
-        "date": "2022-10-28",
-        "time": "8:19:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #217 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2212881",
-        "date": "2022-10-28",
-        "time": "8:12:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE #2516 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": ">CM21X5 ?TAC25 >E34"
     },
     {
         "id": "DF2201868",
@@ -52,6 +41,6 @@
         "location": "LAKEVIEW WAY ,EML",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 >E19 >E12"
+        "units": "E12"
     }
 ]
