@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2208475",
+        "id": "SF2212906",
         "date": "2022-10-29",
-        "time": "11:03:45 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:27:50 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "506 CARMEL CIR ,SMO",
+        "latitude": 37.5594866716405,
+        "longitude": -122.324989059714,
+        "units": "?E24"
+    },
+    {
+        "id": "WF2201578",
+        "date": "2022-10-29",
+        "time": "11:09:46 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "COLEMAN PL #10 ,MNP",
+        "location": "EASTVIEW WAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
+        "units": ">E19"
     },
     {
         "id": "FF2206014",
@@ -19,40 +30,7 @@
         "location": "EL CAMINO REAL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "RF2210925",
-        "date": "2022-10-29",
-        "time": "11:00:06 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "627 CANYON RD ,RCY",
-        "latitude": 37.4720118509402,
-        "longitude": -122.258067591233,
-        "units": "E18"
-    },
-    {
-        "id": "NF2211451",
-        "date": "2022-10-29",
-        "time": "10:57:11 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OAKMONT DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "MF2208474",
-        "date": "2022-10-29",
-        "time": "10:53:13 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RUNNYMEDE ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E51"
     },
     {
         "id": "FF2206013",
@@ -64,16 +42,5 @@
         "latitude": 37.6565320021291,
         "longitude": -122.410220300784,
         "units": ">E61"
-    },
-    {
-        "id": "CF2206873",
-        "date": "2022-10-29",
-        "time": "10:50:59 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #201 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
