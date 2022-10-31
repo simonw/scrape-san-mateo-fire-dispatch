@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2206051",
+        "date": "2022-10-31",
+        "time": "3:52:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "NB 280 / SO HICKEY BLVD",
+        "latitude": 37.6549237918762,
+        "longitude": -122.45727554244,
+        "units": "T51"
+    },
+    {
+        "id": "MF2208538",
+        "date": "2022-10-31",
+        "time": "3:50:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLE AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "FF2206050",
         "date": "2022-10-31",
         "time": "3:38:54 PM",
@@ -8,7 +30,7 @@
         "location": "NB 280 / NO WESTBOROUGH BLVD",
         "latitude": 37.6549237918762,
         "longitude": -122.45727554244,
-        "units": "BC16 T51 >E64 ?TAC36 CM31X3"
+        "units": ">E64"
     },
     {
         "id": "SF2213006",
@@ -19,29 +41,7 @@
         "location": "E 3RD AVE #2516 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2208537",
-        "date": "2022-10-31",
-        "time": "3:37:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GEORGETOWN ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "MF2208536",
-        "date": "2022-10-31",
-        "time": "3:29:48 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MCCORMICK LN ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": ""
     },
     {
         "id": "NF2211557",
@@ -52,6 +52,6 @@
         "location": "WESTLINE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">R95 >E71"
+        "units": ""
     }
 ]
