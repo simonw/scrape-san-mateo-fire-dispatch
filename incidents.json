@@ -1,25 +1,36 @@
 [
     {
-        "id": "SF2212964",
+        "id": "MF2208516",
         "date": "2022-10-30",
-        "time": "5:30:01 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO E 3RD AVE",
-        "latitude": 37.5750283753154,
-        "longitude": -122.318639833312,
-        "units": "E26 E21 BC5 T21 CM21X4?TAC26"
-    },
-    {
-        "id": "HF2202545",
-        "date": "2022-10-30",
-        "time": "5:29:26 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "6:02:35 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ALSACE LORRAINE AVE ,HMB",
+        "location": "UNIVERSITY AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": "E2"
+    },
+    {
+        "id": "WF2201586",
+        "date": "2022-10-30",
+        "time": "5:58:41 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
+        "id": "BF2203449",
+        "date": "2022-10-30",
+        "time": "5:46:46 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HAMPTON CT ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "DF2201879",
@@ -30,18 +41,7 @@
         "location": "WB 92 / CANADA RD",
         "latitude": 37.5070020212324,
         "longitude": -122.341269134551,
-        "units": "E1771 E17 T17 ?TAC15 ?CM11X3"
-    },
-    {
-        "id": "CF2206907",
-        "date": "2022-10-30",
-        "time": "5:24:19 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / BROADWAY OFF RAMP",
-        "latitude": 37.5922274132807,
-        "longitude": -122.36473846981,
-        "units": ">T34 BC8 E38 CM21X1 ?TAC25"
+        "units": ">E1771 CM11X3 ?TAC15 >E17 >T17"
     },
     {
         "id": "NF2211517",
@@ -52,61 +52,6 @@
         "location": "133 CLIFF SWALLOW CT ,BRS",
         "latitude": 37.6923505872671,
         "longitude": -122.40761451652,
-        "units": ">E65 CM31X5 >E93 >BC20 >Q62?TAC36 >E81"
-    },
-    {
-        "id": "SF2212962",
-        "date": "2022-10-30",
-        "time": "5:19:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "MF2208515",
-        "date": "2022-10-30",
-        "time": "5:18:44 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MENLO OAKS DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "BF2203448",
-        "date": "2022-10-30",
-        "time": "5:04:59 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KAINS AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "NF2211515",
-        "date": "2022-10-30",
-        "time": "5:01:51 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GOLDEN BAY DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2211509",
-        "date": "2022-10-30",
-        "time": "3:22:45 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Structure fire - working",
-        "location": "137 HILTON WAY ,PCF",
-        "latitude": 37.6323904008248,
-        "longitude": -122.491313582915,
-        "units": "CM31X2 ?TAC35 >PR20C >E72 >BC120"
+        "units": ">E93"
     }
 ]
