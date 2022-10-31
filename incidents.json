@@ -1,5 +1,49 @@
 [
     {
+        "id": "HF2202551",
+        "date": "2022-10-31",
+        "time": "11:07:34 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ST JOSEPH AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E40"
+    },
+    {
+        "id": "NF2211546",
+        "date": "2022-10-31",
+        "time": "11:07:00 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EASTMOOR AVE #10 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "BF2203460",
+        "date": "2022-10-31",
+        "time": "11:00:00 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SHELTER CREEK LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "MF2208527",
+        "date": "2022-10-31",
+        "time": "10:56:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Trash fire",
+        "location": "2055 WOODSIDE RD ,RCY",
+        "latitude": 37.4491780105364,
+        "longitude": -122.230803220369,
+        "units": ">E4"
+    },
+    {
         "id": "CF2206919",
         "date": "2022-10-31",
         "time": "10:50:43 AM",
@@ -8,7 +52,7 @@
         "location": "TROUSDALE DR #1095B ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E33"
     },
     {
         "id": "CF2206920",
@@ -19,61 +63,6 @@
         "location": "530 BARBARA WAY ,HIL",
         "latitude": 37.5527717366327,
         "longitude": -122.373439358916,
-        "units": "E27 E38 CM21X3 ?TAC25 ?BC8?E32 ?T17"
-    },
-    {
-        "id": "NF2211545",
-        "date": "2022-10-31",
-        "time": "10:43:26 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MOANA WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "NF2211544",
-        "date": "2022-10-31",
-        "time": "10:34:42 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2212995",
-        "date": "2022-10-31",
-        "time": "10:30:28 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NORTON ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2212994",
-        "date": "2022-10-31",
-        "time": "10:18:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PROMONTORY POINT LN #1305 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "SF2212993",
-        "date": "2022-10-31",
-        "time": "10:14:56 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MEADOW CT ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E27 >T17 >BC8 >E38 >E32CM21X3 ?TAC25"
     }
 ]
