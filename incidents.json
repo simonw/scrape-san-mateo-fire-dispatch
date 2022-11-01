@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2211020",
+        "date": "2022-11-01",
+        "time": "11:26:08 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "3 BLU HARBOR BLVD ,RCY",
+        "latitude": 37.4997813698883,
+        "longitude": -122.221293389005,
+        "units": "E9 CM11X1 BC3 T9 ?TAC15"
+    },
+    {
+        "id": "SF2213039",
+        "date": "2022-11-01",
+        "time": "11:23:53 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "909 10TH AVE ,SMO",
+        "latitude": 37.5642432817991,
+        "longitude": -122.311385164974,
+        "units": ">E24"
+    },
+    {
+        "id": "MF2208557",
+        "date": "2022-11-01",
+        "time": "11:22:52 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "2090 VALPARAISO AVE ,WMP",
+        "latitude": 37.4345686066876,
+        "longitude": -122.205751727859,
+        "units": ">E6"
+    },
+    {
+        "id": "FF2206077",
+        "date": "2022-11-01",
+        "time": "11:18:40 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "501 SPRUCE AVE ,SSF",
+        "latitude": 37.6590205428975,
+        "longitude": -122.416147811942,
+        "units": ">E93"
+    },
+    {
+        "id": "RF2211019",
+        "date": "2022-11-01",
+        "time": "11:14:41 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRITTAN AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "TAC16 >E18"
+    },
+    {
         "id": "FF2206076",
         "date": "2022-11-01",
         "time": "11:05:26 AM",
@@ -8,51 +63,7 @@
         "location": "MILLER AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E65"
-    },
-    {
-        "id": "MF2208556",
-        "date": "2022-11-01",
-        "time": "11:05:05 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1997 MANHATTAN AVE ,EPA",
-        "latitude": 37.4601892995594,
-        "longitude": -122.143539488547,
-        "units": "T2 E1 ?TAC15 ?CM11X2 ?BC101"
-    },
-    {
-        "id": "FF2206075",
-        "date": "2022-11-01",
-        "time": "11:02:35 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "179 STARLITE ST ,SSF",
-        "latitude": 37.6487856614979,
-        "longitude": -122.417646169073,
-        "units": "T51"
-    },
-    {
-        "id": "NF2211590",
-        "date": "2022-11-01",
-        "time": "10:54:12 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "E MOLTKE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "FF2206074",
-        "date": "2022-11-01",
-        "time": "10:54:05 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ">E65"
     },
     {
         "id": "SF2213038",
@@ -63,61 +74,6 @@
         "location": "N EL CAMINO REAL #329 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2208555",
-        "date": "2022-11-01",
-        "time": "10:49:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "1920 COOLEY AVE ,EPA",
-        "latitude": 37.4562286719395,
-        "longitude": -122.138207876783,
-        "units": ""
-    },
-    {
-        "id": "NF2211589",
-        "date": "2022-11-01",
-        "time": "10:46:32 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2208554",
-        "date": "2022-11-01",
-        "time": "10:44:05 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "64 POLITZER DR ,MNP",
-        "latitude": 37.4423124065692,
-        "longitude": -122.197777673291,
-        "units": ">E4"
-    },
-    {
-        "id": "FF2206072",
-        "date": "2022-11-01",
-        "time": "10:32:24 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BARRINGTON CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
-    },
-    {
-        "id": "MF2208553",
-        "date": "2022-11-01",
-        "time": "10:25:56 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SEQUOIA AVE ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E12"
+        "units": "E21"
     }
 ]
