@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2208565",
+        "date": "2022-11-01",
+        "time": "4:14:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "297 POLHEMUS AVE ,ATN",
+        "latitude": 37.4421459674554,
+        "longitude": -122.220335790465,
+        "units": ">E4"
+    },
+    {
+        "id": "MF2208564",
+        "date": "2022-11-01",
+        "time": "4:07:47 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UNIVERSITY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "SF2213050",
         "date": "2022-11-01",
         "time": "4:04:39 PM",
@@ -8,18 +30,7 @@
         "location": "BALDWIN AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "BF2203471",
-        "date": "2022-11-01",
-        "time": "4:01:07 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BENNINGTON DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "T51"
+        "units": ""
     },
     {
         "id": "FF2206084",
@@ -31,49 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">Q62"
-    },
-    {
-        "id": "CF2206957",
-        "date": "2022-11-01",
-        "time": "3:48:13 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2206956",
-        "date": "2022-11-01",
-        "time": "3:41:47 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1014 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "CF2206955",
-        "date": "2022-11-01",
-        "time": "3:38:52 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "NF2211601",
-        "date": "2022-11-01",
-        "time": "2:57:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HICKEY BLVD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
     }
 ]
