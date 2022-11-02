@@ -1,5 +1,71 @@
 [
     {
+        "id": "FF2206096",
+        "date": "2022-11-02",
+        "time": "12:05:00 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E61"
+    },
+    {
+        "id": "SF2213083",
+        "date": "2022-11-02",
+        "time": "12:04:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S GRANT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T23"
+    },
+    {
+        "id": "FF2206095",
+        "date": "2022-11-02",
+        "time": "11:57:45 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FORBES BLVD #BLDG 7 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "RF2211071",
+        "date": "2022-11-02",
+        "time": "11:56:39 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAKSIDE AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "NF2211632",
+        "date": "2022-11-02",
+        "time": "11:54:07 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "3445 BAYSHORE BLVD ,BRS",
+        "latitude": 37.6875003975148,
+        "longitude": -122.400082608781,
+        "units": ""
+    },
+    {
+        "id": "MF2208584",
+        "date": "2022-11-02",
+        "time": "11:53:14 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1920 COOLEY AVE ,EPA",
+        "latitude": 37.4562286719395,
+        "longitude": -122.138207876783,
+        "units": ""
+    },
+    {
         "id": "SF2213082",
         "date": "2022-11-02",
         "time": "11:47:47 AM",
@@ -8,7 +74,7 @@
         "location": "BARBARA LN ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E14"
+        "units": ">E14"
     },
     {
         "id": "NF2211631",
@@ -16,31 +82,9 @@
         "time": "11:42:29 AM",
         "summary": "North County Fire on Control-3",
         "category": "Traffic accident",
-        "location": "SB 280 / NO JOHN DALY BLVD",
+        "location": "SB 280 / NO 1",
         "latitude": 37.7068360881013,
         "longitude": -122.470463627917,
-        "units": "CM31X4 BC20 E92 E91 T95?TAC35"
-    },
-    {
-        "id": "BF2203476",
-        "date": "2022-11-02",
-        "time": "11:34:13 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTMOOR DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "FF2206094",
-        "date": "2022-11-02",
-        "time": "10:58:05 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA LOMA DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
+        "units": ">T95 >BC20 >E92 CM31X4 ?TAC35"
     }
 ]
