@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2208583",
+        "id": "CF2206981",
         "date": "2022-11-02",
-        "time": "11:05:11 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:20:16 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "CONSTITUTION DR ,MNP",
+        "location": "SLEEPY HOLLOW LN ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E37"
+    },
+    {
+        "id": "NF2211630",
+        "date": "2022-11-02",
+        "time": "11:17:49 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "353 CLIFTON RD #Q ,PCF",
+        "latitude": 37.6529468755439,
+        "longitude": -122.485102265498,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2211628",
+        "date": "2022-11-02",
+        "time": "11:09:26 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ANDORRA CT ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E71"
     },
     {
         "id": "FF2206094",
@@ -20,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E63"
-    },
-    {
-        "id": "FF2206093",
-        "date": "2022-11-02",
-        "time": "10:56:51 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "WF2201600",
-        "date": "2022-11-02",
-        "time": "10:52:50 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "4200 FARM HILL BLVD ,WDS",
-        "latitude": 37.4478922871236,
-        "longitude": -122.266398660236,
-        "units": "CM11X1 ?TAC15 >E7 >E19"
-    },
-    {
-        "id": "RF2211069",
-        "date": "2022-11-02",
-        "time": "10:52:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "930 VERA AVE ,RCY",
-        "latitude": 37.4743436262477,
-        "longitude": -122.235381863879,
-        "units": "*>E10"
     }
 ]
