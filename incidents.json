@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2213074",
+        "id": "SF2213076",
         "date": "2022-11-02",
-        "time": "8:29:04 AM",
+        "time": "8:46:59 AM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "AVILA RD / EDINBURGH ST",
+        "latitude": 37.5532102307656,
+        "longitude": -122.323551790314,
+        "units": ">CM21X5 ?TAC25 ?BC5 ?E25 ?T21"
+    },
+    {
+        "id": "MF2208579",
+        "date": "2022-11-02",
+        "time": "8:46:05 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL VERANO WAY ,BLM",
+        "location": "AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": "E5"
+    },
+    {
+        "id": "SF2213075",
+        "date": "2022-11-02",
+        "time": "8:36:41 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NB 101 / NO RALSTON AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "RF2211066",
+        "date": "2022-11-02",
+        "time": "8:34:37 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "ARROYO AVE / ORANGE AVE",
+        "latitude": 37.4974497524543,
+        "longitude": -122.260911879439,
+        "units": ">E13"
+    },
+    {
+        "id": "MF2208578",
+        "date": "2022-11-02",
+        "time": "8:34:00 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "EL CAMINO REAL / ALEJANDRA AVE",
+        "latitude": 37.4583844662171,
+        "longitude": -122.1926473713,
+        "units": ">E6 >T1 >BC1 CM11X4 ?TAC16"
+    },
+    {
+        "id": "RF2211065",
+        "date": "2022-11-02",
+        "time": "8:30:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD #314 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "FF2206091",
@@ -31,38 +86,5 @@
         "latitude": 37.6501275379381,
         "longitude": -122.40266937048,
         "units": ">Q62"
-    },
-    {
-        "id": "RF2211063",
-        "date": "2022-11-02",
-        "time": "8:18:10 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "EUCLID AVE / UPTON ST",
-        "latitude": 37.4670579940372,
-        "longitude": -122.242297864261,
-        "units": "CM11X3 TAC15 >BC3 >T9 >E10"
-    },
-    {
-        "id": "CF2206975",
-        "date": "2022-11-02",
-        "time": "8:15:13 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #315 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2211062",
-        "date": "2022-11-02",
-        "time": "8:10:19 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "INDUSTRIAL RD #G ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
     }
 ]
