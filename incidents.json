@@ -1,25 +1,36 @@
 [
     {
-        "id": "FF2206096",
+        "id": "SF2213084",
         "date": "2022-11-02",
-        "time": "12:05:00 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BADEN AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E61"
-    },
-    {
-        "id": "SF2213083",
-        "date": "2022-11-02",
-        "time": "12:04:00 PM",
+        "time": "12:24:38 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
+        "location": "S SAN MATEO DR #206 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?T23"
+        "units": "?E21"
+    },
+    {
+        "id": "NF2211633",
+        "date": "2022-11-02",
+        "time": "12:21:19 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "550 E MARKET ST ,DCY",
+        "latitude": 37.6904576052914,
+        "longitude": -122.4594933371,
+        "units": "E92"
+    },
+    {
+        "id": "WF2201601",
+        "date": "2022-11-02",
+        "time": "12:21:13 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Smoke investigation",
+        "location": "LA HONDA RD / SKYLINE BLVD",
+        "latitude": 37.3863361829933,
+        "longitude": -122.264191935302,
+        "units": "?CO56 ?E58"
     },
     {
         "id": "FF2206095",
@@ -31,60 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E65"
-    },
-    {
-        "id": "RF2211071",
-        "date": "2022-11-02",
-        "time": "11:56:39 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAKSIDE AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2211632",
-        "date": "2022-11-02",
-        "time": "11:54:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "3445 BAYSHORE BLVD ,BRS",
-        "latitude": 37.6875003975148,
-        "longitude": -122.400082608781,
-        "units": ""
-    },
-    {
-        "id": "MF2208584",
-        "date": "2022-11-02",
-        "time": "11:53:14 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1920 COOLEY AVE ,EPA",
-        "latitude": 37.4562286719395,
-        "longitude": -122.138207876783,
-        "units": ""
-    },
-    {
-        "id": "SF2213082",
-        "date": "2022-11-02",
-        "time": "11:47:47 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BARBARA LN ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "NF2211631",
-        "date": "2022-11-02",
-        "time": "11:42:29 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO 1",
-        "latitude": 37.7068360881013,
-        "longitude": -122.470463627917,
-        "units": ">T95 >BC20 >E92 CM31X4 ?TAC35"
     }
 ]
