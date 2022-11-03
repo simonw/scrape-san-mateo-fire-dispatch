@@ -1,5 +1,49 @@
 [
     {
+        "id": "WF2201610",
+        "date": "2022-11-03",
+        "time": "3:59:58 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "177 BOLIVAR LN ,PVY",
+        "latitude": 37.3942772484672,
+        "longitude": -122.201753247227,
+        "units": "E8"
+    },
+    {
+        "id": "FF2206127",
+        "date": "2022-11-03",
+        "time": "3:57:57 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "CF2207008",
+        "date": "2022-11-03",
+        "time": "3:50:19 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROLLINS RD #5 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "CF2207007",
+        "date": "2022-11-03",
+        "time": "3:49:12 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #215 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "MF2208622",
         "date": "2022-11-03",
         "time": "3:41:29 PM",
@@ -8,7 +52,7 @@
         "location": "BUCHANAN CT ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "CF2207006",
@@ -19,83 +63,6 @@
         "location": "TROUSDALE DR #1058A ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "RF2211127",
-        "date": "2022-11-03",
-        "time": "3:40:28 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "WOODSIDE RD / KENTFIELD AVE",
-        "latitude": 37.4627031460073,
-        "longitude": -122.225065790037,
-        "units": "BC1 CM11X2 ?TAC16 E10 T2"
-    },
-    {
-        "id": "BF2203485",
-        "date": "2022-11-03",
-        "time": "3:38:15 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLEGE DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "DF2201906",
-        "date": "2022-11-03",
-        "time": "3:34:24 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 280 / NO ALPINE RD",
-        "latitude": 37.4131292102117,
-        "longitude": -122.206866560226,
-        "units": "E18 CM11X3 ?TAC15 T9 >E7BC2 E8 PR2A"
-    },
-    {
-        "id": "FF2206126",
-        "date": "2022-11-03",
-        "time": "3:32:13 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #209 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "FF2206125",
-        "date": "2022-11-03",
-        "time": "3:29:19 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CROFTON WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2207004",
-        "date": "2022-11-03",
-        "time": "3:21:43 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #412 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2206124",
-        "date": "2022-11-03",
-        "time": "3:21:11 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "20 AIRPORT BLVD ,SSF",
-        "latitude": 37.6522154460238,
-        "longitude": -122.407576982944,
-        "units": ">E61"
+        "units": ">E34"
     }
 ]
