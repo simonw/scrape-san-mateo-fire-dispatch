@@ -1,46 +1,68 @@
 [
     {
-        "id": "NF2211688",
+        "id": "RF2211116",
         "date": "2022-11-03",
-        "time": "12:38:02 PM",
+        "time": "1:04:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "LAUREL ST / CENTRAL AVE",
+        "latitude": 37.4950609683713,
+        "longitude": -122.247416844137,
+        "units": "?TAC15 ?T9 E13 ?BC3 CM11X5"
+    },
+    {
+        "id": "FF2206120",
+        "date": "2022-11-03",
+        "time": "1:01:32 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD #7 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "NF2211689",
+        "date": "2022-11-03",
+        "time": "12:58:59 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "E MARKET ST #109 ,DCY",
+        "location": "THORNTON BEACH RD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": "E91"
     },
     {
-        "id": "RF2211113",
+        "id": "DF2201905",
         "date": "2022-11-03",
-        "time": "12:36:57 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "3831 HAMILTON WAY ,EML",
-        "latitude": 37.4622357473773,
-        "longitude": -122.260618136698,
-        "units": ""
-    },
-    {
-        "id": "DF2201904",
-        "date": "2022-11-03",
-        "time": "12:25:11 PM",
+        "time": "12:58:05 PM",
         "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "PESCADERO CREEK RD ,PES",
+        "location": "STAGE RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 >E44 >E1761"
+        "units": ">E44 E1761"
     },
     {
-        "id": "WF2201608",
+        "id": "SF2213125",
         "date": "2022-11-03",
-        "time": "12:14:09 PM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "12:57:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Trash fire",
+        "location": "4070 S EL CAMINO REAL ,SMO",
+        "latitude": 37.5312191281998,
+        "longitude": -122.290804308731,
+        "units": ">E14"
+    },
+    {
+        "id": "MF2208610",
+        "date": "2022-11-03",
+        "time": "12:47:51 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WOODSIDE RD ,WDS",
+        "location": "UNIVERSITY AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E2"
     }
 ]
