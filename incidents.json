@@ -1,36 +1,58 @@
 [
     {
-        "id": "SF2213097",
+        "id": "NF2211656",
         "date": "2022-11-02",
-        "time": "5:24:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "1239 QUINCE ST ,SMO",
-        "latitude": 37.5513212448632,
-        "longitude": -122.322253123742,
-        "units": "E25"
-    },
-    {
-        "id": "NF2211654",
-        "date": "2022-11-02",
-        "time": "5:17:02 PM",
+        "time": "6:04:01 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "CAMELOT CT ,DCY",
+        "location": "E MARKET ST #101A ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
+        "units": "?E92"
     },
     {
-        "id": "FF2206101",
+        "id": "RF2211088",
         "date": "2022-11-02",
-        "time": "5:16:21 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "5:58:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO WOODSIDE RD",
+        "latitude": 37.4924375527393,
+        "longitude": -122.221572014907,
+        "units": ">E9 >BC3 T9 E11 CM11X2?TAC15"
+    },
+    {
+        "id": "RF2211087",
+        "date": "2022-11-02",
+        "time": "5:52:53 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ALTA LOMA DR #3 ,SSF",
+        "location": "WOODSIDE RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": ">E10"
+    },
+    {
+        "id": "FF2206102",
+        "date": "2022-11-02",
+        "time": "5:50:39 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FRANCISCO DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "BF2203477",
+        "date": "2022-11-02",
+        "time": "5:34:27 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
     },
     {
         "id": "NF2211653",
@@ -42,16 +64,5 @@
         "latitude": 37.7041699289241,
         "longitude": -122.464145405838,
         "units": ">E95"
-    },
-    {
-        "id": "WF2201603",
-        "date": "2022-11-02",
-        "time": "4:54:29 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LOS TRANCOS RD ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E8"
     }
 ]
