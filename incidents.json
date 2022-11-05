@@ -1,25 +1,47 @@
 [
     {
+        "id": "RF2211188",
+        "date": "2022-11-05",
+        "time": "3:42:13 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SPRING ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "SF2213198",
+        "date": "2022-11-05",
+        "time": "3:39:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD #1310 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "RF2211187",
+        "date": "2022-11-05",
+        "time": "3:32:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "203 DEMI LN ,RWS",
+        "latitude": 37.5442199782949,
+        "longitude": -122.244257463467,
+        "units": "E20"
+    },
+    {
         "id": "NF2211771",
         "date": "2022-11-05",
         "time": "3:26:27 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
+        "category": "Traffic accident",
         "location": "SB 101 / NO SIERRA POINT PKWY",
         "latitude": 37.6989155941404,
         "longitude": -122.392986466886,
-        "units": "E61 E81 ?TAC35 ?CM31X5 ?BC17?Q62"
-    },
-    {
-        "id": "HF2202592",
-        "date": "2022-11-05",
-        "time": "3:26:19 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BELLEVILLE BLVD ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E40"
+        "units": "CM31X5 >BC17 TAC35 >Q62 >E61>E81"
     },
     {
         "id": "SF2213197",
@@ -30,18 +52,7 @@
         "location": "MONSERAT AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E17"
-    },
-    {
-        "id": "SF2213196",
-        "date": "2022-11-05",
-        "time": "3:19:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ARLINGTON LN ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
+        "units": ""
     },
     {
         "id": "SF2213195",
@@ -53,16 +64,5 @@
         "latitude": 37.5104770892466,
         "longitude": -122.286830104546,
         "units": ">E15"
-    },
-    {
-        "id": "BF2203508",
-        "date": "2022-11-05",
-        "time": "2:38:14 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #2123 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
