@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2208718",
+        "date": "2022-11-06",
+        "time": "3:40:34 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WISTERIA DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2213243",
+        "date": "2022-11-06",
+        "time": "3:36:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD #2111 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
+    },
+    {
+        "id": "RF2211232",
+        "date": "2022-11-06",
+        "time": "3:36:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HILLCREST DR ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
         "id": "SF2213242",
         "date": "2022-11-06",
         "time": "3:23:50 PM",
@@ -8,29 +41,7 @@
         "location": "HOSMER ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "SF2213241",
-        "date": "2022-11-06",
-        "time": "3:19:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2208717",
-        "date": "2022-11-06",
-        "time": "3:19:13 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E O'KEEFE ST #316 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": ">E29"
     },
     {
         "id": "RF2211231",
@@ -41,29 +52,7 @@
         "location": "525 MIDDLEFIELD RD #973 ,RCY",
         "latitude": 37.489423866019,
         "longitude": -122.228886520516,
-        "units": "?TAC15 CM11X4 T9 E13 >BC3>E11 E16"
-    },
-    {
-        "id": "RF2211230",
-        "date": "2022-11-06",
-        "time": "3:17:51 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "LF2200944",
-        "date": "2022-11-06",
-        "time": "3:10:51 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #2122 ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
+        "units": ""
     },
     {
         "id": "SF2213240",
@@ -74,7 +63,7 @@
         "location": "1346 SARATOGA DR ,SMO",
         "latitude": 37.5476826234924,
         "longitude": -122.299901009013,
-        "units": "HM14 >E26"
+        "units": ">E26"
     },
     {
         "id": "NF2211809",
@@ -85,6 +74,6 @@
         "location": "5100 CABRILLO HWY ,PCF",
         "latitude": 37.5983310494369,
         "longitude": -122.501447237564,
-        "units": ">BC20 ?TAC35 >BC121 CM31X1 >E71>E72 >R72"
+        "units": "?TAC35 >BC121 CM31X1 >E71 >E72>R72"
     }
 ]
