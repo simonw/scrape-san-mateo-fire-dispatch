@@ -1,36 +1,80 @@
 [
     {
+        "id": "SF2213242",
+        "date": "2022-11-06",
+        "time": "3:23:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOSMER ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "SF2213241",
+        "date": "2022-11-06",
+        "time": "3:19:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2208717",
+        "date": "2022-11-06",
+        "time": "3:19:13 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E O'KEEFE ST #316 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "RF2211231",
+        "date": "2022-11-06",
+        "time": "3:19:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "525 MIDDLEFIELD RD #973 ,RCY",
+        "latitude": 37.489423866019,
+        "longitude": -122.228886520516,
+        "units": "?TAC15 CM11X4 T9 E13 >BC3>E11 E16"
+    },
+    {
+        "id": "RF2211230",
+        "date": "2022-11-06",
+        "time": "3:17:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "LF2200944",
+        "date": "2022-11-06",
+        "time": "3:10:51 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #2122 ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
         "id": "SF2213240",
         "date": "2022-11-06",
         "time": "3:02:51 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Hazardous material - investiga",
+        "category": "Hazardous material - consult",
         "location": "1346 SARATOGA DR ,SMO",
         "latitude": 37.5476826234924,
         "longitude": -122.299901009013,
-        "units": "E26"
-    },
-    {
-        "id": "SF2213239",
-        "date": "2022-11-06",
-        "time": "2:58:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "CF2207088",
-        "date": "2022-11-06",
-        "time": "2:48:58 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "352 BROADWAY ,MLB",
-        "latitude": 37.6013981999159,
-        "longitude": -122.391994966007,
-        "units": ">E34"
+        "units": "HM14 >E26"
     },
     {
         "id": "NF2211809",
@@ -41,6 +85,6 @@
         "location": "5100 CABRILLO HWY ,PCF",
         "latitude": 37.5983310494369,
         "longitude": -122.501447237564,
-        "units": "?TAC35 >BC121 CM31X1 E71 >E72>R72"
+        "units": ">BC20 ?TAC35 >BC121 CM31X1 >E71>E72 >R72"
     }
 ]
