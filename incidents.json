@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2207082",
+        "date": "2022-11-06",
+        "time": "10:01:15 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1055B ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "RF2211222",
+        "date": "2022-11-06",
+        "time": "9:56:44 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PALM AVE #1 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "CF2207081",
+        "date": "2022-11-06",
+        "time": "9:53:44 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LARKSPUR DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
         "id": "DF2201925",
         "date": "2022-11-06",
         "time": "9:39:01 AM",
@@ -8,7 +41,7 @@
         "location": "SEASIDE SCHOOL RD ,SNG",
         "latitude": null,
         "longitude": null,
-        "units": "E1761 E59 R57 VFIR22"
+        "units": ">E1761 >R57 >E59 VFIR22"
     },
     {
         "id": "FF2206179",
@@ -19,18 +52,7 @@
         "location": "HOWARD CT ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "SF2213227",
-        "date": "2022-11-06",
-        "time": "9:33:06 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CORONADO LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
+        "units": "E64"
     },
     {
         "id": "MF2208710",
@@ -41,29 +63,7 @@
         "location": "SHARON PARK DR #31 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "SQ407"
-    },
-    {
-        "id": "FF2206178",
-        "date": "2022-11-06",
-        "time": "9:30:12 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "VETERANS BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "RF2211221",
-        "date": "2022-11-06",
-        "time": "9:21:57 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST #1307 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
+        "units": ">SQ407"
     },
     {
         "id": "SF2213226",
@@ -74,6 +74,6 @@
         "location": "1039 FOSTER SQUARE LN ,FCY",
         "latitude": 37.5580832468593,
         "longitude": -122.268911439734,
-        "units": "CM21X1 TAC25 >E29 >T23"
+        "units": ">E29"
     }
 ]
