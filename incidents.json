@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2211852",
+        "date": "2022-11-07",
+        "time": "12:39:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "2000 SHORELINE CT ,BRS",
+        "latitude": 37.6721863760177,
+        "longitude": -122.388632580806,
+        "units": "E81"
+    },
+    {
+        "id": "CF2207112",
+        "date": "2022-11-07",
+        "time": "12:36:58 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "11 ROLLINS RD ,MLB",
+        "latitude": 37.6000091939903,
+        "longitude": -122.38303489806,
+        "units": ""
+    },
+    {
+        "id": "MF2208748",
+        "date": "2022-11-07",
+        "time": "12:30:47 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "100 EL CAMINO REAL ,MNP",
+        "latitude": 37.4477514911593,
+        "longitude": -122.172123457965,
+        "units": "CM11X1 ?TAC15 >BC1 >E3"
+    },
+    {
         "id": "FF2206206",
         "date": "2022-11-07",
         "time": "12:25:16 PM",
@@ -11,39 +44,6 @@
         "units": "E64"
     },
     {
-        "id": "SF2213284",
-        "date": "2022-11-07",
-        "time": "12:12:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE #H ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "FF2206204",
-        "date": "2022-11-07",
-        "time": "12:08:59 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "BF2203529",
-        "date": "2022-11-07",
-        "time": "12:07:46 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
         "id": "WF2201633",
         "date": "2022-11-07",
         "time": "12:01:35 PM",
@@ -52,50 +52,6 @@
         "location": "SAND HILL RD / WHISKEY HILL RD",
         "latitude": 37.4119040261176,
         "longitude": -122.240521429176,
-        "units": "T1 ?TAC16 >MED2 CM11X5 E8"
-    },
-    {
-        "id": "WF2201632",
-        "date": "2022-11-07",
-        "time": "12:00:57 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LYNN WAY ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "WF2201631",
-        "date": "2022-11-07",
-        "time": "11:44:11 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MARTINEZ RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2202601",
-        "date": "2022-11-07",
-        "time": "8:54:48 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Gas main break",
-        "location": "503 VALENCIA AVE ,ELG",
-        "latitude": 37.5066848867572,
-        "longitude": -122.477055521607,
-        "units": ""
-    },
-    {
-        "id": "MF2208737",
-        "date": "2022-11-07",
-        "time": "6:26:25 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Vehicle fire",
-        "location": "WB 84 / EO HIGH RI",
-        "latitude": 37.5326223484999,
-        "longitude": -122.08773172975,
-        "units": ">T2"
+        "units": "T1 >MED2 E8"
     }
 ]
