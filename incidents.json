@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2208738",
+        "date": "2022-11-07",
+        "time": "7:04:42 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL #4B ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "SF2213272",
+        "date": "2022-11-07",
+        "time": "6:46:54 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NORTON ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "MF2208737",
         "date": "2022-11-07",
         "time": "6:26:25 AM",
@@ -8,17 +30,6 @@
         "location": "WB 84 / EO HIGH RI",
         "latitude": 37.5326223484999,
         "longitude": -122.08773172975,
-        "units": ">E2 >BC101 E5 >R77 FRBC6FRE60 >E77 CM11X1 ?TAC15"
-    },
-    {
-        "id": "RF2211240",
-        "date": "2022-11-07",
-        "time": "6:10:34 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ARCH ST #2 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">T2 >FRE60 >FRBC6 >E5 >E2>BC101 >R77 >E77 CM11X1 ?TAC15"
     }
 ]
