@@ -1,14 +1,102 @@
 [
     {
-        "id": "SF2213275",
+        "id": "BF2203527",
         "date": "2022-11-07",
-        "time": "8:58:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:27:59 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "851 CHERRY AVE ,SNB",
+        "latitude": 37.6264692901327,
+        "longitude": -122.426890228648,
+        "units": "E51"
+    },
+    {
+        "id": "MF2208744",
+        "date": "2022-11-07",
+        "time": "9:24:37 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "S SAN MATEO DR ,SMO",
+        "location": "COOLEY AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": ">E1"
+    },
+    {
+        "id": "MF2208743",
+        "date": "2022-11-07",
+        "time": "9:24:31 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "STONE PINE LN ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "T1 CM11X4 >E6"
+    },
+    {
+        "id": "NF2211838",
+        "date": "2022-11-07",
+        "time": "9:23:30 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HEATHER CT ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "CF2207102",
+        "date": "2022-11-07",
+        "time": "9:19:37 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1049A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "MF2208742",
+        "date": "2022-11-07",
+        "time": "9:16:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MESA CT ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "WF2201629",
+        "date": "2022-11-07",
+        "time": "9:13:19 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "445 MANZANITA WAY ,WDS",
+        "latitude": 37.4182247172622,
+        "longitude": -122.245883063392,
+        "units": ">E7"
+    },
+    {
+        "id": "MF2208741",
+        "date": "2022-11-07",
+        "time": "9:11:59 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VIRGINIA LN ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "NF2211837",
+        "date": "2022-11-07",
+        "time": "9:09:40 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "86 WESTHAVEN DR ,DCY",
+        "latitude": 37.7025861117898,
+        "longitude": -122.48781408432,
+        "units": ">E91"
     },
     {
         "id": "HF2202601",
@@ -19,7 +107,7 @@
         "location": "503 VALENCIA AVE ,ELG",
         "latitude": 37.5066848867572,
         "longitude": -122.477055521607,
-        "units": ">E40 >E17 TAC45 E72 >E44>BC10 CM41X5"
+        "units": "TAC45 CM41X5 >E17 >E44 >E40>BC10 >E72"
     },
     {
         "id": "MF2208737",
@@ -30,6 +118,6 @@
         "location": "WB 84 / EO HIGH RI",
         "latitude": 37.5326223484999,
         "longitude": -122.08773172975,
-        "units": ">T2 >FRBC6 >E5 >E2 >BC101>E77 CM11X1 ?TAC15"
+        "units": "CM11X1 ?TAC15 >E2 >E77 >FRBC6>BC101 >E5 >T2"
     }
 ]
