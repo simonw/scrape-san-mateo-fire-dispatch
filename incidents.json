@@ -1,36 +1,91 @@
 [
     {
-        "id": "MF2208809",
+        "id": "NF2211930",
         "date": "2022-11-09",
-        "time": "1:42:22 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "2:03:29 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BAY RD ,EPA",
+        "location": "PIERCE ST #214 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "T95"
     },
     {
-        "id": "MF2208808",
+        "id": "NF2211929",
         "date": "2022-11-09",
-        "time": "1:42:20 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "2:02:59 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BLENHEIM AVE #10 ,NFO",
+        "location": "LAKE MERCED BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E3"
+        "units": "E95"
     },
     {
-        "id": "MF2208807",
+        "id": "SF2213377",
         "date": "2022-11-09",
-        "time": "1:40:45 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "2:02:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "BERKSHIRE AVE #4 ,NFO",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E1"
+        "units": "E15"
+    },
+    {
+        "id": "CF2207161",
+        "date": "2022-11-09",
+        "time": "2:02:34 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ANITA DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "SF2213376",
+        "date": "2022-11-09",
+        "time": "1:54:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "SF2213375",
+        "date": "2022-11-09",
+        "time": "1:52:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MOUNDS RD #207 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "FF2206257",
+        "date": "2022-11-09",
+        "time": "1:46:36 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S SAN FRANCISCO DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "WF2201651",
+        "date": "2022-11-09",
+        "time": "1:44:39 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Gas main break",
+        "location": "3 WINTERCREEK ,PVY",
+        "latitude": 37.3618006712048,
+        "longitude": -122.207214681674,
+        "units": ">E8"
     },
     {
         "id": "SF2213374",
@@ -41,73 +96,7 @@
         "location": "HOLLAND ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "FF2206256",
-        "date": "2022-11-09",
-        "time": "1:35:23 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "FF2206255",
-        "date": "2022-11-09",
-        "time": "1:31:52 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MILLER AVE #14 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "SF2213373",
-        "date": "2022-11-09",
-        "time": "1:28:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N SAN MATEO DR #307 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "CF2207160",
-        "date": "2022-11-09",
-        "time": "1:21:31 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MILLS AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2211927",
-        "date": "2022-11-09",
-        "time": "1:20:24 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "HICKEY BLVD / GELLERT BLVD",
-        "latitude": 37.6645111723159,
-        "longitude": -122.469110896149,
-        "units": "?CM31X2"
-    },
-    {
-        "id": "MF2208806",
-        "date": "2022-11-09",
-        "time": "1:19:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #101 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "units": ""
     },
     {
         "id": "NF2211926",
@@ -118,17 +107,6 @@
         "location": "LAKE MERCED BLVD / JOHN DALY BLVD",
         "latitude": 37.7014028709043,
         "longitude": -122.484840281023,
-        "units": ">BC20 ?TAC35 >T95 >E91 ?CM31X4"
-    },
-    {
-        "id": "WF2201649",
-        "date": "2022-11-09",
-        "time": "12:09:20 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "840 WESTRIDGE DR ,PVY",
-        "latitude": 37.3920188776832,
-        "longitude": -122.217796765239,
-        "units": ">SQ407"
+        "units": ">BC20 ?TAC35 >E91 ?CM31X4"
     }
 ]
