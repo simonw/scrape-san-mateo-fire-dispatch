@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2213369",
+        "date": "2022-11-09",
+        "time": "11:42:17 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "EB 92 / EO HIGH RI",
+        "latitude": 37.5968493998132,
+        "longitude": -122.222529393744,
+        "units": "?TAC25 ?CM21X3 ?BC5 ?E29 ?T21"
+    },
+    {
+        "id": "BF2203558",
+        "date": "2022-11-09",
+        "time": "11:41:29 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SNEATH LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "RF2211332",
+        "date": "2022-11-09",
+        "time": "11:29:49 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "108 WILSHIRE CT ,SNC",
+        "latitude": 37.4896898393757,
+        "longitude": -122.268760886574,
+        "units": ">E16"
+    },
+    {
+        "id": "HF2202621",
+        "date": "2022-11-09",
+        "time": "11:27:00 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CULEBRA LN ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
         "id": "RF2211331",
         "date": "2022-11-09",
         "time": "11:19:20 AM",
@@ -8,7 +52,7 @@
         "location": "HOPKINS AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": ""
     },
     {
         "id": "HF2202620",
@@ -22,17 +66,6 @@
         "units": ">E40"
     },
     {
-        "id": "RF2211330",
-        "date": "2022-11-09",
-        "time": "11:11:48 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY #35 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
         "id": "FF2206251",
         "date": "2022-11-09",
         "time": "11:08:03 AM",
@@ -42,38 +75,5 @@
         "latitude": 37.6532548430422,
         "longitude": -122.391855736146,
         "units": ">Q62"
-    },
-    {
-        "id": "CF2207158",
-        "date": "2022-11-09",
-        "time": "11:05:46 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #222 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "CF2207157",
-        "date": "2022-11-09",
-        "time": "11:02:24 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HAYWARD DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "FF2206250",
-        "date": "2022-11-09",
-        "time": "11:02:02 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COUNTRY CLUB DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
     }
 ]
