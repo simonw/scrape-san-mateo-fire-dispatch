@@ -1,14 +1,25 @@
 [
     {
-        "id": "CF2207174",
+        "id": "CF2207175",
         "date": "2022-11-10",
-        "time": "8:48:15 AM",
+        "time": "8:57:14 AM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "TROUSDALE DR #1020A ,BRM",
+        "location": "LAKE ST ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
+    },
+    {
+        "id": "SF2213414",
+        "date": "2022-11-10",
+        "time": "8:53:15 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SHELL BLVD ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
     },
     {
         "id": "RF2211365",
@@ -19,7 +30,7 @@
         "location": "SB 101 / NO WHIPPLE AVE",
         "latitude": 37.501502985081,
         "longitude": -122.242206420289,
-        "units": "T9 E16 E9 BC3 CM11X5?TAC15"
+        "units": "?TAC15 >T9 >BC3 CM11X5 >E16"
     },
     {
         "id": "MF2208828",
@@ -31,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E77"
-    },
-    {
-        "id": "FF2206267",
-        "date": "2022-11-10",
-        "time": "8:37:59 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "624 TAMARACK LN ,SSF",
-        "latitude": 37.6589923541684,
-        "longitude": -122.420068830909,
-        "units": ">E61"
     }
 ]
