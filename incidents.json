@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2206293",
+        "date": "2022-11-11",
+        "time": "12:59:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CALIFORNIA AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "Q62"
+    },
+    {
+        "id": "RF2211421",
+        "date": "2022-11-11",
+        "time": "12:58:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELIZABETH ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2213477",
+        "date": "2022-11-11",
+        "time": "12:55:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MEZES AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "SF2213476",
+        "date": "2022-11-11",
+        "time": "12:53:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "3307 BAY CT ,BLM",
+        "latitude": 37.5216023963677,
+        "longitude": -122.312459499714,
+        "units": ">E15"
+    },
+    {
         "id": "MF2208862",
         "date": "2022-11-11",
         "time": "12:30:40 PM",
@@ -8,18 +52,7 @@
         "location": "CAMELLIA DR ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">T2 >E2 >CM31X1"
-    },
-    {
-        "id": "FF2206292",
-        "date": "2022-11-11",
-        "time": "12:26:00 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "170 HARBOR WAY ,SSF",
-        "latitude": 37.6530428659474,
-        "longitude": -122.40091969277,
-        "units": ""
+        "units": ">E2 >CM31X1 >T2"
     },
     {
         "id": "DF2201957",
@@ -30,6 +63,6 @@
         "location": "100 WRIGHT DR ,LMR",
         "latitude": 37.2715465300751,
         "longitude": -122.284654580868,
-        "units": "TAC15 >E55 >E59 >R57"
+        "units": "TAC15 >E55"
     }
 ]
