@@ -1,14 +1,25 @@
 [
     {
-        "id": "HF2202640",
+        "id": "SF2213502",
         "date": "2022-11-11",
-        "time": "10:04:04 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "10:27:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c2",
+        "location": "22ND AVE / S EL CAMINO REAL",
+        "latitude": 37.5463376813041,
+        "longitude": -122.307706859289,
+        "units": "E23"
+    },
+    {
+        "id": "RF2211436",
+        "date": "2022-11-11",
+        "time": "10:07:11 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "N CABRILLO HWY ,HMB",
+        "location": "BROADWAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": ""
     },
     {
         "id": "MF2208881",
@@ -19,18 +30,7 @@
         "location": "WILLOW RD #205 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
-    },
-    {
-        "id": "SF2213501",
-        "date": "2022-11-11",
-        "time": "10:00:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W HILLSDALE BLVD / EDISON ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E77"
     },
     {
         "id": "NF2212048",
@@ -41,17 +41,6 @@
         "location": "SHEFFIELD DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "FF2206296",
-        "date": "2022-11-11",
-        "time": "9:51:38 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "320 DNA WAY ,SSF",
-        "latitude": 37.6547011655173,
-        "longitude": -122.382000681222,
-        "units": ">Q62"
+        "units": ""
     }
 ]
