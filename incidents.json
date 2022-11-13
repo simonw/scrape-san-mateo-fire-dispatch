@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2208927",
+        "id": "MF2208928",
         "date": "2022-11-13",
-        "time": "1:22:18 PM",
+        "time": "1:40:44 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "VERBENA DR ,EPA",
+        "location": "ILLINOIS ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "T2"
+    },
+    {
+        "id": "NF2212110",
+        "date": "2022-11-13",
+        "time": "1:35:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "70 WESTRIDGE AVE ,DCY",
+        "latitude": 37.6913411229333,
+        "longitude": -122.491969333322,
+        "units": ">E95"
+    },
+    {
+        "id": "NF2212109",
+        "date": "2022-11-13",
+        "time": "1:34:51 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WESTCLIFF CT ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "NF2212108",
+        "date": "2022-11-13",
+        "time": "1:27:25 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ARGUELLO BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
     },
     {
         "id": "NF2212107",
@@ -19,7 +52,7 @@
         "location": "MORI POINT RD ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">ERV72 >E72 >E71 >CM31X2"
+        "units": ">ERV72 >E71 >CM31X2"
     },
     {
         "id": "NF2212106",
@@ -31,16 +64,5 @@
         "latitude": 37.6540074635937,
         "longitude": -122.453402476534,
         "units": ">E94"
-    },
-    {
-        "id": "RF2211481",
-        "date": "2022-11-13",
-        "time": "12:59:52 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PEARL AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
     }
 ]
