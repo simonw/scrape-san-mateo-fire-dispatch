@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2213619",
+        "date": "2022-11-15",
+        "time": "8:44:35 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "COVINGTON RD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "BF2203625",
+        "date": "2022-11-15",
+        "time": "8:41:24 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JENEVEIN AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2211537",
+        "date": "2022-11-15",
+        "time": "8:37:55 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HASTINGS SHORE LN ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "FF2206360",
+        "date": "2022-11-15",
+        "time": "8:34:49 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "JUNIPERO SERRA BLVD / WESTBOROUGH BLVD",
+        "latitude": 37.6459959212589,
+        "longitude": -122.448345189396,
+        "units": ">BC17 ?TAC35 >E64 CM31X4"
+    },
+    {
         "id": "MF2208965",
         "date": "2022-11-15",
         "time": "8:31:01 AM",
@@ -8,18 +52,7 @@
         "location": "FACEBOOK WAY ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
-    },
-    {
-        "id": "HF2202666",
-        "date": "2022-11-15",
-        "time": "8:25:38 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "321 4TH AVE ,MIR",
-        "latitude": 37.4970122231683,
-        "longitude": -122.457887756964,
-        "units": "E17"
+        "units": ">E77"
     },
     {
         "id": "WF2201676",
@@ -30,29 +63,7 @@
         "location": "SB 280 / NO WOODSIDE RD",
         "latitude": 37.4282029747085,
         "longitude": -122.23430542581,
-        "units": "CM11X1 ?TAC16 >E19 >E12"
-    },
-    {
-        "id": "BF2203624",
-        "date": "2022-11-15",
-        "time": "8:10:32 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "3RD AVE / E SAN BRUNO AVE",
-        "latitude": 37.6308792354424,
-        "longitude": -122.409472026631,
-        "units": ""
-    },
-    {
-        "id": "LF2200990",
-        "date": "2022-11-15",
-        "time": "8:08:25 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MADDUX DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">MED19 CM31X1 >E86"
+        "units": ">E19"
     },
     {
         "id": "MF2208963",
@@ -63,6 +74,6 @@
         "location": "121 LELAND AVE ,WMP",
         "latitude": 37.4274903740097,
         "longitude": -122.1920534134,
-        "units": "CM11X4 >BC1 ?TAC15 >E4"
+        "units": ">E4"
     }
 ]
