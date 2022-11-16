@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2206395",
+        "date": "2022-11-16",
+        "time": "12:26:04 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE #1 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "FF2206394",
+        "date": "2022-11-16",
+        "time": "12:17:28 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA VISTA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "CF2207315",
+        "date": "2022-11-16",
+        "time": "12:10:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "835 AIRPORT BLVD ,BRM",
+        "latitude": 37.5906488666974,
+        "longitude": -122.350942454073,
+        "units": ">T34"
+    },
+    {
+        "id": "SF2213662",
+        "date": "2022-11-16",
+        "time": "12:04:34 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "2220 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5592557153616,
+        "longitude": -122.282217007693,
+        "units": ">BC5 CM21X1 ?TAC25 MED5 >E29>E28 >T23"
+    },
+    {
         "id": "BF2203643",
         "date": "2022-11-16",
         "time": "12:03:46 PM",
@@ -8,7 +52,7 @@
         "location": "1150 EL CAMINO REAL ,SNB",
         "latitude": 37.6369388775055,
         "longitude": -122.418601675439,
-        "units": "E51 ?TAC37 ?CM31X3 ?BC124 ?T34"
+        "units": ">E51"
     },
     {
         "id": "HF2202689",
@@ -19,62 +63,7 @@
         "location": "EL GRANADA BLVD ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "RF2211580",
-        "date": "2022-11-16",
-        "time": "11:57:18 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OHIO AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "RF2211581",
-        "date": "2022-11-16",
-        "time": "11:57:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "86 MADRONA ST ,SNC",
-        "latitude": 37.5051978314562,
-        "longitude": -122.27157350719,
-        "units": "E16"
-    },
-    {
-        "id": "FF2206393",
-        "date": "2022-11-16",
-        "time": "11:47:50 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "400 S AIRPORT BLVD ,SSF",
-        "latitude": 37.6427070489966,
-        "longitude": -122.4039166978,
-        "units": ">E61 >BC17 >Q62 >E65 CM31X2?TAC36"
-    },
-    {
-        "id": "SF2213660",
-        "date": "2022-11-16",
-        "time": "11:42:43 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FRANKLIN PKWY #2ND FLOOR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2211578",
-        "date": "2022-11-16",
-        "time": "11:40:17 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #205 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ">E40"
     },
     {
         "id": "MF2209015",
@@ -88,17 +77,6 @@
         "units": "E4"
     },
     {
-        "id": "MF2209013",
-        "date": "2022-11-16",
-        "time": "11:32:00 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident - structure",
-        "location": "2575 SAND HILL RD ,MNP",
-        "latitude": 37.4197700506166,
-        "longitude": -122.20392567363,
-        "units": ">BC1 >CH2A >E8"
-    },
-    {
         "id": "BF2203642",
         "date": "2022-11-16",
         "time": "11:02:44 AM",
@@ -107,6 +85,6 @@
         "location": "1821 MONTEREY DR ,SNB",
         "latitude": 37.6210737000535,
         "longitude": -122.448435298127,
-        "units": ">E52 ?TAC35 CM31X1 >BC16 >T51>E64"
+        "units": "?TAC35 CM31X1 >T51 >E64"
     }
 ]
