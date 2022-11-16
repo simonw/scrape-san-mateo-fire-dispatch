@@ -1,5 +1,60 @@
 [
     {
+        "id": "DF2201986",
+        "date": "2022-11-16",
+        "time": "2:24:34 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "CABRILLO HWY S / PESCADERO CREEK RD",
+        "latitude": 37.2597092171182,
+        "longitude": -122.413227584936,
+        "units": "CO55 E40 TAC15 BC10 E59?CO57"
+    },
+    {
+        "id": "HF2202691",
+        "date": "2022-11-16",
+        "time": "2:24:07 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "4TH AVE / MEDIO AVE",
+        "latitude": 37.4962984542893,
+        "longitude": -122.457365637546,
+        "units": "E17"
+    },
+    {
+        "id": "SF2213674",
+        "date": "2022-11-16",
+        "time": "2:22:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N B ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
+    },
+    {
+        "id": "SF2213675",
+        "date": "2022-11-16",
+        "time": "2:21:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "221 N EL CAMINO REAL #O ,SMO",
+        "latitude": 37.5682139443013,
+        "longitude": -122.332743343523,
+        "units": "?E32"
+    },
+    {
+        "id": "SF2213673",
+        "date": "2022-11-16",
+        "time": "2:19:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "2220 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5592557153616,
+        "longitude": -122.282217007693,
+        "units": "E29"
+    },
+    {
         "id": "CF2207321",
         "date": "2022-11-16",
         "time": "2:04:06 PM",
@@ -8,7 +63,7 @@
         "location": "MANGINI WAY ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E34"
+        "units": ">E34"
     },
     {
         "id": "MF2209021",
@@ -19,40 +74,7 @@
         "location": "W BAYSHORE RD #66 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "SF2213672",
-        "date": "2022-11-16",
-        "time": "2:00:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1714 S GRANT ST ,SMO",
-        "latitude": 37.5571320642529,
-        "longitude": -122.303127783358,
-        "units": "E23"
-    },
-    {
-        "id": "HF2202690",
-        "date": "2022-11-16",
-        "time": "1:56:50 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POPLAR ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "MF2209020",
-        "date": "2022-11-16",
-        "time": "1:53:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "units": ">E2"
     },
     {
         "id": "NF2212230",
@@ -63,7 +85,7 @@
         "location": "147 PLYMOUTH CIR ,DCY",
         "latitude": 37.65236726322,
         "longitude": -122.456724582844,
-        "units": ">E51 ?NFAINV >E91 >E94 >BC123>BC124 >E72 >E64 T51 CM31X4"
+        "units": "*>BC124 >BC123 >E94 ?TAC35 >T51>E64 >PR20B >PR20 >E91 CM31X4"
     },
     {
         "id": "SF2213671",
@@ -86,61 +108,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E24"
-    },
-    {
-        "id": "SF2213669",
-        "date": "2022-11-16",
-        "time": "1:45:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CATAMARAN ST ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "RF2211584",
-        "date": "2022-11-16",
-        "time": "1:43:50 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "1443 KENTFIELD AVE ,RCY",
-        "latitude": 37.4669800850491,
-        "longitude": -122.230292731371,
-        "units": "TAC15 CM11X4 >T9 >BC3 >E10"
-    },
-    {
-        "id": "CF2207320",
-        "date": "2022-11-16",
-        "time": "1:43:37 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LONGVIEW RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "SF2213668",
-        "date": "2022-11-16",
-        "time": "1:40:01 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FOSTER CITY BLVD ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "NF2212228",
-        "date": "2022-11-16",
-        "time": "1:32:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BAYSHORE BLVD ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
     },
     {
         "id": "FF2206396",
