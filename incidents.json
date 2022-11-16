@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2207324",
+        "date": "2022-11-16",
+        "time": "2:59:56 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "150 CHATEAU DR ,HIL",
+        "latitude": 37.5650822302254,
+        "longitude": -122.364372922228,
+        "units": "E33"
+    },
+    {
+        "id": "RF2211586",
+        "date": "2022-11-16",
+        "time": "2:55:29 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD #317 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "CF2207322",
         "date": "2022-11-16",
         "time": "2:36:53 PM",
@@ -8,29 +30,7 @@
         "location": "1045 CADILLAC WAY #206 ,BRM",
         "latitude": 37.5875120864274,
         "longitude": -122.359632356215,
-        "units": ">E34 >T34 E37 CM21X5 E35BC8 ?TAC25"
-    },
-    {
-        "id": "BF2203644",
-        "date": "2022-11-16",
-        "time": "2:31:58 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN ANSELMO AVE S ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2211585",
-        "date": "2022-11-16",
-        "time": "2:31:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "761 ORANGE AVE ,SNC",
-        "latitude": 37.500306429683,
-        "longitude": -122.262751530897,
-        "units": ""
+        "units": ">E34"
     },
     {
         "id": "DF2201986",
@@ -44,28 +44,6 @@
         "units": "TAC15 >TO10 >E40 >TO11 >BC10>E59 >E655 >R57"
     },
     {
-        "id": "SF2213675",
-        "date": "2022-11-16",
-        "time": "2:21:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "221 N EL CAMINO REAL #O ,SMO",
-        "latitude": 37.5682139443013,
-        "longitude": -122.332743343523,
-        "units": ">E32"
-    },
-    {
-        "id": "SF2213673",
-        "date": "2022-11-16",
-        "time": "2:19:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "2220 BRIDGEPOINTE PKWY ,SMO",
-        "latitude": 37.5592557153616,
-        "longitude": -122.282217007693,
-        "units": ">E29"
-    },
-    {
         "id": "NF2212230",
         "date": "2022-11-16",
         "time": "1:49:16 PM",
@@ -74,18 +52,7 @@
         "location": "147 PLYMOUTH CIR ,DCY",
         "latitude": 37.65236726322,
         "longitude": -122.456724582844,
-        "units": ">BC123 >E94 ?TAC35 >E64 >PR20B>PR20 >E91 CM31X4 >E72"
-    },
-    {
-        "id": "SF2213671",
-        "date": "2022-11-16",
-        "time": "1:48:00 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "850 N EL CAMINO REAL #445 ,SMO",
-        "latitude": 37.5746669714265,
-        "longitude": -122.341854841836,
-        "units": ">E21"
+        "units": ">BC123 >E94 ?TAC35 >E64 >PR20B>PR20 CM31X4"
     },
     {
         "id": "FF2206396",
@@ -96,6 +63,6 @@
         "location": "HEATHER WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65 ?CM31X5"
+        "units": "E65"
     }
 ]
