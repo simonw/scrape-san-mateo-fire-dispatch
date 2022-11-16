@@ -1,5 +1,71 @@
 [
     {
+        "id": "BF2203643",
+        "date": "2022-11-16",
+        "time": "12:03:46 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "1150 EL CAMINO REAL ,SNB",
+        "latitude": 37.6369388775055,
+        "longitude": -122.418601675439,
+        "units": "E51 ?TAC37 ?CM31X3 ?BC124 ?T34"
+    },
+    {
+        "id": "HF2202689",
+        "date": "2022-11-16",
+        "time": "12:02:08 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL GRANADA BLVD ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "RF2211580",
+        "date": "2022-11-16",
+        "time": "11:57:18 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OHIO AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2211581",
+        "date": "2022-11-16",
+        "time": "11:57:01 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "86 MADRONA ST ,SNC",
+        "latitude": 37.5051978314562,
+        "longitude": -122.27157350719,
+        "units": "E16"
+    },
+    {
+        "id": "FF2206393",
+        "date": "2022-11-16",
+        "time": "11:47:50 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Full assignment response",
+        "location": "400 S AIRPORT BLVD ,SSF",
+        "latitude": 37.6427070489966,
+        "longitude": -122.4039166978,
+        "units": ">E61 >BC17 >Q62 >E65 CM31X2?TAC36"
+    },
+    {
+        "id": "SF2213660",
+        "date": "2022-11-16",
+        "time": "11:42:43 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FRANKLIN PKWY #2ND FLOOR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "RF2211578",
         "date": "2022-11-16",
         "time": "11:40:17 AM",
@@ -8,7 +74,7 @@
         "location": "EL CAMINO REAL #205 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": ">E13"
     },
     {
         "id": "MF2209015",
@@ -19,18 +85,7 @@
         "location": "ALAMEDA DE LAS PULGAS / VALPARAISO AVE",
         "latitude": 37.4340844598375,
         "longitude": -122.20579922071,
-        "units": "T9 CM11X2 TAC16 BC101 >E4"
-    },
-    {
-        "id": "MF2209014",
-        "date": "2022-11-16",
-        "time": "11:32:57 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE / MIDDLEFIELD RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": "E4"
     },
     {
         "id": "MF2209013",
@@ -41,18 +96,7 @@
         "location": "2575 SAND HILL RD ,MNP",
         "latitude": 37.4197700506166,
         "longitude": -122.20392567363,
-        "units": ">BC1 CH2A >E8 E3 TAC15T1 E1 CM11X5"
-    },
-    {
-        "id": "RF2211577",
-        "date": "2022-11-16",
-        "time": "11:30:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">BC1 >CH2A >E8"
     },
     {
         "id": "BF2203642",
@@ -63,6 +107,6 @@
         "location": "1821 MONTEREY DR ,SNB",
         "latitude": 37.6210737000535,
         "longitude": -122.448435298127,
-        "units": ">E52 ?TAC35 CM31X1 >BC16 >T51>E38 >E64"
+        "units": ">E52 ?TAC35 CM31X1 >BC16 >T51>E64"
     }
 ]
