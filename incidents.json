@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2212220",
+        "date": "2022-11-16",
+        "time": "9:36:48 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GRANADA DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "MF2209009",
+        "date": "2022-11-16",
+        "time": "9:30:54 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "430 E O'KEEFE ST ,EPA",
+        "latitude": 37.4614075002104,
+        "longitude": -122.146188689338,
+        "units": ">E2"
+    },
+    {
         "id": "FF2206385",
         "date": "2022-11-16",
         "time": "9:26:33 AM",
@@ -8,7 +30,7 @@
         "location": "FOREST VIEW DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E65"
+        "units": ">E65"
     },
     {
         "id": "FF2206384",
@@ -19,7 +41,7 @@
         "location": "510 AIRPORT BLVD ,SSF",
         "latitude": 37.656776288157,
         "longitude": -122.40667465687,
-        "units": "E61"
+        "units": ">E61"
     },
     {
         "id": "FF2206383",
@@ -33,39 +55,6 @@
         "units": ">E63"
     },
     {
-        "id": "CF2207310",
-        "date": "2022-11-16",
-        "time": "9:17:13 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MAHLER RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "WF2201684",
-        "date": "2022-11-16",
-        "time": "9:15:09 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA RD ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "FF2206381",
-        "date": "2022-11-16",
-        "time": "9:08:55 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "645 E GRAND AVE ,SSF",
-        "latitude": 37.6504552879756,
-        "longitude": -122.38297464834,
-        "units": ">Q62"
-    },
-    {
         "id": "HF2202682",
         "date": "2022-11-16",
         "time": "8:54:59 AM",
@@ -74,6 +63,6 @@
         "location": "1330 CEDAR ST ,MON",
         "latitude": 37.5381269744931,
         "longitude": -122.50642599911,
-        "units": ">E40 >BC10"
+        "units": "*>E40 >BC10"
     }
 ]
