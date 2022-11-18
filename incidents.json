@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2206422",
+        "date": "2022-11-18",
+        "time": "7:13:44 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE #111 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "SF2213721",
+        "date": "2022-11-18",
+        "time": "7:06:50 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "1218 W HILLSDALE BLVD #A ,SMO",
+        "latitude": 37.533891491698,
+        "longitude": -122.326345625694,
+        "units": ">E27"
+    },
+    {
         "id": "HF2202718",
         "date": "2022-11-18",
         "time": "7:03:00 AM",
@@ -8,61 +30,6 @@
         "location": "2651 N CABRILLO HWY ,HMB",
         "latitude": 37.4888570534313,
         "longitude": -122.446934883991,
-        "units": "BC10 E40 E41 ?TAC45 ?CM41X3"
-    },
-    {
-        "id": "SF2213720",
-        "date": "2022-11-18",
-        "time": "7:00:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "60 31ST AVE ,SMO",
-        "latitude": 37.5389350979686,
-        "longitude": -122.301956113109,
-        "units": "E23"
-    },
-    {
-        "id": "RF2211649",
-        "date": "2022-11-18",
-        "time": "6:57:05 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #2123 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "BF2203663",
-        "date": "2022-11-18",
-        "time": "6:54:11 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "E SAN BRUNO AVE / 4TH AVE",
-        "latitude": 37.6308912226688,
-        "longitude": -122.408563939948,
-        "units": ">T51 >E51 >BC16 TAC35 CM31X5"
-    },
-    {
-        "id": "CF2207369",
-        "date": "2022-11-18",
-        "time": "6:38:26 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "STONEPINE RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "CF2207368",
-        "date": "2022-11-18",
-        "time": "6:35:36 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EASTMOOR RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ">E41 ?TAC45 CM41X3 >BC10"
     }
 ]
