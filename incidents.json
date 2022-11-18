@@ -1,14 +1,47 @@
 [
     {
-        "id": "WF2201697",
+        "id": "RF2211664",
         "date": "2022-11-18",
-        "time": "12:19:25 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "2 MEADOW CREEK CT ,PVY",
-        "latitude": 37.373252329998,
-        "longitude": -122.199670218613,
-        "units": ">E8"
+        "time": "12:37:42 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TWIN DOLPHIN DR #229 ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "DF2201991",
+        "date": "2022-11-18",
+        "time": "12:35:59 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "752 NORTH ST ,PES",
+        "latitude": 37.2558171155147,
+        "longitude": -122.380308085043,
+        "units": "E655 >E1761 >E59 CO55 E57?TAC15"
+    },
+    {
+        "id": "MF2209077",
+        "date": "2022-11-18",
+        "time": "12:33:10 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2213731",
+        "date": "2022-11-18",
+        "time": "12:29:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "820 N EL CAMINO REAL ,SMO",
+        "latitude": 37.5739197615876,
+        "longitude": -122.340980445773,
+        "units": ">E21"
     },
     {
         "id": "HF2202723",
@@ -22,50 +55,6 @@
         "units": ">E44"
     },
     {
-        "id": "MF2209076",
-        "date": "2022-11-18",
-        "time": "12:17:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WINDERMERE AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "RF2211663",
-        "date": "2022-11-18",
-        "time": "12:14:32 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARINE PKWY / ORACLE PKWY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "RF2211662",
-        "date": "2022-11-18",
-        "time": "12:13:21 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "FF2206425",
-        "date": "2022-11-18",
-        "time": "12:05:10 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #34 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "HF2202722",
         "date": "2022-11-18",
         "time": "11:51:13 AM",
@@ -74,6 +63,6 @@
         "location": "PATRICK WAY ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": "*>E40"
     }
 ]
