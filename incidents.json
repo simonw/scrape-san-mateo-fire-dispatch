@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2213797",
+        "date": "2022-11-19",
+        "time": "8:04:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "S FREMONT ST / E 4TH AVE",
+        "latitude": 37.5675692357348,
+        "longitude": -122.317474180034,
+        "units": ">E24 T21 BC5 ?TAC25 ?CM21X3"
+    },
+    {
+        "id": "MF2209119",
+        "date": "2022-11-19",
+        "time": "8:01:16 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "23 BILTMORE LN ,MNP",
+        "latitude": 37.4314621568923,
+        "longitude": -122.214212990146,
+        "units": ">E4"
+    },
+    {
         "id": "BF2203683",
         "date": "2022-11-19",
         "time": "7:45:16 PM",
@@ -9,17 +31,6 @@
         "latitude": 37.6341212575488,
         "longitude": -122.460382888429,
         "units": ">E64"
-    },
-    {
-        "id": "BF2203682",
-        "date": "2022-11-19",
-        "time": "7:42:51 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1099 ADMIRAL CT ,SNB",
-        "latitude": 37.6340263494716,
-        "longitude": -122.422181047521,
-        "units": "CM31X2 >E51 ?TAC35 >T51"
     },
     {
         "id": "NF2212353",
@@ -33,17 +44,6 @@
         "units": ">E94"
     },
     {
-        "id": "BF2203681",
-        "date": "2022-11-19",
-        "time": "7:40:14 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
-    },
-    {
         "id": "FF2206458",
         "date": "2022-11-19",
         "time": "7:39:41 PM",
@@ -53,27 +53,5 @@
         "latitude": 37.6660923950581,
         "longitude": -122.403717026069,
         "units": ">E65"
-    },
-    {
-        "id": "RF2211711",
-        "date": "2022-11-19",
-        "time": "7:31:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARIGOLD LN ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "SF2213794",
-        "date": "2022-11-19",
-        "time": "7:15:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N SAN MATEO DR #112 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
