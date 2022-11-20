@@ -1,19 +1,52 @@
 [
     {
-        "id": "RF2211717",
+        "id": "SF2213801",
         "date": "2022-11-20",
-        "time": "1:58:46 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "2:23:01 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "BAIR ISLAND RD #301 ,RCY",
+        "location": "E 4TH AVE / S ELDORADO ST",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E24"
     },
     {
-        "id": "BF2203687",
+        "id": "NF2212359",
         "date": "2022-11-20",
-        "time": "1:52:11 AM",
+        "time": "2:18:06 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "MONTEREY RD / HICKEY BLVD",
+        "latitude": 37.6508630091557,
+        "longitude": -122.481450055323,
+        "units": ">E71"
+    },
+    {
+        "id": "FF2206462",
+        "date": "2022-11-20",
+        "time": "2:17:55 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S AIRPORT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "NF2212358",
+        "date": "2022-11-20",
+        "time": "2:17:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN BRUNO AVE #8 ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "BF2203688",
+        "date": "2022-11-20",
+        "time": "2:07:02 AM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
         "location": "HUNTINGTON AVE ,SNB",
@@ -31,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E40"
-    },
-    {
-        "id": "NF2212357",
-        "date": "2022-11-20",
-        "time": "1:35:14 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN BRUNO AVE #8 ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "SF2213800",
-        "date": "2022-11-20",
-        "time": "1:34:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #817 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2206461",
-        "date": "2022-11-20",
-        "time": "1:19:19 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 101 / SO S AIRPORT BLVD",
-        "latitude": 37.6426283504007,
-        "longitude": -122.406232661856,
-        "units": "?TAC35 ?CM31X1 >E61"
     }
 ]
