@@ -1,25 +1,58 @@
 [
     {
-        "id": "RF2211738",
+        "id": "BF2203692",
         "date": "2022-11-20",
-        "time": "12:35:54 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "12:58:56 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "756 GLENVIEW DR ,SNB",
+        "latitude": 37.6174696365517,
+        "longitude": -122.440125374717,
+        "units": ">E52"
+    },
+    {
+        "id": "FF2206468",
+        "date": "2022-11-20",
+        "time": "12:55:09 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "MC CUE AVE ,SNC",
+        "location": "BADEN AVE #A ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "SF2213822",
+        "date": "2022-11-20",
+        "time": "12:55:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2207425",
+        "date": "2022-11-20",
+        "time": "12:47:10 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD BAYSHORE HWY #315 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
+    },
+    {
+        "id": "CF2207424",
+        "date": "2022-11-20",
+        "time": "12:45:29 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MURCHISON DR ,BRM",
         "latitude": null,
         "longitude": null,
         "units": ""
-    },
-    {
-        "id": "WF2201702",
-        "date": "2022-11-20",
-        "time": "12:12:30 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SIOUX WAY ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E8 >SQ407 CM11X1"
     },
     {
         "id": "HF2202738",
@@ -30,6 +63,6 @@
         "location": "522 CORONADO ST ,ELG",
         "latitude": 37.5020733321338,
         "longitude": -122.467851052779,
-        "units": ">E41 >U40 ?TAC45 >E44 >TO10>E40 *>BC11 CM41X4 >BC10"
+        "units": ">E41 >U40 ?TAC45 CM41X4 >BC10"
     }
 ]
