@@ -1,46 +1,57 @@
 [
     {
+        "id": "HF2202741",
+        "date": "2022-11-20",
+        "time": "11:40:33 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "525 OBISPO RD ,ELG",
+        "latitude": 37.5025355922455,
+        "longitude": -122.47157337928,
+        "units": "E71 E64"
+    },
+    {
+        "id": "SF2213819",
+        "date": "2022-11-20",
+        "time": "11:35:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Smoke investigation",
+        "location": "60 N B ST ,SMO",
+        "latitude": 37.5685256780244,
+        "longitude": -122.325065592985,
+        "units": ">E21"
+    },
+    {
+        "id": "NF2212366",
+        "date": "2022-11-20",
+        "time": "11:24:46 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "SF2213818",
+        "date": "2022-11-20",
+        "time": "11:23:47 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "415 41ST AVE ,SMO",
+        "latitude": 37.5257089532627,
+        "longitude": -122.303184928086,
+        "units": ">E23"
+    },
+    {
         "id": "HF2202738",
         "date": "2022-11-20",
         "time": "11:22:54 AM",
         "summary": "Coastside Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "538 CORONADO ST ,ELG",
+        "category": "Structure fire",
+        "location": "522 CORONADO ST ,ELG",
         "latitude": 37.5020733321338,
         "longitude": -122.467851052779,
-        "units": "?TAC45 ?CM41X4 ?BC10 ?E72 ?E40?E44 ?E41"
-    },
-    {
-        "id": "FF2206467",
-        "date": "2022-11-20",
-        "time": "11:13:51 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "2200 GELLERT BLVD ,SSF",
-        "latitude": 37.6483713000977,
-        "longitude": -122.453859090492,
-        "units": ">E64"
-    },
-    {
-        "id": "RF2211730",
-        "date": "2022-11-20",
-        "time": "11:11:43 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1999 FERNSIDE ST ,RCY",
-        "latitude": 37.4511546645638,
-        "longitude": -122.234601255071,
-        "units": ">E4"
-    },
-    {
-        "id": "CF2207423",
-        "date": "2022-11-20",
-        "time": "11:09:26 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ">E41 ?TAC45 >E44 >TO10 >E40>TO11 BC11 CM41X4 >BC10 >E72"
     }
 ]
