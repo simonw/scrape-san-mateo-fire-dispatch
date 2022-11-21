@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2209145",
+        "date": "2022-11-20",
+        "time": "9:18:58 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EASTRIDGE AVE #622 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "MF2209144",
+        "date": "2022-11-20",
+        "time": "9:17:23 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "600 WILLOW RD #18 ,MNP",
+        "latitude": 37.4622378519665,
+        "longitude": -122.15881586292,
+        "units": ">E1"
+    },
+    {
+        "id": "RF2211750",
+        "date": "2022-11-20",
+        "time": "9:16:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "RF2211749",
         "date": "2022-11-20",
         "time": "9:02:30 PM",
@@ -8,40 +41,7 @@
         "location": "SUNSET DR ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
-    },
-    {
-        "id": "CF2207439",
-        "date": "2022-11-20",
-        "time": "8:59:04 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "220 WOODRIDGE RD ,HIL",
-        "latitude": 37.547796107189,
-        "longitude": -122.349560418041,
-        "units": "E32"
-    },
-    {
-        "id": "RF2211748",
-        "date": "2022-11-20",
-        "time": "8:57:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "BF2203698",
-        "date": "2022-11-20",
-        "time": "8:48:05 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EARL AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E13"
     },
     {
         "id": "NF2212388",
@@ -52,6 +52,6 @@
         "location": "NB 280 / SO JOHN DALY BLVD",
         "latitude": 37.7034101220142,
         "longitude": -122.471313233753,
-        "units": ">T95 >E94"
+        "units": ">E94 >T95"
     }
 ]
