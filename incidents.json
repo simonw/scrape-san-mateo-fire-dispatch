@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2213950",
+        "date": "2022-11-23",
+        "time": "9:19:33 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N SAN MATEO DR #B117 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "MF2209216",
+        "date": "2022-11-23",
+        "time": "9:19:14 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OLYMPIC AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "NF2212475",
+        "date": "2022-11-23",
+        "time": "9:18:12 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "NF2212474",
+        "date": "2022-11-23",
+        "time": "9:15:56 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #136 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95 T95"
+    },
+    {
+        "id": "RF2211851",
+        "date": "2022-11-23",
+        "time": "9:08:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD #314 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "RF2211850",
         "date": "2022-11-23",
         "time": "9:04:29 AM",
@@ -8,7 +63,7 @@
         "location": "TOPAZ ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "MF2209215",
@@ -19,14 +74,14 @@
         "location": "SAND HILL CIR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
+        "units": ">E7"
     },
     {
         "id": "SF2213949",
         "date": "2022-11-23",
         "time": "8:59:35 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Carbon monoxide alarm",
+        "category": "Full assignment response",
         "location": "3409 LEAFWOOD CT ,SMO",
         "latitude": 37.5219443892561,
         "longitude": -122.328149769417,
@@ -41,51 +96,7 @@
         "location": "200 LINDEN AVE ,SSF",
         "latitude": 37.6543916091127,
         "longitude": -122.410082420916,
-        "units": "E61"
-    },
-    {
-        "id": "FF2206522",
-        "date": "2022-11-23",
-        "time": "8:57:41 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "1170 VETERANS BLVD ,SSF",
-        "latitude": 37.664679592268,
-        "longitude": -122.393552705651,
-        "units": ">E65"
-    },
-    {
-        "id": "HF2202770",
-        "date": "2022-11-23",
-        "time": "8:56:06 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "50 N CABRILLO HWY ,HMB",
-        "latitude": 37.4692955096998,
-        "longitude": -122.434130524338,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2211849",
-        "date": "2022-11-23",
-        "time": "8:52:47 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COUNTY CN #2G ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2207489",
-        "date": "2022-11-23",
-        "time": "8:52:00 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COLUMBUS AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
+        "units": ">E61"
     },
     {
         "id": "RF2211848",
@@ -97,16 +108,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E12"
-    },
-    {
-        "id": "RF2211847",
-        "date": "2022-11-23",
-        "time": "8:38:49 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ANCHOR CIR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
