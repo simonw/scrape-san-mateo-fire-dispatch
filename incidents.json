@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2209204",
+        "date": "2022-11-22",
+        "time": "9:24:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #208 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
         "id": "BF2203721",
         "date": "2022-11-22",
         "time": "9:03:05 PM",
@@ -8,7 +19,7 @@
         "location": "EMARON DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": ">E52"
     },
     {
         "id": "RF2211829",
@@ -19,18 +30,7 @@
         "location": "BEECH ST #2 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
-    },
-    {
-        "id": "WF2201720",
-        "date": "2022-11-22",
-        "time": "8:56:16 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "4200 FARM HILL BLVD ,WDS",
-        "latitude": 37.4478922871236,
-        "longitude": -122.266398660236,
-        "units": ">SQ407 >E19 CM11X2 ?TAC15"
+        "units": ">E9"
     },
     {
         "id": "MF2209203",
@@ -42,27 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E6"
-    },
-    {
-        "id": "WF2201719",
-        "date": "2022-11-22",
-        "time": "8:45:35 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WILDWOOD WAY ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "DF2202014",
-        "date": "2022-11-22",
-        "time": "8:17:15 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PESCADERO CREEK RD ,PES",
-        "latitude": null,
-        "longitude": null,
-        "units": "VFIR23 >E59 >E655"
     }
 ]
