@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2213954",
+        "id": "SF2213955",
         "date": "2022-11-23",
-        "time": "11:03:53 AM",
+        "time": "11:19:57 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "120 SEM LN ,BLM",
-        "latitude": 37.5249242961001,
-        "longitude": -122.266962106106,
-        "units": "CM11X5 ?TAC15 ?BC5 ?T23 ?E14"
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "RF2211856",
+        "date": "2022-11-23",
+        "time": "11:12:23 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN CARLOS AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
     },
     {
         "id": "LF2201013",
@@ -19,18 +30,7 @@
         "location": "COLLINS AVE #2 ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E86"
-    },
-    {
-        "id": "NF2212477",
-        "date": "2022-11-23",
-        "time": "11:01:10 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "YOSEMITE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E72"
+        "units": ">E86"
     },
     {
         "id": "MF2209224",
@@ -41,50 +41,6 @@
         "location": "GILBERT AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
-    },
-    {
-        "id": "SF2213953",
-        "date": "2022-11-23",
-        "time": "10:57:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "BF2203725",
-        "date": "2022-11-23",
-        "time": "10:47:25 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SHERWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "MF2209223",
-        "date": "2022-11-23",
-        "time": "10:46:07 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY DR #202B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "MF2209222",
-        "date": "2022-11-23",
-        "time": "10:45:46 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SEYMOUR LN ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": ""
     }
 ]
