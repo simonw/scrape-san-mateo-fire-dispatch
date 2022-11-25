@@ -1,47 +1,69 @@
 [
     {
-        "id": "CF2207544",
+        "id": "RF2211937",
         "date": "2022-11-25",
-        "time": "2:40:18 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "1045 CADILLAC WAY ,BRM",
-        "latitude": 37.5875120864274,
-        "longitude": -122.359632356215,
-        "units": "T34"
-    },
-    {
-        "id": "CF2207543",
-        "date": "2022-11-25",
-        "time": "2:39:44 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "3:04:04 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Fire alarm - smoke detector",
-        "location": "25 MADRONE PL ,HIL",
-        "latitude": 37.5724354623134,
-        "longitude": -122.361450888673,
-        "units": "E34"
+        "location": "1711 E BAYSHORE RD #A ,RCY",
+        "latitude": 37.490151018311,
+        "longitude": -122.208481482172,
+        "units": "?E5"
     },
     {
-        "id": "SF2214061",
+        "id": "SF2214062",
         "date": "2022-11-25",
-        "time": "2:35:32 PM",
+        "time": "2:54:45 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "CONTINENTALS WAY #101 ,BLM",
+        "location": "N BAYSHORE BLVD #126 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
+        "units": ">E24"
     },
     {
-        "id": "RF2211935",
+        "id": "FF2206566",
         "date": "2022-11-25",
-        "time": "2:33:47 PM",
+        "time": "2:52:48 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "BADEN AVE / LAUREL AVE",
+        "latitude": 37.6583057276134,
+        "longitude": -122.428965666472,
+        "units": ">E63 >Q62"
+    },
+    {
+        "id": "HF2202790",
+        "date": "2022-11-25",
+        "time": "2:46:59 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "101 ALAMEDA AVE ,HMB",
+        "latitude": 37.4912176812927,
+        "longitude": -122.455146494212,
+        "units": ">E41"
+    },
+    {
+        "id": "RF2211936",
+        "date": "2022-11-25",
+        "time": "2:46:13 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "WOODSIDE RD #405 ,RCY",
+        "location": "MIDDLEFIELD RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T9"
+        "units": ""
+    },
+    {
+        "id": "NF2212557",
+        "date": "2022-11-25",
+        "time": "2:45:44 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GENEVA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
     },
     {
         "id": "WF2201740",
@@ -52,28 +74,6 @@
         "location": "19501 SKYLINE BLVD ,PVY",
         "latitude": 37.3420681167364,
         "longitude": -122.221206914621,
-        "units": ">TAC15 >CM11X2 >E58 ?CO56 E7>BC2 E8 >SQ407 >R56"
-    },
-    {
-        "id": "BF2203746",
-        "date": "2022-11-25",
-        "time": "2:18:16 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HIGHLAND DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "DF2202023",
-        "date": "2022-11-25",
-        "time": "2:06:47 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RANCH RD W ,PES",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E59"
+        "units": ">TAC15 >CM11X2 >E58 >E7 >BC2>SQ407 >R56"
     }
 ]
