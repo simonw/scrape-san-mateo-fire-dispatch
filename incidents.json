@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2214084",
+        "id": "RF2211950",
         "date": "2022-11-26",
-        "time": "2:40:26 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO 92",
-        "latitude": 37.5627460005368,
-        "longitude": -122.305327217889,
-        "units": "T21 BC5 E24 E26 ?TAC25?CM21X5"
+        "time": "3:01:30 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "1305 MARSHALL ST ,RCY",
+        "latitude": 37.4881244428328,
+        "longitude": -122.221041529297,
+        "units": "BC3 T9 E11 E3 E9?TAC15 ?CM11X4"
+    },
+    {
+        "id": "MF2209296",
+        "date": "2022-11-26",
+        "time": "2:50:58 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MONTWOOD CIR ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
     },
     {
         "id": "RF2211949",
@@ -20,16 +31,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E10"
-    },
-    {
-        "id": "MF2209295",
-        "date": "2022-11-26",
-        "time": "2:20:54 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST #3 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
     }
 ]
