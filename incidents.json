@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2209331",
+        "id": "CF2207586",
         "date": "2022-11-27",
-        "time": "2:03:16 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "2:21:08 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "WOODSIDE RD ,WSB",
+        "location": "TROUSDALE DR #292 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E34"
+    },
+    {
+        "id": "RF2211993",
+        "date": "2022-11-27",
+        "time": "2:18:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WHIPPLE AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "SF2214151",
+        "date": "2022-11-27",
+        "time": "2:15:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "24 41ST AVE #105 ,SMO",
+        "latitude": 37.5305424832885,
+        "longitude": -122.291764181681,
+        "units": ""
+    },
+    {
+        "id": "NF2212624",
+        "date": "2022-11-27",
+        "time": "2:09:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ASPEN DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "SF2214148",
+        "date": "2022-11-27",
+        "time": "2:04:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "4000 S EL CAMINO REAL ,SMO",
+        "latitude": 37.5312091771616,
+        "longitude": -122.291997515352,
+        "units": "CM21X5 >E23 ?TAC25 >T23"
     },
     {
         "id": "MF2209330",
@@ -20,49 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "DF2202041",
-        "date": "2022-11-27",
-        "time": "1:58:33 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "6650 GOLF COURSE DR ,SON",
-        "latitude": 37.5576664969344,
-        "longitude": -122.382230246489,
-        "units": ">E33 CM11X5 T17 BC11 ?TAC15"
-    },
-    {
-        "id": "RF2211991",
-        "date": "2022-11-27",
-        "time": "1:57:43 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2209329",
-        "date": "2022-11-27",
-        "time": "1:56:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GILBERT AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "BF2203770",
-        "date": "2022-11-27",
-        "time": "1:30:20 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
