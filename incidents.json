@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2214167",
+        "id": "RF2212008",
         "date": "2022-11-27",
-        "time": "9:04:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:20:08 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "305 MAIN ST ,RCY",
+        "latitude": 37.4926677823543,
+        "longitude": -122.227779268613,
+        "units": "CM11X3 >E9 T9 BC3 ?TAC15"
+    },
+    {
+        "id": "LF2201027",
+        "date": "2022-11-27",
+        "time": "9:15:08 PM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "S EL CAMINO REAL / W HILLSDALE BLVD",
+        "location": "F ST #218 ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E86"
+    },
+    {
+        "id": "MF2209344",
+        "date": "2022-11-27",
+        "time": "9:13:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #202 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2207594",
+        "date": "2022-11-27",
+        "time": "9:12:31 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CALIFORNIA DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "RF2212007",
+        "date": "2022-11-27",
+        "time": "9:12:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1003 CHESTERTON AVE ,RCY",
+        "latitude": 37.4629529748414,
+        "longitude": -122.247178112087,
+        "units": ">E12"
+    },
+    {
+        "id": "SF2214168",
+        "date": "2022-11-27",
+        "time": "9:07:25 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AMESBURY AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
     },
     {
         "id": "FF2206610",
@@ -19,39 +74,6 @@
         "location": "MILLER AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "RF2212006",
-        "date": "2022-11-27",
-        "time": "8:55:56 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "826 LAKESHORE DR ,RWS",
-        "latitude": 37.5366594463275,
-        "longitude": -122.244697944164,
-        "units": ">E20"
-    },
-    {
-        "id": "MF2209343",
-        "date": "2022-11-27",
-        "time": "8:52:05 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GEORGETOWN ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2212648",
-        "date": "2022-11-27",
-        "time": "8:43:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #217A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ""
     }
 ]
