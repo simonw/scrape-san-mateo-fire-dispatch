@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2207607",
+        "id": "NF2212673",
         "date": "2022-11-28",
-        "time": "11:04:43 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "11:19:45 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "N ROLLINS RD #511 ,MLB",
+        "location": "HAVEN DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E37"
+        "units": "T95"
+    },
+    {
+        "id": "SF2214196",
+        "date": "2022-11-28",
+        "time": "11:16:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ELKHORN CT #209 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "RF2212021",
+        "date": "2022-11-28",
+        "time": "11:13:14 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Gas main break",
+        "location": "REDWOOD AVE / CLINTON ST",
+        "latitude": 37.474921802277,
+        "longitude": -122.224665990829,
+        "units": ">E9 >CM11X2 ?TAC15 >BC3 >E11>E10"
     },
     {
         "id": "SF2214195",
@@ -30,29 +52,7 @@
         "location": "SOUTHMOOR DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
-    },
-    {
-        "id": "MF2209355",
-        "date": "2022-11-28",
-        "time": "10:58:16 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WINCHESTER DR ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2212020",
-        "date": "2022-11-28",
-        "time": "10:56:37 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CEDAR ST #7 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": ">E64"
     },
     {
         "id": "NF2212671",
@@ -63,18 +63,7 @@
         "location": "SHELTER COVE RD / DEAD END",
         "latitude": 37.5978973208915,
         "longitude": -122.513819753547,
-        "units": "E72"
-    },
-    {
-        "id": "HF2202819",
-        "date": "2022-11-28",
-        "time": "10:48:46 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BEACH AVE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E41"
+        "units": ">E72"
     },
     {
         "id": "RF2212019",
@@ -86,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E13"
-    },
-    {
-        "id": "SF2214194",
-        "date": "2022-11-28",
-        "time": "10:47:27 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BELFORD WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "HF2202818",
-        "date": "2022-11-28",
-        "time": "10:35:21 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OCEAN BLVD ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E44"
     }
 ]
