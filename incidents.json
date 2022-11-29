@@ -1,5 +1,38 @@
 [
     {
+        "id": "LF2201032",
+        "date": "2022-11-28",
+        "time": "8:19:37 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "104 VILLAGE LN ,BRD",
+        "latitude": 37.693462557828,
+        "longitude": -122.474800265378,
+        "units": ">BC19 >E86 T85 CM31X1 ?TAC37"
+    },
+    {
+        "id": "CF2207620",
+        "date": "2022-11-28",
+        "time": "8:13:57 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALBOA AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "MF2209368",
+        "date": "2022-11-28",
+        "time": "8:11:39 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "POLHEMUS AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "CF2207619",
         "date": "2022-11-28",
         "time": "8:01:20 PM",
@@ -8,18 +41,7 @@
         "location": "PARROTT DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
-    },
-    {
-        "id": "NF2212696",
-        "date": "2022-11-28",
-        "time": "8:00:52 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E95"
+        "units": ">E25"
     },
     {
         "id": "DF2202048",
@@ -30,7 +52,7 @@
         "location": "ALPINE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "R57 E58 ?VFIR22"
+        "units": ">E58 ?VFIR22 >R57"
     },
     {
         "id": "BF2203779",
@@ -41,40 +63,7 @@
         "location": "851 CHERRY AVE ,SNB",
         "latitude": 37.6264692901327,
         "longitude": -122.426890228648,
-        "units": ">E51"
-    },
-    {
-        "id": "NF2212695",
-        "date": "2022-11-28",
-        "time": "7:57:20 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PONCETTA DR #101 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2212694",
-        "date": "2022-11-28",
-        "time": "7:43:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MONTE VERDE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "RF2212040",
-        "date": "2022-11-28",
-        "time": "7:32:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAK AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E51 CM31X5 >BC16 >T51 TAC36"
     },
     {
         "id": "NF2212691",
@@ -85,17 +74,6 @@
         "location": "927 LINDA MAR BLVD ,PCF",
         "latitude": 37.589539115413,
         "longitude": -122.493768140325,
-        "units": ">BC124 ?TAC35 >E71 PR20A >T95CM31X4 >E72 >BC120"
-    },
-    {
-        "id": "WF2201757",
-        "date": "2022-11-28",
-        "time": "7:08:17 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "140 SUMMERHILL LN ,WDS",
-        "latitude": 37.4508798512778,
-        "longitude": -122.240176597984,
-        "units": "*>SQ407"
+        "units": ">BC124 ?TAC35 PR20A CM31X4 >E72>BC120"
     }
 ]
