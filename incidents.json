@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2209369",
+        "date": "2022-11-28",
+        "time": "8:44:58 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WESTFIELD DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E6"
+    },
+    {
+        "id": "FF2206628",
+        "date": "2022-11-28",
+        "time": "8:36:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "NEWMAN DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "LF2201032",
         "date": "2022-11-28",
         "time": "8:19:37 PM",
@@ -8,7 +30,7 @@
         "location": "104 VILLAGE LN ,BRD",
         "latitude": 37.693462557828,
         "longitude": -122.474800265378,
-        "units": ">BC19 >E86 T85 CM31X1 ?TAC37"
+        "units": "?TAC37 >BC19 CM31X1 >E86"
     },
     {
         "id": "CF2207620",
@@ -22,28 +44,6 @@
         "units": ">E34"
     },
     {
-        "id": "MF2209368",
-        "date": "2022-11-28",
-        "time": "8:11:39 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POLHEMUS AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2207619",
-        "date": "2022-11-28",
-        "time": "8:01:20 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PARROTT DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
         "id": "DF2202048",
         "date": "2022-11-28",
         "time": "7:59:27 PM",
@@ -52,7 +52,7 @@
         "location": "ALPINE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 ?VFIR22 >R57"
+        "units": "*>E58 ?VFIR22 >R57"
     },
     {
         "id": "BF2203779",
@@ -74,6 +74,6 @@
         "location": "927 LINDA MAR BLVD ,PCF",
         "latitude": 37.589539115413,
         "longitude": -122.493768140325,
-        "units": ">BC124 ?TAC35 PR20A CM31X4 >E72>BC120"
+        "units": "PR20A CM31X4 >E72 >BC120"
     }
 ]
