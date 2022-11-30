@@ -1,5 +1,38 @@
 [
     {
+        "id": "DF2202054",
+        "date": "2022-11-30",
+        "time": "1:03:50 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #G9 ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "MF2209409",
+        "date": "2022-11-30",
+        "time": "12:57:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Hazardous material - investiga",
+        "location": "70 COLUMBIA AVE ,NFO",
+        "latitude": 37.468728190119,
+        "longitude": -122.208462899852,
+        "units": ">E3"
+    },
+    {
+        "id": "WF2201774",
+        "date": "2022-11-30",
+        "time": "12:48:08 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PORTOLA RD #18A ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E8"
+    },
+    {
         "id": "CF2207669",
         "date": "2022-11-30",
         "time": "12:42:46 PM",
@@ -8,7 +41,7 @@
         "location": "BROADWAY #2403 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E32"
+        "units": ">E32"
     },
     {
         "id": "FF2206663",
@@ -19,7 +52,7 @@
         "location": "WESTBOROUGH BLVD #204 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "SF2214289",
@@ -30,18 +63,7 @@
         "location": "DALE AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "SF2214288",
-        "date": "2022-11-30",
-        "time": "12:38:21 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
+        "units": "*>E24"
     },
     {
         "id": "HF2202842",
@@ -53,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E44"
-    },
-    {
-        "id": "NF2212753",
-        "date": "2022-11-30",
-        "time": "12:28:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "303 GELLERT BLVD ,DCY",
-        "latitude": 37.668346006862,
-        "longitude": -122.466973088931,
-        "units": ""
-    },
-    {
-        "id": "CF2207668",
-        "date": "2022-11-30",
-        "time": "12:27:31 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROBINWOOD LN ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "SF2214286",
-        "date": "2022-11-30",
-        "time": "12:14:53 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
     }
 ]
