@@ -1,35 +1,46 @@
 [
     {
-        "id": "RF2212107",
+        "id": "RF2212110",
         "date": "2022-11-30",
-        "time": "8:54:44 AM",
+        "time": "9:24:45 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "NF2212746",
+        "date": "2022-11-30",
+        "time": "9:21:06 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "340 INVERNESS DR ,PCF",
+        "latitude": 37.6531415841798,
+        "longitude": -122.479413522634,
+        "units": "E94"
+    },
+    {
+        "id": "RF2212108",
+        "date": "2022-11-30",
+        "time": "9:17:31 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
         "location": "SB 101 / NO WHIPPLE AVE",
         "latitude": 37.501502985081,
         "longitude": -122.242206420289,
-        "units": ">E13 E16 CM11X3 ?TAC15"
+        "units": ">T9"
     },
     {
-        "id": "NF2212745",
+        "id": "CF2207662",
         "date": "2022-11-30",
-        "time": "8:49:58 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:04:28 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "ESCUELA DR #209 C ,DCY",
+        "location": "BROADWAY #1307 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2212106",
-        "date": "2022-11-30",
-        "time": "8:44:46 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #3319 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">E37"
     }
 ]
