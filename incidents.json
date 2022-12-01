@@ -1,36 +1,69 @@
 [
     {
-        "id": "DF2202062",
+        "id": "HF2202846",
         "date": "2022-12-01",
-        "time": "10:02:35 AM",
-        "summary": "County Fire on Control-1",
+        "time": "10:23:56 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELDERBERRY RD ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "LF2201042",
+        "date": "2022-12-01",
+        "time": "10:23:21 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "A ST #115 ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "SF2214331",
+        "date": "2022-12-01",
+        "time": "10:20:18 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S IDAHO ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "CF2207693",
+        "date": "2022-12-01",
+        "time": "10:12:21 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HILLSIDE DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "WF2201783",
+        "date": "2022-12-01",
+        "time": "10:08:01 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Tree down",
-        "location": "512 LA HONDA RD ,SNG",
-        "latitude": 37.3255671025713,
-        "longitude": -122.390201843912,
-        "units": "E59 ?CO57"
+        "location": "512 OLD LA HONDA RD ,WDS",
+        "latitude": 37.3824551304334,
+        "longitude": -122.249866037813,
+        "units": "E356 >SQ407"
     },
     {
-        "id": "RF2212147",
+        "id": "NF2212791",
         "date": "2022-12-01",
-        "time": "10:01:25 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KENTFIELD AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "MF2209432",
-        "date": "2022-12-01",
-        "time": "10:01:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALMANOR AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "time": "10:07:33 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 280 / SO 1",
+        "latitude": 37.6738400118365,
+        "longitude": -122.468286519171,
+        "units": "*>BC20 >E94"
     },
     {
         "id": "DF2202061",
@@ -38,10 +71,10 @@
         "time": "9:59:52 AM",
         "summary": "County Fire on Control-1",
         "category": "Traffic accident",
-        "location": "SB 280 / SO 92",
+        "location": "SB 280 / VISTA 3 ON RAMP",
         "latitude": 37.5004067419462,
         "longitude": -122.326125246726,
-        "units": "BC11 E17 E18 T17 CM11X3?TAC15"
+        "units": ">T17"
     },
     {
         "id": "SF2214328",
@@ -52,39 +85,6 @@
         "location": "FASHION ISLAND BLVD / BAKER WAY",
         "latitude": 37.5588919331522,
         "longitude": -122.28537245083,
-        "units": "CM21X3 >T23 >E26 ?TAC26"
-    },
-    {
-        "id": "NF2212790",
-        "date": "2022-12-01",
-        "time": "9:55:46 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "YOSEMITE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "RF2212146",
-        "date": "2022-12-01",
-        "time": "9:54:28 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "460 BROADWAY ,RCY",
-        "latitude": 37.485539332818,
-        "longitude": -122.204297906858,
-        "units": ">E11"
-    },
-    {
-        "id": "RF2212145",
-        "date": "2022-12-01",
-        "time": "9:51:23 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MADRONE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
+        "units": ">E26"
     }
 ]
