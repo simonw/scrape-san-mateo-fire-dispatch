@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2206679",
+        "id": "SF2214314",
         "date": "2022-12-01",
-        "time": "12:04:09 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "760 ALMOND AVE ,SSF",
-        "latitude": 37.6619075766175,
-        "longitude": -122.4242318405,
-        "units": "?E63"
+        "time": "12:20:09 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "3088 BAZE RD ,SMO",
+        "latitude": 37.5408901405987,
+        "longitude": -122.296984052499,
+        "units": ">T23"
+    },
+    {
+        "id": "NF2212776",
+        "date": "2022-12-01",
+        "time": "12:17:24 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FRANKFORT ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "CF2207681",
@@ -19,7 +30,7 @@
         "location": "765 AIRPORT BLVD ,BRM",
         "latitude": 37.5892816592154,
         "longitude": -122.349496601494,
-        "units": "BC8 E34 ?CG22A ?CM51X5 ?BOAT9?JS28 ?T34"
+        "units": ">E34 >T34 >BC8 ?CG22A ?CM51X5"
     },
     {
         "id": "SF2214313",
@@ -31,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E24"
-    },
-    {
-        "id": "RF2212132",
-        "date": "2022-12-01",
-        "time": "11/30/2022 11:48:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HESS RD #2 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
     }
 ]
