@@ -1,5 +1,16 @@
 [
     {
+        "id": "BF2203809",
+        "date": "2022-12-01",
+        "time": "2:00:21 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HIGHLAND DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
         "id": "CF2207696",
         "date": "2022-12-01",
         "time": "1:43:35 PM",
@@ -8,40 +19,7 @@
         "location": "CALAVERAS CT ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "?E33"
-    },
-    {
-        "id": "BF2203808",
-        "date": "2022-12-01",
-        "time": "1:43:08 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #300 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "NF2212804",
-        "date": "2022-12-01",
-        "time": "1:42:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "485 A ST ,DCY",
-        "latitude": 37.6864769257105,
-        "longitude": -122.461161674412,
-        "units": "E92"
-    },
-    {
-        "id": "RF2212160",
-        "date": "2022-12-01",
-        "time": "1:40:21 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "3 SHAW CT ,RCY",
-        "latitude": 37.4672249562867,
-        "longitude": -122.24141262627,
-        "units": "E10"
+        "units": ">E33"
     },
     {
         "id": "CF2207695",
@@ -52,18 +30,7 @@
         "location": "1190 CALIFORNIA DR ,BRM",
         "latitude": 37.5875665770295,
         "longitude": -122.362957921545,
-        "units": "E34 BC8 E35 TAC25 CM21X1T34"
-    },
-    {
-        "id": "RF2212158",
-        "date": "2022-12-01",
-        "time": "1:25:25 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "1900 EL CAMINO REAL ,RCY",
-        "latitude": 37.4768568468975,
-        "longitude": -122.223273465366,
-        "units": ">E9"
+        "units": ">BC8 >T34 CM21X1 TAC25 >E34>E35"
     },
     {
         "id": "FF2206690",
@@ -74,6 +41,6 @@
         "location": "C ST ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": "E63"
     }
 ]
