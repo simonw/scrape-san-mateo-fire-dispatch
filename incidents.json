@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2206686",
+        "date": "2022-12-01",
+        "time": "10:42:47 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FORBES BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "Q62"
+    },
+    {
+        "id": "MF2209433",
+        "date": "2022-12-01",
+        "time": "10:39:35 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "11 POLITZER DR ,MNP",
+        "latitude": 37.4402575742664,
+        "longitude": -122.197028137361,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2212150",
+        "date": "2022-12-01",
+        "time": "10:38:49 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "520 EL CAMINO REAL ,SNC",
+        "latitude": 37.5079885343754,
+        "longitude": -122.261722882424,
+        "units": ">E13"
+    },
+    {
+        "id": "NF2212792",
+        "date": "2022-12-01",
+        "time": "10:30:16 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN PEDRO TERRACE RD #115C ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "HF2202846",
         "date": "2022-12-01",
         "time": "10:23:56 AM",
@@ -8,7 +52,7 @@
         "location": "ELDERBERRY RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": ">E40"
     },
     {
         "id": "LF2201042",
@@ -30,29 +74,7 @@
         "location": "S IDAHO ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "CF2207693",
-        "date": "2022-12-01",
-        "time": "10:12:21 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLSIDE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "WF2201783",
-        "date": "2022-12-01",
-        "time": "10:08:01 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "512 OLD LA HONDA RD ,WDS",
-        "latitude": 37.3824551304334,
-        "longitude": -122.249866037813,
-        "units": "E356 >SQ407"
+        "units": "E24"
     },
     {
         "id": "NF2212791",
@@ -63,28 +85,6 @@
         "location": "NB 280 / SO 1",
         "latitude": 37.6738400118365,
         "longitude": -122.468286519171,
-        "units": "*>BC20 >E94"
-    },
-    {
-        "id": "DF2202061",
-        "date": "2022-12-01",
-        "time": "9:59:52 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / VISTA 3 ON RAMP",
-        "latitude": 37.5004067419462,
-        "longitude": -122.326125246726,
-        "units": ">T17"
-    },
-    {
-        "id": "SF2214328",
-        "date": "2022-12-01",
-        "time": "9:56:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "FASHION ISLAND BLVD / BAKER WAY",
-        "latitude": 37.5588919331522,
-        "longitude": -122.28537245083,
-        "units": ">E26"
+        "units": ">E94"
     }
 ]
