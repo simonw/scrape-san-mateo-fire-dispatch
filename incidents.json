@@ -1,25 +1,58 @@
 [
     {
-        "id": "SF2214382",
+        "id": "SF2214384",
         "date": "2022-12-02",
-        "time": "11:40:30 AM",
+        "time": "12:04:39 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1 TWIN PINES LN ,BLM",
-        "latitude": 37.5181551253682,
-        "longitude": -122.276664761774,
-        "units": "E14"
+        "category": "Fire alarm - smoke detector",
+        "location": "1200 PARK PL ,SMO",
+        "latitude": 37.5455506033289,
+        "longitude": -122.292918589494,
+        "units": "?E26"
     },
     {
-        "id": "MF2209461",
+        "id": "RF2212184",
         "date": "2022-12-02",
-        "time": "11:40:27 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:56:34 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CAPITOL AVE ,EPA",
+        "location": "KATHERINE AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E10"
+    },
+    {
+        "id": "NF2212830",
+        "date": "2022-12-02",
+        "time": "11:53:16 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "133 SERRAMONTE CTR ,DCY",
+        "latitude": 37.670459099639,
+        "longitude": -122.471203642265,
+        "units": ">BC20 >E94 TAC35 >T95 CM31X3"
+    },
+    {
+        "id": "SF2214383",
+        "date": "2022-12-02",
+        "time": "11:50:21 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2212829",
+        "date": "2022-12-02",
+        "time": "11:48:30 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #124 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "BF2203815",
@@ -41,28 +74,6 @@
         "location": "1421 BAY RD ,EPA",
         "latitude": 37.4722724732179,
         "longitude": -122.144346855313,
-        "units": "E2"
-    },
-    {
-        "id": "SF2214381",
-        "date": "2022-12-02",
-        "time": "11:36:25 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HOBART AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "CF2207726",
-        "date": "2022-12-02",
-        "time": "11:29:01 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LERIDA AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">E2"
     }
 ]
