@@ -1,25 +1,36 @@
 [
     {
-        "id": "SF2214384",
+        "id": "MF2209462",
         "date": "2022-12-02",
-        "time": "12:04:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1200 PARK PL ,SMO",
-        "latitude": 37.5455506033289,
-        "longitude": -122.292918589494,
-        "units": "?E26"
-    },
-    {
-        "id": "RF2212184",
-        "date": "2022-12-02",
-        "time": "11:56:34 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "12:17:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "KATHERINE AVE ,RCY",
+        "location": "AVELAR ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": ">E2"
+    },
+    {
+        "id": "SF2214385",
+        "date": "2022-12-02",
+        "time": "12:15:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CONTINENTALS WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "CF2207727",
+        "date": "2022-12-02",
+        "time": "12:08:18 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DE SOTO AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
     },
     {
         "id": "NF2212830",
@@ -33,17 +44,6 @@
         "units": ">BC20 >E94 TAC35 >T95 CM31X3"
     },
     {
-        "id": "SF2214383",
-        "date": "2022-12-02",
-        "time": "11:50:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
         "id": "NF2212829",
         "date": "2022-12-02",
         "time": "11:48:30 AM",
@@ -52,28 +52,6 @@
         "location": "ESCUELA DR #124 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "BF2203815",
-        "date": "2022-12-02",
-        "time": "11:37:39 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "MF2209460",
-        "date": "2022-12-02",
-        "time": "11:37:01 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "1421 BAY RD ,EPA",
-        "latitude": 37.4722724732179,
-        "longitude": -122.144346855313,
-        "units": ">E2"
+        "units": "E95"
     }
 ]
