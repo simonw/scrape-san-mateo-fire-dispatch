@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2207737",
+        "date": "2022-12-02",
+        "time": "9:35:05 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD BAYSHORE HWY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34 >E34 >BC8 CM21X4 ?TAC25"
+    },
+    {
+        "id": "RF2212204",
+        "date": "2022-12-02",
+        "time": "9:24:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE #17 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "SF2214413",
         "date": "2022-12-02",
         "time": "9:24:35 PM",
@@ -8,7 +30,7 @@
         "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E25"
+        "units": ">E25"
     },
     {
         "id": "SF2214412",
@@ -19,7 +41,7 @@
         "location": "LAURIE MEADOWS DR #504 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "NF2212853",
@@ -33,28 +55,6 @@
         "units": ">E94"
     },
     {
-        "id": "FF2206721",
-        "date": "2022-12-02",
-        "time": "9:15:21 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MAPLE AVE #2 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "WF2201795",
-        "date": "2022-12-02",
-        "time": "9:01:36 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FAMILY FARM DR ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
-    },
-    {
         "id": "NF2212852",
         "date": "2022-12-02",
         "time": "8:57:45 PM",
@@ -63,7 +63,7 @@
         "location": "GALVEZ DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
+        "units": "E72"
     },
     {
         "id": "FF2206716",
@@ -74,6 +74,6 @@
         "location": "88 RANDOLPH AVE ,SSF",
         "latitude": 37.6646224619145,
         "longitude": -122.403226731494,
-        "units": ">E65 >BC17 CM31X1 >HM14"
+        "units": "*>BC17"
     }
 ]
