@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2214402",
+        "id": "NF2212848",
         "date": "2022-12-02",
-        "time": "6:15:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "6:45:39 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "N EL CAMINO REAL #248 ,SMO",
+        "location": "SANTA CRUZ AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": "E92"
+    },
+    {
+        "id": "SF2214403",
+        "date": "2022-12-02",
+        "time": "6:36:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "WF2201793",
+        "date": "2022-12-02",
+        "time": "6:34:40 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SB 280 / SO EDGEWOOD RD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18 E7 CM11X2 ?TAC15"
+    },
+    {
+        "id": "FF2206717",
+        "date": "2022-12-02",
+        "time": "6:29:34 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 101 / NO OYSTER POINT BLVD",
+        "latitude": 37.6670473226782,
+        "longitude": -122.395268231789,
+        "units": ">E81"
+    },
+    {
+        "id": "MF2209474",
+        "date": "2022-12-02",
+        "time": "6:24:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL #9A ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
     },
     {
         "id": "SF2214401",
@@ -30,40 +74,7 @@
         "location": "SB 101 / NO MARSH RD",
         "latitude": 37.4859579510142,
         "longitude": -122.193590413825,
-        "units": ">E9 ?CM11X1 >T9 ?TAC16 >BC3E77"
-    },
-    {
-        "id": "DF2202065",
-        "date": "2022-12-02",
-        "time": "6:03:12 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAKEVIEW WAY ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "CF2207735",
-        "date": "2022-12-02",
-        "time": "6:02:17 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ANITA RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2209473",
-        "date": "2022-12-02",
-        "time": "5:56:35 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BERKSHIRE AVE #1 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": "?CM11X1 >T9 ?TAC16 >BC3"
     },
     {
         "id": "FF2206716",
@@ -74,6 +85,6 @@
         "location": "88 RANDOLPH AVE ,SSF",
         "latitude": 37.6646224619145,
         "longitude": -122.403226731494,
-        "units": "?OESC >E65 >BC17 ?TAC35 CM31X1>Q62 HM14 >T51 HM34"
+        "units": ">E65 >BC17 ?TAC35 CM31X1 >Q62>HM14 >T51 HM34"
     }
 ]
