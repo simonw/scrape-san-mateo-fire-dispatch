@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2209468",
+        "date": "2022-12-02",
+        "time": "4:20:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MADERA AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E77"
+    },
+    {
+        "id": "CF2207733",
+        "date": "2022-12-02",
+        "time": "4:07:34 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DUMONT CT ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
         "id": "MF2209466",
         "date": "2022-12-02",
         "time": "3:32:59 PM",
@@ -8,50 +30,6 @@
         "location": "NB 101 / SO WOODSIDE RD",
         "latitude": 37.4860898454352,
         "longitude": -122.193396924125,
-        "units": ">BC101 >E5 T2 >CM11X3 ?TAC16"
-    },
-    {
-        "id": "CF2207732",
-        "date": "2022-12-02",
-        "time": "3:26:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHAMROCK CT ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2214394",
-        "date": "2022-12-02",
-        "time": "3:26:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WASHINGTON ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "SF2214393",
-        "date": "2022-12-02",
-        "time": "3:22:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "RF2212196",
-        "date": "2022-12-02",
-        "time": "3:18:35 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Gas main break",
-        "location": "945 ROSEWOOD AVE ,SNC",
-        "latitude": 37.50018442101,
-        "longitude": -122.257328691845,
-        "units": ">E13"
+        "units": ">CM11X3 ?TAC16 >BC101 >E5 >T2"
     }
 ]
