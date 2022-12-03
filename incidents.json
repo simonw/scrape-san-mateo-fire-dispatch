@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2209487",
+        "date": "2022-12-03",
+        "time": "3:50:17 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL RD #10 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "SF2214423",
         "date": "2022-12-03",
         "time": "3:41:48 AM",
@@ -8,7 +19,7 @@
         "location": "THAYER LN #404 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E28"
+        "units": ">E28"
     },
     {
         "id": "MF2209486",
@@ -16,10 +27,10 @@
         "time": "3:41:46 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "AVE ,NFO",
+        "location": "AVE / MIDDLEFIELD RD",
         "latitude": null,
         "longitude": null,
-        "units": "?E3"
+        "units": ">E3"
     },
     {
         "id": "RF2212207",
@@ -41,28 +52,6 @@
         "location": "SB 101 / NO MILLBRAE AVE",
         "latitude": 37.6076284150697,
         "longitude": -122.388400032852,
-        "units": ">E51 CM31X2 ?TAC35 >BC16 T51>E34"
-    },
-    {
-        "id": "RF2212206",
-        "date": "2022-12-03",
-        "time": "3:13:22 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FRANKLIN ST #334 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "NF2212864",
-        "date": "2022-12-03",
-        "time": "3:02:43 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "30 VISTA GRANDE AVE #1 ,DCY",
-        "latitude": 37.7033833381581,
-        "longitude": -122.463543784757,
-        "units": ">E92"
+        "units": ">T51"
     }
 ]
