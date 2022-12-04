@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2214453",
+        "date": "2022-12-03",
+        "time": "9:22:34 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HILLSDALE MALL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "NF2212890",
+        "date": "2022-12-03",
+        "time": "9:13:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "273 S PARKVIEW AVE #2 ,DCY",
+        "latitude": 37.7004423302876,
+        "longitude": -122.468748782125,
+        "units": ">E95"
+    },
+    {
+        "id": "FF2206741",
+        "date": "2022-12-03",
+        "time": "9:05:08 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #ER ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "FF2206740",
         "date": "2022-12-03",
         "time": "9:03:02 PM",
@@ -8,18 +41,7 @@
         "location": "GELLERT BLVD #202 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
-    },
-    {
-        "id": "NF2212889",
-        "date": "2022-12-03",
-        "time": "8:59:34 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "555 OCEANA BLVD ,PCF",
-        "latitude": 37.6480051537865,
-        "longitude": -122.490297754644,
-        "units": ">E71"
+        "units": ">E64"
     },
     {
         "id": "NF2212888",
@@ -30,61 +52,6 @@
         "location": "2 PONCETTA DR ,DCY",
         "latitude": 37.7038419413624,
         "longitude": -122.475051770189,
-        "units": ">BC20 >E91 CM31X3 T95 ?TAC35"
-    },
-    {
-        "id": "SF2214452",
-        "date": "2022-12-03",
-        "time": "8:50:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "E POPLAR AVE / N HUMBOLDT ST",
-        "latitude": 37.5788103747412,
-        "longitude": -122.326294409679,
-        "units": ">E24"
-    },
-    {
-        "id": "DF2202071",
-        "date": "2022-12-03",
-        "time": "8:49:56 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STAGE RD ,PES",
-        "latitude": null,
-        "longitude": null,
-        "units": "E655 >E59 ?VFIR22"
-    },
-    {
-        "id": "MF2209505",
-        "date": "2022-12-03",
-        "time": "8:44:11 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E O'KEEFE ST #316 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "BF2203828",
-        "date": "2022-12-03",
-        "time": "8:33:00 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #300 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "NF2212886",
-        "date": "2022-12-03",
-        "time": "8:00:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PEORIA ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">BC20 ?TAC35 >E92 >E86 >T95>E91 CM31X3"
     }
 ]
