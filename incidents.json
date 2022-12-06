@@ -1,5 +1,49 @@
 [
     {
+        "id": "LF2201067",
+        "date": "2022-12-06",
+        "time": "11:02:45 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1680 MISSION RD ,CLM",
+        "latitude": 37.6711335909561,
+        "longitude": -122.451329478687,
+        "units": "?TAC35 ?CM31X5 ?T85 ?E86"
+    },
+    {
+        "id": "MF2209593",
+        "date": "2022-12-06",
+        "time": "11:01:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "721 11TH AVE ,NFO",
+        "latitude": 37.4764648694041,
+        "longitude": -122.195480744761,
+        "units": "E3"
+    },
+    {
+        "id": "MF2209592",
+        "date": "2022-12-06",
+        "time": "11:01:00 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "SF2214554",
+        "date": "2022-12-06",
+        "time": "10:48:50 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #310 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
         "id": "RF2212340",
         "date": "2022-12-06",
         "time": "10:41:54 AM",
@@ -8,29 +52,7 @@
         "location": "WALNUT ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "BF2203869",
-        "date": "2022-12-06",
-        "time": "10:36:58 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2212977",
-        "date": "2022-12-06",
-        "time": "10:36:39 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #204A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">E12"
     },
     {
         "id": "SF2214552",
@@ -53,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "BF2203868",
-        "date": "2022-12-06",
-        "time": "10:20:57 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2214551",
-        "date": "2022-12-06",
-        "time": "10:14:51 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRYSTAL SPRINGS RD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E24"
-    },
-    {
-        "id": "NF2212976",
-        "date": "2022-12-06",
-        "time": "10:13:31 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HICKEY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
     }
 ]
