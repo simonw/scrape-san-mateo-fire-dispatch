@@ -1,5 +1,82 @@
 [
     {
+        "id": "FF2206798",
+        "date": "2022-12-06",
+        "time": "12:24:00 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRANADA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E63"
+    },
+    {
+        "id": "CF2207816",
+        "date": "2022-12-06",
+        "time": "12:22:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #41 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "CF2207815",
+        "date": "2022-12-06",
+        "time": "12:21:50 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SKYLINE BLVD / TROUSDALE DR",
+        "latitude": null,
+        "longitude": null,
+        "units": "E38"
+    },
+    {
+        "id": "RF2212343",
+        "date": "2022-12-06",
+        "time": "12:20:28 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY #FLOOR ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "CF2207814",
+        "date": "2022-12-06",
+        "time": "12:16:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BURLINGAME AVE / EL CAMINO REAL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2212980",
+        "date": "2022-12-06",
+        "time": "12:07:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SKYLINE BLVD / HICKEY BLVD",
+        "latitude": 37.6605286950956,
+        "longitude": -122.475791872586,
+        "units": ">BC124 >E94 ?TAC35 E64 >T95CM31X3"
+    },
+    {
+        "id": "SF2214560",
+        "date": "2022-12-06",
+        "time": "12:06:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
         "id": "MF2209595",
         "date": "2022-12-06",
         "time": "12:00:28 PM",
@@ -8,7 +85,7 @@
         "location": "SANTA RITA AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
+        "units": ""
     },
     {
         "id": "SF2214559",
@@ -19,29 +96,7 @@
         "location": "HOWARD AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">T21 CM21X3 E24"
-    },
-    {
-        "id": "MF2209594",
-        "date": "2022-12-06",
-        "time": "11:52:34 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAVEN AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "RF2212341",
-        "date": "2022-12-06",
-        "time": "11:50:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JAMES AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": ""
     },
     {
         "id": "SF2214558",
@@ -52,18 +107,7 @@
         "location": "CELESTIAL LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "*>E23 E28"
-    },
-    {
-        "id": "SF2214555",
-        "date": "2022-12-06",
-        "time": "11:32:24 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S ELLSWORTH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": "E28"
     },
     {
         "id": "CF2207813",
@@ -74,6 +118,6 @@
         "location": "CHULA VISTA AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "CM21X1 >T34 >E34"
+        "units": "CM21X1 >T34"
     }
 ]
