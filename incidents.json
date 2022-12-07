@@ -1,14 +1,80 @@
 [
     {
-        "id": "BF2203887",
+        "id": "RF2212382",
         "date": "2022-12-07",
-        "time": "11:16:24 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "1100 TRAIN TRACK ,SNB",
-        "latitude": 37.6304814684682,
-        "longitude": -122.411468567058,
-        "units": ">T51"
+        "time": "11:40:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HURLINGAME AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E11"
+    },
+    {
+        "id": "NF2213030",
+        "date": "2022-12-07",
+        "time": "11:40:04 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MIDVALE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "NF2213029",
+        "date": "2022-12-07",
+        "time": "11:38:32 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CANYON DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "NF2213028",
+        "date": "2022-12-07",
+        "time": "11:37:55 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST #242 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "FF2207018",
+        "date": "2022-12-07",
+        "time": "11:37:24 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "WESTVIEW AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "SF2214614",
+        "date": "2022-12-07",
+        "time": "11:27:14 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S DELAWARE ST #2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2207849",
+        "date": "2022-12-07",
+        "time": "11:23:59 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "250 MYRTLE RD ,BRM",
+        "latitude": 37.5809469050735,
+        "longitude": -122.34305599926,
+        "units": ">T34 CM21X2 ?TAC25"
     },
     {
         "id": "SF2214612",
@@ -19,7 +85,7 @@
         "location": "W 25TH AVE / S EL CAMINO REAL",
         "latitude": 37.5443440115538,
         "longitude": -122.305523010242,
-        "units": ">E23"
+        "units": ""
     },
     {
         "id": "CF2207848",
@@ -30,72 +96,6 @@
         "location": "DUMONT CT ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "MF2209619",
-        "date": "2022-12-07",
-        "time": "11:05:26 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2212381",
-        "date": "2022-12-07",
-        "time": "11:05:21 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "MF2209618",
-        "date": "2022-12-07",
-        "time": "11:03:55 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "1101 NOEL DR #1 ,MNP",
-        "latitude": 37.4557696235904,
-        "longitude": -122.182123429795,
-        "units": ">E1"
-    },
-    {
-        "id": "CF2207847",
-        "date": "2022-12-07",
-        "time": "11:03:36 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #3RD FLR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2214611",
-        "date": "2022-12-07",
-        "time": "10:58:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PARK PL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "WF2201824",
-        "date": "2022-12-07",
-        "time": "10:58:39 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "170 HARDWICK RD ,WDS",
-        "latitude": 37.4455797063063,
-        "longitude": -122.247660138918,
-        "units": ">SQ407"
+        "units": ""
     }
 ]
