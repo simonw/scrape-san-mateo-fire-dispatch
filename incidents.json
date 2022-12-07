@@ -1,5 +1,27 @@
 [
     {
+        "id": "DF2202092",
+        "date": "2022-12-07",
+        "time": "1:52:45 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "8150 PESCADERO CREEK RD ,LMR",
+        "latitude": 37.2696945694269,
+        "longitude": -122.308853015553,
+        "units": "E7 TAC17 BC10 E59 E655R57"
+    },
+    {
+        "id": "CF2207856",
+        "date": "2022-12-07",
+        "time": "1:46:22 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "LARKSPUR DR / PINEHURST CT",
+        "latitude": 37.5998717967041,
+        "longitude": -122.417380594844,
+        "units": ">E38"
+    },
+    {
         "id": "DF2202090",
         "date": "2022-12-07",
         "time": "1:37:20 PM",
@@ -8,7 +30,7 @@
         "location": "SB 280 / NO 92",
         "latitude": 37.5128003426877,
         "longitude": -122.347426465418,
-        "units": "TAC16 E15 T17 E17 BC11CM11X5"
+        "units": "TAC16 CM11X5 >T17 >CH10A"
     },
     {
         "id": "DF2202089",
@@ -19,18 +41,7 @@
         "location": "FILBERT RD ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": "TAC15 E56 E58 R56"
-    },
-    {
-        "id": "FF2207023",
-        "date": "2022-12-07",
-        "time": "1:32:57 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ">E56 TAC15 >E58 >R56"
     },
     {
         "id": "NF2213033",
@@ -42,49 +53,5 @@
         "latitude": 37.6686453532242,
         "longitude": -122.484978680384,
         "units": ">BC120"
-    },
-    {
-        "id": "RF2212387",
-        "date": "2022-12-07",
-        "time": "1:28:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2207854",
-        "date": "2022-12-07",
-        "time": "1:27:08 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2214617",
-        "date": "2022-12-07",
-        "time": "1:26:45 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "121 N GRANT ST ,SMO",
-        "latitude": 37.5732248223892,
-        "longitude": -122.322288610828,
-        "units": ""
-    },
-    {
-        "id": "SF2214616",
-        "date": "2022-12-07",
-        "time": "1:23:13 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "1700 W HILLSDALE BLVD ,SMO",
-        "latitude": 37.5349190302448,
-        "longitude": -122.334973775451,
-        "units": ">E27"
     }
 ]
