@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2212376",
+        "date": "2022-12-07",
+        "time": "9:37:38 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Gas main break",
+        "location": "TWIN DOLPHIN DR / MARINE PKWY",
+        "latitude": 37.5285787291222,
+        "longitude": -122.263785880893,
+        "units": "T21 E14 E27 BC3 E26CM11X4 ?TAC16"
+    },
+    {
+        "id": "CF2207844",
+        "date": "2022-12-07",
+        "time": "9:35:52 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD BAYSHORE HWY #110 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2207843",
+        "date": "2022-12-07",
+        "time": "9:34:45 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALBOA AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "NF2213021",
+        "date": "2022-12-07",
+        "time": "9:32:36 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "GUADALUPE CANYON PKWY / CARTER ST",
+        "latitude": 37.6990874659049,
+        "longitude": -122.421048964428,
+        "units": ""
+    },
+    {
+        "id": "MF2209615",
+        "date": "2022-12-07",
+        "time": "9:29:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "CF2207842",
         "date": "2022-12-07",
         "time": "9:22:09 AM",
@@ -8,29 +63,7 @@
         "location": "8 CORTE DORADO ,MLB",
         "latitude": 37.5949492386791,
         "longitude": -122.401135022422,
-        "units": "?E38"
-    },
-    {
-        "id": "CF2207841",
-        "date": "2022-12-07",
-        "time": "9:13:09 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CABRILLO AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "FF2207015",
-        "date": "2022-12-07",
-        "time": "8:48:04 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMPO DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E38"
     },
     {
         "id": "SF2214605",
@@ -41,6 +74,6 @@
         "location": "UPPER LOCK AVE / MARBURGER AVE",
         "latitude": 37.5158433676276,
         "longitude": -122.314864503931,
-        "units": "CM11X2 TAC15 >BC5 >T17"
+        "units": ">T17"
     }
 ]
