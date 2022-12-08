@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2212398",
+        "date": "2022-12-07",
+        "time": "7:04:45 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LEMOORE DR ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "SF2214626",
+        "date": "2022-12-07",
+        "time": "7:03:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRANE AVE ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "CF2207867",
+        "date": "2022-12-07",
+        "time": "7:00:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1058A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
         "id": "MF2209632",
         "date": "2022-12-07",
         "time": "6:52:26 PM",
@@ -8,18 +41,7 @@
         "location": "E SELBY LN #218 ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
-    },
-    {
-        "id": "BF2203889",
-        "date": "2022-12-07",
-        "time": "6:50:32 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "136 ELM AVE ,SNB",
-        "latitude": 37.615481906013,
-        "longitude": -122.409505239927,
-        "units": "?E38"
+        "units": ">E9"
     },
     {
         "id": "CF2207866",
@@ -52,40 +74,7 @@
         "location": "CASTENADA DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "CF2207864",
-        "date": "2022-12-07",
-        "time": "6:40:13 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CORBITT DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "RF2212397",
-        "date": "2022-12-07",
-        "time": "6:39:42 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHERRY ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "NF2213038",
-        "date": "2022-12-07",
-        "time": "6:26:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "A ST / CLARK AVE",
-        "latitude": 37.6861036480141,
-        "longitude": -122.460813085647,
-        "units": ">E86"
+        "units": "E34"
     },
     {
         "id": "SF2214624",
@@ -99,17 +88,6 @@
         "units": ">E28"
     },
     {
-        "id": "BF2203888",
-        "date": "2022-12-07",
-        "time": "6:22:21 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 101 / NO MILLBRAE AVE",
-        "latitude": 37.6076284150697,
-        "longitude": -122.388400032852,
-        "units": "CM31X5 >E51 ?TAC35 >BC16 >T51"
-    },
-    {
         "id": "MF2209630",
         "date": "2022-12-07",
         "time": "4:55:33 PM",
@@ -118,6 +96,6 @@
         "location": "62 BUCHANAN CT ,EPA",
         "latitude": 37.4691799108118,
         "longitude": -122.132902458637,
-        "units": "CM11X2 ?TAC15 >E2 >BC101 >T2>E1"
+        "units": "CM11X2 ?TAC15 >E2 >T2 >E1"
     }
 ]
