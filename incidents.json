@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2207035",
+        "id": "MF2209641",
         "date": "2022-12-08",
-        "time": "7:21:12 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:27:51 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "SOUTHWOOD DR ,SSF",
+        "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E1"
+    },
+    {
+        "id": "HF2202916",
+        "date": "2022-12-08",
+        "time": "7:24:08 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "CHURCH ST / MILL ST",
+        "latitude": 37.4648426534157,
+        "longitude": -122.430954740206,
+        "units": ">E40"
     },
     {
         "id": "CF2207874",
@@ -19,18 +30,7 @@
         "location": "TROUSDALE DR #503 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2207034",
-        "date": "2022-12-08",
-        "time": "7:16:32 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE / LINDEN AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ""
     },
     {
         "id": "NF2213051",
@@ -42,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E93"
-    },
-    {
-        "id": "SF2214645",
-        "date": "2022-12-08",
-        "time": "7:11:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
     }
 ]
