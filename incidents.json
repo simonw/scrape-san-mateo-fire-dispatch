@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2203911",
+        "date": "2022-12-09",
+        "time": "1:20:37 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HERMAN ST / BUENA VISTA AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2214682",
+        "date": "2022-12-09",
+        "time": "1:20:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GLENDORA DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E25"
+    },
+    {
         "id": "BF2203910",
         "date": "2022-12-09",
         "time": "1:03:47 PM",
@@ -8,7 +30,7 @@
         "location": "PICCADILLY PL #25 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": ">E52"
     },
     {
         "id": "NF2213108",
@@ -19,62 +41,7 @@
         "location": "SYLVAN ST #1 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "MF2209676",
-        "date": "2022-12-09",
-        "time": "1:00:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Lock out - residential",
-        "location": "400 ALMA ST #A ,MNP",
-        "latitude": 37.4508201980036,
-        "longitude": -122.174983068678,
-        "units": "E6"
-    },
-    {
-        "id": "SF2214681",
-        "date": "2022-12-09",
-        "time": "12:45:37 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORES ST #111B ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "LF2201082",
-        "date": "2022-12-09",
-        "time": "12:44:57 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Public assist",
-        "location": "1200 EL CAMINO REAL ,CLM",
-        "latitude": 37.6751412249203,
-        "longitude": -122.458785667034,
-        "units": ">E86"
-    },
-    {
-        "id": "FF2207056",
-        "date": "2022-12-09",
-        "time": "12:36:06 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "CF2207910",
-        "date": "2022-12-09",
-        "time": "12:26:21 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BARCELONA DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E92"
     },
     {
         "id": "NF2213093",
@@ -85,6 +52,6 @@
         "location": "1164 CRESPI DR ,PCF",
         "latitude": 37.5895094172902,
         "longitude": -122.487246301971,
-        "units": ">HM32 >DEM55 >BC123 >TAC35 >CM31X1>HM14 >E71 >TAC36 >T95 >E72"
+        "units": ">HM32 >DEM55 >BC123 >TAC35 >CM31X1>HM14 >TAC36 >T95 >E72"
     }
 ]
