@@ -1,25 +1,58 @@
 [
     {
-        "id": "BF2203931",
+        "id": "FF2207084",
         "date": "2022-12-10",
-        "time": "10:22:56 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO TROUSDALE DR",
-        "latitude": 37.5852479701872,
-        "longitude": -122.408022317144,
-        "units": "E38 CM31X4 T51 BC16 ?TAC35"
-    },
-    {
-        "id": "FF2207083",
-        "date": "2022-12-10",
-        "time": "10:22:36 AM",
+        "time": "10:36:43 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "DUNDEE DR ,SSF",
+        "location": "ARLINGTON DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
+        "units": "E94"
+    },
+    {
+        "id": "RF2212478",
+        "date": "2022-12-10",
+        "time": "10:36:15 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "210 PARK ST ,RCY",
+        "latitude": 37.4718859875444,
+        "longitude": -122.218891874246,
+        "units": ">E3"
+    },
+    {
+        "id": "BF2203932",
+        "date": "2022-12-10",
+        "time": "10:34:22 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MAYWOOD DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "CF2207944",
+        "date": "2022-12-10",
+        "time": "10:29:26 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #205 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
+    },
+    {
+        "id": "DF2202114",
+        "date": "2022-12-10",
+        "time": "10:28:00 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO BLACK MOUNTAIN RD OFF RAMP",
+        "latitude": 37.5568034592256,
+        "longitude": -122.380372766074,
+        "units": ">E33"
     },
     {
         "id": "SF2214716",
@@ -30,7 +63,7 @@
         "location": "E 39TH AVE #A ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "DF2202112",
@@ -41,40 +74,7 @@
         "location": "NB 280 / NO 92",
         "latitude": 37.5131369701181,
         "longitude": -122.346807187389,
-        "units": "E17 BC11 T17 E33 ?TAC15?CM11X3"
-    },
-    {
-        "id": "NF2213145",
-        "date": "2022-12-10",
-        "time": "10:19:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GARWOOD DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2214715",
-        "date": "2022-12-10",
-        "time": "10:14:11 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E HILLSDALE BLVD ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "WF2201838",
-        "date": "2022-12-10",
-        "time": "10:14:09 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "841 GLENCRAG WAY ,WDS",
-        "latitude": 37.4503386931788,
-        "longitude": -122.274667240186,
-        "units": ">E19"
+        "units": ">E18"
     },
     {
         "id": "MF2209698",
@@ -99,17 +99,6 @@
         "units": ">E356"
     },
     {
-        "id": "MF2209697",
-        "date": "2022-12-10",
-        "time": "10:04:30 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1306 STOCKBRIDGE AVE ,WSB",
-        "latitude": 37.4522676965736,
-        "longitude": -122.218880876264,
-        "units": ""
-    },
-    {
         "id": "BF2203930",
         "date": "2022-12-10",
         "time": "10:02:03 AM",
@@ -119,27 +108,5 @@
         "latitude": 37.6182507141412,
         "longitude": -122.409852543243,
         "units": ">E51"
-    },
-    {
-        "id": "NF2213144",
-        "date": "2022-12-10",
-        "time": "9:48:01 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA VISTA WAY ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2213143",
-        "date": "2022-12-10",
-        "time": "9:37:10 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO EASTMOOR AVE",
-        "latitude": 37.7034101220142,
-        "longitude": -122.471313233753,
-        "units": ">BC120"
     }
 ]
