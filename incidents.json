@@ -1,14 +1,58 @@
 [
     {
-        "id": "NF2213157",
+        "id": "NF2213159",
         "date": "2022-12-10",
-        "time": "1:05:00 PM",
+        "time": "1:15:48 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "365 WINCHESTER ST ,DCY",
+        "latitude": 37.7055784029935,
+        "longitude": -122.454612317547,
+        "units": "U95"
+    },
+    {
+        "id": "NF2213158",
+        "date": "2022-12-10",
+        "time": "1:14:12 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD #DIALYSIS ,DCY",
+        "location": "HILLSIDE BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
+        "units": ">E92"
+    },
+    {
+        "id": "WF2201844",
+        "date": "2022-12-10",
+        "time": "1:13:15 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "84 VISTA VERDE WAY ,LTW",
+        "latitude": 37.3387407622357,
+        "longitude": -122.196205116205,
+        "units": "CM11X3 E507 E8"
+    },
+    {
+        "id": "MF2209711",
+        "date": "2022-12-10",
+        "time": "1:09:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "W BAYSHORE RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2212485",
+        "date": "2022-12-10",
+        "time": "1:04:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "961 LAUREL ST ,SNC",
+        "latitude": 37.5019800001048,
+        "longitude": -122.255185056702,
+        "units": "CM11X2 >SQ409 >E9 ?TAC15 T9>BC3 >E10"
     },
     {
         "id": "RF2212484",
@@ -19,7 +63,7 @@
         "location": "610 ELM ST ,SNC",
         "latitude": 37.5036550817192,
         "longitude": -122.262375580056,
-        "units": "E16"
+        "units": ""
     },
     {
         "id": "RF2212483",
@@ -30,7 +74,7 @@
         "location": "1010 HEWITT DR ,SNC",
         "latitude": 37.4930071886601,
         "longitude": -122.273559189284,
-        "units": "E13"
+        "units": ""
     },
     {
         "id": "NF2213156",
@@ -41,7 +85,7 @@
         "location": "NB 1 / NO TUNNEL",
         "latitude": 37.5908406268089,
         "longitude": -122.503983476237,
-        "units": "CM31X5 ?TAC35 U72 T95 E72BC120"
+        "units": ">E72 >BC120"
     },
     {
         "id": "DF2202122",
@@ -52,7 +96,7 @@
         "location": "NB 280 / EDGEWOOD RD OFF RAMP ,SOS",
         "latitude": 37.4657219812523,
         "longitude": -122.290920386309,
-        "units": "?TAC16 >BC2 CM11X5 >T17 >E19"
+        "units": "?TAC16 CM11X5"
     },
     {
         "id": "SF2214725",
@@ -63,94 +107,6 @@
         "location": "VILLAGE LN #237 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "SF2214724",
-        "date": "2022-12-10",
-        "time": "12:49:14 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1000 STERN LN ,FCY",
-        "latitude": 37.5483217958614,
-        "longitude": -122.256935749432,
-        "units": ">E28"
-    },
-    {
-        "id": "CF2207949",
-        "date": "2022-12-10",
-        "time": "12:47:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "720 LAUREL AVE ,BRM",
-        "latitude": 37.5846934805714,
-        "longitude": -122.349196249363,
-        "units": "E34"
-    },
-    {
-        "id": "CF2207950",
-        "date": "2022-12-10",
-        "time": "12:47:19 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "835 HELEN DR ,MLB",
-        "latitude": 37.5995583263714,
-        "longitude": -122.412169571916,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2207088",
-        "date": "2022-12-10",
-        "time": "12:47:15 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "N ACCESS RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "DF2202120",
-        "date": "2022-12-10",
-        "time": "12:43:49 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / SO 92",
-        "latitude": 37.5004067419462,
-        "longitude": -122.326125246726,
-        "units": ">E18"
-    },
-    {
-        "id": "SF2214723",
-        "date": "2022-12-10",
-        "time": "12:41:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FAIRMONT DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "MF2209710",
-        "date": "2022-12-10",
-        "time": "12:38:56 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODLAND AVE #26 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "HF2202938",
-        "date": "2022-12-10",
-        "time": "12:33:28 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "LOBITOS CREEK CUT OFF / VERDE RD",
-        "latitude": 37.3826702882669,
-        "longitude": -122.400356854251,
         "units": ""
     },
     {
@@ -163,16 +119,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "MF2209706",
-        "date": "2022-12-10",
-        "time": "12:14:43 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "150 WATKINS AVE ,ATN",
-        "latitude": 37.4633044501264,
-        "longitude": -122.191483978041,
-        "units": ">T1 CM11X1 >E3"
     }
 ]
