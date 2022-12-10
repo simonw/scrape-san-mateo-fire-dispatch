@@ -1,36 +1,80 @@
 [
     {
-        "id": "MF2209707",
+        "id": "SF2214723",
         "date": "2022-12-10",
-        "time": "12:24:24 PM",
+        "time": "12:41:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FAIRMONT DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "CF2207948",
+        "date": "2022-12-10",
+        "time": "12:39:20 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N ROLLINS RD / CAMINO MILLENNIA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "MF2209710",
+        "date": "2022-12-10",
+        "time": "12:38:56 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "OLIVE ST ,MNP",
+        "location": "WOODLAND AVE #26 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": "E2"
     },
     {
-        "id": "NF2213155",
+        "id": "CF2207947",
         "date": "2022-12-10",
-        "time": "12:23:45 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:33:57 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "MANZANITA DR ,PCF",
+        "location": "LASUEN DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": ">E38"
     },
     {
-        "id": "DF2202119",
+        "id": "HF2202938",
         "date": "2022-12-10",
-        "time": "12:19:31 PM",
-        "summary": "County Fire on Control-1",
+        "time": "12:33:28 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Tree down",
-        "location": "CABRILLO HWY S / TUNITAS CREEK RD",
-        "latitude": 37.3586341004646,
-        "longitude": -122.397621990062,
-        "units": "E40"
+        "location": "LOBITOS CREEK CUT OFF / VERDE RD",
+        "latitude": 37.3826702882669,
+        "longitude": -122.400356854251,
+        "units": ">E40"
+    },
+    {
+        "id": "BF2203940",
+        "date": "2022-12-10",
+        "time": "12:32:13 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "W ANGUS AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "MF2209708",
+        "date": "2022-12-10",
+        "time": "12:28:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #328A ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
     },
     {
         "id": "BF2203939",
@@ -41,7 +85,7 @@
         "location": "CRESTWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "MF2209706",
@@ -52,7 +96,7 @@
         "location": "150 WATKINS AVE ,ATN",
         "latitude": 37.4633044501264,
         "longitude": -122.191483978041,
-        "units": ">E3"
+        "units": ">T1 CM11X1 >E3"
     },
     {
         "id": "MF2209704",
@@ -74,95 +118,7 @@
         "location": "SB 280 / BLACK MOUNTAIN RD ON RAMP",
         "latitude": 37.5449127728356,
         "longitude": -122.370499029786,
-        "units": "CM21X2 ?TAC25 >E33"
-    },
-    {
-        "id": "BF2203938",
-        "date": "2022-12-10",
-        "time": "12:11:13 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "W ANGUS AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2214721",
-        "date": "2022-12-10",
-        "time": "12:06:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "700 ISLAND PKWY ,BLM",
-        "latitude": 37.5283581731443,
-        "longitude": -122.270778917945,
-        "units": ""
-    },
-    {
-        "id": "FF2207086",
-        "date": "2022-12-10",
-        "time": "12:06:01 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / NO 380",
-        "latitude": 37.6433298173213,
-        "longitude": -122.406001905655,
-        "units": "CM31X2 >E51 ?TAC35 >Q62 >BC16"
-    },
-    {
-        "id": "DF2202117",
-        "date": "2022-12-10",
-        "time": "12:04:35 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "15 ACACIA LN ,EML",
-        "latitude": 37.4804959337397,
-        "longitude": -122.255392896632,
-        "units": ">E10"
-    },
-    {
-        "id": "MF2209703",
-        "date": "2022-12-10",
-        "time": "12:03:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "VERONICA CT / RUNNYMEDE ST",
-        "latitude": 37.4686953416441,
-        "longitude": -122.129028585229,
-        "units": ""
-    },
-    {
-        "id": "BF2203937",
-        "date": "2022-12-10",
-        "time": "11:58:27 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "2350 ROLLINGWOOD DR ,SNB",
-        "latitude": 37.6306243853794,
-        "longitude": -122.442492358494,
-        "units": ">E52"
-    },
-    {
-        "id": "CF2207945",
-        "date": "2022-12-10",
-        "time": "11:47:01 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "920 BAYSWATER AVE ,BRM",
-        "latitude": 37.5787899660593,
-        "longitude": -122.340638337852,
-        "units": ""
-    },
-    {
-        "id": "RF2212482",
-        "date": "2022-12-10",
-        "time": "11:43:04 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1030 EL CAMINO REAL ,SNC",
-        "latitude": 37.5011803580975,
-        "longitude": -122.253549188693,
-        "units": ""
+        "units": ">E33"
     },
     {
         "id": "BF2203934",
