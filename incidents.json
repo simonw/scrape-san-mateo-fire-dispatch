@@ -1,5 +1,115 @@
 [
     {
+        "id": "BF2203931",
+        "date": "2022-12-10",
+        "time": "10:22:56 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO TROUSDALE DR",
+        "latitude": 37.5852479701872,
+        "longitude": -122.408022317144,
+        "units": "E38 CM31X4 T51 BC16 ?TAC35"
+    },
+    {
+        "id": "FF2207083",
+        "date": "2022-12-10",
+        "time": "10:22:36 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "DUNDEE DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2214716",
+        "date": "2022-12-10",
+        "time": "10:21:24 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 39TH AVE #A ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "DF2202112",
+        "date": "2022-12-10",
+        "time": "10:20:55 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 280 / NO 92",
+        "latitude": 37.5131369701181,
+        "longitude": -122.346807187389,
+        "units": "E17 BC11 T17 E33 ?TAC15?CM11X3"
+    },
+    {
+        "id": "NF2213145",
+        "date": "2022-12-10",
+        "time": "10:19:04 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GARWOOD DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "SF2214715",
+        "date": "2022-12-10",
+        "time": "10:14:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E HILLSDALE BLVD ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "WF2201838",
+        "date": "2022-12-10",
+        "time": "10:14:09 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "841 GLENCRAG WAY ,WDS",
+        "latitude": 37.4503386931788,
+        "longitude": -122.274667240186,
+        "units": ">E19"
+    },
+    {
+        "id": "MF2209698",
+        "date": "2022-12-10",
+        "time": "10:12:09 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "WF2201837",
+        "date": "2022-12-10",
+        "time": "10:10:09 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "2050 KINGS MOUNTAIN RD ,KMT",
+        "latitude": 37.4289605002102,
+        "longitude": -122.30394375142,
+        "units": ">E356"
+    },
+    {
+        "id": "MF2209697",
+        "date": "2022-12-10",
+        "time": "10:04:30 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1306 STOCKBRIDGE AVE ,WSB",
+        "latitude": 37.4522676965736,
+        "longitude": -122.218880876264,
+        "units": ""
+    },
+    {
         "id": "BF2203930",
         "date": "2022-12-10",
         "time": "10:02:03 AM",
@@ -8,29 +118,7 @@
         "location": "224 LINDEN AVE ,SNB",
         "latitude": 37.6182507141412,
         "longitude": -122.409852543243,
-        "units": "E51"
-    },
-    {
-        "id": "RF2212476",
-        "date": "2022-12-10",
-        "time": "9:50:05 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #1254 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "FF2207082",
-        "date": "2022-12-10",
-        "time": "9:48:39 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "25 BRADFORD DR ,SSF",
-        "latitude": 37.6682435889675,
-        "longitude": -122.454982402852,
-        "units": ">OES403"
+        "units": ">E51"
     },
     {
         "id": "NF2213144",
@@ -41,18 +129,7 @@
         "location": "ALTA VISTA WAY ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "RF2212474",
-        "date": "2022-12-10",
-        "time": "9:45:58 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WARRINGTON AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": ""
     },
     {
         "id": "NF2213143",
@@ -63,6 +140,6 @@
         "location": "NB 280 / SO EASTMOOR AVE",
         "latitude": 37.7034101220142,
         "longitude": -122.471313233753,
-        "units": "CM31X5 ?TAC36 >T95 >BC120"
+        "units": ">BC120"
     }
 ]
