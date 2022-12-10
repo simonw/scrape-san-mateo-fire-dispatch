@@ -1,5 +1,115 @@
 [
     {
+        "id": "HF2202939",
+        "date": "2022-12-10",
+        "time": "2:02:11 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "DF2202124",
+        "date": "2022-12-10",
+        "time": "2:01:05 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "7 WINDING WAY ,DVN",
+        "latitude": 37.4950896661104,
+        "longitude": -122.277173528139,
+        "units": "E16"
+    },
+    {
+        "id": "RF2212488",
+        "date": "2022-12-10",
+        "time": "1:59:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "WF2201847",
+        "date": "2022-12-10",
+        "time": "1:59:04 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "736 OLD LA HONDA RD ,WDS",
+        "latitude": 37.3761090410938,
+        "longitude": -122.253035492483,
+        "units": ">R56"
+    },
+    {
+        "id": "NF2213162",
+        "date": "2022-12-10",
+        "time": "1:58:28 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALE ST #35 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "BF2203942",
+        "date": "2022-12-10",
+        "time": "1:53:29 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Lock out - residential",
+        "location": "1101 NATIONAL AVE #1201 ,SNB",
+        "latitude": 37.6344382028256,
+        "longitude": -122.423369549572,
+        "units": ">T51"
+    },
+    {
+        "id": "DF2202123",
+        "date": "2022-12-10",
+        "time": "1:51:25 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NB 1 / IN TUNNEL",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "NF2213161",
+        "date": "2022-12-10",
+        "time": "1:45:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "20 MACDONALD AVE ,DCY",
+        "latitude": 37.7052956184194,
+        "longitude": -122.406677803728,
+        "units": ">E681"
+    },
+    {
+        "id": "SF2214726",
+        "date": "2022-12-10",
+        "time": "1:45:08 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "WF2201846",
+        "date": "2022-12-10",
+        "time": "1:44:16 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "2025 KINGS MOUNTAIN RD ,KMT",
+        "latitude": 37.423142477168,
+        "longitude": -122.308401233111,
+        "units": ">E356"
+    },
+    {
         "id": "BF2203941",
         "date": "2022-12-10",
         "time": "1:42:19 PM",
@@ -8,18 +118,7 @@
         "location": "ELM AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E51"
-    },
-    {
-        "id": "NF2213160",
-        "date": "2022-12-10",
-        "time": "1:36:26 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KAVANAUGH WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ">E51"
     },
     {
         "id": "WF2201845",
@@ -30,51 +129,7 @@
         "location": "600 OLD LA HONDA RD ,WDS",
         "latitude": 37.3817737528595,
         "longitude": -122.256672781257,
-        "units": "E7 R56"
-    },
-    {
-        "id": "CF2207952",
-        "date": "2022-12-10",
-        "time": "1:30:38 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #103 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2207090",
-        "date": "2022-12-10",
-        "time": "1:30:13 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD #224 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2209712",
-        "date": "2022-12-10",
-        "time": "1:27:18 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SCOFIELD AVE #1 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "WF2201844",
-        "date": "2022-12-10",
-        "time": "1:13:15 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "84 VISTA VERDE WAY ,LTW",
-        "latitude": 37.3387407622357,
-        "longitude": -122.196205116205,
-        "units": "*>E507"
+        "units": ">E7"
     },
     {
         "id": "RF2212485",
@@ -85,17 +140,6 @@
         "location": "961 LAUREL ST ,SNC",
         "latitude": 37.5019800001048,
         "longitude": -122.255185056702,
-        "units": "CM11X2 >E9 ?TAC15 >T9 >BC3"
-    },
-    {
-        "id": "BF2203939",
-        "date": "2022-12-10",
-        "time": "12:19:16 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
+        "units": "CM11X2 >E9 ?TAC15"
     }
 ]
