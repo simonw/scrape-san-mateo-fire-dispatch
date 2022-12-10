@@ -1,5 +1,60 @@
 [
     {
+        "id": "BF2203930",
+        "date": "2022-12-10",
+        "time": "10:02:03 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "224 LINDEN AVE ,SNB",
+        "latitude": 37.6182507141412,
+        "longitude": -122.409852543243,
+        "units": "E51"
+    },
+    {
+        "id": "RF2212476",
+        "date": "2022-12-10",
+        "time": "9:50:05 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #1254 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "FF2207082",
+        "date": "2022-12-10",
+        "time": "9:48:39 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "25 BRADFORD DR ,SSF",
+        "latitude": 37.6682435889675,
+        "longitude": -122.454982402852,
+        "units": ">OES403"
+    },
+    {
+        "id": "NF2213144",
+        "date": "2022-12-10",
+        "time": "9:48:01 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA VISTA WAY ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "RF2212474",
+        "date": "2022-12-10",
+        "time": "9:45:58 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WARRINGTON AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
         "id": "NF2213143",
         "date": "2022-12-10",
         "time": "9:37:10 AM",
@@ -8,39 +63,6 @@
         "location": "NB 280 / SO EASTMOOR AVE",
         "latitude": 37.7034101220142,
         "longitude": -122.471313233753,
-        "units": ">E92 CM31X5 >BC120 >T95 ?TAC36"
-    },
-    {
-        "id": "RF2212473",
-        "date": "2022-12-10",
-        "time": "9:34:13 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1100 ROYAL LN ,SNC",
-        "latitude": 37.482032693221,
-        "longitude": -122.284107909363,
-        "units": ">E18"
-    },
-    {
-        "id": "CF2207942",
-        "date": "2022-12-10",
-        "time": "9:29:58 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "MILLBRAE AVE / EL CAMINO REAL",
-        "latitude": 37.5985188871241,
-        "longitude": -122.387409437657,
-        "units": ""
-    },
-    {
-        "id": "NF2213142",
-        "date": "2022-12-10",
-        "time": "9:26:27 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO EASTMOOR AVE",
-        "latitude": 37.6844914155661,
-        "longitude": -122.471326735892,
-        "units": ">E94"
+        "units": "CM31X5 ?TAC36 >T95 >BC120"
     }
 ]
