@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2212490",
+        "date": "2022-12-10",
+        "time": "2:21:07 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "F ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "MF2209713",
+        "date": "2022-12-10",
+        "time": "2:16:09 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "FF2207091",
+        "date": "2022-12-10",
+        "time": "2:11:57 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "320 GRAND AVE ,SSF",
+        "latitude": 37.6555870461765,
+        "longitude": -122.410558824369,
+        "units": ">E61"
+    },
+    {
         "id": "HF2202939",
         "date": "2022-12-10",
         "time": "2:02:11 PM",
@@ -8,7 +41,7 @@
         "location": "MAIN ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": "*>E40"
     },
     {
         "id": "DF2202124",
@@ -19,18 +52,7 @@
         "location": "7 WINDING WAY ,DVN",
         "latitude": 37.4950896661104,
         "longitude": -122.277173528139,
-        "units": "E16"
-    },
-    {
-        "id": "RF2212488",
-        "date": "2022-12-10",
-        "time": "1:59:57 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": ">E16"
     },
     {
         "id": "WF2201847",
@@ -44,39 +66,6 @@
         "units": ">R56"
     },
     {
-        "id": "NF2213162",
-        "date": "2022-12-10",
-        "time": "1:58:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALE ST #35 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "BF2203942",
-        "date": "2022-12-10",
-        "time": "1:53:29 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Lock out - residential",
-        "location": "1101 NATIONAL AVE #1201 ,SNB",
-        "latitude": 37.6344382028256,
-        "longitude": -122.423369549572,
-        "units": ">T51"
-    },
-    {
-        "id": "DF2202123",
-        "date": "2022-12-10",
-        "time": "1:51:25 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NB 1 / IN TUNNEL",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "NF2213161",
         "date": "2022-12-10",
         "time": "1:45:26 PM",
@@ -88,17 +77,6 @@
         "units": ">E681"
     },
     {
-        "id": "SF2214726",
-        "date": "2022-12-10",
-        "time": "1:45:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "WF2201846",
         "date": "2022-12-10",
         "time": "1:44:16 PM",
@@ -108,38 +86,5 @@
         "latitude": 37.423142477168,
         "longitude": -122.308401233111,
         "units": ">E356"
-    },
-    {
-        "id": "BF2203941",
-        "date": "2022-12-10",
-        "time": "1:42:19 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ELM AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "WF2201845",
-        "date": "2022-12-10",
-        "time": "1:34:39 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "600 OLD LA HONDA RD ,WDS",
-        "latitude": 37.3817737528595,
-        "longitude": -122.256672781257,
-        "units": ">E7"
-    },
-    {
-        "id": "RF2212485",
-        "date": "2022-12-10",
-        "time": "1:04:59 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "961 LAUREL ST ,SNC",
-        "latitude": 37.5019800001048,
-        "longitude": -122.255185056702,
-        "units": "CM11X2 >E9 ?TAC15"
     }
 ]
