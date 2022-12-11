@@ -1,14 +1,58 @@
 [
     {
-        "id": "RF2212527",
+        "id": "BF2203964",
         "date": "2022-12-11",
-        "time": "11:03:46 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:18:54 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "2621 OAKMONT DR ,SNB",
+        "latitude": 37.6369644206594,
+        "longitude": -122.457576913216,
+        "units": "E64"
+    },
+    {
+        "id": "HF2202945",
+        "date": "2022-12-11",
+        "time": "11:13:13 AM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "KING ST ,RCY",
+        "location": "ARNOLD WAY #306 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E40"
+    },
+    {
+        "id": "MF2209744",
+        "date": "2022-12-11",
+        "time": "11:12:21 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "2410 GONZAGA ST ,EPA",
+        "latitude": 37.4720937737743,
+        "longitude": -122.135902609996,
+        "units": "CM11X4 ?TAC15 >R77 >E2 >E77>BC101 >E5 >T2"
+    },
+    {
+        "id": "BF2203963",
+        "date": "2022-12-11",
+        "time": "11:11:26 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1125 CHERRY AVE ,SNB",
+        "latitude": 37.6316539827628,
+        "longitude": -122.429000174994,
+        "units": ">E52"
+    },
+    {
+        "id": "FF2207107",
+        "date": "2022-12-11",
+        "time": "11:07:52 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "E GRAND AVE / LITTLEFIELD AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
     },
     {
         "id": "FF2207106",
@@ -19,18 +63,7 @@
         "location": "CALLAN BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "FF2207105",
-        "date": "2022-12-11",
-        "time": "10:56:28 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HAUSMAN CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
+        "units": "E63"
     },
     {
         "id": "CF2207976",
@@ -41,17 +74,6 @@
         "location": "702 CRESTVIEW DR ,MLB",
         "latitude": 37.5920828216294,
         "longitude": -122.413579399928,
-        "units": ">E38"
-    },
-    {
-        "id": "NF2213196",
-        "date": "2022-12-11",
-        "time": "10:36:29 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "90 SANTA RITA AVE ,DCY",
-        "latitude": 37.6706978136113,
-        "longitude": -122.484463236437,
-        "units": ">E95"
+        "units": ""
     }
 ]
