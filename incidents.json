@@ -1,5 +1,82 @@
 [
     {
+        "id": "MF2209741",
+        "date": "2022-12-11",
+        "time": "8:05:12 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "AVY AVE / ALAMEDA DE LAS PULGAS",
+        "latitude": 37.4317786509531,
+        "longitude": -122.201526864892,
+        "units": "CM11X5 E4 ?TAC16 ?BC1 ?T1"
+    },
+    {
+        "id": "MF2209740",
+        "date": "2022-12-11",
+        "time": "8:02:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WEEKS ST / CLARKE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "SF2214750",
+        "date": "2022-12-11",
+        "time": "7:59:56 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "SF2214749",
+        "date": "2022-12-11",
+        "time": "7:59:55 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "DF2202131",
+        "date": "2022-12-11",
+        "time": "7:55:46 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 280 / SO 92",
+        "latitude": 37.5010326373211,
+        "longitude": -122.325975079224,
+        "units": "?TAC15 >E17 CM11X1 >T17 BC11>E27"
+    },
+    {
+        "id": "RF2212522",
+        "date": "2022-12-11",
+        "time": "7:53:51 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "957 ROSEWOOD AVE ,SNC",
+        "latitude": 37.499887522225,
+        "longitude": -122.256976914192,
+        "units": ">E16"
+    },
+    {
+        "id": "DF2202130",
+        "date": "2022-12-11",
+        "time": "7:50:52 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALPINE RD ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E58 R57"
+    },
+    {
         "id": "SF2214748",
         "date": "2022-12-11",
         "time": "7:40:11 AM",
@@ -8,7 +85,7 @@
         "location": "100 E HILLSDALE BLVD #A ,SMO",
         "latitude": 37.5393201387811,
         "longitude": -122.293486197093,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "FF2207104",
@@ -19,17 +96,6 @@
         "location": "EL CAMINO REAL #ER #12 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "NF2213190",
-        "date": "2022-12-11",
-        "time": "6:54:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DEANNE LN ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": "E63"
     }
 ]
