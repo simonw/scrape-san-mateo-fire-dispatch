@@ -1,14 +1,25 @@
 [
     {
-        "id": "BF2203958",
+        "id": "MF2209737",
         "date": "2022-12-11",
-        "time": "5:01:14 AM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "5:23:58 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "675 WALLEA DR ,MNP",
+        "latitude": 37.4424688237339,
+        "longitude": -122.185974892191,
+        "units": "E6"
+    },
+    {
+        "id": "RF2212520",
+        "date": "2022-12-11",
+        "time": "5:13:50 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
+        "location": "BRIARFIELD AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": ">E10"
     },
     {
         "id": "MF2209736",
@@ -20,27 +31,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">R77"
-    },
-    {
-        "id": "SF2214747",
-        "date": "2022-12-11",
-        "time": "4:46:39 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #7 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "WF2201854",
-        "date": "2022-12-11",
-        "time": "4:28:53 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "1407 PORTOLA RD ,WDS",
-        "latitude": 37.3924063604176,
-        "longitude": -122.244397956943,
-        "units": ">E7"
     }
 ]
