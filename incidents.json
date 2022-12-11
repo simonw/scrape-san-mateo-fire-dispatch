@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2214740",
+        "date": "2022-12-10",
+        "time": "11:01:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GREENOAK CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "WF2201852",
+        "date": "2022-12-10",
+        "time": "10:57:04 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GOLDEN OAK DR ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E8"
+    },
+    {
+        "id": "SF2214739",
+        "date": "2022-12-10",
+        "time": "10:46:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1213 SHAFTER ST ,SMO",
+        "latitude": 37.5509014186548,
+        "longitude": -122.324171516414,
+        "units": ">E25"
+    },
+    {
         "id": "LF2201088",
         "date": "2022-12-10",
         "time": "10:42:23 PM",
@@ -8,7 +41,7 @@
         "location": "MISSION RD #306 ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E86"
     },
     {
         "id": "SF2214738",
@@ -19,7 +52,7 @@
         "location": "CARLMONT DR #204B ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "MF2209730",
@@ -30,17 +63,6 @@
         "location": "ALAMEDA DE LAS PULGAS / VALPARAISO AVE",
         "latitude": 37.4340844598375,
         "longitude": -122.20579922071,
-        "units": ">E4 BC1 T1 ?TAC15 ?CM11X5"
-    },
-    {
-        "id": "NF2213181",
-        "date": "2022-12-10",
-        "time": "10:23:55 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BELHAVEN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">BC1 >E4 ?TAC15 ?CM11X5"
     }
 ]
