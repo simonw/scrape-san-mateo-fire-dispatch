@@ -1,14 +1,36 @@
 [
     {
-        "id": "BF2203964",
+        "id": "RF2212529",
         "date": "2022-12-11",
-        "time": "11:18:54 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "2621 OAKMONT DR ,SNB",
-        "latitude": 37.6369644206594,
-        "longitude": -122.457576913216,
-        "units": "E64"
+        "time": "11:42:01 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BEECH ST #8 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "NF2213197",
+        "date": "2022-12-11",
+        "time": "11:35:48 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESPI DR #A1 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "RF2212528",
+        "date": "2022-12-11",
+        "time": "11:29:20 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "1099 EL CAMINO REAL ,RCY",
+        "latitude": 37.4827359903592,
+        "longitude": -122.230506658448,
+        "units": "?TAC15 CM11X3 >T9 >BC3 >E10"
     },
     {
         "id": "HF2202945",
@@ -19,40 +41,7 @@
         "location": "ARNOLD WAY #306 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "MF2209744",
-        "date": "2022-12-11",
-        "time": "11:12:21 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "2410 GONZAGA ST ,EPA",
-        "latitude": 37.4720937737743,
-        "longitude": -122.135902609996,
-        "units": "CM11X4 ?TAC15 >R77 >E2 >E77>BC101 >E5 >T2"
-    },
-    {
-        "id": "BF2203963",
-        "date": "2022-12-11",
-        "time": "11:11:26 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1125 CHERRY AVE ,SNB",
-        "latitude": 37.6316539827628,
-        "longitude": -122.429000174994,
-        "units": ">E52"
-    },
-    {
-        "id": "FF2207107",
-        "date": "2022-12-11",
-        "time": "11:07:52 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "E GRAND AVE / LITTLEFIELD AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ""
     },
     {
         "id": "FF2207106",
@@ -63,17 +52,6 @@
         "location": "CALLAN BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "CF2207976",
-        "date": "2022-12-11",
-        "time": "10:50:14 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "702 CRESTVIEW DR ,MLB",
-        "latitude": 37.5920828216294,
-        "longitude": -122.413579399928,
         "units": ""
     }
 ]
