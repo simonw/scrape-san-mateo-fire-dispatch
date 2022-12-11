@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2212510",
+        "date": "2022-12-10",
+        "time": "11:43:45 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E16"
+    },
+    {
+        "id": "RF2212509",
+        "date": "2022-12-10",
+        "time": "11:35:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1201 BREWSTER AVE ,RCY",
+        "latitude": 37.4841504907955,
+        "longitude": -122.236471855173,
+        "units": "T23 E10 CM11X3 BC1 ?TAC16"
+    },
+    {
+        "id": "RF2212508",
+        "date": "2022-12-10",
+        "time": "11:35:41 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO WOODSIDE RD",
+        "latitude": 37.4924375527393,
+        "longitude": -122.221572014907,
+        "units": ">T9 CM11X4 >BC3 >E9 SQ409E11 ?TAC15"
+    },
+    {
+        "id": "SF2214743",
+        "date": "2022-12-10",
+        "time": "11:33:08 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "NF2213182",
         "date": "2022-12-10",
         "time": "11:21:05 PM",
@@ -8,7 +52,7 @@
         "location": "BALTIMORE WAY ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     },
     {
         "id": "MF2209731",
@@ -30,18 +74,7 @@
         "location": "888 FOSTER CITY BLVD #E4 ,FCY",
         "latitude": 37.5574825789533,
         "longitude": -122.261168139173,
-        "units": "E28"
-    },
-    {
-        "id": "SF2214741",
-        "date": "2022-12-10",
-        "time": "11:12:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDISON ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E28"
     },
     {
         "id": "SF2214740",
@@ -53,27 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E27"
-    },
-    {
-        "id": "WF2201852",
-        "date": "2022-12-10",
-        "time": "10:57:04 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GOLDEN OAK DR ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "LF2201088",
-        "date": "2022-12-10",
-        "time": "10:42:23 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD #306 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
     }
 ]
