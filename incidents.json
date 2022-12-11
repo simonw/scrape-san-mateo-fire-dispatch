@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2207099",
+        "id": "FF2207100",
         "date": "2022-12-10",
-        "time": "9:37:16 PM",
+        "time": "10:01:59 PM",
         "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "SB 280 / SO WESTBOROUGH BLVD",
+        "latitude": 37.6414170599916,
+        "longitude": -122.443838094168,
+        "units": "E64 E51 TAC35 ?CM31X4"
+    },
+    {
+        "id": "MF2209728",
+        "date": "2022-12-10",
+        "time": "9:55:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
+        "location": "ROSEMARY ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E77"
+    },
+    {
+        "id": "CF2207964",
+        "date": "2022-12-10",
+        "time": "9:53:37 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BRAEMAR DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "RF2212507",
+        "date": "2022-12-10",
+        "time": "9:50:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE #15 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "DF2202127",
@@ -19,39 +52,6 @@
         "location": "SB 280 / SO 92",
         "latitude": 37.5004067419462,
         "longitude": -122.326125246726,
-        "units": "?TAC15 >E17 CM11X1 >E18 T17BC11"
-    },
-    {
-        "id": "FF2207098",
-        "date": "2022-12-10",
-        "time": "9:26:03 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "INDIO DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2207963",
-        "date": "2022-12-10",
-        "time": "9:19:01 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "25 DENHAM CT ,HIL",
-        "latitude": 37.5785252636141,
-        "longitude": -122.367008168057,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2213180",
-        "date": "2022-12-10",
-        "time": "9:04:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO 1",
-        "latitude": 37.6738400118365,
-        "longitude": -122.468286519171,
-        "units": ">E94 >BC120"
+        "units": "?TAC15 >E17 CM11X1 >E18"
     }
 ]
