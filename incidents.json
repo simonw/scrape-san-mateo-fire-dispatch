@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2209775",
+        "id": "MF2209776",
         "date": "2022-12-12",
-        "time": "8:44:34 AM",
+        "time": "8:55:29 AM",
         "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": ">E4"
+    },
+    {
+        "id": "CF2208006",
+        "date": "2022-12-12",
+        "time": "8:50:09 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "BARTON ST ,WSB",
+        "location": "SANTA MARGARITA AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">T51"
     },
     {
         "id": "RF2212552",
@@ -19,7 +30,7 @@
         "location": "SUSIE LN ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": ">E13"
     },
     {
         "id": "FF2207119",
@@ -30,17 +41,6 @@
         "location": "LOMITAS AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "DF2202145",
-        "date": "2022-12-12",
-        "time": "8:10:48 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "13435 PESCADERO CREEK RD ,LAH",
-        "latitude": 37.2969950537204,
-        "longitude": -122.265222838719,
-        "units": ">E1781"
+        "units": ""
     }
 ]
