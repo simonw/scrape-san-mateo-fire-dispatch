@@ -1,14 +1,91 @@
 [
     {
-        "id": "BF2203970",
+        "id": "SF2214775",
         "date": "2022-12-11",
-        "time": "4:22:46 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "5:03:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "EVERGREEN DR ,SNB",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": "?E21"
+    },
+    {
+        "id": "NF2213205",
+        "date": "2022-12-11",
+        "time": "4:59:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CAMPUS DR #201 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "MF2209752",
+        "date": "2022-12-11",
+        "time": "4:57:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "120 ARBOR RD ,MNP",
+        "latitude": 37.4420391460912,
+        "longitude": -122.178582400548,
+        "units": "E6"
+    },
+    {
+        "id": "WF2201860",
+        "date": "2022-12-11",
+        "time": "4:55:49 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO SAND HILL RD",
+        "latitude": 37.4282029747085,
+        "longitude": -122.23430542581,
+        "units": ">BC2 >E7 >SQ407 CM11X3 ?TAC15"
+    },
+    {
+        "id": "FF2207111",
+        "date": "2022-12-11",
+        "time": "4:54:35 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRAND AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "HF2202947",
+        "date": "2022-12-11",
+        "time": "4:48:22 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "1201 DATE ST ,MON",
+        "latitude": 37.5394149109646,
+        "longitude": -122.503714636478,
+        "units": "*>E44"
+    },
+    {
+        "id": "SF2214774",
+        "date": "2022-12-11",
+        "time": "4:46:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "2502 MONSERAT AVE ,BLM",
+        "latitude": 37.5180469378989,
+        "longitude": -122.307168998464,
+        "units": ""
+    },
+    {
+        "id": "WF2201859",
+        "date": "2022-12-11",
+        "time": "4:30:06 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "LA HONDA RD / SKYWOOD WAY",
+        "latitude": 37.3927322695448,
+        "longitude": -122.261371894566,
+        "units": ""
     },
     {
         "id": "DF2202136",
@@ -19,72 +96,6 @@
         "location": "NB 280 / NO EDGEWOOD RD",
         "latitude": 37.485892737192,
         "longitude": -122.29811648812,
-        "units": "BC11 T17 E18 E17 CM11X5?TAC15"
-    },
-    {
-        "id": "MF2209751",
-        "date": "2022-12-11",
-        "time": "4:18:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STOCKBRIDGE AVE ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "SF2214773",
-        "date": "2022-12-11",
-        "time": "4:16:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COUNTRYSIDE DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "SF2214771",
-        "date": "2022-12-11",
-        "time": "4:14:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TOYON CT ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "SF2214770",
-        "date": "2022-12-11",
-        "time": "4:13:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEMERIA AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "RF2212533",
-        "date": "2022-12-11",
-        "time": "4:12:49 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "299 FRANKLIN ST ,RCY",
-        "latitude": 37.4828959364743,
-        "longitude": -122.227852742834,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2214769",
-        "date": "2022-12-11",
-        "time": "4:08:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1077 GREBE ST ,FCY",
-        "latitude": 37.563658256025,
-        "longitude": -122.25285638201,
-        "units": ">E28"
+        "units": ""
     }
 ]
