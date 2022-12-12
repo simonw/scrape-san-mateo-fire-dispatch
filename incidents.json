@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2202952",
+        "date": "2022-12-11",
+        "time": "9:33:59 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "180 DIGGES CANYON RD ,SON",
+        "latitude": 37.4951265391781,
+        "longitude": -122.421033988121,
+        "units": "E40"
+    },
+    {
+        "id": "MF2209761",
+        "date": "2022-12-11",
+        "time": "9:33:12 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MADERA AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "BF2203972",
+        "date": "2022-12-11",
+        "time": "9:33:01 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "CF2207993",
         "date": "2022-12-11",
         "time": "9:22:24 PM",
@@ -8,18 +41,7 @@
         "location": "817 MURCHISON DR ,MLB",
         "latitude": 37.5909500237222,
         "longitude": -122.390718012696,
-        "units": "E37"
-    },
-    {
-        "id": "MF2209760",
-        "date": "2022-12-11",
-        "time": "9:21:58 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BUCHANAN CT ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "T2"
+        "units": ">E37"
     },
     {
         "id": "RF2212539",
@@ -33,39 +55,6 @@
         "units": ">E9"
     },
     {
-        "id": "MF2209759",
-        "date": "2022-12-11",
-        "time": "9:11:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E O'KEEFE ST #505 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2214781",
-        "date": "2022-12-11",
-        "time": "9:05:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #220B ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "HF2202951",
-        "date": "2022-12-11",
-        "time": "8:59:01 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GRANDVIEW BLVD ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E40"
-    },
-    {
         "id": "NF2213209",
         "date": "2022-12-11",
         "time": "8:57:31 PM",
@@ -74,7 +63,7 @@
         "location": "NB 280 / SO SERRAMONTE BLVD",
         "latitude": 37.6682462185452,
         "longitude": -122.465546681579,
-        "units": ">T95 >E94 >BC120 CM31X3 ?TAC35"
+        "units": ">E94 ?TAC35 >T95 CM31X3 >BC120"
     },
     {
         "id": "FF2207112",
