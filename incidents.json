@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2209778",
+        "date": "2022-12-12",
+        "time": "9:58:13 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #376 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "FF2207120",
+        "date": "2022-12-12",
+        "time": "9:55:45 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LEWIS AVE #1 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "WF2201865",
+        "date": "2022-12-12",
+        "time": "9:55:24 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "157 RAMOSO RD ,PVY",
+        "latitude": 37.3931617893475,
+        "longitude": -122.223961644378,
+        "units": ">E7"
+    },
+    {
         "id": "CF2208009",
         "date": "2022-12-12",
         "time": "9:43:37 AM",
@@ -8,7 +41,7 @@
         "location": "CRESTVIEW DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "?E33"
+        "units": ">E33"
     },
     {
         "id": "BF2203976",
@@ -19,7 +52,7 @@
         "location": "ROLLINGWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "T51"
+        "units": ">T51"
     },
     {
         "id": "NF2213218",
@@ -30,29 +63,7 @@
         "location": "SURREY CT ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "CF2208008",
-        "date": "2022-12-12",
-        "time": "9:38:52 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MILLBRAE AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "MF2209777",
-        "date": "2022-12-12",
-        "time": "9:38:30 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "ATHERTON AVE / MULBERRY LN",
-        "latitude": 37.4412919328978,
-        "longitude": -122.216002885899,
-        "units": "?TAC15 BC1 T9 ?CM11X5 >E4"
+        "units": ">E94"
     },
     {
         "id": "SF2214799",
@@ -63,7 +74,7 @@
         "location": "FLORES ST #7 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T23"
+        "units": ">T23"
     },
     {
         "id": "DF2202146",
@@ -74,39 +85,6 @@
         "location": "LA HONDA RD ,SNG",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 E59 R57"
-    },
-    {
-        "id": "CF2208007",
-        "date": "2022-12-12",
-        "time": "9:35:22 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2213217",
-        "date": "2022-12-12",
-        "time": "9:32:08 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTLINE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "NF2213216",
-        "date": "2022-12-12",
-        "time": "9:27:26 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALE ST #35 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "?VFIR23 >E59 >R57"
     }
 ]
