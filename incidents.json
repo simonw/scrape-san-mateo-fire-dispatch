@@ -1,14 +1,25 @@
 [
     {
-        "id": "CF2208001",
+        "id": "CF2208002",
         "date": "2022-12-12",
-        "time": "7:18:47 AM",
+        "time": "7:41:47 AM",
         "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "919 CAPUCHINO AVE ,BRM",
-        "latitude": 37.5823613107382,
-        "longitude": -122.360515073349,
-        "units": ">E34"
+        "category": "Medical aid",
+        "location": "MARLBOROUGH RD ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "E33"
+    },
+    {
+        "id": "WF2201862",
+        "date": "2022-12-12",
+        "time": "7:40:51 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "4139 ALPINE RD ,PVY",
+        "latitude": 37.3767025519379,
+        "longitude": -122.198716127077,
+        "units": "E8"
     },
     {
         "id": "WF2201861",
@@ -19,7 +30,7 @@
         "location": "LA HONDA RD / SKYWOOD WAY",
         "latitude": 37.3927322695448,
         "longitude": -122.261371894566,
-        "units": "E58 E1781"
+        "units": ">E1781"
     },
     {
         "id": "DF2202144",
@@ -31,27 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E27"
-    },
-    {
-        "id": "SF2214793",
-        "date": "2022-12-12",
-        "time": "7:08:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHESS DR ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "SF2214792",
-        "date": "2022-12-12",
-        "time": "7:07:38 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LURLINE DR ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
     }
 ]
