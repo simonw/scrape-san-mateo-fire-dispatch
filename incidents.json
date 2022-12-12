@@ -1,46 +1,57 @@
 [
     {
-        "id": "FF2207116",
-        "date": "2022-12-11",
-        "time": "11:43:09 PM",
-        "summary": "South San Francisco on Control-3",
+        "id": "RF2212542",
+        "date": "2022-12-12",
+        "time": "12:02:33 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "AIRPORT BLVD / MILLER AVE",
+        "location": "WALNUT ST / MARSHALL ST",
         "latitude": null,
         "longitude": null,
-        "units": "?Q62"
+        "units": "E9"
+    },
+    {
+        "id": "DF2202142",
+        "date": "2022-12-12",
+        "time": "12/11/2022 11:58:28 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2165 QUEENS LN ,EIC",
+        "latitude": 37.5167848877609,
+        "longitude": -122.332602994195,
+        "units": "E17"
+    },
+    {
+        "id": "NF2213211",
+        "date": "2022-12-12",
+        "time": "12/11/2022 11:54:05 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2212541",
+        "date": "2022-12-12",
+        "time": "12/11/2022 11:43:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "1716 GREENWOOD AVE ,SNC",
+        "latitude": 37.4967144712131,
+        "longitude": -122.256633221664,
+        "units": ">E13"
     },
     {
         "id": "DF2202141",
-        "date": "2022-12-11",
-        "time": "11:38:48 PM",
+        "date": "2022-12-12",
+        "time": "12/11/2022 11:38:48 PM",
         "summary": "County Fire on Control-1",
         "category": "Traffic accident",
         "location": "1 POMPONIO BEACH RD ,PES",
         "latitude": 37.2997513718805,
         "longitude": -122.405067746121,
-        "units": "R57 E40 E59 BC10 ?TAC15"
-    },
-    {
-        "id": "CF2207996",
-        "date": "2022-12-11",
-        "time": "11:36:12 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1609 FOREST VIEW AVE ,BRM",
-        "latitude": 37.5801367819681,
-        "longitude": -122.361871194054,
-        "units": "T34"
-    },
-    {
-        "id": "FF2207115",
-        "date": "2022-12-11",
-        "time": "11:28:33 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "101 MCLELLAN DR #2022 ,SSF",
-        "latitude": 37.6642962765265,
-        "longitude": -122.446854864105,
-        "units": ">E63"
+        "units": "TAC15 *>E40 *>E59"
     }
 ]
