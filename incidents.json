@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2209791",
+        "id": "MF2209793",
         "date": "2022-12-12",
-        "time": "9:03:31 PM",
+        "time": "9:18:03 PM",
         "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "110 O'CONNOR ST ,MNP",
+        "latitude": 37.4611481296223,
+        "longitude": -122.151551723112,
+        "units": "R77"
+    },
+    {
+        "id": "SF2214826",
+        "date": "2022-12-12",
+        "time": "9:15:27 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MADERA AVE ,MNP",
+        "location": "S EL CAMINO REAL / W HILLSDALE BLVD",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E23"
+    },
+    {
+        "id": "NF2213241",
+        "date": "2022-12-12",
+        "time": "9:14:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRANHAM CT ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "RF2212579",
+        "date": "2022-12-12",
+        "time": "9:09:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HEWITT DR ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "MF2209792",
+        "date": "2022-12-12",
+        "time": "9:09:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KLAMATH DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
     },
     {
         "id": "BF2203982",
@@ -19,39 +63,6 @@
         "location": "PACIFIC BAY CIR #305 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
-    },
-    {
-        "id": "FF2207131",
-        "date": "2022-12-12",
-        "time": "8:48:32 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "630 BADEN AVE ,SSF",
-        "latitude": 37.65683881124,
-        "longitude": -122.421073989304,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2213240",
-        "date": "2022-12-12",
-        "time": "8:41:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CATALINA AVE #INLAW UNIT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2213239",
-        "date": "2022-12-12",
-        "time": "8:39:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SHEFFIELD DR / LAKE VISTA AVE",
-        "latitude": 37.7049807629076,
-        "longitude": -122.475776975045,
-        "units": "?TAC35 >E91 CM31X4"
+        "units": ">E52"
     }
 ]
