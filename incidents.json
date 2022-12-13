@@ -1,14 +1,25 @@
 [
     {
-        "id": "CF2208047",
+        "id": "CF2208048",
         "date": "2022-12-13",
-        "time": "8:46:44 AM",
+        "time": "8:55:48 AM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "CYPRESS CT ,MLB",
+        "location": "BUTTERNUT DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "?E37"
+        "units": ">E33"
+    },
+    {
+        "id": "BF2203993",
+        "date": "2022-12-13",
+        "time": "8:47:45 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SANTA LUCIA AVE / PARKVIEW DR",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
     },
     {
         "id": "CF2208046",
@@ -19,51 +30,18 @@
         "location": "TROUSDALE DR #109 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E34"
     },
     {
-        "id": "FF2207141",
+        "id": "MF2209801",
         "date": "2022-12-13",
-        "time": "8:43:42 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "590 DUBUQUE AVE ,SSF",
-        "latitude": 37.6559343649532,
-        "longitude": -122.405910225515,
-        "units": "E61"
-    },
-    {
-        "id": "FF2207140",
-        "date": "2022-12-13",
-        "time": "8:43:14 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "PINE AVE / LINDEN AVE",
-        "latitude": 37.6590193191043,
-        "longitude": -122.408784580922,
-        "units": ""
-    },
-    {
-        "id": "SF2214842",
-        "date": "2022-12-13",
-        "time": "8:35:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N DELAWARE ST #B ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2209800",
-        "date": "2022-12-13",
-        "time": "8:33:23 AM",
+        "time": "8:45:27 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MADERA AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "category": "Vehicle fire",
+        "location": "WB 84 / UNIVERSITY AVE",
+        "latitude": 37.4865607316772,
+        "longitude": -122.142648833119,
+        "units": ">R77"
     },
     {
         "id": "MF2209799",
@@ -74,28 +52,6 @@
         "location": "MARKHAM AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": ">E5 CM11X2 >E3"
-    },
-    {
-        "id": "BF2203992",
-        "date": "2022-12-13",
-        "time": "8:23:54 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BOARDWALK WAY #A ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "MF2209798",
-        "date": "2022-12-13",
-        "time": "8:17:31 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 101 / NO WILLOW RD",
-        "latitude": 37.4775715102468,
-        "longitude": -122.169821019453,
-        "units": "?TAC15 CM11X1 >E1"
+        "units": "CM11X2 >E3 >E5"
     }
 ]
