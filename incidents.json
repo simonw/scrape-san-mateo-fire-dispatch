@@ -1,25 +1,47 @@
 [
     {
-        "id": "RF2212601",
+        "id": "RF2212603",
         "date": "2022-12-13",
-        "time": "11:59:16 AM",
+        "time": "12:24:50 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "787 LAUREL ST ,SNC",
-        "latitude": 37.5041104917449,
-        "longitude": -122.257831552023,
-        "units": ">E13"
+        "category": "Fire alarm - smoke detector",
+        "location": "845 INDUSTRIAL RD ,SNC",
+        "latitude": 37.5070348347823,
+        "longitude": -122.251287014099,
+        "units": "?E16"
     },
     {
-        "id": "RF2212600",
+        "id": "RF2212602",
         "date": "2022-12-13",
-        "time": "11:58:08 AM",
+        "time": "12:24:41 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "450 BROADWAY ,RCY",
-        "latitude": 37.485506485559,
-        "longitude": -122.2041006719,
-        "units": ">E11"
+        "category": "Medical aid",
+        "location": "MEADOW LN ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E11"
+    },
+    {
+        "id": "SF2214854",
+        "date": "2022-12-13",
+        "time": "12:12:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "NF2213268",
+        "date": "2022-12-13",
+        "time": "12:09:55 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CERRO DR #B310 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "SF2214853",
@@ -30,7 +52,7 @@
         "location": "ARROYO CT #2 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">T21"
+        "units": ""
     },
     {
         "id": "MF2209807",
@@ -44,28 +66,6 @@
         "units": ">E6"
     },
     {
-        "id": "MF2209806",
-        "date": "2022-12-13",
-        "time": "11:55:45 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HENDERSON AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "R77 CM11X1 >E77"
-    },
-    {
-        "id": "FF2207148",
-        "date": "2022-12-13",
-        "time": "11:54:49 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "N ACCESS RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
         "id": "CF2208053",
         "date": "2022-12-13",
         "time": "11:52:15 AM",
@@ -77,28 +77,6 @@
         "units": ">E33"
     },
     {
-        "id": "NF2213267",
-        "date": "2022-12-13",
-        "time": "11:48:59 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PONCETTA DR #131 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2213266",
-        "date": "2022-12-13",
-        "time": "11:48:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "INVERNESS DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
         "id": "MF2209805",
         "date": "2022-12-13",
         "time": "11:14:52 AM",
@@ -108,27 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E3"
-    },
-    {
-        "id": "NF2213263",
-        "date": "2022-12-13",
-        "time": "11:06:22 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "1041 TERRA NOVA BLVD ,PCF",
-        "latitude": 37.583065473322,
-        "longitude": -122.475800729633,
-        "units": ""
-    },
-    {
-        "id": "BF2203993",
-        "date": "2022-12-13",
-        "time": "8:47:45 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SANTA LUCIA AVE / PARKVIEW DR",
-        "latitude": null,
-        "longitude": null,
-        "units": ">TAC35 >CM31X1 >BC16"
     }
 ]
