@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2209842",
+        "id": "MF2209844",
         "date": "2022-12-14",
-        "time": "10:03:00 AM",
+        "time": "10:22:22 AM",
         "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c2",
+        "location": "68 WILLOW RD ,MNP",
+        "latitude": 37.4521006886593,
+        "longitude": -122.166074125499,
+        "units": "E5"
+    },
+    {
+        "id": "RF2212654",
+        "date": "2022-12-14",
+        "time": "10:21:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "67 MURRAY CT ,RCY",
+        "latitude": 37.4695470803507,
+        "longitude": -122.221791504858,
+        "units": "E10"
+    },
+    {
+        "id": "RF2212653",
+        "date": "2022-12-14",
+        "time": "10:21:15 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ASHTON AVE ,WMP",
+        "location": "EL CAMINO REAL #103 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": ">E3"
+    },
+    {
+        "id": "MF2209843",
+        "date": "2022-12-14",
+        "time": "10:20:28 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "NF2213318",
@@ -19,40 +52,7 @@
         "location": "E MARKET ST #105 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "CF2208086",
-        "date": "2022-12-14",
-        "time": "10:01:16 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "NF2213317",
-        "date": "2022-12-14",
-        "time": "9:59:57 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #226 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "T95"
-    },
-    {
-        "id": "NF2213316",
-        "date": "2022-12-14",
-        "time": "9:51:09 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN MIGUEL AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">E91"
     },
     {
         "id": "FF2207171",
@@ -63,40 +63,7 @@
         "location": "20 AIRPORT BLVD ,SSF",
         "latitude": 37.6522154460238,
         "longitude": -122.407576982944,
-        "units": ">E65 >BC17 ?TAC35 >Q62 CM31X3"
-    },
-    {
-        "id": "RF2212652",
-        "date": "2022-12-14",
-        "time": "9:40:37 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "215 HARTSTENE DR ,RWS",
-        "latitude": 37.5452044766595,
-        "longitude": -122.24455305182,
-        "units": ""
-    },
-    {
-        "id": "RF2212651",
-        "date": "2022-12-14",
-        "time": "9:35:51 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / NO WHIPPLE AVE",
-        "latitude": 37.5015834506222,
-        "longitude": -122.241966950497,
-        "units": "CM11X4 ?TAC16"
-    },
-    {
-        "id": "BF2204001",
-        "date": "2022-12-14",
-        "time": "9:34:54 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OAKMONT DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "units": ">E65 >BC17 >Q62"
     },
     {
         "id": "MF2209841",
@@ -107,6 +74,6 @@
         "location": "325 SHARON PARK DR ,MNP",
         "latitude": 37.4237778998493,
         "longitude": -122.198044870866,
-        "units": ">T1 ?TAC15 CM11X2 >BC2 >SQ407>E4 >E1"
+        "units": ">T1 ?TAC15 CM11X2 >BC2 >E4>E1"
     }
 ]
