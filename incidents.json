@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2207159",
+        "id": "SF2214889",
         "date": "2022-12-14",
-        "time": "12:42:11 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "12:57:58 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c2",
+        "location": "287 W 39TH AVE ,SMO",
+        "latitude": 37.5293435546172,
+        "longitude": -122.300651491522,
+        "units": "E23"
+    },
+    {
+        "id": "MF2209831",
+        "date": "2022-12-14",
+        "time": "12:57:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "325 YALE DR ,MNP",
+        "latitude": 37.4443125656424,
+        "longitude": -122.179804907186,
+        "units": "E6"
+    },
+    {
+        "id": "RF2212627",
+        "date": "2022-12-14",
+        "time": "12:49:48 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "N ACCESS RD ,SSF",
+        "location": "PROSPECT ST #1 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E13"
+    },
+    {
+        "id": "FF2207160",
+        "date": "2022-12-14",
+        "time": "12:44:18 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "130 PRODUCE AVE ,SSF",
+        "latitude": 37.6490190399208,
+        "longitude": -122.408189446181,
+        "units": ">Q62"
     },
     {
         "id": "CF2208075",
@@ -19,29 +52,7 @@
         "location": "MYRTLE RD #403 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
-    },
-    {
-        "id": "SF2214888",
-        "date": "2022-12-14",
-        "time": "12:25:35 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PROSPECT RW #B ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "CF2208074",
-        "date": "2022-12-14",
-        "time": "12:25:26 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "1051 BROADWAY #109 ,MLB",
-        "latitude": 37.6056756048456,
-        "longitude": -122.398449904762,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "DF2202153",
@@ -52,6 +63,6 @@
         "location": "NORTH ST ,PES",
         "latitude": null,
         "longitude": null,
-        "units": ">U55 ?VFIR23"
+        "units": ">U55"
     }
 ]
