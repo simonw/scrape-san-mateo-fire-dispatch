@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2209842",
+        "date": "2022-12-14",
+        "time": "10:03:00 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ASHTON AVE ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2213318",
+        "date": "2022-12-14",
+        "time": "10:02:37 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "E MARKET ST #105 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "CF2208086",
+        "date": "2022-12-14",
+        "time": "10:01:16 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "NF2213317",
+        "date": "2022-12-14",
+        "time": "9:59:57 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #226 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T95"
+    },
+    {
+        "id": "NF2213316",
+        "date": "2022-12-14",
+        "time": "9:51:09 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN MIGUEL AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "FF2207171",
+        "date": "2022-12-14",
+        "time": "9:45:16 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Full assignment response",
+        "location": "20 AIRPORT BLVD ,SSF",
+        "latitude": 37.6522154460238,
+        "longitude": -122.407576982944,
+        "units": ">E65 >BC17 ?TAC35 >Q62 CM31X3"
+    },
+    {
         "id": "RF2212652",
         "date": "2022-12-14",
         "time": "9:40:37 AM",
@@ -8,7 +74,7 @@
         "location": "215 HARTSTENE DR ,RWS",
         "latitude": 37.5452044766595,
         "longitude": -122.24455305182,
-        "units": "?E20"
+        "units": ""
     },
     {
         "id": "RF2212651",
@@ -19,7 +85,7 @@
         "location": "NB 101 / NO WHIPPLE AVE",
         "latitude": 37.5015834506222,
         "longitude": -122.241966950497,
-        "units": "CM11X4 >E9 >T9 ?TAC16 >E13>BC3"
+        "units": "CM11X4 ?TAC16"
     },
     {
         "id": "BF2204001",
@@ -41,39 +107,6 @@
         "location": "325 SHARON PARK DR ,MNP",
         "latitude": 37.4237778998493,
         "longitude": -122.198044870866,
-        "units": "T1 ?TAC15 CM11X2 >BC2 >E8>E4 >E1"
-    },
-    {
-        "id": "NF2213315",
-        "date": "2022-12-14",
-        "time": "9:25:13 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "645 SHARP PARK RD ,PCF",
-        "latitude": 37.6350642762703,
-        "longitude": -122.473972409183,
-        "units": "E94"
-    },
-    {
-        "id": "NF2213314",
-        "date": "2022-12-14",
-        "time": "9:19:22 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WESTLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "MF2209840",
-        "date": "2022-12-14",
-        "time": "9:15:44 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #35 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">T1 ?TAC15 CM11X2 >BC2 >SQ407>E4 >E1"
     }
 ]
