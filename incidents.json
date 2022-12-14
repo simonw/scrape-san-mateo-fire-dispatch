@@ -1,69 +1,80 @@
 [
     {
+        "id": "FF2207172",
+        "date": "2022-12-14",
+        "time": "10:41:07 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LARCH AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "WF2201880",
+        "date": "2022-12-14",
+        "time": "10:39:52 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E19"
+    },
+    {
+        "id": "RF2212655",
+        "date": "2022-12-14",
+        "time": "10:39:42 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLAREMONT AVE #7 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "NF2213320",
+        "date": "2022-12-14",
+        "time": "10:37:40 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "E MARKET ST #111 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "CF2208087",
+        "date": "2022-12-14",
+        "time": "10:36:11 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #3 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "NF2213319",
+        "date": "2022-12-14",
+        "time": "10:36:03 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROSITA RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "MF2209844",
         "date": "2022-12-14",
         "time": "10:22:22 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c2",
+        "category": "Public assist",
         "location": "68 WILLOW RD ,MNP",
         "latitude": 37.4521006886593,
         "longitude": -122.166074125499,
-        "units": "E5"
-    },
-    {
-        "id": "RF2212654",
-        "date": "2022-12-14",
-        "time": "10:21:28 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "67 MURRAY CT ,RCY",
-        "latitude": 37.4695470803507,
-        "longitude": -122.221791504858,
-        "units": "E10"
-    },
-    {
-        "id": "RF2212653",
-        "date": "2022-12-14",
-        "time": "10:21:15 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #103 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "MF2209843",
-        "date": "2022-12-14",
-        "time": "10:20:28 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FORDHAM ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2213318",
-        "date": "2022-12-14",
-        "time": "10:02:37 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "E MARKET ST #105 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "FF2207171",
-        "date": "2022-12-14",
-        "time": "9:45:16 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "20 AIRPORT BLVD ,SSF",
-        "latitude": 37.6522154460238,
-        "longitude": -122.407576982944,
-        "units": ">E65 >BC17 >Q62"
+        "units": ">E5"
     },
     {
         "id": "MF2209841",
@@ -74,6 +85,6 @@
         "location": "325 SHARON PARK DR ,MNP",
         "latitude": 37.4237778998493,
         "longitude": -122.198044870866,
-        "units": ">T1 ?TAC15 CM11X2 >BC2 >E4>E1"
+        "units": ">T1 ?TAC15 CM11X2 *>E1 >E4"
     }
 ]
