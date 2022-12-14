@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2209852",
+        "id": "SF2214916",
         "date": "2022-12-14",
-        "time": "3:25:14 PM",
+        "time": "3:42:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #310C ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E15"
+    },
+    {
+        "id": "RF2212662",
+        "date": "2022-12-14",
+        "time": "3:40:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "EL CAMINO REAL / BRITTAN AVE",
+        "latitude": 37.5007240004438,
+        "longitude": -122.252469627851,
+        "units": "TAC15 CM11X2 E20 BC3 T23E16"
+    },
+    {
+        "id": "MF2209853",
+        "date": "2022-12-14",
+        "time": "3:37:13 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "VALPARAISO AVE / ELENA AVE",
-        "latitude": 37.4461355065829,
-        "longitude": -122.195728606947,
-        "units": "E6"
+        "category": "Medical aid",
+        "location": "IDYLLWILD AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "SF2214915",
+        "date": "2022-12-14",
+        "time": "3:29:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "2763 S NORFOLK ST ,SMO",
+        "latitude": 37.5479012619013,
+        "longitude": -122.285567929653,
+        "units": ">E29"
+    },
+    {
+        "id": "NF2213335",
+        "date": "2022-12-14",
+        "time": "3:29:43 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CLARINADA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "FF2207182",
@@ -33,17 +77,6 @@
         "units": ">E91"
     },
     {
-        "id": "NF2213333",
-        "date": "2022-12-14",
-        "time": "3:16:44 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LINDA MAR BLVD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
         "id": "WF2201882",
         "date": "2022-12-14",
         "time": "3:16:05 PM",
@@ -52,50 +85,6 @@
         "location": "1100 KINGS MOUNTAIN RD ,KMT",
         "latitude": 37.4357810425709,
         "longitude": -122.298765666373,
-        "units": "E7 E356 R56"
-    },
-    {
-        "id": "CF2208096",
-        "date": "2022-12-14",
-        "time": "3:12:53 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HERMOSA AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "NF2213332",
-        "date": "2022-12-14",
-        "time": "3:10:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SCHOOL ST #102 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "WF2201881",
-        "date": "2022-12-14",
-        "time": "2:57:19 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,SKY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2214914",
-        "date": "2022-12-14",
-        "time": "2:25:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Vehicle fire",
-        "location": "NB 101 / SO PENINSULA AVE",
-        "latitude": 37.5804221513466,
-        "longitude": -122.324214673445,
-        "units": ">E26"
+        "units": ">E7 >E356 >TAC17 R56"
     }
 ]
