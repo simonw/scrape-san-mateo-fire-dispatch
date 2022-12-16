@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2207233",
+        "date": "2022-12-16",
+        "time": "11:41:22 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "SF2215005",
+        "date": "2022-12-16",
+        "time": "11:34:14 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #5 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "BF2204029",
+        "date": "2022-12-16",
+        "time": "11:25:07 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SHELTER CREEK LN #1336 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "CF2208141",
         "date": "2022-12-16",
         "time": "11:22:25 AM",
@@ -8,7 +41,7 @@
         "location": "TROUSDALE DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E35 ?E32"
+        "units": ">E35"
     },
     {
         "id": "RF2212731",
@@ -19,7 +52,7 @@
         "location": "MARLIN CT ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E20"
+        "units": ">E20"
     },
     {
         "id": "NF2213399",
@@ -33,17 +66,6 @@
         "units": ">E94"
     },
     {
-        "id": "RF2212730",
-        "date": "2022-12-16",
-        "time": "11:18:34 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "1235 HOWARD AVE #3 ,SNC",
-        "latitude": 37.4976763204714,
-        "longitude": -122.251270596072,
-        "units": "E16"
-    },
-    {
         "id": "FF2207232",
         "date": "2022-12-16",
         "time": "11:18:12 AM",
@@ -52,7 +74,7 @@
         "location": "636 EL CAMINO REAL ,SSF",
         "latitude": 37.6494113219722,
         "longitude": -122.429450213618,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "SF2215003",
@@ -63,7 +85,7 @@
         "location": "CARLMONT DR #310C ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E14"
     },
     {
         "id": "DF2202165",
@@ -74,51 +96,7 @@
         "location": "SKYLINE BLVD / KINGS MOUNTAIN RD",
         "latitude": 37.4250155300573,
         "longitude": -122.313764731392,
-        "units": "R56"
-    },
-    {
-        "id": "CF2208140",
-        "date": "2022-12-16",
-        "time": "11:09:44 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "139 PRIMROSE RD ,BRM",
-        "latitude": 37.5762593641676,
-        "longitude": -122.346636432715,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2209912",
-        "date": "2022-12-16",
-        "time": "11:06:59 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "MF2209911",
-        "date": "2022-12-16",
-        "time": "11:06:45 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MENLO AVE #350 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T1"
-    },
-    {
-        "id": "SF2215002",
-        "date": "2022-12-16",
-        "time": "11:04:05 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FOLGER DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": ">R56"
     },
     {
         "id": "DF2202164",
@@ -129,17 +107,6 @@
         "location": "CASTANEA RIDGE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "VFIR23 >E1762 >E58"
-    },
-    {
-        "id": "HF2202986",
-        "date": "2022-12-16",
-        "time": "10:54:02 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SEA SHELL CIR ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
+        "units": ">E58"
     }
 ]
