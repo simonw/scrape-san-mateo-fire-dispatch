@@ -1,5 +1,115 @@
 [
     {
+        "id": "CF2208141",
+        "date": "2022-12-16",
+        "time": "11:22:25 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E35 ?E32"
+    },
+    {
+        "id": "RF2212731",
+        "date": "2022-12-16",
+        "time": "11:20:29 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARLIN CT ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E20"
+    },
+    {
+        "id": "NF2213399",
+        "date": "2022-12-16",
+        "time": "11:19:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HICKEY BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "RF2212730",
+        "date": "2022-12-16",
+        "time": "11:18:34 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "1235 HOWARD AVE #3 ,SNC",
+        "latitude": 37.4976763204714,
+        "longitude": -122.251270596072,
+        "units": "E16"
+    },
+    {
+        "id": "FF2207232",
+        "date": "2022-12-16",
+        "time": "11:18:12 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "636 EL CAMINO REAL ,SSF",
+        "latitude": 37.6494113219722,
+        "longitude": -122.429450213618,
+        "units": "E65"
+    },
+    {
+        "id": "SF2215003",
+        "date": "2022-12-16",
+        "time": "11:16:08 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #310C ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "DF2202165",
+        "date": "2022-12-16",
+        "time": "11:15:37 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "SKYLINE BLVD / KINGS MOUNTAIN RD",
+        "latitude": 37.4250155300573,
+        "longitude": -122.313764731392,
+        "units": "R56"
+    },
+    {
+        "id": "CF2208140",
+        "date": "2022-12-16",
+        "time": "11:09:44 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "139 PRIMROSE RD ,BRM",
+        "latitude": 37.5762593641676,
+        "longitude": -122.346636432715,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2209912",
+        "date": "2022-12-16",
+        "time": "11:06:59 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "MF2209911",
+        "date": "2022-12-16",
+        "time": "11:06:45 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MENLO AVE #350 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T1"
+    },
+    {
         "id": "SF2215002",
         "date": "2022-12-16",
         "time": "11:04:05 AM",
@@ -8,18 +118,7 @@
         "location": "FOLGER DR ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E15"
-    },
-    {
-        "id": "FF2207231",
-        "date": "2022-12-16",
-        "time": "11:00:30 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "B ST ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E65"
+        "units": ">E15"
     },
     {
         "id": "DF2202164",
@@ -30,29 +129,7 @@
         "location": "CASTANEA RIDGE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "VFIR23 E1762 E58 ?CO57"
-    },
-    {
-        "id": "NF2213398",
-        "date": "2022-12-16",
-        "time": "10:55:21 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "285 SKYLINE DR ,DCY",
-        "latitude": 37.6889137624885,
-        "longitude": -122.491423822634,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2215001",
-        "date": "2022-12-16",
-        "time": "10:54:55 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "851 N SAN MATEO DR ,SMO",
-        "latitude": 37.5763898766932,
-        "longitude": -122.338484024632,
-        "units": ">E21"
+        "units": "VFIR23 >E1762 >E58"
     },
     {
         "id": "HF2202986",
@@ -63,50 +140,6 @@
         "location": "SEA SHELL CIR ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40 E41"
-    },
-    {
-        "id": "FF2207230",
-        "date": "2022-12-16",
-        "time": "10:53:38 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LINDEN AVE / AIRPORT BLVD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "CF2208138",
-        "date": "2022-12-16",
-        "time": "10:53:24 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #3 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "BF2204028",
-        "date": "2022-12-16",
-        "time": "10:45:06 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PACIFIC HEIGHTS BLVD ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "MF2209910",
-        "date": "2022-12-16",
-        "time": "10:43:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MESA CT ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": ">E41"
     }
 ]
