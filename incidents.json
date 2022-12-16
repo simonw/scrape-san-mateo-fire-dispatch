@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2212725",
+        "date": "2022-12-16",
+        "time": "7:34:53 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "LF2201104",
+        "date": "2022-12-16",
+        "time": "7:34:28 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD #306 ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "MF2209901",
+        "date": "2022-12-16",
+        "time": "7:29:42 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "795 WILLOW RD ,MNP",
+        "latitude": 37.4663546046411,
+        "longitude": -122.160234197566,
+        "units": ">E1"
+    },
+    {
+        "id": "RF2212724",
+        "date": "2022-12-16",
+        "time": "7:26:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "707 LEAHY ST ,RCY",
+        "latitude": 37.4702118714814,
+        "longitude": -122.215220792766,
+        "units": ">E3"
+    },
+    {
         "id": "FF2207225",
         "date": "2022-12-16",
         "time": "7:22:15 AM",
@@ -8,7 +52,7 @@
         "location": "ARLINGTON DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "FF2207224",
@@ -27,21 +71,10 @@
         "time": "7:20:33 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "N BAYSHORE BLVD #325 ,SMO",
+        "location": "N BAYSHORE BLVD #324 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "SF2214989",
-        "date": "2022-12-16",
-        "time": "7:17:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HOBART AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
+        "units": ">E24"
     },
     {
         "id": "FF2207223",
@@ -74,6 +107,6 @@
         "location": "784 WALNUT ST ,SNB",
         "latitude": 37.6324975332492,
         "longitude": -122.405893712419,
-        "units": ">T51 >BC16 >E51 CM31X5 ?TAC35"
+        "units": "CM31X5 >E51 ?TAC35 >BC16 >T51"
     }
 ]
