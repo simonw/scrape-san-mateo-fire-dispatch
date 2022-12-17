@@ -1,14 +1,58 @@
 [
     {
-        "id": "FF2207253",
+        "id": "BF2204040",
         "date": "2022-12-17",
-        "time": "10:23:03 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "10:40:05 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
+        "location": "SAN LUIS AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": "E51"
+    },
+    {
+        "id": "SF2215054",
+        "date": "2022-12-17",
+        "time": "10:39:44 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAUREL AVE #520 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "FF2207254",
+        "date": "2022-12-17",
+        "time": "10:30:16 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HOLLY AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "MF2209932",
+        "date": "2022-12-17",
+        "time": "10:29:42 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PROSPECT ST ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2212764",
+        "date": "2022-12-17",
+        "time": "10:26:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1261 FERNSIDE ST ,RCY",
+        "latitude": 37.4592795944824,
+        "longitude": -122.244642031069,
+        "units": ">E10"
     },
     {
         "id": "CF2208164",
@@ -19,7 +63,7 @@
         "location": "433 OCCIDENTAL AVE ,BRM",
         "latitude": 37.5760191447506,
         "longitude": -122.352477117453,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "SF2215053",
@@ -31,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E28"
-    },
-    {
-        "id": "SF2215052",
-        "date": "2022-12-17",
-        "time": "10:09:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2209931",
-        "date": "2022-12-17",
-        "time": "10:03:09 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "555 GLENWOOD AVE ,MNP",
-        "latitude": 37.4564270227973,
-        "longitude": -122.18627313514,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2215051",
-        "date": "2022-12-17",
-        "time": "9:57:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREVIEW AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
     }
 ]
