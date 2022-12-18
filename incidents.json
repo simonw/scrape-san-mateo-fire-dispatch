@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2213470",
+        "date": "2022-12-17",
+        "time": "9:18:28 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "SF2215088",
+        "date": "2022-12-17",
+        "time": "9:17:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "SF2215087",
         "date": "2022-12-17",
         "time": "9:04:49 PM",
@@ -8,7 +30,7 @@
         "location": "MARTIN DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "NF2213468",
@@ -19,18 +41,7 @@
         "location": "208 BEAUMONT BLVD ,PCF",
         "latitude": 37.6559106335165,
         "longitude": -122.489997889086,
-        "units": "?E71"
-    },
-    {
-        "id": "HF2203000",
-        "date": "2022-12-17",
-        "time": "9:01:15 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OLEANDER WAY ,SOS",
-        "latitude": null,
-        "longitude": null,
-        "units": "E40"
+        "units": ">E71"
     },
     {
         "id": "LF2201108",
@@ -41,7 +52,7 @@
         "location": "SWEETWOOD DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E86"
     },
     {
         "id": "MF2209953",
@@ -55,17 +66,6 @@
         "units": ">E4"
     },
     {
-        "id": "MF2209952",
-        "date": "2022-12-17",
-        "time": "8:45:36 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MADERA AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
         "id": "FF2207264",
         "date": "2022-12-17",
         "time": "8:30:55 PM",
@@ -74,6 +74,6 @@
         "location": "EL CAMINO REAL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": "E61"
     }
 ]
