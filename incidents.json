@@ -1,69 +1,80 @@
 [
     {
-        "id": "NF2213474",
+        "id": "WF2201898",
         "date": "2022-12-17",
-        "time": "10:04:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "17 HILLCREST DR ,DCY",
-        "latitude": 37.7057331933686,
-        "longitude": -122.462153704379,
-        "units": "E92"
+        "time": "10:25:35 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "RUNNYMEDE RD / CANADA RD",
+        "latitude": 37.4436723240838,
+        "longitude": -122.268631152316,
+        "units": "?E19"
     },
     {
-        "id": "NF2213473",
+        "id": "SF2215091",
         "date": "2022-12-17",
-        "time": "10:01:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FLORENCE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E95"
-    },
-    {
-        "id": "SF2215089",
-        "date": "2022-12-17",
-        "time": "9:58:30 PM",
+        "time": "10:18:54 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVE ,SMO",
+        "location": "MCLELLAN AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": "E23"
     },
     {
-        "id": "BF2204049",
+        "id": "CF2208180",
         "date": "2022-12-17",
-        "time": "9:54:35 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "10:16:31 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "LONGVIEW DR ,SNB",
+        "location": "MAHLER RD ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
+        "units": ">E37"
     },
     {
-        "id": "NF2213471",
+        "id": "NF2213475",
         "date": "2022-12-17",
-        "time": "9:44:02 PM",
+        "time": "10:14:12 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "ADOBE DR #16 ,PCF",
+        "location": "LINDA MAR BLVD ,PCF",
         "latitude": null,
         "longitude": null,
         "units": ">E72"
     },
     {
-        "id": "RF2212788",
+        "id": "FF2207267",
         "date": "2022-12-17",
-        "time": "9:40:49 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "43 BAYVIEW DR ,SNC",
-        "latitude": 37.5043744891609,
-        "longitude": -122.283142715552,
-        "units": ">E15"
+        "time": "10:10:05 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO SNEATH LN",
+        "latitude": 37.6342300873108,
+        "longitude": -122.438728195012,
+        "units": ">T51 >E64 >E51 >BC120 CM31X1TAC36"
+    },
+    {
+        "id": "SF2215090",
+        "date": "2022-12-17",
+        "time": "10:08:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CORNISH WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "FF2207266",
+        "date": "2022-12-17",
+        "time": "10:07:39 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SPRUCE AVE / 3RD LN",
+        "latitude": 37.655973017438,
+        "longitude": -122.416217887798,
+        "units": ">CM31X5 >BC17 >TAC35 >E61"
     },
     {
         "id": "CF2208179",
@@ -74,6 +85,6 @@
         "location": "AIRPORT BLVD #838 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">T34 >E34 ?CM21X1"
+        "units": "?CM21X1 >T34 >E34"
     }
 ]
