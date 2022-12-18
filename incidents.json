@@ -1,5 +1,27 @@
 [
     {
+        "id": "LF2201110",
+        "date": "2022-12-18",
+        "time": "8:01:52 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WASHINGTON ST #4 ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "FF2207280",
+        "date": "2022-12-18",
+        "time": "7:53:22 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LARCH AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "SF2215105",
         "date": "2022-12-18",
         "time": "7:38:50 AM",
@@ -8,7 +30,7 @@
         "location": "SEA SPRAY LN #204 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E29"
     },
     {
         "id": "RF2212797",
@@ -16,20 +38,9 @@
         "time": "7:28:17 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Vehicle fire",
-        "location": "SPRING ST / HURLINGAME AVE",
+        "location": "2745 SPRING ST ,NFO",
         "latitude": 37.4822731666375,
         "longitude": -122.207708118635,
-        "units": ">E11"
-    },
-    {
-        "id": "RF2212796",
-        "date": "2022-12-18",
-        "time": "7:20:56 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLUB DR ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": "?RCFINV >E11"
     }
 ]
