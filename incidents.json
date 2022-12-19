@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2215150",
+        "date": "2022-12-19",
+        "time": "3:20:43 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NORTON ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "NF2213525",
+        "date": "2022-12-19",
+        "time": "3:17:31 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "1289 ALICANTE DR ,PCF",
+        "latitude": 37.5837326337285,
+        "longitude": -122.484793210641,
+        "units": "E72"
+    },
+    {
         "id": "SF2215149",
         "date": "2022-12-19",
         "time": "3:00:52 AM",
@@ -8,18 +30,7 @@
         "location": "SONORA DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
-    },
-    {
-        "id": "NF2213524",
-        "date": "2022-12-19",
-        "time": "2:59:50 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "RIO VISTA DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E72"
+        "units": ">E25"
     },
     {
         "id": "SF2215148",
@@ -31,16 +42,5 @@
         "latitude": 37.5069413667997,
         "longitude": -122.301424104213,
         "units": ">E15"
-    },
-    {
-        "id": "MF2209975",
-        "date": "2022-12-19",
-        "time": "2:44:10 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HUNTER ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
     }
 ]
