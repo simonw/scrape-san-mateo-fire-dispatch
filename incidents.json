@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2209984",
+        "date": "2022-12-19",
+        "time": "11:02:13 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2050 UNIVERSITY AVE ,EPA",
+        "latitude": 37.4605929271487,
+        "longitude": -122.142766162559,
+        "units": "BC101 T2 E2 E77 R77?TAC15 ?CM11X2 ?E1"
+    },
+    {
+        "id": "NF2213533",
+        "date": "2022-12-19",
+        "time": "10:57:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LARKSPUR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
+    },
+    {
+        "id": "NF2213532",
+        "date": "2022-12-19",
+        "time": "10:57:15 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CALLAN BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "SF2215168",
+        "date": "2022-12-19",
+        "time": "10:57:14 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PARK PL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "SF2215167",
+        "date": "2022-12-19",
+        "time": "10:54:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NEWBRIDGE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "MF2209983",
         "date": "2022-12-19",
         "time": "10:43:33 AM",
@@ -8,84 +63,7 @@
         "location": "WOODSIDE RD ,WSB",
         "latitude": null,
         "longitude": null,
-        "units": "?E10"
-    },
-    {
-        "id": "MF2209982",
-        "date": "2022-12-19",
-        "time": "10:37:03 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLEMAN PL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T1"
-    },
-    {
-        "id": "SF2215166",
-        "date": "2022-12-19",
-        "time": "10:36:34 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S SAN MATEO DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "WF2201910",
-        "date": "2022-12-19",
-        "time": "10:34:42 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Hazardous material - investiga",
-        "location": "SKYLINE BLVD / BEAR GULCH RD",
-        "latitude": 37.3996942489132,
-        "longitude": -122.293736772989,
-        "units": "E58 ?CO56"
-    },
-    {
-        "id": "RF2212833",
-        "date": "2022-12-19",
-        "time": "10:32:42 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LA MESA DR ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "RF2212832",
-        "date": "2022-12-19",
-        "time": "10:32:28 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STAMBAUGH ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
-    },
-    {
-        "id": "RF2212831",
-        "date": "2022-12-19",
-        "time": "10:26:54 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STAFFORD ST #2 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2209981",
-        "date": "2022-12-19",
-        "time": "10:22:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "246 SAND HILL CIR ,MNP",
-        "latitude": 37.4253389699916,
-        "longitude": -122.221925393042,
-        "units": ">E4"
+        "units": ">E10"
     },
     {
         "id": "CF2208220",
@@ -97,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E33"
-    },
-    {
-        "id": "NF2213531",
-        "date": "2022-12-19",
-        "time": "10:17:48 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALE ST #52B ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E91"
     }
 ]
