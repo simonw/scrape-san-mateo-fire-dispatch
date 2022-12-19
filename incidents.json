@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2209983",
+        "date": "2022-12-19",
+        "time": "10:43:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E10"
+    },
+    {
+        "id": "MF2209982",
+        "date": "2022-12-19",
+        "time": "10:37:03 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T1"
+    },
+    {
+        "id": "SF2215166",
+        "date": "2022-12-19",
+        "time": "10:36:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "WF2201910",
+        "date": "2022-12-19",
+        "time": "10:34:42 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Hazardous material - investiga",
+        "location": "SKYLINE BLVD / BEAR GULCH RD",
+        "latitude": 37.3996942489132,
+        "longitude": -122.293736772989,
+        "units": "E58 ?CO56"
+    },
+    {
+        "id": "RF2212833",
+        "date": "2022-12-19",
+        "time": "10:32:42 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LA MESA DR ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
+        "id": "RF2212832",
+        "date": "2022-12-19",
+        "time": "10:32:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "STAMBAUGH ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
         "id": "RF2212831",
         "date": "2022-12-19",
         "time": "10:26:54 AM",
@@ -8,7 +74,7 @@
         "location": "STAFFORD ST #2 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "MF2209981",
@@ -19,18 +85,7 @@
         "location": "246 SAND HILL CIR ,MNP",
         "latitude": 37.4253389699916,
         "longitude": -122.221925393042,
-        "units": "E4"
-    },
-    {
-        "id": "SF2215165",
-        "date": "2022-12-19",
-        "time": "10:19:12 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1200 E HILLSDALE BLVD ,FCY",
-        "latitude": 37.5668491378945,
-        "longitude": -122.266869631509,
-        "units": "T21"
+        "units": ">E4"
     },
     {
         "id": "CF2208220",
@@ -52,39 +107,6 @@
         "location": "VALE ST #52B ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "CF2208219",
-        "date": "2022-12-19",
-        "time": "10:15:48 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROBINWOOD LN ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "MF2209979",
-        "date": "2022-12-19",
-        "time": "10:13:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WEEKS ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "WF2201909",
-        "date": "2022-12-19",
-        "time": "9:57:34 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HIGHLAND TE ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
+        "units": "*>E91"
     }
 ]
