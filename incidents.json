@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2208236",
+        "date": "2022-12-20",
+        "time": "5:07:19 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ADELINE DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E35"
+    },
+    {
+        "id": "SF2215207",
+        "date": "2022-12-20",
+        "time": "4:50:50 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1221 CHESS DR ,FCY",
+        "latitude": 37.5622080641952,
+        "longitude": -122.276994283274,
+        "units": ">E28 ?TAC26 ?CM21X1"
+    },
+    {
         "id": "SF2215206",
         "date": "2022-12-20",
         "time": "4:49:26 AM",
@@ -8,18 +30,7 @@
         "location": "WB 92 / WO HIGH RI",
         "latitude": 37.5819692676653,
         "longitude": -122.253397834521,
-        "units": "?TAC25 ?CM21X5 ?BC5 ?E29 ?T23"
-    },
-    {
-        "id": "NF2213563",
-        "date": "2022-12-20",
-        "time": "4:21:58 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BISMARK ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "?CM21X5 ?TAC25 >E29"
     },
     {
         "id": "BF2204094",
@@ -30,6 +41,6 @@
         "location": "LAKE DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
+        "units": ""
     }
 ]
