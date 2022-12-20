@@ -1,25 +1,47 @@
 [
     {
+        "id": "FF2207331",
+        "date": "2022-12-20",
+        "time": "1:22:14 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MAGNOLIA AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "BF2204101",
+        "date": "2022-12-20",
+        "time": "1:18:59 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MONTGOMERY AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "FF2207330",
+        "date": "2022-12-20",
+        "time": "1:18:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MILLER AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?Q62"
+    },
+    {
         "id": "SF2215227",
         "date": "2022-12-20",
         "time": "1:03:19 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Full assignment response",
-        "location": "E 3RD AVE / S SAN MATEO DR",
+        "location": "231 S SAN MATEO DR ,SMO",
         "latitude": 37.5642819557476,
         "longitude": -122.324161023512,
-        "units": "CM21X4 BC5 E21 T21 E24?TAC25 ?E25"
-    },
-    {
-        "id": "RF2212883",
-        "date": "2022-12-20",
-        "time": "1:01:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "680 REDWOOD SHORES PKWY ,RWS",
-        "latitude": 37.5338891754051,
-        "longitude": -122.239603924195,
-        "units": ">E20"
+        "units": "CM21X4 >BC5 ?TAC25 >E21 >E24>T21"
     },
     {
         "id": "BF2204100",
@@ -30,50 +52,6 @@
         "location": "PARKVIEW DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "RF2212882",
-        "date": "2022-12-20",
-        "time": "12:53:59 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROLISON RD #1 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "RF2212881",
-        "date": "2022-12-20",
-        "time": "12:51:50 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HORGAN AVE #2 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2213577",
-        "date": "2022-12-20",
-        "time": "12:48:56 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2213576",
-        "date": "2022-12-20",
-        "time": "12:26:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "YOSEMITE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E51"
     }
 ]
