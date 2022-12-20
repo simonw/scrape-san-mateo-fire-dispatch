@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2210009",
+        "id": "SF2215203",
         "date": "2022-12-20",
-        "time": "12/19/2022 11:57:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "1 NEWELL CT ,EPA",
-        "latitude": 37.4575065373593,
-        "longitude": -122.138167024941,
-        "units": ">E2"
+        "time": "12:23:33 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "DF2202180",
+        "date": "2022-12-20",
+        "time": "12:21:53 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "CABRILLO HWY S / TUNITAS CREEK RD",
+        "latitude": 37.3586341004646,
+        "longitude": -122.397621990062,
+        "units": "BC10 TAC16 E59 E40 ?CO57"
+    },
+    {
+        "id": "RF2212863",
+        "date": "2022-12-20",
+        "time": "12:15:54 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1405 MARSHALL ST #302 ,RCY",
+        "latitude": 37.488237495249,
+        "longitude": -122.219699719579,
+        "units": ">E9 ?CM11X4 TAC15 >T9 >BC3"
     },
     {
         "id": "CF2208234",
@@ -20,16 +42,5 @@
         "latitude": 37.5765450548268,
         "longitude": -122.381288839729,
         "units": ""
-    },
-    {
-        "id": "WF2201915",
-        "date": "2022-12-20",
-        "time": "12/19/2022 11:25:20 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
     }
 ]
