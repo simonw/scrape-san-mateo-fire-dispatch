@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2210006",
+        "date": "2022-12-19",
+        "time": "10:02:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "150 ALTA VISTA DR ,ATN",
+        "latitude": 37.4361525863413,
+        "longitude": -122.225547421355,
+        "units": "E4"
+    },
+    {
+        "id": "FF2207318",
+        "date": "2022-12-19",
+        "time": "10:02:00 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BRIARWOOD DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
         "id": "BF2204089",
         "date": "2022-12-19",
         "time": "9:39:31 PM",
@@ -8,7 +30,7 @@
         "location": "COMMODORE DR #264 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "SF2215201",
@@ -19,28 +41,6 @@
         "location": "CAVANAUGH ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "CF2208232",
-        "date": "2022-12-19",
-        "time": "9:36:30 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALTO LOMA ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "RF2212859",
-        "date": "2022-12-19",
-        "time": "9:35:30 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HUDSON ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E10"
+        "units": ""
     }
 ]
