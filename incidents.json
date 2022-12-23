@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2204133",
+        "date": "2022-12-23",
+        "time": "10:50:05 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTWOOD DR #3 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "FF2207398",
+        "date": "2022-12-23",
+        "time": "10:47:38 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "DNA WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "MF2210085",
+        "date": "2022-12-23",
+        "time": "10:44:58 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "279 PARK LN ,ATN",
+        "latitude": 37.4436478121359,
+        "longitude": -122.200405707403,
+        "units": ">E4"
+    },
+    {
         "id": "HF2203047",
         "date": "2022-12-23",
         "time": "10:38:39 AM",
@@ -8,28 +41,6 @@
         "location": "PATRICK WAY ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "FF2207397",
-        "date": "2022-12-23",
-        "time": "10:31:03 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "SF2215356",
-        "date": "2022-12-23",
-        "time": "10:01:11 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "177 N EL CAMINO REAL ,SMO",
-        "latitude": 37.5676387477808,
-        "longitude": -122.332108013547,
-        "units": ">E21"
+        "units": "*>E40"
     }
 ]
