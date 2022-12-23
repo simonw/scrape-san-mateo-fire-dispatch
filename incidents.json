@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2208315",
+        "date": "2022-12-22",
+        "time": "8:24:32 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #44A ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "SF2215337",
+        "date": "2022-12-22",
+        "time": "8:16:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOREL AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "FF2207380",
+        "date": "2022-12-22",
+        "time": "8:15:21 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA LOMA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "MF2210080",
+        "date": "2022-12-22",
+        "time": "8:08:03 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PRADO SECOYA ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "MF2210079",
         "date": "2022-12-22",
         "time": "8:03:00 PM",
@@ -8,7 +52,7 @@
         "location": "MYRTLE CT ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "RF2212975",
@@ -19,51 +63,7 @@
         "location": "STONY HILL RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "SF2215336",
-        "date": "2022-12-22",
-        "time": "7:58:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "E 3RD AVE / S FREMONT ST",
-        "latitude": 37.5683391750701,
-        "longitude": -122.318310855318,
-        "units": "E21"
-    },
-    {
-        "id": "SF2215335",
-        "date": "2022-12-22",
-        "time": "7:56:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1322 MONTE DIABLO AVE ,SMO",
-        "latitude": 37.5773853793474,
-        "longitude": -122.317920821055,
-        "units": ">E24"
-    },
-    {
-        "id": "BF2204125",
-        "date": "2022-12-22",
-        "time": "7:45:05 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FLEETWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "MF2210078",
-        "date": "2022-12-22",
-        "time": "7:32:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GRACE AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
+        "units": ">E12"
     },
     {
         "id": "HF2203038",
@@ -74,6 +74,6 @@
         "location": "BERNAL AVE ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "*>E44 >CM41X1"
+        "units": ">CM41X1"
     }
 ]
