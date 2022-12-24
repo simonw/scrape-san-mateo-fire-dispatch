@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2204144",
+        "date": "2022-12-24",
+        "time": "2:14:30 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "MF2210124",
+        "date": "2022-12-24",
+        "time": "2:13:12 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2400 GLORIA WAY ,EPA",
+        "latitude": 37.4719458701848,
+        "longitude": -122.141186176351,
+        "units": ">E2"
+    },
+    {
         "id": "NF2213748",
         "date": "2022-12-24",
         "time": "2:04:06 PM",
@@ -8,7 +30,7 @@
         "location": "REDWOOD WAY ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": ">E72"
     },
     {
         "id": "SF2215398",
@@ -19,28 +41,6 @@
         "location": "537 30TH AVE ,SMO",
         "latitude": 37.535142667576,
         "longitude": -122.311888530022,
-        "units": "T23"
-    },
-    {
-        "id": "FF2207424",
-        "date": "2022-12-24",
-        "time": "1:53:20 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CHESTNUT AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2208360",
-        "date": "2022-12-24",
-        "time": "1:50:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ADELINE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
+        "units": ">T23"
     }
 ]
