@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2207415",
+        "date": "2022-12-23",
+        "time": "11:41:37 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA MESA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "RF2213002",
+        "date": "2022-12-23",
+        "time": "11:38:18 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "MF2210110",
+        "date": "2022-12-23",
+        "time": "11:37:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "340 E O'KEEFE ST #8 ,EPA",
+        "latitude": 37.4616677797455,
+        "longitude": -122.147607273853,
+        "units": "E2"
+    },
+    {
+        "id": "SF2215385",
+        "date": "2022-12-23",
+        "time": "11:29:49 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SAN JUAN BLVD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
         "id": "MF2210109",
         "date": "2022-12-23",
         "time": "11:19:41 PM",
@@ -22,28 +66,6 @@
         "units": ">E37"
     },
     {
-        "id": "SF2215384",
-        "date": "2022-12-23",
-        "time": "11:16:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident - structure",
-        "location": "390 EL CAMINO REAL ,BLM",
-        "latitude": 37.5266260094455,
-        "longitude": -122.284682243111,
-        "units": "TAC15 >E14 BC5 CM11X5 T23E16"
-    },
-    {
-        "id": "SF2215383",
-        "date": "2022-12-23",
-        "time": "10:43:21 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W 40TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
         "id": "HF2203050",
         "date": "2022-12-23",
         "time": "10:09:23 PM",
@@ -52,6 +74,6 @@
         "location": "PATRICK WAY ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": "*>E40"
     }
 ]
