@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2210103",
+        "date": "2022-12-23",
+        "time": "6:36:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RINGWOOD AVE / VAN BUREN RD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2215375",
+        "date": "2022-12-23",
+        "time": "6:35:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CASCADE CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "SF2215374",
         "date": "2022-12-23",
         "time": "6:29:15 PM",
@@ -8,7 +30,7 @@
         "location": "2304 FLORES ST ,SMO",
         "latitude": 37.5450316480518,
         "longitude": -122.308144360384,
-        "units": "E25"
+        "units": ">E25"
     },
     {
         "id": "FF2207408",
@@ -55,17 +77,6 @@
         "units": ">E32"
     },
     {
-        "id": "CF2208340",
-        "date": "2022-12-23",
-        "time": "6:20:37 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "160 EL CAMINO REAL ,MLB",
-        "latitude": 37.599998700667,
-        "longitude": -122.388486161978,
-        "units": ">E37"
-    },
-    {
         "id": "RF2212994",
         "date": "2022-12-23",
         "time": "6:20:18 PM",
@@ -74,17 +85,6 @@
         "location": "1286 ODDSTAD DR ,RCY",
         "latitude": 37.4905664895344,
         "longitude": -122.21972585681,
-        "units": "?CM11X4 >E9 ?TAC15 >T9 >BC3>E10"
-    },
-    {
-        "id": "FF2207407",
-        "date": "2022-12-23",
-        "time": "6:18:05 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FIR AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": "?CM11X4 >E9 ?TAC15 >BC3"
     }
 ]
