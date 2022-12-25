@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2207431",
+        "id": "LF2201133",
         "date": "2022-12-24",
-        "time": "7:24:14 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:42:22 PM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "GRAND AVE ,SSF",
+        "location": "MISSION RD #306 ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": "E86"
+    },
+    {
+        "id": "MF2210134",
+        "date": "2022-12-24",
+        "time": "7:36:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "CF2208369",
@@ -19,18 +30,7 @@
         "location": "KINGSWOOD DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E33"
-    },
-    {
-        "id": "RF2213039",
-        "date": "2022-12-24",
-        "time": "7:18:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "248 REDWOOD AVE ,RCY",
-        "latitude": 37.4748117594996,
-        "longitude": -122.225425147076,
-        "units": "E10"
+        "units": ">E33"
     },
     {
         "id": "SF2215412",
@@ -41,50 +41,6 @@
         "location": "841 HADDOCK ST ,FCY",
         "latitude": 37.5545858405842,
         "longitude": -122.25023459276,
-        "units": ">E28 >E29 BC5 E26 T23CM21X4 ?TAC25"
-    },
-    {
-        "id": "CF2208368",
-        "date": "2022-12-24",
-        "time": "7:13:27 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MORRELL AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E35"
-    },
-    {
-        "id": "CF2208367",
-        "date": "2022-12-24",
-        "time": "7:07:28 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AIRPORT BLVD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "FF2207430",
-        "date": "2022-12-24",
-        "time": "7:05:08 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "398 CYPRESS AVE ,SSF",
-        "latitude": 37.6554747960621,
-        "longitude": -122.40799570363,
-        "units": ">Q62"
-    },
-    {
-        "id": "CF2208366",
-        "date": "2022-12-24",
-        "time": "6:55:32 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "1333 EL CAMINO REAL ,BRM",
-        "latitude": 37.5867234634826,
-        "longitude": -122.371248981584,
-        "units": ">E34"
+        "units": "CM21X4 ?TAC25 >E29 >E28"
     }
 ]
