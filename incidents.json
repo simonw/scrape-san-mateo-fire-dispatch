@@ -1,14 +1,47 @@
 [
     {
-        "id": "HF2203070",
+        "id": "HF2203072",
         "date": "2022-12-26",
-        "time": "9:33:11 AM",
+        "time": "10:00:42 AM",
         "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2930 N CABRILLO HWY ,HMB",
+        "latitude": 37.4918351903269,
+        "longitude": -122.452704574236,
+        "units": ">E41 ?TAC45 ?CM41X2"
+    },
+    {
+        "id": "HF2203071",
+        "date": "2022-12-26",
+        "time": "9:57:00 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "501 KELLY AVE ,HMB",
+        "latitude": 37.4643994013246,
+        "longitude": -122.433517635433,
+        "units": ">E40"
+    },
+    {
+        "id": "SF2215470",
+        "date": "2022-12-26",
+        "time": "9:52:28 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVENUE PORTOLA ,ELG",
+        "location": "ROYAL AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
+        "units": ">E24"
+    },
+    {
+        "id": "SF2215469",
+        "date": "2022-12-26",
+        "time": "9:45:25 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "3500 EDISON ST ,SMO",
+        "latitude": 37.5337215140389,
+        "longitude": -122.29943961463,
+        "units": ">E23"
     },
     {
         "id": "CF2208399",
@@ -22,17 +55,6 @@
         "units": ">E33"
     },
     {
-        "id": "FF2207463",
-        "date": "2022-12-26",
-        "time": "9:31:36 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
         "id": "RF2213077",
         "date": "2022-12-26",
         "time": "9:16:57 AM",
@@ -41,6 +63,6 @@
         "location": "1048 EL CAMINO REAL ,RCY",
         "latitude": 37.4836139620303,
         "longitude": -122.232440130743,
-        "units": ">E12"
+        "units": ""
     }
 ]
