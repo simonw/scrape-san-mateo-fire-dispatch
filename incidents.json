@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2208435",
+        "id": "NF2213860",
         "date": "2022-12-27",
-        "time": "9:39:18 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "10:00:17 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "TEMPLETON AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "SF2215524",
+        "date": "2022-12-27",
+        "time": "9:56:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Traffic accident pd request c3",
-        "location": "MILLBRAE AVE / S EL CAMINO REAL",
-        "latitude": 37.5985188871241,
-        "longitude": -122.387409437657,
-        "units": "BC8 >E37 CM21X5 T34 ?TAC25"
+        "location": "NB 101 / SO DORE AVE",
+        "latitude": 37.5750510119517,
+        "longitude": -122.318419501939,
+        "units": ">E24"
+    },
+    {
+        "id": "SF2215523",
+        "date": "2022-12-27",
+        "time": "9:54:54 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GULL AVE ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "SF2215522",
+        "date": "2022-12-27",
+        "time": "9:52:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "3000 BLOCK BEVERLY ST ,SMO",
+        "latitude": 37.5332681307098,
+        "longitude": -122.315164700417,
+        "units": ">E23"
     },
     {
         "id": "BF2204178",
@@ -19,7 +52,7 @@
         "location": "CRESTWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": ">E52"
     },
     {
         "id": "SF2215521",
@@ -30,40 +63,7 @@
         "location": "WB 92 / WO ALAMEDA DE LAS PULGAS",
         "latitude": 37.5420500288304,
         "longitude": -122.329695266347,
-        "units": ">T21 >BC5 >E25 CM21X3 ?TAC26"
-    },
-    {
-        "id": "DF2202230",
-        "date": "2022-12-27",
-        "time": "9:30:31 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / NO EDGEWOOD RD",
-        "latitude": 37.4913015493745,
-        "longitude": -122.300263671528,
-        "units": "?TAC16 CM11X5 >T17"
-    },
-    {
-        "id": "BF2204177",
-        "date": "2022-12-27",
-        "time": "9:30:22 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "DF2202231",
-        "date": "2022-12-27",
-        "time": "9:29:04 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "324 DEVONSHIRE BLVD ,DVN",
-        "latitude": 37.4962835595305,
-        "longitude": -122.284848857351,
-        "units": "E14"
+        "units": "CM21X3 >E25 ?TAC26 >T21"
     },
     {
         "id": "NF2213858",
@@ -96,29 +96,7 @@
         "location": "ALTO LOMA ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "RF2213122",
-        "date": "2022-12-27",
-        "time": "9:22:28 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #242B ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "RF2213121",
-        "date": "2022-12-27",
-        "time": "9:20:09 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MADDUX DR ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": "E38"
     },
     {
         "id": "MF2210206",
@@ -130,28 +108,6 @@
         "latitude": null,
         "longitude": null,
         "units": "E4"
-    },
-    {
-        "id": "SF2215520",
-        "date": "2022-12-27",
-        "time": "9:19:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "164 37TH AVE ,SMO",
-        "latitude": 37.5329589312855,
-        "longitude": -122.29811389597,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2215519",
-        "date": "2022-12-27",
-        "time": "9:18:32 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1 FRANKLIN PKWY #950 ,SMO",
-        "latitude": 37.543725075676,
-        "longitude": -122.293561180221,
-        "units": ""
     },
     {
         "id": "RF2213117",
@@ -174,17 +130,6 @@
         "latitude": 37.3511773809479,
         "longitude": -122.197822568886,
         "units": ">E19"
-    },
-    {
-        "id": "MF2210205",
-        "date": "2022-12-27",
-        "time": "8:46:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E1"
     },
     {
         "id": "WF2201939",
