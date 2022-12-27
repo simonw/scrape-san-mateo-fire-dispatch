@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2215511",
+        "date": "2022-12-27",
+        "time": "5:23:22 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1540 RALSTON AVE ,BLM",
+        "latitude": 37.5153312893091,
+        "longitude": -122.286625759087,
+        "units": "E16 ?BC5 ?E14"
+    },
+    {
         "id": "SF2215510",
         "date": "2022-12-27",
         "time": "5:04:07 AM",
@@ -8,18 +19,7 @@
         "location": "347 41ST AVE ,SMO",
         "latitude": 37.5266470791744,
         "longitude": -122.302376402758,
-        "units": "?E23"
-    },
-    {
-        "id": "SF2215509",
-        "date": "2022-12-27",
-        "time": "5:02:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "2011 MONROE AVE ,BLM",
-        "latitude": 37.5240166613639,
-        "longitude": -122.297639477118,
-        "units": "E15"
+        "units": ">E23"
     },
     {
         "id": "FF2207482",
@@ -30,62 +30,7 @@
         "location": "412 ALHAMBRA RD ,SSF",
         "latitude": 37.6413667872105,
         "longitude": -122.437725804157,
-        "units": "E64"
-    },
-    {
-        "id": "CF2208419",
-        "date": "2022-12-27",
-        "time": "4:56:41 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HAZEL AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "NF2213846",
-        "date": "2022-12-27",
-        "time": "4:53:39 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SEACREST CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "SF2215507",
-        "date": "2022-12-27",
-        "time": "4:40:46 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Pole fire",
-        "location": "1600 BELBURN DR ,BLM",
-        "latitude": 37.5157831341981,
-        "longitude": -122.288522945941,
-        "units": ">E16"
-    },
-    {
-        "id": "SF2215506",
-        "date": "2022-12-27",
-        "time": "4:38:44 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1540 RALSTON AVE ,BLM",
-        "latitude": 37.5153312893091,
-        "longitude": -122.286625759087,
-        "units": "CM11X2 ?TAC15"
-    },
-    {
-        "id": "CF2208418",
-        "date": "2022-12-27",
-        "time": "4:35:51 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "88 S BROADWAY ,MLB",
-        "latitude": 37.5973167175461,
-        "longitude": -122.388031465225,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "DF2202223",
@@ -97,16 +42,5 @@
         "latitude": 37.473425884593,
         "longitude": -122.270722279098,
         "units": ">E18"
-    },
-    {
-        "id": "SF2215505",
-        "date": "2022-12-27",
-        "time": "4:33:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "205 E 3RD AVE ,SMO",
-        "latitude": 37.5653317528698,
-        "longitude": -122.323068651871,
-        "units": ""
     }
 ]
