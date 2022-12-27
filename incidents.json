@@ -1,25 +1,58 @@
 [
     {
-        "id": "NF2213849",
+        "id": "NF2213851",
         "date": "2022-12-27",
-        "time": "7:41:13 AM",
+        "time": "7:59:51 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / NO HICKEY BLVD",
-        "latitude": 37.6682462185452,
-        "longitude": -122.465546681579,
-        "units": "T51 ?TAC36 ?CM31X3 ?BC123 ?E94"
+        "category": "Medical aid",
+        "location": "ST FRANCIS BLVD #1082 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
     },
     {
-        "id": "FF2207484",
+        "id": "SF2215515",
         "date": "2022-12-27",
-        "time": "7:40:29 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "MISSION RD / GRAND AVE",
-        "latitude": 37.6601092007677,
-        "longitude": -122.437239609084,
-        "units": "E63"
+        "time": "7:55:51 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #219 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "NF2213850",
+        "date": "2022-12-27",
+        "time": "7:52:24 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BALTIMORE WAY ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "DF2202227",
+        "date": "2022-12-27",
+        "time": "7:52:02 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "9000 PORTOLA STATE PARK RD ,SOS",
+        "latitude": 37.2610635152212,
+        "longitude": -122.21747314996,
+        "units": "E58 R57"
+    },
+    {
+        "id": "MF2210200",
+        "date": "2022-12-27",
+        "time": "7:46:22 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1192 VERONICA CT ,EPA",
+        "latitude": 37.4681956380637,
+        "longitude": -122.128814342873,
+        "units": ""
     },
     {
         "id": "NF2213848",
@@ -30,29 +63,7 @@
         "location": "150 CORONADO AVE ,DCY",
         "latitude": 37.6967722784499,
         "longitude": -122.483323458654,
-        "units": "BC20 ?TAC35 E92 T95 E91CM31X4 ?E95"
-    },
-    {
-        "id": "NF2213847",
-        "date": "2022-12-27",
-        "time": "7:36:19 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "MANOR DR / HEATHCLIFF DR",
-        "latitude": 37.6453639829567,
-        "longitude": -122.474066023465,
-        "units": "E71"
-    },
-    {
-        "id": "FF2207483",
-        "date": "2022-12-27",
-        "time": "7:26:12 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "411 GRAND AVE ,SSF",
-        "latitude": 37.6554794677778,
-        "longitude": -122.412953910724,
-        "units": ">E61"
+        "units": ">BC20 ?TAC35 >E91 CM31X4 >E95"
     },
     {
         "id": "RF2213110",
@@ -63,7 +74,7 @@
         "location": "STONY HILL RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 >E10 >E12"
+        "units": "E12"
     },
     {
         "id": "CF2208421",
@@ -74,6 +85,6 @@
         "location": "EL CAMINO REAL / HOWARD AVE",
         "latitude": 37.5757894356793,
         "longitude": -122.347698156592,
-        "units": ">E21"
+        "units": ""
     }
 ]
