@@ -1,47 +1,113 @@
 [
     {
-        "id": "SF2215534",
+        "id": "SF2215536",
         "date": "2022-12-27",
-        "time": "11:39:40 AM",
+        "time": "12:02:34 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVE / S CLAREMONT ST",
+        "location": "CRYSTAL CT ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": "E26"
     },
     {
-        "id": "FF2207487",
+        "id": "MF2210214",
         "date": "2022-12-27",
-        "time": "11:38:29 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "12:02:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1050 MYRTLE ST ,EPA",
+        "latitude": 37.4629373382795,
+        "longitude": -122.131838824994,
+        "units": "?E2"
+    },
+    {
+        "id": "CF2208448",
+        "date": "2022-12-27",
+        "time": "12:00:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "577 AIRPORT BLVD ,BRM",
+        "latitude": 37.588998812315,
+        "longitude": -122.341439557402,
+        "units": ""
+    },
+    {
+        "id": "NF2213872",
+        "date": "2022-12-27",
+        "time": "11:59:01 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FOOTHILL DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "CF2208447",
+        "date": "2022-12-27",
+        "time": "11:55:48 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #108 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "MF2210212",
+        "date": "2022-12-27",
+        "time": "11:55:28 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Fire alarm - smoke detector",
-        "location": "101 MCLELLAN DR ,SSF",
-        "latitude": 37.6642962765265,
-        "longitude": -122.446854864105,
-        "units": ">E63"
+        "location": "85 WILLOW RD ,MNP",
+        "latitude": 37.4543375730096,
+        "longitude": -122.165235112008,
+        "units": ">E1"
     },
     {
-        "id": "SF2215533",
+        "id": "CF2208446",
         "date": "2022-12-27",
-        "time": "11:38:23 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "500 BIDDULPH WAY ,BLM",
-        "latitude": 37.5250372800605,
-        "longitude": -122.275683769601,
-        "units": "E16"
-    },
-    {
-        "id": "RF2213126",
-        "date": "2022-12-27",
-        "time": "11:37:56 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:51:34 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
+        "location": "KINGSWOOD DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
+        "units": ">E33"
+    },
+    {
+        "id": "NF2213871",
+        "date": "2022-12-27",
+        "time": "11:51:19 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ORIENTE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "CF2208445",
+        "date": "2022-12-27",
+        "time": "11:48:57 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MYRTLE RD #218 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2215535",
+        "date": "2022-12-27",
+        "time": "11:46:58 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ANNA ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "MF2210211",
@@ -52,29 +118,7 @@
         "location": "949 FREMONT ST ,MNP",
         "latitude": 37.4466440631949,
         "longitude": -122.186934011399,
-        "units": "E6"
-    },
-    {
-        "id": "CF2208444",
-        "date": "2022-12-27",
-        "time": "11:37:27 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "979 BROADWAY ,MLB",
-        "latitude": 37.6046787447603,
-        "longitude": -122.397240191598,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2215532",
-        "date": "2022-12-27",
-        "time": "11:35:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Pole fire",
-        "location": "CAMBRIDGE ST / HILLER ST",
-        "latitude": 37.5269647048655,
-        "longitude": -122.275926290119,
-        "units": ">E14"
+        "units": ">E6"
     },
     {
         "id": "NF2213869",
@@ -85,28 +129,6 @@
         "location": "151 SANTA CLARA ST ,BRS",
         "latitude": 37.6833123018536,
         "longitude": -122.39865871332,
-        "units": "CM31X2 E65 BC20 >E93 ?TAC35Q62 >E81"
-    },
-    {
-        "id": "SF2215531",
-        "date": "2022-12-27",
-        "time": "11:32:36 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MOUNDS RD #602 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "RF2213117",
-        "date": "2022-12-27",
-        "time": "9:13:54 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "5TH AVE / BAY RD",
-        "latitude": 37.4816223562494,
-        "longitude": -122.198603710211,
-        "units": "?TAC15 CM11X1 >E9 >E3 >BC3>E5"
+        "units": "CM31X2 >E65 >BC20 >E93 ?TAC35>Q62 >E81"
     }
 ]
