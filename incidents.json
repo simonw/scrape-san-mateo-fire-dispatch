@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2213130",
+        "date": "2022-12-27",
+        "time": "12:20:18 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Trash fire",
+        "location": "487 SEAPORT CT ,RCY",
+        "latitude": 37.504317998881,
+        "longitude": -122.212547200022,
+        "units": "E11"
+    },
+    {
+        "id": "RF2213129",
+        "date": "2022-12-27",
+        "time": "12:19:43 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROLISON RD #1 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "FF2207488",
+        "date": "2022-12-27",
+        "time": "12:16:52 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "352 SHAW RD ,SSF",
+        "latitude": 37.6369603671728,
+        "longitude": -122.406802494407,
+        "units": ">E51"
+    },
+    {
+        "id": "DF2202235",
+        "date": "2022-12-27",
+        "time": "12:13:05 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PESCADERO CREEK RD #GAS ,PES",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E59"
+    },
+    {
+        "id": "SF2215537",
+        "date": "2022-12-27",
+        "time": "12:09:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2213873",
+        "date": "2022-12-27",
+        "time": "12:07:12 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ASPEN DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "SF2215536",
         "date": "2022-12-27",
         "time": "12:02:34 PM",
@@ -8,29 +74,7 @@
         "location": "CRYSTAL CT ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "MF2210214",
-        "date": "2022-12-27",
-        "time": "12:02:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1050 MYRTLE ST ,EPA",
-        "latitude": 37.4629373382795,
-        "longitude": -122.131838824994,
-        "units": "?E2"
-    },
-    {
-        "id": "CF2208448",
-        "date": "2022-12-27",
-        "time": "12:00:59 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "577 AIRPORT BLVD ,BRM",
-        "latitude": 37.588998812315,
-        "longitude": -122.341439557402,
-        "units": ""
+        "units": ">E26"
     },
     {
         "id": "NF2213872",
@@ -41,7 +85,7 @@
         "location": "FOOTHILL DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "CF2208447",
@@ -55,28 +99,6 @@
         "units": ">T34"
     },
     {
-        "id": "MF2210212",
-        "date": "2022-12-27",
-        "time": "11:55:28 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "85 WILLOW RD ,MNP",
-        "latitude": 37.4543375730096,
-        "longitude": -122.165235112008,
-        "units": ">E1"
-    },
-    {
-        "id": "CF2208446",
-        "date": "2022-12-27",
-        "time": "11:51:34 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KINGSWOOD DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
-    },
-    {
         "id": "NF2213871",
         "date": "2022-12-27",
         "time": "11:51:19 AM",
@@ -85,29 +107,7 @@
         "location": "ORIENTE ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "CF2208445",
-        "date": "2022-12-27",
-        "time": "11:48:57 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MYRTLE RD #218 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2215535",
-        "date": "2022-12-27",
-        "time": "11:46:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ANNA ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ""
     },
     {
         "id": "MF2210211",
@@ -129,6 +129,6 @@
         "location": "151 SANTA CLARA ST ,BRS",
         "latitude": 37.6833123018536,
         "longitude": -122.39865871332,
-        "units": "CM31X2 >E65 >BC20 >E93 ?TAC35>Q62 >E81"
+        "units": "CM31X2 >BC20 >E93 ?TAC35 >E81"
     }
 ]
