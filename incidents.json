@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2213835",
+        "date": "2022-12-27",
+        "time": "1:00:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "SKYLINE BLVD / HICKEY BLVD",
+        "latitude": 37.6605286950956,
+        "longitude": -122.475791872586,
+        "units": "E94"
+    },
+    {
+        "id": "CF2208415",
+        "date": "2022-12-27",
+        "time": "12:53:03 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N ROLLINS RD ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "RF2213105",
+        "date": "2022-12-27",
+        "time": "12:43:33 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
         "id": "NF2213834",
         "date": "2022-12-27",
         "time": "12:37:13 AM",
@@ -8,18 +41,7 @@
         "location": "VALE ST #51 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "MF2210192",
-        "date": "2022-12-27",
-        "time": "12:37:04 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
+        "units": ">E92"
     },
     {
         "id": "SF2215499",
@@ -41,7 +63,7 @@
         "location": "NB 101 / SO WILLOW RD",
         "latitude": 37.4655873647658,
         "longitude": -122.149382461131,
-        "units": "CM11X4 ?TAC15 >T1 >R77 >E77>BC101 >E1"
+        "units": "CM11X4 ?TAC15 >E77 >BC101 E1"
     },
     {
         "id": "SF2215498",
@@ -52,39 +74,6 @@
         "location": "N EL CAMINO REAL #9 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "MF2210188",
-        "date": "2022-12-27",
-        "time": "12:19:37 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "55 NEWELL RD #105 ,EPA",
-        "latitude": 37.4564109892744,
-        "longitude": -122.137347009065,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2215497",
-        "date": "2022-12-27",
-        "time": "12:17:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N FREMONT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2213104",
-        "date": "2022-12-27",
-        "time": "12:13:08 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #2116 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ""
     }
 ]
