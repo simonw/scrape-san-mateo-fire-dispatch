@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2208456",
+        "date": "2022-12-27",
+        "time": "3:25:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HILLSIDE DR #3 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E38"
+    },
+    {
+        "id": "NF2213881",
+        "date": "2022-12-27",
+        "time": "3:25:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WASHINGTON ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E92"
+    },
+    {
+        "id": "RF2213134",
+        "date": "2022-12-27",
+        "time": "3:17:12 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TRAIN TRACK ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "MF2210217",
+        "date": "2022-12-27",
+        "time": "3:16:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD #33 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "CF2208454",
         "date": "2022-12-27",
         "time": "3:00:54 PM",
@@ -8,18 +52,7 @@
         "location": "30 BAYBERRY PL ,HIL",
         "latitude": 37.5682806969127,
         "longitude": -122.358237674534,
-        "units": "T34"
-    },
-    {
-        "id": "CF2208453",
-        "date": "2022-12-27",
-        "time": "2:58:07 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #607 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">T34"
     },
     {
         "id": "SF2215546",
@@ -37,22 +70,11 @@
         "date": "2022-12-27",
         "time": "2:54:31 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
+        "category": "Full assignment response",
         "location": "20 DAVIS DR ,BLM",
         "latitude": 37.5106158824389,
         "longitude": -122.30702677179,
-        "units": ">E15"
-    },
-    {
-        "id": "SF2215544",
-        "date": "2022-12-27",
-        "time": "2:45:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": "?TAC15 >E17 CM11X3 >E15 >T17>BC11 >T23 >E27"
     },
     {
         "id": "BF2204183",
@@ -63,40 +85,7 @@
         "location": "NATIONAL AVE #429 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "BF2204182",
-        "date": "2022-12-27",
-        "time": "2:40:25 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BOARDWALK WAY #A ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "FF2207494",
-        "date": "2022-12-27",
-        "time": "2:39:03 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "S AIRPORT BLVD / N ACCESS RD",
-        "latitude": 37.6391470084715,
-        "longitude": -122.401196848586,
-        "units": ">BC17 >E51 ?TAC35 >Q62 CM31X1>E61"
-    },
-    {
-        "id": "CF2208452",
-        "date": "2022-12-27",
-        "time": "2:36:47 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #106A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
+        "units": "T51"
     },
     {
         "id": "DF2202236",
@@ -108,16 +97,5 @@
         "latitude": 37.2922946149935,
         "longitude": -122.244162791789,
         "units": ">E58 >E57"
-    },
-    {
-        "id": "FF2207492",
-        "date": "2022-12-27",
-        "time": "2:08:00 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CIRCLE CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
     }
 ]
