@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2213863",
+        "date": "2022-12-27",
+        "time": "10:25:23 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WESTPARK DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E95"
+    },
+    {
+        "id": "SF2215525",
+        "date": "2022-12-27",
+        "time": "10:21:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 40TH AVE #A ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "DF2202232",
+        "date": "2022-12-27",
+        "time": "10:07:04 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SCENIC DR ,PAL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "NF2213860",
         "date": "2022-12-27",
         "time": "10:00:17 AM",
@@ -8,18 +41,7 @@
         "location": "TEMPLETON AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "SF2215524",
-        "date": "2022-12-27",
-        "time": "9:56:11 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO DORE AVE",
-        "latitude": 37.5750510119517,
-        "longitude": -122.318419501939,
-        "units": ">E24"
+        "units": ">E92"
     },
     {
         "id": "SF2215523",
@@ -33,17 +55,6 @@
         "units": ">E28"
     },
     {
-        "id": "SF2215522",
-        "date": "2022-12-27",
-        "time": "9:52:20 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "3000 BLOCK BEVERLY ST ,SMO",
-        "latitude": 37.5332681307098,
-        "longitude": -122.315164700417,
-        "units": ">E23"
-    },
-    {
         "id": "BF2204178",
         "date": "2022-12-27",
         "time": "9:38:44 AM",
@@ -55,61 +66,6 @@
         "units": ">E52"
     },
     {
-        "id": "SF2215521",
-        "date": "2022-12-27",
-        "time": "9:33:48 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "WB 92 / WO ALAMEDA DE LAS PULGAS",
-        "latitude": 37.5420500288304,
-        "longitude": -122.329695266347,
-        "units": "CM21X3 >E25 ?TAC26 >T21"
-    },
-    {
-        "id": "NF2213858",
-        "date": "2022-12-27",
-        "time": "9:28:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SURREY CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "RF2213123",
-        "date": "2022-12-27",
-        "time": "9:24:51 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR #202 ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "CF2208433",
-        "date": "2022-12-27",
-        "time": "9:24:17 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALTO LOMA ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E38"
-    },
-    {
-        "id": "MF2210206",
-        "date": "2022-12-27",
-        "time": "9:19:26 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAND HILL RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E4"
-    },
-    {
         "id": "RF2213117",
         "date": "2022-12-27",
         "time": "9:13:54 AM",
@@ -119,38 +75,5 @@
         "latitude": 37.4816223562494,
         "longitude": -122.198603710211,
         "units": "?TAC15 CM11X1 >E9 >T9 >E3>BC3 >E5"
-    },
-    {
-        "id": "WF2201941",
-        "date": "2022-12-27",
-        "time": "8:53:08 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "103 RAMONA RD ,LTW",
-        "latitude": 37.3511773809479,
-        "longitude": -122.197822568886,
-        "units": ">E19"
-    },
-    {
-        "id": "WF2201939",
-        "date": "2022-12-27",
-        "time": "8:24:27 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "1475 PORTOLA RD ,WDS",
-        "latitude": 37.3936522159221,
-        "longitude": -122.245959147071,
-        "units": ">E8"
-    },
-    {
-        "id": "DF2202227",
-        "date": "2022-12-27",
-        "time": "7:52:02 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "9000 PORTOLA STATE PARK RD ,SOS",
-        "latitude": 37.2610635152212,
-        "longitude": -122.21747314996,
-        "units": ">R57"
     }
 ]
