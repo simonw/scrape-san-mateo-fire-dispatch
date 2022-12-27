@@ -1,14 +1,102 @@
 [
     {
+        "id": "FF2207490",
+        "date": "2022-12-27",
+        "time": "12:37:28 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "WESTBOROUGH BLVD / JUNIPERO SERRA BLVD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "NF2213876",
+        "date": "2022-12-27",
+        "time": "12:37:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST #424 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "NF2213875",
+        "date": "2022-12-27",
+        "time": "12:35:17 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #112B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "MF2210215",
+        "date": "2022-12-27",
+        "time": "12:34:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2215538",
+        "date": "2022-12-27",
+        "time": "12:34:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1241 E HILLSDALE BLVD ,FCY",
+        "latitude": 37.5679487966639,
+        "longitude": -122.267541044686,
+        "units": ">E28"
+    },
+    {
+        "id": "NF2213874",
+        "date": "2022-12-27",
+        "time": "12:33:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "REICHLING AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "HF2203084",
+        "date": "2022-12-27",
+        "time": "12:29:06 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ORVAL AVE ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "FF2207489",
+        "date": "2022-12-27",
+        "time": "12:28:09 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTWOOD DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "RF2213130",
         "date": "2022-12-27",
         "time": "12:20:18 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Trash fire",
-        "location": "487 SEAPORT CT ,RCY",
+        "location": "489 SEAPORT CT ,RCY",
         "latitude": 37.504317998881,
         "longitude": -122.212547200022,
-        "units": "E11"
+        "units": ">E11"
     },
     {
         "id": "RF2213129",
@@ -19,18 +107,7 @@
         "location": "ROLISON RD #1 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
-    },
-    {
-        "id": "FF2207488",
-        "date": "2022-12-27",
-        "time": "12:16:52 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "352 SHAW RD ,SSF",
-        "latitude": 37.6369603671728,
-        "longitude": -122.406802494407,
-        "units": ">E51"
+        "units": ">E5"
     },
     {
         "id": "DF2202235",
@@ -52,73 +129,7 @@
         "location": "N HUMBOLDT ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2213873",
-        "date": "2022-12-27",
-        "time": "12:07:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ASPEN DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2215536",
-        "date": "2022-12-27",
-        "time": "12:02:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRYSTAL CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "NF2213872",
-        "date": "2022-12-27",
-        "time": "11:59:01 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FOOTHILL DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "CF2208447",
-        "date": "2022-12-27",
-        "time": "11:55:48 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #108 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "NF2213871",
-        "date": "2022-12-27",
-        "time": "11:51:19 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ORIENTE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
         "units": ""
-    },
-    {
-        "id": "MF2210211",
-        "date": "2022-12-27",
-        "time": "11:37:39 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "949 FREMONT ST ,MNP",
-        "latitude": 37.4466440631949,
-        "longitude": -122.186934011399,
-        "units": ">E6"
     },
     {
         "id": "NF2213869",
