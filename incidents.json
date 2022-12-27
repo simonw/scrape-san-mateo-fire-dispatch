@@ -1,5 +1,115 @@
 [
     {
+        "id": "SF2215517",
+        "date": "2022-12-27",
+        "time": "9:02:00 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "NF2213856",
+        "date": "2022-12-27",
+        "time": "9:01:36 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SURREY CT ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "LF2201142",
+        "date": "2022-12-27",
+        "time": "8:53:39 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "F ST ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "WF2201941",
+        "date": "2022-12-27",
+        "time": "8:53:08 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "103 RAMONA RD ,LTW",
+        "latitude": 37.3511773809479,
+        "longitude": -122.197822568886,
+        "units": ">E19"
+    },
+    {
+        "id": "SF2215516",
+        "date": "2022-12-27",
+        "time": "8:48:48 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N AMPHLETT BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "HF2203081",
+        "date": "2022-12-27",
+        "time": "8:47:34 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "100 ORVAL AVE ,MBH",
+        "latitude": 37.5181640760608,
+        "longitude": -122.512206831815,
+        "units": ">E44"
+    },
+    {
+        "id": "MF2210205",
+        "date": "2022-12-27",
+        "time": "8:46:43 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "FF2207485",
+        "date": "2022-12-27",
+        "time": "8:46:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "3721 CARTER DR ,SSF",
+        "latitude": 37.6450722962752,
+        "longitude": -122.468192244099,
+        "units": ">E64"
+    },
+    {
+        "id": "RF2213115",
+        "date": "2022-12-27",
+        "time": "8:45:38 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1201 BREWSTER AVE ,RCY",
+        "latitude": 37.4841504907955,
+        "longitude": -122.236471855173,
+        "units": "CM11X2 ?TAC16 >E10"
+    },
+    {
+        "id": "CF2208431",
+        "date": "2022-12-27",
+        "time": "8:45:20 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #298A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "RF2213114",
         "date": "2022-12-27",
         "time": "8:43:16 AM",
@@ -8,7 +118,7 @@
         "location": "MAPLE ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ""
     },
     {
         "id": "MF2210203",
@@ -30,40 +140,7 @@
         "location": "501 PORTOLA RD ,PVY",
         "latitude": 37.3724798871499,
         "longitude": -122.22117470823,
-        "units": "SQ407 E19 E7 E4 BC2?TAC15 ?CM11X3"
-    },
-    {
-        "id": "CF2208430",
-        "date": "2022-12-27",
-        "time": "8:39:02 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2213854",
-        "date": "2022-12-27",
-        "time": "8:38:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY DR #29 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "CF2208429",
-        "date": "2022-12-27",
-        "time": "8:32:38 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AIRPORT BLVD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ""
     },
     {
         "id": "WF2201939",
@@ -85,18 +162,7 @@
         "location": "562 PLACITAS AVE ,NFO",
         "latitude": 37.4737585016193,
         "longitude": -122.195146941462,
-        "units": "*>E5"
-    },
-    {
-        "id": "MF2210201",
-        "date": "2022-12-27",
-        "time": "8:22:16 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": ""
     },
     {
         "id": "DF2202228",
