@@ -1,5 +1,60 @@
 [
     {
+        "id": "BF2204192",
+        "date": "2022-12-28",
+        "time": "11:34:37 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "875 W ANGUS AVE ,SNB",
+        "latitude": 37.624324173762,
+        "longitude": -122.415603339597,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2215579",
+        "date": "2022-12-28",
+        "time": "11:33:47 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "324 LAKESIDE DR ,FCY",
+        "latitude": 37.5661907119169,
+        "longitude": -122.283549339135,
+        "units": ">E28 BC5 T21 ?TAC25 ?CM21X3"
+    },
+    {
+        "id": "SF2215578",
+        "date": "2022-12-28",
+        "time": "11:33:25 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CUMBERLAND CT ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2213153",
+        "date": "2022-12-28",
+        "time": "11:31:55 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DEBBIE PL ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "RF2213152",
+        "date": "2022-12-28",
+        "time": "11:26:04 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "SF2215577",
         "date": "2022-12-28",
         "time": "11:17:29 AM",
@@ -8,7 +63,7 @@
         "location": "222 6TH AVE ,SMO",
         "latitude": 37.5629442561836,
         "longitude": -122.320435954721,
-        "units": ">CM21X4 BC5 E25 ?TAC25 E21T23 E24"
+        "units": ">E21 >E24"
     },
     {
         "id": "RF2213151",
@@ -22,39 +77,6 @@
         "units": ">E12"
     },
     {
-        "id": "FF2207511",
-        "date": "2022-12-28",
-        "time": "11:11:40 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA VISTA DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2215576",
-        "date": "2022-12-28",
-        "time": "11:10:11 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WILLIAMS LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "RF2213150",
-        "date": "2022-12-28",
-        "time": "11:04:35 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY HARBOUR DR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
         "id": "FF2207510",
         "date": "2022-12-28",
         "time": "11:00:24 AM",
@@ -64,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E64"
-    },
-    {
-        "id": "SF2215574",
-        "date": "2022-12-28",
-        "time": "10:53:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Vehicle fire",
-        "location": "300 EL CAMINO REAL ,BLM",
-        "latitude": 37.5278207258592,
-        "longitude": -122.285780076166,
-        "units": ">E14"
     }
 ]
