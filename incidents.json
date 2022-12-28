@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2210228",
+        "date": "2022-12-27",
+        "time": "11:17:14 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2050 UNIVERSITY AVE ,EPA",
+        "latitude": 37.4605929271487,
+        "longitude": -122.142766162559,
+        "units": ">BC101 >T2 E1 E5 R77E11 CM11X4 ?TAC15"
+    },
+    {
+        "id": "MF2210227",
+        "date": "2022-12-27",
+        "time": "11:07:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WISTERIA DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "DF2202245",
         "date": "2022-12-27",
         "time": "11:04:41 PM",
@@ -8,7 +30,7 @@
         "location": "ADELINE DR ,BRH",
         "latitude": null,
         "longitude": null,
-        "units": "?E35"
+        "units": ""
     },
     {
         "id": "MF2210226",
@@ -19,7 +41,7 @@
         "location": "HAMILTON AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E77"
     },
     {
         "id": "FF2207504",
@@ -30,7 +52,7 @@
         "location": "CYPRESS AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
+        "units": ""
     },
     {
         "id": "NF2213896",
@@ -41,39 +63,6 @@
         "location": "1109 BRITTANY LN ,DCY",
         "latitude": 37.7034557360687,
         "longitude": -122.443945835606,
-        "units": "?E93"
-    },
-    {
-        "id": "CF2208468",
-        "date": "2022-12-27",
-        "time": "10:53:51 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WALNUT AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2213895",
-        "date": "2022-12-27",
-        "time": "10:50:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "NF2213894",
-        "date": "2022-12-27",
-        "time": "10:39:38 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BAYBERRY CIR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E93"
     }
 ]
