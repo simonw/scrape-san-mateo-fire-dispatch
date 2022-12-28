@@ -1,69 +1,36 @@
 [
     {
-        "id": "BF2204192",
+        "id": "MF2210241",
         "date": "2022-12-28",
-        "time": "11:34:37 AM",
+        "time": "11:59:27 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "233 ALAMEDA DE LAS PULGAS ,ATN",
+        "latitude": 37.4391874643581,
+        "longitude": -122.215461857155,
+        "units": "E4"
+    },
+    {
+        "id": "BF2204193",
+        "date": "2022-12-28",
+        "time": "11:57:52 AM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "875 W ANGUS AVE ,SNB",
-        "latitude": 37.624324173762,
-        "longitude": -122.415603339597,
+        "category": "Fire alarm",
+        "location": "2 PACIFIC BAY CIR ,SNB",
+        "latitude": 37.6384938502782,
+        "longitude": -122.464373883365,
+        "units": ">E64"
+    },
+    {
+        "id": "CF2208479",
+        "date": "2022-12-28",
+        "time": "11:52:47 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "752 SANTA MARGARITA AVE ,MLB",
+        "latitude": 37.6074333711437,
+        "longitude": -122.412879429047,
         "units": ">E51"
-    },
-    {
-        "id": "SF2215579",
-        "date": "2022-12-28",
-        "time": "11:33:47 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "324 LAKESIDE DR ,FCY",
-        "latitude": 37.5661907119169,
-        "longitude": -122.283549339135,
-        "units": ">E28 BC5 T21 ?TAC25 ?CM21X3"
-    },
-    {
-        "id": "SF2215578",
-        "date": "2022-12-28",
-        "time": "11:33:25 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CUMBERLAND CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "RF2213153",
-        "date": "2022-12-28",
-        "time": "11:31:55 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DEBBIE PL ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "RF2213152",
-        "date": "2022-12-28",
-        "time": "11:26:04 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "SF2215577",
-        "date": "2022-12-28",
-        "time": "11:17:29 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "222 6TH AVE ,SMO",
-        "latitude": 37.5629442561836,
-        "longitude": -122.320435954721,
-        "units": ">E21 >E24"
     },
     {
         "id": "RF2213151",
@@ -75,16 +42,5 @@
         "latitude": 37.4762437802832,
         "longitude": -122.244697669762,
         "units": ">E12"
-    },
-    {
-        "id": "FF2207510",
-        "date": "2022-12-28",
-        "time": "11:00:24 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "SHANNON DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
     }
 ]
