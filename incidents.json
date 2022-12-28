@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2213141",
+        "date": "2022-12-27",
+        "time": "8:19:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "1528 HUDSON ST ,RCY",
+        "latitude": 37.4694226608454,
+        "longitude": -122.225962176162,
+        "units": ">E10"
+    },
+    {
+        "id": "BF2204185",
+        "date": "2022-12-27",
+        "time": "8:18:00 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WENTWORTH DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "NF2213891",
+        "date": "2022-12-27",
+        "time": "8:07:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "JUNIPERO SERRA BLVD / D ST",
+        "latitude": 37.6839193761641,
+        "longitude": -122.470710144059,
+        "units": ">E94"
+    },
+    {
         "id": "NF2213890",
         "date": "2022-12-27",
         "time": "8:03:45 PM",
@@ -8,7 +41,7 @@
         "location": "365 LAKESHIRE DR ,DCY",
         "latitude": 37.674797678804,
         "longitude": -122.483079609847,
-        "units": "E95"
+        "units": ">E95"
     },
     {
         "id": "FF2207501",
@@ -19,39 +52,6 @@
         "location": "LN ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "HF2203088",
-        "date": "2022-12-27",
-        "time": "7:56:06 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ARNOLD WAY #304 ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "FF2207500",
-        "date": "2022-12-27",
-        "time": "7:54:12 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SISTER CITIES BLVD / S SAN FRANCISCO DR",
-        "latitude": 37.665743457045,
-        "longitude": -122.40507996293,
-        "units": ">E65 TAC35 >Q62 CM31X4"
-    },
-    {
-        "id": "RF2213140",
-        "date": "2022-12-27",
-        "time": "7:54:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "WOODSIDE RD / HUDSON ST",
-        "latitude": 37.4694723261136,
-        "longitude": -122.223516406887,
-        "units": ">E10"
+        "units": ""
     }
 ]
