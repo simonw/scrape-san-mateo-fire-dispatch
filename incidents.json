@@ -1,14 +1,14 @@
 [
     {
-        "id": "MF2210241",
+        "id": "HF2203091",
         "date": "2022-12-28",
-        "time": "11:59:27 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "233 ALAMEDA DE LAS PULGAS ,ATN",
-        "latitude": 37.4391874643581,
-        "longitude": -122.215461857155,
-        "units": "E4"
+        "time": "12:10:47 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "700 JOHNSTON ST ,HMB",
+        "latitude": 37.4613630860168,
+        "longitude": -122.428893471311,
+        "units": ">E40"
     },
     {
         "id": "BF2204193",
@@ -19,18 +19,7 @@
         "location": "2 PACIFIC BAY CIR ,SNB",
         "latitude": 37.6384938502782,
         "longitude": -122.464373883365,
-        "units": ">E64"
-    },
-    {
-        "id": "CF2208479",
-        "date": "2022-12-28",
-        "time": "11:52:47 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "752 SANTA MARGARITA AVE ,MLB",
-        "latitude": 37.6074333711437,
-        "longitude": -122.412879429047,
-        "units": ">E51"
+        "units": ">E52 >E64"
     },
     {
         "id": "RF2213151",
@@ -41,6 +30,6 @@
         "location": "JAMES AVE / NEVADA ST",
         "latitude": 37.4762437802832,
         "longitude": -122.244697669762,
-        "units": ">E12"
+        "units": ">E10 >E12"
     }
 ]
