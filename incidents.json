@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2213175",
+        "date": "2022-12-28",
+        "time": "10:22:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOWLAND ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "MF2210254",
+        "date": "2022-12-28",
+        "time": "10:11:14 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "REGAL CT ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "RF2213174",
         "date": "2022-12-28",
         "time": "10:05:49 PM",
@@ -8,7 +30,7 @@
         "location": "HUDSON ST / JEFFERSON AVE",
         "latitude": 37.4775230834107,
         "longitude": -122.236410598754,
-        "units": "?TAC15 ?CM11X3 ?BC3 ?E10 ?T9"
+        "units": "?CM11X3 ?TAC15 >T9 >BC3 >E10"
     },
     {
         "id": "FF2207522",
@@ -19,7 +41,7 @@
         "location": "277 WATTIS WAY ,SSF",
         "latitude": 37.6472967386986,
         "longitude": -122.402248051642,
-        "units": ">Q62"
+        "units": ""
     },
     {
         "id": "NF2213932",
@@ -44,17 +66,6 @@
         "units": ">E95"
     },
     {
-        "id": "NF2213930",
-        "date": "2022-12-28",
-        "time": "9:45:52 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WESTMONT DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "CF2208496",
         "date": "2022-12-28",
         "time": "9:39:49 PM",
@@ -63,6 +74,6 @@
         "location": "990 MAGNOLIA AVE #1 ,MLB",
         "latitude": 37.6046590919624,
         "longitude": -122.397947503487,
-        "units": ">E37"
+        "units": ""
     }
 ]
