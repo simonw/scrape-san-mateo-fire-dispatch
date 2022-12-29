@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2210260",
+        "date": "2022-12-29",
+        "time": "10:23:09 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN MATEO DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E6"
+    },
+    {
+        "id": "RF2213192",
+        "date": "2022-12-29",
+        "time": "10:13:20 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "HF2203096",
+        "date": "2022-12-29",
+        "time": "10:12:30 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "351 7TH ST ,MON",
+        "latitude": 37.5389249508718,
+        "longitude": -122.50811718252,
+        "units": ">E44"
+    },
+    {
+        "id": "WF2201952",
+        "date": "2022-12-29",
+        "time": "10:09:40 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEAR GULCH RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E58 CM11X2 ?TAC15 R56"
+    },
+    {
         "id": "NF2213951",
         "date": "2022-12-29",
         "time": "10:04:55 AM",
@@ -8,7 +52,7 @@
         "location": "SEACREST CT ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": ""
     },
     {
         "id": "SF2215606",
@@ -19,72 +63,6 @@
         "location": "601 LAUREL AVE ,SMO",
         "latitude": 37.5626701440177,
         "longitude": -122.321285039859,
-        "units": "E32 E25 BC5 T23 E23CM21X2 ?TAC25"
-    },
-    {
-        "id": "SF2215605",
-        "date": "2022-12-29",
-        "time": "9:59:08 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S SAN MATEO DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2213191",
-        "date": "2022-12-29",
-        "time": "9:56:47 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1945 BIRCH AVE ,SNC",
-        "latitude": 37.4960619082818,
-        "longitude": -122.260954948093,
-        "units": ">E13"
-    },
-    {
-        "id": "RF2213190",
-        "date": "2022-12-29",
-        "time": "9:50:45 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMPSHIRE AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "SF2215604",
-        "date": "2022-12-29",
-        "time": "9:48:48 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S CLAREMONT ST #A ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "RF2213189",
-        "date": "2022-12-29",
-        "time": "9:48:02 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "BF2204206",
-        "date": "2022-12-29",
-        "time": "7:59:55 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Structure fire",
-        "location": "3574 CRESTMOOR DR ,SNB",
-        "latitude": 37.6076469299935,
-        "longitude": -122.430743325258,
-        "units": ">PR16A"
+        "units": "CM21X2 ?TAC25 >T23"
     }
 ]
