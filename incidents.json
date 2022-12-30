@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2207554",
+        "id": "FF2207555",
         "date": "2022-12-30",
-        "time": "5:21:01 AM",
+        "time": "5:30:06 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Fire alarm - smoke detector",
-        "location": "1300 VETERANS BLVD ,SSF",
-        "latitude": 37.6659729323026,
-        "longitude": -122.394435704439,
-        "units": "E65"
+        "location": "400 CYPRESS AVE ,SSF",
+        "latitude": 37.6561807464064,
+        "longitude": -122.407657929677,
+        "units": ">Q62"
+    },
+    {
+        "id": "MF2210283",
+        "date": "2022-12-30",
+        "time": "5:28:14 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PALO VERDE AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "HF2203101",
@@ -19,7 +30,7 @@
         "location": "CABRILLO HWY S / MEYN RD",
         "latitude": 37.3846082054412,
         "longitude": -122.404850540257,
-        "units": "BC10 E40 E41 CM41X4 ?TAC45"
+        "units": ">E40"
     },
     {
         "id": "RF2213224",
@@ -30,7 +41,7 @@
         "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "E9"
     },
     {
         "id": "CF2208531",
@@ -41,6 +52,6 @@
         "location": "1160 BURLINGAME AVE ,BRM",
         "latitude": 37.5794651083692,
         "longitude": -122.346108453476,
-        "units": ">E32 >E21 >T34 >BC8 >E34?TAC25 ?CM21X3"
+        "units": ">T34 >BC8 >E34 ?TAC25 ?CM21X3"
     }
 ]
