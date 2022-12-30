@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2203104",
+        "date": "2022-12-30",
+        "time": "8:43:03 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAND DOLLAR CT ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "MF2210289",
+        "date": "2022-12-30",
+        "time": "8:31:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BOHANNON DR #SUITE 100 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "NF2213993",
+        "date": "2022-12-30",
+        "time": "8:30:42 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "SKYLINE BLVD / WESTMOOR AVE",
+        "latitude": 37.6833409160063,
+        "longitude": -122.489100467712,
+        "units": ">E95 >T95 CM31X1"
+    },
+    {
         "id": "SF2215640",
         "date": "2022-12-30",
         "time": "8:28:52 AM",
@@ -8,7 +41,7 @@
         "location": "ALAMEDA DE LAS PULGAS #329 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E15"
+        "units": ">E15"
     },
     {
         "id": "SF2215639",
@@ -19,18 +52,7 @@
         "location": "530 HARBOR BLVD ,BLM",
         "latitude": 37.5193503228163,
         "longitude": -122.269730319502,
-        "units": "?E14"
-    },
-    {
-        "id": "SF2215638",
-        "date": "2022-12-30",
-        "time": "8:26:45 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORES ST #113A ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
+        "units": ">E14"
     },
     {
         "id": "SF2215637",
@@ -41,40 +63,7 @@
         "location": "10 DE SABLA RD ,SMO",
         "latitude": 37.565722695056,
         "longitude": -122.328848104908,
-        "units": "E21 BC5 E32 CM21X1 T21E24 ?TAC25 ?BC8"
-    },
-    {
-        "id": "HF2203103",
-        "date": "2022-12-30",
-        "time": "8:21:59 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARINE BLVD #306A ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "MF2210288",
-        "date": "2022-12-30",
-        "time": "8:17:40 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2208535",
-        "date": "2022-12-30",
-        "time": "8:08:24 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1335 EL CAMINO REAL ,BRM",
-        "latitude": 37.586843732582,
-        "longitude": -122.371459117893,
-        "units": ">E34"
+        "units": "CM21X1 ?TAC25 >E21 >T21"
     },
     {
         "id": "HF2203102",
@@ -85,6 +74,6 @@
         "location": "MARINE BLVD #305C ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
+        "units": ""
     }
 ]
