@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2213984",
+        "date": "2022-12-29",
+        "time": "10:56:00 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "S MAYFAIR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "NF2213983",
+        "date": "2022-12-29",
+        "time": "10:47:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "BAYSHORE BLVD / GUADALUPE CANYON PKWY",
+        "latitude": 37.6926439056086,
+        "longitude": -122.404597309706,
+        "units": ">E81"
+    },
+    {
+        "id": "SF2215624",
+        "date": "2022-12-29",
+        "time": "10:46:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "SF2215623",
         "date": "2022-12-29",
         "time": "10:41:29 PM",
@@ -8,29 +41,7 @@
         "location": "CARLMONT DR #111B ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "NF2213982",
-        "date": "2022-12-29",
-        "time": "10:28:54 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2204211",
-        "date": "2022-12-29",
-        "time": "10:20:49 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MASTICK AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">E15"
     },
     {
         "id": "RF2213219",
@@ -41,29 +52,7 @@
         "location": "50 BOTANY CT ,EML",
         "latitude": 37.4632397319581,
         "longitude": -122.256310088002,
-        "units": "T9 CM11X1 >E19"
-    },
-    {
-        "id": "SF2215622",
-        "date": "2022-12-29",
-        "time": "10:10:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "851 N SAN MATEO DR ,SMO",
-        "latitude": 37.5763898766932,
-        "longitude": -122.338484024632,
-        "units": ""
-    },
-    {
-        "id": "SF2215621",
-        "date": "2022-12-29",
-        "time": "10:07:52 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MARLIN AVE ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM11X1 >T9 >E19"
     },
     {
         "id": "WF2201956",
@@ -85,6 +74,6 @@
         "location": "302 CANOE CT ,RWS",
         "latitude": 37.5392444386746,
         "longitude": -122.249860438904,
-        "units": ">PR3E CM11X2 TAC15 >E20 >T23"
+        "units": ">PR3E CM11X2 TAC15"
     }
 ]
