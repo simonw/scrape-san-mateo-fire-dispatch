@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2210279",
+        "id": "NF2213986",
         "date": "2022-12-30",
-        "time": "12:43:19 AM",
+        "time": "1:01:21 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "455 HICKEY BLVD ,DCY",
+        "latitude": 37.6636313452618,
+        "longitude": -122.467515336597,
+        "units": ">E94"
+    },
+    {
+        "id": "MF2210280",
+        "date": "2022-12-30",
+        "time": "12:57:17 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "RALMAR AVE ,EPA",
+        "location": "CRANE ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
+        "units": ">E6"
+    },
+    {
+        "id": "SF2215628",
+        "date": "2022-12-30",
+        "time": "12:49:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "19 9TH AVE ,SMO",
+        "latitude": 37.5599251897071,
+        "longitude": -122.321511228977,
+        "units": "*>E21"
     },
     {
         "id": "SF2215627",
@@ -19,29 +41,7 @@
         "location": "DIAZ LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "SF2215626",
-        "date": "2022-12-30",
-        "time": "12:30:56 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "RF2213220",
-        "date": "2022-12-30",
-        "time": "12:20:14 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MACARTHUR AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": ">E29"
     },
     {
         "id": "DF2202256",
@@ -52,6 +52,6 @@
         "location": "3533 CALL BOX ,SOS",
         "latitude": 37.3153830649805,
         "longitude": -122.187878255801,
-        "units": ">E58 TAC15 E7 >BC2 >SQ407>R56 >R57"
+        "units": ">E58 TAC15 E7 >BC2 >R56>R57"
     }
 ]
