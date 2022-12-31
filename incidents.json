@@ -1,14 +1,47 @@
 [
     {
-        "id": "DF2202325",
+        "id": "RF2213393",
         "date": "2022-12-31",
-        "time": "10:22:24 AM",
-        "summary": "County Fire on Control-1",
+        "time": "10:42:04 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "KEBET RIDGE RD ,SKY",
+        "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "R56 ?E7"
+        "units": "?T9"
+    },
+    {
+        "id": "RF2213390",
+        "date": "2022-12-31",
+        "time": "10:36:03 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "830 JEFFERSON AVE ,RCY",
+        "latitude": 37.4857318856983,
+        "longitude": -122.228335558305,
+        "units": ">E9"
+    },
+    {
+        "id": "FF2207582",
+        "date": "2022-12-31",
+        "time": "10:30:28 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 101 / SO S AIRPORT BLVD",
+        "latitude": 37.6433298173213,
+        "longitude": -122.406001905655,
+        "units": ">E51 CM31X2 Q62 BC16 ?TAC35"
+    },
+    {
+        "id": "MF2210343",
+        "date": "2022-12-31",
+        "time": "10:28:47 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GREEN ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "BF2204239",
@@ -19,7 +52,7 @@
         "location": "SAN MATEO AVE / HERMOSA ST",
         "latitude": 37.6345474226578,
         "longitude": -122.411441750275,
-        "units": "T51"
+        "units": ">T51"
     },
     {
         "id": "NF2214042",
@@ -33,28 +66,6 @@
         "units": ">E94"
     },
     {
-        "id": "DF2202324",
-        "date": "2022-12-31",
-        "time": "10:20:36 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO 92",
-        "latitude": 37.5010326373211,
-        "longitude": -122.325975079224,
-        "units": ">E18"
-    },
-    {
-        "id": "SF2215790",
-        "date": "2022-12-31",
-        "time": "10:19:15 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1709 S NORFOLK ST ,SMO",
-        "latitude": 37.5598190823693,
-        "longitude": -122.29717498543,
-        "units": "U21"
-    },
-    {
         "id": "DF2202321",
         "date": "2022-12-31",
         "time": "10:16:39 AM",
@@ -63,7 +74,7 @@
         "location": "SB 280 / NO 92",
         "latitude": 37.5128003426877,
         "longitude": -122.347426465418,
-        "units": "?CM11X2 T34 ?TAC16 BC15 E27E19"
+        "units": "?CM11X2 ?TAC16 >E27"
     },
     {
         "id": "SF2215789",
@@ -75,17 +86,6 @@
         "latitude": 37.5653317528698,
         "longitude": -122.323068651871,
         "units": ">T21"
-    },
-    {
-        "id": "SF2215787",
-        "date": "2022-12-31",
-        "time": "10:09:22 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "NF2214041",
@@ -107,29 +107,18 @@
         "location": "1101 PARK PL ,SMO",
         "latitude": 37.5453469478854,
         "longitude": -122.291502671368,
-        "units": ">T23"
+        "units": ""
     },
     {
-        "id": "DF2202317",
+        "id": "MF2210337",
         "date": "2022-12-31",
-        "time": "10:03:04 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO 92",
-        "latitude": 37.5128003426877,
-        "longitude": -122.347426465418,
-        "units": ">E17 >E15 >T17 >BC11"
-    },
-    {
-        "id": "BF2204238",
-        "date": "2022-12-31",
-        "time": "10:02:56 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO WESTBOROUGH BLVD",
-        "latitude": 37.6422723394194,
-        "longitude": -122.444278435471,
-        "units": ">E51 CM31X1 >BC16 ?TAC36"
+        "time": "9:51:41 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "WOODLAND AVE / EUCLID AVE",
+        "latitude": 37.4584296890617,
+        "longitude": -122.145027209143,
+        "units": ">T2"
     },
     {
         "id": "DF2202312",
@@ -143,6 +132,28 @@
         "units": "E59"
     },
     {
+        "id": "WF2202004",
+        "date": "2022-12-31",
+        "time": "9:37:27 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "LA HONDA RD / SKYWOOD WAY",
+        "latitude": 37.3927322695448,
+        "longitude": -122.261371894566,
+        "units": "?WOFEOC"
+    },
+    {
+        "id": "DF2202307",
+        "date": "2022-12-31",
+        "time": "9:35:59 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1973 CORDILLERAS CT ,EML",
+        "latitude": 37.4732220603385,
+        "longitude": -122.270758798549,
+        "units": ">E18"
+    },
+    {
         "id": "FF2207581",
         "date": "2022-12-31",
         "time": "9:35:48 AM",
@@ -154,6 +165,39 @@
         "units": ">E61"
     },
     {
+        "id": "DF2202305",
+        "date": "2022-12-31",
+        "time": "9:29:12 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "2637 ALPINE RD ,MNP",
+        "latitude": 37.4144693583161,
+        "longitude": -122.190194742452,
+        "units": ">E4"
+    },
+    {
+        "id": "HF2203126",
+        "date": "2022-12-31",
+        "time": "9:29:06 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1000 N CABRILLO HWY ,HMB",
+        "latitude": 37.4745140988646,
+        "longitude": -122.441500598502,
+        "units": "E40"
+    },
+    {
+        "id": "RF2213368",
+        "date": "2022-12-31",
+        "time": "9:27:13 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "MORSE BLVD / EL CAMINO REAL",
+        "latitude": 37.5020025170538,
+        "longitude": -122.253861597735,
+        "units": ""
+    },
+    {
         "id": "DF2202304",
         "date": "2022-12-31",
         "time": "9:26:42 AM",
@@ -162,18 +206,7 @@
         "location": "121 LA HONDA RD ,SKY",
         "latitude": 37.3681289771661,
         "longitude": -122.260929316447,
-        "units": "E58"
-    },
-    {
-        "id": "DF2202303",
-        "date": "2022-12-31",
-        "time": "9:26:07 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "ALPINE RD / SKYLINE BLVD",
-        "latitude": 37.3149197614327,
-        "longitude": -122.18724185588,
-        "units": "?CFE21"
+        "units": ""
     },
     {
         "id": "HF2203124",
@@ -217,7 +250,7 @@
         "location": "1802 HILLMAN AVE ,BLM",
         "latitude": 37.5254813327057,
         "longitude": -122.293829167784,
-        "units": "E2610"
+        "units": ">E2610"
     },
     {
         "id": "DF2202302",
