@@ -1,5 +1,115 @@
 [
     {
+        "id": "WF2201981",
+        "date": "2022-12-31",
+        "time": "7:18:22 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "PORTOLA RD / WOODSIDE RD",
+        "latitude": 37.4072205449607,
+        "longitude": -122.256734445647,
+        "units": "SQ407"
+    },
+    {
+        "id": "RF2213309",
+        "date": "2022-12-31",
+        "time": "7:16:37 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "825 MIDDLEFIELD RD ,RCY",
+        "latitude": 37.4859480705506,
+        "longitude": -122.228764565895,
+        "units": "E9"
+    },
+    {
+        "id": "SF2215738",
+        "date": "2022-12-31",
+        "time": "7:16:08 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "10TH AVE / S AMPHLETT BLVD",
+        "latitude": 37.5657490103564,
+        "longitude": -122.308861230974,
+        "units": "E25"
+    },
+    {
+        "id": "HF2203114",
+        "date": "2022-12-31",
+        "time": "7:15:26 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SEA BREEZE DR ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "SF2215736",
+        "date": "2022-12-31",
+        "time": "7:12:08 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "HARBOR BLVD / OLD COUNTY RD",
+        "latitude": 37.5177461107893,
+        "longitude": -122.27118893365,
+        "units": ">E15 >BC5 >T21 CM11X5 ?TAC16"
+    },
+    {
+        "id": "DF2202284",
+        "date": "2022-12-31",
+        "time": "7:11:01 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "300 EDMONDS RD ,EML",
+        "latitude": 37.4730463132519,
+        "longitude": -122.285988448937,
+        "units": "BC11 >E18"
+    },
+    {
+        "id": "SF2215735",
+        "date": "2022-12-31",
+        "time": "7:07:54 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "S DELAWARE ST / BERMUDA DR",
+        "latitude": 37.5511951521914,
+        "longitude": -122.305147367224,
+        "units": "E27"
+    },
+    {
+        "id": "SF2215734",
+        "date": "2022-12-31",
+        "time": "7:05:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "VINE CT / NASH DR",
+        "latitude": 37.5709859824774,
+        "longitude": -122.301440826017,
+        "units": "E21"
+    },
+    {
+        "id": "DF2202283",
+        "date": "2022-12-31",
+        "time": "7:05:39 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LA HONDA RD / WO SKYLINE BLVD",
+        "latitude": 37.3862682073614,
+        "longitude": -122.266882405039,
+        "units": ">E58 R57"
+    },
+    {
+        "id": "RF2213305",
+        "date": "2022-12-31",
+        "time": "7:04:09 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "1350 JEFFERSON AVE ,RCY",
+        "latitude": 37.4812791218486,
+        "longitude": -122.232623724884,
+        "units": ">E5"
+    },
+    {
         "id": "SF2215732",
         "date": "2022-12-31",
         "time": "7:03:13 AM",
@@ -8,62 +118,29 @@
         "location": "42ND AVE / S EL CAMINO REAL",
         "latitude": 37.5304260014826,
         "longitude": -122.289133069089,
-        "units": "?TAC26 ?CM21X2 ?BC5 ?E23 ?T51"
+        "units": ""
     },
     {
-        "id": "RF2213303",
+        "id": "SF2215731",
         "date": "2022-12-31",
-        "time": "7:00:27 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TAMARACK AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": "E20"
-    },
-    {
-        "id": "WF2201980",
-        "date": "2022-12-31",
-        "time": "6:59:55 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "3967 JEFFERSON AVE ,EML",
-        "latitude": 37.4591156249135,
-        "longitude": -122.262605147582,
-        "units": ">SQ407"
-    },
-    {
-        "id": "RF2213302",
-        "date": "2022-12-31",
-        "time": "6:59:53 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "JEFFERSON AVE / CLEVELAND ST",
-        "latitude": 37.4797412700682,
-        "longitude": -122.233897795394,
-        "units": "E1"
-    },
-    {
-        "id": "RF2213301",
-        "date": "2022-12-31",
-        "time": "6:56:30 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "979 BROADWAY ,RCY",
-        "latitude": 37.4866677820893,
-        "longitude": -122.212076334119,
-        "units": "E77"
-    },
-    {
-        "id": "BF2204230",
-        "date": "2022-12-31",
-        "time": "6:56:19 AM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "7:00:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Traffic accident",
-        "location": "EB 380 / WO 101",
-        "latitude": 37.6340504083676,
-        "longitude": -122.412444495015,
-        "units": ">T95 >BC16 E52 ?TAC36 ?CM31X2"
+        "location": "SB 101 / NO HOLLY ST",
+        "latitude": 37.5193594727245,
+        "longitude": -122.262360666777,
+        "units": ">E24"
+    },
+    {
+        "id": "MF2210312",
+        "date": "2022-12-31",
+        "time": "6:58:19 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "2 FLEUR PL ,ATN",
+        "latitude": 37.4490020823259,
+        "longitude": -122.214905428281,
+        "units": ">E4"
     },
     {
         "id": "RF2213300",
@@ -85,7 +162,29 @@
         "location": "201 CHADBOURNE AVE ,MLB",
         "latitude": 37.5976506801205,
         "longitude": -122.390156263787,
-        "units": "CM21X3 >E37 BC8 T21 ?TAC25"
+        "units": ""
+    },
+    {
+        "id": "RF2213299",
+        "date": "2022-12-31",
+        "time": "6:54:24 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "EL CAMINO REAL / HOLLY ST",
+        "latitude": 37.5085909376319,
+        "longitude": -122.261850909845,
+        "units": "T9"
+    },
+    {
+        "id": "DF2202282",
+        "date": "2022-12-31",
+        "time": "6:53:19 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "2123 EDGEWOOD RD ,EML",
+        "latitude": 37.4741860354254,
+        "longitude": -122.274410972435,
+        "units": ">E10"
     },
     {
         "id": "WF2201978",
@@ -96,84 +195,18 @@
         "location": "WOODSIDE RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
+        "units": ""
     },
     {
-        "id": "RF2213295",
+        "id": "RF2213298",
         "date": "2022-12-31",
-        "time": "6:51:16 AM",
+        "time": "6:49:52 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Public assist, water problem",
-        "location": "1971 CEDAR ST ,SNC",
-        "latitude": 37.4901767235511,
-        "longitude": -122.250567007193,
-        "units": ">E16"
-    },
-    {
-        "id": "RF2213297",
-        "date": "2022-12-31",
-        "time": "6:51:15 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1133 WOODROW ST ,RCY",
-        "latitude": 37.4772576208084,
-        "longitude": -122.22647094612,
-        "units": ">T9"
-    },
-    {
-        "id": "RF2213294",
-        "date": "2022-12-31",
-        "time": "6:49:16 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "702 REDWOOD AVE ,RCY",
-        "latitude": 37.4714684625228,
-        "longitude": -122.229366370725,
-        "units": "E9"
-    },
-    {
-        "id": "SF2215729",
-        "date": "2022-12-31",
-        "time": "6:49:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #622 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2210310",
-        "date": "2022-12-31",
-        "time": "6:49:01 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "2217 PULGAS AVE ,EPA",
-        "latitude": 37.465961601329,
-        "longitude": -122.130457611299,
-        "units": ">T2"
-    },
-    {
-        "id": "WF2201977",
-        "date": "2022-12-31",
-        "time": "6:47:39 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "295 GRANDVIEW DR ,WDS",
-        "latitude": 37.3846367549705,
-        "longitude": -122.257177331147,
-        "units": "R56"
-    },
-    {
-        "id": "HF2203113",
-        "date": "2022-12-31",
-        "time": "6:46:15 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "2810 ALAMEDA AVE ,HMB",
-        "latitude": 37.4887539936066,
-        "longitude": -122.453140993253,
-        "units": ">E41"
+        "location": "2542 BREWSTER AVE ,RCY",
+        "latitude": 37.4770895159522,
+        "longitude": -122.249149952349,
+        "units": "?E16"
     },
     {
         "id": "SF2215728",
@@ -184,95 +217,7 @@
         "location": "623 BRIDGEPORT LN ,FCY",
         "latitude": 37.5460785452376,
         "longitude": -122.268226231567,
-        "units": "T23 >CM21X4 >E26"
-    },
-    {
-        "id": "SF2215726",
-        "date": "2022-12-31",
-        "time": "6:45:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BUENA VISTA AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "SF2215727",
-        "date": "2022-12-31",
-        "time": "6:44:36 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "988 CARTIER LN ,FCY",
-        "latitude": 37.5504639946123,
-        "longitude": -122.265394248001,
-        "units": ">E28"
-    },
-    {
-        "id": "DF2202280",
-        "date": "2022-12-31",
-        "time": "6:41:20 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1879 LEXINGTON AVE ,EIC",
-        "latitude": 37.5187215172672,
-        "longitude": -122.346110972541,
-        "units": ">E17"
-    },
-    {
-        "id": "WF2201976",
-        "date": "2022-12-31",
-        "time": "6:41:14 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "430 SUMMIT SPRINGS RD ,WDS",
-        "latitude": 37.4246052455251,
-        "longitude": -122.274850932159,
-        "units": "E58"
-    },
-    {
-        "id": "BF2204229",
-        "date": "2022-12-31",
-        "time": "6:40:48 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2215725",
-        "date": "2022-12-31",
-        "time": "6:39:39 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "OCEAN VIEW AVE / SHOREVIEW AVE",
-        "latitude": 37.5733759402792,
-        "longitude": -122.306623705132,
-        "units": ""
-    },
-    {
-        "id": "WF2201975",
-        "date": "2022-12-31",
-        "time": "6:39:06 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "3052 WOODSIDE RD ,WDS",
-        "latitude": 37.4298405077942,
-        "longitude": -122.254972879629,
-        "units": ">E4"
-    },
-    {
-        "id": "WF2201974",
-        "date": "2022-12-31",
-        "time": "6:38:44 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "199 MAPACHE DR ,PVY",
-        "latitude": 37.3901317528715,
-        "longitude": -122.228825075187,
-        "units": ">E8"
+        "units": ">CM21X4 >T23 >E26"
     },
     {
         "id": "FF2207576",
@@ -283,18 +228,7 @@
         "location": "S AIRPORT BLVD / GATEWAY BLVD",
         "latitude": 37.6496523660543,
         "longitude": -122.405552372637,
-        "units": ">E61"
-    },
-    {
-        "id": "DF2202279",
-        "date": "2022-12-31",
-        "time": "6:37:22 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "200 EDMONDS RD ,EML",
-        "latitude": 37.4736225535701,
-        "longitude": -122.285667928585,
-        "units": ">E18"
+        "units": ""
     },
     {
         "id": "SF2215724",
@@ -308,28 +242,6 @@
         "units": ">E14"
     },
     {
-        "id": "CF2208568",
-        "date": "2022-12-31",
-        "time": "6:29:17 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Trash fire",
-        "location": "SB 101 FRONTAGE RD / SFO OFF RAMP",
-        "latitude": 37.6263499493009,
-        "longitude": -122.402151281116,
-        "units": ""
-    },
-    {
-        "id": "WF2201973",
-        "date": "2022-12-31",
-        "time": "6:29:01 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "4091 JEFFERSON AVE ,EML",
-        "latitude": 37.4572020292301,
-        "longitude": -122.266922345635,
-        "units": ">E19"
-    },
-    {
         "id": "CF2208567",
         "date": "2022-12-31",
         "time": "6:28:23 AM",
@@ -339,28 +251,6 @@
         "latitude": 37.5581917519239,
         "longitude": -122.349138769407,
         "units": ">E32 >T34 >CM21X1"
-    },
-    {
-        "id": "SF2215721",
-        "date": "2022-12-31",
-        "time": "6:20:29 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "154 ROCK HARBOR LN ,FCY",
-        "latitude": 37.5351680592562,
-        "longitude": -122.271854844954,
-        "units": ""
-    },
-    {
-        "id": "WF2201971",
-        "date": "2022-12-31",
-        "time": "6:20:05 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "590 ALBION AVE ,WDS",
-        "latitude": 37.4396630635142,
-        "longitude": -122.271278351059,
-        "units": ">E12"
     },
     {
         "id": "RF2213281",
@@ -385,28 +275,6 @@
         "units": ">E7"
     },
     {
-        "id": "DF2202278",
-        "date": "2022-12-31",
-        "time": "6:09:22 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1423 ENCHANTED WAY ,EIC",
-        "latitude": 37.5312974946338,
-        "longitude": -122.34363893122,
-        "units": ">T17"
-    },
-    {
-        "id": "NF2214031",
-        "date": "2022-12-31",
-        "time": "5:57:14 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO 1",
-        "latitude": 37.6738400118365,
-        "longitude": -122.468286519171,
-        "units": "CM31X3"
-    },
-    {
         "id": "HF2203109",
         "date": "2022-12-31",
         "time": "5:40:22 AM",
@@ -415,6 +283,6 @@
         "location": "SAN MATEO RD / DIGGES CANYON RD",
         "latitude": 37.4782941534601,
         "longitude": -122.413716895385,
-        "units": ">E40"
+        "units": ""
     }
 ]
