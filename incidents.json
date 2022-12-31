@@ -1,5 +1,60 @@
 [
     {
+        "id": "DF2202366",
+        "date": "2022-12-31",
+        "time": "3:42:15 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "1419 PESCADERO CREEK RD ,PES",
+        "latitude": 37.2509543726965,
+        "longitude": -122.393460709232,
+        "units": "R57 E59 ?TAC16 ?BC10 ?CO57?CO55 ?E17"
+    },
+    {
+        "id": "RF2213487",
+        "date": "2022-12-31",
+        "time": "3:39:01 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "1650 INDUSTRIAL RD ,SNC",
+        "latitude": 37.4985184890229,
+        "longitude": -122.243777791637,
+        "units": "T9 E9 BC3 ?TAC15 ?CM11X4"
+    },
+    {
+        "id": "CF2208649",
+        "date": "2022-12-31",
+        "time": "3:37:57 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "262 TAYLOR BLVD ,MLB",
+        "latitude": 37.6013630983651,
+        "longitude": -122.396050866705,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2214094",
+        "date": "2022-12-31",
+        "time": "3:34:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #309B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "FF2207602",
+        "date": "2022-12-31",
+        "time": "3:26:47 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRAND AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
         "id": "MF2210390",
         "date": "2022-12-31",
         "time": "3:23:40 PM",
@@ -11,6 +66,17 @@
         "units": ">E6"
     },
     {
+        "id": "WF2202034",
+        "date": "2022-12-31",
+        "time": "3:21:42 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "10 MISSION TRAIL RD ,WDS",
+        "latitude": 37.4394479088452,
+        "longitude": -122.263311832684,
+        "units": ">E19"
+    },
+    {
         "id": "WF2202032",
         "date": "2022-12-31",
         "time": "3:20:03 PM",
@@ -19,40 +85,95 @@
         "location": "GREER RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
+        "units": ">BC2 >E7"
     },
     {
-        "id": "FF2207601",
+        "id": "MF2210386",
         "date": "2022-12-31",
-        "time": "3:12:38 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BADEN AVE #131 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "NF2214093",
-        "date": "2022-12-31",
-        "time": "3:09:46 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "3:18:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Public assist, water problem",
-        "location": "950 HUMBOLDT RD ,BRS",
-        "latitude": 37.6770746264014,
-        "longitude": -122.400151490053,
-        "units": ">E93"
+        "location": "562 PLACITAS AVE ,NFO",
+        "latitude": 37.4737585016193,
+        "longitude": -122.195146941462,
+        "units": ">E5"
     },
     {
-        "id": "MF2210380",
+        "id": "MF2210385",
         "date": "2022-12-31",
-        "time": "3:07:07 PM",
+        "time": "3:17:17 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "615 16TH AVE ,NFO",
+        "latitude": 37.4731307393474,
+        "longitude": -122.192392695497,
+        "units": "T2"
+    },
+    {
+        "id": "MF2210384",
+        "date": "2022-12-31",
+        "time": "3:16:42 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Tree down",
-        "location": "40 SNECKNER CT ,MNP",
-        "latitude": 37.4152490091103,
-        "longitude": -122.188128876476,
-        "units": "T1"
+        "location": "EL CAMINO REAL / SELBY LN",
+        "latitude": 37.4684475881531,
+        "longitude": -122.210755158802,
+        "units": ""
+    },
+    {
+        "id": "MF2210383",
+        "date": "2022-12-31",
+        "time": "3:16:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "827 14TH AVE ,NFO",
+        "latitude": 37.4774380756022,
+        "longitude": -122.191425411253,
+        "units": "E77"
+    },
+    {
+        "id": "HF2203152",
+        "date": "2022-12-31",
+        "time": "3:14:03 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "470 AVENUE PORTOLA ,ELG",
+        "latitude": 37.5071748929813,
+        "longitude": -122.468489178112,
+        "units": "E140 >TO10"
+    },
+    {
+        "id": "MF2210382",
+        "date": "2022-12-31",
+        "time": "3:13:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "216 ATHERTON AVE ,ATN",
+        "latitude": 37.4489521783104,
+        "longitude": -122.211737950581,
+        "units": ">E4"
+    },
+    {
+        "id": "MF2210381",
+        "date": "2022-12-31",
+        "time": "3:12:27 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "875 UNIVERSITY DR ,MNP",
+        "latitude": 37.448178083117,
+        "longitude": -122.184360564625,
+        "units": ">E1"
+    },
+    {
+        "id": "DF2202362",
+        "date": "2022-12-31",
+        "time": "3:08:49 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "19 ROSLYN AVE ,DVN",
+        "latitude": 37.4961598450897,
+        "longitude": -122.27833675709,
+        "units": ">E20"
     },
     {
         "id": "SF2215849",
@@ -74,29 +195,7 @@
         "location": "96 MULBERRY LN ,ATN",
         "latitude": 37.4412360243205,
         "longitude": -122.218509600128,
-        "units": "E3"
-    },
-    {
-        "id": "SF2215848",
-        "date": "2022-12-31",
-        "time": "3:05:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "INDUSTRIAL RD / HARBOR BLVD",
-        "latitude": 37.5210740100388,
-        "longitude": -122.267267433947,
-        "units": ">E29"
-    },
-    {
-        "id": "MF2210377",
-        "date": "2022-12-31",
-        "time": "3:05:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "397 FLETCHER DR ,ATN",
-        "latitude": 37.4378643251821,
-        "longitude": -122.224398514925,
-        "units": ">E4"
+        "units": ""
     },
     {
         "id": "MF2210376",
@@ -118,18 +217,18 @@
         "location": "S EL CAMINO REAL / 42ND AVE",
         "latitude": 37.5304260014826,
         "longitude": -122.289133069089,
-        "units": ">BC5 CM21X3 ?TAC25"
+        "units": ">BC5"
     },
     {
-        "id": "DF2202359",
+        "id": "NF2214092",
         "date": "2022-12-31",
-        "time": "2:52:10 PM",
-        "summary": "County Fire on Control-1",
+        "time": "2:54:22 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Public assist, water problem",
-        "location": "355 PALOMAR DR ,PAL",
-        "latitude": 37.4789839687061,
-        "longitude": -122.264632720234,
-        "units": ">E20"
+        "location": "707 CANYON DR ,PCF",
+        "latitude": 37.6352302772118,
+        "longitude": -122.47897162006,
+        "units": "E64"
     },
     {
         "id": "NF2214089",
@@ -140,18 +239,7 @@
         "location": "91 GARDEN GROVE DR ,DCY",
         "latitude": 37.7018574782193,
         "longitude": -122.494515652594,
-        "units": ""
-    },
-    {
-        "id": "NF2214088",
-        "date": "2022-12-31",
-        "time": "2:48:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "CABRILLO HWY / LINDA MAR BLVD",
-        "latitude": 37.5959239894125,
-        "longitude": -122.503743986644,
-        "units": ""
+        "units": "E91"
     },
     {
         "id": "FF2207599",
@@ -162,40 +250,7 @@
         "location": "100 RAMONA AVE ,SSF",
         "latitude": 37.6459900701526,
         "longitude": -122.426677201617,
-        "units": ""
-    },
-    {
-        "id": "NF2214086",
-        "date": "2022-12-31",
-        "time": "2:43:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERRAMONTE CTR #M ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2204246",
-        "date": "2022-12-31",
-        "time": "2:36:00 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "2585 LEXINGTON WAY ,SNB",
-        "latitude": 37.6204727603751,
-        "longitude": -122.436584378803,
-        "units": ""
-    },
-    {
-        "id": "NF2214084",
-        "date": "2022-12-31",
-        "time": "2:35:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "NB 1 / SO SKYLINE BLVD",
-        "latitude": 37.6578582163317,
-        "longitude": -122.487562183926,
-        "units": ""
+        "units": ">T51"
     },
     {
         "id": "DF2202354",
@@ -206,106 +261,73 @@
         "location": "200 EDMONDS RD ,EML",
         "latitude": 37.4736225535701,
         "longitude": -122.285667928585,
-        "units": "CM11X1 >E18 >E9 >T17 >BC11"
+        "units": "CM11X1 >E18 >BC11"
     },
     {
-        "id": "NF2214082",
+        "id": "SF2215833",
         "date": "2022-12-31",
-        "time": "2:32:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "POLARIS WAY / S HILL BLVD",
-        "latitude": 37.7062706029315,
-        "longitude": -122.435486341555,
-        "units": ""
-    },
-    {
-        "id": "NF2214081",
-        "date": "2022-12-31",
-        "time": "2:26:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "209 MARVILLA CIR ,PCF",
-        "latitude": 37.5934699234536,
-        "longitude": -122.498796382187,
-        "units": "E72"
-    },
-    {
-        "id": "FF2207597",
-        "date": "2022-12-31",
-        "time": "2:15:54 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "117 LOMITAS AVE ,SSF",
-        "latitude": 37.6514636901389,
-        "longitude": -122.446608885681,
-        "units": "E63"
-    },
-    {
-        "id": "SF2215828",
-        "date": "2022-12-31",
-        "time": "2:11:19 PM",
+        "time": "2:23:11 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Public assist, water problem",
-        "location": "HARVARD RD / SEVILLE WAY",
-        "latitude": 37.5525547317171,
-        "longitude": -122.325609361693,
-        "units": "E25"
+        "location": "1740 DALE AVE ,SMO",
+        "latitude": 37.5679937342069,
+        "longitude": -122.301137240583,
+        "units": "?E24"
     },
     {
-        "id": "BF2204244",
+        "id": "CF2208614",
         "date": "2022-12-31",
-        "time": "2:10:54 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "2:20:04 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Public assist, water problem",
-        "location": "300 ALLEN DR ,SNB",
-        "latitude": 37.6312167295705,
-        "longitude": -122.458130339501,
-        "units": ">E71"
+        "location": "1216 DRAKE AVE ,BRM",
+        "latitude": 37.5820269652539,
+        "longitude": -122.369125544003,
+        "units": "E32"
     },
     {
-        "id": "DF2202350",
+        "id": "SF2215831",
         "date": "2022-12-31",
-        "time": "2:09:32 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "123 CHESHAM AVE ,DVN",
-        "latitude": 37.4958434596903,
-        "longitude": -122.280363306811,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2215825",
-        "date": "2022-12-31",
-        "time": "2:08:38 PM",
+        "time": "2:17:48 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Public assist, water problem",
-        "location": "914 INDIAN AVE ,SMO",
-        "latitude": 37.577106538871,
-        "longitude": -122.325103305896,
-        "units": "E24"
+        "location": "299 PORT ROYAL AVE ,FCY",
+        "latitude": 37.5403043091184,
+        "longitude": -122.276254578821,
+        "units": ">E28"
     },
     {
-        "id": "SF2215826",
+        "id": "SF2215830",
         "date": "2022-12-31",
-        "time": "2:08:36 PM",
+        "time": "2:17:24 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Public assist, water problem",
-        "location": "603 DORCHESTER RD ,SMO",
-        "latitude": 37.5687289729078,
-        "longitude": -122.346349651116,
-        "units": "E21"
+        "location": "1704 DEWEY ST ,SMO",
+        "latitude": 37.5600988335998,
+        "longitude": -122.294866378076,
+        "units": ">E26"
     },
     {
-        "id": "NF2214078",
+        "id": "CF2208613",
         "date": "2022-12-31",
-        "time": "2:06:38 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "730 FERN AVE ,PCF",
-        "latitude": 37.6086981415184,
-        "longitude": -122.478404390175,
-        "units": "E64"
+        "time": "2:15:48 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "90 EL CAMINO REAL ,BRM",
+        "latitude": 37.5752210969436,
+        "longitude": -122.344881566186,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2208611",
+        "date": "2022-12-31",
+        "time": "2:13:51 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1101 HOWARD AVE ,BRM",
+        "latitude": 37.5782321341364,
+        "longitude": -122.343806814484,
+        "units": ">E35"
     },
     {
         "id": "FF2207594",
@@ -316,7 +338,7 @@
         "location": "628 ROCCA AVE ,SSF",
         "latitude": 37.6628917658984,
         "longitude": -122.421662244105,
-        "units": ">E52"
+        "units": "*>E52"
     },
     {
         "id": "MF2210355",
@@ -339,17 +361,6 @@
         "latitude": 37.5312974946338,
         "longitude": -122.34363893122,
         "units": ">U21"
-    },
-    {
-        "id": "NF2214071",
-        "date": "2022-12-31",
-        "time": "1:50:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "155 SANTA CLARA ST ,BRS",
-        "latitude": 37.6832490367002,
-        "longitude": -122.398664010866,
-        "units": ">E81"
     },
     {
         "id": "CF2208589",
