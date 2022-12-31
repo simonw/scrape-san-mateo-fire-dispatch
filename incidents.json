@@ -1,5 +1,115 @@
 [
     {
+        "id": "DF2202342",
+        "date": "2022-12-31",
+        "time": "1:21:03 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "2673 ALPINE RD ,MNP",
+        "latitude": 37.4140157014358,
+        "longitude": -122.192319613927,
+        "units": "E4"
+    },
+    {
+        "id": "FF2207589",
+        "date": "2022-12-31",
+        "time": "1:16:23 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "DF2202341",
+        "date": "2022-12-31",
+        "time": "1:15:00 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist",
+        "location": "201 EDEN WEST RD ,PES",
+        "latitude": 37.2183684274208,
+        "longitude": -122.346223792926,
+        "units": "E59"
+    },
+    {
+        "id": "FF2207588",
+        "date": "2022-12-31",
+        "time": "1:14:57 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO SNEATH LN",
+        "latitude": 37.6342300873108,
+        "longitude": -122.438728195012,
+        "units": ">E94 >E51 >T51 BC121 ?VFIR23?CM31X4"
+    },
+    {
+        "id": "LF2201161",
+        "date": "2022-12-31",
+        "time": "1:14:18 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "PARK PLAZA DR / 87TH ST",
+        "latitude": 37.6932139571297,
+        "longitude": -122.480279791196,
+        "units": ">E86 CM31X3 MED19"
+    },
+    {
+        "id": "RF2213407",
+        "date": "2022-12-31",
+        "time": "1:14:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WOODSIDE RD / OVER TRAIN TRACK",
+        "latitude": 37.4789488023269,
+        "longitude": -122.220357558795,
+        "units": ">T9 >BC3 >E9 TAC15 CM11X1"
+    },
+    {
+        "id": "NF2214058",
+        "date": "2022-12-31",
+        "time": "1:13:19 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "TUNNEL AVE / ESTA AVE",
+        "latitude": 37.7034694164665,
+        "longitude": -122.400698176648,
+        "units": ">E81 BC20 T95 CM31X2 ?TAC37"
+    },
+    {
+        "id": "NF2214057",
+        "date": "2022-12-31",
+        "time": "1:12:08 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALEXANDER AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "FF2207587",
+        "date": "2022-12-31",
+        "time": "1:05:12 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "1 OYSTER POINT BLVD ,SSF",
+        "latitude": 37.6647870005853,
+        "longitude": -122.396606676206,
+        "units": ">BC17 >E65 CM31X1 >Q62 ?TAC36"
+    },
+    {
+        "id": "BF2204242",
+        "date": "2022-12-31",
+        "time": "1:05:06 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / CRYSTAL SPRINGS RD OFF RAMP",
+        "latitude": 37.6189297261568,
+        "longitude": -122.424989047455,
+        "units": "CM31X5 ?TAC35"
+    },
+    {
         "id": "WF2202021",
         "date": "2022-12-31",
         "time": "1:01:18 PM",
@@ -8,7 +118,7 @@
         "location": "85 STADLER RD ,WDS",
         "latitude": 37.390642862327,
         "longitude": -122.266235410962,
-        "units": "E356 E107"
+        "units": ">E107 TAC16 >E356"
     },
     {
         "id": "BF2204241",
@@ -20,17 +130,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E52"
-    },
-    {
-        "id": "NF2214056",
-        "date": "2022-12-31",
-        "time": "12:55:32 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
     },
     {
         "id": "CF2208590",
@@ -63,7 +162,7 @@
         "location": "SB 280 / NO EDGEWOOD RD",
         "latitude": 37.4913015493745,
         "longitude": -122.300263671528,
-        "units": "TAC15 >E18 CM11X5 >T17 >BC11"
+        "units": ">T17 >BC11"
     },
     {
         "id": "CF2208589",
@@ -88,17 +187,6 @@
         "units": ">U21"
     },
     {
-        "id": "CF2208587",
-        "date": "2022-12-31",
-        "time": "12:39:16 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "140 WOODRIDGE RD ,HIL",
-        "latitude": 37.5468627533538,
-        "longitude": -122.348823091101,
-        "units": ">E32"
-    },
-    {
         "id": "WF2202019",
         "date": "2022-12-31",
         "time": "12:38:35 PM",
@@ -107,7 +195,7 @@
         "location": "1470 CANADA RD ,WDS",
         "latitude": 37.4316235911834,
         "longitude": -122.256420227169,
-        "units": ">E7"
+        "units": "E655 U55 >E7"
     },
     {
         "id": "NF2214050",
@@ -140,7 +228,7 @@
         "location": "SB 280 / NO WESTBOROUGH BLVD",
         "latitude": 37.6547209829024,
         "longitude": -122.457577711741,
-        "units": ">E64"
+        "units": ""
     },
     {
         "id": "HF2203138",
@@ -151,18 +239,7 @@
         "location": "CABRILLO HWY S / POPLAR ST",
         "latitude": 37.4567052071443,
         "longitude": -122.433335427065,
-        "units": "E140 >E40"
-    },
-    {
-        "id": "HF2203137",
-        "date": "2022-12-31",
-        "time": "11:07:52 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "64 GUERRERO AVE ,HMB",
-        "latitude": 37.4907087478319,
-        "longitude": -122.455850231306,
-        "units": ">U40"
+        "units": ">E140 >E40"
     },
     {
         "id": "HF2203116",
