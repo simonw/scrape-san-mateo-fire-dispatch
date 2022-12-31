@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2214015",
+        "id": "NF2214017",
         "date": "2022-12-30",
-        "time": "9:02:40 PM",
+        "time": "9:18:55 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "JOHN DALY BLVD / PARK PLAZA DR",
-        "latitude": 37.7021813283689,
-        "longitude": -122.482167796514,
-        "units": "E91"
+        "category": "Fire alarm - smoke detector",
+        "location": "565 TALBOT AVE ,PCF",
+        "latitude": 37.6341475128277,
+        "longitude": -122.482424635238,
+        "units": "E71"
+    },
+    {
+        "id": "DF2202272",
+        "date": "2022-12-30",
+        "time": "9:15:34 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDMONDS RD #332 ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
+        "id": "SF2215686",
+        "date": "2022-12-30",
+        "time": "9:15:25 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "2706 MONSERAT AVE ,BLM",
+        "latitude": 37.5142386176466,
+        "longitude": -122.306880101199,
+        "units": ">E15"
     },
     {
         "id": "RF2213266",
@@ -19,7 +41,7 @@
         "location": "SEALIGHT LN ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E20"
+        "units": ">E20"
     },
     {
         "id": "SF2215685",
@@ -30,50 +52,6 @@
         "location": "430 STATION PARK CIR ,SMO",
         "latitude": 37.5543119824577,
         "longitude": -122.306996368967,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2215684",
-        "date": "2022-12-30",
-        "time": "8:52:13 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ACADEMY AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "RF2213265",
-        "date": "2022-12-30",
-        "time": "8:51:30 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2215683",
-        "date": "2022-12-30",
-        "time": "8:48:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHESS DR ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2210305",
-        "date": "2022-12-30",
-        "time": "8:03:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1935 PULGAS AVE ,EPA",
-        "latitude": 37.4557178544086,
-        "longitude": -122.129913270887,
-        "units": "*>T2"
+        "units": ">T23 >BC5 CM21X1 >E23"
     }
 ]
