@@ -1,5 +1,71 @@
 [
     {
+        "id": "NF2214045",
+        "date": "2022-12-31",
+        "time": "11:43:19 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IMPERIAL WAY #139 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E94"
+    },
+    {
+        "id": "FF2207584",
+        "date": "2022-12-31",
+        "time": "11:38:40 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FIR AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "FF2207583",
+        "date": "2022-12-31",
+        "time": "11:36:54 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALBRIGHT WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "SF2215800",
+        "date": "2022-12-31",
+        "time": "11:31:21 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #241 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "SF2215799",
+        "date": "2022-12-31",
+        "time": "11:29:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "3609 MARTIN DR ,SMO",
+        "latitude": 37.5401166808416,
+        "longitude": -122.285553866265,
+        "units": "U21"
+    },
+    {
+        "id": "SF2215798",
+        "date": "2022-12-31",
+        "time": "11:28:56 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARINA VISTA #310 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
         "id": "MF2210348",
         "date": "2022-12-31",
         "time": "11:21:51 AM",
@@ -19,40 +85,18 @@
         "location": "2107 ROOSEVELT AVE ,RCY",
         "latitude": 37.4661598517168,
         "longitude": -122.240994889301,
-        "units": "E10"
+        "units": ">E10"
     },
     {
-        "id": "DF2202332",
+        "id": "DF2202331",
         "date": "2022-12-31",
-        "time": "11:17:54 AM",
+        "time": "11:15:24 AM",
         "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "17650 SKYLINE BLVD ,SKY",
-        "latitude": 37.378735465553,
-        "longitude": -122.263454729583,
-        "units": ">E58"
-    },
-    {
-        "id": "BF2204240",
-        "date": "2022-12-31",
-        "time": "11:16:54 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 101 / SO 380",
-        "latitude": 37.6317702442123,
-        "longitude": -122.402628318717,
-        "units": ">Q62"
-    },
-    {
-        "id": "WF2202013",
-        "date": "2022-12-31",
-        "time": "11:10:53 AM",
-        "summary": "Woodside Fire on Control-3",
         "category": "Public assist, water problem",
-        "location": "732 SYLVAN WAY ,EML",
-        "latitude": 37.4638134278435,
-        "longitude": -122.269143195957,
-        "units": ">E19"
+        "location": "25 CARRERA CT ,EML",
+        "latitude": 37.4638015523784,
+        "longitude": -122.263725596545,
+        "units": ">E12"
     },
     {
         "id": "DF2202330",
@@ -66,17 +110,6 @@
         "units": ">R57"
     },
     {
-        "id": "WF2202012",
-        "date": "2022-12-31",
-        "time": "11:03:47 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LA CUESTA DR ,LAD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
         "id": "WF2202011",
         "date": "2022-12-31",
         "time": "11:02:19 AM",
@@ -85,18 +118,29 @@
         "location": "300 FAMILY FARM DR ,WDS",
         "latitude": 37.3982951732256,
         "longitude": -122.238334550989,
-        "units": "CM11X3 TAC16 >BC2 >SQ407"
+        "units": "CM11X3 TAC16"
     },
     {
-        "id": "RF2213390",
+        "id": "RF2213388",
         "date": "2022-12-31",
-        "time": "10:36:03 AM",
+        "time": "10:35:45 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "830 JEFFERSON AVE ,RCY",
-        "latitude": 37.4857318856983,
-        "longitude": -122.228335558305,
-        "units": ">E9"
+        "category": "Public assist, water problem",
+        "location": "2173 CARMELITA DR ,SNC",
+        "latitude": 37.501114408804,
+        "longitude": -122.273127996463,
+        "units": "E20"
+    },
+    {
+        "id": "RF2213387",
+        "date": "2022-12-31",
+        "time": "10:29:14 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "25 OAK CREEK LN ,SNC",
+        "latitude": 37.4839908688129,
+        "longitude": -122.267605375505,
+        "units": ""
     },
     {
         "id": "WF2202008",
@@ -107,7 +151,29 @@
         "location": "CANADA RD / OLIVE HILL LN",
         "latitude": 37.4395549096422,
         "longitude": -122.264051593385,
-        "units": "?WOFEOC"
+        "units": ""
+    },
+    {
+        "id": "DF2202322",
+        "date": "2022-12-31",
+        "time": "10:18:26 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "236 FERNDALE WAY ,EML",
+        "latitude": 37.4715094322737,
+        "longitude": -122.27648067049,
+        "units": ">E18"
+    },
+    {
+        "id": "HF2203133",
+        "date": "2022-12-31",
+        "time": "10:14:06 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "719 PALMA ST ,ELG",
+        "latitude": 37.5036506931902,
+        "longitude": -122.466013466006,
+        "units": ">E41"
     },
     {
         "id": "MF2210342",
@@ -118,7 +184,29 @@
         "location": "1961 E BAYSHORE RD ,EPA",
         "latitude": 37.4541355309862,
         "longitude": -122.129131005316,
-        "units": "CM11X1 >E2"
+        "units": ""
+    },
+    {
+        "id": "DF2202320",
+        "date": "2022-12-31",
+        "time": "10:13:13 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "150 LOS ROBLES DR ,BRH",
+        "latitude": 37.576681420774,
+        "longitude": -122.390597365299,
+        "units": ">E35"
+    },
+    {
+        "id": "RF2213380",
+        "date": "2022-12-31",
+        "time": "10:07:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "867 AMERICAN ST ,SNC",
+        "latitude": 37.5009750519549,
+        "longitude": -122.24335255469,
+        "units": ""
     },
     {
         "id": "MF2210339",
@@ -132,17 +220,6 @@
         "units": ""
     },
     {
-        "id": "RF2213378",
-        "date": "2022-12-31",
-        "time": "10:03:05 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "3 SARA LN ,SNC",
-        "latitude": 37.4876597391971,
-        "longitude": -122.269133292815,
-        "units": "E20"
-    },
-    {
         "id": "DF2202316",
         "date": "2022-12-31",
         "time": "10:02:55 AM",
@@ -151,7 +228,7 @@
         "location": "3499 E BAYSHORE RD ,SOS",
         "latitude": 37.4869058734634,
         "longitude": -122.190523299096,
-        "units": "E77"
+        "units": ""
     },
     {
         "id": "RF2213379",
@@ -162,7 +239,7 @@
         "location": "879 PORT WALK PL ,RWS",
         "latitude": 37.5370153197149,
         "longitude": -122.25253320138,
-        "units": "E13"
+        "units": ""
     },
     {
         "id": "RF2213377",
@@ -173,7 +250,7 @@
         "location": "1090 MAIN ST ,RCY",
         "latitude": 37.4832162309969,
         "longitude": -122.226433105992,
-        "units": ">T9"
+        "units": ""
     },
     {
         "id": "MF2210338",
@@ -184,7 +261,7 @@
         "location": "25 NEWELL RD #21 ,EPA",
         "latitude": 37.4555856276558,
         "longitude": -122.137046348751,
-        "units": "T1"
+        "units": ""
     },
     {
         "id": "RF2213376",
@@ -217,7 +294,7 @@
         "location": "4016 FARM HILL BLVD ,RCY",
         "latitude": 37.4511544268161,
         "longitude": -122.261545325763,
-        "units": ">E12"
+        "units": ""
     },
     {
         "id": "DF2202311",
