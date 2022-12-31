@@ -1,5 +1,126 @@
 [
     {
+        "id": "RF2213405",
+        "date": "2022-12-31",
+        "time": "12:42:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LA MESA DR #2 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E16"
+    },
+    {
+        "id": "RF2213404",
+        "date": "2022-12-31",
+        "time": "12:41:00 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Trash fire",
+        "location": "2644 BROADWAY ,RCY",
+        "latitude": 37.4864875136028,
+        "longitude": -122.234282179336,
+        "units": "E9"
+    },
+    {
+        "id": "SF2215809",
+        "date": "2022-12-31",
+        "time": "12:40:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "337 S FREMONT ST ,SMO",
+        "latitude": 37.5683106295802,
+        "longitude": -122.317492270985,
+        "units": "E24"
+    },
+    {
+        "id": "SF2215808",
+        "date": "2022-12-31",
+        "time": "12:40:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "639 CAPISTRANO WAY ,SMO",
+        "latitude": 37.5582057948215,
+        "longitude": -122.323801749302,
+        "units": "U21 E25"
+    },
+    {
+        "id": "CF2208587",
+        "date": "2022-12-31",
+        "time": "12:39:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "140 WOODRIDGE RD ,HIL",
+        "latitude": 37.5468627533538,
+        "longitude": -122.348823091101,
+        "units": "E32"
+    },
+    {
+        "id": "WF2202019",
+        "date": "2022-12-31",
+        "time": "12:38:35 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "1470 CANADA RD ,WDS",
+        "latitude": 37.4316235911834,
+        "longitude": -122.256420227169,
+        "units": ">E7"
+    },
+    {
+        "id": "HF2203147",
+        "date": "2022-12-31",
+        "time": "12:35:23 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "730 SONORA AVE ,ELG",
+        "latitude": 37.5079190474611,
+        "longitude": -122.482715925589,
+        "units": "E41"
+    },
+    {
+        "id": "WF2202018",
+        "date": "2022-12-31",
+        "time": "12:33:40 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "6 SKYLINE DR ,SKY",
+        "latitude": 37.376423607449,
+        "longitude": -122.260092281851,
+        "units": ">E58"
+    },
+    {
+        "id": "NF2214055",
+        "date": "2022-12-31",
+        "time": "12:29:50 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "131 WESTMOOR AVE ,DCY",
+        "latitude": 37.6824576838231,
+        "longitude": -122.48365025663,
+        "units": ">T95"
+    },
+    {
+        "id": "HF2203145",
+        "date": "2022-12-31",
+        "time": "12:28:25 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1049 PEARL AVE ,MBH",
+        "latitude": 37.5241845534681,
+        "longitude": -122.508578821508,
+        "units": "E44"
+    },
+    {
+        "id": "MF2210350",
+        "date": "2022-12-31",
+        "time": "12:25:03 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AZALIA DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T1"
+    },
+    {
         "id": "DF2202338",
         "date": "2022-12-31",
         "time": "12:20:14 PM",
@@ -8,7 +129,18 @@
         "location": "144 CHESHAM AVE ,DVN",
         "latitude": 37.4957937048064,
         "longitude": -122.281289528332,
-        "units": "E13"
+        "units": ">E13"
+    },
+    {
+        "id": "HF2203144",
+        "date": "2022-12-31",
+        "time": "12:18:44 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "N CABRILLO HWY / 14TH ST",
+        "latitude": 37.5372841937183,
+        "longitude": -122.517463080383,
+        "units": ">E140"
     },
     {
         "id": "NF2214052",
@@ -22,17 +154,6 @@
         "units": ">E94"
     },
     {
-        "id": "CF2208585",
-        "date": "2022-12-31",
-        "time": "12:16:15 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MILLBRAE AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
         "id": "NF2214050",
         "date": "2022-12-31",
         "time": "12:12:44 PM",
@@ -41,18 +162,7 @@
         "location": "ORANGE CT / E MARKET ST",
         "latitude": 37.6917295348266,
         "longitude": -122.457176208802,
-        "units": "E92"
-    },
-    {
-        "id": "DF2202337",
-        "date": "2022-12-31",
-        "time": "12:12:33 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "BUNKER HILL DR / POLHEMUS RD",
-        "latitude": 37.5212435695065,
-        "longitude": -122.339610299736,
-        "units": ">T17"
+        "units": ">E92"
     },
     {
         "id": "SF2215806",
@@ -64,39 +174,6 @@
         "latitude": 37.5228868982037,
         "longitude": -122.267638063996,
         "units": ">E2610"
-    },
-    {
-        "id": "CF2208583",
-        "date": "2022-12-31",
-        "time": "12:09:59 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #263 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "SF2215804",
-        "date": "2022-12-31",
-        "time": "12:07:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 4TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "NF2214048",
-        "date": "2022-12-31",
-        "time": "12:06:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "800 SWALLOWTAIL CT ,BRS",
-        "latitude": 37.6937307077046,
-        "longitude": -122.420219186677,
-        "units": ">E81"
     },
     {
         "id": "NF2214047",
@@ -121,39 +198,6 @@
         "units": ">E95"
     },
     {
-        "id": "MF2210349",
-        "date": "2022-12-31",
-        "time": "12:04:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "CIRCLE DR / SCOFIELD AVE",
-        "latitude": 37.4576893066069,
-        "longitude": -122.139831896495,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2215803",
-        "date": "2022-12-31",
-        "time": "11:59:41 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "S DELAWARE ST / BERMUDA DR",
-        "latitude": 37.5511951521914,
-        "longitude": -122.305147367224,
-        "units": ">BC105"
-    },
-    {
-        "id": "HF2203141",
-        "date": "2022-12-31",
-        "time": "11:52:26 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "9850 N CABRILLO HWY ,MBH",
-        "latitude": 37.5131254695458,
-        "longitude": -122.498072988333,
-        "units": "E72"
-    },
-    {
         "id": "FF2207585",
         "date": "2022-12-31",
         "time": "11:50:53 AM",
@@ -163,28 +207,6 @@
         "latitude": null,
         "longitude": null,
         "units": "E65"
-    },
-    {
-        "id": "HF2203140",
-        "date": "2022-12-31",
-        "time": "11:48:38 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "600 MIRAMAR DR ,MIR",
-        "latitude": 37.4965547699826,
-        "longitude": -122.450380265286,
-        "units": ">E44"
-    },
-    {
-        "id": "SF2215802",
-        "date": "2022-12-31",
-        "time": "11:47:36 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "337 S FREMONT ST ,SMO",
-        "latitude": 37.5683106295802,
-        "longitude": -122.317492270985,
-        "units": ">E25"
     },
     {
         "id": "HF2203138",
@@ -217,7 +239,7 @@
         "location": "64 GUERRERO AVE ,HMB",
         "latitude": 37.4907087478319,
         "longitude": -122.455850231306,
-        "units": ">E41"
+        "units": ">U40"
     },
     {
         "id": "HF2203116",
@@ -228,6 +250,6 @@
         "location": "444 OAK AVE #F ,HMB",
         "latitude": 37.4676708254257,
         "longitude": -122.436535359182,
-        "units": ">E140 >TO10 >CM41X1"
+        "units": ">TO10 >CM41X1"
     }
 ]
