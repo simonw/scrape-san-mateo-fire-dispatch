@@ -1,5 +1,137 @@
 [
     {
+        "id": "RF2213276",
+        "date": "2022-12-31",
+        "time": "6:00:06 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "FLORENCE ST / ST MARYS PL",
+        "latitude": 37.4786042758482,
+        "longitude": -122.188839215579,
+        "units": "E11"
+    },
+    {
+        "id": "SF2215720",
+        "date": "2022-12-31",
+        "time": "5:59:15 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1466 CHERRYWOOD DR ,SMO",
+        "latitude": 37.5243329641378,
+        "longitude": -122.32664252766,
+        "units": "E27"
+    },
+    {
+        "id": "FF2207573",
+        "date": "2022-12-31",
+        "time": "5:58:49 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "SB 101 / NO GRAND AVE",
+        "latitude": 37.6592358176394,
+        "longitude": -122.405086070715,
+        "units": "E65 E61 CM31X5 ?TAC37"
+    },
+    {
+        "id": "DF2202277",
+        "date": "2022-12-31",
+        "time": "5:57:45 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1973 CORDILLERAS RD ,EML",
+        "latitude": 37.4730101101438,
+        "longitude": -122.270605564098,
+        "units": "E18"
+    },
+    {
+        "id": "NF2214031",
+        "date": "2022-12-31",
+        "time": "5:57:14 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 280 / SO 1",
+        "latitude": 37.6738400118365,
+        "longitude": -122.468286519171,
+        "units": "BC20 E94 E92 T95 CM31X3?TAC36"
+    },
+    {
+        "id": "DF2202276",
+        "date": "2022-12-31",
+        "time": "5:56:39 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "SKYLINE BLVD / WARE RD",
+        "latitude": 37.4453032854365,
+        "longitude": -122.329427671977,
+        "units": "E356"
+    },
+    {
+        "id": "MF2210308",
+        "date": "2022-12-31",
+        "time": "5:54:46 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "32 ATHLONE WAY ,NFO",
+        "latitude": 37.4771995674277,
+        "longitude": -122.193298452973,
+        "units": ">E5"
+    },
+    {
+        "id": "NF2214030",
+        "date": "2022-12-31",
+        "time": "5:53:33 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "45 PONCETTA DR #102 ,DCY",
+        "latitude": 37.7025870576576,
+        "longitude": -122.472892162436,
+        "units": ">E91"
+    },
+    {
+        "id": "RF2213274",
+        "date": "2022-12-31",
+        "time": "5:53:09 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1981 BIRCH AVE ,SNC",
+        "latitude": 37.4955066313166,
+        "longitude": -122.26171409375,
+        "units": ">E16"
+    },
+    {
+        "id": "RF2213273",
+        "date": "2022-12-31",
+        "time": "5:51:50 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "3079 OAK KNOLL DR ,EML",
+        "latitude": 37.4753283657513,
+        "longitude": -122.2561673931,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2213272",
+        "date": "2022-12-31",
+        "time": "5:48:52 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "151 INDUSTRIAL RD ,SNC",
+        "latitude": 37.5203286277637,
+        "longitude": -122.265504695158,
+        "units": ">E14"
+    },
+    {
+        "id": "DF2202275",
+        "date": "2022-12-31",
+        "time": "5:44:52 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "19 ROSLYN AVE ,DVN",
+        "latitude": 37.4961598450897,
+        "longitude": -122.27833675709,
+        "units": ">E13"
+    },
+    {
         "id": "SF2215718",
         "date": "2022-12-31",
         "time": "5:41:10 AM",
@@ -8,7 +140,18 @@
         "location": "921 E HILLSDALE BLVD ,FCY",
         "latitude": 37.5565153492704,
         "longitude": -122.275612886242,
-        "units": "E29"
+        "units": ">E29"
+    },
+    {
+        "id": "HF2203109",
+        "date": "2022-12-31",
+        "time": "5:40:22 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SAN MATEO RD / DIGGES CANYON RD",
+        "latitude": 37.4782941534601,
+        "longitude": -122.413716895385,
+        "units": "TAC45 >E44 CM41X2 >E40 >BC10"
     },
     {
         "id": "BF2204228",
@@ -19,7 +162,7 @@
         "location": "SB 280 / NO 380",
         "latitude": 37.6303140014453,
         "longitude": -122.434989149881,
-        "units": ">E64 E51 BC121 T51 TAC35CM31X4"
+        "units": ">BC121 TAC35 >T51 >E64 CM31X4"
     },
     {
         "id": "RF2213271",
@@ -30,7 +173,7 @@
         "location": "1201 BREWSTER AVE ,RCY",
         "latitude": 37.4841504907955,
         "longitude": -122.236471855173,
-        "units": ">T9 >BC3 >E9 TAC15 CM11X4"
+        "units": ">E9"
     },
     {
         "id": "MF2210307",
@@ -42,16 +185,5 @@
         "latitude": 37.4446549752882,
         "longitude": -122.176798077972,
         "units": ">E6"
-    },
-    {
-        "id": "HF2203108",
-        "date": "2022-12-31",
-        "time": "5:16:36 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "2804 CHAMPS ELYSEE ,HMB",
-        "latitude": 37.4889564647899,
-        "longitude": -122.452363730459,
-        "units": ">E41"
     }
 ]
