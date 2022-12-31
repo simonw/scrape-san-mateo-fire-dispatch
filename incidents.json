@@ -1,5 +1,93 @@
 [
     {
+        "id": "SF2215766",
+        "date": "2022-12-31",
+        "time": "9:01:22 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "410 POINSETTIA AVE ,SMO",
+        "latitude": 37.5413837153625,
+        "longitude": -122.288578597638,
+        "units": "E23"
+    },
+    {
+        "id": "SF2215765",
+        "date": "2022-12-31",
+        "time": "8:57:33 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "N IDAHO ST / INDIAN AVE",
+        "latitude": 37.5782067862904,
+        "longitude": -122.323946417086,
+        "units": "E32"
+    },
+    {
+        "id": "CF2208573",
+        "date": "2022-12-31",
+        "time": "8:53:17 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "979 BROADWAY ,MLB",
+        "latitude": 37.6046787447603,
+        "longitude": -122.397240191598,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2214037",
+        "date": "2022-12-31",
+        "time": "8:50:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IMPERIAL DR #2 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "SF2215764",
+        "date": "2022-12-31",
+        "time": "8:49:56 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1848 NEWBRIDGE AVE ,SMO",
+        "latitude": 37.5720269405796,
+        "longitude": -122.30180766894,
+        "units": "E24"
+    },
+    {
+        "id": "RF2213358",
+        "date": "2022-12-31",
+        "time": "8:49:46 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2213356",
+        "date": "2022-12-31",
+        "time": "8:48:34 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E SAN CARLOS AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "FF2207580",
+        "date": "2022-12-31",
+        "time": "8:44:53 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "272 S MAPLE AVE ,SSF",
+        "latitude": 37.6439236741771,
+        "longitude": -122.417299768068,
+        "units": ">E61"
+    },
+    {
         "id": "CF2208572",
         "date": "2022-12-31",
         "time": "8:41:54 AM",
@@ -8,29 +96,7 @@
         "location": "18 FARM LN ,HIL",
         "latitude": 37.5620369833694,
         "longitude": -122.359966019836,
-        "units": "E33"
-    },
-    {
-        "id": "NF2214036",
-        "date": "2022-12-31",
-        "time": "8:41:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "401 PALOMA AVE ,PCF",
-        "latitude": 37.6368835403214,
-        "longitude": -122.484380123132,
-        "units": "?E71"
-    },
-    {
-        "id": "SF2215763",
-        "date": "2022-12-31",
-        "time": "8:40:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "15 CRYSTAL SPRINGS RD ,SMO",
-        "latitude": 37.5638526589126,
-        "longitude": -122.327394263246,
-        "units": "E32"
+        "units": ">T34 >CM21X1 E34 >E33"
     },
     {
         "id": "MF2210325",
@@ -41,7 +107,7 @@
         "location": "E BAYSHORE RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">T1 >R77"
+        "units": ""
     },
     {
         "id": "RF2213352",
@@ -55,28 +121,6 @@
         "units": ">E11"
     },
     {
-        "id": "SF2215761",
-        "date": "2022-12-31",
-        "time": "8:34:42 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "328 ESTRELLA WAY ,SMO",
-        "latitude": 37.5371663646466,
-        "longitude": -122.286645663306,
-        "units": "E28"
-    },
-    {
-        "id": "NF2214035",
-        "date": "2022-12-31",
-        "time": "8:33:14 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "151 SANTA CLARA ST ,BRS",
-        "latitude": 37.6833123018536,
-        "longitude": -122.39865871332,
-        "units": ""
-    },
-    {
         "id": "RF2213350",
         "date": "2022-12-31",
         "time": "8:32:54 AM",
@@ -85,117 +129,106 @@
         "location": "201 INDUSTRIAL RD ,SNC",
         "latitude": 37.5192151138775,
         "longitude": -122.264291968738,
-        "units": "T9"
+        "units": ">T9"
     },
     {
-        "id": "HF2203120",
+        "id": "WF2201988",
         "date": "2022-12-31",
-        "time": "8:32:50 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "14TH ST / N CABRILLO HWY",
-        "latitude": 37.5372841937183,
-        "longitude": -122.517463080383,
-        "units": ">E44"
-    },
-    {
-        "id": "SF2215760",
-        "date": "2022-12-31",
-        "time": "8:32:35 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:12:45 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Public assist, water problem",
-        "location": "135 ARROYO CT ,SMO",
-        "latitude": 37.5616249029378,
-        "longitude": -122.328806158645,
-        "units": ">T21"
+        "location": "120 FOX HOLLOW RD ,WDS",
+        "latitude": 37.425125778779,
+        "longitude": -122.263648517795,
+        "units": "?E7"
     },
     {
-        "id": "DF2202298",
+        "id": "DF2202296",
         "date": "2022-12-31",
-        "time": "8:28:44 AM",
+        "time": "8:09:34 AM",
         "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / VISTA 3 OFF RAMP",
-        "latitude": 37.4964374112651,
-        "longitude": -122.311578812581,
-        "units": "CM11X1"
+        "category": "Public assist, water problem",
+        "location": "250 FERNDALE WAY ,EML",
+        "latitude": 37.4710358587884,
+        "longitude": -122.276190226009,
+        "units": "E10"
     },
     {
-        "id": "MF2210323",
+        "id": "RF2213338",
         "date": "2022-12-31",
-        "time": "8:26:24 AM",
+        "time": "8:08:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1400 SAN CARLOS AVE ,SNC",
+        "latitude": 37.5052398308304,
+        "longitude": -122.263488835051,
+        "units": "E13"
+    },
+    {
+        "id": "RF2213335",
+        "date": "2022-12-31",
+        "time": "8:07:18 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1138 EL CAMINO REAL ,SNC",
+        "latitude": 37.4999136441912,
+        "longitude": -122.252102352355,
+        "units": ""
+    },
+    {
+        "id": "SF2215751",
+        "date": "2022-12-31",
+        "time": "8:05:56 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "100 HARBOR BLVD ,BLM",
+        "latitude": 37.5228868982037,
+        "longitude": -122.267638063996,
+        "units": ""
+    },
+    {
+        "id": "HF2203116",
+        "date": "2022-12-31",
+        "time": "8:04:59 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "444 OAK AVE #F ,HMB",
+        "latitude": 37.4676708254257,
+        "longitude": -122.436535359182,
+        "units": ">CM41X1 >TO10 >E140"
+    },
+    {
+        "id": "RF2213339",
+        "date": "2022-12-31",
+        "time": "8:04:43 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "201 INDUSTRIAL RD ,SNC",
+        "latitude": 37.5192151138775,
+        "longitude": -122.264291968738,
+        "units": "E26"
+    },
+    {
+        "id": "MF2210321",
+        "date": "2022-12-31",
+        "time": "8:04:41 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RUNNYMEDE ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2215759",
-        "date": "2022-12-31",
-        "time": "8:25:59 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "501 LOS GATOS WAY ,SMO",
-        "latitude": 37.5365820259228,
-        "longitude": -122.283340820717,
-        "units": ">E25"
-    },
-    {
-        "id": "SF2215758",
-        "date": "2022-12-31",
-        "time": "8:25:13 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "971 ROSEWOOD DR ,SMO",
-        "latitude": 37.5599007510827,
-        "longitude": -122.31670047649,
-        "units": ">E21"
-    },
-    {
-        "id": "SF2215757",
-        "date": "2022-12-31",
-        "time": "8:17:48 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "725 KATHRYNE AVE ,SMO",
-        "latitude": 37.5726494736733,
-        "longitude": -122.304918449223,
-        "units": ">T23"
-    },
-    {
-        "id": "CF2208571",
-        "date": "2022-12-31",
-        "time": "8:15:05 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "100 BRIDGE RD ,HIL",
-        "latitude": 37.5628942742657,
-        "longitude": -122.332139701229,
-        "units": ""
-    },
-    {
-        "id": "FF2207579",
-        "date": "2022-12-31",
-        "time": "8:10:37 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "3819 HOWARD CT ,SSF",
-        "latitude": 37.6482713598082,
-        "longitude": -122.465633933708,
-        "units": ""
-    },
-    {
-        "id": "BF2204233",
-        "date": "2022-12-31",
-        "time": "8:05:58 AM",
-        "summary": "San Bruno Fire on Control-3",
         "category": "Public assist",
-        "location": "190 SCENIC CT ,SNB",
-        "latitude": 37.6110690705913,
-        "longitude": -122.418525371132,
+        "location": "NIMITZ AVE / W SELBY LN",
+        "latitude": 37.4554927905572,
+        "longitude": -122.221115652687,
         "units": ""
+    },
+    {
+        "id": "WF2201986",
+        "date": "2022-12-31",
+        "time": "8:04:22 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "900 MIDGLEN WAY ,WDS",
+        "latitude": 37.4520717050016,
+        "longitude": -122.270322226537,
+        "units": ">E19"
     },
     {
         "id": "RF2213332",
@@ -206,18 +239,7 @@
         "location": "2905 EATON AVE ,SNC",
         "latitude": 37.4844064991448,
         "longitude": -122.267184342425,
-        "units": "E14"
-    },
-    {
-        "id": "RF2213333",
-        "date": "2022-12-31",
-        "time": "8:01:17 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "931 CHERRY ST ,SNC",
-        "latitude": 37.5088853775638,
-        "longitude": -122.255026966383,
-        "units": "?E29"
+        "units": ">E14"
     },
     {
         "id": "WF2201985",
@@ -228,7 +250,7 @@
         "location": "205 GRANDVIEW DR ,WDS",
         "latitude": 37.3869147930396,
         "longitude": -122.258222404235,
-        "units": "E58 WT156"
+        "units": ""
     },
     {
         "id": "RF2213331",
@@ -239,18 +261,7 @@
         "location": "925 HUDSON ST #B ,RCY",
         "latitude": 37.4752505370131,
         "longitude": -122.233121293136,
-        "units": "E16"
-    },
-    {
-        "id": "SF2215750",
-        "date": "2022-12-31",
-        "time": "7:58:16 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "702 LAURELWOOD DR ,SMO",
-        "latitude": 37.5294117630075,
-        "longitude": -122.31140427223,
-        "units": ">E23"
+        "units": ""
     },
     {
         "id": "DF2202294",
@@ -261,7 +272,7 @@
         "location": "500 PALOMAR DR ,PAL",
         "latitude": 37.480234876868,
         "longitude": -122.2669372683,
-        "units": "E13"
+        "units": ""
     },
     {
         "id": "RF2213329",
@@ -272,7 +283,7 @@
         "location": "CEDAR ST / GREENWOOD AVE",
         "latitude": 37.4955029384232,
         "longitude": -122.257376936745,
-        "units": "E3"
+        "units": ""
     },
     {
         "id": "RF2213330",
@@ -283,7 +294,7 @@
         "location": "3037 HOPKINS AVE ,RCY",
         "latitude": 37.4767713119102,
         "longitude": -122.254091978718,
-        "units": ">E9"
+        "units": ""
     },
     {
         "id": "DF2202292",
@@ -305,7 +316,7 @@
         "location": "17 PARKER AVE ,ATN",
         "latitude": 37.4493428622587,
         "longitude": -122.220150314675,
-        "units": ">E4"
+        "units": ""
     },
     {
         "id": "DF2202289",
@@ -316,7 +327,7 @@
         "location": "603 PARK RD ,EML",
         "latitude": 37.4668195168549,
         "longitude": -122.267439669505,
-        "units": ">E12"
+        "units": ""
     },
     {
         "id": "DF2202291",
@@ -327,18 +338,7 @@
         "location": "280 SYLVAN WAY ,EML",
         "latitude": 37.4685715449484,
         "longitude": -122.274939099286,
-        "units": ">E10"
-    },
-    {
-        "id": "DF2202290",
-        "date": "2022-12-31",
-        "time": "7:51:56 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1870 LEXINGTON AVE ,EIC",
-        "latitude": 37.5185582283512,
-        "longitude": -122.346538017901,
-        "units": ">E27"
+        "units": ""
     },
     {
         "id": "RF2213328",
@@ -492,7 +492,7 @@
         "location": "300 EDMONDS RD ,EML",
         "latitude": 37.4730463132519,
         "longitude": -122.285988448937,
-        "units": ">E18 CH11A >BC11"
+        "units": ">E18 >CH1A >BC11"
     },
     {
         "id": "DF2202283",
