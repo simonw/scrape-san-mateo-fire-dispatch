@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2208678",
+        "date": "2022-12-31",
+        "time": "7:10:43 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "T34"
+    },
+    {
+        "id": "WF2202050",
+        "date": "2022-12-31",
+        "time": "7:07:42 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "ALPINE RD / LA MESA DR",
+        "latitude": 37.4001406941569,
+        "longitude": -122.192535324313,
+        "units": ">E8"
+    },
+    {
+        "id": "SF2215879",
+        "date": "2022-12-31",
+        "time": "7:03:39 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "906 E 16TH AVE ,SMO",
+        "latitude": 37.5599386805803,
+        "longitude": -122.305145311391,
+        "units": "E24"
+    },
+    {
+        "id": "LF2201167",
+        "date": "2022-12-31",
+        "time": "6:59:40 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD #204 ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
         "id": "HF2203157",
         "date": "2022-12-31",
         "time": "6:56:50 PM",
@@ -8,7 +52,7 @@
         "location": "1291 AUDUBON AVE ,MON",
         "latitude": 37.5397963910585,
         "longitude": -122.507116070993,
-        "units": "E44"
+        "units": ">E44"
     },
     {
         "id": "DF2202390",
@@ -19,7 +63,18 @@
         "location": "144 CHESHAM AVE ,DVN",
         "latitude": 37.4957937048064,
         "longitude": -122.281289528332,
-        "units": "E16"
+        "units": ">E16"
+    },
+    {
+        "id": "CF2208677",
+        "date": "2022-12-31",
+        "time": "6:47:47 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1277 EL CAMINO REAL ,BRM",
+        "latitude": 37.5855338777277,
+        "longitude": -122.369185955504,
+        "units": "T21"
     },
     {
         "id": "CF2208676",
@@ -41,51 +96,7 @@
         "location": "299 FRANKLIN ST ,RCY",
         "latitude": 37.4828959364743,
         "longitude": -122.227852742834,
-        "units": ">T1 CM11X1 >E9 TAC16 >BC3"
-    },
-    {
-        "id": "MF2210405",
-        "date": "2022-12-31",
-        "time": "6:42:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "2220 RALMAR AVE ,EPA",
-        "latitude": 37.4680555672082,
-        "longitude": -122.148492770901,
-        "units": ">T2"
-    },
-    {
-        "id": "DF2202389",
-        "date": "2022-12-31",
-        "time": "6:38:44 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "ALPINE RD / GOLF LN",
-        "latitude": 37.4058308582769,
-        "longitude": -122.193776561139,
-        "units": ">E8"
-    },
-    {
-        "id": "SF2215878",
-        "date": "2022-12-31",
-        "time": "6:37:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #219 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "SF2215877",
-        "date": "2022-12-31",
-        "time": "6:32:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "36TH AVE / ALAMEDA DE LAS PULGAS",
-        "latitude": 37.530213239919,
-        "longitude": -122.307163952655,
-        "units": "CM21X5 ?TAC25"
+        "units": "CM11X1 >E9 TAC16 >BC3"
     },
     {
         "id": "WF2202049",
@@ -97,28 +108,6 @@
         "latitude": 37.4316235911834,
         "longitude": -122.256420227169,
         "units": ">E7"
-    },
-    {
-        "id": "RF2213511",
-        "date": "2022-12-31",
-        "time": "6:28:49 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "781 4TH AVE ,NFO",
-        "latitude": 37.4799454863557,
-        "longitude": -122.201157532131,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2214108",
-        "date": "2022-12-31",
-        "time": "6:26:02 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "640 LOMA VISTA TE ,PCF",
-        "latitude": 37.6347233126394,
-        "longitude": -122.482488333693,
-        "units": ">E71"
     },
     {
         "id": "DF2202387",
@@ -143,15 +132,15 @@
         "units": ">E61"
     },
     {
-        "id": "CF2208672",
+        "id": "CF2208673",
         "date": "2022-12-31",
-        "time": "5:44:00 PM",
+        "time": "5:52:06 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Public assist, water problem",
-        "location": "247 AVIADOR AVE ,MLB",
-        "latitude": 37.6021205031822,
-        "longitude": -122.387559440615,
-        "units": ">T34"
+        "location": "800 CHATEAU DR ,HIL",
+        "latitude": 37.5556391380133,
+        "longitude": -122.378114379732,
+        "units": ">E33"
     },
     {
         "id": "CF2208671",
@@ -162,18 +151,7 @@
         "location": "1160 VANCOUVER AVE ,BRM",
         "latitude": 37.5800454384467,
         "longitude": -122.369186260492,
-        "units": "E35"
-    },
-    {
-        "id": "CF2208669",
-        "date": "2022-12-31",
-        "time": "5:23:17 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "785 WILLBOROUGH PL ,BRM",
-        "latitude": 37.5823321849318,
-        "longitude": -122.354359999686,
-        "units": "E34"
+        "units": ">E35"
     },
     {
         "id": "CF2208668",
@@ -184,7 +162,7 @@
         "location": "OAK RIM DR / WINDEMERE RD",
         "latitude": 37.5373139111136,
         "longitude": -122.359814591142,
-        "units": "E27"
+        "units": ">E27"
     },
     {
         "id": "CF2208664",
@@ -195,7 +173,7 @@
         "location": "30 BAYBERRY PL ,HIL",
         "latitude": 37.5682806969127,
         "longitude": -122.358237674534,
-        "units": "E32"
+        "units": ">E32"
     },
     {
         "id": "DF2202373",
@@ -207,17 +185,6 @@
         "latitude": 37.252264730514,
         "longitude": -122.393459514594,
         "units": ">U55"
-    },
-    {
-        "id": "CF2208660",
-        "date": "2022-12-31",
-        "time": "4:22:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1540 LOS MONTES DR ,BRM",
-        "latitude": 37.5755557202689,
-        "longitude": -122.395680301045,
-        "units": ">E33"
     },
     {
         "id": "SF2215849",
