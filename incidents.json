@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2300012",
+        "date": "2023-01-01",
+        "time": "8:44:54 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E17"
+    },
+    {
+        "id": "SF2300011",
+        "date": "2023-01-01",
+        "time": "8:44:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SOUTH RD / HOLLY RD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "SF2300010",
+        "date": "2023-01-01",
+        "time": "8:40:42 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BEACH PARK BLVD #156 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "RF2300012",
+        "date": "2023-01-01",
+        "time": "8:38:04 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELSTON CT ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "MF2300009",
+        "date": "2023-01-01",
+        "time": "8:28:41 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "RF2300011",
         "date": "2023-01-01",
         "time": "8:25:27 AM",
@@ -8,18 +63,7 @@
         "location": "CENTER ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
-    },
-    {
-        "id": "MF2300008",
-        "date": "2023-01-01",
-        "time": "8:16:29 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "363 NIMITZ AVE ,WSB",
-        "latitude": 37.4562886720793,
-        "longitude": -122.221165027295,
-        "units": ">E3"
+        "units": ""
     },
     {
         "id": "RF2300010",
@@ -44,39 +88,6 @@
         "units": ">E92"
     },
     {
-        "id": "SF2300009",
-        "date": "2023-01-01",
-        "time": "8:10:59 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #603 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2300007",
-        "date": "2023-01-01",
-        "time": "8:09:55 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAK GROVE AVE / MERRILL ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2300009",
-        "date": "2023-01-01",
-        "time": "8:07:48 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "2321 EATON AVE ,SNC",
-        "latitude": 37.4843151028054,
-        "longitude": -122.255513826659,
-        "units": ">E10"
-    },
-    {
         "id": "RF2300008",
         "date": "2023-01-01",
         "time": "8:05:43 AM",
@@ -86,17 +97,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E15"
-    },
-    {
-        "id": "HF2300004",
-        "date": "2023-01-01",
-        "time": "7:50:11 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "9850 N CABRILLO HWY ,MBH",
-        "latitude": 37.5131254695458,
-        "longitude": -122.498072988333,
-        "units": "?TAC45 CM41X3"
     },
     {
         "id": "MF2300006",
