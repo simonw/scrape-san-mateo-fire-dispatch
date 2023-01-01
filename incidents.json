@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2210417",
+        "id": "HF2203158",
         "date": "2022-12-31",
-        "time": "10:39:32 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:03:58 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "AVE ,NFO",
+        "location": "WASHINGTON BLVD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
+        "units": "?E41"
+    },
+    {
+        "id": "SF2215892",
+        "date": "2022-12-31",
+        "time": "11:02:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W 40TH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "CF2208687",
+        "date": "2022-12-31",
+        "time": "11:02:34 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TIBURON WAY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E38"
+    },
+    {
+        "id": "MF2210418",
+        "date": "2022-12-31",
+        "time": "10:59:51 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BERKSHIRE AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "BF2204255",
+        "date": "2022-12-31",
+        "time": "10:42:55 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1501 MAGNOLIA AVE ,SNB",
+        "latitude": 37.6098077807422,
+        "longitude": -122.406048270544,
+        "units": ">E51"
     },
     {
         "id": "DF2202394",
@@ -19,7 +63,7 @@
         "location": "518 SUMMIT DR ,EML",
         "latitude": 37.4691018767367,
         "longitude": -122.261614241044,
-        "units": "E12"
+        "units": ">E12"
     },
     {
         "id": "RF2213527",
@@ -30,18 +74,7 @@
         "location": "1451 EL CAMINO REAL ,RCY",
         "latitude": 37.4815766426947,
         "longitude": -122.227718766291,
-        "units": ">T9 >BC3 >E9 TAC15 ?CM11X2"
-    },
-    {
-        "id": "FF2207615",
-        "date": "2022-12-31",
-        "time": "10:33:19 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ""
     },
     {
         "id": "SF2215891",
@@ -52,83 +85,6 @@
         "location": "W 3RD AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "FF2207614",
-        "date": "2022-12-31",
-        "time": "10:30:36 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "766 PARK WAY ,SSF",
-        "latitude": 37.662535263203,
-        "longitude": -122.423643373589,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2214117",
-        "date": "2022-12-31",
-        "time": "10:30:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WASHINGTON ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2215890",
-        "date": "2022-12-31",
-        "time": "10:29:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #401 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2214116",
-        "date": "2022-12-31",
-        "time": "10:21:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PRICE ST #1 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "RF2213526",
-        "date": "2022-12-31",
-        "time": "10:19:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "601 LEAHY ST ,RCY",
-        "latitude": 37.4705576492707,
-        "longitude": -122.216183399948,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2213525",
-        "date": "2022-12-31",
-        "time": "10:18:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "3005 SPRING ST ,RCY",
-        "latitude": 37.4811896689152,
-        "longitude": -122.20192699625,
-        "units": ">E5"
-    },
-    {
-        "id": "SF2215888",
-        "date": "2022-12-31",
-        "time": "10:14:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GYMKHANA RD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
+        "units": "E21"
     }
 ]
