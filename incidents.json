@@ -1,14 +1,146 @@
 [
     {
-        "id": "NF2214110",
+        "id": "BF2204252",
         "date": "2022-12-31",
-        "time": "7:38:38 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:06:10 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "CRESPI DR #N201 ,PCF",
+        "location": "ACACIA AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": "E51"
+    },
+    {
+        "id": "RF2213519",
+        "date": "2022-12-31",
+        "time": "8:05:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E10"
+    },
+    {
+        "id": "MF2210411",
+        "date": "2022-12-31",
+        "time": "8:03:14 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "801 LAUREL ST ,MNP",
+        "latitude": 37.4538679495514,
+        "longitude": -122.177766641434,
+        "units": "E6"
+    },
+    {
+        "id": "DF2202392",
+        "date": "2022-12-31",
+        "time": "8:02:37 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "BUNKER HILL DR / LEXINGTON AVE",
+        "latitude": 37.5246887378622,
+        "longitude": -122.352691182327,
+        "units": "?E18"
+    },
+    {
+        "id": "CF2208684",
+        "date": "2022-12-31",
+        "time": "8:02:15 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARIPOSA DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E38"
+    },
+    {
+        "id": "FF2207608",
+        "date": "2022-12-31",
+        "time": "7:58:24 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2214111",
+        "date": "2022-12-31",
+        "time": "7:56:57 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2213518",
+        "date": "2022-12-31",
+        "time": "7:56:07 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Explosion",
+        "location": "2139 ELIZABETH ST ,SNC",
+        "latitude": 37.4972653333262,
+        "longitude": -122.267337439152,
+        "units": "T9 >E13 >E16 E14 TAC15?CM11X5"
+    },
+    {
+        "id": "BF2204251",
+        "date": "2022-12-31",
+        "time": "7:55:08 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LASSEN DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "WF2202051",
+        "date": "2022-12-31",
+        "time": "7:52:58 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "ALPINE RD / LA CUESTA DR",
+        "latitude": 37.4032512806312,
+        "longitude": -122.192650613032,
+        "units": ">E8"
+    },
+    {
+        "id": "CF2208683",
+        "date": "2022-12-31",
+        "time": "7:52:36 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "POPLAR AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "MF2210409",
+        "date": "2022-12-31",
+        "time": "7:48:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "3 SHEARER DR ,ATN",
+        "latitude": 37.4661561139902,
+        "longitude": -122.212112097123,
+        "units": ">E3"
+    },
+    {
+        "id": "MF2210408",
+        "date": "2022-12-31",
+        "time": "7:42:41 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "3 COLEMAN PL ,MNP",
+        "latitude": 37.4620720078205,
+        "longitude": -122.161413889131,
+        "units": ""
     },
     {
         "id": "RF2213516",
@@ -19,18 +151,7 @@
         "location": "GOVERNOR'S BAY DR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "RF2213515",
-        "date": "2022-12-31",
-        "time": "7:34:07 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "910 CLINTON ST ,RCY",
-        "latitude": 37.4782532709483,
-        "longitude": -122.229744302656,
-        "units": ">E10"
+        "units": "E20"
     },
     {
         "id": "RF2213514",
@@ -42,17 +163,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "CF2208682",
-        "date": "2022-12-31",
-        "time": "7:22:34 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
     },
     {
         "id": "CF2208680",
@@ -75,17 +185,6 @@
         "latitude": 37.2911189475411,
         "longitude": -122.234171595918,
         "units": ">E357"
-    },
-    {
-        "id": "CF2208671",
-        "date": "2022-12-31",
-        "time": "5:40:15 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1160 VANCOUVER AVE ,BRM",
-        "latitude": 37.5800454384467,
-        "longitude": -122.369186260492,
-        "units": ">E35"
     },
     {
         "id": "DF2202373",
