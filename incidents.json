@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2300031",
+        "date": "2023-01-01",
+        "time": "3:19:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "WB 92 / WO HIGH RI",
+        "latitude": 37.5819692676653,
+        "longitude": -122.253397834521,
+        "units": "BC8 CM21X2 HABC2 HAE2 E29?TAC26 T21 HAT7"
+    },
+    {
+        "id": "CF2300021",
+        "date": "2023-01-01",
+        "time": "3:14:20 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1501 RALSTON AVE ,BRM",
+        "latitude": 37.5756768628903,
+        "longitude": -122.348568559071,
+        "units": ">E35"
+    },
+    {
+        "id": "SF2300030",
+        "date": "2023-01-01",
+        "time": "3:13:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1001 MARLIN AVE ,FCY",
+        "latitude": 37.5581203027169,
+        "longitude": -122.253605945989,
+        "units": ">BC5 CM21X4 ?TAC25 >E28 >T23"
+    },
+    {
+        "id": "SF2300029",
+        "date": "2023-01-01",
+        "time": "3:06:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #110 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "HF2300009",
         "date": "2023-01-01",
         "time": "3:03:44 PM",
@@ -8,7 +52,7 @@
         "location": "MIRAMONTES POINT RD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
+        "units": ">E41"
     },
     {
         "id": "WF2300012",
@@ -20,39 +64,6 @@
         "latitude": 37.4039416320052,
         "longitude": -122.24858260689,
         "units": ">E7"
-    },
-    {
-        "id": "SF2300028",
-        "date": "2023-01-01",
-        "time": "2:54:55 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROLLMAN AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2300041",
-        "date": "2023-01-01",
-        "time": "2:48:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MORI POINT RD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "DF2300020",
-        "date": "2023-01-01",
-        "time": "2:32:41 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "6700 LA HONDA RD ,LAH",
-        "latitude": 37.3190761866914,
-        "longitude": -122.274246743564,
-        "units": ">R57"
     },
     {
         "id": "WF2300011",
@@ -85,6 +96,6 @@
         "location": "1457 BELLEVUE AVE ,BRM",
         "latitude": 37.5778495266462,
         "longitude": -122.351721906643,
-        "units": ">T34"
+        "units": ">T34 >E38"
     }
 ]
