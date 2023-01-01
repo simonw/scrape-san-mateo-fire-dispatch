@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2300007",
+        "id": "NF2300020",
         "date": "2023-01-01",
-        "time": "7:43:00 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:59:35 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "ARROYO DR #5 ,SSF",
+        "location": "BELMONT DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E63"
+        "units": ">E91"
+    },
+    {
+        "id": "HF2300004",
+        "date": "2023-01-01",
+        "time": "7:50:11 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "9850 N CABRILLO HWY ,MBH",
+        "latitude": 37.5131254695458,
+        "longitude": -122.498072988333,
+        "units": ">BC10 >E44 CM41X3 E41 ?TAC45"
     },
     {
         "id": "MF2300006",
@@ -19,7 +30,7 @@
         "location": "1285 WOODLAND AVE ,MNP",
         "latitude": 37.4575944957322,
         "longitude": -122.150125751061,
-        "units": "?T1"
+        "units": ">T1"
     },
     {
         "id": "CF2300006",
@@ -30,39 +41,6 @@
         "location": "1457 BELLEVUE AVE ,BRM",
         "latitude": 37.5778495266462,
         "longitude": -122.351721906643,
-        "units": "T34"
-    },
-    {
-        "id": "CF2300005",
-        "date": "2023-01-01",
-        "time": "7:30:47 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "240 ROBLAR AVE ,HIL",
-        "latitude": 37.5654353877549,
-        "longitude": -122.338286109303,
-        "units": ">E32"
-    },
-    {
-        "id": "SF2300008",
-        "date": "2023-01-01",
-        "time": "7:26:54 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE / S ELDORADO ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2300006",
-        "date": "2023-01-01",
-        "time": "7:19:27 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD #714 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ">T34"
     }
 ]
