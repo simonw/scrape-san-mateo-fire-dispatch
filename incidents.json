@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2300003",
+        "date": "2023-01-01",
+        "time": "3:37:11 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN ANTONIO ST #E ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "CF2300002",
+        "date": "2023-01-01",
+        "time": "3:36:22 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N ROLLINS RD ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "BF2300004",
+        "date": "2023-01-01",
+        "time": "3:31:41 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #212 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2300015",
+        "date": "2023-01-01",
+        "time": "3:27:55 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEACH BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "DF2300003",
+        "date": "2023-01-01",
+        "time": "3:25:20 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / 35 EXIT",
+        "latitude": 37.5282467290182,
+        "longitude": -122.359778012043,
+        "units": "?CM11X4 TAC15 E18 T17 BC11"
+    },
+    {
         "id": "NF2300014",
         "date": "2023-01-01",
         "time": "3:22:04 AM",
@@ -8,7 +63,7 @@
         "location": "PIERCE ST #234 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E95"
+        "units": ">E95"
     },
     {
         "id": "NF2300013",
@@ -16,21 +71,10 @@
         "time": "3:19:33 AM",
         "summary": "North County Fire on Control-3",
         "category": "Traffic accident",
-        "location": "SB 1 / NO SKYLINE BLVD",
+        "location": "SB 1 / SB SKYLINE BLVD OFF RAMP",
         "latitude": 37.6730920402604,
         "longitude": -122.474566972281,
-        "units": "T95 E71 BC20 E94 ?TAC35?CM31X3"
-    },
-    {
-        "id": "NF2300011",
-        "date": "2023-01-01",
-        "time": "3:12:43 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "2665 GENEVA AVE ,DCY",
-        "latitude": 37.707692683413,
-        "longitude": -122.415881018859,
-        "units": ">E93"
+        "units": ">E94 ?TAC35 >T95 ?CM31X3"
     },
     {
         "id": "BF2300002",
@@ -41,17 +85,6 @@
         "location": "NB 280 / AVALON DR OFF RAMP",
         "latitude": 37.6367912586307,
         "longitude": -122.439668852986,
-        "units": ">E64"
-    },
-    {
-        "id": "DF2300002",
-        "date": "2023-01-01",
-        "time": "2:05:01 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROSSI RD ,SOS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1767 >E17 ?VFIR23"
+        "units": ""
     }
 ]
