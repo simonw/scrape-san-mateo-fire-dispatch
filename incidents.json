@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2300027",
+        "date": "2023-01-01",
+        "time": "12:15:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2300019",
+        "date": "2023-01-01",
+        "time": "12:10:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "1901 J HART CLINTON DR ,SMO",
+        "latitude": 37.5736116481715,
+        "longitude": -122.301825299744,
+        "units": ">E24"
+    },
+    {
+        "id": "WF2300007",
+        "date": "2023-01-01",
+        "time": "12:09:08 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Lock out - commercial",
+        "location": "4900 ALPINE RD ,PVY",
+        "latitude": 37.3647001956833,
+        "longitude": -122.22307066932,
+        "units": "SQ407"
+    },
+    {
+        "id": "SF2300020",
+        "date": "2023-01-01",
+        "time": "12:08:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "124 MADISON AVE ,SMO",
+        "latitude": 37.55404335582,
+        "longitude": -122.319600837998,
+        "units": ""
+    },
+    {
+        "id": "NF2300030",
+        "date": "2023-01-01",
+        "time": "12:05:36 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "140 BEAUMONT BLVD ,PCF",
+        "latitude": 37.6561362564497,
+        "longitude": -122.490463466774,
+        "units": ">E71"
+    },
+    {
         "id": "SF2300018",
         "date": "2023-01-01",
         "time": "12:03:51 PM",
@@ -8,7 +63,7 @@
         "location": "AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E14"
     },
     {
         "id": "DF2300017",
@@ -19,7 +74,7 @@
         "location": "ALPINE RD #EAST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
+        "units": ">E8"
     },
     {
         "id": "NF2300029",
@@ -33,17 +88,6 @@
         "units": ">E92"
     },
     {
-        "id": "LF2300004",
-        "date": "2023-01-01",
-        "time": "11:55:39 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LOUVAINE DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">MED19 >E86"
-    },
-    {
         "id": "RF2300024",
         "date": "2023-01-01",
         "time": "11:54:38 AM",
@@ -52,40 +96,7 @@
         "location": "3911 PEPPERTREE CT ,RCY",
         "latitude": 37.4523553786054,
         "longitude": -122.255275133396,
-        "units": ">E12 CM11X3 E10 T9 BC3E7 ?TAC15"
-    },
-    {
-        "id": "SF2300017",
-        "date": "2023-01-01",
-        "time": "11:52:54 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PLAZA VIEW LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2300014",
-        "date": "2023-01-01",
-        "time": "11:44:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "25 SAN JUAN AVE ,WMP",
-        "latitude": 37.4397402866005,
-        "longitude": -122.207692352577,
-        "units": ">E4"
-    },
-    {
-        "id": "NF2300028",
-        "date": "2023-01-01",
-        "time": "11:15:53 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "517 REINA DEL MAR AVE ,PCF",
-        "latitude": 37.6137145810787,
-        "longitude": -122.481645626764,
-        "units": ">E72"
+        "units": "CM11X3 ?TAC15 >BC3 >E12"
     },
     {
         "id": "WF2300003",
@@ -96,7 +107,7 @@
         "location": "199 MAPACHE DR ,PVY",
         "latitude": 37.3901317528715,
         "longitude": -122.228825075187,
-        "units": "SQ407"
+        "units": ""
     },
     {
         "id": "CF2300006",
