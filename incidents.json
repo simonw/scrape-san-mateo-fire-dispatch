@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2214110",
+        "date": "2022-12-31",
+        "time": "7:38:38 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESPI DR #N201 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "RF2213516",
+        "date": "2022-12-31",
+        "time": "7:37:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GOVERNOR'S BAY DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "RF2213515",
+        "date": "2022-12-31",
+        "time": "7:34:07 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "910 CLINTON ST ,RCY",
+        "latitude": 37.4782532709483,
+        "longitude": -122.229744302656,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2213514",
+        "date": "2022-12-31",
+        "time": "7:33:10 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "CF2208682",
         "date": "2022-12-31",
         "time": "7:22:34 PM",
@@ -11,17 +55,6 @@
         "units": ">T21"
     },
     {
-        "id": "CF2208681",
-        "date": "2022-12-31",
-        "time": "7:21:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY ON RAMP / NB 101",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
         "id": "CF2208680",
         "date": "2022-12-31",
         "time": "7:14:14 PM",
@@ -30,51 +63,7 @@
         "location": "1344 MILLBRAE AVE ,MLB",
         "latitude": 37.5885246501731,
         "longitude": -122.407543603011,
-        "units": "BC8 CM21X1 T34"
-    },
-    {
-        "id": "CF2208679",
-        "date": "2022-12-31",
-        "time": "7:12:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "376 BARBARA WAY ,HIL",
-        "latitude": 37.5500083426148,
-        "longitude": -122.367394135615,
-        "units": ">E33"
-    },
-    {
-        "id": "CF2208678",
-        "date": "2022-12-31",
-        "time": "7:10:43 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "SF2215879",
-        "date": "2022-12-31",
-        "time": "7:03:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "906 E 16TH AVE ,SMO",
-        "latitude": 37.5599386805803,
-        "longitude": -122.305145311391,
-        "units": ">E24"
-    },
-    {
-        "id": "WF2202049",
-        "date": "2022-12-31",
-        "time": "6:31:58 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "1470 CANADA RD ,WDS",
-        "latitude": 37.4316235911834,
-        "longitude": -122.256420227169,
-        "units": ">E7"
+        "units": ">T34 >BC8 CM21X1"
     },
     {
         "id": "DF2202387",
@@ -99,28 +88,6 @@
         "units": ">E35"
     },
     {
-        "id": "CF2208668",
-        "date": "2022-12-31",
-        "time": "5:19:51 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "OAK RIM DR / WINDEMERE RD",
-        "latitude": 37.5373139111136,
-        "longitude": -122.359814591142,
-        "units": ">E27"
-    },
-    {
-        "id": "CF2208664",
-        "date": "2022-12-31",
-        "time": "4:56:00 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "30 BAYBERRY PL ,HIL",
-        "latitude": 37.5682806969127,
-        "longitude": -122.358237674534,
-        "units": ">E32"
-    },
-    {
         "id": "DF2202373",
         "date": "2022-12-31",
         "time": "4:48:52 PM",
@@ -141,16 +108,5 @@
         "latitude": 37.5228868982037,
         "longitude": -122.267638063996,
         "units": ">E2610"
-    },
-    {
-        "id": "CF2208635",
-        "date": "2022-12-31",
-        "time": "3:02:54 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "305 PRIMROSE RD ,BRM",
-        "latitude": 37.5778727215642,
-        "longitude": -122.348502263456,
-        "units": ">E37"
     }
 ]
