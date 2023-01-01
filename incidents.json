@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2300012",
+        "date": "2023-01-01",
+        "time": "10:42:16 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "931 CONTINENTAL DR ,MNP",
+        "latitude": 37.4271326639408,
+        "longitude": -122.208209836983,
+        "units": "?E4"
+    },
+    {
+        "id": "FF2300013",
+        "date": "2023-01-01",
+        "time": "10:36:40 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "WESTBOROUGH BLVD / GELLERT BLVD",
+        "latitude": 37.6434322718537,
+        "longitude": -122.452862292328,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2300014",
+        "date": "2023-01-01",
+        "time": "10:34:19 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1307 ASHWOOD CT ,SMO",
+        "latitude": 37.5465774327141,
+        "longitude": -122.329844401108,
+        "units": ">E25"
+    },
+    {
+        "id": "LF2300002",
+        "date": "2023-01-01",
+        "time": "10:33:37 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Public assist",
+        "location": "5055 JUNIPERO SERRA BLVD ,CLM",
+        "latitude": 37.6722529318109,
+        "longitude": -122.465286238236,
+        "units": ""
+    },
+    {
+        "id": "CF2300012",
+        "date": "2023-01-01",
+        "time": "10:30:25 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "1280 VIEW HAVEN RD ,HIL",
+        "latitude": 37.5478996855505,
+        "longitude": -122.355362576636,
+        "units": ">E33"
+    },
+    {
+        "id": "WF2300005",
+        "date": "2023-01-01",
+        "time": "10:29:44 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "133 MAPACHE DR ,PVY",
+        "latitude": 37.3859260893137,
+        "longitude": -122.225288630838,
+        "units": "*>E8"
+    },
+    {
         "id": "RF2300017",
         "date": "2023-01-01",
         "time": "10:23:28 AM",
@@ -8,7 +74,7 @@
         "location": "MC GARVEY AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E12 E10 CM11X1"
+        "units": ""
     },
     {
         "id": "FF2300011",
@@ -19,40 +85,7 @@
         "location": "COTTONWOOD AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "NF2300027",
-        "date": "2023-01-01",
-        "time": "10:17:32 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "STANLEY AVE / LIVINGSTON AVE",
-        "latitude": 37.594090288455,
-        "longitude": -122.509301235934,
-        "units": "E72"
-    },
-    {
-        "id": "NF2300026",
-        "date": "2023-01-01",
-        "time": "10:14:49 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OAKLAWN DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2300010",
-        "date": "2023-01-01",
-        "time": "10:12:40 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GREENDALE DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
+        "units": "E63"
     },
     {
         "id": "RF2300015",
@@ -66,28 +99,6 @@
         "units": ">E9"
     },
     {
-        "id": "CF2300011",
-        "date": "2023-01-01",
-        "time": "10:06:04 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "90 EL CAMINO REAL ,BRM",
-        "latitude": 37.5752210969436,
-        "longitude": -122.344881566186,
-        "units": ">E34"
-    },
-    {
-        "id": "LF2300001",
-        "date": "2023-01-01",
-        "time": "9:52:55 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "5001 JUNIPERO SERRA BLVD ,CLM",
-        "latitude": 37.6732793063756,
-        "longitude": -122.464687826434,
-        "units": ">E86"
-    },
-    {
         "id": "WF2300003",
         "date": "2023-01-01",
         "time": "8:51:10 AM",
@@ -96,7 +107,7 @@
         "location": "199 MAPACHE DR ,PVY",
         "latitude": 37.3901317528715,
         "longitude": -122.228825075187,
-        "units": "*>E8 >SQ407"
+        "units": ">SQ407"
     },
     {
         "id": "CF2300006",
