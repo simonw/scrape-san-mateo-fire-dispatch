@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2213521",
+        "date": "2022-12-31",
+        "time": "8:42:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E9"
+    },
+    {
+        "id": "MF2210413",
+        "date": "2022-12-31",
+        "time": "8:40:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "6 NEWELL CT ,EPA",
+        "latitude": 37.4573109602062,
+        "longitude": -122.138796747127,
+        "units": "E1"
+    },
+    {
+        "id": "SF2215881",
+        "date": "2022-12-31",
+        "time": "8:33:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #238 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2210412",
+        "date": "2022-12-31",
+        "time": "8:31:34 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "1919 COOLEY AVE ,EPA",
+        "latitude": 37.4565150576254,
+        "longitude": -122.139337467086,
+        "units": ">E2"
+    },
+    {
         "id": "FF2207610",
         "date": "2022-12-31",
         "time": "8:26:14 PM",
@@ -8,7 +52,7 @@
         "location": "GRAND AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E63"
     },
     {
         "id": "RF2213520",
@@ -19,7 +63,7 @@
         "location": "HAVEN AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
+        "units": ">E11"
     },
     {
         "id": "FF2207609",
@@ -30,7 +74,7 @@
         "location": "OLIVE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "NF2214112",
@@ -41,7 +85,7 @@
         "location": "WESTCLIFF CT ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": ">E71"
     },
     {
         "id": "CF2208685",
@@ -52,7 +96,7 @@
         "location": "901 GLEN WAY ,HIL",
         "latitude": 37.5770618462251,
         "longitude": -122.377829733453,
-        "units": "E35"
+        "units": ">E35"
     },
     {
         "id": "SF2215880",
@@ -66,17 +110,6 @@
         "units": ">E14"
     },
     {
-        "id": "BF2204252",
-        "date": "2022-12-31",
-        "time": "8:06:10 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ACACIA AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "RF2213519",
         "date": "2022-12-31",
         "time": "8:05:50 PM",
@@ -86,28 +119,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E10"
-    },
-    {
-        "id": "MF2210411",
-        "date": "2022-12-31",
-        "time": "8:03:14 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "801 LAUREL ST ,MNP",
-        "latitude": 37.4538679495514,
-        "longitude": -122.177766641434,
-        "units": ">E6"
-    },
-    {
-        "id": "CF2208684",
-        "date": "2022-12-31",
-        "time": "8:02:15 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MARIPOSA DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
     },
     {
         "id": "FF2207608",
@@ -121,28 +132,6 @@
         "units": "E61"
     },
     {
-        "id": "NF2214111",
-        "date": "2022-12-31",
-        "time": "7:56:57 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHGATE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "BF2204251",
-        "date": "2022-12-31",
-        "time": "7:55:08 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LASSEN DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "WF2202051",
         "date": "2022-12-31",
         "time": "7:52:58 PM",
@@ -152,71 +141,5 @@
         "latitude": 37.4032512806312,
         "longitude": -122.192650613032,
         "units": ">E8"
-    },
-    {
-        "id": "CF2208683",
-        "date": "2022-12-31",
-        "time": "7:52:36 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "POPLAR AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2210409",
-        "date": "2022-12-31",
-        "time": "7:48:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "3 SHEARER DR ,ATN",
-        "latitude": 37.4661561139902,
-        "longitude": -122.212112097123,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2213516",
-        "date": "2022-12-31",
-        "time": "7:37:04 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GOVERNOR'S BAY DR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": "E20"
-    },
-    {
-        "id": "CF2208680",
-        "date": "2022-12-31",
-        "time": "7:14:14 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "1344 MILLBRAE AVE ,MLB",
-        "latitude": 37.5885246501731,
-        "longitude": -122.407543603011,
-        "units": ">T34 >BC8 CM21X1"
-    },
-    {
-        "id": "DF2202387",
-        "date": "2022-12-31",
-        "time": "6:25:10 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "9000 ALPINE RD ,SOS",
-        "latitude": 37.2911189475411,
-        "longitude": -122.234171595918,
-        "units": "*>E357"
-    },
-    {
-        "id": "SF2215849",
-        "date": "2022-12-31",
-        "time": "3:06:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "100 HARBOR BLVD ,BLM",
-        "latitude": 37.5228868982037,
-        "longitude": -122.267638063996,
-        "units": ">E2610"
     }
 ]
