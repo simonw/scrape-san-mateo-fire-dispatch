@@ -1,5 +1,93 @@
 [
     {
+        "id": "CF2300045",
+        "date": "2023-01-02",
+        "time": "12:01:17 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "15 ST FRANCIS RD ,HIL",
+        "latitude": 37.5602370291308,
+        "longitude": -122.334137826939,
+        "units": "E32"
+    },
+    {
+        "id": "SF2300068",
+        "date": "2023-01-02",
+        "time": "11:59:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "240 WATERS PARK CIR ,SMO",
+        "latitude": 37.5505297506475,
+        "longitude": -122.292086171934,
+        "units": "E26"
+    },
+    {
+        "id": "CF2300043",
+        "date": "2023-01-02",
+        "time": "11:57:27 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1094A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "DF2300033",
+        "date": "2023-01-02",
+        "time": "11:55:27 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist",
+        "location": "1851 LEXINGTON AVE #REC ,EIC",
+        "latitude": 37.5193391122858,
+        "longitude": -122.346840162381,
+        "units": ">T17"
+    },
+    {
+        "id": "FF2300034",
+        "date": "2023-01-02",
+        "time": "11:49:59 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "WESTBOROUGH BLVD #116 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "MF2300039",
+        "date": "2023-01-02",
+        "time": "11:49:22 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DEMETER ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "MF2300038",
+        "date": "2023-01-02",
+        "time": "11:46:08 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "WOODLAND AVE / UNIVERSITY AVE",
+        "latitude": 37.4579749079162,
+        "longitude": -122.141802268042,
+        "units": ">BC101 >T2"
+    },
+    {
+        "id": "SF2300065",
+        "date": "2023-01-02",
+        "time": "11:44:22 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "40 W 3RD AVE ,SMO",
+        "latitude": 37.5625278797818,
+        "longitude": -122.327089154484,
+        "units": ">E24"
+    },
+    {
         "id": "MF2300037",
         "date": "2023-01-02",
         "time": "11:42:02 AM",
@@ -8,29 +96,7 @@
         "location": "WILLOW RD #101 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
-    },
-    {
-        "id": "SF2300064",
-        "date": "2023-01-02",
-        "time": "11:36:25 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "121 INDUSTRIAL RD #10 ,BLM",
-        "latitude": 37.5210568733684,
-        "longitude": -122.265666794645,
-        "units": ">E14"
-    },
-    {
-        "id": "HF2300023",
-        "date": "2023-01-02",
-        "time": "11:24:37 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "CEDAR ST / DRAKE ST",
-        "latitude": 37.5448971063172,
-        "longitude": -122.501512585586,
-        "units": ">E71"
+        "units": ""
     },
     {
         "id": "SF2300062",
@@ -41,7 +107,7 @@
         "location": "111 ST MATTHEWS AVE ,SMO",
         "latitude": 37.5670585048637,
         "longitude": -122.328090635935,
-        "units": ">BC5 CM21X3 TAC25 >E21 >T21"
+        "units": ">BC5"
     },
     {
         "id": "DF2300031",
@@ -52,7 +118,7 @@
         "location": "SB 1 / SO TUNNEL",
         "latitude": 37.5629500165583,
         "longitude": -122.513137177766,
-        "units": ">BC5E ?TAC45 >E44 >E41 >TO11>R40 CM41X4 >BC10 >E72"
+        "units": ">BC5E ?TAC45 >E44 BC123 >E41>E71 >TO11 BC15 >R40 CM41X4"
     },
     {
         "id": "RF2300066",
@@ -63,7 +129,7 @@
         "location": "1368 WOODLAND AVE ,SNC",
         "latitude": 37.4951821220716,
         "longitude": -122.253663233206,
-        "units": ">T9 ?TAC16 >E13 >BC3 >PR3D"
+        "units": "?TAC16 >PR3D"
     },
     {
         "id": "WF2300015",
