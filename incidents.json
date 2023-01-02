@@ -1,25 +1,47 @@
 [
     {
-        "id": "BF2300013",
+        "id": "RF2300052",
         "date": "2023-01-01",
-        "time": "10:38:05 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "11:02:22 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "LINDEN AVE ,SNB",
+        "location": "NORTHAM AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": "E16"
     },
     {
-        "id": "FF2300025",
+        "id": "SF2300044",
         "date": "2023-01-01",
-        "time": "10:34:52 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "10:53:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "744 EDGEWATER BLVD #205 ,FCY",
+        "latitude": 37.5526946734327,
+        "longitude": -122.274866276765,
+        "units": ">E29"
+    },
+    {
+        "id": "CF2300034",
+        "date": "2023-01-01",
+        "time": "10:51:28 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "MISSION RD ,SSF",
+        "location": "DUFFERIN AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": ">E34 >E21 ?CM21X1"
+    },
+    {
+        "id": "NF2300058",
+        "date": "2023-01-01",
+        "time": "10:49:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "CF2300033",
@@ -31,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "SF2300043",
-        "date": "2023-01-01",
-        "time": "10:06:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CATALPA ST #110 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E21"
     }
 ]
