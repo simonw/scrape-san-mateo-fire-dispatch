@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2300059",
+        "date": "2023-01-02",
+        "time": "10:42:40 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "2000 S DELAWARE ST ,SMO",
+        "latitude": 37.550592569481,
+        "longitude": -122.305391529616,
+        "units": "?E23"
+    },
+    {
+        "id": "RF2300068",
+        "date": "2023-01-02",
+        "time": "10:41:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GORDON ST #315 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "HF2300022",
+        "date": "2023-01-02",
+        "time": "10:37:34 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OCEAN VIEW AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "HF2300021",
+        "date": "2023-01-02",
+        "time": "10:34:21 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FAIRWAY DR ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
         "id": "SF2300058",
         "date": "2023-01-02",
         "time": "10:23:10 AM",
@@ -11,39 +55,6 @@
         "units": ">E21"
     },
     {
-        "id": "RF2300067",
-        "date": "2023-01-02",
-        "time": "10:22:56 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "1482 EL CAMINO REAL ,SNC",
-        "latitude": 37.496638929918,
-        "longitude": -122.248257127095,
-        "units": "E12"
-    },
-    {
-        "id": "DF2300030",
-        "date": "2023-01-02",
-        "time": "10:17:22 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "11851 SAN MATEO RD ,SON",
-        "latitude": 37.4921718839694,
-        "longitude": -122.386223883472,
-        "units": ">E40 ?TAC17 T17 >PR11A >BC15"
-    },
-    {
-        "id": "NF2300072",
-        "date": "2023-01-02",
-        "time": "10:15:49 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CARMEL AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
         "id": "RF2300066",
         "date": "2023-01-02",
         "time": "10:14:22 AM",
@@ -52,29 +63,7 @@
         "location": "1368 WOODLAND AVE ,SNC",
         "latitude": 37.4951821220716,
         "longitude": -122.253663233206,
-        "units": ">E9 >E20 ?CM11X2 >T9 ?TAC16>E13 >BC3 >E16"
-    },
-    {
-        "id": "SF2300056",
-        "date": "2023-01-02",
-        "time": "10:06:48 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COLGATE WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "CF2300041",
-        "date": "2023-01-02",
-        "time": "9:39:29 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "225 S ASHTON AVE ,MLB",
-        "latitude": 37.5908030748145,
-        "longitude": -122.394898225357,
-        "units": ">E37"
+        "units": ">E9 >E20 >T9 ?TAC16 >E13>BC3 PR3D >E16"
     },
     {
         "id": "WF2300015",
