@@ -1,5 +1,27 @@
 [
     {
+        "id": "WF2300013",
+        "date": "2023-01-01",
+        "time": "9:10:42 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "3919 LAKEMEAD WAY ,EML",
+        "latitude": 37.461272145457,
+        "longitude": -122.262959355653,
+        "units": "SQ407 >CM11X1 >E19"
+    },
+    {
+        "id": "RF2300048",
+        "date": "2023-01-01",
+        "time": "9:06:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "1119 HOPKINS AVE ,RCY",
+        "latitude": 37.4876793101163,
+        "longitude": -122.239135998325,
+        "units": ">T9 >E9 >BC3 CM11X5 ?TAC15"
+    },
+    {
         "id": "NF2300056",
         "date": "2023-01-01",
         "time": "8:51:58 PM",
@@ -8,18 +30,7 @@
         "location": "SAN JOSE AVE / FLOURNOY ST",
         "latitude": 37.7073625097355,
         "longitude": -122.459987326012,
-        "units": ">BC20 ?TAC35 >E92 >T95 CM31X3"
-    },
-    {
-        "id": "CF2300031",
-        "date": "2023-01-01",
-        "time": "8:49:59 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1420 BURLINGAME AVE ,BRM",
-        "latitude": 37.5777680108708,
-        "longitude": -122.348872422356,
-        "units": ">E34"
+        "units": "E92"
     },
     {
         "id": "NF2300055",
@@ -30,6 +41,6 @@
         "location": "WARD CT #14 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": "*>E94"
     }
 ]
