@@ -1,36 +1,80 @@
 [
     {
+        "id": "SF2300040",
+        "date": "2023-01-01",
+        "time": "8:04:38 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E25"
+    },
+    {
+        "id": "NF2300050",
+        "date": "2023-01-01",
+        "time": "8:00:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
+    },
+    {
+        "id": "CF2300029",
+        "date": "2023-01-01",
+        "time": "7:58:25 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #14C ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "MF2300025",
+        "date": "2023-01-01",
+        "time": "7:55:14 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BILTMORE LN ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2300047",
+        "date": "2023-01-01",
+        "time": "7:54:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "INDUSTRIAL RD #D ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "NF2300049",
+        "date": "2023-01-01",
+        "time": "7:49:11 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "CITRUS AVE / JUNIPERO SERRA BLVD",
+        "latitude": 37.6977098358271,
+        "longitude": -122.470674643267,
+        "units": "?TAC35 >E92 CM31X4"
+    },
+    {
         "id": "RF2300046",
         "date": "2023-01-01",
         "time": "7:38:47 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
+        "category": "Hazardous material - consult",
         "location": "1509 LAUREL ST ,SNC",
         "latitude": 37.4959308549834,
         "longitude": -122.248030219805,
-        "units": "E13 E16"
-    },
-    {
-        "id": "MF2300024",
-        "date": "2023-01-01",
-        "time": "7:31:27 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "795 WILLOW RD ,MNP",
-        "latitude": 37.4663546046411,
-        "longitude": -122.160234197566,
-        "units": ">E1"
-    },
-    {
-        "id": "BF2300012",
-        "date": "2023-01-01",
-        "time": "7:14:18 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
+        "units": "HM14 >E13"
     },
     {
         "id": "CF2300028",
