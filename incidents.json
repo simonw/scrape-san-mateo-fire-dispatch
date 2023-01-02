@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2300052",
+        "id": "MF2300027",
         "date": "2023-01-01",
-        "time": "11:02:22 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:21:30 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "NORTHAM AVE ,SNC",
+        "location": "E BAYSHORE RD / CLARKE AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
+        "units": "?E2"
+    },
+    {
+        "id": "BF2300014",
+        "date": "2023-01-01",
+        "time": "11:20:30 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "529 5TH AVE ,SNB",
+        "latitude": 37.6259567786974,
+        "longitude": -122.405228873695,
+        "units": "?E51"
     },
     {
         "id": "SF2300044",
@@ -30,7 +41,7 @@
         "location": "DUFFERIN AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34 >E21 ?CM21X1"
+        "units": "?CM21X1 >E34 >E21"
     },
     {
         "id": "NF2300058",
@@ -41,17 +52,6 @@
         "location": "JUNIPERO SERRA BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2300033",
-        "date": "2023-01-01",
-        "time": "10:31:45 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1056A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ""
     }
 ]
