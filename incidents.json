@@ -1,47 +1,91 @@
 [
     {
-        "id": "NF2300073",
+        "id": "RF2300075",
         "date": "2023-01-02",
-        "time": "12:41:17 PM",
+        "time": "1:00:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GORDON ST #5 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "RF2300074",
+        "date": "2023-01-02",
+        "time": "12:56:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CAMBRIDGE ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2300070",
+        "date": "2023-01-02",
+        "time": "12:53:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HEMLOCK AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "RF2300073",
+        "date": "2023-01-02",
+        "time": "12:53:33 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "1377 EATON AVE ,SNC",
+        "latitude": 37.4916580695805,
+        "longitude": -122.246826877319,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2300075",
+        "date": "2023-01-02",
+        "time": "12:52:05 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "WILDFLOWER CT ,DCY",
+        "location": "MANOR PLZ ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
+        "units": ">E52"
     },
     {
-        "id": "BF2300022",
+        "id": "NF2300074",
         "date": "2023-01-02",
-        "time": "12:27:12 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "12:50:46 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
+        "location": "ESCUELA DR #205A ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
+        "units": ">E95"
     },
     {
-        "id": "MF2300041",
+        "id": "SF2300069",
         "date": "2023-01-02",
-        "time": "12:26:29 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POPLAR AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "time": "12:48:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "730 POLHEMUS RD ,SMO",
+        "latitude": 37.5206664577833,
+        "longitude": -122.339275315614,
+        "units": ">E27"
     },
     {
-        "id": "BF2300021",
+        "id": "WF2300021",
         "date": "2023-01-02",
-        "time": "12:22:07 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "12:47:07 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "TRENTON DR ,SNB",
+        "location": "BIG TREE RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": ">E58 ?TAC17 CM11X5 >R56"
     },
     {
         "id": "DF2300031",
@@ -53,17 +97,6 @@
         "latitude": 37.5629500165583,
         "longitude": -122.513137177766,
         "units": ">BC5E ?TAC45 >E44 >E41 >E71>TO11 >BC15 >R40 CM41X4 >BC10"
-    },
-    {
-        "id": "RF2300066",
-        "date": "2023-01-02",
-        "time": "10:14:22 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "1368 WOODLAND AVE ,SNC",
-        "latitude": 37.4951821220716,
-        "longitude": -122.253663233206,
-        "units": "?TAC16"
     },
     {
         "id": "WF2300015",
