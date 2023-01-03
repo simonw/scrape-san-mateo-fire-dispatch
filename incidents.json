@@ -1,5 +1,27 @@
 [
     {
+        "id": "LF2300011",
+        "date": "2023-01-03",
+        "time": "3:31:35 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WASHINGTON ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "SF2300119",
+        "date": "2023-01-03",
+        "time": "3:29:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S B ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "DF2300044",
         "date": "2023-01-03",
         "time": "3:19:55 PM",
@@ -8,18 +30,7 @@
         "location": "MOUNTAIN MEADOW DR ,SKY",
         "latitude": null,
         "longitude": null,
-        "units": "E58 TAC15 R56"
-    },
-    {
-        "id": "NF2300131",
-        "date": "2023-01-03",
-        "time": "3:10:23 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHGATE AVE #210 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">E58 TAC15 >R56"
     },
     {
         "id": "MF2300088",
@@ -30,18 +41,7 @@
         "location": "SHARON OAKS DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "CF2300077",
-        "date": "2023-01-03",
-        "time": "2:57:34 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #312 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
+        "units": "*>E4"
     },
     {
         "id": "MF2300087",
@@ -53,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E2"
-    },
-    {
-        "id": "NF2300130",
-        "date": "2023-01-03",
-        "time": "2:46:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OAKMONT DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E95"
     }
 ]
