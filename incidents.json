@@ -1,5 +1,27 @@
 [
     {
+        "id": "HF2300031",
+        "date": "2023-01-02",
+        "time": "8:34:13 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "1800 HIGGINS CANYON RD ,SOS",
+        "latitude": 37.4515985733724,
+        "longitude": -122.422793668368,
+        "units": "*>E40"
+    },
+    {
+        "id": "CF2300054",
+        "date": "2023-01-02",
+        "time": "8:32:08 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1452 FLORIBUNDA AVE ,BRM",
+        "latitude": 37.5793285530721,
+        "longitude": -122.353739865121,
+        "units": ">T34"
+    },
+    {
         "id": "SF2300084",
         "date": "2023-01-02",
         "time": "8:25:37 PM",
@@ -8,7 +30,7 @@
         "location": "SB 101 / NO E 3RD AVE",
         "latitude": 37.5750283753154,
         "longitude": -122.318639833312,
-        "units": "T21 E26 E24 CM21X4 ?TAC25?BC8"
+        "units": "CM21X4 >BC8 ?TAC25 >E24 >E26>T21"
     },
     {
         "id": "NF2300092",
@@ -19,7 +41,7 @@
         "location": "GELLERT BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "RF2300095",
@@ -30,7 +52,7 @@
         "location": "HOPKINS AVE #48 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T9"
+        "units": ""
     },
     {
         "id": "RF2300094",
@@ -41,18 +63,7 @@
         "location": "GOODWIN AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2300093",
-        "date": "2023-01-02",
-        "time": "8:11:56 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "205 REDWOOD SHORES PKWY ,RWS",
-        "latitude": 37.5230003631162,
-        "longitude": -122.253283135579,
-        "units": ">E20"
+        "units": ""
     },
     {
         "id": "NF2300091",
@@ -64,17 +75,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E95"
-    },
-    {
-        "id": "NF2300089",
-        "date": "2023-01-02",
-        "time": "8:07:05 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "FF2300042",
