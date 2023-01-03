@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2300091",
+        "date": "2023-01-02",
+        "time": "7:37:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2300090",
+        "date": "2023-01-02",
+        "time": "7:30:22 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "707 LEAHY ST ,RCY",
+        "latitude": 37.4702118714814,
+        "longitude": -122.215220792766,
+        "units": ">E3"
+    },
+    {
         "id": "FF2300041",
         "date": "2023-01-02",
         "time": "7:22:38 PM",
@@ -8,7 +30,7 @@
         "location": "SB 101 / NO 380",
         "latitude": 37.6426283504007,
         "longitude": -122.406232661856,
-        "units": "BC17 Q62 TAC35 E65 ?CM31X5"
+        "units": "TAC35 >E65 >BC17 ?CM31X5 >Q62"
     },
     {
         "id": "BF2300025",
@@ -20,71 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E51"
-    },
-    {
-        "id": "CF2300053",
-        "date": "2023-01-02",
-        "time": "7:16:45 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "1440 CHAPIN AVE ,BRM",
-        "latitude": 37.577881134353,
-        "longitude": -122.350935757488,
-        "units": ">E34"
-    },
-    {
-        "id": "FF2300040",
-        "date": "2023-01-02",
-        "time": "7:11:02 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA VISTA DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "MF2300059",
-        "date": "2023-01-02",
-        "time": "7:03:55 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SANTA CRUZ AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "HF2300029",
-        "date": "2023-01-02",
-        "time": "6:43:13 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FERDINAND AVE ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "SF2300080",
-        "date": "2023-01-02",
-        "time": "6:31:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MIRA ST ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "FF2300039",
-        "date": "2023-01-02",
-        "time": "6:09:59 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Pole fire",
-        "location": "2216 DELVIN WAY ,SSF",
-        "latitude": 37.6393351727905,
-        "longitude": -122.447472996946,
-        "units": ">E64"
     }
 ]
