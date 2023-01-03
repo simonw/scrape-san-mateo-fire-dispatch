@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2300104",
+        "date": "2023-01-03",
+        "time": "9:22:22 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "420 STATION PARK CIR ,SMO",
+        "latitude": 37.5551746028578,
+        "longitude": -122.308062759895,
+        "units": "E23"
+    },
+    {
+        "id": "SF2300103",
+        "date": "2023-01-03",
+        "time": "9:19:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARLIN AVE #2 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
         "id": "RF2300110",
         "date": "2023-01-03",
         "time": "9:02:18 AM",
@@ -8,18 +30,7 @@
         "location": "FULTON ST / HOPKINS AVE",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
-    },
-    {
-        "id": "WF2300027",
-        "date": "2023-01-03",
-        "time": "9:00:28 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "STADLER RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": "R56 >E58 CM11X4 ?TAC16"
+        "units": ">T9"
     },
     {
         "id": "BF2300030",
@@ -41,40 +52,7 @@
         "location": "OLD COUNTY RD ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "MF2300079",
-        "date": "2023-01-03",
-        "time": "8:56:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "SANTA CRUZ AVE / SAND HILL RD",
-        "latitude": 37.4258512850005,
-        "longitude": -122.192377904228,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2300108",
-        "date": "2023-01-03",
-        "time": "8:56:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "RF2300107",
-        "date": "2023-01-03",
-        "time": "8:54:15 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARSHALL ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": "E16"
     },
     {
         "id": "BF2300029",
@@ -96,7 +74,7 @@
         "location": "3500 ALAMEDA DE LAS PULGAS #200 ,WMP",
         "latitude": 37.4323488076999,
         "longitude": -122.20312439777,
-        "units": ">T1 ?TAC15 CM11X1 >E4"
+        "units": ">E4"
     },
     {
         "id": "NF2300115",
@@ -108,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E91"
-    },
-    {
-        "id": "RF2300106",
-        "date": "2023-01-03",
-        "time": "8:35:40 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COUNTY CN ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
