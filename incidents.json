@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2300056",
+        "date": "2023-01-02",
+        "time": "9:55:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BELLEVUE AVE #102 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "NF2300097",
+        "date": "2023-01-02",
+        "time": "9:46:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #244C ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "WF2300025",
+        "date": "2023-01-02",
+        "time": "9:45:37 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEAR GULCH DR ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E8"
+    },
+    {
         "id": "MF2300065",
         "date": "2023-01-02",
         "time": "9:41:07 PM",
@@ -8,18 +41,7 @@
         "location": "CRANE ST #222 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
-    },
-    {
-        "id": "NF2300096",
-        "date": "2023-01-02",
-        "time": "9:37:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "PACIFIC AVE / LUNETTA AVE",
-        "latitude": 37.6320741287535,
-        "longitude": -122.487761226153,
-        "units": "E72"
+        "units": ">E6"
     },
     {
         "id": "SF2300085",
@@ -30,18 +52,7 @@
         "location": "MARINERS ISLAND BLVD #28 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "NF2300095",
-        "date": "2023-01-02",
-        "time": "9:36:55 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OCEANA BLVD #102 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">E26"
     },
     {
         "id": "MF2300064",
@@ -52,18 +63,7 @@
         "location": "MANHATTAN AVE #7 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2300094",
-        "date": "2023-01-02",
-        "time": "9:26:29 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "141 INDUSTRIAL WAY ,BRS",
-        "latitude": 37.6991362907284,
-        "longitude": -122.406889763242,
-        "units": ">E81"
+        "units": ""
     },
     {
         "id": "CF2300055",
@@ -85,7 +85,7 @@
         "location": "DEL NORTE AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": ""
     },
     {
         "id": "MF2300062",
@@ -96,7 +96,7 @@
         "location": "BERKSHIRE AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
+        "units": ""
     },
     {
         "id": "HF2300031",
@@ -107,6 +107,6 @@
         "location": "1250 HIGGINS CANYON RD ,SOS",
         "latitude": 37.4515985733724,
         "longitude": -122.422793668368,
-        "units": "*>E40"
+        "units": ""
     }
 ]
