@@ -1,5 +1,104 @@
 [
     {
+        "id": "BF2300031",
+        "date": "2023-01-03",
+        "time": "10:04:20 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "SF2300108",
+        "date": "2023-01-03",
+        "time": "10:02:35 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAURIE MEADOWS DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "WF2300030",
+        "date": "2023-01-03",
+        "time": "10:01:53 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEAR GULCH DR ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E8"
+    },
+    {
+        "id": "SF2300107",
+        "date": "2023-01-03",
+        "time": "10:01:26 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CIPRIANI BLVD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "SF2300106",
+        "date": "2023-01-03",
+        "time": "9:59:23 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOWE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "FF2300050",
+        "date": "2023-01-03",
+        "time": "9:58:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRAND AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "CF2300066",
+        "date": "2023-01-03",
+        "time": "9:57:01 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "VIA DELIZIA ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
+    },
+    {
+        "id": "NF2300118",
+        "date": "2023-01-03",
+        "time": "9:55:34 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ORIENTE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "WF2300029",
+        "date": "2023-01-03",
+        "time": "9:50:21 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "SKYWOOD WAY / LA HONDA RD",
+        "latitude": 37.3927322695448,
+        "longitude": -122.261371894566,
+        "units": ">E58 E356"
+    },
+    {
         "id": "NF2300117",
         "date": "2023-01-03",
         "time": "9:41:53 AM",
@@ -8,7 +107,7 @@
         "location": "BELLEVUE AVE #B ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     },
     {
         "id": "MF2300081",
@@ -19,73 +118,7 @@
         "location": "RINGWOOD AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1 T1"
-    },
-    {
-        "id": "RF2300111",
-        "date": "2023-01-03",
-        "time": "9:35:04 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "200 ARUNDEL RD ,SNC",
-        "latitude": 37.5041827334215,
-        "longitude": -122.275128410401,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2300116",
-        "date": "2023-01-03",
-        "time": "9:32:36 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "WF2300028",
-        "date": "2023-01-03",
-        "time": "9:31:37 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "2920 WOODSIDE RD ,WDS",
-        "latitude": 37.4296361708453,
-        "longitude": -122.249525695384,
-        "units": ">E7"
-    },
-    {
-        "id": "MF2300080",
-        "date": "2023-01-03",
-        "time": "9:27:37 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "507 LAUREL ST ,MNP",
-        "latitude": 37.4528764389665,
-        "longitude": -122.17448828331,
-        "units": ""
-    },
-    {
-        "id": "SF2300103",
-        "date": "2023-01-03",
-        "time": "9:19:05 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MARLIN AVE #2 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "BF2300030",
-        "date": "2023-01-03",
-        "time": "8:59:41 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "555 EL CAMINO REAL ,SNB",
-        "latitude": 37.6243047957051,
-        "longitude": -122.414093587335,
-        "units": ">T51"
+        "units": ">E1"
     },
     {
         "id": "RF2300109",
@@ -96,17 +129,6 @@
         "location": "OLD COUNTY RD ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
-    },
-    {
-        "id": "NF2300115",
-        "date": "2023-01-03",
-        "time": "8:42:52 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "S MAYFAIR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ""
     }
 ]
