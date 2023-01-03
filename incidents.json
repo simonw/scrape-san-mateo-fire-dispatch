@@ -1,14 +1,80 @@
 [
     {
-        "id": "LF2300009",
+        "id": "SF2300091",
         "date": "2023-01-02",
-        "time": "11:19:49 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "11:41:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MISSION RD ,CLM",
+        "location": "E KYNE ST #308 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": "T23"
+    },
+    {
+        "id": "SF2300090",
+        "date": "2023-01-02",
+        "time": "11:40:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SUNSET TE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "CF2300059",
+        "date": "2023-01-02",
+        "time": "11:38:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #102 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "SF2300088",
+        "date": "2023-01-02",
+        "time": "11:38:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CHRISTIAN DR ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "SF2300089",
+        "date": "2023-01-02",
+        "time": "11:38:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "600 9TH AVE ,SMO",
+        "latitude": 37.5630819905206,
+        "longitude": -122.315259730516,
+        "units": "E24"
+    },
+    {
+        "id": "DF2300042",
+        "date": "2023-01-02",
+        "time": "11:34:36 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WHITE PLAINS CT ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17"
+    },
+    {
+        "id": "BF2300027",
+        "date": "2023-01-02",
+        "time": "11:32:12 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SCOTT ST ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     },
     {
         "id": "SF2300087",
@@ -19,7 +85,7 @@
         "location": "S DELAWARE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": ""
     },
     {
         "id": "RF2300097",
@@ -31,49 +97,5 @@
         "latitude": 37.4746449847377,
         "longitude": -122.221254346443,
         "units": ">E9"
-    },
-    {
-        "id": "MF2300066",
-        "date": "2023-01-02",
-        "time": "11:02:48 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "200 INDEPENDENCE DR ,MNP",
-        "latitude": 37.4823630134144,
-        "longitude": -122.176694627587,
-        "units": ""
-    },
-    {
-        "id": "BF2300026",
-        "date": "2023-01-02",
-        "time": "10:51:54 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MEDINA DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2300032",
-        "date": "2023-01-02",
-        "time": "10:34:55 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "619 THE ALAMEDA ,ELG",
-        "latitude": 37.5040726185185,
-        "longitude": -122.468048651535,
-        "units": ""
-    },
-    {
-        "id": "DF2300041",
-        "date": "2023-01-02",
-        "time": "10:28:21 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / SO VISTA 3",
-        "latitude": 37.5004067419462,
-        "longitude": -122.326125246726,
-        "units": ""
     }
 ]
