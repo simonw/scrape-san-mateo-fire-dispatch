@@ -1,25 +1,36 @@
 [
     {
+        "id": "MF2300062",
+        "date": "2023-01-02",
+        "time": "8:55:51 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BERKSHIRE AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "RF2300096",
+        "date": "2023-01-02",
+        "time": "8:53:45 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DARTMOUTH AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
         "id": "HF2300031",
         "date": "2023-01-02",
         "time": "8:34:13 PM",
         "summary": "Coastside Fire on Control-1",
         "category": "Sparking/arcing wires down",
-        "location": "1800 HIGGINS CANYON RD ,SOS",
+        "location": "1250 HIGGINS CANYON RD ,SOS",
         "latitude": 37.4515985733724,
         "longitude": -122.422793668368,
         "units": "*>E40"
-    },
-    {
-        "id": "CF2300054",
-        "date": "2023-01-02",
-        "time": "8:32:08 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "1452 FLORIBUNDA AVE ,BRM",
-        "latitude": 37.5793285530721,
-        "longitude": -122.353739865121,
-        "units": ">T34"
     },
     {
         "id": "SF2300084",
@@ -30,61 +41,6 @@
         "location": "SB 101 / NO E 3RD AVE",
         "latitude": 37.5750283753154,
         "longitude": -122.318639833312,
-        "units": "CM21X4 >BC8 ?TAC25 >E24 >E26>T21"
-    },
-    {
-        "id": "NF2300092",
-        "date": "2023-01-02",
-        "time": "8:23:40 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "RF2300095",
-        "date": "2023-01-02",
-        "time": "8:19:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOPKINS AVE #48 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2300094",
-        "date": "2023-01-02",
-        "time": "8:17:16 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GOODWIN AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2300091",
-        "date": "2023-01-02",
-        "time": "8:09:37 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "FF2300042",
-        "date": "2023-01-02",
-        "time": "8:01:58 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "KEONCREST DR / NEWMAN DR",
-        "latitude": 37.6577318858253,
-        "longitude": -122.45392872558,
-        "units": "E64"
+        "units": "CM21X4 >BC8 ?TAC25 >E24 >T21"
     }
 ]
