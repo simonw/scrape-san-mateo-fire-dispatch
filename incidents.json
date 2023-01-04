@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2300061",
+        "date": "2023-01-03",
+        "time": "9:16:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "POPLAR AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "MF2300098",
+        "date": "2023-01-03",
+        "time": "9:13:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GARDEN ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "RF2300140",
+        "date": "2023-01-03",
+        "time": "9:08:11 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "215 INNER CIR ,RCY",
+        "latitude": 37.4756181849074,
+        "longitude": -122.246313305502,
+        "units": ">E9 >BC3 >T9 CM11X4 ?TAC15"
+    },
+    {
         "id": "MF2300097",
         "date": "2023-01-03",
         "time": "9:02:55 PM",
@@ -8,7 +41,7 @@
         "location": "OAK LN ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E6"
     },
     {
         "id": "RF2300139",
@@ -19,7 +52,7 @@
         "location": "REDWOOD AVE / JUNIPERO AVE",
         "latitude": 37.4660733878549,
         "longitude": -122.23607511999,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "BF2300042",
@@ -31,49 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "RF2300138",
-        "date": "2023-01-03",
-        "time": "8:55:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "COUNTRY CLUB DR / CASTLE HILL RD",
-        "latitude": 37.4600060665098,
-        "longitude": -122.251933408173,
-        "units": ">E12"
-    },
-    {
-        "id": "MF2300096",
-        "date": "2023-01-03",
-        "time": "8:54:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY AVE #211 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "BF2300041",
-        "date": "2023-01-03",
-        "time": "8:52:10 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PICCADILLY PL #13 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "DF2300046",
-        "date": "2023-01-03",
-        "time": "8:50:54 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LEXINGTON AVE / BUNKER HILL DR",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E17"
     }
 ]
