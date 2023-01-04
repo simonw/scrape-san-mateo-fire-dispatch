@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2300146",
+        "id": "HF2300037",
         "date": "2023-01-03",
-        "time": "11:16:54 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:42:40 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
+        "location": "MAIN ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "?E40"
+    },
+    {
+        "id": "NF2300146",
+        "date": "2023-01-03",
+        "time": "11:36:18 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WILSHIRE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "BF2300044",
+        "date": "2023-01-03",
+        "time": "11:26:35 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MERCED DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "WF2300035",
@@ -19,28 +41,6 @@
         "location": "2526 WOODLAND PL ,EML",
         "latitude": 37.4666837614623,
         "longitude": -122.268063672759,
-        "units": ">E12 >E19 E10 CM11X2 SQ407T9 BC2 ?TAC15"
-    },
-    {
-        "id": "RF2300144",
-        "date": "2023-01-03",
-        "time": "11:03:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2300145",
-        "date": "2023-01-03",
-        "time": "10:59:27 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #115A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": "CM11X2 ?TAC15 >BC2 >SQ407 >E19>E12"
     }
 ]
