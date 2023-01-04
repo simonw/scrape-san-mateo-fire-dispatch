@@ -1,14 +1,91 @@
 [
     {
-        "id": "SF2300164",
+        "id": "NF2300184",
         "date": "2023-01-04",
-        "time": "3:01:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:24:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "1030 LINDA MAR BLVD ,PCF",
+        "latitude": 37.5861077698757,
+        "longitude": -122.492813275351,
+        "units": "?TAC35 BC124 T95 CM31X3 E72"
+    },
+    {
+        "id": "HF2300057",
+        "date": "2023-01-04",
+        "time": "3:23:12 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S #117 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "NF2300183",
+        "date": "2023-01-04",
+        "time": "3:21:45 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #241C ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "BF2300049",
+        "date": "2023-01-04",
+        "time": "3:15:30 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LUCIA CT ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "DF2300063",
+        "date": "2023-01-04",
+        "time": "3:15:01 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "232 BLAKEWOOD WAY ,SKY",
+        "latitude": 37.3875282937701,
+        "longitude": -122.26729779628,
+        "units": ">PR11A"
+    },
+    {
+        "id": "HF2300053",
+        "date": "2023-01-04",
+        "time": "3:14:45 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Sparking/arcing wires down",
-        "location": "224 26TH AVE ,SMO",
-        "latitude": 37.5427196916477,
-        "longitude": -122.310044297367,
-        "units": "E23"
+        "location": "588 AVENUE ALHAMBRA ,ELG",
+        "latitude": 37.5016749958298,
+        "longitude": -122.468671513074,
+        "units": ">E41"
+    },
+    {
+        "id": "DF2300062",
+        "date": "2023-01-04",
+        "time": "3:13:31 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "SWETT RD / PHILLIPS LN",
+        "latitude": 37.4206882613808,
+        "longitude": -122.324091979058,
+        "units": ">E356"
+    },
+    {
+        "id": "FF2300074",
+        "date": "2023-01-04",
+        "time": "3:11:12 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE #4 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
     },
     {
         "id": "LF2300014",
@@ -19,29 +96,7 @@
         "location": "EL CAMINO REAL #1131 ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">MED19 >CM11X1 >E86 >T85"
-    },
-    {
-        "id": "NF2300182",
-        "date": "2023-01-04",
-        "time": "2:57:56 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PARK PLAZA DR #3 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "HF2300052",
-        "date": "2023-01-04",
-        "time": "2:56:28 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "800 BUENA VISTA ST ,MBH",
-        "latitude": 37.5306332453269,
-        "longitude": -122.51107063794,
-        "units": "?E44"
+        "units": ">MED19 >E86"
     },
     {
         "id": "DF2300060",
@@ -52,18 +107,7 @@
         "location": "LOOP RD / UNNAMED",
         "latitude": 37.298725543658,
         "longitude": -122.265776041567,
-        "units": "U55 >E655"
-    },
-    {
-        "id": "RF2300171",
-        "date": "2023-01-04",
-        "time": "2:51:15 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "LINCOLN AVE / CLINTON ST",
-        "latitude": 37.4779600381333,
-        "longitude": -122.228951640002,
-        "units": ">E10"
+        "units": ">U55 >E655"
     },
     {
         "id": "DF2300059",
@@ -74,28 +118,6 @@
         "location": "CABRILLO HWY / NO TUNNEL",
         "latitude": 37.5908406268089,
         "longitude": -122.503983476237,
-        "units": ">E72"
-    },
-    {
-        "id": "DF2300056",
-        "date": "2023-01-04",
-        "time": "2:22:59 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "155 CUESTA REAL ,LAH",
-        "latitude": 37.3228161756484,
-        "longitude": -122.27052442377,
-        "units": ">E57"
-    },
-    {
-        "id": "SF2300158",
-        "date": "2023-01-04",
-        "time": "2:04:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E28"
+        "units": ""
     }
 ]
