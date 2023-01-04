@@ -1,47 +1,91 @@
 [
     {
-        "id": "BF2300046",
+        "id": "SF2300163",
         "date": "2023-01-04",
-        "time": "2:19:19 PM",
+        "time": "2:41:39 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "BF2300047",
+        "date": "2023-01-04",
+        "time": "2:35:29 PM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EVERGREEN DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "category": "Traffic accident pd request c2",
+        "location": "CRESTMOOR DR / EL DORADO CT",
+        "latitude": 37.6179259818208,
+        "longitude": -122.437270954829,
+        "units": ">CM31X1 ?T51 >E52"
     },
     {
-        "id": "DF2300055",
+        "id": "DF2300059",
         "date": "2023-01-04",
-        "time": "2:12:59 PM",
+        "time": "2:35:28 PM",
         "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "30 SEQUOIA DR ,LAH",
-        "latitude": 37.3155444974403,
-        "longitude": -122.272553309563,
-        "units": ">E57"
+        "category": "Vehicle fire",
+        "location": "CABRILLO HWY / NO TUNNEL",
+        "latitude": 37.5908406268089,
+        "longitude": -122.503983476237,
+        "units": ">E72"
     },
     {
-        "id": "HF2300046",
+        "id": "HF2300048",
         "date": "2023-01-04",
-        "time": "2:09:17 PM",
+        "time": "2:31:53 PM",
         "summary": "Coastside Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "560 DOLORES AVE ,HMB",
+        "latitude": 37.4424072249035,
+        "longitude": -122.428806489568,
+        "units": ">E640"
+    },
+    {
+        "id": "RF2300170",
+        "date": "2023-01-04",
+        "time": "2:31:42 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BRIG CT ,HMB",
+        "location": "HAVEN AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E41"
+        "units": ">E11"
     },
     {
-        "id": "RF2300169",
+        "id": "SF2300162",
         "date": "2023-01-04",
-        "time": "2:08:31 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "2:29:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LLANO ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "DF2300057",
+        "date": "2023-01-04",
+        "time": "2:26:55 PM",
+        "summary": "County Fire on Control-1",
         "category": "Wires down (not sparking)",
-        "location": "2384 BRITTAN AVE ,SNC",
-        "latitude": 37.4911457053255,
-        "longitude": -122.265475581688,
-        "units": ">E16"
+        "location": "50 FERNWOOD DR ,LAH",
+        "latitude": 37.3145266348726,
+        "longitude": -122.270107935667,
+        "units": ">E357"
+    },
+    {
+        "id": "DF2300056",
+        "date": "2023-01-04",
+        "time": "2:22:59 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "155 CUESTA REAL ,LAH",
+        "latitude": 37.3228161756484,
+        "longitude": -122.27052442377,
+        "units": "PR11A >E57"
     },
     {
         "id": "SF2300158",
@@ -52,17 +96,6 @@
         "location": "THAYER LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "CM21X1 >E29 >E28"
-    },
-    {
-        "id": "DF2300053",
-        "date": "2023-01-04",
-        "time": "1:27:19 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "8080 LA HONDA RD ,LAH",
-        "latitude": 37.3089832439314,
-        "longitude": -122.276098072469,
-        "units": ">E357"
+        "units": "E28"
     }
 ]
