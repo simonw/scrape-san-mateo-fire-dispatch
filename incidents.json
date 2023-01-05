@@ -1,5 +1,93 @@
 [
     {
+        "id": "RF2300227",
+        "date": "2023-01-05",
+        "time": "11:36:23 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY #BLDG A ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "CF2300132",
+        "date": "2023-01-05",
+        "time": "11:35:32 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HEMLOCK AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "WF2300074",
+        "date": "2023-01-05",
+        "time": "11:33:57 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "30 HAYFIELDS RD ,PVY",
+        "latitude": 37.3868204707963,
+        "longitude": -122.241162264953,
+        "units": ">E507"
+    },
+    {
+        "id": "RF2300226",
+        "date": "2023-01-05",
+        "time": "11:30:23 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROOSEVELT AVE #6 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "HF2300139",
+        "date": "2023-01-05",
+        "time": "11:27:31 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "574 MIRAMAR DR ,MIR",
+        "latitude": 37.4963639710149,
+        "longitude": -122.451778516619,
+        "units": ">E140"
+    },
+    {
+        "id": "NF2300339",
+        "date": "2023-01-05",
+        "time": "11:27:14 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IMPERIAL WAY #309 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "SF2300220",
+        "date": "2023-01-05",
+        "time": "11:23:47 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Sparking/arcing wires down",
+        "location": "2041 TRINITY ST ,SMO",
+        "latitude": 37.5503604746063,
+        "longitude": -122.300107160769,
+        "units": ">E23"
+    },
+    {
+        "id": "SF2300219",
+        "date": "2023-01-05",
+        "time": "11:23:15 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "353 HATCH DR ,FCY",
+        "latitude": 37.5668761443474,
+        "longitude": -122.274013639187,
+        "units": ">E28"
+    },
+    {
         "id": "RF2300225",
         "date": "2023-01-05",
         "time": "11:22:30 AM",
@@ -8,7 +96,7 @@
         "location": "E BAYSHORE RD #457 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E77"
     },
     {
         "id": "RF2300224",
@@ -19,18 +107,7 @@
         "location": "200 ARUNDEL RD ,SNC",
         "latitude": 37.5041827334215,
         "longitude": -122.275128410401,
-        "units": "E16"
-    },
-    {
-        "id": "BF2300084",
-        "date": "2023-01-05",
-        "time": "11:19:08 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / NO CRYSTAL SPRINGS RD",
-        "latitude": 37.6197504902248,
-        "longitude": -122.425528294907,
-        "units": "?TAC35 E52 E51 CM31X5 BC16T51 E38"
+        "units": ">E16"
     },
     {
         "id": "CF2300131",
@@ -44,39 +121,6 @@
         "units": ">E25"
     },
     {
-        "id": "MF2300174",
-        "date": "2023-01-05",
-        "time": "11:07:14 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLEMAN PL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T1"
-    },
-    {
-        "id": "NF2300338",
-        "date": "2023-01-05",
-        "time": "11:04:36 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "416 CORAL RIDGE DR ,PCF",
-        "latitude": 37.6568678298939,
-        "longitude": -122.486347121889,
-        "units": ">T95"
-    },
-    {
-        "id": "NF2300336",
-        "date": "2023-01-05",
-        "time": "10:59:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EDGEMONT DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
         "id": "CF2300130",
         "date": "2023-01-05",
         "time": "10:50:57 AM",
@@ -86,16 +130,5 @@
         "latitude": 37.5938413675329,
         "longitude": -122.402715481432,
         "units": ">U37"
-    },
-    {
-        "id": "WF2300071",
-        "date": "2023-01-05",
-        "time": "10:46:26 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "PORTOLA RD / FOREST VIEW RD",
-        "latitude": 37.4043212925202,
-        "longitude": -122.254063022778,
-        "units": "*>E7"
     }
 ]
