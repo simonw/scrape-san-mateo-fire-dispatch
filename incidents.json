@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2300193",
+        "date": "2023-01-04",
+        "time": "9:41:45 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "850 JEFFERSON AVE ,RCY",
+        "latitude": 37.4857676985872,
+        "longitude": -122.228701783093,
+        "units": "?E9"
+    },
+    {
+        "id": "DF2300076",
+        "date": "2023-01-04",
+        "time": "9:37:01 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LA HONDA RD / KEBET RIDGE RD",
+        "latitude": 37.3829795194606,
+        "longitude": -122.265097155223,
+        "units": "E357 ?CO57"
+    },
+    {
+        "id": "MF2300149",
+        "date": "2023-01-04",
+        "time": "9:36:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BELMONT AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "WF2300053",
+        "date": "2023-01-04",
+        "time": "9:28:45 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "SKYLINE BLVD / RAPLEY",
+        "latitude": 37.3719533571862,
+        "longitude": -122.253189200923,
+        "units": ">E58"
+    },
+    {
+        "id": "BF2300070",
+        "date": "2023-01-04",
+        "time": "9:26:56 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "CEDAR AVE / PEPPER DR",
+        "latitude": 37.6215874568246,
+        "longitude": -122.423728169574,
+        "units": ">E2607"
+    },
+    {
+        "id": "RF2300192",
+        "date": "2023-01-04",
+        "time": "9:24:26 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "2710 SAN MIGUEL WAY ,SNC",
+        "latitude": 37.4889636122355,
+        "longitude": -122.270288047805,
+        "units": ">E13"
+    },
+    {
         "id": "CF2300109",
         "date": "2023-01-04",
         "time": "9:19:52 PM",
@@ -8,7 +74,7 @@
         "location": "2385 TROUSDALE DR ,BRM",
         "latitude": 37.5887539569547,
         "longitude": -122.388059441171,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "BF2300069",
@@ -19,7 +85,7 @@
         "location": "EASTON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E61"
     },
     {
         "id": "HF2300113",
@@ -30,106 +96,7 @@
         "location": "2385 CARLOS ST ,MBH",
         "latitude": 37.528223736752,
         "longitude": -122.513175218358,
-        "units": ">E72"
-    },
-    {
-        "id": "NF2300277",
-        "date": "2023-01-04",
-        "time": "9:12:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Pole fire",
-        "location": "475 PRICE ST ,DCY",
-        "latitude": 37.6932813366495,
-        "longitude": -122.460328271012,
-        "units": ">E92"
-    },
-    {
-        "id": "NF2300276",
-        "date": "2023-01-04",
-        "time": "9:11:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FIRECREST AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "FF2300104",
-        "date": "2023-01-04",
-        "time": "9:06:49 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "ARROYO DR / JUNIPERO SERRA BLVD",
-        "latitude": 37.6485741699161,
-        "longitude": -122.450240307631,
-        "units": ">E63"
-    },
-    {
-        "id": "LF2300022",
-        "date": "2023-01-04",
-        "time": "8:54:27 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "32 VILLAGE LN ,BRD",
-        "latitude": 37.6934655257398,
-        "longitude": -122.474295632848,
-        "units": "SMCEOC"
-    },
-    {
-        "id": "BF2300068",
-        "date": "2023-01-04",
-        "time": "8:52:08 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "903 MONTGOMERY AVE ,SNB",
-        "latitude": 37.6327449628484,
-        "longitude": -122.412483481459,
-        "units": ">E51"
-    },
-    {
-        "id": "BF2300067",
-        "date": "2023-01-04",
-        "time": "8:50:35 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "2440 TOYON WAY ,SNB",
-        "latitude": 37.628726205246,
-        "longitude": -122.441161417935,
         "units": ""
-    },
-    {
-        "id": "NF2300270",
-        "date": "2023-01-04",
-        "time": "8:47:40 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "MANOR DR / EDGEMAR AVE",
-        "latitude": 37.6491462772135,
-        "longitude": -122.489419648006,
-        "units": "NFAEOC"
-    },
-    {
-        "id": "MF2300148",
-        "date": "2023-01-04",
-        "time": "8:39:45 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BARRY LN ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": "E3"
-    },
-    {
-        "id": "NF2300268",
-        "date": "2023-01-04",
-        "time": "8:35:09 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "146 HILTON WAY ,PCF",
-        "latitude": 37.6322808039385,
-        "longitude": -122.491134491189,
-        "units": ">U71"
     },
     {
         "id": "HF2300093",
@@ -141,16 +108,5 @@
         "latitude": 37.5104306091634,
         "longitude": -122.464523248014,
         "units": ">E40 ?TAC46 >BC10 CM41X4"
-    },
-    {
-        "id": "NF2300263",
-        "date": "2023-01-04",
-        "time": "7:53:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "318 ACCACIA ST ,DCY",
-        "latitude": 37.7030419710736,
-        "longitude": -122.416902088483,
-        "units": ">U81"
     }
 ]
