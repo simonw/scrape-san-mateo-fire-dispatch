@@ -1,14 +1,113 @@
 [
     {
-        "id": "NF2300187",
+        "id": "WF2300044",
         "date": "2023-01-04",
-        "time": "3:40:46 PM",
+        "time": "4:19:51 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "20 SIOUX WAY ,PVY",
+        "latitude": 37.3850615675822,
+        "longitude": -122.213433460562,
+        "units": "?WOFEOC"
+    },
+    {
+        "id": "NF2300194",
+        "date": "2023-01-04",
+        "time": "4:18:49 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "92ND ST / EDGEWORTH AVE",
-        "latitude": 37.6897019969475,
-        "longitude": -122.474468790629,
+        "category": "Medical aid",
+        "location": "MISSION ST / BISMARK ST",
+        "latitude": null,
+        "longitude": null,
         "units": "E92"
+    },
+    {
+        "id": "DF2300066",
+        "date": "2023-01-04",
+        "time": "4:15:19 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "STAGE RD / SEASIDE SCHOOL RD",
+        "latitude": 37.3249873059476,
+        "longitude": -122.386974388222,
+        "units": "E357 E59"
+    },
+    {
+        "id": "BF2300050",
+        "date": "2023-01-04",
+        "time": "4:13:34 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "281 TULARE DR ,SNB",
+        "latitude": 37.623315652536,
+        "longitude": -122.45023463088,
+        "units": "E2607 ?E52"
+    },
+    {
+        "id": "SF2300171",
+        "date": "2023-01-04",
+        "time": "4:09:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "HF2300061",
+        "date": "2023-01-04",
+        "time": "4:07:49 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Pole fire",
+        "location": "SUNSHINE VALLEY RD / STETSON ST",
+        "latitude": 37.5282664442031,
+        "longitude": -122.510199631378,
+        "units": ">E44"
+    },
+    {
+        "id": "CF2300100",
+        "date": "2023-01-04",
+        "time": "4:06:38 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "600 SANTA TERESA WAY ,MLB",
+        "latitude": 37.6123325217785,
+        "longitude": -122.407217913663,
+        "units": ">E151"
+    },
+    {
+        "id": "NF2300193",
+        "date": "2023-01-04",
+        "time": "4:03:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LAKE VISTA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "MF2300126",
+        "date": "2023-01-04",
+        "time": "3:59:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "FAIR OAKS LN / LLOYDEN DR",
+        "latitude": 37.4648665953275,
+        "longitude": -122.19820145245,
+        "units": ">E3"
+    },
+    {
+        "id": "RF2300173",
+        "date": "2023-01-04",
+        "time": "3:55:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "1837 JEFFERSON AVE ,RCY",
+        "latitude": 37.47686931306,
+        "longitude": -122.237153653581,
+        "units": ">SQ409"
     },
     {
         "id": "MF2300125",
@@ -19,18 +118,7 @@
         "location": "415 RUTHERFORD AVE ,WSB",
         "latitude": 37.4547647505327,
         "longitude": -122.221122975236,
-        "units": "?SMCEOC"
-    },
-    {
-        "id": "SF2300168",
-        "date": "2023-01-04",
-        "time": "3:35:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRYSTAL SPRINGS RD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E4"
     },
     {
         "id": "NF2300186",
@@ -41,7 +129,7 @@
         "location": "EASTRIDGE CIR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": "E94"
     },
     {
         "id": "MF2300122",
@@ -55,39 +143,6 @@
         "units": ">E5"
     },
     {
-        "id": "NF2300184",
-        "date": "2023-01-04",
-        "time": "3:24:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "1030 LINDA MAR BLVD ,PCF",
-        "latitude": 37.5861077698757,
-        "longitude": -122.492813275351,
-        "units": ">BC124 >MED20 CM31X3 >E72"
-    },
-    {
-        "id": "NF2300183",
-        "date": "2023-01-04",
-        "time": "3:21:45 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #241C ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "DF2300063",
-        "date": "2023-01-04",
-        "time": "3:15:01 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "232 BLAKEWOOD WAY ,SKY",
-        "latitude": 37.3875282937701,
-        "longitude": -122.26729779628,
-        "units": ">PR11A"
-    },
-    {
         "id": "DF2300062",
         "date": "2023-01-04",
         "time": "3:13:31 PM",
@@ -97,28 +152,6 @@
         "latitude": 37.4206882613808,
         "longitude": -122.324091979058,
         "units": ">E356"
-    },
-    {
-        "id": "FF2300074",
-        "date": "2023-01-04",
-        "time": "3:11:12 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BADEN AVE #4 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "DF2300060",
-        "date": "2023-01-04",
-        "time": "2:52:06 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "LOOP RD / UNNAMED",
-        "latitude": 37.298725543658,
-        "longitude": -122.265776041567,
-        "units": ">U55 >E655"
     },
     {
         "id": "DF2300059",
