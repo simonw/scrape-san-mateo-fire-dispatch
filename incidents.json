@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2300321",
+        "id": "SF2300215",
         "date": "2023-01-05",
-        "time": "9:23:12 AM",
+        "time": "9:35:54 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAUREL AVE #3C1 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
+    },
+    {
+        "id": "NF2300322",
+        "date": "2023-01-05",
+        "time": "9:33:57 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "543 VISTA MAR AVE ,PCF",
-        "latitude": 37.6474624144037,
-        "longitude": -122.485349781007,
-        "units": "?TAC36 ?CM31X4 ?BC124 ?E64 ?E94?E71 ?T34"
+        "category": "Medical aid",
+        "location": "DOCKSIDE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
     },
     {
         "id": "FF2300124",
@@ -19,7 +30,7 @@
         "location": "137 LUCCA DR ,SSF",
         "latitude": 37.666877445187,
         "longitude": -122.430235022518,
-        "units": "?E63 ?TAC35 BC17 E65 Q62CM31X2 E61"
+        "units": "?TAC35 >BC17 CM31X2"
     },
     {
         "id": "FF2300123",
@@ -30,62 +41,7 @@
         "location": "GRANADA DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
-    },
-    {
-        "id": "SF2300214",
-        "date": "2023-01-05",
-        "time": "9:20:49 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E14"
-    },
-    {
-        "id": "DF2300092",
-        "date": "2023-01-05",
-        "time": "9:19:00 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "14 POPE RD ,LAH",
-        "latitude": 37.3111946800067,
-        "longitude": -122.2768143699,
-        "units": "E357"
-    },
-    {
-        "id": "HF2300133",
-        "date": "2023-01-05",
-        "time": "9:12:48 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "165 LA GRANDE AVE ,MBH",
-        "latitude": 37.517439978113,
-        "longitude": -122.511338879577,
-        "units": "E44"
-    },
-    {
-        "id": "NF2300320",
-        "date": "2023-01-05",
-        "time": "9:09:54 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SULLIVAN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "BF2300081",
-        "date": "2023-01-05",
-        "time": "9:08:41 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "191 TULARE DR ,SNB",
-        "latitude": 37.622030158409,
-        "longitude": -122.450062803101,
-        "units": ">E151"
+        "units": ">E52"
     },
     {
         "id": "SF2300213",
@@ -99,17 +55,6 @@
         "units": ">E21"
     },
     {
-        "id": "BF2300079",
-        "date": "2023-01-05",
-        "time": "8:59:33 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "2081 WHITMAN WAY #322 ,SNB",
-        "latitude": 37.6178294999366,
-        "longitude": -122.426922111167,
-        "units": ">T51"
-    },
-    {
         "id": "LF2300026",
         "date": "2023-01-05",
         "time": "8:18:40 AM",
@@ -119,16 +64,5 @@
         "latitude": 37.6961331215391,
         "longitude": -122.485878461115,
         "units": ""
-    },
-    {
-        "id": "DF2300083",
-        "date": "2023-01-05",
-        "time": "1:17:05 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "12180 SKYLINE BLVD ,KMT",
-        "latitude": 37.4688816311683,
-        "longitude": -122.352135473962,
-        "units": ">E356"
     }
 ]
