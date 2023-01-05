@@ -1,58 +1,168 @@
 [
     {
-        "id": "FF2300082",
+        "id": "CF2300102",
         "date": "2023-01-04",
-        "time": "5:01:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "3851 ANNAPOLIS CT ,SSF",
-        "latitude": 37.6497199089357,
-        "longitude": -122.455853424128,
-        "units": "E63"
-    },
-    {
-        "id": "NF2300214",
-        "date": "2023-01-04",
-        "time": "5:00:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "471 MANOR DR ,PCF",
-        "latitude": 37.6469626294549,
-        "longitude": -122.480285566225,
-        "units": "?NFAEOC"
-    },
-    {
-        "id": "HF2300067",
-        "date": "2023-01-04",
-        "time": "5:00:47 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "5:50:20 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "SAN MATEO RD ,HMB",
+        "location": "N ROLLINS RD ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
+        "units": "E37"
     },
     {
-        "id": "FF2300081",
+        "id": "HF2300074",
         "date": "2023-01-04",
-        "time": "4:59:49 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "HICKEY BLVD ON RAMP / NB 280",
-        "latitude": 37.6635690583867,
-        "longitude": -122.465488747541,
-        "units": "T95 E64 >CM31X4 >BC124"
+        "time": "5:48:19 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "838 FERDINAND AVE ,ELG",
+        "latitude": 37.509049565021,
+        "longitude": -122.473166401181,
+        "units": "?E44"
     },
     {
-        "id": "NF2300210",
+        "id": "NF2300239",
         "date": "2023-01-04",
-        "time": "4:55:49 PM",
+        "time": "5:46:24 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "477 MENDOCINO ST ,BRS",
-        "latitude": 37.6826909294386,
-        "longitude": -122.404815926859,
-        "units": "Q62 E93 E81 BC20 CM31X2E65 ?TAC36"
+        "category": "Traffic accident pd request c3",
+        "location": "NB 1 / WESTPORT DR",
+        "latitude": 37.6206576623783,
+        "longitude": -122.485149350103,
+        "units": "E71 ?TAC35 ?CM31X1 ?T95"
+    },
+    {
+        "id": "WF2300050",
+        "date": "2023-01-04",
+        "time": "5:43:09 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "501 PORTOLA RD #BLDG 18 ,PVY",
+        "latitude": 37.3724798871499,
+        "longitude": -122.22117470823,
+        "units": ">E8"
+    },
+    {
+        "id": "MF2300135",
+        "date": "2023-01-04",
+        "time": "5:41:27 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WB 84 / WO HIGH RI",
+        "latitude": 37.5039371156294,
+        "longitude": -122.121516838139,
+        "units": ">BC101 >E2 >T2 >R77 CM11X3?TAC15"
+    },
+    {
+        "id": "SF2300175",
+        "date": "2023-01-04",
+        "time": "5:40:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO 92",
+        "latitude": 37.5627460005368,
+        "longitude": -122.305327217889,
+        "units": ">BC105 >E24 CM21X3 T21 ?TAC25"
+    },
+    {
+        "id": "NF2300237",
+        "date": "2023-01-04",
+        "time": "5:37:48 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "776 NIANTIC AVE ,DCY",
+        "latitude": 37.6981669052544,
+        "longitude": -122.469296986942,
+        "units": ">E91"
+    },
+    {
+        "id": "LF2300018",
+        "date": "2023-01-04",
+        "time": "5:37:15 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Tree down",
+        "location": "HILLSIDE BLVD / SERRAMONTE BLVD",
+        "latitude": 37.6807499863507,
+        "longitude": -122.452867552725,
+        "units": ">E86"
+    },
+    {
+        "id": "FF2300085",
+        "date": "2023-01-04",
+        "time": "5:36:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Pole fire",
+        "location": "529 VALVERDE DR ,SSF",
+        "latitude": 37.6424556728157,
+        "longitude": -122.442991230486,
+        "units": ""
+    },
+    {
+        "id": "NF2300235",
+        "date": "2023-01-04",
+        "time": "5:33:32 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Pole fire",
+        "location": "130 OLYMPIAN WAY ,PCF",
+        "latitude": 37.594977326778,
+        "longitude": -122.513171130121,
+        "units": ""
+    },
+    {
+        "id": "DF2300067",
+        "date": "2023-01-04",
+        "time": "5:33:20 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "CABRILLO HWY S / SAN GREGORIO BEACH RD",
+        "latitude": 37.3231265465029,
+        "longitude": -122.400803297444,
+        "units": ""
+    },
+    {
+        "id": "NF2300236",
+        "date": "2023-01-04",
+        "time": "5:33:15 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "DARDENELLE AVE / REINA DEL MAR AVE",
+        "latitude": 37.6123453900129,
+        "longitude": -122.473546041409,
+        "units": ""
+    },
+    {
+        "id": "NF2300233",
+        "date": "2023-01-04",
+        "time": "5:30:39 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "175 KENT RD ,PCF",
+        "latitude": 37.5966514545305,
+        "longitude": -122.511497072057,
+        "units": ">E63"
+    },
+    {
+        "id": "LF2300017",
+        "date": "2023-01-04",
+        "time": "5:09:23 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Tree down",
+        "location": "208 GARDEN LN ,BRD",
+        "latitude": 37.6943767725648,
+        "longitude": -122.478105211901,
+        "units": ""
+    },
+    {
+        "id": "NF2300209",
+        "date": "2023-01-04",
+        "time": "4:55:08 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "450 KINGS RD ,BRS",
+        "latitude": 37.6780310623359,
+        "longitude": -122.400120628149,
+        "units": ""
     },
     {
         "id": "FF2300079",
@@ -63,84 +173,7 @@
         "location": "3964 CALLAN BLVD ,SSF",
         "latitude": 37.6501825237728,
         "longitude": -122.468472539992,
-        "units": "?TAC37 ?CM31X1 ?BC17 ?E91 ?E95?E52 ?T34"
-    },
-    {
-        "id": "MF2300131",
-        "date": "2023-01-04",
-        "time": "4:54:24 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Lock out - residential",
-        "location": "48 MARIANNA LN ,ATN",
-        "latitude": 37.4642425981402,
-        "longitude": -122.196522777266,
-        "units": ">E5"
-    },
-    {
-        "id": "HF2300066",
-        "date": "2023-01-04",
-        "time": "4:51:30 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "1650 HIGGINS CANYON RD ,SOS",
-        "latitude": 37.4447218382486,
-        "longitude": -122.403470594684,
-        "units": "E40"
-    },
-    {
-        "id": "NF2300207",
-        "date": "2023-01-04",
-        "time": "4:50:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Pole fire",
-        "location": "120 SAN FERNANDO WAY ,DCY",
-        "latitude": 37.6823805970582,
-        "longitude": -122.475000248559,
-        "units": ""
-    },
-    {
-        "id": "RF2300175",
-        "date": "2023-01-04",
-        "time": "4:50:34 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN CARLOS AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "BF2300053",
-        "date": "2023-01-04",
-        "time": "4:49:35 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / NO LARKSPUR DR",
-        "latitude": 37.5992054882089,
-        "longitude": -122.423194723064,
-        "units": "?TAC35 >E51 CM31X5 >BC16 T51>E38"
-    },
-    {
-        "id": "NF2300205",
-        "date": "2023-01-04",
-        "time": "4:49:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "3 SERRAMONTE CTR ,DCY",
-        "latitude": 37.6725022722999,
-        "longitude": -122.471402942882,
-        "units": ">E71"
-    },
-    {
-        "id": "NF2300203",
-        "date": "2023-01-04",
-        "time": "4:45:48 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN MIGUEL AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "?BC17"
     },
     {
         "id": "MF2300129",
@@ -154,28 +187,6 @@
         "units": ">E504"
     },
     {
-        "id": "HF2300065",
-        "date": "2023-01-04",
-        "time": "4:40:11 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "444 FARALLONE AVE ,MON",
-        "latitude": 37.5404273061704,
-        "longitude": -122.51455370727,
-        "units": ">E44"
-    },
-    {
-        "id": "NF2300200",
-        "date": "2023-01-04",
-        "time": "4:38:55 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "HILLSIDE BLVD / E MARKET ST",
-        "latitude": 37.6899680132468,
-        "longitude": -122.461181158072,
-        "units": ">E92"
-    },
-    {
         "id": "NF2300196",
         "date": "2023-01-04",
         "time": "4:37:13 PM",
@@ -185,50 +196,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "NF2300197",
-        "date": "2023-01-04",
-        "time": "4:35:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "580 INVERNESS DR ,PCF",
-        "latitude": 37.6458465332245,
-        "longitude": -122.473629713685,
-        "units": ""
-    },
-    {
-        "id": "RF2300174",
-        "date": "2023-01-04",
-        "time": "4:34:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "50 HORGAN AVE ,RCY",
-        "latitude": 37.4634492579297,
-        "longitude": -122.223266958653,
-        "units": ">SQ409"
-    },
-    {
-        "id": "MF2300128",
-        "date": "2023-01-04",
-        "time": "4:29:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "1855 WOODSIDE RD #102 ,WSB",
-        "latitude": 37.4520073527363,
-        "longitude": -122.229311469956,
-        "units": ">E7"
-    },
-    {
-        "id": "MF2300125",
-        "date": "2023-01-04",
-        "time": "3:40:32 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "415 RUTHERFORD AVE ,WSB",
-        "latitude": 37.4547647505327,
-        "longitude": -122.221122975236,
-        "units": ">E4"
     },
     {
         "id": "DF2300062",
