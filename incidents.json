@@ -1,5 +1,71 @@
 [
     {
+        "id": "BF2300077",
+        "date": "2023-01-05",
+        "time": "8:43:17 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Trash fire",
+        "location": "471 MADISON AVE ,SNB",
+        "latitude": 37.6171067845365,
+        "longitude": -122.43162757911,
+        "units": "E52 ?E151"
+    },
+    {
+        "id": "WF2300068",
+        "date": "2023-01-05",
+        "time": "8:39:46 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "MOUNTAIN HOME RD / VINEYARD HILL RD",
+        "latitude": 37.4100625520191,
+        "longitude": -122.248533151923,
+        "units": ">SQ407"
+    },
+    {
+        "id": "WF2300067",
+        "date": "2023-01-05",
+        "time": "8:35:26 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "3370 WOODSIDE RD ,WDS",
+        "latitude": 37.4277263298041,
+        "longitude": -122.265528654909,
+        "units": "E19"
+    },
+    {
+        "id": "WF2300066",
+        "date": "2023-01-05",
+        "time": "8:34:06 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "230 NATHHORST AVE ,PVY",
+        "latitude": 37.37470001693,
+        "longitude": -122.21005663636,
+        "units": ">E7"
+    },
+    {
+        "id": "MF2300164",
+        "date": "2023-01-05",
+        "time": "8:32:49 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PIERCE RD #3 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "DF2300089",
+        "date": "2023-01-05",
+        "time": "8:31:18 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "14 POPE RD ,LAH",
+        "latitude": 37.3111946800067,
+        "longitude": -122.2768143699,
+        "units": ""
+    },
+    {
         "id": "BF2300076",
         "date": "2023-01-05",
         "time": "8:27:19 AM",
@@ -8,40 +74,7 @@
         "location": "CRESTMOOR DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
-    },
-    {
-        "id": "RF2300215",
-        "date": "2023-01-05",
-        "time": "8:22:07 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "BING ST / OLD COUNTY RD",
-        "latitude": 37.4956947132699,
-        "longitude": -122.245807882059,
-        "units": "T9"
-    },
-    {
-        "id": "HF2300131",
-        "date": "2023-01-05",
-        "time": "8:21:36 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "6 SEA GULL LN ,HMB",
-        "latitude": 37.4284582256861,
-        "longitude": -122.429613667039,
-        "units": ">E140"
-    },
-    {
-        "id": "DF2300088",
-        "date": "2023-01-05",
-        "time": "8:18:50 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "SKYLINE BLVD / RAPLEY RANCH RD",
-        "latitude": 37.3412257538656,
-        "longitude": -122.220206981198,
-        "units": "E58 E357"
+        "units": ""
     },
     {
         "id": "LF2300026",
@@ -49,7 +82,7 @@
         "time": "8:18:40 AM",
         "summary": "Colma Fire on Control-3",
         "category": "Wires down (not sparking)",
-        "location": "852 WILDWOOD AVE ,BRD",
+        "location": "844 WILDWOOD AVE ,BRD",
         "latitude": 37.6961331215391,
         "longitude": -122.485878461115,
         "units": ">T85"
@@ -64,50 +97,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E13"
-    },
-    {
-        "id": "RF2300213",
-        "date": "2023-01-05",
-        "time": "8:15:40 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ST MARYS PL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "CF2300125",
-        "date": "2023-01-05",
-        "time": "8:05:54 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #401 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2300130",
-        "date": "2023-01-05",
-        "time": "8:05:32 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "VALVERDE RD / LAS FLORES RD",
-        "latitude": 37.5395299673976,
-        "longitude": -122.493720195411,
-        "units": ">E44"
-    },
-    {
-        "id": "NF2300316",
-        "date": "2023-01-05",
-        "time": "7:55:27 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "900 CAMPUS DR #308 ,DCY",
-        "latitude": 37.6666613079935,
-        "longitude": -122.477513285312,
-        "units": ">E94"
     },
     {
         "id": "DF2300083",
