@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2300158",
+        "date": "2023-01-05",
+        "time": "2:02:59 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "155 CONSTITUTION DR ,MNP",
+        "latitude": 37.4849575187321,
+        "longitude": -122.175053571831,
+        "units": "?E77"
+    },
+    {
+        "id": "RF2300204",
+        "date": "2023-01-05",
+        "time": "1:59:03 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "1074 EDEN BOWER LN ,RCY",
+        "latitude": 37.4508837500391,
+        "longitude": -122.257245804792,
+        "units": "E12"
+    },
+    {
+        "id": "NF2300301",
+        "date": "2023-01-05",
+        "time": "1:50:48 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #217A ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "CF2300119",
+        "date": "2023-01-05",
+        "time": "1:45:41 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "CALIFORNIA DR / NORTH LN",
+        "latitude": 37.5800408564556,
+        "longitude": -122.345829343037,
+        "units": "E34 >BC8 >E21"
+    },
+    {
+        "id": "NF2300300",
+        "date": "2023-01-05",
+        "time": "1:44:43 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #4 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "RF2300203",
+        "date": "2023-01-05",
+        "time": "1:43:23 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "2342 EL CAMINO REAL ,RCY",
+        "latitude": 37.4746974138385,
+        "longitude": -122.219363371646,
+        "units": ">SQ409"
+    },
+    {
         "id": "NF2300299",
         "date": "2023-01-05",
         "time": "1:39:35 AM",
@@ -8,7 +74,7 @@
         "location": "470 MANOR PLZ ,PCF",
         "latitude": 37.6503624830326,
         "longitude": -122.491898265124,
-        "units": "E71"
+        "units": ">U94"
     },
     {
         "id": "SF2300202",
@@ -16,43 +82,10 @@
         "time": "1:38:43 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Pole fire",
-        "location": "EDGEWOOD RD / BROMFIELD RD",
+        "location": "WARREN RD / EDGEWOOD RD",
         "latitude": 37.5682997896825,
         "longitude": -122.350235217508,
-        "units": "E32"
-    },
-    {
-        "id": "CF2300118",
-        "date": "2023-01-05",
-        "time": "1:33:27 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #2 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2300298",
-        "date": "2023-01-05",
-        "time": "1:31:46 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CROCKER AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "RF2300202",
-        "date": "2023-01-05",
-        "time": "1:21:53 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "765 BAIN PL ,RCY",
-        "latitude": 37.4693208004676,
-        "longitude": -122.255801921612,
-        "units": ">E12"
+        "units": ">E32"
     },
     {
         "id": "DF2300083",
@@ -64,60 +97,5 @@
         "latitude": 37.4688816311683,
         "longitude": -122.352135473962,
         "units": ">E356"
-    },
-    {
-        "id": "FF2300114",
-        "date": "2023-01-05",
-        "time": "1:17:01 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Tree down",
-        "location": "1200 EL CAMINO REAL ,SSF",
-        "latitude": 37.6583337906124,
-        "longitude": -122.438126296721,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2300200",
-        "date": "2023-01-05",
-        "time": "1:03:08 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "485 VETERANS BLVD ,RCY",
-        "latitude": 37.4960960017186,
-        "longitude": -122.235598575461,
-        "units": ""
-    },
-    {
-        "id": "BF2300073",
-        "date": "2023-01-05",
-        "time": "1:01:19 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E52"
-    },
-    {
-        "id": "WF2300060",
-        "date": "2023-01-05",
-        "time": "12:56:12 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "610 MANZANITA WAY ,WDS",
-        "latitude": 37.4134275243875,
-        "longitude": -122.243921537234,
-        "units": ">E7"
-    },
-    {
-        "id": "NF2300294",
-        "date": "2023-01-05",
-        "time": "12:45:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "571 MANOR DR ,PCF",
-        "latitude": 37.6463905875875,
-        "longitude": -122.47607628278,
-        "units": ">U71"
     }
 ]
