@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2300083",
+        "date": "2023-01-04",
+        "time": "7:00:22 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST / POPLAR ST",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "RF2300184",
+        "date": "2023-01-04",
+        "time": "6:53:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Pole fire",
+        "location": "3RD AVE / PAGE ST ,RCY",
+        "latitude": 37.4838414353468,
+        "longitude": -122.199581504423,
+        "units": ">E11"
+    },
+    {
+        "id": "NF2300257",
+        "date": "2023-01-04",
+        "time": "6:49:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "165 PIERCE ST #437 ,DCY",
+        "latitude": 37.6855042985177,
+        "longitude": -122.473503564454,
+        "units": ">E95"
+    },
+    {
         "id": "FF2300093",
         "date": "2023-01-04",
         "time": "6:47:29 PM",
@@ -8,7 +41,7 @@
         "location": "1700 EL CAMINO REAL #1512 ,SSF",
         "latitude": 37.6669637186074,
         "longitude": -122.450663722253,
-        "units": "E64"
+        "units": ">E63"
     },
     {
         "id": "BF2300063",
@@ -19,7 +52,7 @@
         "location": "EL CAMINO REAL / SAN MARCO AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "SF2300180",
@@ -30,7 +63,18 @@
         "location": "PACIFIC BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T21"
+        "units": ">T21"
+    },
+    {
+        "id": "HF2300082",
+        "date": "2023-01-04",
+        "time": "6:44:20 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "AVENUE BALBOA / AVENUE ALHAMBRA",
+        "latitude": 37.5030780780349,
+        "longitude": -122.471822197261,
+        "units": "E44"
     },
     {
         "id": "MF2300140",
@@ -41,7 +85,7 @@
         "location": "W SELBY LN / RUTHERFORD AVE",
         "latitude": 37.4548451964597,
         "longitude": -122.221631347162,
-        "units": ">E3"
+        "units": ""
     },
     {
         "id": "SF2300179",
@@ -53,28 +97,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">T23"
-    },
-    {
-        "id": "NF2300255",
-        "date": "2023-01-04",
-        "time": "6:37:20 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "390 HICKEY BLVD ,DCY",
-        "latitude": 37.6636085987677,
-        "longitude": -122.463613438468,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2300106",
-        "date": "2023-01-04",
-        "time": "6:36:59 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "45 SUGAR HILL DR ,HIL",
-        "latitude": 37.5390663409879,
-        "longitude": -122.343086026689,
-        "units": ">E27"
     },
     {
         "id": "RF2300181",
@@ -96,7 +118,7 @@
         "location": "505 MARINE BLVD ,MBH",
         "latitude": 37.5240873820424,
         "longitude": -122.509441926296,
-        "units": ">E640 E71"
+        "units": ">E640"
     },
     {
         "id": "HF2300079",
@@ -107,7 +129,7 @@
         "location": "651 COLUMBUS ST ,ELG",
         "latitude": 37.5083066316143,
         "longitude": -122.471767399324,
-        "units": ">E44 >E41 ?TAC46 ?CM41X3 >BC10>E72"
+        "units": ">E41 ?TAC46 ?CM41X3 >BC10"
     },
     {
         "id": "NF2300253",
@@ -118,7 +140,7 @@
         "location": "SB 280 / NO WESTBOROUGH BLVD",
         "latitude": 37.6547209829024,
         "longitude": -122.457577711741,
-        "units": "E52 CM31X1 >E94"
+        "units": ">E52"
     },
     {
         "id": "BF2300062",
@@ -132,15 +154,15 @@
         "units": ">E2607"
     },
     {
-        "id": "HF2300078",
+        "id": "DF2300069",
         "date": "2023-01-04",
-        "time": "6:27:51 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "N CABRILLO HWY #A ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "time": "6:23:29 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "PESCADERO CREEK RD / LOMA MAR AVE",
+        "latitude": 37.2697075799156,
+        "longitude": -122.309255484719,
+        "units": "?E59 ?CO55"
     },
     {
         "id": "BF2300060",
@@ -151,7 +173,7 @@
         "location": "SB 280 / SNEATH LN OFF RAMP",
         "latitude": 37.6325384435259,
         "longitude": -122.437530464659,
-        "units": ">T51"
+        "units": ""
     },
     {
         "id": "DF2300068",
@@ -165,28 +187,6 @@
         "units": ">E357"
     },
     {
-        "id": "MF2300137",
-        "date": "2023-01-04",
-        "time": "6:14:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1869 CAMINO A LOS CERROS ,WMP",
-        "latitude": 37.4396787428009,
-        "longitude": -122.204934963382,
-        "units": ""
-    },
-    {
-        "id": "HF2300077",
-        "date": "2023-01-04",
-        "time": "6:14:21 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Trash fire",
-        "location": "PROSPECT WAY / BROADWAY",
-        "latitude": 37.5045541974441,
-        "longitude": -122.487574561637,
-        "units": ""
-    },
-    {
         "id": "MF2300138",
         "date": "2023-01-04",
         "time": "6:14:09 PM",
@@ -195,40 +195,7 @@
         "location": "878 COLLEGE AVE ,MNP",
         "latitude": 37.4463915214921,
         "longitude": -122.179452064635,
-        "units": ">E6"
-    },
-    {
-        "id": "LF2300020",
-        "date": "2023-01-04",
-        "time": "6:11:12 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "741 STEWART AVE ,BRD",
-        "latitude": 37.6945266186621,
-        "longitude": -122.483567771922,
-        "units": ">T85"
-    },
-    {
-        "id": "HF2300076",
-        "date": "2023-01-04",
-        "time": "6:08:31 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "346 PRINCETON AVE #2 ,PRN",
-        "latitude": 37.5035605841955,
-        "longitude": -122.48849975413,
-        "units": ""
-    },
-    {
-        "id": "NF2300248",
-        "date": "2023-01-04",
-        "time": "6:05:20 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "NB 1 / SO 280",
-        "latitude": 37.673070457036,
-        "longitude": -122.474379776397,
-        "units": ">E95"
+        "units": ">E6 >E504 >TAC16"
     },
     {
         "id": "SF2300176",
@@ -242,17 +209,6 @@
         "units": ">E15"
     },
     {
-        "id": "NF2300240",
-        "date": "2023-01-04",
-        "time": "5:44:54 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "OCEANSIDE DR / SKYLINE DR",
-        "latitude": 37.6719012572144,
-        "longitude": -122.488842911457,
-        "units": "U94"
-    },
-    {
         "id": "MF2300135",
         "date": "2023-01-04",
         "time": "5:41:27 PM",
@@ -264,17 +220,6 @@
         "units": "CM11X3 >E2 ?TAC15 >BC101 >T2"
     },
     {
-        "id": "SF2300175",
-        "date": "2023-01-04",
-        "time": "5:40:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO 92",
-        "latitude": 37.5627460005368,
-        "longitude": -122.305327217889,
-        "units": "*>BC105 >E24"
-    },
-    {
         "id": "NF2300237",
         "date": "2023-01-04",
         "time": "5:37:48 PM",
@@ -284,16 +229,5 @@
         "latitude": 37.6981669052544,
         "longitude": -122.469296986942,
         "units": ">E91"
-    },
-    {
-        "id": "DF2300062",
-        "date": "2023-01-04",
-        "time": "3:13:31 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "SWETT RD / PHILLIPS LN",
-        "latitude": 37.4206882613808,
-        "longitude": -122.324091979058,
-        "units": ""
     }
 ]
