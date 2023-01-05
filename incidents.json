@@ -1,5 +1,49 @@
 [
     {
+        "id": "LF2300021",
+        "date": "2023-01-04",
+        "time": "7:34:54 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VILLAGE LN ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T85 >MED19"
+    },
+    {
+        "id": "SF2300185",
+        "date": "2023-01-04",
+        "time": "7:33:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "54 PLEASANT ST ,FCY",
+        "latitude": 37.535549459686,
+        "longitude": -122.275885977018,
+        "units": ">E29"
+    },
+    {
+        "id": "MF2300142",
+        "date": "2023-01-04",
+        "time": "7:31:51 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "1000 EL CAMINO REAL ,ATN",
+        "latitude": 37.4560770363324,
+        "longitude": -122.192078155915,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2300184",
+        "date": "2023-01-04",
+        "time": "7:23:39 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "48 W 38TH AVE ,SMO",
+        "latitude": 37.5333018399676,
+        "longitude": -122.295269544802,
+        "units": ">U28"
+    },
+    {
         "id": "HF2300086",
         "date": "2023-01-04",
         "time": "7:22:57 PM",
@@ -8,18 +52,7 @@
         "location": "446 SEVILLA AVE ,ELG",
         "latitude": 37.5115102403061,
         "longitude": -122.481366531673,
-        "units": "E44 E40 E72 BC10 ?TAC45?CM41X2 ?BC110 ?E41"
-    },
-    {
-        "id": "NF2300259",
-        "date": "2023-01-04",
-        "time": "7:22:23 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "340 WATERFORD ST ,PCF",
-        "latitude": 37.6524316814275,
-        "longitude": -122.489583513517,
-        "units": ""
+        "units": "?TAC45 >E44 >E41 CM41X2 >BC10"
     },
     {
         "id": "DF2300070",
@@ -30,18 +63,18 @@
         "location": "139 COMSTOCK RD ,KMT",
         "latitude": 37.4455569013966,
         "longitude": -122.331483864382,
-        "units": "?TAC17 ?E58 ?CO56"
+        "units": ">E56"
     },
     {
-        "id": "SF2300183",
+        "id": "RF2300185",
         "date": "2023-01-04",
         "time": "7:20:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SUNFISH CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "773 ORANGE AVE ,SNC",
+        "latitude": 37.5000322481839,
+        "longitude": -122.262717465575,
+        "units": ""
     },
     {
         "id": "FF2300096",
@@ -52,18 +85,18 @@
         "location": "16 JOSEPH DR ,SSF",
         "latitude": 37.6637978345962,
         "longitude": -122.426226191023,
-        "units": ">E65"
+        "units": ""
     },
     {
-        "id": "FF2300094",
+        "id": "HF2300085",
         "date": "2023-01-04",
-        "time": "7:06:27 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "WESTBOROUGH BLVD / JUNIPERO SERRA BLVD",
-        "latitude": 37.6459959212589,
-        "longitude": -122.448345189396,
-        "units": "?TAC35 >E63 >BC17 >Q62 CM31X4"
+        "time": "7:19:18 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Pole fire",
+        "location": "237 THE ALAMEDA ,ELG",
+        "latitude": 37.5043612703492,
+        "longitude": -122.474256057068,
+        "units": "E72"
     },
     {
         "id": "NF2300257",
@@ -74,7 +107,7 @@
         "location": "165 PIERCE ST #437 ,DCY",
         "latitude": 37.6855042985177,
         "longitude": -122.473503564454,
-        "units": ">T95 CM31X1 >E95"
+        "units": "CM31X1 >T95 >E95"
     },
     {
         "id": "RF2300181",
@@ -110,28 +143,6 @@
         "units": "?TAC46 ?CM41X3"
     },
     {
-        "id": "NF2300253",
-        "date": "2023-01-04",
-        "time": "6:29:05 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "SB 280 / NO WESTBOROUGH BLVD",
-        "latitude": 37.6547209829024,
-        "longitude": -122.457577711741,
-        "units": ""
-    },
-    {
-        "id": "MF2300138",
-        "date": "2023-01-04",
-        "time": "6:14:09 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "878 COLLEGE AVE ,MNP",
-        "latitude": 37.4463915214921,
-        "longitude": -122.179452064635,
-        "units": ">E504 >TAC16"
-    },
-    {
         "id": "MF2300135",
         "date": "2023-01-04",
         "time": "5:41:27 PM",
@@ -140,6 +151,6 @@
         "location": "WB 84 / WO HIGH RI",
         "latitude": 37.5039371156294,
         "longitude": -122.121516838139,
-        "units": "CM11X3 >E2 ?TAC15 >BC101 >T2"
+        "units": "CM11X3 ?TAC15"
     }
 ]
