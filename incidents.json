@@ -1,14 +1,91 @@
 [
     {
-        "id": "BF2300065",
+        "id": "SF2300189",
         "date": "2023-01-04",
-        "time": "8:04:54 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "8:27:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PALM AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E25"
+    },
+    {
+        "id": "FF2300097",
+        "date": "2023-01-04",
+        "time": "8:22:40 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "20 CHESTNUT AVE ,SSF",
+        "latitude": 37.6556532340137,
+        "longitude": -122.432583519948,
+        "units": "E63"
+    },
+    {
+        "id": "CF2300108",
+        "date": "2023-01-04",
+        "time": "8:21:45 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Pole fire",
+        "location": "RICHMOND DR / LAUREL AVE",
+        "latitude": 37.6015673559929,
+        "longitude": -122.400755060496,
+        "units": ">E37"
+    },
+    {
+        "id": "HF2300099",
+        "date": "2023-01-04",
+        "time": "8:20:40 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "446 SEVILLA AVE ,ELG",
+        "latitude": 37.5115102403061,
+        "longitude": -122.481366531673,
+        "units": "E52 ?TAC45 ?CM41X1 ?BC110 ?E64?E71 E41"
+    },
+    {
+        "id": "HF2300098",
+        "date": "2023-01-04",
+        "time": "8:18:22 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "2355 CARLOS ST ,MBH",
+        "latitude": 37.5282735717933,
+        "longitude": -122.513473204068,
+        "units": "E640"
+    },
+    {
+        "id": "DF2300073",
+        "date": "2023-01-04",
+        "time": "8:15:11 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "PORTOLA HEIGHTS RD / LONG RIDGE RD",
+        "latitude": 37.281095834475,
+        "longitude": -122.161380347615,
+        "units": "E58 ?CFE21"
+    },
+    {
+        "id": "MF2300144",
+        "date": "2023-01-04",
+        "time": "8:11:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Public assist",
-        "location": "56 ATLANTIC AVE ,SNB",
-        "latitude": 37.6388637206737,
-        "longitude": -122.414433548854,
-        "units": "E2607"
+        "location": "1000 EL CAMINO REAL ,ATN",
+        "latitude": 37.4560770363324,
+        "longitude": -122.192078155915,
+        "units": ">T1"
+    },
+    {
+        "id": "RF2300187",
+        "date": "2023-01-04",
+        "time": "8:05:44 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLUB DR ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
     },
     {
         "id": "HF2300096",
@@ -16,10 +93,21 @@
         "time": "8:03:11 PM",
         "summary": "Coastside Fire on Control-1",
         "category": "Full assignment response",
-        "location": "KELMORE ST / CALIFORNIA AVE",
+        "location": "600 KELMORE ST ,MBH",
         "latitude": 37.5296739342301,
         "longitude": -122.511907088623,
         "units": ">E44"
+    },
+    {
+        "id": "RF2300186",
+        "date": "2023-01-04",
+        "time": "8:02:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "850 JEFFERSON AVE ,RCY",
+        "latitude": 37.4857676985872,
+        "longitude": -122.228701783093,
+        "units": ">SQ409 >E9 CM11X1"
     },
     {
         "id": "NF2300264",
@@ -30,29 +118,7 @@
         "location": "44 LIGHTHOUSE LN #168 ,DCY",
         "latitude": 37.6862890208779,
         "longitude": -122.448322444076,
-        "units": "E92"
-    },
-    {
-        "id": "HF2300094",
-        "date": "2023-01-04",
-        "time": "7:58:35 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "425 CORONADO ST ,ELG",
-        "latitude": 37.5031608376511,
-        "longitude": -122.468690063382,
-        "units": "E640"
-    },
-    {
-        "id": "SF2300187",
-        "date": "2023-01-04",
-        "time": "7:57:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": "U91"
     },
     {
         "id": "HF2300093",
@@ -63,7 +129,7 @@
         "location": "478 EL GRANADA BLVD ,ELG",
         "latitude": 37.5104306091634,
         "longitude": -122.464523248014,
-        "units": ">E41 E72 CM41X4 E40 BC10?TAC46"
+        "units": ">E40 ?TAC46 >BC10 CM41X4 >E72"
     },
     {
         "id": "NF2300263",
@@ -77,50 +143,6 @@
         "units": ">E93"
     },
     {
-        "id": "NF2300262",
-        "date": "2023-01-04",
-        "time": "7:51:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VERANO DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2300186",
-        "date": "2023-01-04",
-        "time": "7:51:02 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2300261",
-        "date": "2023-01-04",
-        "time": "7:44:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "2000 SIERRA POINT PKWY ,BRS",
-        "latitude": 37.6740847977174,
-        "longitude": -122.385701750616,
-        "units": ">E81"
-    },
-    {
-        "id": "DF2300072",
-        "date": "2023-01-04",
-        "time": "7:41:22 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "2720 ALPINE RD ,MNP",
-        "latitude": 37.405851489219,
-        "longitude": -122.196910530082,
-        "units": ">E107"
-    },
-    {
         "id": "LF2300021",
         "date": "2023-01-04",
         "time": "7:34:54 PM",
@@ -129,7 +151,18 @@
         "location": "VILLAGE LN ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">MED19 >T85"
+        "units": ""
+    },
+    {
+        "id": "MF2300143",
+        "date": "2023-01-04",
+        "time": "7:32:27 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "ALAMEDA DE LAS PULGAS / MONTEGO LN",
+        "latitude": 37.4445330867033,
+        "longitude": -122.225758472224,
+        "units": "SMCEOC"
     },
     {
         "id": "DF2300070",
@@ -141,17 +174,6 @@
         "latitude": 37.4455569013966,
         "longitude": -122.331483864382,
         "units": ">E56"
-    },
-    {
-        "id": "HF2300080",
-        "date": "2023-01-04",
-        "time": "6:33:20 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "505 MARINE BLVD ,MBH",
-        "latitude": 37.5240873820424,
-        "longitude": -122.509441926296,
-        "units": ""
     },
     {
         "id": "MF2300138",
