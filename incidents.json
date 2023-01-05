@@ -1,14 +1,69 @@
 [
     {
-        "id": "NF2300337",
+        "id": "RF2300225",
         "date": "2023-01-05",
-        "time": "11:03:40 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "11:22:30 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "HILLSIDE BLVD / BRUNSWICK ST",
+        "location": "E BAYSHORE RD #457 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": "E77"
+    },
+    {
+        "id": "RF2300224",
+        "date": "2023-01-05",
+        "time": "11:21:53 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "200 ARUNDEL RD ,SNC",
+        "latitude": 37.5041827334215,
+        "longitude": -122.275128410401,
+        "units": "E16"
+    },
+    {
+        "id": "BF2300084",
+        "date": "2023-01-05",
+        "time": "11:19:08 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO CRYSTAL SPRINGS RD",
+        "latitude": 37.6197504902248,
+        "longitude": -122.425528294907,
+        "units": "?TAC35 E52 E51 CM31X5 BC16T51 E38"
+    },
+    {
+        "id": "CF2300131",
+        "date": "2023-01-05",
+        "time": "11:16:04 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HORSESHOE CT ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "MF2300174",
+        "date": "2023-01-05",
+        "time": "11:07:14 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T1"
+    },
+    {
+        "id": "NF2300338",
+        "date": "2023-01-05",
+        "time": "11:04:36 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "416 CORAL RIDGE DR ,PCF",
+        "latitude": 37.6568678298939,
+        "longitude": -122.486347121889,
+        "units": ">T95"
     },
     {
         "id": "NF2300336",
@@ -19,29 +74,7 @@
         "location": "EDGEMONT DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "NF2300334",
-        "date": "2023-01-05",
-        "time": "10:57:42 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALENCIA WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "WF2300072",
-        "date": "2023-01-05",
-        "time": "10:51:01 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "120 LOS TRANCOS CIR ,LTW",
-        "latitude": 37.3490821743259,
-        "longitude": -122.201374021152,
-        "units": ">E8"
+        "units": ">E94"
     },
     {
         "id": "CF2300130",
@@ -55,28 +88,6 @@
         "units": ">U37"
     },
     {
-        "id": "SF2300217",
-        "date": "2023-01-05",
-        "time": "10:50:39 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S B ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2300172",
-        "date": "2023-01-05",
-        "time": "10:48:27 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MANZANITA RD ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
         "id": "WF2300071",
         "date": "2023-01-05",
         "time": "10:46:26 AM",
@@ -85,17 +96,6 @@
         "location": "PORTOLA RD / FOREST VIEW RD",
         "latitude": 37.4043212925202,
         "longitude": -122.254063022778,
-        "units": ">E7"
-    },
-    {
-        "id": "FF2300127",
-        "date": "2023-01-05",
-        "time": "10:41:08 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DEL MONTE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E7"
     }
 ]
