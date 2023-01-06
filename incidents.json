@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2300267",
+        "date": "2023-01-06",
+        "time": "11:23:29 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PARK ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E3"
+    },
+    {
+        "id": "MF2300201",
+        "date": "2023-01-06",
+        "time": "11:14:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "DF2300113",
+        "date": "2023-01-06",
+        "time": "11:11:22 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "10350 CABRILLO HWY ,SOS",
+        "latitude": 37.2167521938908,
+        "longitude": -122.404723791646,
+        "units": ">E59"
+    },
+    {
         "id": "CF2300158",
         "date": "2023-01-06",
         "time": "11:02:17 AM",
@@ -8,51 +41,7 @@
         "location": "TROUSDALE DR #1073B ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "RF2300266",
-        "date": "2023-01-06",
-        "time": "10:53:53 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GORDON ST #210 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2300265",
-        "date": "2023-01-06",
-        "time": "10:46:25 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "205 REDWOOD SHORES PKWY ,RWS",
-        "latitude": 37.5230003631162,
-        "longitude": -122.253283135579,
-        "units": ""
-    },
-    {
-        "id": "CF2300157",
-        "date": "2023-01-06",
-        "time": "10:46:18 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "RF2300264",
-        "date": "2023-01-06",
-        "time": "10:44:09 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #626 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": ">E37"
     },
     {
         "id": "DF2300112",
@@ -66,17 +55,6 @@
         "units": ">E655"
     },
     {
-        "id": "FF2300145",
-        "date": "2023-01-06",
-        "time": "9:48:14 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "1600 EL CAMINO REAL ,SSF",
-        "latitude": 37.663872266813,
-        "longitude": -122.444587305742,
-        "units": ">E63"
-    },
-    {
         "id": "NF2300397",
         "date": "2023-01-06",
         "time": "8:13:45 AM",
@@ -85,6 +63,6 @@
         "location": "131 WESTMOOR AVE #314 ,DCY",
         "latitude": 37.6824576838231,
         "longitude": -122.48365025663,
-        "units": ">BC121 >DEM50 >HM31 >HM14 >E95"
+        "units": ">HM31 >HM14"
     }
 ]
