@@ -1,5 +1,104 @@
 [
     {
+        "id": "DF2300117",
+        "date": "2023-01-06",
+        "time": "1:01:48 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DEARBORN PARK RD ,DPK",
+        "latitude": null,
+        "longitude": null,
+        "units": "E59 E655 ?VFIR23"
+    },
+    {
+        "id": "DF2300118",
+        "date": "2023-01-06",
+        "time": "1:01:02 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "620 NORTH ST ,PES",
+        "latitude": 37.2563260559352,
+        "longitude": -122.378551002762,
+        "units": "?E58"
+    },
+    {
+        "id": "MF2300209",
+        "date": "2023-01-06",
+        "time": "1:00:33 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "NF2300408",
+        "date": "2023-01-06",
+        "time": "1:00:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINDA MAR BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "CF2300160",
+        "date": "2023-01-06",
+        "time": "12:57:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "928 AZALEA AVE ,BRM",
+        "latitude": 37.5861683569109,
+        "longitude": -122.356184910634,
+        "units": ">E34"
+    },
+    {
+        "id": "HF2300176",
+        "date": "2023-01-06",
+        "time": "12:57:05 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "931 WAVE AVE ,MBH",
+        "latitude": 37.5271911056036,
+        "longitude": -122.509308313946,
+        "units": ">E41"
+    },
+    {
+        "id": "DF2300116",
+        "date": "2023-01-06",
+        "time": "12:53:58 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "PESCADERO CREEK RD / NATIVE SONS RD",
+        "latitude": 37.2549950798126,
+        "longitude": -122.3460040914,
+        "units": ""
+    },
+    {
+        "id": "FF2300149",
+        "date": "2023-01-06",
+        "time": "12:52:04 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRAND AVE #11 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "RF2300269",
+        "date": "2023-01-06",
+        "time": "12:51:43 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LINDEN ST #203 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">CM11X1 >E3"
+    },
+    {
         "id": "BF2300102",
         "date": "2023-01-06",
         "time": "12:43:33 PM",
@@ -8,7 +107,7 @@
         "location": "MAPLE AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E51"
+        "units": ">E51"
     },
     {
         "id": "BF2300101",
@@ -19,51 +118,7 @@
         "location": "PRINCETON DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
-    },
-    {
-        "id": "MF2300208",
-        "date": "2023-01-06",
-        "time": "12:35:13 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "723 MARSH RD ,NFO",
-        "latitude": 37.4738505548431,
-        "longitude": -122.188759140318,
-        "units": ">E11"
-    },
-    {
-        "id": "SF2300251",
-        "date": "2023-01-06",
-        "time": "12:34:17 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KEHOE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "DF2300115",
-        "date": "2023-01-06",
-        "time": "12:32:43 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "25 POPE RD ,LAH",
-        "latitude": 37.3110992829133,
-        "longitude": -122.276402849379,
-        "units": ">E57"
-    },
-    {
-        "id": "MF2300207",
-        "date": "2023-01-06",
-        "time": "12:24:29 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Lock out - residential",
-        "location": "191 E CREEK DR ,MNP",
-        "latitude": 37.4512071325932,
-        "longitude": -122.168452225498,
-        "units": ">E1"
+        "units": ">E52"
     },
     {
         "id": "HF2300174",
@@ -74,7 +129,7 @@
         "location": "147 AVENUE GRANADA ,ELG",
         "latitude": 37.5071236833702,
         "longitude": -122.480360276422,
-        "units": ">E41"
+        "units": ""
     },
     {
         "id": "HF2300173",
@@ -86,38 +141,5 @@
         "latitude": 37.531131831054,
         "longitude": -122.508421137448,
         "units": ">E44"
-    },
-    {
-        "id": "FF2300148",
-        "date": "2023-01-06",
-        "time": "12:07:47 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BADEN AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "MF2300203",
-        "date": "2023-01-06",
-        "time": "11:50:19 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Gas main break",
-        "location": "89 DOUGLAS WAY ,ATN",
-        "latitude": 37.4541853646374,
-        "longitude": -122.189533717198,
-        "units": ">E6"
-    },
-    {
-        "id": "DF2300112",
-        "date": "2023-01-06",
-        "time": "10:38:00 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "9500 PESCADERO CREEK RD ,LMR",
-        "latitude": 37.2757788359881,
-        "longitude": -122.297635843301,
-        "units": ">E655"
     }
 ]
