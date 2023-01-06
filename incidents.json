@@ -1,36 +1,80 @@
 [
     {
-        "id": "FF2300133",
+        "id": "RF2300239",
         "date": "2023-01-05",
-        "time": "5:02:52 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "5:51:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "HOWARD AVE / OLD COUNTY RD",
+        "latitude": 37.4991199710588,
+        "longitude": -122.249694407471,
+        "units": "CM11X4 ?TAC15"
+    },
+    {
+        "id": "NF2300369",
+        "date": "2023-01-05",
+        "time": "5:47:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "178 ALEXANDER AVE ,DCY",
+        "latitude": 37.703301739174,
+        "longitude": -122.453584398324,
+        "units": "USR193"
+    },
+    {
+        "id": "HF2300154",
+        "date": "2023-01-05",
+        "time": "5:47:12 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "POPLAR AVE ,SSF",
+        "location": "ROYAL PALM AVE ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": "?E61"
+        "units": ">E41"
     },
     {
-        "id": "NF2300363",
+        "id": "NF2300368",
         "date": "2023-01-05",
-        "time": "4:54:45 PM",
+        "time": "5:42:32 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SKYLINE BLVD / WESTMOOR AVE",
-        "latitude": 37.6833409160063,
-        "longitude": -122.489100467712,
-        "units": "?TAC35 >T95 CM31X3 >E95"
+        "category": "Wires down (not sparking)",
+        "location": "1056 WILDWOOD AVE ,DCY",
+        "latitude": 37.6961506791274,
+        "longitude": -122.492806885295,
+        "units": ">U95"
     },
     {
-        "id": "MF2300182",
+        "id": "DF2300106",
         "date": "2023-01-05",
-        "time": "4:52:42 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "1001 EL CAMINO REAL ,MNP",
-        "latitude": 37.4527958946832,
-        "longitude": -122.18204259459,
-        "units": ">E6"
+        "time": "5:36:36 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDMONDS RD ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2300367",
+        "date": "2023-01-05",
+        "time": "5:33:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "81 GARWOOD DR ,DCY",
+        "latitude": 37.7003134132112,
+        "longitude": -122.460669260887,
+        "units": ">E194"
+    },
+    {
+        "id": "FF2300134",
+        "date": "2023-01-05",
+        "time": "5:31:01 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FERNDALE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
     },
     {
         "id": "LF2300030",
@@ -42,49 +86,5 @@
         "latitude": 37.6903844046851,
         "longitude": -122.483879002613,
         "units": ">T85"
-    },
-    {
-        "id": "MF2300181",
-        "date": "2023-01-05",
-        "time": "4:49:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 101 / SO UNIVERSITY AVE",
-        "latitude": 37.4564271860104,
-        "longitude": -122.133818965041,
-        "units": ">E2 TAC15 >R77 >E77 CM11X5>BC101"
-    },
-    {
-        "id": "FF2300132",
-        "date": "2023-01-05",
-        "time": "4:49:35 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Lock out - residential",
-        "location": "431 ALIDA WAY #114 ,SSF",
-        "latitude": 37.6457332885424,
-        "longitude": -122.430612335656,
-        "units": ">E63"
-    },
-    {
-        "id": "WF2300083",
-        "date": "2023-01-05",
-        "time": "4:43:52 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "CALIFORNIA WAY / W CALIFORNIA WAY",
-        "latitude": 37.4562223332264,
-        "longitude": -122.274324803914,
-        "units": ">E19"
-    },
-    {
-        "id": "HF2300151",
-        "date": "2023-01-05",
-        "time": "4:22:42 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "AIRPORT ST / LA GRANADA LN  ,MBH",
-        "latitude": 37.5095672295441,
-        "longitude": -122.498281069153,
-        "units": ">E44"
     }
 ]
