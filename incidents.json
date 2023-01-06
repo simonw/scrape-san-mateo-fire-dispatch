@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2300104",
+        "date": "2023-01-06",
+        "time": "3:42:24 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN BRUNO AVE W ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E51"
+    },
+    {
+        "id": "FF2300153",
+        "date": "2023-01-06",
+        "time": "3:39:36 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "101 OYSTER POINT BLVD ,SSF",
+        "latitude": 37.6628023448017,
+        "longitude": -122.397202241989,
+        "units": "E65"
+    },
+    {
+        "id": "SF2300264",
+        "date": "2023-01-06",
+        "time": "3:35:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "872 LURLINE DR ,FCY",
+        "latitude": 37.5592452119625,
+        "longitude": -122.258107775387,
+        "units": ">E28"
+    },
+    {
+        "id": "SF2300263",
+        "date": "2023-01-06",
+        "time": "3:33:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EVERGREEN ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "DF2300120",
         "date": "2023-01-06",
         "time": "3:21:14 PM",
@@ -8,18 +52,7 @@
         "location": "SAN MATEO RD / SKYLINE UPPER",
         "latitude": 37.4955750561378,
         "longitude": -122.368892307841,
-        "units": "E17 ?CO56"
-    },
-    {
-        "id": "MF2300212",
-        "date": "2023-01-06",
-        "time": "3:14:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON CT ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "units": ""
     },
     {
         "id": "CF2300165",
@@ -30,6 +63,6 @@
         "location": "EL CAMINO REAL #105 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
+        "units": "E38"
     }
 ]
