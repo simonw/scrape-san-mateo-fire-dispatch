@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2300199",
+        "id": "CF2300158",
         "date": "2023-01-06",
-        "time": "10:42:42 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:02:17 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "WOODSIDE RD #11A ,WSB",
+        "location": "TROUSDALE DR #1073B ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E10"
+        "units": "E37"
+    },
+    {
+        "id": "RF2300266",
+        "date": "2023-01-06",
+        "time": "10:53:53 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GORDON ST #210 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2300265",
+        "date": "2023-01-06",
+        "time": "10:46:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "205 REDWOOD SHORES PKWY ,RWS",
+        "latitude": 37.5230003631162,
+        "longitude": -122.253283135579,
+        "units": ""
+    },
+    {
+        "id": "CF2300157",
+        "date": "2023-01-06",
+        "time": "10:46:18 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "RALSTON AVE ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "RF2300264",
+        "date": "2023-01-06",
+        "time": "10:44:09 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #626 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
     },
     {
         "id": "DF2300112",
@@ -19,62 +63,7 @@
         "location": "9500 PESCADERO CREEK RD ,LMR",
         "latitude": 37.2757788359881,
         "longitude": -122.297635843301,
-        "units": "CO55 E59"
-    },
-    {
-        "id": "NF2300402",
-        "date": "2023-01-06",
-        "time": "10:28:22 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "1347 CRESPI DR ,PCF",
-        "latitude": 37.5933750046925,
-        "longitude": -122.482333300355,
-        "units": ">E72"
-    },
-    {
-        "id": "BF2300100",
-        "date": "2023-01-06",
-        "time": "10:26:36 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN LUIS AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2300263",
-        "date": "2023-01-06",
-        "time": "10:24:09 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "820 VETERANS BLVD ,RCY",
-        "latitude": 37.4902528458621,
-        "longitude": -122.228926426151,
-        "units": ">T9"
-    },
-    {
-        "id": "RF2300262",
-        "date": "2023-01-06",
-        "time": "10:11:13 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
-    },
-    {
-        "id": "NF2300401",
-        "date": "2023-01-06",
-        "time": "10:00:01 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #202A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
+        "units": ">E655"
     },
     {
         "id": "FF2300145",
@@ -96,6 +85,6 @@
         "location": "131 WESTMOOR AVE #314 ,DCY",
         "latitude": 37.6824576838231,
         "longitude": -122.48365025663,
-        "units": ">BC121 TAC35 >DEM50 CM31X1 >HM31>HM14 >E91 >E95"
+        "units": ">BC121 >DEM50 >HM31 >HM14 >E95"
     }
 ]
