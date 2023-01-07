@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2300305",
+        "id": "MF2300241",
         "date": "2023-01-07",
-        "time": "3:02:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:21:54 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ST JAMES RD ,BLM",
+        "location": "LASSEN DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E4"
+    },
+    {
+        "id": "DF2300126",
+        "date": "2023-01-07",
+        "time": "3:17:12 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "200 EDMONDS RD ,EML",
+        "latitude": 37.4736225535701,
+        "longitude": -122.285667928585,
+        "units": ">E18"
+    },
+    {
+        "id": "RF2300296",
+        "date": "2023-01-07",
+        "time": "3:06:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
     },
     {
         "id": "SF2300304",
@@ -20,27 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E14"
-    },
-    {
-        "id": "MF2300240",
-        "date": "2023-01-07",
-        "time": "2:52:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "2091 CAMINO AL LAGO ,WMP",
-        "latitude": 37.4370409757118,
-        "longitude": -122.211778182051,
-        "units": ""
-    },
-    {
-        "id": "BF2300117",
-        "date": "2023-01-07",
-        "time": "2:38:39 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "2011 WILLOW WAY ,SNB",
-        "latitude": 37.6312785352514,
-        "longitude": -122.451103028401,
-        "units": ""
     }
 ]
