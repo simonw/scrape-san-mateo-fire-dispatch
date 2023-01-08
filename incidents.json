@@ -1,5 +1,115 @@
 [
     {
+        "id": "NF2300491",
+        "date": "2023-01-08",
+        "time": "12:25:07 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "JUNIPERO SERRA BLVD / KING DR",
+        "latitude": 37.6546349478985,
+        "longitude": -122.4530008848,
+        "units": ">E63"
+    },
+    {
+        "id": "MF2300264",
+        "date": "2023-01-08",
+        "time": "12:23:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALPARAISO AVE ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "HF2300209",
+        "date": "2023-01-08",
+        "time": "12:21:31 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Pole fire",
+        "location": "N CABRILLO HWY / ETHELDORE ST",
+        "latitude": 37.5209737931273,
+        "longitude": -122.506295306707,
+        "units": "E41"
+    },
+    {
+        "id": "RF2300312",
+        "date": "2023-01-08",
+        "time": "12:20:29 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2757 MELENDY DR ,SNC",
+        "latitude": 37.4919031089168,
+        "longitude": -122.274274125076,
+        "units": "E13"
+    },
+    {
+        "id": "CF2300209",
+        "date": "2023-01-08",
+        "time": "12:19:17 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Pole fire",
+        "location": "915 MORRELL AVE ,BRM",
+        "latitude": 37.5854917467226,
+        "longitude": -122.353278867498,
+        "units": ">E34"
+    },
+    {
+        "id": "BF2300132",
+        "date": "2023-01-08",
+        "time": "12:15:58 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "903 MONTGOMERY AVE ,SNB",
+        "latitude": 37.6327449628484,
+        "longitude": -122.412483481459,
+        "units": ""
+    },
+    {
+        "id": "NF2300488",
+        "date": "2023-01-08",
+        "time": "12:13:00 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "357 CARMEL AVE ,PCF",
+        "latitude": 37.6363240173387,
+        "longitude": -122.486282328257,
+        "units": "E71"
+    },
+    {
+        "id": "MF2300263",
+        "date": "2023-01-08",
+        "time": "12:10:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "260 VAN BUREN RD ,MNP",
+        "latitude": 37.4762451805915,
+        "longitude": -122.169212286606,
+        "units": ">E1"
+    },
+    {
+        "id": "BF2300131",
+        "date": "2023-01-08",
+        "time": "12:09:56 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Tree down",
+        "location": "EUCLID AVE / HUNTINGTON AVE",
+        "latitude": 37.6324546168645,
+        "longitude": -122.413108110111,
+        "units": "T51"
+    },
+    {
+        "id": "BF2300130",
+        "date": "2023-01-08",
+        "time": "12:05:40 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Tree down",
+        "location": "2267 ROSEWOOD DR ,SNB",
+        "latitude": 37.615625251509,
+        "longitude": -122.429841772912,
+        "units": ">E52"
+    },
+    {
         "id": "HF2300206",
         "date": "2023-01-08",
         "time": "12:02:27 AM",
@@ -8,40 +118,18 @@
         "location": "1120 BIRCH ST ,MON",
         "latitude": 37.54193154177,
         "longitude": -122.505145034556,
-        "units": "?TAC45 E92 ?E140 ?E40 E38?CM41X3 ?BC10"
-    },
-    {
-        "id": "SF2300320",
-        "date": "2023-01-08",
-        "time": "12:01:50 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #224 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "NF2300486",
-        "date": "2023-01-08",
-        "time": "12:01:34 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Structure fire",
-        "location": "6 SEAVIEW DR ,DCY",
-        "latitude": 37.6850077010313,
-        "longitude": -122.493037123517,
-        "units": "?TAC37 BC20 E52 E63 BC17?CM31X2 E71 ?E64 >E95"
+        "units": "?TAC45 >E44 E140 ?CM41X3"
     },
     {
         "id": "RF2300311",
         "date": "2023-01-08",
         "time": "12:01:16 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
+        "category": "Structure fire",
         "location": "2088 BROADWAY ,RCY",
         "latitude": 37.4867496058239,
         "longitude": -122.227869650259,
-        "units": "?CM11X2 E9 T9 ?TAC16 BC3E11 E10"
+        "units": "?CM11X2 >E9 >T9 ?TAC16 >BC3>E11 >E10"
     },
     {
         "id": "FF2300176",
@@ -52,62 +140,7 @@
         "location": "383 ARBOR DR ,SSF",
         "latitude": 37.6543923132029,
         "longitude": -122.452061639604,
-        "units": ""
-    },
-    {
-        "id": "NF2300485",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:57:55 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "890 CAMPUS DR #117 ,DCY",
-        "latitude": 37.6665602760852,
-        "longitude": -122.477313625574,
-        "units": ""
-    },
-    {
-        "id": "NF2300484",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:56:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTVIEW CIR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "FF2300175",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:56:08 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "118 DUNMAN WAY ,SSF",
-        "latitude": 37.66423647146,
-        "longitude": -122.460388698686,
-        "units": ""
-    },
-    {
-        "id": "NF2300483",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:52:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Gas main break",
-        "location": "1651 HIGGINS WAY ,PCF",
-        "latitude": 37.5829765688022,
-        "longitude": -122.496512668644,
-        "units": "TAC36 CM31X4 >E72"
-    },
-    {
-        "id": "NF2300482",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:48:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "459 WESTMOOR AVE ,DCY",
-        "latitude": 37.68446854158,
-        "longitude": -122.492918977669,
-        "units": ""
+        "units": ">E64"
     },
     {
         "id": "WF2300100",
@@ -121,50 +154,6 @@
         "units": "?TAC15 CM11X3"
     },
     {
-        "id": "NF2300480",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:42:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "MANOR DR / HEATHCLIFF DR",
-        "latitude": 37.6453639829567,
-        "longitude": -122.474066023465,
-        "units": ""
-    },
-    {
-        "id": "NF2300479",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:42:27 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO SERRAMONTE BLVD",
-        "latitude": 37.6682462185452,
-        "longitude": -122.465546681579,
-        "units": ">E94 TAC35 CM31X1 >BC120"
-    },
-    {
-        "id": "HF2300205",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:39:38 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "557 ISABELLA RD ,ELG",
-        "latitude": 37.5062847075401,
-        "longitude": -122.466365691235,
-        "units": ">E41"
-    },
-    {
-        "id": "HF2300202",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:28:08 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ST ,MON",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
         "id": "DF2300132",
         "date": "2023-01-08",
         "time": "1/7/2023 11:20:00 PM",
@@ -173,7 +162,7 @@
         "location": "CANADA RD / EDGEWOOD RD",
         "latitude": 37.4638098941832,
         "longitude": -122.297942531098,
-        "units": ">E19"
+        "units": ""
     },
     {
         "id": "MF2300251",
