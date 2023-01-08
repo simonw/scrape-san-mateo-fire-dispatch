@@ -1,5 +1,93 @@
 [
     {
+        "id": "FF2300192",
+        "date": "2023-01-08",
+        "time": "10:02:15 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MYRTLE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "NF2300508",
+        "date": "2023-01-08",
+        "time": "10:01:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "357 CARMEL AVE ,PCF",
+        "latitude": 37.6363240173387,
+        "longitude": -122.486282328257,
+        "units": "U71"
+    },
+    {
+        "id": "NF2300507",
+        "date": "2023-01-08",
+        "time": "9:56:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "444 HIGATE DR ,DCY",
+        "latitude": 37.6781919241128,
+        "longitude": -122.489653998409,
+        "units": "USR193"
+    },
+    {
+        "id": "MF2300270",
+        "date": "2023-01-08",
+        "time": "9:55:42 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ILLINOIS ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "HF2300216",
+        "date": "2023-01-08",
+        "time": "9:55:19 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "52 OCEAN VIEW AVE ,HMB",
+        "latitude": 37.4303504578405,
+        "longitude": -122.432480367829,
+        "units": "E41"
+    },
+    {
+        "id": "RF2300328",
+        "date": "2023-01-08",
+        "time": "9:54:45 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "829 EDGEWOOD RD ,RCY",
+        "latitude": 37.4859738632702,
+        "longitude": -122.250202908107,
+        "units": ">E16"
+    },
+    {
+        "id": "WF2300103",
+        "date": "2023-01-08",
+        "time": "9:53:11 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "165 PHILLIP RD ,WDS",
+        "latitude": 37.4023452648958,
+        "longitude": -122.24989842418,
+        "units": ">E7"
+    },
+    {
+        "id": "RF2300327",
+        "date": "2023-01-08",
+        "time": "9:47:52 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JETER ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
         "id": "RF2300326",
         "date": "2023-01-08",
         "time": "9:35:40 AM",
@@ -8,18 +96,7 @@
         "location": "2806 BREWSTER AVE ,RCY",
         "latitude": 37.4752023687655,
         "longitude": -122.251545916527,
-        "units": "E10"
-    },
-    {
-        "id": "CF2300220",
-        "date": "2023-01-08",
-        "time": "9:35:34 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NB 101 / SO BROADWAY",
-        "latitude": null,
-        "longitude": null,
-        "units": "T34"
+        "units": ">E10"
     },
     {
         "id": "DF2300138",
@@ -30,29 +107,7 @@
         "location": "520 NATIVE SONS RD ,PES",
         "latitude": 37.2486423780317,
         "longitude": -122.341397343856,
-        "units": "E655 E59"
-    },
-    {
-        "id": "HF2300215",
-        "date": "2023-01-08",
-        "time": "9:33:54 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "820 EDISON ST ,MON",
-        "latitude": 37.5433202360116,
-        "longitude": -122.502322370689,
-        "units": "E44"
-    },
-    {
-        "id": "RF2300325",
-        "date": "2023-01-08",
-        "time": "9:31:10 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST #403 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E655"
     },
     {
         "id": "HF2300214",
@@ -66,17 +121,6 @@
         "units": ">E40"
     },
     {
-        "id": "NF2300506",
-        "date": "2023-01-08",
-        "time": "9:26:12 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "INVERNESS DR / GLENCOURT WAY",
-        "latitude": 37.6483249621417,
-        "longitude": -122.475229403844,
-        "units": ">USR193"
-    },
-    {
         "id": "CF2300219",
         "date": "2023-01-08",
         "time": "9:22:10 AM",
@@ -86,28 +130,6 @@
         "latitude": 37.5852451990403,
         "longitude": -122.371273966837,
         "units": ">E35"
-    },
-    {
-        "id": "FF2300191",
-        "date": "2023-01-08",
-        "time": "9:07:39 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "TARA LN ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
-    },
-    {
-        "id": "CF2300218",
-        "date": "2023-01-08",
-        "time": "8:58:05 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "418 GREEN HILLS DR ,MLB",
-        "latitude": 37.6038522063714,
-        "longitude": -122.404020966031,
-        "units": ">E37"
     },
     {
         "id": "MF2300251",
