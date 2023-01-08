@@ -1,79 +1,90 @@
 [
     {
-        "id": "MF2300247",
+        "id": "DF2300128",
         "date": "2023-01-07",
-        "time": "5:03:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "5:50:38 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LA HONDA RD / HILDEBRAND RD",
+        "latitude": 37.3262653253355,
+        "longitude": -122.272773214972,
+        "units": "E57"
+    },
+    {
+        "id": "SF2300310",
+        "date": "2023-01-07",
+        "time": "5:46:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "STONE PINE LN ,MNP",
+        "location": "N FREMONT ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E21"
     },
     {
-        "id": "SF2300307",
+        "id": "MF2300253",
         "date": "2023-01-07",
-        "time": "5:02:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "639 OLD COUNTY RD ,BLM",
-        "latitude": 37.5246034052119,
-        "longitude": -122.278943036326,
-        "units": "?E14"
-    },
-    {
-        "id": "MF2300246",
-        "date": "2023-01-07",
-        "time": "4:51:42 PM",
+        "time": "5:40:53 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "1095 COLBY AVE ,MOK",
-        "latitude": 37.467508997482,
-        "longitude": -122.169289025453,
-        "units": ""
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
     },
     {
-        "id": "NF2300463",
+        "id": "CF2300200",
         "date": "2023-01-07",
-        "time": "4:47:56 PM",
+        "time": "5:40:43 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1020 PARROTT DR ,HIL",
+        "latitude": 37.5425504877856,
+        "longitude": -122.342671987689,
+        "units": ">E25"
+    },
+    {
+        "id": "MF2300252",
+        "date": "2023-01-07",
+        "time": "5:39:41 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "CAMINO AL LAGO / CAMINO A LOS CERROS",
+        "latitude": 37.4420644650562,
+        "longitude": -122.205027375405,
+        "units": ">E6"
+    },
+    {
+        "id": "MF2300251",
+        "date": "2023-01-07",
+        "time": "5:34:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Ca task force 3 request",
+        "location": "1376 WILLOW RD ,MNP",
+        "latitude": 37.4777635668135,
+        "longitude": -122.150213572648,
+        "units": ">TF3"
+    },
+    {
+        "id": "NF2300464",
+        "date": "2023-01-07",
+        "time": "5:30:15 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "YELLOWSTONE WAY ,PCF",
+        "location": "CRESPI DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2300306",
-        "date": "2023-01-07",
-        "time": "4:38:17 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #C304 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "DF2300127",
-        "date": "2023-01-07",
-        "time": "4:35:31 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / SO 92",
-        "latitude": 37.5004067419462,
-        "longitude": -122.326125246726,
-        "units": "?TAC16 CM11X5 >T17 >E27 >E19"
-    },
-    {
-        "id": "RF2300301",
-        "date": "2023-01-07",
-        "time": "4:33:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Structure fire",
-        "location": "39 BIRCH ST ,RCY",
-        "latitude": 37.4885638947649,
-        "longitude": -122.240428668226,
         "units": ""
+    },
+    {
+        "id": "CF2300198",
+        "date": "2023-01-07",
+        "time": "5:24:13 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HEMLOCK AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     }
 ]
