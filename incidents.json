@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2300259",
+        "date": "2023-01-07",
+        "time": "10:42:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "W BAYSHORE RD #34 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T2"
+    },
+    {
+        "id": "FF2300174",
+        "date": "2023-01-07",
+        "time": "10:41:54 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "COMMERCIAL AVE / MAGNOLIA AVE",
+        "latitude": 37.6553360860777,
+        "longitude": -122.420240508141,
+        "units": "?E61"
+    },
+    {
+        "id": "NF2300475",
+        "date": "2023-01-07",
+        "time": "10:40:16 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GATEWAY DR #151 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "NF2300474",
+        "date": "2023-01-07",
+        "time": "10:38:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "JUNIPERO SERRA BLVD / WESTLAKE AVE",
+        "latitude": 37.6994890908873,
+        "longitude": -122.470721803939,
+        "units": "E92"
+    },
+    {
+        "id": "HF2300199",
+        "date": "2023-01-07",
+        "time": "10:35:08 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "459 PROSPECT WAY ,PRN",
+        "latitude": 37.5050994878456,
+        "longitude": -122.487006354346,
+        "units": "E44"
+    },
+    {
+        "id": "NF2300473",
+        "date": "2023-01-07",
+        "time": "10:33:29 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "40 ALTA VISTA WAY ,DCY",
+        "latitude": 37.7052417918911,
+        "longitude": -122.430888817778,
+        "units": ">E93 BC20 CM31X5 TAC35 T95"
+    },
+    {
         "id": "WF2300099",
         "date": "2023-01-07",
         "time": "10:24:54 PM",
@@ -8,7 +74,7 @@
         "location": "116 ROMERO RD ,WDS",
         "latitude": 37.4319945002358,
         "longitude": -122.255130322782,
-        "units": "SQ407"
+        "units": ">SQ407"
     },
     {
         "id": "DF2300131",
@@ -19,7 +85,7 @@
         "location": "2029 QUEENS LN ,EIC",
         "latitude": 37.5205609603508,
         "longitude": -122.33425125226,
-        "units": "E18"
+        "units": "E17 CM11X1 >E18"
     },
     {
         "id": "NF2300472",
@@ -30,40 +96,7 @@
         "location": "8 GRANDVIEW AVE ,DCY",
         "latitude": 37.6755937441606,
         "longitude": -122.485720563198,
-        "units": "E95"
-    },
-    {
-        "id": "WF2300098",
-        "date": "2023-01-07",
-        "time": "10:12:13 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA RD ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "LF2300042",
-        "date": "2023-01-07",
-        "time": "10:08:54 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "HEATHER RD / WASHINGTON ST",
-        "latitude": 37.6879322986627,
-        "longitude": -122.476962453329,
-        "units": ""
-    },
-    {
-        "id": "NF2300471",
-        "date": "2023-01-07",
-        "time": "10:03:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MASON DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">E95"
     },
     {
         "id": "NF2300469",
@@ -97,17 +130,6 @@
         "latitude": 37.5071236833702,
         "longitude": -122.480360276422,
         "units": ">E41 ?TAC45 CM41X5 >BC10"
-    },
-    {
-        "id": "BF2300126",
-        "date": "2023-01-07",
-        "time": "9:37:47 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "2011 WILLOW WAY ,SNB",
-        "latitude": 37.6312785352514,
-        "longitude": -122.451103028401,
-        "units": ""
     },
     {
         "id": "MF2300251",
