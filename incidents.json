@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2300313",
+        "id": "MF2300267",
         "date": "2023-01-08",
-        "time": "12:41:54 AM",
+        "time": "1:00:19 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #101 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "MF2300266",
+        "date": "2023-01-08",
+        "time": "12:53:31 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FLETCHER DR ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2300314",
+        "date": "2023-01-08",
+        "time": "12:48:44 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "IRIS ST / MADISON AVE",
-        "latitude": 37.4759822462406,
-        "longitude": -122.23602660858,
-        "units": ">E10"
+        "category": "Public assist",
+        "location": "WINSLOW ST / WHIPPLE AVE",
+        "latitude": 37.493482792655,
+        "longitude": -122.236030734516,
+        "units": ">E16"
+    },
+    {
+        "id": "FF2300180",
+        "date": "2023-01-08",
+        "time": "12:47:29 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "139 ROCKWOOD DR ,SSF",
+        "latitude": 37.6395548952935,
+        "longitude": -122.425273906746,
+        "units": ">E61"
     },
     {
         "id": "BF2300134",
@@ -22,39 +55,6 @@
         "units": ">T51"
     },
     {
-        "id": "MF2300265",
-        "date": "2023-01-08",
-        "time": "12:31:07 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EUCLID AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2300101",
-        "date": "2023-01-08",
-        "time": "12:30:32 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "245 CERVANTES RD ,PVY",
-        "latitude": 37.3858880076301,
-        "longitude": -122.205734348212,
-        "units": ">E8"
-    },
-    {
-        "id": "BF2300133",
-        "date": "2023-01-08",
-        "time": "12:30:21 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "3781 MADERA WAY ,SNB",
-        "latitude": 37.634072197609,
-        "longitude": -122.46645055464,
-        "units": "E63"
-    },
-    {
         "id": "FF2300179",
         "date": "2023-01-08",
         "time": "12:26:26 AM",
@@ -66,28 +66,6 @@
         "units": ">E94"
     },
     {
-        "id": "FF2300177",
-        "date": "2023-01-08",
-        "time": "12:05:35 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Tree down",
-        "location": "2326 GREENDALE DR ,SSF",
-        "latitude": 37.6478274143582,
-        "longitude": -122.456999032562,
-        "units": ""
-    },
-    {
-        "id": "HF2300206",
-        "date": "2023-01-08",
-        "time": "12:02:27 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "1120 BIRCH ST ,MON",
-        "latitude": 37.54193154177,
-        "longitude": -122.505145034556,
-        "units": "?TAC45 >E44 >E140 ?CM41X3"
-    },
-    {
         "id": "RF2300311",
         "date": "2023-01-08",
         "time": "12:01:16 AM",
@@ -96,18 +74,7 @@
         "location": "2088 BROADWAY ,RCY",
         "latitude": 37.4867496058239,
         "longitude": -122.227869650259,
-        "units": "?CM11X2 >E9 >T9 ?TAC16 >BC3"
-    },
-    {
-        "id": "WF2300100",
-        "date": "2023-01-08",
-        "time": "1/7/2023 11:47:34 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO EDGEWOOD RD",
-        "latitude": 37.4503547561209,
-        "longitude": -122.278505928096,
-        "units": "?TAC15 CM11X3"
+        "units": ""
     },
     {
         "id": "MF2300251",
