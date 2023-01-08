@@ -1,14 +1,80 @@
 [
     {
-        "id": "MF2300259",
+        "id": "BF2300127",
         "date": "2023-01-07",
-        "time": "10:42:56 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:04:51 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "W BAYSHORE RD #34 ,EPA",
+        "location": "MAPLE AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?T2"
+        "units": "?E51"
+    },
+    {
+        "id": "SF2300318",
+        "date": "2023-01-07",
+        "time": "11:03:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W HILLSDALE BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "SF2300316",
+        "date": "2023-01-07",
+        "time": "10:53:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "650 SHELL BLVD ,FCY",
+        "latitude": 37.5563641885036,
+        "longitude": -122.268877521048,
+        "units": ">E29"
+    },
+    {
+        "id": "HF2300201",
+        "date": "2023-01-07",
+        "time": "10:47:37 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "FAIRWAY DR / CABRILLO HWY S",
+        "latitude": 37.4348159179192,
+        "longitude": -122.427042822082,
+        "units": ">E59"
+    },
+    {
+        "id": "RF2300309",
+        "date": "2023-01-07",
+        "time": "10:43:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "2373 HOWARD AVE ,SNC",
+        "latitude": 37.489173303763,
+        "longitude": -122.262922691492,
+        "units": ">E16"
+    },
+    {
+        "id": "HF2300200",
+        "date": "2023-01-07",
+        "time": "10:43:52 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "822 ARNOLD WAY ,HMB",
+        "latitude": 37.4559899242407,
+        "longitude": -122.427720764066,
+        "units": ""
+    },
+    {
+        "id": "RF2300308",
+        "date": "2023-01-07",
+        "time": "10:43:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELSTON CT ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
     },
     {
         "id": "FF2300174",
@@ -19,29 +85,7 @@
         "location": "COMMERCIAL AVE / MAGNOLIA AVE",
         "latitude": 37.6553360860777,
         "longitude": -122.420240508141,
-        "units": "?E61"
-    },
-    {
-        "id": "NF2300475",
-        "date": "2023-01-07",
-        "time": "10:40:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY DR #151 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "NF2300474",
-        "date": "2023-01-07",
-        "time": "10:38:10 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "JUNIPERO SERRA BLVD / WESTLAKE AVE",
-        "latitude": 37.6994890908873,
-        "longitude": -122.470721803939,
-        "units": "E92"
+        "units": ">E61"
     },
     {
         "id": "HF2300199",
@@ -52,29 +96,7 @@
         "location": "459 PROSPECT WAY ,PRN",
         "latitude": 37.5050994878456,
         "longitude": -122.487006354346,
-        "units": "E44"
-    },
-    {
-        "id": "NF2300473",
-        "date": "2023-01-07",
-        "time": "10:33:29 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "40 ALTA VISTA WAY ,DCY",
-        "latitude": 37.7052417918911,
-        "longitude": -122.430888817778,
-        "units": ">E93 BC20 CM31X5 TAC35 T95"
-    },
-    {
-        "id": "WF2300099",
-        "date": "2023-01-07",
-        "time": "10:24:54 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "116 ROMERO RD ,WDS",
-        "latitude": 37.4319945002358,
-        "longitude": -122.255130322782,
-        "units": ">SQ407"
+        "units": ">E44"
     },
     {
         "id": "DF2300131",
@@ -85,40 +107,7 @@
         "location": "2029 QUEENS LN ,EIC",
         "latitude": 37.5205609603508,
         "longitude": -122.33425125226,
-        "units": "E17 CM11X1 >E18"
-    },
-    {
-        "id": "NF2300472",
-        "date": "2023-01-07",
-        "time": "10:20:38 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "8 GRANDVIEW AVE ,DCY",
-        "latitude": 37.6755937441606,
-        "longitude": -122.485720563198,
-        "units": ">E95"
-    },
-    {
-        "id": "NF2300469",
-        "date": "2023-01-07",
-        "time": "9:53:52 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "BAYSHORE BLVD / GUADALUPE CANYON PKWY",
-        "latitude": 37.6926439056086,
-        "longitude": -122.404597309706,
-        "units": ">E81"
-    },
-    {
-        "id": "MF2300258",
-        "date": "2023-01-07",
-        "time": "9:52:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "336 AZALIA DR ,EPA",
-        "latitude": 37.4622413997692,
-        "longitude": -122.128942770778,
-        "units": ">E2"
+        "units": ">E18"
     },
     {
         "id": "HF2300198",
@@ -129,7 +118,7 @@
         "location": "147 AVENUE GRANADA ,ELG",
         "latitude": 37.5071236833702,
         "longitude": -122.480360276422,
-        "units": ">E41 ?TAC45 CM41X5 >BC10"
+        "units": ">E41"
     },
     {
         "id": "MF2300251",
