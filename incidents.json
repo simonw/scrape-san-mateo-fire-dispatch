@@ -1,5 +1,93 @@
 [
     {
+        "id": "HF2300249",
+        "date": "2023-01-09",
+        "time": "1:40:31 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "611 JOHNSTON ST ,HMB",
+        "latitude": 37.4620609279462,
+        "longitude": -122.428218837967,
+        "units": "?E40"
+    },
+    {
+        "id": "RF2300382",
+        "date": "2023-01-09",
+        "time": "1:39:22 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "19 ADMIRALTY PL ,RWS",
+        "latitude": 37.5334949460499,
+        "longitude": -122.247290193254,
+        "units": "E20"
+    },
+    {
+        "id": "HF2300248",
+        "date": "2023-01-09",
+        "time": "1:38:59 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "37 FRENCHMANS CREEK RD ,HMB",
+        "latitude": 37.4821354554555,
+        "longitude": -122.445252999954,
+        "units": "E41"
+    },
+    {
+        "id": "CF2300257",
+        "date": "2023-01-09",
+        "time": "1:36:52 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "800 AIRPORT BLVD ,BRM",
+        "latitude": 37.5911252606273,
+        "longitude": -122.349645957143,
+        "units": ">E34"
+    },
+    {
+        "id": "FF2300228",
+        "date": "2023-01-09",
+        "time": "1:35:19 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "AIRPORT BLVD #224 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "DF2300170",
+        "date": "2023-01-09",
+        "time": "1:30:59 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "1492 STAR HILL RD ,KMT",
+        "latitude": 37.3909026032811,
+        "longitude": -122.339400888164,
+        "units": "E356"
+    },
+    {
+        "id": "NF2300589",
+        "date": "2023-01-09",
+        "time": "1:28:19 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WESTLAKE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "SF2300390",
+        "date": "2023-01-09",
+        "time": "1:24:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "119 14TH AVE ,SMO",
+        "latitude": 37.5563538731653,
+        "longitude": -122.314781791878,
+        "units": ">T21"
+    },
+    {
         "id": "MF2300310",
         "date": "2023-01-09",
         "time": "1:22:35 PM",
@@ -8,18 +96,7 @@
         "location": "195 OAK GROVE AVE ,MNP",
         "latitude": 37.4599691714215,
         "longitude": -122.179661277449,
-        "units": "E6"
-    },
-    {
-        "id": "RF2300381",
-        "date": "2023-01-09",
-        "time": "1:18:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "906 5TH AVE ,RCY",
-        "latitude": 37.481816111083,
-        "longitude": -122.198122108341,
-        "units": ">E11"
+        "units": ">E6"
     },
     {
         "id": "SF2300389",
@@ -30,7 +107,7 @@
         "location": "2924 JUNIPER ST ,SMO",
         "latitude": 37.5373099583451,
         "longitude": -122.308146713123,
-        "units": "E25"
+        "units": ">E25"
     },
     {
         "id": "SF2300388",
@@ -42,50 +119,6 @@
         "latitude": 37.547972984902,
         "longitude": -122.258952684293,
         "units": ">E29"
-    },
-    {
-        "id": "NF2300588",
-        "date": "2023-01-09",
-        "time": "1:12:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FLORENCE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "BF2300171",
-        "date": "2023-01-09",
-        "time": "1:00:57 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Pole fire",
-        "location": "2890 MEDINA DR ,SNB",
-        "latitude": 37.6391323119149,
-        "longitude": -122.458041564259,
-        "units": ">E64"
-    },
-    {
-        "id": "SF2300387",
-        "date": "2023-01-09",
-        "time": "12:46:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MAPLE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "WF2300113",
-        "date": "2023-01-09",
-        "time": "12:28:09 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "SKYLINE BLVD / BEAR GULCH RD",
-        "latitude": 37.3996942489132,
-        "longitude": -122.293736772989,
-        "units": ""
     },
     {
         "id": "MF2300251",
