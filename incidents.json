@@ -1,14 +1,91 @@
 [
     {
-        "id": "FF2300216",
+        "id": "HF2300238",
         "date": "2023-01-09",
-        "time": "7:43:34 AM",
+        "time": "8:03:42 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "BEACH ST / NEVADA AVE",
+        "latitude": 37.5249231974646,
+        "longitude": -122.516135099904,
+        "units": "?E44"
+    },
+    {
+        "id": "CF2300246",
+        "date": "2023-01-09",
+        "time": "8:00:49 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "370 ADRIAN RD ,MLB",
+        "latitude": 37.6007868700718,
+        "longitude": -122.381300670247,
+        "units": "E37"
+    },
+    {
+        "id": "FF2300218",
+        "date": "2023-01-09",
+        "time": "7:58:12 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
+        "location": "GARDINER AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E65"
+    },
+    {
+        "id": "MF2300298",
+        "date": "2023-01-09",
+        "time": "7:56:39 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GRACE AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "BF2300163",
+        "date": "2023-01-09",
+        "time": "7:55:21 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "2000 CRYSTAL SPRINGS RD ,SNB",
+        "latitude": 37.6064502458462,
+        "longitude": -122.426997019799,
+        "units": ">E52"
+    },
+    {
+        "id": "WF2300108",
+        "date": "2023-01-09",
+        "time": "7:54:09 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "747 SYLVAN WAY ,EML",
+        "latitude": 37.464384517133,
+        "longitude": -122.269708127145,
+        "units": ">E19"
+    },
+    {
+        "id": "FF2300217",
+        "date": "2023-01-09",
+        "time": "7:49:18 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Full assignment response",
+        "location": "107 ROSEWOOD WAY ,SSF",
+        "latitude": 37.6362018076032,
+        "longitude": -122.433256239727,
+        "units": ">E161 >BC17 >E61 CM31X1 ?TAC35"
+    },
+    {
+        "id": "RF2300360",
+        "date": "2023-01-09",
+        "time": "7:48:01 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "632 ACACIA LN ,EML",
+        "latitude": 37.4666277969858,
+        "longitude": -122.261004405376,
+        "units": ">E12"
     },
     {
         "id": "DF2300162",
@@ -19,18 +96,7 @@
         "location": "PAGE MILL RD / SKYLINE BLVD",
         "latitude": 37.3149197614327,
         "longitude": -122.18724185588,
-        "units": "E58 ?CFE21"
-    },
-    {
-        "id": "RF2300359",
-        "date": "2023-01-09",
-        "time": "7:31:43 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "EL CAMINO REAL / BROADWAY",
-        "latitude": 37.4862169747507,
-        "longitude": -122.234930844581,
-        "units": ">E9"
+        "units": "E1762 E58"
     },
     {
         "id": "HF2300237",
@@ -41,72 +107,6 @@
         "location": "STETSON ST / SUNSHINE VALLEY RD",
         "latitude": 37.5282664442031,
         "longitude": -122.510199631378,
-        "units": ""
-    },
-    {
-        "id": "RF2300358",
-        "date": "2023-01-09",
-        "time": "7:28:08 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "150 INDUSTRIAL RD ,SNC",
-        "latitude": 37.5189895345387,
-        "longitude": -122.266507579896,
-        "units": ""
-    },
-    {
-        "id": "MF2300297",
-        "date": "2023-01-09",
-        "time": "7:23:13 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "170 ATHERTON AVE ,ATN",
-        "latitude": 37.452350579156,
-        "longitude": -122.208311790115,
-        "units": ""
-    },
-    {
-        "id": "BF2300162",
-        "date": "2023-01-09",
-        "time": "7:21:56 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "660 SKYLINE BLVD ,SNB",
-        "latitude": 37.6152228735251,
-        "longitude": -122.438108810779,
-        "units": ">E52"
-    },
-    {
-        "id": "WF2300107",
-        "date": "2023-01-09",
-        "time": "7:18:46 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "445 MANZANITA WAY ,WDS",
-        "latitude": 37.4211273442495,
-        "longitude": -122.251103411253,
-        "units": ">E7"
-    },
-    {
-        "id": "NF2300559",
-        "date": "2023-01-09",
-        "time": "7:16:19 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "THIERS ST / WYANDOTTE AVE",
-        "latitude": 37.6975044197825,
-        "longitude": -122.458783664091,
-        "units": ">U95"
-    },
-    {
-        "id": "CF2300245",
-        "date": "2023-01-09",
-        "time": "7:15:55 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SPRUCE ST ,MLB",
-        "latitude": null,
-        "longitude": null,
         "units": ""
     },
     {
