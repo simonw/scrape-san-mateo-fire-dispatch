@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2300374",
+        "date": "2023-01-09",
+        "time": "9:37:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "1502 S EL CAMINO REAL ,SMO",
+        "latitude": 37.5537208317152,
+        "longitude": -122.316121932222,
+        "units": "E28"
+    },
+    {
+        "id": "RF2300366",
+        "date": "2023-01-09",
+        "time": "9:35:30 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2950 FAIR OAKS AVE ,NFO",
+        "latitude": 37.478907607726,
+        "longitude": -122.206048973148,
+        "units": "E11"
+    },
+    {
+        "id": "SF2300373",
+        "date": "2023-01-09",
+        "time": "9:34:42 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E25"
+    },
+    {
+        "id": "FF2300220",
+        "date": "2023-01-09",
+        "time": "9:27:29 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "365 VALVERDE DR ,SSF",
+        "latitude": 37.6390797643479,
+        "longitude": -122.440319206114,
+        "units": ">E161 U61"
+    },
+    {
         "id": "CF2300251",
         "date": "2023-01-09",
         "time": "9:25:14 AM",
@@ -8,7 +52,7 @@
         "location": "1405 SAN RAYMUNDO RD ,HIL",
         "latitude": 37.5542371349962,
         "longitude": -122.358653356603,
-        "units": "CM21X5 E21 BC8 T21 ?TAC25?E27 ?E33"
+        "units": ">BC8 CM21X5 ?TAC25 >E33 >E27>T21"
     },
     {
         "id": "NF2300564",
@@ -22,17 +66,6 @@
         "units": ">E64"
     },
     {
-        "id": "BF2300165",
-        "date": "2023-01-09",
-        "time": "9:14:34 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EAST AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E151"
-    },
-    {
         "id": "RF2300365",
         "date": "2023-01-09",
         "time": "9:12:57 AM",
@@ -41,7 +74,7 @@
         "location": "435 ALAMEDA DE LAS PULGAS ,EML",
         "latitude": 37.4712646254758,
         "longitude": -122.248506711289,
-        "units": ">SQ409 >E10"
+        "units": ""
     },
     {
         "id": "SF2300372",
@@ -53,17 +86,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">T23"
-    },
-    {
-        "id": "SF2300371",
-        "date": "2023-01-09",
-        "time": "9:10:18 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "572 RALSTON AVE ,BLM",
-        "latitude": 37.5221362123532,
-        "longitude": -122.274431701146,
-        "units": ">E13"
     },
     {
         "id": "DF2300167",
@@ -99,28 +121,6 @@
         "units": ">E357"
     },
     {
-        "id": "FF2300219",
-        "date": "2023-01-09",
-        "time": "8:57:09 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "250 GATEWAY BLVD ,SSF",
-        "latitude": 37.655340147329,
-        "longitude": -122.400698529941,
-        "units": ">Q62"
-    },
-    {
-        "id": "MF2300302",
-        "date": "2023-01-09",
-        "time": "8:56:21 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #141 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T1"
-    },
-    {
         "id": "FF2300217",
         "date": "2023-01-09",
         "time": "7:49:18 AM",
@@ -129,7 +129,7 @@
         "location": "107 ROSEWOOD WAY ,SSF",
         "latitude": 37.6362018076032,
         "longitude": -122.433256239727,
-        "units": "OES31 >E161"
+        "units": ">OES31"
     },
     {
         "id": "MF2300251",
@@ -140,6 +140,6 @@
         "location": "1376 WILLOW RD ,MNP",
         "latitude": 37.4777635668135,
         "longitude": -122.150213572648,
-        "units": ">TF3"
+        "units": "TF3"
     }
 ]
