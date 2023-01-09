@@ -1,14 +1,124 @@
 [
     {
-        "id": "SF2300374",
+        "id": "HF2300243",
         "date": "2023-01-09",
-        "time": "9:37:45 AM",
+        "time": "10:03:18 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "590 FRANCISCO ST ,ELG",
+        "latitude": 37.505971672033,
+        "longitude": -122.468653953583,
+        "units": "E40 BC10 E72 CM41X5 E44E41 TO11 ?TAC45"
+    },
+    {
+        "id": "WF2300111",
+        "date": "2023-01-09",
+        "time": "10:00:02 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "131 BROOKSIDE DR ,PVY",
+        "latitude": 37.373461744959,
+        "longitude": -122.217720987803,
+        "units": "E507"
+    },
+    {
+        "id": "BF2300167",
+        "date": "2023-01-09",
+        "time": "9:59:55 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "S MAPLE AVE / TANFORAN AVE",
+        "latitude": 37.6394049307279,
+        "longitude": -122.416623726687,
+        "units": "E152"
+    },
+    {
+        "id": "RF2300369",
+        "date": "2023-01-09",
+        "time": "9:51:36 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "RF2300368",
+        "date": "2023-01-09",
+        "time": "9:51:13 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Hazardous material - investiga",
+        "location": "104 CEDAR ST ,RCY",
+        "latitude": 37.4795996734479,
+        "longitude": -122.224674218719,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2300567",
+        "date": "2023-01-09",
+        "time": "9:50:47 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #241C ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "BF2300166",
+        "date": "2023-01-09",
+        "time": "9:50:03 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN ANTONIO AVE #5 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "FF2300221",
+        "date": "2023-01-09",
+        "time": "9:48:29 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SUSIE WAY #1 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "SF2300378",
+        "date": "2023-01-09",
+        "time": "9:48:05 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1502 S EL CAMINO REAL ,SMO",
-        "latitude": 37.5537208317152,
-        "longitude": -122.316121932222,
-        "units": "E28"
+        "category": "Medical aid",
+        "location": "S ELLSWORTH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2300377",
+        "date": "2023-01-09",
+        "time": "9:43:41 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "RF2300367",
+        "date": "2023-01-09",
+        "time": "9:42:29 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "425 SHELFORD AVE ,SNC",
+        "latitude": 37.5114197553411,
+        "longitude": -122.275204201273,
+        "units": ""
     },
     {
         "id": "RF2300366",
@@ -19,7 +129,7 @@
         "location": "2950 FAIR OAKS AVE ,NFO",
         "latitude": 37.478907607726,
         "longitude": -122.206048973148,
-        "units": "E11"
+        "units": ""
     },
     {
         "id": "SF2300373",
@@ -30,18 +140,7 @@
         "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
-    },
-    {
-        "id": "FF2300220",
-        "date": "2023-01-09",
-        "time": "9:27:29 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "365 VALVERDE DR ,SSF",
-        "latitude": 37.6390797643479,
-        "longitude": -122.440319206114,
-        "units": ">E161 U61"
+        "units": ">E25"
     },
     {
         "id": "CF2300251",
@@ -52,40 +151,7 @@
         "location": "1405 SAN RAYMUNDO RD ,HIL",
         "latitude": 37.5542371349962,
         "longitude": -122.358653356603,
-        "units": ">BC8 CM21X5 ?TAC25 >E33 >E27>T21"
-    },
-    {
-        "id": "NF2300564",
-        "date": "2023-01-09",
-        "time": "9:21:33 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KING DR #247 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "RF2300365",
-        "date": "2023-01-09",
-        "time": "9:12:57 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "435 ALAMEDA DE LAS PULGAS ,EML",
-        "latitude": 37.4712646254758,
-        "longitude": -122.248506711289,
-        "units": ""
-    },
-    {
-        "id": "SF2300372",
-        "date": "2023-01-09",
-        "time": "9:11:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VANESSA DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
+        "units": ">BC8 >E33"
     },
     {
         "id": "DF2300167",
@@ -97,39 +163,6 @@
         "latitude": 37.2549950798126,
         "longitude": -122.3460040914,
         "units": ">U55 >E655"
-    },
-    {
-        "id": "CF2300250",
-        "date": "2023-01-09",
-        "time": "9:03:42 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "601 HILLSBOROUGH BLVD ,HIL",
-        "latitude": 37.5646336906558,
-        "longitude": -122.355220361943,
-        "units": ">E32"
-    },
-    {
-        "id": "DF2300166",
-        "date": "2023-01-09",
-        "time": "8:59:37 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "105 REDWOOD DR ,LAH",
-        "latitude": 37.3128843064709,
-        "longitude": -122.271719844161,
-        "units": ">E357"
-    },
-    {
-        "id": "FF2300217",
-        "date": "2023-01-09",
-        "time": "7:49:18 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "107 ROSEWOOD WAY ,SSF",
-        "latitude": 37.6362018076032,
-        "longitude": -122.433256239727,
-        "units": ">OES31"
     },
     {
         "id": "MF2300251",
