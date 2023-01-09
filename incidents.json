@@ -1,36 +1,91 @@
 [
     {
-        "id": "HF2300238",
+        "id": "SF2300366",
         "date": "2023-01-09",
-        "time": "8:03:42 AM",
+        "time": "8:22:22 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "NOTRE DAME AVE / FOLGER DR",
+        "latitude": 37.5173963065768,
+        "longitude": -122.289016873931,
+        "units": "E15"
+    },
+    {
+        "id": "HF2300241",
+        "date": "2023-01-09",
+        "time": "8:18:19 AM",
         "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "BEACH ST / NEVADA AVE",
-        "latitude": 37.5249231974646,
-        "longitude": -122.516135099904,
-        "units": "?E44"
-    },
-    {
-        "id": "CF2300246",
-        "date": "2023-01-09",
-        "time": "8:00:49 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "370 ADRIAN RD ,MLB",
-        "latitude": 37.6007868700718,
-        "longitude": -122.381300670247,
-        "units": "E37"
-    },
-    {
-        "id": "FF2300218",
-        "date": "2023-01-09",
-        "time": "7:58:12 AM",
-        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "GARDINER AVE ,SSF",
+        "location": "N CABRILLO HWY ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": ">E41"
+    },
+    {
+        "id": "HF2300240",
+        "date": "2023-01-09",
+        "time": "8:13:01 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BALBOA BLVD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "MF2300299",
+        "date": "2023-01-09",
+        "time": "8:12:37 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "751 EL CAMINO REAL ,MNP",
+        "latitude": 37.4514100452697,
+        "longitude": -122.17964773461,
+        "units": ""
+    },
+    {
+        "id": "DF2300163",
+        "date": "2023-01-09",
+        "time": "8:11:14 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist",
+        "location": "7940 LA HONDA RD ,LAH",
+        "latitude": 37.3103059277765,
+        "longitude": -122.27998813148,
+        "units": ">E357 ?CO57 E7"
+    },
+    {
+        "id": "SF2300365",
+        "date": "2023-01-09",
+        "time": "8:10:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PARROTT DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "WF2300109",
+        "date": "2023-01-09",
+        "time": "8:07:14 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "WESTRIDGE DR / CERVANTES RD",
+        "latitude": 37.3924077952316,
+        "longitude": -122.203562858938,
+        "units": "?TAC15 CM11X1 *>E8"
+    },
+    {
+        "id": "NF2300560",
+        "date": "2023-01-09",
+        "time": "8:06:19 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PONCETTA DR #203 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "MF2300298",
@@ -41,18 +96,7 @@
         "location": "GRACE AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "BF2300163",
-        "date": "2023-01-09",
-        "time": "7:55:21 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - manual",
-        "location": "2000 CRYSTAL SPRINGS RD ,SNB",
-        "latitude": 37.6064502458462,
-        "longitude": -122.426997019799,
-        "units": ">E52"
+        "units": ""
     },
     {
         "id": "WF2300108",
@@ -63,7 +107,7 @@
         "location": "747 SYLVAN WAY ,EML",
         "latitude": 37.464384517133,
         "longitude": -122.269708127145,
-        "units": ">E19"
+        "units": ""
     },
     {
         "id": "FF2300217",
@@ -74,7 +118,7 @@
         "location": "107 ROSEWOOD WAY ,SSF",
         "latitude": 37.6362018076032,
         "longitude": -122.433256239727,
-        "units": ">E161 >BC17 >E61 CM31X1 ?TAC35"
+        "units": ">E161"
     },
     {
         "id": "RF2300360",
@@ -85,7 +129,7 @@
         "location": "632 ACACIA LN ,EML",
         "latitude": 37.4666277969858,
         "longitude": -122.261004405376,
-        "units": ">E12"
+        "units": ""
     },
     {
         "id": "DF2300162",
@@ -93,21 +137,10 @@
         "time": "7:38:08 AM",
         "summary": "County Fire on Control-1",
         "category": "Tree down",
-        "location": "PAGE MILL RD / SKYLINE BLVD",
+        "location": "6000 PAGE MILL RD ,SOS",
         "latitude": 37.3149197614327,
         "longitude": -122.18724185588,
-        "units": "E1762 E58"
-    },
-    {
-        "id": "HF2300237",
-        "date": "2023-01-09",
-        "time": "7:31:23 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "STETSON ST / SUNSHINE VALLEY RD",
-        "latitude": 37.5282664442031,
-        "longitude": -122.510199631378,
-        "units": ""
+        "units": "*>E58"
     },
     {
         "id": "DF2300154",
