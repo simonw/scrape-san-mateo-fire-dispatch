@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2300346",
+        "id": "SF2300351",
         "date": "2023-01-08",
-        "time": "8:43:17 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "9:03:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1400 ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": 37.5061317233887,
+        "longitude": -122.289156860221,
+        "units": "E15"
+    },
+    {
+        "id": "CF2300236",
+        "date": "2023-01-08",
+        "time": "8:57:06 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "BRISTOL WAY ,RCY",
+        "location": "AIRPORT BLVD ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "E24"
+    },
+    {
+        "id": "NF2300538",
+        "date": "2023-01-08",
+        "time": "8:56:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE #101 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2300537",
+        "date": "2023-01-08",
+        "time": "8:43:44 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "1059 ANZA DR ,PCF",
+        "latitude": 37.5968957952412,
+        "longitude": -122.498777877013,
+        "units": ">E72"
     },
     {
         "id": "NF2300536",
@@ -19,18 +52,7 @@
         "location": "AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
-    },
-    {
-        "id": "MF2300289",
-        "date": "2023-01-08",
-        "time": "8:31:23 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "2301 COOLEY AVE ,EPA",
-        "latitude": 37.4688956982147,
-        "longitude": -122.139892182981,
-        "units": ""
+        "units": ">E95"
     },
     {
         "id": "NF2300535",
@@ -41,18 +63,7 @@
         "location": "358 WELLINGTON AVE ,DCY",
         "latitude": 37.7041407875584,
         "longitude": -122.45880293247,
-        "units": ">E92 >BC20 CM31X3 ?TAC35"
-    },
-    {
-        "id": "CF2300235",
-        "date": "2023-01-08",
-        "time": "8:26:31 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORIBUNDA AVE #3 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "units": ">BC20 >E92"
     },
     {
         "id": "MF2300251",
