@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2300296",
+        "date": "2023-01-09",
+        "time": "7:01:58 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": "E7"
+    },
+    {
+        "id": "RF2300356",
+        "date": "2023-01-09",
+        "time": "6:56:21 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "350 MARINE PKWY ,RWS",
+        "latitude": 37.5289434764482,
+        "longitude": -122.257592961957,
+        "units": ">E14"
+    },
+    {
+        "id": "BF2300161",
+        "date": "2023-01-09",
+        "time": "6:53:00 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Tree down",
+        "location": "SB 101 / NO MILLBRAE AVE",
+        "latitude": 37.6076284150697,
+        "longitude": -122.388400032852,
+        "units": ""
+    },
+    {
         "id": "NF2300558",
         "date": "2023-01-09",
         "time": "6:38:07 AM",
@@ -8,7 +41,7 @@
         "location": "223 MINERVA AVE ,PCF",
         "latitude": 37.6125627166151,
         "longitude": -122.479249536951,
-        "units": "U71"
+        "units": ""
     },
     {
         "id": "DF2300158",
@@ -19,18 +52,7 @@
         "location": "SB 280 / NO EDGEWOOD RD",
         "latitude": 37.4913015493745,
         "longitude": -122.300263671528,
-        "units": "?CM11X2 >E17 ?TAC16 T17 BC11E27"
-    },
-    {
-        "id": "DF2300157",
-        "date": "2023-01-09",
-        "time": "6:34:26 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "1655 STAGE RD ,PES",
-        "latitude": 37.272836546188,
-        "longitude": -122.385847472381,
-        "units": ">E59"
+        "units": "*>E17"
     },
     {
         "id": "NF2300557",
@@ -42,61 +64,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E81"
-    },
-    {
-        "id": "RF2300355",
-        "date": "2023-01-09",
-        "time": "6:32:09 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "333 BRADFORD ST ,RCY",
-        "latitude": 37.4881826501745,
-        "longitude": -122.232215345879,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2300295",
-        "date": "2023-01-09",
-        "time": "6:30:12 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #33A ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "BF2300160",
-        "date": "2023-01-09",
-        "time": "6:29:22 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "1150 EL CAMINO REAL ,SNB",
-        "latitude": 37.6369388775055,
-        "longitude": -122.418601675439,
-        "units": ">E51"
-    },
-    {
-        "id": "DF2300156",
-        "date": "2023-01-09",
-        "time": "6:24:35 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO 92",
-        "latitude": 37.5010326373211,
-        "longitude": -122.325975079224,
-        "units": ">E18"
-    },
-    {
-        "id": "WF2300106",
-        "date": "2023-01-09",
-        "time": "6:17:56 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "SKYLINE BLVD / LA HONDA RD",
-        "latitude": 37.3863361829933,
-        "longitude": -122.264191935302,
-        "units": ""
     },
     {
         "id": "DF2300154",
