@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2300350",
+        "date": "2023-01-10",
+        "time": "9:04:32 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #111 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "T2"
+    },
+    {
+        "id": "SF2300458",
+        "date": "2023-01-10",
+        "time": "9:03:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CIPRIANI BLVD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "T23"
+    },
+    {
+        "id": "HF2300268",
+        "date": "2023-01-10",
+        "time": "9:03:23 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "2400 CABRILLO HWY S ,HMB",
+        "latitude": 37.4332386139309,
+        "longitude": -122.428076876315,
+        "units": "?E40"
+    },
+    {
+        "id": "DF2300191",
+        "date": "2023-01-10",
+        "time": "8:53:43 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "205 HARKINS RD ,KMT",
+        "latitude": 37.4465522961748,
+        "longitude": -122.337045029626,
+        "units": ">R56"
+    },
+    {
         "id": "NF2300625",
         "date": "2023-01-10",
         "time": "8:45:33 AM",
@@ -19,7 +63,7 @@
         "location": "800 SWALLOWTAIL CT ,BRS",
         "latitude": 37.6937307077046,
         "longitude": -122.420219186677,
-        "units": "E81"
+        "units": ">E81"
     },
     {
         "id": "SF2300457",
@@ -30,29 +74,7 @@
         "location": "PACIFIC BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23 T23"
-    },
-    {
-        "id": "MF2300349",
-        "date": "2023-01-10",
-        "time": "8:41:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "MONTE ROSA DR / EASTRIDGE AVE",
-        "latitude": 37.425601691575,
-        "longitude": -122.200900379262,
-        "units": ">E4"
-    },
-    {
-        "id": "WF2300122",
-        "date": "2023-01-10",
-        "time": "8:31:52 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "SKYLINE BLVD / RAPLEY",
-        "latitude": 37.3719533571862,
-        "longitude": -122.253189200923,
-        "units": ">E58"
+        "units": ">E23"
     },
     {
         "id": "CF2300290",
@@ -63,18 +85,7 @@
         "location": "BELLEVUE AVE / EL CAMINO REAL",
         "latitude": 37.5771037407649,
         "longitude": -122.352680119176,
-        "units": "BC8 T34 CM21X1 >E34"
-    },
-    {
-        "id": "SF2300455",
-        "date": "2023-01-10",
-        "time": "8:22:30 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE / EDISON ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">BC8 >E34"
     },
     {
         "id": "CF2300287",
@@ -107,7 +118,7 @@
         "location": "ARUNDEL RD / PHELPS RD",
         "latitude": 37.5040125553524,
         "longitude": -122.273483112534,
-        "units": "CM11X1 >E13 >E10"
+        "units": ""
     },
     {
         "id": "MF2300251",
