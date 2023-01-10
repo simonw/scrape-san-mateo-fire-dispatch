@@ -1,14 +1,113 @@
 [
     {
-        "id": "FF2300250",
+        "id": "MF2300345",
         "date": "2023-01-10",
-        "time": "7:04:24 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:26:46 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "428 NIMITZ AVE ,WSB",
+        "latitude": 37.4547164773817,
+        "longitude": -122.220480965015,
+        "units": "T9 E4 BC1 E3 ?TAC15?CM11X4 ?E10"
+    },
+    {
+        "id": "LF2300059",
+        "date": "2023-01-10",
+        "time": "7:25:50 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "979 FOOTHILL DR ,BRD",
+        "latitude": 37.6955013356536,
+        "longitude": -122.488806977798,
+        "units": ">MED19"
+    },
+    {
+        "id": "CF2300278",
+        "date": "2023-01-10",
+        "time": "7:23:12 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "855 LINDEN AVE ,BRM",
+        "latitude": 37.5856949043719,
+        "longitude": -122.35450587276,
+        "units": "E34"
+    },
+    {
+        "id": "CF2300277",
+        "date": "2023-01-10",
+        "time": "7:21:54 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "CROWN CIR ,SSF",
+        "location": "MILLWOOD DR #6 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E37"
+    },
+    {
+        "id": "LF2300058",
+        "date": "2023-01-10",
+        "time": "7:19:17 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Tree down",
+        "location": "465 E ST ,CLM",
+        "latitude": 37.6834507428195,
+        "longitude": -122.461596878802,
+        "units": ">T85"
+    },
+    {
+        "id": "MF2300344",
+        "date": "2023-01-10",
+        "time": "7:19:13 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "167 TOYON RD ,ATN",
+        "latitude": 37.4658860032298,
+        "longitude": -122.172926311763,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2300448",
+        "date": "2023-01-10",
+        "time": "7:14:13 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Sparking/arcing wires down",
+        "location": "2842 HOSMER ST ,SMO",
+        "latitude": 37.5460617760943,
+        "longitude": -122.287131521606,
+        "units": ""
+    },
+    {
+        "id": "SF2300447",
+        "date": "2023-01-10",
+        "time": "7:12:49 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "1469 5TH AVE ,BLM",
+        "latitude": 37.5161400603061,
+        "longitude": -122.271857722755,
+        "units": ">E23"
+    },
+    {
+        "id": "RF2300423",
+        "date": "2023-01-10",
+        "time": "7:08:06 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "CLINTON ST / LINCOLN AVE",
+        "latitude": 37.4779600381333,
+        "longitude": -122.228951640002,
+        "units": ""
+    },
+    {
+        "id": "RF2300421",
+        "date": "2023-01-10",
+        "time": "7:03:17 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "400 DUANE ST ,RCY",
+        "latitude": 37.4808815498637,
+        "longitude": -122.234806714408,
+        "units": ""
     },
     {
         "id": "RF2300422",
@@ -19,7 +118,18 @@
         "location": "1757 E BAYSHORE RD ,RCY",
         "latitude": 37.4891685091235,
         "longitude": -122.209176000717,
-        "units": "E9"
+        "units": ">E9"
+    },
+    {
+        "id": "HF2300264",
+        "date": "2023-01-10",
+        "time": "7:02:26 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "LE CONTE AVE / 8TH ST",
+        "latitude": 37.5391902620322,
+        "longitude": -122.51059438811,
+        "units": ""
     },
     {
         "id": "RF2300420",
@@ -30,7 +140,7 @@
         "location": "KNOLL DR / ELIZABETH ST",
         "latitude": 37.4982932097837,
         "longitude": -122.264562253059,
-        "units": "E16"
+        "units": ">E16"
     },
     {
         "id": "DF2300184",
@@ -41,7 +151,7 @@
         "location": "CABRILLO HWY / GAZOS CREEK RD",
         "latitude": 37.1666391112605,
         "longitude": -122.361143089114,
-        "units": "E659 ?CFE33"
+        "units": ">E659"
     },
     {
         "id": "RF2300419",
@@ -52,7 +162,7 @@
         "location": "NORTHAM AVE / BUCKLAND AVE",
         "latitude": 37.5079361333469,
         "longitude": -122.274510914412,
-        "units": "E13"
+        "units": ""
     },
     {
         "id": "SF2300446",
@@ -63,29 +173,7 @@
         "location": "1160 GRANADA ST ,BLM",
         "latitude": 37.5216261947552,
         "longitude": -122.272005392262,
-        "units": "E15"
-    },
-    {
-        "id": "SF2300445",
-        "date": "2023-01-10",
-        "time": "6:58:51 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "FF2300249",
-        "date": "2023-01-10",
-        "time": "6:57:20 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "737 PALM AVE ,SSF",
-        "latitude": 37.6599731015092,
-        "longitude": -122.423933017292,
-        "units": ">E61"
+        "units": ""
     },
     {
         "id": "MF2300342",
@@ -96,18 +184,7 @@
         "location": "800 MIDDLE AVE ,MNP",
         "latitude": 37.4480100651262,
         "longitude": -122.180560001593,
-        "units": "U1 E1"
-    },
-    {
-        "id": "RF2300418",
-        "date": "2023-01-10",
-        "time": "6:45:15 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Pole fire",
-        "location": "2890 BREWSTER AVE ,EML",
-        "latitude": 37.4740775628068,
-        "longitude": -122.252922263853,
-        "units": ""
+        "units": ">U1"
     },
     {
         "id": "MF2300341",
@@ -118,73 +195,7 @@
         "location": "ALAMEDA DE LAS PULGAS / SANTA CRUZ AVE",
         "latitude": 37.4288875837768,
         "longitude": -122.195925677536,
-        "units": "E504 >E4"
-    },
-    {
-        "id": "MF2300340",
-        "date": "2023-01-10",
-        "time": "6:41:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #306C ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2300444",
-        "date": "2023-01-10",
-        "time": "6:40:42 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "1625 MARINA CT #C ,SMO",
-        "latitude": 37.551739231107,
-        "longitude": -122.287160758101,
-        "units": ">E26"
-    },
-    {
-        "id": "RF2300417",
-        "date": "2023-01-10",
-        "time": "6:31:33 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "840 SUNSET DR ,SNC",
-        "latitude": 37.4914119196984,
-        "longitude": -122.26859489397,
-        "units": ""
-    },
-    {
-        "id": "DF2300181",
-        "date": "2023-01-10",
-        "time": "5:54:54 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "TUNITAS CREEK RD / SKYLINE BLVD",
-        "latitude": 37.4250155300573,
-        "longitude": -122.313764731392,
-        "units": ">E356"
-    },
-    {
-        "id": "NF2300620",
-        "date": "2023-01-10",
-        "time": "5:38:24 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "276 HUMBOLDT RD ,BRS",
-        "latitude": 37.6812887296066,
-        "longitude": -122.406929835575,
-        "units": ">E681"
-    },
-    {
-        "id": "WF2300119",
-        "date": "2023-01-10",
-        "time": "2:32:34 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "SKYLINE BLVD / BEAR GULCH RD",
-        "latitude": 37.3996942489132,
-        "longitude": -122.293736772989,
-        "units": ""
+        "units": ">E504"
     },
     {
         "id": "MF2300251",
