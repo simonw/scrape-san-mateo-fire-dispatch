@@ -1,5 +1,27 @@
 [
     {
+        "id": "DF2300197",
+        "date": "2023-01-10",
+        "time": "9:40:48 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / SO 92",
+        "latitude": 37.5004067419462,
+        "longitude": -122.326125246726,
+        "units": "T17 BC11 CM11X4 E27 E18?TAC15"
+    },
+    {
+        "id": "MF2300351",
+        "date": "2023-01-10",
+        "time": "9:30:06 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "12 MICHAELS WAY ,ATN",
+        "latitude": 37.4515843466873,
+        "longitude": -122.191611030125,
+        "units": ">E6"
+    },
+    {
         "id": "DF2300196",
         "date": "2023-01-10",
         "time": "9:25:53 AM",
@@ -8,40 +30,7 @@
         "location": "216 STAGE RD ,PES",
         "latitude": 37.252410434076,
         "longitude": -122.382552378259,
-        "units": "E59"
-    },
-    {
-        "id": "FF2300255",
-        "date": "2023-01-10",
-        "time": "9:22:59 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "22 DNA WAY ,SSF",
-        "latitude": 37.6571355705236,
-        "longitude": -122.379211754143,
-        "units": "Q62"
-    },
-    {
-        "id": "RF2300434",
-        "date": "2023-01-10",
-        "time": "9:22:03 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "200 ARUNDEL RD ,SNC",
-        "latitude": 37.5041827334215,
-        "longitude": -122.275128410401,
-        "units": "E16"
-    },
-    {
-        "id": "FF2300254",
-        "date": "2023-01-10",
-        "time": "9:20:40 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "C ST ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E59"
     },
     {
         "id": "HF2300269",
@@ -49,10 +38,10 @@
         "time": "9:19:11 AM",
         "summary": "Coastside Fire on Control-1",
         "category": "Wires down (not sparking)",
-        "location": "N CABRILLO HWY / 1ST ST",
+        "location": "8450 N CABRILLO HWY ,MON",
         "latitude": 37.5461821794828,
         "longitude": -122.513605278474,
-        "units": "E41"
+        "units": ""
     },
     {
         "id": "SF2300459",
@@ -63,7 +52,7 @@
         "location": "229 W 20TH AVE ,SMO",
         "latitude": 37.5466022791686,
         "longitude": -122.312998665713,
-        "units": ">E23 >E25"
+        "units": ">E25"
     },
     {
         "id": "CF2300295",
@@ -74,7 +63,7 @@
         "location": "WILLOW AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "DF2300193",
@@ -85,73 +74,7 @@
         "location": "SB 280 / NO BLACK MOUNTAIN RD OFF RAMP",
         "latitude": 37.5508055634147,
         "longitude": -122.375981040373,
-        "units": "E33"
-    },
-    {
-        "id": "RF2300433",
-        "date": "2023-01-10",
-        "time": "9:04:37 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CAMELLIA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2300350",
-        "date": "2023-01-10",
-        "time": "9:04:32 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #111 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "SF2300458",
-        "date": "2023-01-10",
-        "time": "9:03:36 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CIPRIANI BLVD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "DF2300191",
-        "date": "2023-01-10",
-        "time": "8:53:43 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "205 HARKINS RD ,KMT",
-        "latitude": 37.4465522961748,
-        "longitude": -122.337045029626,
-        "units": ">R56"
-    },
-    {
-        "id": "NF2300625",
-        "date": "2023-01-10",
-        "time": "8:45:33 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "386 LAKESHIRE DR ,DCY",
-        "latitude": 37.6745081822778,
-        "longitude": -122.483631771377,
-        "units": "U95"
-    },
-    {
-        "id": "SF2300457",
-        "date": "2023-01-10",
-        "time": "8:44:12 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PACIFIC BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E33"
     },
     {
         "id": "CF2300290",
@@ -163,17 +86,6 @@
         "latitude": 37.5771037407649,
         "longitude": -122.352680119176,
         "units": ">E34"
-    },
-    {
-        "id": "CF2300287",
-        "date": "2023-01-10",
-        "time": "8:08:26 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "520 HAYNE RD ,HIL",
-        "latitude": 37.5611806965039,
-        "longitude": -122.342825736417,
-        "units": ">E21"
     },
     {
         "id": "MF2300251",
