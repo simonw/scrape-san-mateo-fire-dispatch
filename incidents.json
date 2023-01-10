@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2300598",
+        "date": "2023-01-09",
+        "time": "6:49:38 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE / LAKEWOOD DR",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "BF2300178",
+        "date": "2023-01-09",
+        "time": "6:43:11 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "400 SAN MATEO AVE ,SNB",
+        "latitude": 37.6217547808156,
+        "longitude": -122.410933627338,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2300393",
+        "date": "2023-01-09",
+        "time": "6:35:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROLISON RD #9 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "MF2300324",
         "date": "2023-01-09",
         "time": "6:22:26 PM",
@@ -19,7 +52,7 @@
         "location": "PARK WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": ""
     },
     {
         "id": "MF2300323",
@@ -31,39 +64,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E6"
-    },
-    {
-        "id": "MF2300322",
-        "date": "2023-01-09",
-        "time": "6:17:41 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "RF2300392",
-        "date": "2023-01-09",
-        "time": "6:10:33 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PERRY ST #110 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "NF2300597",
-        "date": "2023-01-09",
-        "time": "6:09:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PARKVIEW CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "DF2300171",
@@ -85,6 +85,6 @@
         "location": "1376 WILLOW RD ,MNP",
         "latitude": 37.4777635668135,
         "longitude": -122.150213572648,
-        "units": "TF3"
+        "units": ">TF3"
     }
 ]
