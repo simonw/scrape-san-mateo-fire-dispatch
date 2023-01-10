@@ -1,47 +1,58 @@
 [
     {
-        "id": "BF2300183",
+        "id": "NF2300625",
         "date": "2023-01-10",
-        "time": "8:26:41 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "130 CAMBRIDGE LN ,SNB",
-        "latitude": 37.6139813288029,
-        "longitude": -122.436101249531,
-        "units": "E52"
+        "time": "8:45:33 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "386 LAKESHIRE DR ,DCY",
+        "latitude": 37.6745081822778,
+        "longitude": -122.483631771377,
+        "units": "U95"
     },
     {
-        "id": "DF2300190",
+        "id": "NF2300626",
         "date": "2023-01-10",
-        "time": "8:26:24 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / SO 92",
-        "latitude": 37.5004067419462,
-        "longitude": -122.326125246726,
-        "units": ""
+        "time": "8:45:13 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "800 SWALLOWTAIL CT ,BRS",
+        "latitude": 37.6937307077046,
+        "longitude": -122.420219186677,
+        "units": "E81"
     },
     {
-        "id": "CF2300292",
+        "id": "SF2300457",
         "date": "2023-01-10",
-        "time": "8:26:22 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1499 OAK GROVE AVE ,BRM",
-        "latitude": 37.5787112421597,
-        "longitude": -122.355781599418,
-        "units": "E34"
+        "time": "8:44:12 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PACIFIC BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23 T23"
     },
     {
-        "id": "CF2300293",
+        "id": "MF2300349",
         "date": "2023-01-10",
-        "time": "8:25:31 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Explosion",
-        "location": "CHULA VISTA AVE / EDGEHILL DR",
-        "latitude": 37.5836400054156,
-        "longitude": -122.356953757562,
-        "units": "T34 BC16 E35 E33 E32CM21X3 ?TAC25"
+        "time": "8:41:23 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "MONTE ROSA DR / EASTRIDGE AVE",
+        "latitude": 37.425601691575,
+        "longitude": -122.200900379262,
+        "units": ">E4"
+    },
+    {
+        "id": "WF2300122",
+        "date": "2023-01-10",
+        "time": "8:31:52 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "SKYLINE BLVD / RAPLEY",
+        "latitude": 37.3719533571862,
+        "longitude": -122.253189200923,
+        "units": ">E58"
     },
     {
         "id": "CF2300290",
@@ -52,7 +63,7 @@
         "location": "BELLEVUE AVE / EL CAMINO REAL",
         "latitude": 37.5771037407649,
         "longitude": -122.352680119176,
-        "units": ""
+        "units": "BC8 T34 CM21X1 >E34"
     },
     {
         "id": "SF2300455",
@@ -63,73 +74,7 @@
         "location": "AVE / EDISON ST",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2300454",
-        "date": "2023-01-10",
-        "time": "8:21:42 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "BARNESON AVE / SHAFTER ST",
-        "latitude": 37.5497036933483,
-        "longitude": -122.323290004401,
-        "units": ">E25"
-    },
-    {
-        "id": "HF2300266",
-        "date": "2023-01-10",
-        "time": "8:20:43 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "NEVADA AVE / BEACH ST",
-        "latitude": 37.5249231974646,
-        "longitude": -122.516135099904,
-        "units": "?E44"
-    },
-    {
-        "id": "DF2300189",
-        "date": "2023-01-10",
-        "time": "8:18:25 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / CANADA RD ON RAMP",
-        "latitude": 37.4574623565111,
-        "longitude": -122.289088748475,
-        "units": ">E19 CM11X3 T17 BC11 ?TAC15"
-    },
-    {
-        "id": "MF2300348",
-        "date": "2023-01-10",
-        "time": "8:14:08 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GRACE AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "SF2300453",
-        "date": "2023-01-10",
-        "time": "8:12:45 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "247 N SAN MATEO DR ,SMO",
-        "latitude": 37.5704220302423,
-        "longitude": -122.331010003046,
-        "units": ">E24"
-    },
-    {
-        "id": "CF2300288",
-        "date": "2023-01-10",
-        "time": "8:08:50 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "1906 EASTON DR ,BRM",
-        "latitude": 37.5829447112725,
-        "longitude": -122.371871985065,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "CF2300287",
@@ -143,17 +88,6 @@
         "units": ">E21"
     },
     {
-        "id": "MF2300347",
-        "date": "2023-01-10",
-        "time": "8:07:50 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "63 BARRY LN ,ATN",
-        "latitude": 37.450609322402,
-        "longitude": -122.206214965052,
-        "units": ""
-    },
-    {
         "id": "SF2300452",
         "date": "2023-01-10",
         "time": "8:06:44 AM",
@@ -165,28 +99,6 @@
         "units": ">E15"
     },
     {
-        "id": "CF2300286",
-        "date": "2023-01-10",
-        "time": "8:04:54 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALM AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "MF2300346",
-        "date": "2023-01-10",
-        "time": "8:04:26 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "WOODLAND AVE / OAK CT",
-        "latitude": 37.4582335438985,
-        "longitude": -122.145694813135,
-        "units": ""
-    },
-    {
         "id": "RF2300431",
         "date": "2023-01-10",
         "time": "8:03:37 AM",
@@ -195,62 +107,7 @@
         "location": "ARUNDEL RD / PHELPS RD",
         "latitude": 37.5040125553524,
         "longitude": -122.273483112534,
-        "units": "CM11X1 E13 >E10"
-    },
-    {
-        "id": "HF2300265",
-        "date": "2023-01-10",
-        "time": "7:57:54 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "BEACH WAY / MARINE BLVD",
-        "latitude": 37.5188688896328,
-        "longitude": -122.512756985088,
-        "units": ""
-    },
-    {
-        "id": "CF2300281",
-        "date": "2023-01-10",
-        "time": "7:42:10 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "SKYLINE BLVD ON RAMP / SB 280",
-        "latitude": 37.6003525165223,
-        "longitude": -122.424612284618,
-        "units": ""
-    },
-    {
-        "id": "CF2300280",
-        "date": "2023-01-10",
-        "time": "7:41:37 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "250 BRENTWOOD RD ,HIL",
-        "latitude": 37.5592366766923,
-        "longitude": -122.34329868448,
-        "units": ">BC8"
-    },
-    {
-        "id": "DF2300186",
-        "date": "2023-01-10",
-        "time": "7:33:18 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "3101 LA HONDA RD ,SNG",
-        "latitude": 37.3267539128529,
-        "longitude": -122.344866679718,
-        "units": ""
-    },
-    {
-        "id": "LF2300059",
-        "date": "2023-01-10",
-        "time": "7:25:50 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "979 FOOTHILL DR ,BRD",
-        "latitude": 37.6955013356536,
-        "longitude": -122.488806977798,
-        "units": ">MED19"
+        "units": "CM11X1 >E13 >E10"
     },
     {
         "id": "MF2300251",
