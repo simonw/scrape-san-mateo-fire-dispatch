@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2300610",
+        "id": "NF2300612",
         "date": "2023-01-10",
-        "time": "3:04:16 AM",
+        "time": "3:21:03 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERRAMONTE BLVD / GELLERT BLVD",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E94"
+        "category": "Carbon monoxide alarm",
+        "location": "665 SAN BRUNO AVE #8 ,BRS",
+        "latitude": 37.6806301263264,
+        "longitude": -122.398389772461,
+        "units": "?E81"
+    },
+    {
+        "id": "NF2300611",
+        "date": "2023-01-10",
+        "time": "3:19:43 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "CABRILLO HWY / LINDA MAR BLVD",
+        "latitude": 37.5959239894125,
+        "longitude": -122.503743986644,
+        "units": "U72"
+    },
+    {
+        "id": "DF2300180",
+        "date": "2023-01-10",
+        "time": "3:10:09 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LA HONDA RD / OLD LA HONDA RD",
+        "latitude": 37.357701341756,
+        "longitude": -122.265690482056,
+        "units": "CO57 E58"
+    },
+    {
+        "id": "MF2300332",
+        "date": "2023-01-10",
+        "time": "3:05:46 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1860 CAMINO DE LOS ROBLES ,WMP",
+        "latitude": 37.4387919961416,
+        "longitude": -122.204521978794,
+        "units": ""
     },
     {
         "id": "SF2300435",
@@ -19,7 +52,7 @@
         "location": "754 MARLIN AVE #1234 ,FCY",
         "latitude": 37.5535997092451,
         "longitude": -122.253551290346,
-        "units": "E24"
+        "units": ">E28"
     },
     {
         "id": "SF2300434",
@@ -30,29 +63,7 @@
         "location": "679 CATAMARAN ST ,FCY",
         "latitude": 37.5526950498214,
         "longitude": -122.260778942245,
-        "units": "E26"
-    },
-    {
-        "id": "SF2300433",
-        "date": "2023-01-10",
-        "time": "2:54:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Tree down",
-        "location": "POLYNESIA DR / FOSTER CITY BLVD",
-        "latitude": 37.5583053893585,
-        "longitude": -122.263633996052,
-        "units": ">E28"
-    },
-    {
-        "id": "SF2300432",
-        "date": "2023-01-10",
-        "time": "2:51:24 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Tree down",
-        "location": "2145 ISABELLE AVE ,SMO",
-        "latitude": 37.5453902469421,
-        "longitude": -122.313217568047,
-        "units": ""
+        "units": ">E26"
     },
     {
         "id": "SF2300431",
@@ -74,7 +85,7 @@
         "location": "14 TYNAN WAY ,PVY",
         "latitude": 37.383366223851,
         "longitude": -122.23940182641,
-        "units": "CM11X3 >E507"
+        "units": ">E507"
     },
     {
         "id": "WF2300119",
@@ -110,17 +121,6 @@
         "units": ">E356"
     },
     {
-        "id": "RF2300404",
-        "date": "2023-01-10",
-        "time": "2:17:54 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "2677 SAN CARLOS AVE ,SNC",
-        "latitude": 37.5073171429862,
-        "longitude": -122.283278620181,
-        "units": ""
-    },
-    {
         "id": "MF2300330",
         "date": "2023-01-10",
         "time": "2:15:56 AM",
@@ -140,7 +140,7 @@
         "location": "720 FRANKLIN ST ,MON",
         "latitude": 37.5418788975908,
         "longitude": -122.504205239954,
-        "units": "BC10 >E41 CM41X1"
+        "units": ">E41 CM41X1 *>BC10"
     },
     {
         "id": "HF2300260",
@@ -173,7 +173,7 @@
         "location": "308 SUSIE WAY #2 ,SSF",
         "latitude": 37.661412512674,
         "longitude": -122.431648148334,
-        "units": ">E65 >BC17 ?TAC35 >E63 >Q62>E61 >U61 ?CM31X4"
+        "units": ">BC17 ?TAC35 >E63 >U61 ?CM31X4"
     },
     {
         "id": "MF2300251",
