@@ -1,5 +1,93 @@
 [
     {
+        "id": "RF2300522",
+        "date": "2023-01-11",
+        "time": "6:50:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO WHIPPLE AVE",
+        "latitude": 37.4926029176342,
+        "longitude": -122.221534463968,
+        "units": "E11 ?TAC16 ?CM11X3 ?E13 ?BC101?T1"
+    },
+    {
+        "id": "RF2300521",
+        "date": "2023-01-11",
+        "time": "6:43:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1235 HOPKINS AVE ,RCY",
+        "latitude": 37.4868638172704,
+        "longitude": -122.239854674217,
+        "units": ">E10 T9 BC3 >CM11X1 ?TAC15"
+    },
+    {
+        "id": "BF2300207",
+        "date": "2023-01-11",
+        "time": "6:39:17 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 101 / SO SAN BRUNO AVE",
+        "latitude": 37.6207581925853,
+        "longitude": -122.399704894092,
+        "units": ">BC8 >E51 >E34 T34 CM31X4?TAC35"
+    },
+    {
+        "id": "CF2300324",
+        "date": "2023-01-11",
+        "time": "6:36:40 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "338 EL PORTAL AVE ,HIL",
+        "latitude": 37.5639241241797,
+        "longitude": -122.34480191158,
+        "units": ">E32"
+    },
+    {
+        "id": "MF2300408",
+        "date": "2023-01-11",
+        "time": "6:36:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1300 EL CAMINO REAL ,MNP",
+        "latitude": 37.455632288616,
+        "longitude": -122.185569476153,
+        "units": ">E1"
+    },
+    {
+        "id": "FF2300283",
+        "date": "2023-01-11",
+        "time": "6:34:04 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BUENA VISTA RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "MF2300407",
+        "date": "2023-01-11",
+        "time": "6:30:57 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WESTMINSTER AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "WF2300136",
+        "date": "2023-01-11",
+        "time": "6:28:25 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "MOUNTAIN MEADOW DR / SKYLINE BLVD",
+        "latitude": 37.3985411621926,
+        "longitude": -122.292796635906,
+        "units": ">R56"
+    },
+    {
         "id": "MF2300406",
         "date": "2023-01-11",
         "time": "6:23:41 PM",
@@ -8,18 +96,7 @@
         "location": "978 MENLO AVE ,MNP",
         "latitude": 37.4476045005406,
         "longitude": -122.186428592905,
-        "units": "?E6"
-    },
-    {
-        "id": "MF2300405",
-        "date": "2023-01-11",
-        "time": "6:23:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #305C ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E6"
     },
     {
         "id": "RF2300520",
@@ -31,61 +108,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "MF2300404",
-        "date": "2023-01-11",
-        "time": "6:15:37 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BELL ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "RF2300519",
-        "date": "2023-01-11",
-        "time": "6:14:12 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1373 CORDILLERAS AVE ,SNC",
-        "latitude": 37.4918831987182,
-        "longitude": -122.257329541659,
-        "units": ""
-    },
-    {
-        "id": "DF2300217",
-        "date": "2023-01-11",
-        "time": "6:11:41 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1100 OLD LA HONDA RD ,SKY",
-        "latitude": 37.3672012237749,
-        "longitude": -122.259234790539,
-        "units": ">E58"
-    },
-    {
-        "id": "NF2300693",
-        "date": "2023-01-11",
-        "time": "5:54:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Water rescue investigation",
-        "location": "1 ROCKAWAY BEACH RD ,PCF",
-        "latitude": 37.609874888495,
-        "longitude": -122.497037277987,
-        "units": "?CG22A CM31X5 ?TAC36 ?CM51X3 >R72"
-    },
-    {
-        "id": "SF2300537",
-        "date": "2023-01-11",
-        "time": "5:32:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "EDGEWATER BLVD / BAFFIN CT",
-        "latitude": 37.5359165552611,
-        "longitude": -122.263366258731,
-        "units": ">E28"
     },
     {
         "id": "MF2300251",
