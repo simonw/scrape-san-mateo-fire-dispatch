@@ -1,47 +1,91 @@
 [
     {
-        "id": "FF2300318",
+        "id": "FF2300320",
         "date": "2023-01-13",
-        "time": "1:23:21 PM",
+        "time": "1:41:01 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "HILLSIDE BLVD / CHESTNUT AVE",
-        "latitude": 37.6672087419447,
-        "longitude": -122.427451437014,
-        "units": "?TAC35 ?CM31X1 ?BC17 ?E65 ?Q62"
+        "category": "Fire alarm",
+        "location": "1120 VETERANS BLVD ,SSF",
+        "latitude": 37.663758583264,
+        "longitude": -122.391722042305,
+        "units": "E65"
     },
     {
-        "id": "LF2300073",
+        "id": "RF2300594",
         "date": "2023-01-13",
-        "time": "1:22:50 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "1:39:36 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD #ENTRANCE ,CLM",
+        "location": "EDGEHILL DR ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E85"
+        "units": "E13"
     },
     {
-        "id": "CF2300367",
+        "id": "SF2300606",
         "date": "2023-01-13",
-        "time": "1:22:38 PM",
+        "time": "1:38:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HILLSDALE MALL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "WF2300150",
+        "date": "2023-01-13",
+        "time": "1:38:32 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FAVONIA RD ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E8"
+    },
+    {
+        "id": "MF2300479",
+        "date": "2023-01-13",
+        "time": "1:36:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHARON PARK DR #307D ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "BF2300229",
+        "date": "2023-01-13",
+        "time": "1:35:13 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "DARBY PL #1 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "MF2300478",
+        "date": "2023-01-13",
+        "time": "1:29:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "KAVANAUGH DR / UNIVERSITY AVE",
+        "latitude": 37.4755368810507,
+        "longitude": -122.13955224673,
+        "units": "TAC15 CM11X3"
+    },
+    {
+        "id": "CF2300369",
+        "date": "2023-01-13",
+        "time": "1:26:02 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "TROUSDALE DR #1103B ,BRM",
+        "location": "EL CAMINO REAL ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E33"
-    },
-    {
-        "id": "MF2300476",
-        "date": "2023-01-13",
-        "time": "1:21:36 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "112 GRACE AVE ,EPA",
-        "latitude": 37.4722585785777,
-        "longitude": -122.142395864474,
-        "units": "T2"
+        "units": ">E37"
     },
     {
         "id": "MF2300475",
@@ -52,29 +96,7 @@
         "location": "507 O'KEEFE ST ,MNP",
         "latitude": 37.4634668801185,
         "longitude": -122.156982332604,
-        "units": "E1"
-    },
-    {
-        "id": "MF2300474",
-        "date": "2023-01-13",
-        "time": "1:09:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAZELWOOD WAY ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "DF2300227",
-        "date": "2023-01-13",
-        "time": "1:01:38 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOODS POINT WAY ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
+        "units": ">E1"
     },
     {
         "id": "HF2300299",
