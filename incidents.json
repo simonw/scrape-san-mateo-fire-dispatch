@@ -1,5 +1,82 @@
 [
     {
+        "id": "FF2300346",
+        "date": "2023-01-14",
+        "time": "10:01:23 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1 APPIAN WAY ,SSF",
+        "latitude": 37.643559020898,
+        "longitude": -122.450851592374,
+        "units": "E94"
+    },
+    {
+        "id": "RF2300623",
+        "date": "2023-01-14",
+        "time": "10:00:34 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOOVER ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "CF2300391",
+        "date": "2023-01-14",
+        "time": "9:57:10 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1535 LAKEVIEW DR ,HIL",
+        "latitude": 37.5382920017608,
+        "longitude": -122.361712160131,
+        "units": ">E33"
+    },
+    {
+        "id": "FF2300344",
+        "date": "2023-01-14",
+        "time": "9:49:27 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "OAKMONT DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "FF2300345",
+        "date": "2023-01-14",
+        "time": "9:48:58 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Tree down",
+        "location": "EL CAMINO REAL / ARLINGTON DR",
+        "latitude": 37.6704896574967,
+        "longitude": -122.453220209782,
+        "units": ""
+    },
+    {
+        "id": "DF2300243",
+        "date": "2023-01-14",
+        "time": "9:47:15 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist",
+        "location": "CABRILLO HWY S / STAGE RD",
+        "latitude": 37.3376365979137,
+        "longitude": -122.39417466141,
+        "units": "?CO57 E40"
+    },
+    {
+        "id": "LF2300074",
+        "date": "2023-01-14",
+        "time": "9:46:16 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GILMAN DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "CM31X1 >E85 >MED19"
+    },
+    {
         "id": "FF2300343",
         "date": "2023-01-14",
         "time": "9:42:57 AM",
@@ -8,18 +85,7 @@
         "location": "AIRPORT BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?Q62"
-    },
-    {
-        "id": "SF2300646",
-        "date": "2023-01-14",
-        "time": "9:42:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1530 SUSAN CT ,SMO",
-        "latitude": 37.5563476647716,
-        "longitude": -122.292992125583,
-        "units": "E26"
+        "units": ""
     },
     {
         "id": "DF2300242",
@@ -30,7 +96,7 @@
         "location": "2601 CLOVERDALE RD ,SOS",
         "latitude": 37.2002337470312,
         "longitude": -122.345457134842,
-        "units": ">E59"
+        "units": "*>E59"
     },
     {
         "id": "BF2300241",
@@ -41,29 +107,7 @@
         "location": "1941 PINECREST DR ,SNB",
         "latitude": 37.6322984079113,
         "longitude": -122.446580762875,
-        "units": "E52"
-    },
-    {
-        "id": "HF2300304",
-        "date": "2023-01-14",
-        "time": "9:30:07 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAIN ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "NF2300795",
-        "date": "2023-01-14",
-        "time": "9:29:17 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "403 MONTEREY RD ,PCF",
-        "latitude": 37.6512564721231,
-        "longitude": -122.483042911792,
-        "units": ""
+        "units": ">E52"
     },
     {
         "id": "BF2300240",
@@ -74,62 +118,7 @@
         "location": "SB 101 / NO SFO",
         "latitude": 37.6188892658598,
         "longitude": -122.399425815084,
-        "units": ">E37 ?TAC35 >E51 CM31X5 >T51"
-    },
-    {
-        "id": "NF2300794",
-        "date": "2023-01-14",
-        "time": "9:27:48 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "MINERVA AVE / REINA DEL MAR AVE",
-        "latitude": 37.6133976274825,
-        "longitude": -122.479423678691,
-        "units": ""
-    },
-    {
-        "id": "RF2300622",
-        "date": "2023-01-14",
-        "time": "9:24:31 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ENSENADA RD ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "WF2300160",
-        "date": "2023-01-14",
-        "time": "9:21:56 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "342 RAMONA RD ,LTW",
-        "latitude": 37.3440306719165,
-        "longitude": -122.197009889529,
-        "units": ">E8"
-    },
-    {
-        "id": "DF2300240",
-        "date": "2023-01-14",
-        "time": "9:18:10 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "EDGEWOOD RD / CRESTVIEW DR",
-        "latitude": 37.4745661952949,
-        "longitude": -122.280327551381,
-        "units": "?E18"
-    },
-    {
-        "id": "WF2300159",
-        "date": "2023-01-14",
-        "time": "9:16:05 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "KINGS MOUNTAIN RD / ENTRANCE WAY",
-        "latitude": 37.4300173820386,
-        "longitude": -122.280067299229,
-        "units": ">E19"
+        "units": ">E37"
     },
     {
         "id": "DF2300239",
@@ -140,29 +129,7 @@
         "location": "ALPINE RD / MINDEGO HILL RD",
         "latitude": 37.2941859111939,
         "longitude": -122.241669453471,
-        "units": "?CFE21"
-    },
-    {
-        "id": "DF2300238",
-        "date": "2023-01-14",
-        "time": "9:09:10 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "PESCADERO CREEK RD / ALPINE RD",
-        "latitude": 37.2995413562928,
-        "longitude": -122.264502414148,
         "units": ">E357"
-    },
-    {
-        "id": "CF2300388",
-        "date": "2023-01-14",
-        "time": "9:07:42 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "ANITA RD / BURLINGAME AVE",
-        "latitude": 37.5816590326704,
-        "longitude": -122.342662878933,
-        "units": ">E34"
     },
     {
         "id": "DF2300235",
@@ -195,18 +162,7 @@
         "location": "345 1ST AVE ,NFO",
         "latitude": 37.4736449271169,
         "longitude": -122.208289469264,
-        "units": "?MNFINV CM11X4 >BC1 ?TAC16 >T9>E3 >E11"
-    },
-    {
-        "id": "MF2300510",
-        "date": "2023-01-14",
-        "time": "8:54:50 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "EB 84 / EO HIGH RI",
-        "latitude": 37.5093096751786,
-        "longitude": -122.113358179779,
-        "units": ">T2"
+        "units": "CM11X4 >BC1 ?TAC16 >T9 >E3"
     },
     {
         "id": "SF2300638",
