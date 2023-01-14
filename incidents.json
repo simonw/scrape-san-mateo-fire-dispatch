@@ -1,5 +1,126 @@
 [
     {
+        "id": "DF2300236",
+        "date": "2023-01-14",
+        "time": "9:03:30 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / SO VISTA 3",
+        "latitude": 37.4913015493745,
+        "longitude": -122.300263671528,
+        "units": "T17 E18 CM11X3 BC11 E27?TAC17"
+    },
+    {
+        "id": "FF2300342",
+        "date": "2023-01-14",
+        "time": "9:00:52 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "56 ARLINGTON DR ,SSF",
+        "latitude": 37.6680861422524,
+        "longitude": -122.457348897753,
+        "units": "E94"
+    },
+    {
+        "id": "WF2300158",
+        "date": "2023-01-14",
+        "time": "8:59:42 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "17288 SKYLINE BLVD #GAS ,WDS",
+        "latitude": 37.3865701164906,
+        "longitude": -122.265257772815,
+        "units": ">E58 ?CO56"
+    },
+    {
+        "id": "MF2300511",
+        "date": "2023-01-14",
+        "time": "8:56:34 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Structure fire",
+        "location": "341 1ST AVE ,NFO",
+        "latitude": 37.4736449271169,
+        "longitude": -122.208289469264,
+        "units": "E9 E14 BC1 CM11X4 ?TAC16T9 E3 BC3 E11 E10"
+    },
+    {
+        "id": "CF2300387",
+        "date": "2023-01-14",
+        "time": "8:55:21 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "849 COWAN RD ,BRM",
+        "latitude": 37.6016680520092,
+        "longitude": -122.374800991578,
+        "units": ">E34"
+    },
+    {
+        "id": "MF2300510",
+        "date": "2023-01-14",
+        "time": "8:54:50 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "EB 84 / EO HIGH RI",
+        "latitude": 37.5093096751786,
+        "longitude": -122.113358179779,
+        "units": "?TAC15 >E2 CM11X5 >BC101 >T2"
+    },
+    {
+        "id": "WF2300157",
+        "date": "2023-01-14",
+        "time": "8:53:16 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "ALPINE RD / WILLOWBROOK DR",
+        "latitude": 37.3645244509325,
+        "longitude": -122.21557442916,
+        "units": ">E8"
+    },
+    {
+        "id": "RF2300619",
+        "date": "2023-01-14",
+        "time": "8:52:33 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "510 SHANNON WAY ,RWS",
+        "latitude": 37.5350097845724,
+        "longitude": -122.24183770458,
+        "units": ">E20"
+    },
+    {
+        "id": "RF2300620",
+        "date": "2023-01-14",
+        "time": "8:52:21 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "FLORENCE ST / ST MARYS PL",
+        "latitude": 37.4786042758482,
+        "longitude": -122.188839215579,
+        "units": ">E5"
+    },
+    {
+        "id": "NF2300793",
+        "date": "2023-01-14",
+        "time": "8:49:51 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #234A ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "MF2300509",
+        "date": "2023-01-14",
+        "time": "8:45:52 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAK GROVE AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "SF2300642",
         "date": "2023-01-14",
         "time": "8:38:37 AM",
@@ -8,29 +129,7 @@
         "location": "3513 HACIENDA ST ,SMO",
         "latitude": 37.5321736020853,
         "longitude": -122.303113701651,
-        "units": "E23"
-    },
-    {
-        "id": "FF2300341",
-        "date": "2023-01-14",
-        "time": "8:34:17 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #46 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "FF2300340",
-        "date": "2023-01-14",
-        "time": "8:23:49 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FRANCISCO DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ">E23"
     },
     {
         "id": "SF2300639",
@@ -41,18 +140,7 @@
         "location": "W POPLAR AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "DF2300234",
-        "date": "2023-01-14",
-        "time": "8:19:17 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "2150 BEAR GULCH RD ,SKY",
-        "latitude": 37.3815069250505,
-        "longitude": -122.294611415608,
-        "units": ">E356"
+        "units": ""
     },
     {
         "id": "SF2300638",
@@ -64,17 +152,6 @@
         "latitude": 37.5228868982037,
         "longitude": -122.267638063996,
         "units": "?OESC"
-    },
-    {
-        "id": "DF2300233",
-        "date": "2023-01-14",
-        "time": "7:28:50 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO BLACK MOUNTAIN RD OFF RAMP",
-        "latitude": 37.5568034592256,
-        "longitude": -122.380372766074,
-        "units": ""
     },
     {
         "id": "MF2300251",
