@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2300625",
+        "date": "2023-01-14",
+        "time": "10:41:34 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Boat in distress",
+        "location": "702 BAIR ISLAND RD ,RCY",
+        "latitude": 37.4986249098515,
+        "longitude": -122.221294270457,
+        "units": "?E9"
+    },
+    {
+        "id": "DF2300244",
+        "date": "2023-01-14",
+        "time": "10:41:12 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / SO 92",
+        "latitude": 37.5004067419462,
+        "longitude": -122.326125246726,
+        "units": "CM11X1 ?TAC15 E17 E18 T17"
+    },
+    {
+        "id": "CF2300393",
+        "date": "2023-01-14",
+        "time": "10:33:57 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "709 LINDEN AVE ,BRM",
+        "latitude": 37.5831766509476,
+        "longitude": -122.350625561445,
+        "units": ">T34"
+    },
+    {
         "id": "WF2300163",
         "date": "2023-01-14",
         "time": "10:22:19 AM",
@@ -8,7 +41,7 @@
         "location": "PORTOLA RD / HOME RD",
         "latitude": 37.3925520147674,
         "longitude": -122.242545676475,
-        "units": "SQ407"
+        "units": ">SQ407"
     },
     {
         "id": "NF2300798",
@@ -30,7 +63,7 @@
         "location": "CRESTVIEW DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
+        "units": ""
     },
     {
         "id": "SF2300648",
@@ -38,65 +71,10 @@
         "time": "10:16:19 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Wires down (not sparking)",
-        "location": "ALDEN AVE / ACADEMY AVE",
+        "location": "1980 ALDEN AVE ,BLM",
         "latitude": 37.5158160166063,
         "longitude": -122.293393091267,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2300797",
-        "date": "2023-01-14",
-        "time": "10:15:28 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, ladder request",
-        "location": "423 SOUTHGATE AVE ,DCY",
-        "latitude": 37.6970944310532,
-        "longitude": -122.487677632298,
-        "units": ">E92"
-    },
-    {
-        "id": "MF2300513",
-        "date": "2023-01-14",
-        "time": "10:12:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2300624",
-        "date": "2023-01-14",
-        "time": "10:12:03 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "3117 HOOVER ST ,RCY",
-        "latitude": 37.48565488601,
-        "longitude": -122.197458062398,
-        "units": ">E11"
-    },
-    {
-        "id": "SF2300647",
-        "date": "2023-01-14",
-        "time": "10:09:22 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "349 LANDFAIR AVE ,SMO",
-        "latitude": 37.5248454397779,
-        "longitude": -122.302174178372,
-        "units": ">T23"
-    },
-    {
-        "id": "NF2300796",
-        "date": "2023-01-14",
-        "time": "10:08:28 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BELHAVEN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ""
     },
     {
         "id": "FF2300346",
@@ -107,51 +85,7 @@
         "location": "1 APPIAN WAY ,SSF",
         "latitude": 37.643559020898,
         "longitude": -122.450851592374,
-        "units": ">E94 CM31X1 >E63"
-    },
-    {
-        "id": "RF2300623",
-        "date": "2023-01-14",
-        "time": "10:00:34 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOOVER ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2300162",
-        "date": "2023-01-14",
-        "time": "9:53:46 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "WOODSIDE RD / PORTOLA RD",
-        "latitude": 37.4072205449607,
-        "longitude": -122.256734445647,
-        "units": ""
-    },
-    {
-        "id": "DF2300242",
-        "date": "2023-01-14",
-        "time": "9:41:20 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "2601 CLOVERDALE RD ,SOS",
-        "latitude": 37.2002337470312,
-        "longitude": -122.345457134842,
-        "units": ""
-    },
-    {
-        "id": "BF2300241",
-        "date": "2023-01-14",
-        "time": "9:41:13 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Tree down",
-        "location": "1941 PINECREST DR ,SNB",
-        "latitude": 37.6322984079113,
-        "longitude": -122.446580762875,
-        "units": ">E52"
+        "units": ">E63"
     },
     {
         "id": "DF2300239",
@@ -173,7 +107,7 @@
         "location": "17288 SKYLINE BLVD #GAS ,WDS",
         "latitude": 37.3865701164906,
         "longitude": -122.265257772815,
-        "units": ">WT156 >E356"
+        "units": ">E356 >WT156"
     },
     {
         "id": "MF2300511",
@@ -184,7 +118,7 @@
         "location": "345 1ST AVE ,NFO",
         "latitude": 37.4736449271169,
         "longitude": -122.208289469264,
-        "units": ">PR1E CM11X4 >BC1 ?TAC16 >T9>E3"
+        "units": ">PR1E >BC1 CM11X4 ?TAC16 >E3"
     },
     {
         "id": "SF2300638",
