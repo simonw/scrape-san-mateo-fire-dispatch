@@ -1,5 +1,93 @@
 [
     {
+        "id": "DF2300241",
+        "date": "2023-01-14",
+        "time": "9:22:17 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO ALPINE RD",
+        "latitude": 37.4129213565473,
+        "longitude": -122.206992669222,
+        "units": "T17 CM11X2 BC2 ?TAC15 ?E7"
+    },
+    {
+        "id": "CF2300389",
+        "date": "2023-01-14",
+        "time": "9:20:09 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "SKYLINE BLVD / HILLCREST BLVD",
+        "latitude": 37.5895223929476,
+        "longitude": -122.41207409187,
+        "units": "E38"
+    },
+    {
+        "id": "SF2300645",
+        "date": "2023-01-14",
+        "time": "9:20:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR #UC ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
+    },
+    {
+        "id": "WF2300159",
+        "date": "2023-01-14",
+        "time": "9:16:05 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "KINGS MOUNTAIN RD / ENTRANCE WAY",
+        "latitude": 37.4300173820386,
+        "longitude": -122.280067299229,
+        "units": "?E19"
+    },
+    {
+        "id": "DF2300238",
+        "date": "2023-01-14",
+        "time": "9:09:10 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "PESCADERO CREEK RD / ALPINE RD",
+        "latitude": 37.2995413562928,
+        "longitude": -122.264502414148,
+        "units": "E59 ?CO57"
+    },
+    {
+        "id": "CF2300388",
+        "date": "2023-01-14",
+        "time": "9:07:42 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "ANITA RD / BURLINGAME AVE",
+        "latitude": 37.5816590326704,
+        "longitude": -122.342662878933,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2300644",
+        "date": "2023-01-14",
+        "time": "9:05:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "12TH AVE / S B ST",
+        "latitude": 37.5585789338498,
+        "longitude": -122.314601361262,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2300621",
+        "date": "2023-01-14",
+        "time": "9:04:05 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "OAK KNOLL DR / UPLAND RD",
+        "latitude": 37.4732106612665,
+        "longitude": -122.258357789547,
+        "units": ">E12"
+    },
+    {
         "id": "DF2300236",
         "date": "2023-01-14",
         "time": "9:03:30 AM",
@@ -8,7 +96,40 @@
         "location": "SB 280 / SO VISTA 3",
         "latitude": 37.4913015493745,
         "longitude": -122.300263671528,
-        "units": "T17 E18 CM11X3 BC11 E27?TAC17"
+        "units": ">E17"
+    },
+    {
+        "id": "DF2300235",
+        "date": "2023-01-14",
+        "time": "9:03:18 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "SKYLINE BLVD / WARE RD",
+        "latitude": 37.4453032854365,
+        "longitude": -122.329427671977,
+        "units": ">R56"
+    },
+    {
+        "id": "DF2300237",
+        "date": "2023-01-14",
+        "time": "9:03:13 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist",
+        "location": "TICONDEROGA DR / POLHEMUS RD",
+        "latitude": 37.5172611318201,
+        "longitude": -122.335528813283,
+        "units": "E27"
+    },
+    {
+        "id": "MF2300512",
+        "date": "2023-01-14",
+        "time": "9:02:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "112 GRACE AVE ,EPA",
+        "latitude": 37.4722585785777,
+        "longitude": -122.142395864474,
+        "units": ">E77"
     },
     {
         "id": "FF2300342",
@@ -19,7 +140,7 @@
         "location": "56 ARLINGTON DR ,SSF",
         "latitude": 37.6680861422524,
         "longitude": -122.457348897753,
-        "units": "E94"
+        "units": ""
     },
     {
         "id": "WF2300158",
@@ -30,7 +151,7 @@
         "location": "17288 SKYLINE BLVD #GAS ,WDS",
         "latitude": 37.3865701164906,
         "longitude": -122.265257772815,
-        "units": ">E58 ?CO56"
+        "units": ">E58 >E356"
     },
     {
         "id": "MF2300511",
@@ -41,18 +162,7 @@
         "location": "341 1ST AVE ,NFO",
         "latitude": 37.4736449271169,
         "longitude": -122.208289469264,
-        "units": "E9 E14 BC1 CM11X4 ?TAC16T9 E3 BC3 E11 E10"
-    },
-    {
-        "id": "CF2300387",
-        "date": "2023-01-14",
-        "time": "8:55:21 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "849 COWAN RD ,BRM",
-        "latitude": 37.6016680520092,
-        "longitude": -122.374800991578,
-        "units": ">E34"
+        "units": ">BC1 ?RCFINV >E9 CM11X4 ?TAC16>T9 >E3 >BC3 >E11 >E10"
     },
     {
         "id": "MF2300510",
@@ -63,18 +173,7 @@
         "location": "EB 84 / EO HIGH RI",
         "latitude": 37.5093096751786,
         "longitude": -122.113358179779,
-        "units": "?TAC15 >E2 CM11X5 >BC101 >T2"
-    },
-    {
-        "id": "WF2300157",
-        "date": "2023-01-14",
-        "time": "8:53:16 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "ALPINE RD / WILLOWBROOK DR",
-        "latitude": 37.3645244509325,
-        "longitude": -122.21557442916,
-        "units": ">E8"
+        "units": ">E2 >BC101 >T2"
     },
     {
         "id": "RF2300619",
@@ -85,61 +184,6 @@
         "location": "510 SHANNON WAY ,RWS",
         "latitude": 37.5350097845724,
         "longitude": -122.24183770458,
-        "units": ">E20"
-    },
-    {
-        "id": "RF2300620",
-        "date": "2023-01-14",
-        "time": "8:52:21 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "FLORENCE ST / ST MARYS PL",
-        "latitude": 37.4786042758482,
-        "longitude": -122.188839215579,
-        "units": ">E5"
-    },
-    {
-        "id": "NF2300793",
-        "date": "2023-01-14",
-        "time": "8:49:51 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #234A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "MF2300509",
-        "date": "2023-01-14",
-        "time": "8:45:52 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAK GROVE AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2300642",
-        "date": "2023-01-14",
-        "time": "8:38:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "3513 HACIENDA ST ,SMO",
-        "latitude": 37.5321736020853,
-        "longitude": -122.303113701651,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2300639",
-        "date": "2023-01-14",
-        "time": "8:23:22 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W POPLAR AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
         "units": ""
     },
     {
