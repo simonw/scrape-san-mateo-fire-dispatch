@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2300657",
+        "id": "SF2300659",
         "date": "2023-01-14",
-        "time": "1:16:38 PM",
+        "time": "1:41:02 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1400 ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": 37.5061317233887,
+        "longitude": -122.289156860221,
+        "units": "E14"
+    },
+    {
+        "id": "BF2300245",
+        "date": "2023-01-14",
+        "time": "1:31:15 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "2960 MEDINA DR ,SNB",
+        "latitude": 37.6393641855222,
+        "longitude": -122.458469102836,
+        "units": ">E64"
+    },
+    {
+        "id": "CF2300399",
+        "date": "2023-01-14",
+        "time": "1:29:34 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "601 HILLSBOROUGH BLVD ,HIL",
+        "latitude": 37.5646336906558,
+        "longitude": -122.355220361943,
+        "units": ">E32"
+    },
+    {
+        "id": "NF2300802",
+        "date": "2023-01-14",
+        "time": "1:26:12 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "NORTON ST ,SMO",
+        "location": "FRANKFORT ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": ">E92"
+    },
+    {
+        "id": "CF2300398",
+        "date": "2023-01-14",
+        "time": "1:25:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "15 MCCREERY RD ,HIL",
+        "latitude": 37.573157498766,
+        "longitude": -122.37237492318,
+        "units": ">E34"
     },
     {
         "id": "BF2300244",
@@ -19,29 +63,7 @@
         "location": "201 BALBOA WAY ,SNB",
         "latitude": 37.6150374292679,
         "longitude": -122.412853836804,
-        "units": ">E37 CM31X1 >BC16"
-    },
-    {
-        "id": "BF2300243",
-        "date": "2023-01-14",
-        "time": "12:59:09 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "1801 NILES AVE ,SNB",
-        "latitude": 37.6157383307213,
-        "longitude": -122.418562842241,
-        "units": ""
-    },
-    {
-        "id": "CF2300397",
-        "date": "2023-01-14",
-        "time": "12:53:20 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "3155 FRONTERA WAY ,BRM",
-        "latitude": 37.5818787828138,
-        "longitude": -122.402513379393,
-        "units": ""
+        "units": "CM31X1"
     },
     {
         "id": "SF2300655",
