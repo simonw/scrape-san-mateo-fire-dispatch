@@ -1,5 +1,60 @@
 [
     {
+        "id": "HF2300305",
+        "date": "2023-01-14",
+        "time": "11:02:57 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VERMONT AVE ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": "E44"
+    },
+    {
+        "id": "NF2300799",
+        "date": "2023-01-14",
+        "time": "10:57:14 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Pole fire",
+        "location": "487 WESTMOOR AVE ,DCY",
+        "latitude": 37.6851661417506,
+        "longitude": -122.49276484551,
+        "units": "?E95"
+    },
+    {
+        "id": "DF2300245",
+        "date": "2023-01-14",
+        "time": "10:56:17 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LAKE BLVD / OAK KNOLL DR",
+        "latitude": 37.4681402055094,
+        "longitude": -122.262911470995,
+        "units": ">E12"
+    },
+    {
+        "id": "MF2300514",
+        "date": "2023-01-14",
+        "time": "10:55:08 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PULGAS AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2300650",
+        "date": "2023-01-14",
+        "time": "10:52:13 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CREEKRIDGE CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
         "id": "RF2300625",
         "date": "2023-01-14",
         "time": "10:41:34 AM",
@@ -8,7 +63,7 @@
         "location": "702 BAIR ISLAND RD ,RCY",
         "latitude": 37.4986249098515,
         "longitude": -122.221294270457,
-        "units": "?E9"
+        "units": ">E9"
     },
     {
         "id": "DF2300244",
@@ -19,84 +74,7 @@
         "location": "SB 280 / SO 92",
         "latitude": 37.5004067419462,
         "longitude": -122.326125246726,
-        "units": "CM11X1 ?TAC15 E17 E18 T17"
-    },
-    {
-        "id": "CF2300393",
-        "date": "2023-01-14",
-        "time": "10:33:57 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "709 LINDEN AVE ,BRM",
-        "latitude": 37.5831766509476,
-        "longitude": -122.350625561445,
-        "units": ">T34"
-    },
-    {
-        "id": "WF2300163",
-        "date": "2023-01-14",
-        "time": "10:22:19 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "PORTOLA RD / HOME RD",
-        "latitude": 37.3925520147674,
-        "longitude": -122.242545676475,
-        "units": ">SQ407"
-    },
-    {
-        "id": "NF2300798",
-        "date": "2023-01-14",
-        "time": "10:20:58 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ADOBE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "CF2300392",
-        "date": "2023-01-14",
-        "time": "10:18:53 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRESTVIEW DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2300648",
-        "date": "2023-01-14",
-        "time": "10:16:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "1980 ALDEN AVE ,BLM",
-        "latitude": 37.5158160166063,
-        "longitude": -122.293393091267,
-        "units": ""
-    },
-    {
-        "id": "FF2300346",
-        "date": "2023-01-14",
-        "time": "10:01:23 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1 APPIAN WAY ,SSF",
-        "latitude": 37.643559020898,
-        "longitude": -122.450851592374,
-        "units": ">E63"
-    },
-    {
-        "id": "DF2300239",
-        "date": "2023-01-14",
-        "time": "9:11:09 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "9111 ALPINE RD ,SOS",
-        "latitude": 37.2941859111939,
-        "longitude": -122.241669453471,
-        "units": ">E357"
+        "units": "CM11X1 ?TAC15 >E17 >E18 >T17>BC11"
     },
     {
         "id": "WF2300158",
@@ -104,10 +82,10 @@
         "time": "8:59:42 AM",
         "summary": "Woodside Fire on Control-3",
         "category": "Tree down",
-        "location": "17288 SKYLINE BLVD #GAS ,WDS",
+        "location": "16350 SKYLINE BLVD ,SKY",
         "latitude": 37.3865701164906,
         "longitude": -122.265257772815,
-        "units": ">E356 >WT156"
+        "units": ">WT156"
     },
     {
         "id": "MF2300511",
@@ -118,7 +96,7 @@
         "location": "345 1ST AVE ,NFO",
         "latitude": 37.4736449271169,
         "longitude": -122.208289469264,
-        "units": ">PR1E >BC1 CM11X4 ?TAC16 >E3"
+        "units": ">PR1E >E3"
     },
     {
         "id": "SF2300638",
