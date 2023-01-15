@@ -1,36 +1,47 @@
 [
     {
-        "id": "CF2300417",
+        "id": "CF2300419",
         "date": "2023-01-15",
-        "time": "11:41:15 AM",
+        "time": "12:00:17 PM",
         "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "600 EUCALYPTUS AVE ,HIL",
-        "latitude": 37.5719209335742,
-        "longitude": -122.362024733189,
+        "category": "Fire alarm - smoke detector",
+        "location": "50 ADRIAN CT ,BRM",
+        "latitude": 37.5997103812425,
+        "longitude": -122.379906277096,
         "units": "E34"
     },
     {
-        "id": "RF2300675",
+        "id": "RF2300676",
         "date": "2023-01-15",
-        "time": "11:39:32 AM",
+        "time": "11:58:49 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "JAMES AVE / EL CAMINO REAL",
-        "latitude": 37.4845258801912,
-        "longitude": -122.233002506605,
-        "units": "E9"
-    },
-    {
-        "id": "FF2300364",
-        "date": "2023-01-15",
-        "time": "11:35:48 AM",
-        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
+        "location": "ELM ST #2 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": ">E16"
+    },
+    {
+        "id": "NF2300835",
+        "date": "2023-01-15",
+        "time": "11:48:12 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MORI POINT RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71 >E72 CM31X1 ERV72"
+    },
+    {
+        "id": "CF2300418",
+        "date": "2023-01-15",
+        "time": "11:44:17 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S ASHTON AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "CF2300416",
@@ -41,40 +52,7 @@
         "location": "6915 SKYLINE BLVD ,HIL",
         "latitude": 37.5545254257226,
         "longitude": -122.377844773503,
-        "units": ">E33"
-    },
-    {
-        "id": "MF2300542",
-        "date": "2023-01-15",
-        "time": "11:18:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ401"
-    },
-    {
-        "id": "DF2300267",
-        "date": "2023-01-15",
-        "time": "11:15:43 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ADELINE DR ,BRH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "MF2300539",
-        "date": "2023-01-15",
-        "time": "10:44:16 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "55 NEWELL RD #217 ,EPA",
-        "latitude": 37.4564109892744,
-        "longitude": -122.137347009065,
-        "units": ">T2"
+        "units": ""
     },
     {
         "id": "MF2300251",
