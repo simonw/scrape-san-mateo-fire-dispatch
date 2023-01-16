@@ -1,14 +1,91 @@
 [
     {
-        "id": "NF2300865",
+        "id": "RF2300711",
         "date": "2023-01-16",
-        "time": "8:25:56 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:43:21 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD ,DCY",
+        "location": "CHESTNUT ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": "E13"
+    },
+    {
+        "id": "HF2300326",
+        "date": "2023-01-16",
+        "time": "8:39:05 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1035 ACACIA ST ,MON",
+        "latitude": 37.5435573080473,
+        "longitude": -122.504529838912,
+        "units": ">E44"
+    },
+    {
+        "id": "WF2300191",
+        "date": "2023-01-16",
+        "time": "8:37:52 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "7 STILL CREEK RD ,WDS",
+        "latitude": 37.3953646792797,
+        "longitude": -122.263510110902,
+        "units": "E356 >E58 ?CO56"
+    },
+    {
+        "id": "NF2300867",
+        "date": "2023-01-16",
+        "time": "8:37:34 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "1 ST FRANCIS SQ ,DCY",
+        "latitude": 37.675202688813,
+        "longitude": -122.479907355864,
+        "units": ">T95"
+    },
+    {
+        "id": "SF2300748",
+        "date": "2023-01-16",
+        "time": "8:35:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "3471 GLENDORA DR ,SMO",
+        "latitude": 37.5263307466565,
+        "longitude": -122.323411434961,
+        "units": ">E27"
+    },
+    {
+        "id": "SF2300747",
+        "date": "2023-01-16",
+        "time": "8:31:42 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S CLAREMONT ST #A ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2300866",
+        "date": "2023-01-16",
+        "time": "8:30:02 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "CF2300434",
+        "date": "2023-01-16",
+        "time": "8:29:50 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PENINSULA AVE #4 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
     },
     {
         "id": "WF2300190",
@@ -19,7 +96,7 @@
         "location": "ZAPATA WAY ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
+        "units": ">E8"
     },
     {
         "id": "WF2300189",
@@ -33,28 +110,6 @@
         "units": "SQ407"
     },
     {
-        "id": "CF2300433",
-        "date": "2023-01-16",
-        "time": "8:18:29 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "601 HILLSBOROUGH BLVD ,HIL",
-        "latitude": 37.5646336906558,
-        "longitude": -122.355220361943,
-        "units": ">E32"
-    },
-    {
-        "id": "FF2300387",
-        "date": "2023-01-16",
-        "time": "8:18:17 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FERNDALE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
         "id": "BF2300266",
         "date": "2023-01-16",
         "time": "8:15:52 AM",
@@ -63,29 +118,7 @@
         "location": "201 BALBOA WAY ,SNB",
         "latitude": 37.6150374292679,
         "longitude": -122.412853836804,
-        "units": "E51 >E37"
-    },
-    {
-        "id": "CF2300432",
-        "date": "2023-01-16",
-        "time": "8:14:42 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #170B ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "CF2300431",
-        "date": "2023-01-16",
-        "time": "8:12:20 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / WB 380 ON RAMP",
-        "latitude": 37.6318529738727,
-        "longitude": -122.402948202822,
-        "units": ">Q62"
+        "units": ">E37 >BC16"
     },
     {
         "id": "DF2300282",
@@ -96,17 +129,6 @@
         "location": "ALPINE RD / HERITAGE RD",
         "latitude": 37.2995413562928,
         "longitude": -122.264502414148,
-        "units": ">E357"
-    },
-    {
-        "id": "HF2300325",
-        "date": "2023-01-16",
-        "time": "8:00:31 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "1070 ACACIA ST ,MON",
-        "latitude": 37.5432428365843,
-        "longitude": -122.505411473619,
         "units": ""
     },
     {
@@ -129,7 +151,7 @@
         "location": "7400 BLOCK LA HONDA RD ,LAH",
         "latitude": 37.3135162285853,
         "longitude": -122.286004110054,
-        "units": "*>E58 >U57"
+        "units": ">U57"
     },
     {
         "id": "MF2300251",
