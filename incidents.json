@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2300612",
+        "date": "2023-01-18",
+        "time": "10:39:45 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL RD #217 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "T2"
+    },
+    {
+        "id": "NF2300962",
+        "date": "2023-01-18",
+        "time": "10:39:01 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINCOLN AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
+    },
+    {
+        "id": "NF2300961",
+        "date": "2023-01-18",
+        "time": "10:36:21 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN JOSE AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "FF2300432",
+        "date": "2023-01-18",
+        "time": "10:34:01 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "3550 CARTER DR #15 ,SSF",
+        "latitude": 37.6421019498443,
+        "longitude": -122.464790410541,
+        "units": ">E52"
+    },
+    {
+        "id": "FF2300431",
+        "date": "2023-01-18",
+        "time": "10:30:08 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LUCCA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
         "id": "MF2300611",
         "date": "2023-01-18",
         "time": "10:22:52 AM",
@@ -19,7 +74,7 @@
         "location": "WINGED FOOT RD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": "*>E40"
     },
     {
         "id": "SF2300849",
@@ -33,39 +88,6 @@
         "units": ">E24"
     },
     {
-        "id": "BF2300298",
-        "date": "2023-01-18",
-        "time": "10:18:38 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LONDON CT ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2300798",
-        "date": "2023-01-18",
-        "time": "10:12:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "757 CEDAR ST ,SNC",
-        "latitude": 37.5005838754357,
-        "longitude": -122.261103133681,
-        "units": ""
-    },
-    {
-        "id": "SF2300848",
-        "date": "2023-01-18",
-        "time": "10:09:59 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #508 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
         "id": "RF2300796",
         "date": "2023-01-18",
         "time": "10:00:24 AM",
@@ -74,17 +96,6 @@
         "location": "SUSIE LN ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "FF2300430",
-        "date": "2023-01-18",
-        "time": "9:44:57 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MILLER AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
+        "units": ""
     }
 ]
