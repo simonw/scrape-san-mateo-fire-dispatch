@@ -1,14 +1,69 @@
 [
     {
-        "id": "RF2300797",
+        "id": "MF2300611",
         "date": "2023-01-18",
-        "time": "10:02:14 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:22:52 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WOODSIDE RD #3 ,RCY",
+        "location": "W BAYSHORE RD #6 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E2"
+    },
+    {
+        "id": "HF2300345",
+        "date": "2023-01-18",
+        "time": "10:21:09 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WINGED FOOT RD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "SF2300849",
+        "date": "2023-01-18",
+        "time": "10:19:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 4TH AVE / S B ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "BF2300298",
+        "date": "2023-01-18",
+        "time": "10:18:38 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LONDON CT ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2300798",
+        "date": "2023-01-18",
+        "time": "10:12:29 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "757 CEDAR ST ,SNC",
+        "latitude": 37.5005838754357,
+        "longitude": -122.261103133681,
+        "units": ""
+    },
+    {
+        "id": "SF2300848",
+        "date": "2023-01-18",
+        "time": "10:09:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #508 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "RF2300796",
@@ -19,18 +74,7 @@
         "location": "SUSIE LN ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "BF2300297",
-        "date": "2023-01-18",
-        "time": "9:52:03 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "901 CHERRY AVE ,SNB",
-        "latitude": 37.627943109138,
-        "longitude": -122.426634811169,
-        "units": ">E52 >E51 >TAC35 >BC16 >T51>CM31X4"
+        "units": ">E10"
     },
     {
         "id": "FF2300430",
@@ -42,27 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E63"
-    },
-    {
-        "id": "MF2300606",
-        "date": "2023-01-18",
-        "time": "9:18:01 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO MARSH RD",
-        "latitude": 37.4775715102468,
-        "longitude": -122.169821019453,
-        "units": ">E1"
-    },
-    {
-        "id": "MF2300604",
-        "date": "2023-01-18",
-        "time": "9:08:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "556 SANTA CRUZ AVE ,MNP",
-        "latitude": 37.4541191975191,
-        "longitude": -122.182858034978,
-        "units": ">PR1E"
     }
 ]
