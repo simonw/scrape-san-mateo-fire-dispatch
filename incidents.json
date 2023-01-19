@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2300315",
+        "date": "2023-01-19",
+        "time": "9:41:45 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1274 EL CAMINO REAL ,SNB",
+        "latitude": 37.6393235090506,
+        "longitude": -122.420943045439,
+        "units": "E61"
+    },
+    {
+        "id": "BF2300314",
+        "date": "2023-01-19",
+        "time": "9:38:53 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EARL AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2300903",
+        "date": "2023-01-19",
+        "time": "9:31:49 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SHOREWAY RD #B126 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
         "id": "MF2300631",
         "date": "2023-01-19",
         "time": "9:24:48 AM",
@@ -8,7 +41,7 @@
         "location": "CAMBRIDGE AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "SF2300902",
@@ -19,7 +52,7 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "RF2300837",
@@ -30,29 +63,7 @@
         "location": "NUEVA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "BF2300313",
-        "date": "2023-01-19",
-        "time": "9:13:42 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHARLESTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2300901",
-        "date": "2023-01-19",
-        "time": "9:08:10 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E10"
     },
     {
         "id": "NF2300996",
@@ -63,6 +74,6 @@
         "location": "NB 280 / SO JOHN DALY BLVD",
         "latitude": 37.7034101220142,
         "longitude": -122.471313233753,
-        "units": ">E92 >E94 ?TAC35 CM31X3 >BC120"
+        "units": ">E92"
     }
 ]
