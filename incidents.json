@@ -1,14 +1,80 @@
 [
     {
-        "id": "RF2300841",
+        "id": "SF2300911",
         "date": "2023-01-19",
-        "time": "10:43:27 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:03:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
+        "location": "N ELDORADO ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E9"
+        "units": "E21"
+    },
+    {
+        "id": "SF2300910",
+        "date": "2023-01-19",
+        "time": "11:02:29 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #117 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "RF2300845",
+        "date": "2023-01-19",
+        "time": "10:59:38 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SANCHEZ WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "RF2300843",
+        "date": "2023-01-19",
+        "time": "10:51:08 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST #706 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "CF2300497",
+        "date": "2023-01-19",
+        "time": "10:50:53 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SEQUOIA AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37 >CM21X2 >E35"
+    },
+    {
+        "id": "RF2300842",
+        "date": "2023-01-19",
+        "time": "10:49:21 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WHIPPLE AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2300909",
+        "date": "2023-01-19",
+        "time": "10:47:37 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FOSTER CITY BLVD ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
     },
     {
         "id": "MF2300632",
@@ -19,50 +85,17 @@
         "location": "BAY RD #GRN LOBBY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2300908",
-        "date": "2023-01-19",
-        "time": "10:34:16 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HOWE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2300840",
-        "date": "2023-01-19",
-        "time": "10:32:55 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
+        "units": "*>E2"
     },
     {
         "id": "NF2300998",
         "date": "2023-01-19",
         "time": "10:32:25 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Water rescue investigation",
+        "category": "Water rescue response",
         "location": "360 ESPLANADE AVE ,PCF",
         "latitude": 37.6522250869697,
         "longitude": -122.493350875092,
-        "units": "CM51X1 CM31X1 >TAC35 R95 >E71T95 >BC120"
-    },
-    {
-        "id": "CF2300494",
-        "date": "2023-01-19",
-        "time": "9:43:36 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MYRTLE RD #213 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E35"
+        "units": ">CM51X1 >TAC35 >CM31X1 >R95 >E71>T95 >BC120"
     }
 ]
