@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2300848",
+        "date": "2023-01-19",
+        "time": "12:41:41 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TWIN DOLPHIN DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E16"
+    },
+    {
+        "id": "NF2301004",
+        "date": "2023-01-19",
+        "time": "12:41:31 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SCHWERIN ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E93"
+    },
+    {
+        "id": "SF2300917",
+        "date": "2023-01-19",
+        "time": "12:35:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "470 S NORFOLK ST ,SMO",
+        "latitude": 37.5713700940683,
+        "longitude": -122.310233255332,
+        "units": ">E24"
+    },
+    {
+        "id": "FF2300453",
+        "date": "2023-01-19",
+        "time": "12:29:09 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FERNDALE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "NF2301003",
         "date": "2023-01-19",
         "time": "12:25:08 PM",
@@ -8,7 +52,7 @@
         "location": "GATEWAY DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "?E94"
+        "units": ">E94"
     },
     {
         "id": "SF2300916",
@@ -22,39 +66,6 @@
         "units": ">E29"
     },
     {
-        "id": "SF2300915",
-        "date": "2023-01-19",
-        "time": "12:16:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "NF2301002",
-        "date": "2023-01-19",
-        "time": "12:08:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "6655 MISSION ST ,DCY",
-        "latitude": 37.7020322105696,
-        "longitude": -122.462861582162,
-        "units": ">CM31X5 >TAC36 >E92 >BC20"
-    },
-    {
-        "id": "BF2300318",
-        "date": "2023-01-19",
-        "time": "11:49:19 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TRAEGER AVE #3RD FLR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "DF2300304",
         "date": "2023-01-19",
         "time": "11:43:22 AM",
@@ -66,17 +77,6 @@
         "units": "?VFIR23 >E1769 ?CFE33 >E59"
     },
     {
-        "id": "CF2300498",
-        "date": "2023-01-19",
-        "time": "11:19:28 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARDIGAN RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": "E32"
-    },
-    {
         "id": "NF2300998",
         "date": "2023-01-19",
         "time": "10:32:25 AM",
@@ -85,6 +85,6 @@
         "location": "360 ESPLANADE AVE ,PCF",
         "latitude": 37.6522250869697,
         "longitude": -122.493350875092,
-        "units": ">CM51X1 >TAC35 >CM31X1 >R95 >E71>BC120"
+        "units": ">CM51X1 >TAC35 >CM31X1 >E71 >BC120"
     }
 ]
