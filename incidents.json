@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2300913",
+        "date": "2023-01-19",
+        "time": "11:21:54 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
+    },
+    {
+        "id": "CF2300498",
+        "date": "2023-01-19",
+        "time": "11:19:28 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARDIGAN RD ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "E32"
+    },
+    {
+        "id": "NF2301001",
+        "date": "2023-01-19",
+        "time": "11:17:51 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "75 SERRAMONTE CTR ,DCY",
+        "latitude": 37.6739789013118,
+        "longitude": -122.469672601677,
+        "units": "E92"
+    },
+    {
+        "id": "SF2300912",
+        "date": "2023-01-19",
+        "time": "11:08:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W POPLAR AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "HF2300352",
+        "date": "2023-01-19",
+        "time": "11:07:45 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KEHOE AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
         "id": "SF2300911",
         "date": "2023-01-19",
         "time": "11:03:36 AM",
@@ -8,18 +63,7 @@
         "location": "N ELDORADO ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "SF2300910",
-        "date": "2023-01-19",
-        "time": "11:02:29 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORES ST #117 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
+        "units": ""
     },
     {
         "id": "RF2300845",
@@ -30,18 +74,7 @@
         "location": "SANCHEZ WAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T9"
-    },
-    {
-        "id": "RF2300843",
-        "date": "2023-01-19",
-        "time": "10:51:08 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST #706 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ""
     },
     {
         "id": "CF2300497",
@@ -55,17 +88,6 @@
         "units": ">E37 >CM21X2 >E35"
     },
     {
-        "id": "RF2300842",
-        "date": "2023-01-19",
-        "time": "10:49:21 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WHIPPLE AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
         "id": "SF2300909",
         "date": "2023-01-19",
         "time": "10:47:37 AM",
@@ -77,17 +99,6 @@
         "units": ">E28"
     },
     {
-        "id": "MF2300632",
-        "date": "2023-01-19",
-        "time": "10:38:17 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD #GRN LOBBY ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E2"
-    },
-    {
         "id": "NF2300998",
         "date": "2023-01-19",
         "time": "10:32:25 AM",
@@ -96,6 +107,6 @@
         "location": "360 ESPLANADE AVE ,PCF",
         "latitude": 37.6522250869697,
         "longitude": -122.493350875092,
-        "units": ">CM51X1 >TAC35 >CM31X1 >R95 >E71>T95 >BC120"
+        "units": ">CM51X1 >TAC35 >CM31X1 >R95 >E71*>T95 >BC120"
     }
 ]
