@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2300956",
+        "id": "MF2300661",
         "date": "2023-01-20",
-        "time": "10:21:30 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:33:35 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "RALSTON AVE #412 ,BLM",
+        "location": "CAROLINA AVE / WOODSIDE RD",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
+        "units": ">E4"
+    },
+    {
+        "id": "NF2301045",
+        "date": "2023-01-20",
+        "time": "10:32:42 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #241C ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
+    },
+    {
+        "id": "HF2300357",
+        "date": "2023-01-20",
+        "time": "10:32:09 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Water rescue investigation",
+        "location": "100 POPLAR ST ,HMB",
+        "latitude": 37.4550758645158,
+        "longitude": -122.44350326144,
+        "units": ">E40 >E41 CM41X5 BC10 ?CG22A?TAC45"
     },
     {
         "id": "RF2300885",
@@ -22,17 +44,6 @@
         "units": ">E10"
     },
     {
-        "id": "MF2300659",
-        "date": "2023-01-20",
-        "time": "10:17:26 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KLAMATH DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
         "id": "RF2300884",
         "date": "2023-01-20",
         "time": "10:16:51 AM",
@@ -42,49 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E19"
-    },
-    {
-        "id": "MF2300658",
-        "date": "2023-01-20",
-        "time": "10:14:46 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1765 E BAYSHORE RD ,EPA",
-        "latitude": 37.4611384515088,
-        "longitude": -122.135369443345,
-        "units": ">E77"
-    },
-    {
-        "id": "CF2300524",
-        "date": "2023-01-20",
-        "time": "10:14:40 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "15 TIPTOE LN ,HIL",
-        "latitude": 37.56867010487,
-        "longitude": -122.388958365196,
-        "units": ">E33"
-    },
-    {
-        "id": "FF2300473",
-        "date": "2023-01-20",
-        "time": "10:12:23 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD #200 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "RF2300883",
-        "date": "2023-01-20",
-        "time": "10:07:22 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "INDUSTRIAL RD / BRITTAN AVE",
-        "latitude": 37.501502985081,
-        "longitude": -122.242206420289,
-        "units": ">E13"
     }
 ]
