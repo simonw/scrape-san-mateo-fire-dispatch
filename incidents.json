@@ -1,25 +1,69 @@
 [
     {
-        "id": "CF2300537",
+        "id": "MF2300681",
         "date": "2023-01-20",
-        "time": "9:39:55 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "10:00:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "HAYNE RD ,HIL",
+        "location": "POLHEMUS AVE ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": "E32"
+        "units": "E3"
     },
     {
-        "id": "NF2301072",
+        "id": "RF2300910",
         "date": "2023-01-20",
-        "time": "9:39:45 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:58:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "750 MARSHALL ST ,RCY",
+        "latitude": 37.4872064772203,
+        "longitude": -122.227249402147,
+        "units": ">E9"
+    },
+    {
+        "id": "MF2300680",
+        "date": "2023-01-20",
+        "time": "9:57:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
+        "location": "WAVERLEY ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E1"
+    },
+    {
+        "id": "NF2301073",
+        "date": "2023-01-20",
+        "time": "9:54:13 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BIG BEND DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "MF2300679",
+        "date": "2023-01-20",
+        "time": "9:50:33 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "2111 SANTA CRUZ AVE ,WMP",
+        "latitude": 37.4282438162438,
+        "longitude": -122.194853604013,
+        "units": ">BC1 >SQ401 ?TAC15 CM11X4 >T1>E4"
+    },
+    {
+        "id": "SF2300992",
+        "date": "2023-01-20",
+        "time": "9:44:10 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PROSPECT RW ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
     },
     {
         "id": "FF2300489",
@@ -30,18 +74,7 @@
         "location": "104 PINEHURST WAY ,SSF",
         "latitude": 37.6399144485891,
         "longitude": -122.425963727032,
-        "units": "T51"
-    },
-    {
-        "id": "RF2300909",
-        "date": "2023-01-20",
-        "time": "9:38:04 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ""
     },
     {
         "id": "SF2300991",
@@ -55,28 +88,6 @@
         "units": ">E21"
     },
     {
-        "id": "MF2300678",
-        "date": "2023-01-20",
-        "time": "9:24:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "YALE DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2300908",
-        "date": "2023-01-20",
-        "time": "9:22:59 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EBENER ST / OAK AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
         "id": "FF2300488",
         "date": "2023-01-20",
         "time": "9:12:16 PM",
@@ -85,6 +96,6 @@
         "location": "DEL MONTE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": "E63"
     }
 ]
