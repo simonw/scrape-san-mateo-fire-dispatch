@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2300720",
+        "date": "2023-01-22",
+        "time": "1:18:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "999 E BAYSHORE RD #C36 ,EPA",
+        "latitude": 37.4674460970421,
+        "longitude": -122.151791118899,
+        "units": "E2"
+    },
+    {
+        "id": "NF2301130",
+        "date": "2023-01-22",
+        "time": "1:16:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA VISTA WAY ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "CF2300573",
+        "date": "2023-01-22",
+        "time": "1:14:47 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1067A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "SF2301050",
         "date": "2023-01-22",
         "time": "1:04:35 PM",
@@ -8,7 +41,7 @@
         "location": "S DELAWARE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E24"
+        "units": ""
     },
     {
         "id": "FF2300520",
@@ -19,61 +52,6 @@
         "location": "BYRON DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E63"
-    },
-    {
-        "id": "RF2300965",
-        "date": "2023-01-22",
-        "time": "1:01:41 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2300572",
-        "date": "2023-01-22",
-        "time": "12:59:16 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BURLINGAME AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2301049",
-        "date": "2023-01-22",
-        "time": "12:50:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "RF2300964",
-        "date": "2023-01-22",
-        "time": "12:49:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LINDEN ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "WF2300229",
-        "date": "2023-01-22",
-        "time": "12:47:38 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "681 GLENLOCH WAY ,EML",
-        "latitude": 37.464184382031,
-        "longitude": -122.270775131686,
-        "units": ">E19"
+        "units": ""
     }
 ]
