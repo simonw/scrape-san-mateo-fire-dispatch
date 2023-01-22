@@ -1,14 +1,36 @@
 [
     {
-        "id": "HF2300369",
+        "id": "RF2300956",
         "date": "2023-01-22",
-        "time": "9:22:17 AM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "9:37:07 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CREEKSIDE DR ,HMB",
+        "location": "OAK AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": "E12"
+    },
+    {
+        "id": "NF2301124",
+        "date": "2023-01-22",
+        "time": "9:30:36 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "MF2300717",
+        "date": "2023-01-22",
+        "time": "9:25:38 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "INDEPENDENCE DR #330 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
     },
     {
         "id": "NF2301123",
@@ -19,29 +41,7 @@
         "location": "MISSION ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "NF2301122",
-        "date": "2023-01-22",
-        "time": "9:04:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EVERGLADES DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "BF2300347",
-        "date": "2023-01-22",
-        "time": "9:02:05 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">E92"
     },
     {
         "id": "BF2300346",
@@ -52,7 +52,7 @@
         "location": "LINDEN AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
+        "units": "T51"
     },
     {
         "id": "CF2300567",
@@ -63,6 +63,6 @@
         "location": "1123 BURLINGAME AVE ,BRM",
         "latitude": 37.5791860907899,
         "longitude": -122.345683902124,
-        "units": ">E34"
+        "units": ""
     }
 ]
