@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2300510",
+        "date": "2023-01-21",
+        "time": "9:28:15 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LINDEN AVE / JUNIPER AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "RF2300946",
+        "date": "2023-01-21",
+        "time": "9:27:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E OAKWOOD BLVD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "BF2300343",
+        "date": "2023-01-21",
+        "time": "9:27:37 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN MARCO AVE #2 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "SF2301030",
+        "date": "2023-01-21",
+        "time": "9:26:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "1358 CLAUDIA AVE ,SMO",
+        "latitude": 37.5485221428635,
+        "longitude": -122.288994922946,
+        "units": ">E26"
+    },
+    {
         "id": "MF2300705",
         "date": "2023-01-21",
         "time": "9:21:21 PM",
@@ -8,29 +52,7 @@
         "location": "298 WAVERLEY ST ,MNP",
         "latitude": 37.4539014707738,
         "longitude": -122.168863937604,
-        "units": "T1"
-    },
-    {
-        "id": "RF2300945",
-        "date": "2023-01-21",
-        "time": "9:16:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JEFFERSON AVE #524 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2300704",
-        "date": "2023-01-21",
-        "time": "9:11:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARLBOROUGH AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": ">T1"
     },
     {
         "id": "BF2300342",
@@ -44,17 +66,6 @@
         "units": ">E51"
     },
     {
-        "id": "SF2301029",
-        "date": "2023-01-21",
-        "time": "9:00:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Structure fire",
-        "location": "3323 VERDUN AVE ,SMO",
-        "latitude": 37.5304848758127,
-        "longitude": -122.321415933866,
-        "units": ""
-    },
-    {
         "id": "FF2300509",
         "date": "2023-01-21",
         "time": "6:10:24 PM",
@@ -63,6 +74,6 @@
         "location": "CARTER DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">T51 >E64 CM31X1"
+        "units": "CM31X1"
     }
 ]
