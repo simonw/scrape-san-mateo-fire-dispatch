@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2301097",
+        "date": "2023-01-23",
+        "time": "3:41:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #115A ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E15"
+    },
+    {
+        "id": "RF2301022",
+        "date": "2023-01-23",
+        "time": "3:36:27 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "170 ALAMEDA DE LAS PULGAS ,RCY",
+        "latitude": 37.4799999646074,
+        "longitude": -122.254391969711,
+        "units": "CM11X2 ?TAC15 BC3 T23 E10"
+    },
+    {
+        "id": "RF2301021",
+        "date": "2023-01-23",
+        "time": "3:30:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
         "id": "RF2301019",
         "date": "2023-01-23",
         "time": "3:23:37 PM",
@@ -8,7 +41,7 @@
         "location": "400 MIDDLEFIELD RD ,RCY",
         "latitude": 37.4903270604844,
         "longitude": -122.229669323214,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "HF2300386",
@@ -19,7 +52,7 @@
         "location": "SAN MATEO RD ,SON",
         "latitude": null,
         "longitude": null,
-        "units": "E44 >BC15 >E41 >T17 TAC45CM41X3 >TO11"
+        "units": "TAC45 >E41 >T17 >TO11 >BC15CM41X3"
     },
     {
         "id": "SF2301096",
@@ -33,17 +66,6 @@
         "units": ">E26"
     },
     {
-        "id": "SF2301095",
-        "date": "2023-01-23",
-        "time": "2:49:21 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "HF2300385",
         "date": "2023-01-23",
         "time": "2:49:01 PM",
@@ -53,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "CM41X2 >E40 TAC46 >CH11A >CH10A>BC10"
-    },
-    {
-        "id": "SF2301093",
-        "date": "2023-01-23",
-        "time": "2:48:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "101 TOWN GREEN LN ,FCY",
-        "latitude": 37.5573553133434,
-        "longitude": -122.276561082327,
-        "units": ">T21"
     }
 ]
