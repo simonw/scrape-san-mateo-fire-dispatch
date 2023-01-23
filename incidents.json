@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2301019",
+        "date": "2023-01-23",
+        "time": "3:23:37 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "400 MIDDLEFIELD RD ,RCY",
+        "latitude": 37.4903270604844,
+        "longitude": -122.229669323214,
+        "units": "E9"
+    },
+    {
+        "id": "HF2300386",
+        "date": "2023-01-23",
+        "time": "3:19:45 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN MATEO RD ,SON",
+        "latitude": null,
+        "longitude": null,
+        "units": "E44 >BC15 >E41 >T17 TAC45CM41X3 >TO11"
+    },
+    {
+        "id": "SF2301096",
+        "date": "2023-01-23",
+        "time": "3:05:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
         "id": "SF2301095",
         "date": "2023-01-23",
         "time": "2:49:21 PM",
@@ -8,18 +41,7 @@
         "location": "ALAMEDA DE LAS PULGAS ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "SF2301094",
-        "date": "2023-01-23",
-        "time": "2:49:17 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COYOTE POINT DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ""
     },
     {
         "id": "HF2300385",
@@ -30,7 +52,7 @@
         "location": "CABRILLO HWY S ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "CM41X2 >E40 T17 TAC46 CH11ACH10A BC15 BC10"
+        "units": "CM41X2 >E40 TAC46 >CH11A >CH10A>BC10"
     },
     {
         "id": "SF2301093",
@@ -41,28 +63,6 @@
         "location": "101 TOWN GREEN LN ,FCY",
         "latitude": 37.5573553133434,
         "longitude": -122.276561082327,
-        "units": "CM21X2 ?TAC25 >E29 >T21"
-    },
-    {
-        "id": "HF2300384",
-        "date": "2023-01-23",
-        "time": "2:20:35 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN MATEO RD ,SON",
-        "latitude": null,
-        "longitude": null,
-        "units": "?TAC45 >E41 CM41X4"
-    },
-    {
-        "id": "NF2301168",
-        "date": "2023-01-23",
-        "time": "2:14:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ROSITA RD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E72"
+        "units": ">T21"
     }
 ]
