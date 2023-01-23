@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2301169",
+        "id": "CF2300593",
         "date": "2023-01-23",
-        "time": "2:21:00 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "2:40:24 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "MONTEREY RD ,PCF",
+        "location": "BLACK MOUNTAIN RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": "E33"
+    },
+    {
+        "id": "SF2301092",
+        "date": "2023-01-23",
+        "time": "2:39:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "128 CLARK DR ,SMO",
+        "latitude": 37.5703277103101,
+        "longitude": -122.342672432917,
+        "units": "E21"
+    },
+    {
+        "id": "BF2300361",
+        "date": "2023-01-23",
+        "time": "2:26:34 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "TANFORAN AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
     },
     {
         "id": "MF2300748",
@@ -30,18 +52,7 @@
         "location": "SAN MATEO RD ,SON",
         "latitude": null,
         "longitude": null,
-        "units": ">E41 BC10 T17 CM41X4 ?TAC45"
-    },
-    {
-        "id": "RF2301018",
-        "date": "2023-01-23",
-        "time": "2:18:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JETER ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": "?TAC45 >E41 >T17 CM41X4 >BC10"
     },
     {
         "id": "NF2301168",
@@ -53,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E72"
-    },
-    {
-        "id": "SF2301091",
-        "date": "2023-01-23",
-        "time": "2:03:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL / STATE ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
