@@ -1,14 +1,80 @@
 [
     {
-        "id": "SF2301133",
+        "id": "NF2301194",
         "date": "2023-01-24",
-        "time": "12:17:27 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "12:41:34 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "GRAND BLVD ,SMO",
+        "location": "WESTLAKE CTR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": "E92"
+    },
+    {
+        "id": "MF2300773",
+        "date": "2023-01-24",
+        "time": "12:37:39 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MERRILL ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2301136",
+        "date": "2023-01-24",
+        "time": "12:35:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "3090 LOS PRADOS ST ,SMO",
+        "latitude": 37.5444842683644,
+        "longitude": -122.281573883896,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2301047",
+        "date": "2023-01-24",
+        "time": "12:31:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROOSEVELT AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "SF2301134",
+        "date": "2023-01-24",
+        "time": "12:29:10 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "848 RAND ST ,SMO",
+        "latitude": 37.5699279153474,
+        "longitude": -122.305770481244,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2301193",
+        "date": "2023-01-24",
+        "time": "12:29:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARK PLAZA DR #17 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "FF2300562",
+        "date": "2023-01-24",
+        "time": "12:27:13 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "150 S LINDEN AVE ,SSF",
+        "latitude": 37.6436630421668,
+        "longitude": -122.41643631887,
+        "units": ">BC17 CM31X1 ?TAC35 >Q62 >E61"
     },
     {
         "id": "SF2301132",
@@ -19,39 +85,6 @@
         "location": "2040 RALSTON AVE #STE B ,BLM",
         "latitude": 37.5124131047481,
         "longitude": -122.294076762436,
-        "units": ">T23 >E27 >E18 >BC5 >E15CM11X3 ?TAC15"
-    },
-    {
-        "id": "FF2300561",
-        "date": "2023-01-24",
-        "time": "12:10:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ORANGE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "SF2301130",
-        "date": "2023-01-24",
-        "time": "11:57:45 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LYNDHURST CT ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "FF2300560",
-        "date": "2023-01-24",
-        "time": "11:56:55 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALLERTON AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "?TAC15 CM11X3 >BC5 >E15 >E27>T23"
     }
 ]
