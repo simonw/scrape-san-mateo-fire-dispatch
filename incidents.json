@@ -1,68 +1,46 @@
 [
     {
-        "id": "NF2301195",
+        "id": "MF2300775",
         "date": "2023-01-24",
-        "time": "1:14:52 PM",
+        "time": "1:42:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SELBY LN ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "MF2300774",
+        "date": "2023-01-24",
+        "time": "1:37:23 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "STOCKBRIDGE AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "RF2301048",
+        "date": "2023-01-24",
+        "time": "1:35:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "815 ALLERTON ST ,RCY",
+        "latitude": 37.4901146901338,
+        "longitude": -122.234197626638,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2301196",
+        "date": "2023-01-24",
+        "time": "1:24:03 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "SULLIVAN AVE #401 ,DCY",
+        "location": "CERRO DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "FF2300564",
-        "date": "2023-01-24",
-        "time": "1:06:42 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "416 SPRUCE AVE ,SSF",
-        "latitude": 37.6581558880712,
-        "longitude": -122.41509587846,
-        "units": ""
-    },
-    {
-        "id": "FF2300563",
-        "date": "2023-01-24",
-        "time": "12:55:14 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2301137",
-        "date": "2023-01-24",
-        "time": "12:49:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ELM ST #301 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2301047",
-        "date": "2023-01-24",
-        "time": "12:31:52 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROOSEVELT AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "FF2300562",
-        "date": "2023-01-24",
-        "time": "12:27:13 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "150 S LINDEN AVE ,SSF",
-        "latitude": 37.6436630421668,
-        "longitude": -122.41643631887,
-        "units": "E61"
+        "units": ">E95"
     }
 ]
