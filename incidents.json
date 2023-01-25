@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2301088",
+        "date": "2023-01-25",
+        "time": "11:59:42 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAUREL WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "HF2300405",
+        "date": "2023-01-25",
+        "time": "11:58:37 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S #100A ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "NF2301234",
+        "date": "2023-01-25",
+        "time": "11:55:03 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PALISADES DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "RF2301087",
         "date": "2023-01-25",
         "time": "11:41:53 AM",
@@ -8,7 +41,7 @@
         "location": "CANVASBACK WAY / POSITANO WAY",
         "latitude": null,
         "longitude": null,
-        "units": "?E20"
+        "units": ">E20"
     },
     {
         "id": "BF2300388",
@@ -19,7 +52,7 @@
         "location": "3300 COLLEGE DR ,SNB",
         "latitude": 37.6297229529346,
         "longitude": -122.466494512477,
-        "units": "E52"
+        "units": ""
     },
     {
         "id": "MF2300802",
@@ -33,50 +66,6 @@
         "units": ">E4"
     },
     {
-        "id": "CF2300641",
-        "date": "2023-01-25",
-        "time": "11:38:47 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #C ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "WF2300258",
-        "date": "2023-01-25",
-        "time": "11:35:33 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "621 LAKEMEAD WAY ,EML",
-        "latitude": 37.4616865231346,
-        "longitude": -122.268282931802,
-        "units": ">E19"
-    },
-    {
-        "id": "SF2301176",
-        "date": "2023-01-25",
-        "time": "11:33:17 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "MF2300801",
-        "date": "2023-01-25",
-        "time": "11:31:17 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MCCORMICK LN ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
         "id": "RF2301086",
         "date": "2023-01-25",
         "time": "11:30:53 AM",
@@ -85,18 +74,7 @@
         "location": "1010 COMMERCIAL ST ,SNC",
         "latitude": 37.5044322735525,
         "longitude": -122.253394665819,
-        "units": ">E16"
-    },
-    {
-        "id": "CF2300640",
-        "date": "2023-01-25",
-        "time": "11:15:48 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #277 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E16"
     },
     {
         "id": "FF2300583",
@@ -107,6 +85,6 @@
         "location": "GRAND AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": "E61"
     }
 ]
