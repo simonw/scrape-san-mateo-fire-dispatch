@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2300377",
+        "date": "2023-01-24",
+        "time": "7:36:24 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ELM AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "MF2300789",
+        "date": "2023-01-24",
+        "time": "7:33:26 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PULGAS AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "MF2300788",
+        "date": "2023-01-24",
+        "time": "7:31:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BUCKINGHAM AVE #217 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "NF2301213",
         "date": "2023-01-24",
         "time": "7:25:58 PM",
@@ -8,18 +41,18 @@
         "location": "SOUTHGATE AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?T95"
+        "units": ">T95"
     },
     {
-        "id": "FF2300570",
+        "id": "NF2301214",
         "date": "2023-01-24",
-        "time": "7:24:29 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist, water problem",
-        "location": "3961 STEIN CT ,SSF",
-        "latitude": 37.6498472982285,
-        "longitude": -122.463215686637,
-        "units": "E94"
+        "time": "7:25:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Trash fire",
+        "location": "99 PARK LN ,BRS",
+        "latitude": 37.6856437472226,
+        "longitude": -122.403806219122,
+        "units": ">E81"
     },
     {
         "id": "MF2300787",
@@ -28,28 +61,6 @@
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
         "location": "BUCHANAN CT #A ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "SF2301157",
-        "date": "2023-01-24",
-        "time": "7:08:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DEL MONTE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "CF2300623",
-        "date": "2023-01-24",
-        "time": "7:05:21 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SERRA AVE / LINDEN AVE",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -63,6 +74,6 @@
         "location": "MEATH DR / ATHY DR",
         "latitude": 37.6425418216717,
         "longitude": -122.466249484236,
-        "units": "CM31X1 >Q62 >E64"
+        "units": ">E64"
     }
 ]
