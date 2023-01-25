@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2300585",
+        "id": "SF2301182",
         "date": "2023-01-25",
-        "time": "12:42:12 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "12:59:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "935 OLD COUNTY RD ,BLM",
+        "latitude": 37.5222765884439,
+        "longitude": -122.276049100624,
+        "units": "E14"
+    },
+    {
+        "id": "HF2300406",
+        "date": "2023-01-25",
+        "time": "12:56:22 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "5TH ST / AUDUBON AVE",
+        "latitude": 37.540165365676,
+        "longitude": -122.507226055778,
+        "units": ">E44"
+    },
+    {
+        "id": "MF2300804",
+        "date": "2023-01-25",
+        "time": "12:54:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "MELLO ST / NEWBRIDGE ST",
+        "latitude": 37.4717197936544,
+        "longitude": -122.151041397427,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2301181",
+        "date": "2023-01-25",
+        "time": "12:53:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "BADEN AVE ,SSF",
+        "location": "STATE ST / N SAN MATEO DR",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E34"
     },
     {
         "id": "RF2301093",
@@ -19,61 +52,6 @@
         "location": "SB 101 / NO WOODSIDE RD",
         "latitude": 37.4924375527393,
         "longitude": -122.221572014907,
-        "units": "?TAC15 CM11X2 E9 >T9 BC3E11"
-    },
-    {
-        "id": "SF2301180",
-        "date": "2023-01-25",
-        "time": "12:36:52 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #204 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "RF2301092",
-        "date": "2023-01-25",
-        "time": "12:32:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "701 9TH AVE #19 ,NFO",
-        "latitude": 37.4776941380517,
-        "longitude": -122.196904615977,
-        "units": "E5"
-    },
-    {
-        "id": "FF2300584",
-        "date": "2023-01-25",
-        "time": "12:30:50 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DNA WAY #BLDG 32 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "SF2301179",
-        "date": "2023-01-25",
-        "time": "12:24:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREVIEW AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "SF2301177",
-        "date": "2023-01-25",
-        "time": "12:21:01 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "937 OLD COUNTY RD ,BLM",
-        "latitude": 37.5217205013347,
-        "longitude": -122.276128967115,
-        "units": ">E14"
+        "units": ">E9"
     }
 ]
