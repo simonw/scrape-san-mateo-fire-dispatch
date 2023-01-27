@@ -1,69 +1,80 @@
 [
     {
-        "id": "NF2301288",
+        "id": "NF2301291",
         "date": "2023-01-26",
-        "time": "3:42:15 PM",
+        "time": "4:23:23 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD #5TH FLR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "?T95"
+        "category": "Fire alarm",
+        "location": "58 HILL ST ,DCY",
+        "latitude": 37.6888286670135,
+        "longitude": -122.469042764306,
+        "units": "?E92"
     },
     {
-        "id": "NF2301287",
+        "id": "HF2300422",
         "date": "2023-01-26",
-        "time": "3:39:06 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "4:22:20 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "WESTLAKE AVE / MIRIAM ST",
+        "location": "BLOOM LN #1123 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": "E41"
     },
     {
-        "id": "RF2301141",
+        "id": "NF2301290",
         "date": "2023-01-26",
-        "time": "3:38:30 PM",
+        "time": "4:19:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / SB 1",
+        "latitude": 37.7000934950427,
+        "longitude": -122.471702392606,
+        "units": "CM31X2 BC20 E91 T95 ?TAC35"
+    },
+    {
+        "id": "DF2300350",
+        "date": "2023-01-26",
+        "time": "4:18:16 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "512 LAKEVIEW WAY ,EML",
+        "latitude": 37.4699250519803,
+        "longitude": -122.266610303376,
+        "units": "E12"
+    },
+    {
+        "id": "RF2301143",
+        "date": "2023-01-26",
+        "time": "4:11:44 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "INDUSTRIAL RD #G ,SNC",
+        "location": "TASKER LN ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": ">E13"
     },
     {
-        "id": "NF2301286",
+        "id": "BF2300400",
         "date": "2023-01-26",
-        "time": "3:33:22 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "4:07:28 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "CRESPI DR #N309 ,PCF",
+        "location": "SHELTER CREEK LN ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
+        "units": ">E51"
     },
     {
-        "id": "NF2301285",
+        "id": "SF2301236",
         "date": "2023-01-26",
-        "time": "3:33:18 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "3:56:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "FAIRLAWN AVE ,DCY",
+        "location": "DAVEY GLEN RD #3806 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "NF2301284",
-        "date": "2023-01-26",
-        "time": "3:33:05 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ASPEN DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E71"
+        "units": ">E14"
     },
     {
         "id": "DF2300349",
@@ -74,28 +85,6 @@
         "location": "1 PEBBLE BEACH RD ,PES",
         "latitude": 37.2363054705696,
         "longitude": -122.415676607562,
-        "units": "?CO55 ?TAC15 E17 BC11 >E59R57"
-    },
-    {
-        "id": "FF2300609",
-        "date": "2023-01-26",
-        "time": "3:26:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "249 ALTA VISTA DR ,SSF",
-        "latitude": 37.641927740887,
-        "longitude": -122.430002328945,
-        "units": "?TAC35 >E63 CM31X3"
-    },
-    {
-        "id": "NF2301283",
-        "date": "2023-01-26",
-        "time": "2:58:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": "?CO55 ?TAC15 >E59 >R57"
     }
 ]
