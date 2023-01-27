@@ -1,35 +1,90 @@
 [
     {
-        "id": "MF2300850",
+        "id": "FF2300610",
         "date": "2023-01-26",
-        "time": "4:55:39 PM",
+        "time": "5:52:18 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "101 MCLELLAN DR ,SSF",
+        "latitude": 37.6642962765265,
+        "longitude": -122.446854864105,
+        "units": "E63"
+    },
+    {
+        "id": "NF2301295",
+        "date": "2023-01-26",
+        "time": "5:50:43 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVALON DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "CF2300661",
+        "date": "2023-01-26",
+        "time": "5:50:19 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, ladder request",
+        "location": "MAGNOLIA AVE / TROUSDALE DR",
+        "latitude": 37.593485930278,
+        "longitude": -122.384357827799,
+        "units": ">T34"
+    },
+    {
+        "id": "MF2300851",
+        "date": "2023-01-26",
+        "time": "5:46:13 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ATHERTON AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "category": "Traffic accident",
+        "location": "DONOHOE ST / CLARKE AVE",
+        "latitude": 37.4625241448343,
+        "longitude": -122.134686505243,
+        "units": ">T2 >E2 >CM11X2 BC101 ?TAC16"
     },
     {
-        "id": "RF2301144",
+        "id": "RF2301147",
         "date": "2023-01-26",
-        "time": "4:45:44 PM",
+        "time": "5:43:28 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "REDWOOD AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "category": "Traffic accident",
+        "location": "NB 101 / SO HOLLY ST",
+        "latitude": 37.5015834506222,
+        "longitude": -122.241966950497,
+        "units": ">E13 >E16 >E9 >BC3 >T9?TAC15 ?CM11X5"
     },
     {
-        "id": "DF2300350",
+        "id": "NF2301294",
         "date": "2023-01-26",
-        "time": "4:18:16 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Vehicle fire",
-        "location": "512 LAKEVIEW WAY ,EML",
-        "latitude": 37.4699250519803,
-        "longitude": -122.266610303376,
-        "units": "CM11X3 T9 >E12"
+        "time": "5:37:49 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "SF2301238",
+        "date": "2023-01-26",
+        "time": "5:23:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S GRANT ST #1 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "BF2300402",
+        "date": "2023-01-26",
+        "time": "5:20:23 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTMOOR DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     }
 ]
