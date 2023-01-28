@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2301212",
+        "date": "2023-01-28",
+        "time": "12:59:28 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #59 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "NF2301362",
+        "date": "2023-01-28",
+        "time": "12:58:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "500 JOHN DALY BLVD ,DCY",
+        "latitude": 37.7060721541935,
+        "longitude": -122.468673134774,
+        "units": ">E93 >E92"
+    },
+    {
+        "id": "CF2300703",
+        "date": "2023-01-28",
+        "time": "12:57:31 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "60 EDWARDS CT ,BRM",
+        "latitude": 37.5926751443277,
+        "longitude": -122.366817530244,
+        "units": ">E34"
+    },
+    {
         "id": "CF2300702",
         "date": "2023-01-28",
         "time": "12:43:18 PM",
@@ -8,7 +41,7 @@
         "location": "GARDEN DR #310 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E37"
+        "units": ">E37"
     },
     {
         "id": "NF2301361",
@@ -19,18 +52,7 @@
         "location": "PIERCE ST #241 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "MF2300907",
-        "date": "2023-01-28",
-        "time": "12:25:46 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "WOODSIDE RD OFF RAMP / NB 101",
-        "latitude": 37.4877724840573,
-        "longitude": -122.206761986838,
-        "units": ""
+        "units": ">E94"
     },
     {
         "id": "SF2301300",
@@ -41,17 +63,6 @@
         "location": "DARTMOUTH RD #301 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "CF2300701",
-        "date": "2023-01-28",
-        "time": "12:11:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE #208 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E34"
+        "units": ">T21 ?CM21X1 >E21"
     }
 ]
