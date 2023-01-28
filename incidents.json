@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2300704",
+        "date": "2023-01-28",
+        "time": "2:22:03 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MILLBRAE CIR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "LF2300129",
+        "date": "2023-01-28",
+        "time": "2:20:09 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "SF2301303",
+        "date": "2023-01-28",
+        "time": "2:06:39 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL VERANO WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
         "id": "FF2300657",
         "date": "2023-01-28",
         "time": "2:04:22 PM",
@@ -8,18 +41,7 @@
         "location": "EL CAMINO REAL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E63"
-    },
-    {
-        "id": "SF2301302",
-        "date": "2023-01-28",
-        "time": "2:04:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E24"
+        "units": "E63"
     },
     {
         "id": "RF2301219",
@@ -30,7 +52,7 @@
         "location": "TADLEY CT ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
+        "units": ">E11"
     },
     {
         "id": "RF2301218",
@@ -44,28 +66,6 @@
         "units": ">E9"
     },
     {
-        "id": "BF2300430",
-        "date": "2023-01-28",
-        "time": "1:50:43 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1099 ADMIRAL CT ,SNB",
-        "latitude": 37.6340263494716,
-        "longitude": -122.422181047521,
-        "units": ">T51 >E51 >BC16 TAC35 CM31X5"
-    },
-    {
-        "id": "RF2301217",
-        "date": "2023-01-28",
-        "time": "1:46:52 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UPLAND RD ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
-    },
-    {
         "id": "MF2300910",
         "date": "2023-01-28",
         "time": "1:45:39 PM",
@@ -74,39 +74,6 @@
         "location": "CRANE ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E3 >E6 CM11X2"
-    },
-    {
-        "id": "RF2301216",
-        "date": "2023-01-28",
-        "time": "1:45:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "1150 VETERANS BLVD ,RCY",
-        "latitude": 37.488750187959,
-        "longitude": -122.223513864126,
-        "units": "E13"
-    },
-    {
-        "id": "MF2300909",
-        "date": "2023-01-28",
-        "time": "1:40:43 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAKWOOD DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "RF2301214",
-        "date": "2023-01-28",
-        "time": "1:39:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
+        "units": "CM11X2 >E6 >E3"
     }
 ]
