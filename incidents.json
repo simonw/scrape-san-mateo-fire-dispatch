@@ -1,5 +1,60 @@
 [
     {
+        "id": "BF2300442",
+        "date": "2023-01-29",
+        "time": "3:04:08 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "MF2300940",
+        "date": "2023-01-29",
+        "time": "3:03:42 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #122 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "HF2300447",
+        "date": "2023-01-29",
+        "time": "2:58:03 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIZZEN LN ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "SF2301336",
+        "date": "2023-01-29",
+        "time": "2:53:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #125 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "DF2300365",
+        "date": "2023-01-29",
+        "time": "2:49:22 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MONTALVO RD ,PAL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
         "id": "BF2300441",
         "date": "2023-01-29",
         "time": "2:42:02 PM",
@@ -8,18 +63,7 @@
         "location": "1099 ADMIRAL CT ,SNB",
         "latitude": 37.6340263494716,
         "longitude": -122.422181047521,
-        "units": "BC16 T51 E51 CM31X3 ?TAC35?E63 ?E52"
-    },
-    {
-        "id": "MF2300939",
-        "date": "2023-01-29",
-        "time": "2:40:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": "?TAC35 CM31X3"
     },
     {
         "id": "SF2301335",
@@ -30,61 +74,6 @@
         "location": "1900 COYOTE POINT DR ,SMO",
         "latitude": 37.5887916587913,
         "longitude": -122.317322498692,
-        "units": "JS28 E24 BC5 CM51X1 ?CG22A?TAC25"
-    },
-    {
-        "id": "SF2301334",
-        "date": "2023-01-29",
-        "time": "2:33:53 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S SAN MATEO DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "CF2300722",
-        "date": "2023-01-29",
-        "time": "2:29:28 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SKYLINE BLVD ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "LF2300133",
-        "date": "2023-01-29",
-        "time": "2:23:16 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Landscape fire",
-        "location": "208 GARDEN LN ,BRD",
-        "latitude": 37.6943767725648,
-        "longitude": -122.478105211901,
-        "units": ">E86"
-    },
-    {
-        "id": "RF2301261",
-        "date": "2023-01-29",
-        "time": "2:23:15 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "947 CENTER ST ,SNC",
-        "latitude": 37.4989858206646,
-        "longitude": -122.245233326213,
-        "units": ">E13"
-    },
-    {
-        "id": "CF2300721",
-        "date": "2023-01-29",
-        "time": "2:12:30 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1030A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "BOAT9 ?CG22A >BC5 CM51X1 >JS28?TAC25 >E24"
     }
 ]
