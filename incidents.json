@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2300937",
+        "date": "2023-01-29",
+        "time": "11:20:03 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "233 ALAMEDA DE LAS PULGAS ,ATN",
+        "latitude": 37.4391874643581,
+        "longitude": -122.215461857155,
+        "units": "E4"
+    },
+    {
+        "id": "RF2301252",
+        "date": "2023-01-29",
+        "time": "11:11:38 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "34 MANZANITA ST ,RCY",
+        "latitude": 37.4769016396253,
+        "longitude": -122.220968654282,
+        "units": ">E9"
+    },
+    {
+        "id": "CF2300717",
+        "date": "2023-01-29",
+        "time": "11:05:30 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c2",
+        "location": "BROADWAY / OVER 101",
+        "latitude": 37.5903359459008,
+        "longitude": -122.361542826329,
+        "units": ">CM21X1"
+    },
+    {
         "id": "DF2300364",
         "date": "2023-01-29",
         "time": "11:05:12 AM",
@@ -8,50 +41,17 @@
         "location": "DEARBORN PARK RD ,DPK",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 ?CO55 ?E59"
+        "units": ">E59"
     },
     {
-        "id": "HF2300446",
+        "id": "CF2300718",
         "date": "2023-01-29",
-        "time": "10:51:59 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIZZEN LN ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "NF2301394",
-        "date": "2023-01-29",
-        "time": "10:51:52 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "323 FARALLON AVE ,PCF",
-        "latitude": 37.6560555347959,
-        "longitude": -122.485973002641,
-        "units": ">E71"
-    },
-    {
-        "id": "MF2300936",
-        "date": "2023-01-29",
-        "time": "10:49:09 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "CF2300716",
-        "date": "2023-01-29",
-        "time": "10:28:05 AM",
+        "time": "11:01:48 AM",
         "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALM AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "category": "Public assist, water problem",
+        "location": "1635 FLORIBUNDA AVE ,HIL",
+        "latitude": 37.5766627082665,
+        "longitude": -122.355737455783,
+        "units": ">T34"
     }
 ]
