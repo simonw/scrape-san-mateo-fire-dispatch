@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2300443",
+        "date": "2023-01-29",
+        "time": "3:42:57 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51 ?T51"
+    },
+    {
+        "id": "RF2301262",
+        "date": "2023-01-29",
+        "time": "3:30:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "WOODSIDE RD / MIDDLEFIELD RD",
+        "latitude": 37.4810932683928,
+        "longitude": -122.219104103963,
+        "units": ">E9 >E12 CM11X2 ?TAC15"
+    },
+    {
         "id": "NF2301403",
         "date": "2023-01-29",
         "time": "3:21:57 PM",
@@ -8,29 +30,7 @@
         "location": "901 CAMPUS DR ,DCY",
         "latitude": 37.6655328312707,
         "longitude": -122.47584531511,
-        "units": "E94"
-    },
-    {
-        "id": "CF2300723",
-        "date": "2023-01-29",
-        "time": "3:11:46 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LOS ALTOS DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "BF2300442",
-        "date": "2023-01-29",
-        "time": "3:04:08 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">E94"
     },
     {
         "id": "MF2300940",
@@ -42,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E1"
-    },
-    {
-        "id": "SF2301335",
-        "date": "2023-01-29",
-        "time": "2:38:14 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Water rescue investigation",
-        "location": "1900 COYOTE POINT DR ,SMO",
-        "latitude": 37.5887916587913,
-        "longitude": -122.317322498692,
-        "units": ">JS28"
     }
 ]
