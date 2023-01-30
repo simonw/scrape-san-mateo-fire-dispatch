@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2301413",
+        "id": "MF2300955",
         "date": "2023-01-29",
-        "time": "9:51:22 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "10:18:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "765 OLIVE ST ,MNP",
+        "latitude": 37.4384790720051,
+        "longitude": -122.190835074282,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2301269",
+        "date": "2023-01-29",
+        "time": "10:11:37 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CAMELIA DR ,DCY",
+        "location": "VETERANS BLVD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
+        "units": ""
     },
     {
         "id": "CF2300730",
@@ -19,18 +30,7 @@
         "location": "MILLBRAE AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "BF2300450",
-        "date": "2023-01-29",
-        "time": "9:50:29 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SPYGLASS DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "units": ""
     },
     {
         "id": "MF2300953",
@@ -41,6 +41,6 @@
         "location": "66 NEWELL RD ,EPA",
         "latitude": 37.4566036513309,
         "longitude": -122.136334752917,
-        "units": "TAC15 ?CM11X1 >BC101 T2"
+        "units": "T2"
     }
 ]
