@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2300971",
+        "date": "2023-01-30",
+        "time": "11:42:47 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MILLS CT ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E6"
+    },
+    {
+        "id": "RF2301286",
+        "date": "2023-01-30",
+        "time": "11:32:56 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVENUE DEL ORA ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "MF2300970",
+        "date": "2023-01-30",
+        "time": "11:31:54 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "ENCINAL AVE / MIDDLEFIELD RD",
+        "latitude": 37.4650976364572,
+        "longitude": -122.184835690373,
+        "units": ">BC1 >T1 >E5 CM11X5 ?TAC15"
+    },
+    {
+        "id": "LF2300137",
+        "date": "2023-01-30",
+        "time": "11:25:05 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VILLAGE LN ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
         "id": "RF2301285",
         "date": "2023-01-30",
         "time": "11:20:32 AM",
@@ -8,29 +52,7 @@
         "location": "TWIN DOLPHIN DR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "T21"
-    },
-    {
-        "id": "RF2301284",
-        "date": "2023-01-30",
-        "time": "11:19:07 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR #202 ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "NF2301436",
-        "date": "2023-01-30",
-        "time": "11:16:55 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LOS OLIVOS AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">T21"
     },
     {
         "id": "NF2301435",
@@ -41,29 +63,7 @@
         "location": "YOSEMITE DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
-    },
-    {
-        "id": "CF2300740",
-        "date": "2023-01-30",
-        "time": "11:16:20 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MATEO AVE #15D ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2300702",
-        "date": "2023-01-30",
-        "time": "11:14:08 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "365 E GRAND AVE ,SSF",
-        "latitude": 37.6521797204366,
-        "longitude": -122.388501285084,
-        "units": "Q62"
+        "units": ">E72"
     },
     {
         "id": "SF2301369",
@@ -75,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E29"
-    },
-    {
-        "id": "RF2301283",
-        "date": "2023-01-30",
-        "time": "11:08:23 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "301 INDUSTRIAL RD ,SNC",
-        "latitude": 37.514850722215,
-        "longitude": -122.259498720622,
-        "units": "?TAC15 >E14 CM11X3 >BC3"
-    },
-    {
-        "id": "BF2300461",
-        "date": "2023-01-30",
-        "time": "11:04:01 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN BRUNO AVE W / HENSLEY AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
     }
 ]
