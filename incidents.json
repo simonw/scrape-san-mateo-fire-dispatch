@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2301350",
+        "date": "2023-01-29",
+        "time": "7:52:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "ONEILL AVE / EL CAMINO REAL",
+        "latitude": 37.5186486983864,
+        "longitude": -122.273814128893,
+        "units": ">E14"
+    },
+    {
+        "id": "SF2301349",
+        "date": "2023-01-29",
+        "time": "7:49:11 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WINDJAMMER CIR ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
         "id": "SF2301348",
         "date": "2023-01-29",
         "time": "7:42:55 PM",
@@ -8,18 +30,7 @@
         "location": "SARATOGA DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "FF2300685",
-        "date": "2023-01-29",
-        "time": "7:36:04 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "PARK WAY #3 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ""
     },
     {
         "id": "SF2301347",
@@ -30,40 +41,7 @@
         "location": "N GRANT ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "MF2300949",
-        "date": "2023-01-29",
-        "time": "7:34:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #314A ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "MF2300948",
-        "date": "2023-01-29",
-        "time": "7:32:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARSH RD #5 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "MF2300947",
-        "date": "2023-01-29",
-        "time": "7:22:09 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "1090 DEANNA DR ,MNP",
-        "latitude": 37.4294650515854,
-        "longitude": -122.207625994152,
-        "units": ">T1 >BC1 ?TAC16 CM11X5 >E4"
+        "units": ""
     },
     {
         "id": "MF2300945",
@@ -74,6 +52,6 @@
         "location": "77 NEWELL RD ,EPA",
         "latitude": 37.4569913953765,
         "longitude": -122.136894575082,
-        "units": "?TAC15 >E2 CM11X3 >BC101 >E1>T2"
+        "units": "E2"
     }
 ]
