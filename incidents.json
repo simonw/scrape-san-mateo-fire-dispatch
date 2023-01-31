@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2301392",
+        "id": "MF2300991",
         "date": "2023-01-30",
-        "time": "10:05:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:27:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "HURLINGHAM AVE ,SMO",
+        "location": "OAK LN ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E21"
+        "units": "E6"
+    },
+    {
+        "id": "CF2300750",
+        "date": "2023-01-30",
+        "time": "10:25:42 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "18 DEXTER PL ,MLB",
+        "latitude": 37.6036469883635,
+        "longitude": -122.401084373537,
+        "units": "E37"
     },
     {
         "id": "NF2301453",
@@ -19,18 +30,7 @@
         "location": "ESCUELA DR #245A ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
-    },
-    {
-        "id": "NF2301452",
-        "date": "2023-01-30",
-        "time": "9:59:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BRUNO AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ""
     },
     {
         "id": "FF2300715",
@@ -41,39 +41,6 @@
         "location": "ALIDA WAY #231 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2300749",
-        "date": "2023-01-30",
-        "time": "9:52:23 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "300 EL CAMINO REAL ,MLB",
-        "latitude": 37.6018417626432,
-        "longitude": -122.390718415079,
-        "units": ">E37"
-    },
-    {
-        "id": "MF2300990",
-        "date": "2023-01-30",
-        "time": "9:47:45 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Trash fire",
-        "location": "1137 CHESTNUT ST ,MNP",
-        "latitude": 37.4519180306179,
-        "longitude": -122.185409753221,
         "units": ""
-    },
-    {
-        "id": "MF2300988",
-        "date": "2023-01-30",
-        "time": "9:00:30 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident - structure",
-        "location": "1945 MENALTO AVE ,MNP",
-        "latitude": 37.4597604105972,
-        "longitude": -122.152761510385,
-        "units": "?TAC15 ?CM11X3 >USR102 >SQ407 >BC101*>E5 *>E1"
     }
 ]
