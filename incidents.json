@@ -1,25 +1,36 @@
 [
     {
-        "id": "SF2301416",
+        "id": "BF2300476",
         "date": "2023-01-31",
-        "time": "12:23:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "120 SEM LN ,BLM",
-        "latitude": 37.5249242961001,
-        "longitude": -122.266962106106,
-        "units": "E14 BC5 CM11X4 ?TAC16 T23"
-    },
-    {
-        "id": "NF2301472",
-        "date": "2023-01-31",
-        "time": "12:18:39 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:41:01 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD #DIALYSIS ,DCY",
+        "location": "EL CAMINO REAL #J ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": "E61"
+    },
+    {
+        "id": "RF2301325",
+        "date": "2023-01-31",
+        "time": "12:34:43 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "2700 MELENDY DR ,SNC",
+        "latitude": 37.4931571756902,
+        "longitude": -122.275631253014,
+        "units": "E13"
+    },
+    {
+        "id": "FF2300726",
+        "date": "2023-01-31",
+        "time": "12:31:44 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "100 MCLELLAN DR #2088 ,SSF",
+        "latitude": 37.6644534355834,
+        "longitude": -122.445490576834,
+        "units": ">E63"
     },
     {
         "id": "DF2300375",
@@ -30,18 +41,7 @@
         "location": "LIFEMARK RD ,SON",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC15 CM11X2 E17 R56"
-    },
-    {
-        "id": "NF2301471",
-        "date": "2023-01-31",
-        "time": "12:15:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ">E17"
     },
     {
         "id": "SF2301415",
@@ -52,50 +52,6 @@
         "location": "MONTE DIABLO AVE #6 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "BF2300475",
-        "date": "2023-01-31",
-        "time": "12:12:37 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LINDEN AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2301414",
-        "date": "2023-01-31",
-        "time": "12:12:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "664 N EL CAMINO REAL ,SMO",
-        "latitude": 37.5727524608259,
-        "longitude": -122.339215626384,
-        "units": ""
-    },
-    {
-        "id": "MF2301003",
-        "date": "2023-01-31",
-        "time": "12:10:47 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD #256 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "CF2300766",
-        "date": "2023-01-31",
-        "time": "12:09:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": "*>E21"
     }
 ]
