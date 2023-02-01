@@ -1,25 +1,58 @@
 [
     {
-        "id": "NF2301498",
+        "id": "MF2301014",
         "date": "2023-01-31",
-        "time": "8:41:25 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PRICE ST #5 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
+        "time": "9:01:16 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "48 SHOREBREEZE CT ,EPA",
+        "latitude": 37.464837271143,
+        "longitude": -122.127748532508,
+        "units": "E2"
     },
     {
-        "id": "NF2301497",
+        "id": "NF2301499",
         "date": "2023-01-31",
-        "time": "8:40:59 PM",
+        "time": "9:01:13 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
+        "location": "DESVIO CT ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": "E72"
+    },
+    {
+        "id": "SF2301442",
+        "date": "2023-01-31",
+        "time": "8:56:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
+        "id": "RF2301344",
+        "date": "2023-01-31",
+        "time": "8:52:15 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DEBBIE PL ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "SF2301441",
+        "date": "2023-01-31",
+        "time": "8:43:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "420 STATION PARK CIR ,SMO",
+        "latitude": 37.5551746028578,
+        "longitude": -122.308062759895,
+        "units": ">E23"
     },
     {
         "id": "RF2301343",
@@ -30,7 +63,7 @@
         "location": "HILLCREST DR ,EML",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": ">E12"
     },
     {
         "id": "FF2300733",
@@ -41,50 +74,6 @@
         "location": "22 RANDOLPH AVE ,SSF",
         "latitude": 37.6644448087883,
         "longitude": -122.400450856606,
-        "units": "BC17 >E65 TAC35 E63 E37>Q62 ?CM31X2 >BC16 >E61 >E81"
-    },
-    {
-        "id": "RF2301342",
-        "date": "2023-01-31",
-        "time": "8:33:56 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Landscape fire",
-        "location": "CORK HARBOUR CIR / BRIDGE PKWY",
-        "latitude": 37.5312849716164,
-        "longitude": -122.258986494095,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2301440",
-        "date": "2023-01-31",
-        "time": "8:31:18 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TRYSAIL CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "BF2300479",
-        "date": "2023-01-31",
-        "time": "8:20:48 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MAPLE AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2301341",
-        "date": "2023-01-31",
-        "time": "8:00:46 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "WOODSIDE RD / MIDDLEFIELD RD",
-        "latitude": 37.4810932683928,
-        "longitude": -122.219104103963,
-        "units": ">T9"
+        "units": ">BC17 >E65 TAC35 >E63 >E37>Q62 >TO17 ?CM31X2 >E61 PR17C"
     }
 ]
