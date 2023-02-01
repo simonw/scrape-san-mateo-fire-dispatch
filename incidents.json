@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2301445",
+        "id": "SF2301446",
         "date": "2023-01-31",
-        "time": "10:07:22 PM",
+        "time": "10:30:35 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "S DELAWARE ST ,SMO",
+        "location": "RAND ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E24"
+    },
+    {
+        "id": "NF2301501",
+        "date": "2023-01-31",
+        "time": "10:30:31 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "277 SUNSHINE DR ,PCF",
+        "latitude": 37.6619937033308,
+        "longitude": -122.479991167591,
+        "units": "E94"
     },
     {
         "id": "SF2301444",
@@ -19,40 +30,7 @@
         "location": "BEACH PARK BLVD #87 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "HF2300460",
-        "date": "2023-01-31",
-        "time": "10:06:12 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLONEL WAY ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "NF2301500",
-        "date": "2023-01-31",
-        "time": "10:01:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #115C ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2301348",
-        "date": "2023-01-31",
-        "time": "9:52:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROOSEVELT AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ""
     },
     {
         "id": "FF2300733",
@@ -63,6 +41,6 @@
         "location": "22 RANDOLPH AVE ,SSF",
         "latitude": 37.6644448087883,
         "longitude": -122.400450856606,
-        "units": ">BC17 TAC35 >TO17 ?CM31X2 >PR17C?OES31"
+        "units": ">BC17 TAC35 >TO17 ?CM31X2 >PR17C>OES31"
     }
 ]
