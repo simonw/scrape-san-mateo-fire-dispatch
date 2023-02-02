@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2300505",
+        "date": "2023-02-02",
+        "time": "12:41:28 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "T51"
+    },
+    {
+        "id": "BF2300504",
+        "date": "2023-02-02",
+        "time": "12:31:40 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PACIFIC BAY CIR #104 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2301068",
+        "date": "2023-02-02",
+        "time": "12:30:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1751 E BAYSHORE RD ,EPA",
+        "latitude": 37.4616058226676,
+        "longitude": -122.136720161577,
+        "units": ""
+    },
+    {
+        "id": "FF2300772",
+        "date": "2023-02-02",
+        "time": "12:30:27 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / S SPRUCE AVE",
+        "latitude": 37.6426568632403,
+        "longitude": -122.425067444391,
+        "units": ">E61"
+    },
+    {
         "id": "FF2300771",
         "date": "2023-02-02",
         "time": "12:22:46 PM",
@@ -8,51 +52,7 @@
         "location": "EL CAMINO REAL #FREEZER ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "SF2301511",
-        "date": "2023-02-02",
-        "time": "12:22:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "515 E POPLAR AVE ,SMO",
-        "latitude": 37.5753320875126,
-        "longitude": -122.33022301717,
-        "units": "E32"
-    },
-    {
-        "id": "LF2300155",
-        "date": "2023-02-02",
-        "time": "12:21:14 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BRADLEY DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": "E86"
-    },
-    {
-        "id": "SF2301510",
-        "date": "2023-02-02",
-        "time": "12:20:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "STATE ST / N DELAWARE ST",
-        "latitude": null,
-        "longitude": null,
-        "units": "T21"
-    },
-    {
-        "id": "RF2301418",
-        "date": "2023-02-02",
-        "time": "12:18:24 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COMMERCIAL ST #B ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ">E63"
     },
     {
         "id": "SF2301509",
@@ -60,10 +60,10 @@
         "time": "12:13:03 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Wires down (not sparking)",
-        "location": "N KINGSTON ST / HURON AVE",
+        "location": "105 N KINGSTON ST ,SMO",
         "latitude": 37.5759196833568,
         "longitude": -122.317667608402,
-        "units": ">E21"
+        "units": ""
     },
     {
         "id": "CF2300817",
@@ -85,39 +85,6 @@
         "location": "ST FRANCIS BLVD #1102 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "WF2300288",
-        "date": "2023-02-02",
-        "time": "11:59:30 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "REVERE WAY ,EML",
-        "latitude": null,
-        "longitude": null,
         "units": ""
-    },
-    {
-        "id": "CF2300816",
-        "date": "2023-02-02",
-        "time": "11:53:29 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #138 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "CF2300815",
-        "date": "2023-02-02",
-        "time": "11:53:00 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CAPUCHINO AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
     }
 ]
