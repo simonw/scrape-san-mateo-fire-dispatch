@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2301061",
+        "date": "2023-02-02",
+        "time": "9:15:44 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "HF2300473",
+        "date": "2023-02-02",
+        "time": "9:13:23 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN MATEO RD #104 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
         "id": "RF2301409",
         "date": "2023-02-02",
         "time": "9:03:27 AM",
@@ -8,29 +30,7 @@
         "location": "TWIN DOLPHIN DR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
-    },
-    {
-        "id": "FF2300765",
-        "date": "2023-02-02",
-        "time": "9:02:25 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ARLINGTON DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "RF2301408",
-        "date": "2023-02-02",
-        "time": "8:52:28 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": "*>E16"
     },
     {
         "id": "RF2301407",
@@ -41,17 +41,6 @@
         "location": "FERNSIDE ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "CF2300814",
-        "date": "2023-02-02",
-        "time": "7:20:53 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "500 EL CAMINO REAL ,BRM",
-        "latitude": 37.5774502383873,
-        "longitude": -122.352830248523,
-        "units": "CM21X4 >BC8 >T34 ?TAC25 >E34"
+        "units": "*>E10"
     }
 ]
