@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2301548",
+        "id": "SF2301552",
         "date": "2023-02-03",
-        "time": "9:38:34 AM",
+        "time": "10:04:23 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "NEWBRIDGE AVE ,SMO",
+        "location": "ADA ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": "E24"
+    },
+    {
+        "id": "BF2300519",
+        "date": "2023-02-03",
+        "time": "10:01:34 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GRUNDY LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2301442",
+        "date": "2023-02-03",
+        "time": "10:00:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "BROADWAY / BREWSTER AVE",
+        "latitude": 37.4860978107045,
+        "longitude": -122.237416907321,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2301591",
+        "date": "2023-02-03",
+        "time": "9:54:18 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "TUNNEL AVE ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "MF2301089",
+        "date": "2023-02-03",
+        "time": "9:47:22 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CAMBRIDGE AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
     },
     {
         "id": "DF2300392",
@@ -19,18 +63,7 @@
         "location": "460 WURR RD ,LMR",
         "latitude": 37.2709015219758,
         "longitude": -122.301124292195,
-        "units": "TAC15 E59 E655"
-    },
-    {
-        "id": "NF2301590",
-        "date": "2023-02-03",
-        "time": "9:31:54 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #301C ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": "TAC15 >E655 >E59"
     },
     {
         "id": "NF2301589",
@@ -53,16 +86,5 @@
         "latitude": 37.4792438383356,
         "longitude": -122.277271565855,
         "units": ">E16"
-    },
-    {
-        "id": "WF2300292",
-        "date": "2023-02-03",
-        "time": "9:25:14 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHURCHILL AVE ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
     }
 ]
