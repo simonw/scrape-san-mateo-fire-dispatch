@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2301085",
+        "id": "RF2301436",
         "date": "2023-02-03",
-        "time": "6:16:57 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "2 NEWELL CT ,EPA",
-        "latitude": 37.4573109602062,
-        "longitude": -122.138796747127,
-        "units": ">E2"
+        "time": "6:38:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "225 SHOREWAY RD ,SNC",
+        "latitude": 37.5202283163035,
+        "longitude": -122.259373913701,
+        "units": ""
+    },
+    {
+        "id": "SF2301541",
+        "date": "2023-02-03",
+        "time": "6:36:39 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRESTWOOD DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
+        "id": "DF2300386",
+        "date": "2023-02-03",
+        "time": "6:32:34 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / SO 92",
+        "latitude": 37.5004067419462,
+        "longitude": -122.326125246726,
+        "units": ">T17 >BC11 >E17 >E27 CM11X5?TAC15"
+    },
+    {
+        "id": "CF2300837",
+        "date": "2023-02-03",
+        "time": "6:27:13 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "1604 CORONADO WAY ,BRM",
+        "latitude": 37.589680379391,
+        "longitude": -122.379442475153,
+        "units": ">E35"
+    },
+    {
+        "id": "FF2300788",
+        "date": "2023-02-03",
+        "time": "6:26:26 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "NB 101 / BAYSHORE BLVD OFF RAMP",
+        "latitude": 37.6679176422,
+        "longitude": -122.394443766514,
+        "units": ">E65 TAC35 CM31X2"
     },
     {
         "id": "CF2300835",
@@ -19,6 +63,6 @@
         "location": "SB 101 / SO BROADWAY",
         "latitude": 37.5866627903477,
         "longitude": -122.334833597726,
-        "units": ">E24 >BC8 >T34 >E34 TAC25CM21X1"
+        "units": "CM21X1 >BC8 >T34 >E34 TAC25"
     }
 ]
