@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2301600",
+        "date": "2023-02-03",
+        "time": "12:42:17 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SEASHORE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
+        "id": "CF2300849",
+        "date": "2023-02-03",
+        "time": "12:41:45 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1221 DONNELLY AVE ,BRM",
+        "latitude": 37.5791194708707,
+        "longitude": -122.347477043249,
+        "units": "E34 BC8 T34 ?TAC25 ?CM21X3"
+    },
+    {
+        "id": "NF2301598",
+        "date": "2023-02-03",
+        "time": "12:31:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LAUSANNE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2301451",
+        "date": "2023-02-03",
+        "time": "12:26:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "769 BARBOUR DR ,RCY",
+        "latitude": 37.4701305720617,
+        "longitude": -122.257492497102,
+        "units": ">E12"
+    },
+    {
         "id": "FF2300795",
         "date": "2023-02-03",
         "time": "12:23:35 PM",
@@ -8,40 +52,7 @@
         "location": "SB 280 / NO SNEATH LN",
         "latitude": 37.6342300873108,
         "longitude": -122.438728195012,
-        "units": "T51 BC20 CM31X5 ?TAC35 ?E51"
-    },
-    {
-        "id": "RF2301450",
-        "date": "2023-02-03",
-        "time": "12:20:11 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROLISON RD #10 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11 E77 CM11X1"
-    },
-    {
-        "id": "SF2301558",
-        "date": "2023-02-03",
-        "time": "12:17:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ISLAND PKWY / RALSTON AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "RF2301449",
-        "date": "2023-02-03",
-        "time": "12:15:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "72 PINE AVE ,SNC",
-        "latitude": 37.5011603794795,
-        "longitude": -122.2709914157,
-        "units": ">E13"
+        "units": ">E94"
     },
     {
         "id": "RF2301448",
@@ -63,18 +74,7 @@
         "location": "LERIDA AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "MF2301099",
-        "date": "2023-02-03",
-        "time": "11:57:38 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TRINITY DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": ""
     },
     {
         "id": "MF2301096",
@@ -85,6 +85,6 @@
         "location": "VAN BUREN RD #5 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E5"
+        "units": "E5"
     }
 ]
