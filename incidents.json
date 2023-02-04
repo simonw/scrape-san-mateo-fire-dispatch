@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2301582",
+        "id": "MF2301116",
         "date": "2023-02-04",
-        "time": "1:02:23 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "1:14:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1 NEWELL CT ,EPA",
+        "latitude": 37.4575065373593,
+        "longitude": -122.138167024941,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2300862",
+        "date": "2023-02-04",
+        "time": "1:11:12 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "BEACON AVE ,SMO",
+        "location": "OLD BAYSHORE HWY #6078 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E34"
     },
     {
         "id": "WF2300293",
@@ -20,27 +31,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E19"
-    },
-    {
-        "id": "NF2301625",
-        "date": "2023-02-04",
-        "time": "12:42:58 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ORIENTE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2301581",
-        "date": "2023-02-04",
-        "time": "12:34:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ELM ST #107 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
