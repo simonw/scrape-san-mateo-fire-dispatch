@@ -1,14 +1,25 @@
 [
     {
-        "id": "HF2300488",
+        "id": "MF2301120",
         "date": "2023-02-04",
-        "time": "5:24:40 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "14 STARFISH CT ,HMB",
-        "latitude": 37.4287727487357,
-        "longitude": -122.432201830276,
-        "units": "E40"
+        "time": "5:34:17 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1700 E BAYSHORE RD ,EPA",
+        "latitude": 37.4611974521588,
+        "longitude": -122.138623689048,
+        "units": ">E77"
+    },
+    {
+        "id": "CF2300864",
+        "date": "2023-02-04",
+        "time": "5:26:19 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1766 EL CAMINO REAL ,BRM",
+        "latitude": 37.5946323216539,
+        "longitude": -122.382242981872,
+        "units": ">E37"
     },
     {
         "id": "MF2301119",
@@ -19,7 +30,7 @@
         "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
+        "units": ">E1"
     },
     {
         "id": "MF2301118",
@@ -30,28 +41,6 @@
         "location": "GLORIA WAY #114 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "RF2301462",
-        "date": "2023-02-04",
-        "time": "5:12:49 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "FF2300811",
-        "date": "2023-02-04",
-        "time": "5:03:10 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #51 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E2"
     }
 ]
