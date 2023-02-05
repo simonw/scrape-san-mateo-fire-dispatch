@@ -1,25 +1,69 @@
 [
     {
-        "id": "FF2300819",
+        "id": "NF2301655",
         "date": "2023-02-04",
-        "time": "3:40:08 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "4:21:38 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "NORTHWOOD DR ,SSF",
+        "location": "ESPLANADE AVE #201C ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": "E71"
     },
     {
-        "id": "CF2300875",
+        "id": "CF2300877",
         "date": "2023-02-04",
-        "time": "3:37:04 PM",
+        "time": "4:13:02 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "BARROILHET AVE ,HIL",
+        "location": "TROUSDALE DR #151C ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E32"
+        "units": ">E34"
+    },
+    {
+        "id": "SF2301601",
+        "date": "2023-02-04",
+        "time": "4:09:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "393 VINTAGE PARK DR ,FCY",
+        "latitude": 37.5631799634174,
+        "longitude": -122.277573037322,
+        "units": ">E28"
+    },
+    {
+        "id": "NF2301654",
+        "date": "2023-02-04",
+        "time": "4:07:43 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST #309 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2301600",
+        "date": "2023-02-04",
+        "time": "3:59:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOSMER ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2301475",
+        "date": "2023-02-04",
+        "time": "3:58:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1263 HOLLY ST #C ,SNC",
+        "latitude": 37.5072971106061,
+        "longitude": -122.263134071339,
+        "units": ">E13"
     },
     {
         "id": "WF2300295",
@@ -30,39 +74,6 @@
         "location": "358 ALAMOS DR ,PVY",
         "latitude": 37.3945496875526,
         "longitude": -122.199445835186,
-        "units": ">E8"
-    },
-    {
-        "id": "BF2300536",
-        "date": "2023-02-04",
-        "time": "3:28:29 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN ANSELMO AVE N ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2301474",
-        "date": "2023-02-04",
-        "time": "3:21:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VIRGINIA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "SF2301599",
-        "date": "2023-02-04",
-        "time": "3:09:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SARATOGA DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E8"
     }
 ]
