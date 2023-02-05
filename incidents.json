@@ -1,14 +1,14 @@
 [
     {
-        "id": "CF2300882",
+        "id": "HF2300498",
         "date": "2023-02-04",
-        "time": "7:07:09 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "BLOOMFIELD RD / HOWARD AVE",
-        "latitude": 37.5816666377331,
-        "longitude": -122.339370204947,
-        "units": "E34"
+        "time": "7:09:07 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1064 COLUMBUS ST ,ELG",
+        "latitude": 37.5050853793269,
+        "longitude": -122.466134060234,
+        "units": ">E41"
     },
     {
         "id": "NF2301661",
@@ -19,7 +19,7 @@
         "location": "88 MENLO AVE ,DCY",
         "latitude": 37.6747760271519,
         "longitude": -122.491522207846,
-        "units": "T51 BC20 E92 E95 E91?TAC36 ?CM31X3"
+        "units": ">E95"
     },
     {
         "id": "NF2301659",
@@ -27,53 +27,9 @@
         "time": "7:05:04 PM",
         "summary": "North County Fire on Control-3",
         "category": "Traffic accident",
-        "location": "NB 1 / SERRAMONTE BLVD OFF RAMP",
+        "location": "NB 1 ON RAMP / SB 280",
         "latitude": 37.670415724839,
         "longitude": -122.480661173387,
-        "units": "BC121 ?TAC35 ?CM31X5 E71 T95"
-    },
-    {
-        "id": "MF2301136",
-        "date": "2023-02-04",
-        "time": "7:01:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "24 LORELEI LN ,MNP",
-        "latitude": 37.4773847627638,
-        "longitude": -122.185582036256,
-        "units": ">E5"
-    },
-    {
-        "id": "MF2301135",
-        "date": "2023-02-04",
-        "time": "7:00:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Lock out - residential",
-        "location": "2516 BAYLOR ST ,EPA",
-        "latitude": 37.4741196940643,
-        "longitude": -122.137766811626,
-        "units": ">T2"
-    },
-    {
-        "id": "NF2301658",
-        "date": "2023-02-04",
-        "time": "6:58:15 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "FF2300822",
-        "date": "2023-02-04",
-        "time": "6:54:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Elevator rescue",
-        "location": "849 W ORANGE AVE ,SSF",
-        "latitude": 37.652903937624,
-        "longitude": -122.435566331711,
-        "units": ">E64"
+        "units": "?TAC35 ?CM31X5"
     }
 ]
