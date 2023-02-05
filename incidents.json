@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2301509",
+        "date": "2023-02-05",
+        "time": "1:21:56 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BARRON AVE #67 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E11"
+    },
+    {
+        "id": "RF2301508",
+        "date": "2023-02-05",
+        "time": "1:20:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "3718 COUNTRY CLUB DR ,RCY",
+        "latitude": 37.4579048139135,
+        "longitude": -122.25008187964,
+        "units": "E12"
+    },
+    {
+        "id": "RF2301507",
+        "date": "2023-02-05",
+        "time": "1:14:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #1567 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2301639",
+        "date": "2023-02-05",
+        "time": "1:11:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #511 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "NF2301697",
+        "date": "2023-02-05",
+        "time": "1:11:23 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST #309 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "DF2300420",
+        "date": "2023-02-05",
+        "time": "1:07:11 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "8150 PESCADERO CREEK RD ,LMR",
+        "latitude": 37.2696945694269,
+        "longitude": -122.308853015553,
+        "units": "?CO55"
+    },
+    {
         "id": "NF2301696",
         "date": "2023-02-05",
         "time": "1:00:16 PM",
@@ -8,51 +74,7 @@
         "location": "NATAQUA AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
-    },
-    {
-        "id": "MF2301152",
-        "date": "2023-02-05",
-        "time": "12:59:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "286 SELBY LN ,WSB",
-        "latitude": 37.4538491975601,
-        "longitude": -122.217804375426,
-        "units": "E3"
-    },
-    {
-        "id": "SF2301638",
-        "date": "2023-02-05",
-        "time": "12:53:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "3014 LOS PRADOS ST ,SMO",
-        "latitude": 37.5447227960072,
-        "longitude": -122.283414925983,
-        "units": ">T23 >E28 >E29 >BC5 >E26CM21X3 ?TAC25"
-    },
-    {
-        "id": "NF2301695",
-        "date": "2023-02-05",
-        "time": "12:53:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMPUS DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "RF2301506",
-        "date": "2023-02-05",
-        "time": "12:45:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHESTNUT ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": ">E71"
     },
     {
         "id": "FF2300831",
@@ -63,7 +85,7 @@
         "location": "MANOR DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63 E61"
+        "units": "E61"
     },
     {
         "id": "MF2301151",
@@ -74,6 +96,6 @@
         "location": "E BAYSHORE RD #88 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 >E2 >T2"
+        "units": ">E2"
     }
 ]
