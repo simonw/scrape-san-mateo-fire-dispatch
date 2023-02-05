@@ -1,36 +1,58 @@
 [
     {
-        "id": "RF2301505",
+        "id": "NF2301696",
         "date": "2023-02-05",
-        "time": "12:40:07 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "1:00:16 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "CARLOS AVE ,RCY",
+        "location": "NATAQUA AVE ,PCF",
         "latitude": null,
         "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "MF2301152",
+        "date": "2023-02-05",
+        "time": "12:59:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "286 SELBY LN ,WSB",
+        "latitude": 37.4538491975601,
+        "longitude": -122.217804375426,
         "units": "E3"
     },
     {
-        "id": "HF2300506",
+        "id": "SF2301638",
         "date": "2023-02-05",
-        "time": "12:36:28 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PELICAN CIR ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
+        "time": "12:53:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "3014 LOS PRADOS ST ,SMO",
+        "latitude": 37.5447227960072,
+        "longitude": -122.283414925983,
+        "units": ">T23 >E28 >E29 >BC5 >E26CM21X3 ?TAC25"
     },
     {
-        "id": "NF2301694",
+        "id": "NF2301695",
         "date": "2023-02-05",
-        "time": "12:26:50 PM",
+        "time": "12:53:22 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "FAIRWAY DR ,DCY",
+        "location": "CAMPUS DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ">E94"
+    },
+    {
+        "id": "RF2301506",
+        "date": "2023-02-05",
+        "time": "12:45:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHESTNUT ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
     },
     {
         "id": "FF2300831",
@@ -41,7 +63,7 @@
         "location": "MANOR DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "CM31X1 E63 >E61"
+        "units": ">E63 E61"
     },
     {
         "id": "MF2301151",
@@ -53,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "CM11X1 >E2 >T2"
-    },
-    {
-        "id": "NF2301693",
-        "date": "2023-02-05",
-        "time": "12:24:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2300904",
-        "date": "2023-02-05",
-        "time": "12:11:07 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SUMMIT DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
     }
 ]
