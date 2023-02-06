@@ -1,5 +1,27 @@
 [
     {
+        "id": "DF2300424",
+        "date": "2023-02-06",
+        "time": "11:49:16 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "SKYLINE BLVD / SKYLINE UPPER",
+        "latitude": 37.4955750561378,
+        "longitude": -122.368892307841,
+        "units": "E27"
+    },
+    {
+        "id": "HF2300517",
+        "date": "2023-02-06",
+        "time": "11:47:18 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIRAMONTES POINT RD #19 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "WF2300302",
         "date": "2023-02-06",
         "time": "11:42:21 AM",
@@ -8,18 +30,7 @@
         "location": "FARM HILL BLVD / THE LOOP RD",
         "latitude": 37.4466879516896,
         "longitude": -122.265381333259,
-        "units": "BC2 E19 SQ407 E7 CM11X1?TAC15"
-    },
-    {
-        "id": "NF2301730",
-        "date": "2023-02-06",
-        "time": "11:37:03 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92 ?E93"
+        "units": "?TAC15 CM11X1 >E7 >BC2 >SQ407>E19"
     },
     {
         "id": "RF2301544",
@@ -31,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "NF2301729",
-        "date": "2023-02-06",
-        "time": "11:32:15 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALENCIA WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "FF2300848",
-        "date": "2023-02-06",
-        "time": "11:28:33 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "W ORANGE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2300847",
-        "date": "2023-02-06",
-        "time": "11:21:21 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ANTOINETTE LN #D ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
