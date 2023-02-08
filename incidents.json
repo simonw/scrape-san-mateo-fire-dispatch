@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2301247",
+        "id": "CF2300960",
         "date": "2023-02-08",
-        "time": "12:38:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "12:57:55 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL #305 ,NFO",
+        "location": "LAKEVIEW DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "NF2301798",
+        "date": "2023-02-08",
+        "time": "12:57:17 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CAMPUS DR #IFO ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "RF2301626",
+        "date": "2023-02-08",
+        "time": "12:56:39 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "REDWOOD AVE #19 ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ">E3"
+    },
+    {
+        "id": "SF2301765",
+        "date": "2023-02-08",
+        "time": "12:45:10 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N DELAWARE ST #304 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
     },
     {
         "id": "SF2301763",
@@ -22,39 +55,6 @@
         "units": ">E28"
     },
     {
-        "id": "SF2301762",
-        "date": "2023-02-08",
-        "time": "12:31:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ARBOR AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "SF2301761",
-        "date": "2023-02-08",
-        "time": "12:31:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "1008 E 4TH AVE ,SMO",
-        "latitude": 37.5690104176799,
-        "longitude": -122.314869306667,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2301796",
-        "date": "2023-02-08",
-        "time": "12:25:20 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WESTLAKE CTR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
         "id": "WF2300312",
         "date": "2023-02-08",
         "time": "12:21:44 PM",
@@ -63,17 +63,6 @@
         "location": "5 BIG TREE RD ,WDS",
         "latitude": 37.3781451772132,
         "longitude": -122.256663149236,
-        "units": ">E58 >TAC15 >BC2 >CM11X5 R56"
-    },
-    {
-        "id": "MF2301246",
-        "date": "2023-02-08",
-        "time": "12:19:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #338B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "units": ">E58 >TAC15 >BC2 >CM11X5 >R56"
     }
 ]
