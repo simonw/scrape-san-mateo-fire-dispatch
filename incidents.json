@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2301770",
+        "date": "2023-02-08",
+        "time": "3:32:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "56 W SANTA INEZ AVE ,SMO",
+        "latitude": 37.5683729501309,
+        "longitude": -122.335756542567,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2300965",
+        "date": "2023-02-08",
+        "time": "3:30:29 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "6565 SKYLINE BLVD ,HIL",
+        "latitude": 37.562438507667,
+        "longitude": -122.380825586775,
+        "units": ">E33"
+    },
+    {
         "id": "HF2300534",
         "date": "2023-02-08",
         "time": "3:25:39 PM",
@@ -8,18 +30,18 @@
         "location": "CABRILLO HWY S #100A ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "?E40"
+        "units": ">E41"
     },
     {
         "id": "DF2300437",
         "date": "2023-02-08",
         "time": "3:23:52 PM",
         "summary": "County Fire on Control-1",
-        "category": "Fire alarm",
+        "category": "Grass fire",
         "location": "500 LOG CABIN RANCH RD ,LAH",
         "latitude": 37.3022646426092,
         "longitude": -122.261695397936,
-        "units": "E58 ?TAC15 ?CO57"
+        "units": ">E58 >TAC15 >E57"
     },
     {
         "id": "DF2300436",
@@ -30,7 +52,7 @@
         "location": "PESCADERO CREEK RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": ">E59"
+        "units": ""
     },
     {
         "id": "SF2301769",
@@ -42,17 +64,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E32"
-    },
-    {
-        "id": "CF2300964",
-        "date": "2023-02-08",
-        "time": "3:14:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1049A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
     },
     {
         "id": "MF2301250",
