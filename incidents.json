@@ -1,14 +1,91 @@
 [
     {
-        "id": "FF2300895",
+        "id": "RF2301622",
         "date": "2023-02-08",
-        "time": "9:44:08 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "10:20:34 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "VINEYARD DR / CAMBRIDGE RD",
+        "latitude": 37.4555013858093,
+        "longitude": -122.254305100199,
+        "units": "E7"
+    },
+    {
+        "id": "NF2301792",
+        "date": "2023-02-08",
+        "time": "10:19:47 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "NORTHCREST DR ,SSF",
+        "location": "BRUNSWICK ST #401 ,DCY",
         "latitude": null,
         "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2301621",
+        "date": "2023-02-08",
+        "time": "10:17:37 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FERNSIDE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
+        "id": "MF2301238",
+        "date": "2023-02-08",
+        "time": "10:17:19 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MENALTO AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T1"
+    },
+    {
+        "id": "MF2301237",
+        "date": "2023-02-08",
+        "time": "10:16:16 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #BLDG 347 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "BF2300576",
+        "date": "2023-02-08",
+        "time": "10:12:13 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "130 CAMBRIDGE LN ,SNB",
+        "latitude": 37.6139813288029,
+        "longitude": -122.436101249531,
         "units": ""
+    },
+    {
+        "id": "MF2301236",
+        "date": "2023-02-08",
+        "time": "10:11:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JEFFERSON DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "RF2301620",
+        "date": "2023-02-08",
+        "time": "10:08:52 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #113 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
     },
     {
         "id": "SF2301754",
@@ -19,17 +96,6 @@
         "location": "SHELL BLVD ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "NF2301791",
-        "date": "2023-02-08",
-        "time": "9:32:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "REDWOOD WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": "E29"
     }
 ]
