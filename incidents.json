@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2301255",
+        "date": "2023-02-08",
+        "time": "8:42:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "THERESA CT ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "CF2300969",
+        "date": "2023-02-08",
+        "time": "8:39:32 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #113 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "FF2300909",
+        "date": "2023-02-08",
+        "time": "8:35:23 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LN ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "BF2300581",
+        "date": "2023-02-08",
+        "time": "8:34:55 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "RF2301644",
         "date": "2023-02-08",
         "time": "8:13:19 PM",
@@ -9,17 +53,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "CF2300968",
-        "date": "2023-02-08",
-        "time": "8:12:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #107 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
     },
     {
         "id": "BF2300580",
@@ -41,7 +74,7 @@
         "location": "DAYTON AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E16"
+        "units": ""
     },
     {
         "id": "FF2300907",
@@ -63,6 +96,6 @@
         "location": "N CABRILLO HWY / RUISSEAU FRANCAIS AVE",
         "latitude": 37.4835630432393,
         "longitude": -122.446300264295,
-        "units": "?TAC45 ?CM41X5 BC10"
+        "units": "BC10"
     }
 ]
