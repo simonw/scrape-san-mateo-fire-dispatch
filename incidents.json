@@ -1,36 +1,102 @@
 [
     {
-        "id": "SF2301770",
+        "id": "SF2301772",
         "date": "2023-02-08",
-        "time": "3:32:43 PM",
+        "time": "4:22:13 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "56 W SANTA INEZ AVE ,SMO",
-        "latitude": 37.5683729501309,
-        "longitude": -122.335756542567,
-        "units": ">E21"
+        "category": "Medical aid",
+        "location": "THAYER LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E28"
     },
     {
-        "id": "CF2300965",
+        "id": "RF2301635",
         "date": "2023-02-08",
-        "time": "3:30:29 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "6565 SKYLINE BLVD ,HIL",
-        "latitude": 37.562438507667,
-        "longitude": -122.380825586775,
+        "time": "4:19:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROSE AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E11"
+    },
+    {
+        "id": "FF2300898",
+        "date": "2023-02-08",
+        "time": "4:19:32 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FERNDALE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
+        "id": "RF2301634",
+        "date": "2023-02-08",
+        "time": "4:19:13 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MYRTLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E16"
+    },
+    {
+        "id": "DF2300438",
+        "date": "2023-02-08",
+        "time": "4:13:24 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist",
+        "location": "100 LA MESA DR ,BRH",
+        "latitude": 37.5749632696839,
+        "longitude": -122.392555540196,
         "units": ">E33"
     },
     {
-        "id": "HF2300534",
+        "id": "RF2301633",
         "date": "2023-02-08",
-        "time": "3:25:39 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "4:08:15 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CABRILLO HWY S #100A ,HMB",
+        "location": "HOPKINS AVE #30 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E41"
+        "units": ">E10"
+    },
+    {
+        "id": "RF2301632",
+        "date": "2023-02-08",
+        "time": "4:08:00 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #21 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "NF2301808",
+        "date": "2023-02-08",
+        "time": "4:03:17 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SHARP PARK RD / OVER 1",
+        "latitude": 37.6261400251992,
+        "longitude": -122.487468032835,
+        "units": "?TAC35 >E71 >T95 CM31X3"
+    },
+    {
+        "id": "RF2301631",
+        "date": "2023-02-08",
+        "time": "3:50:58 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "707 BRADFORD ST ,RCY",
+        "latitude": 37.4889857851204,
+        "longitude": -122.227669818892,
+        "units": "*>E9"
     },
     {
         "id": "DF2300437",
@@ -41,7 +107,7 @@
         "location": "500 LOG CABIN RANCH RD ,LAH",
         "latitude": 37.3022646426092,
         "longitude": -122.261695397936,
-        "units": ">E58 >TAC15 >E57"
+        "units": ">E58 VFIR22 >BC15 >E57"
     },
     {
         "id": "DF2300436",
@@ -52,28 +118,6 @@
         "location": "PESCADERO CREEK RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2301769",
-        "date": "2023-02-08",
-        "time": "3:16:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ARLINGTON LN ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "MF2301250",
-        "date": "2023-02-08",
-        "time": "3:12:19 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MYRTLE ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": "*>E59"
     }
 ]
