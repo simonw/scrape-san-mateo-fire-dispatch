@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2301644",
+        "date": "2023-02-08",
+        "time": "8:13:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #1355 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "CF2300968",
+        "date": "2023-02-08",
+        "time": "8:12:50 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #107 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "BF2300580",
+        "date": "2023-02-08",
+        "time": "8:12:08 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "1 TANFORAN MALL ,SNB",
+        "latitude": 37.6368355785532,
+        "longitude": -122.420219057309,
+        "units": ">T51"
+    },
+    {
         "id": "RF2301643",
         "date": "2023-02-08",
         "time": "8:04:10 PM",
@@ -8,18 +41,7 @@
         "location": "DAYTON AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
-    },
-    {
-        "id": "FF2300908",
-        "date": "2023-02-08",
-        "time": "8:01:35 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1248 BIRCH AVE ,SSF",
-        "latitude": 37.6683132541171,
-        "longitude": -122.434972070164,
-        "units": "E65"
+        "units": ">E16"
     },
     {
         "id": "FF2300907",
@@ -33,28 +55,6 @@
         "units": "E63"
     },
     {
-        "id": "NF2301817",
-        "date": "2023-02-08",
-        "time": "8:00:15 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "98 SHIPLEY AVE ,DCY",
-        "latitude": 37.65692659942,
-        "longitude": -122.468460956969,
-        "units": "E94"
-    },
-    {
-        "id": "CF2300967",
-        "date": "2023-02-08",
-        "time": "7:56:54 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S ASHTON AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
         "id": "HF2300536",
         "date": "2023-02-08",
         "time": "7:54:29 PM",
@@ -63,28 +63,6 @@
         "location": "N CABRILLO HWY / RUISSEAU FRANCAIS AVE",
         "latitude": 37.4835630432393,
         "longitude": -122.446300264295,
-        "units": ">E41 >E40 >BC10 ?TAC45 ?CM41X5"
-    },
-    {
-        "id": "MF2301254",
-        "date": "2023-02-08",
-        "time": "7:51:05 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #221 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "SF2301782",
-        "date": "2023-02-08",
-        "time": "7:34:32 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N KINGSTON ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": "?TAC45 ?CM41X5 BC10"
     }
 ]
