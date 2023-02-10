@@ -1,14 +1,58 @@
 [
     {
-        "id": "NF2301865",
+        "id": "NF2301866",
         "date": "2023-02-10",
-        "time": "9:05:59 AM",
+        "time": "9:42:14 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "RIO VERDE ST ,DCY",
+        "location": "GLENCOURT WAY ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E93"
+        "units": "E64"
+    },
+    {
+        "id": "RF2301704",
+        "date": "2023-02-10",
+        "time": "9:41:02 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROSE AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "RF2301703",
+        "date": "2023-02-10",
+        "time": "9:40:43 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO MARSH RD",
+        "latitude": 37.4859579510142,
+        "longitude": -122.193590413825,
+        "units": "T9 E77 BC3 E13 CM11X5?TAC15"
+    },
+    {
+        "id": "FF2300937",
+        "date": "2023-02-10",
+        "time": "9:35:47 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "500 E JAMIE CT ,SSF",
+        "latitude": 37.6486821235683,
+        "longitude": -122.383061053776,
+        "units": "Q62"
+    },
+    {
+        "id": "SF2301849",
+        "date": "2023-02-10",
+        "time": "9:31:03 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAUREL AVE #3A3 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "FF2300936",
@@ -26,22 +70,11 @@
         "date": "2023-02-10",
         "time": "8:55:02 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Hazardous material - consult",
+        "category": "Hazardous material - response",
         "location": "JUNIPERO SERRA BLVD / JOHN DALY BLVD",
         "latitude": 37.7050569487866,
         "longitude": -122.470738015831,
-        "units": "HM14 >BC20 >E92"
-    },
-    {
-        "id": "FF2300934",
-        "date": "2023-02-10",
-        "time": "8:13:43 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "E JAMIE CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">CM31X1"
+        "units": "DEM54 >BC20 ?TAC35 >E92 HM33MED5 HM14 >T95 >E91 CM31X4"
     },
     {
         "id": "MF2301296",
@@ -52,6 +85,6 @@
         "location": "1391 WOODSIDE RD #100 ,WSB",
         "latitude": 37.4573872955027,
         "longitude": -122.226972437823,
-        "units": "DEM54 CM11X2 >HM33 >BC2 >MED5TAC17 >E10 >T2 >E4"
+        "units": ">E4"
     }
 ]
