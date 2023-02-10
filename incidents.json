@@ -1,25 +1,69 @@
 [
     {
-        "id": "RF2301697",
+        "id": "RF2301699",
         "date": "2023-02-10",
-        "time": "8:40:21 AM",
+        "time": "9:03:41 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Lock out - vehicle",
-        "location": "27 ATHERWOOD AVE ,RCY",
-        "latitude": 37.4613018088572,
-        "longitude": -122.224719796719,
-        "units": "?E13"
+        "category": "Fire alarm",
+        "location": "2757 MELENDY DR ,SNC",
+        "latitude": 37.4919031089168,
+        "longitude": -122.274274125076,
+        "units": "?E16"
     },
     {
-        "id": "BF2300594",
+        "id": "SF2301848",
         "date": "2023-02-10",
-        "time": "8:38:38 AM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "8:57:23 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ANGUS AVE E ,SNB",
+        "location": "N GRANT ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": ">E21"
+    },
+    {
+        "id": "FF2300936",
+        "date": "2023-02-10",
+        "time": "8:56:37 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ROSA FLORA CIR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "NF2301864",
+        "date": "2023-02-10",
+        "time": "8:55:02 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "JUNIPERO SERRA BLVD / JOHN DALY BLVD",
+        "latitude": 37.7050569487866,
+        "longitude": -122.470738015831,
+        "units": ">E92"
+    },
+    {
+        "id": "CF2301001",
+        "date": "2023-02-10",
+        "time": "8:50:28 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1241 LAGUNA AVE ,BRM",
+        "latitude": 37.5869100674143,
+        "longitude": -122.366248414754,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2301000",
+        "date": "2023-02-10",
+        "time": "8:48:21 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #12 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "MF2301300",
@@ -33,17 +77,6 @@
         "units": ">E2"
     },
     {
-        "id": "RF2301696",
-        "date": "2023-02-10",
-        "time": "8:18:40 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO WOODSIDE RD",
-        "latitude": 37.4924375527393,
-        "longitude": -122.221572014907,
-        "units": ">E9 CM11X3 TAC16 >T9 >BC3"
-    },
-    {
         "id": "FF2300934",
         "date": "2023-02-10",
         "time": "8:13:43 AM",
@@ -52,18 +85,7 @@
         "location": "E JAMIE CT ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">BC17 CM31X1 >Q62"
-    },
-    {
-        "id": "MF2301297",
-        "date": "2023-02-10",
-        "time": "8:01:02 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "95 EDGE RD ,ATN",
-        "latitude": 37.4668872824555,
-        "longitude": -122.171477238307,
-        "units": ">SQ401 >T1 TAC15 CM11X4 >E1"
+        "units": ">BC17 >CM31X1 >Q62"
     },
     {
         "id": "MF2301296",
@@ -74,6 +96,6 @@
         "location": "1391 WOODSIDE RD #100 ,WSB",
         "latitude": 37.4573872955027,
         "longitude": -122.226972437823,
-        "units": "?CM11X2 ?OESC BC2 HM14 ?TAC17?ENVHAZ E10 ?T2 >E4"
+        "units": "CM11X2 ?OESC HM33 >BC2 MED5HM14 TAC17 >E10 >T2 >E4"
     }
 ]
