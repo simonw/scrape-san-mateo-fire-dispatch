@@ -1,25 +1,14 @@
 [
     {
-        "id": "RF2301699",
+        "id": "NF2301865",
         "date": "2023-02-10",
-        "time": "9:03:41 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "2757 MELENDY DR ,SNC",
-        "latitude": 37.4919031089168,
-        "longitude": -122.274274125076,
-        "units": "?E16"
-    },
-    {
-        "id": "SF2301848",
-        "date": "2023-02-10",
-        "time": "8:57:23 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:05:59 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "N GRANT ST ,SMO",
+        "location": "RIO VERDE ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": ">E93"
     },
     {
         "id": "FF2300936",
@@ -30,51 +19,18 @@
         "location": "ROSA FLORA CIR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": "E63"
     },
     {
         "id": "NF2301864",
         "date": "2023-02-10",
         "time": "8:55:02 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Public assist",
+        "category": "Hazardous material - consult",
         "location": "JUNIPERO SERRA BLVD / JOHN DALY BLVD",
         "latitude": 37.7050569487866,
         "longitude": -122.470738015831,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2301001",
-        "date": "2023-02-10",
-        "time": "8:50:28 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1241 LAGUNA AVE ,BRM",
-        "latitude": 37.5869100674143,
-        "longitude": -122.366248414754,
-        "units": ">E34"
-    },
-    {
-        "id": "CF2301000",
-        "date": "2023-02-10",
-        "time": "8:48:21 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #12 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "MF2301300",
-        "date": "2023-02-10",
-        "time": "8:34:03 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": "HM14 >BC20 >E92"
     },
     {
         "id": "FF2300934",
@@ -85,7 +41,7 @@
         "location": "E JAMIE CT ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">BC17 >CM31X1 >Q62"
+        "units": ">CM31X1"
     },
     {
         "id": "MF2301296",
@@ -96,6 +52,6 @@
         "location": "1391 WOODSIDE RD #100 ,WSB",
         "latitude": 37.4573872955027,
         "longitude": -122.226972437823,
-        "units": "CM11X2 ?OESC HM33 >BC2 MED5HM14 TAC17 >E10 >T2 >E4"
+        "units": "DEM54 CM11X2 >HM33 >BC2 >MED5TAC17 >E10 >T2 >E4"
     }
 ]
