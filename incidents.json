@@ -1,68 +1,79 @@
 [
     {
+        "id": "SF2301846",
+        "date": "2023-02-10",
+        "time": "8:21:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "2371 LYALL WAY ,BLM",
+        "latitude": 37.5103169147245,
+        "longitude": -122.300916020043,
+        "units": ">E15"
+    },
+    {
+        "id": "MF2301299",
+        "date": "2023-02-10",
+        "time": "8:20:43 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "RF2301696",
+        "date": "2023-02-10",
+        "time": "8:18:40 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO WOODSIDE RD",
+        "latitude": 37.4924375527393,
+        "longitude": -122.221572014907,
+        "units": ">T9 >BC3 >E9 >E77 TAC16CM11X3"
+    },
+    {
+        "id": "FF2300934",
+        "date": "2023-02-10",
+        "time": "8:13:43 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "E JAMIE CT ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "SF2301845",
+        "date": "2023-02-10",
+        "time": "8:07:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ARCTURUS CIR ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
         "id": "MF2301297",
         "date": "2023-02-10",
         "time": "8:01:02 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
+        "category": "Full assignment response",
         "location": "95 EDGE RD ,ATN",
         "latitude": 37.4668872824555,
         "longitude": -122.171477238307,
-        "units": "E1"
+        "units": ">SQ401 >T1 TAC15 CM11X4 >E1"
     },
     {
         "id": "MF2301296",
         "date": "2023-02-10",
         "time": "7:58:12 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Hazardous material - investiga",
+        "category": "Hazardous material - consult",
         "location": "1391 WOODSIDE RD #100 ,WSB",
         "latitude": 37.4573872955027,
         "longitude": -122.226972437823,
-        "units": "E4"
-    },
-    {
-        "id": "NF2301863",
-        "date": "2023-02-10",
-        "time": "7:54:36 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #217B ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2301842",
-        "date": "2023-02-10",
-        "time": "7:52:27 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RANDALL RD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "RF2301694",
-        "date": "2023-02-10",
-        "time": "7:47:33 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SUSIE LN ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2301861",
-        "date": "2023-02-10",
-        "time": "7:29:14 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Trash fire",
-        "location": "303 REICHLING AVE ,PCF",
-        "latitude": 37.6108949665791,
-        "longitude": -122.483507753324,
-        "units": ">E71"
+        "units": "?HM14 >E4"
     }
 ]
