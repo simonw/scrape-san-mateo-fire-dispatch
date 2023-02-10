@@ -1,25 +1,36 @@
 [
     {
-        "id": "SF2301846",
+        "id": "RF2301697",
         "date": "2023-02-10",
-        "time": "8:21:11 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "2371 LYALL WAY ,BLM",
-        "latitude": 37.5103169147245,
-        "longitude": -122.300916020043,
-        "units": ">E15"
+        "time": "8:40:21 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "27 ATHERWOOD AVE ,RCY",
+        "latitude": 37.4613018088572,
+        "longitude": -122.224719796719,
+        "units": "?E13"
     },
     {
-        "id": "MF2301299",
+        "id": "BF2300594",
         "date": "2023-02-10",
-        "time": "8:20:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:38:38 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MNP",
+        "location": "ANGUS AVE E ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
+        "units": ">E51"
+    },
+    {
+        "id": "MF2301300",
+        "date": "2023-02-10",
+        "time": "8:34:03 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "W BAYSHORE RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "RF2301696",
@@ -30,7 +41,7 @@
         "location": "SB 101 / NO WOODSIDE RD",
         "latitude": 37.4924375527393,
         "longitude": -122.221572014907,
-        "units": ">T9 >BC3 >E9 >E77 TAC16CM11X3"
+        "units": ">E9 CM11X3 TAC16 >T9 >BC3"
     },
     {
         "id": "FF2300934",
@@ -41,18 +52,7 @@
         "location": "E JAMIE CT ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "SF2301845",
-        "date": "2023-02-10",
-        "time": "8:07:59 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ARCTURUS CIR ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ">BC17 CM31X1 >Q62"
     },
     {
         "id": "MF2301297",
@@ -70,10 +70,10 @@
         "date": "2023-02-10",
         "time": "7:58:12 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Hazardous material - consult",
+        "category": "Hazardous material - response",
         "location": "1391 WOODSIDE RD #100 ,WSB",
         "latitude": 37.4573872955027,
         "longitude": -122.226972437823,
-        "units": "?HM14 >E4"
+        "units": "?CM11X2 ?OESC BC2 HM14 ?TAC17?ENVHAZ E10 ?T2 >E4"
     }
 ]
