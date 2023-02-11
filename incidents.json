@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2301311",
+        "date": "2023-02-10",
+        "time": "9:19:57 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWBRIDGE ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "BF2300600",
+        "date": "2023-02-10",
+        "time": "9:17:41 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "OAK AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2301748",
+        "date": "2023-02-10",
+        "time": "9:10:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAUREL ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
         "id": "NF2301890",
         "date": "2023-02-10",
         "time": "9:02:26 PM",
@@ -8,7 +41,7 @@
         "location": "AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
+        "units": ">E92"
     },
     {
         "id": "SF2301876",
@@ -19,18 +52,7 @@
         "location": "ELKHORN CT ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2301875",
-        "date": "2023-02-10",
-        "time": "8:55:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRESTVIEW AVE #330 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": ""
     },
     {
         "id": "CF2301020",
@@ -44,28 +66,6 @@
         "units": ">E37"
     },
     {
-        "id": "RF2301747",
-        "date": "2023-02-10",
-        "time": "8:52:14 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VIRGINIA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2301889",
-        "date": "2023-02-10",
-        "time": "8:51:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #127A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
         "id": "DF2300444",
         "date": "2023-02-10",
         "time": "8:47:00 PM",
@@ -74,6 +74,6 @@
         "location": "CUESTA REAL ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 VFIR23 >R57 >E57"
+        "units": ">E58 VFIR23 >R57"
     }
 ]
