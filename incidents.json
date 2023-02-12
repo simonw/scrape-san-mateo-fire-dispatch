@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2301342",
+        "date": "2023-02-11",
+        "time": "7:37:54 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #105 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "BF2300610",
+        "date": "2023-02-11",
+        "time": "7:34:56 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #2210 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "FF2300965",
+        "date": "2023-02-11",
+        "time": "7:32:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "W ORANGE AVE / EL CAMINO REAL",
+        "latitude": 37.6502963997741,
+        "longitude": -122.430589095692,
+        "units": ">E63"
+    },
+    {
         "id": "MF2301341",
         "date": "2023-02-11",
         "time": "7:25:04 PM",
@@ -8,40 +41,7 @@
         "location": "GLORIA WAY #411 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?BC101 T2"
-    },
-    {
-        "id": "MF2301340",
-        "date": "2023-02-11",
-        "time": "7:13:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COOLEY AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2300964",
-        "date": "2023-02-11",
-        "time": "7:11:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "269 FERNDALE AVE ,SSF",
-        "latitude": 37.6656729561627,
-        "longitude": -122.440173187382,
-        "units": ""
-    },
-    {
-        "id": "RF2301778",
-        "date": "2023-02-11",
-        "time": "7:03:49 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #241 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": "CM11X1 >BC101 >T2"
     },
     {
         "id": "FF2300962",
@@ -52,6 +52,6 @@
         "location": "KING DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
+        "units": "E64"
     }
 ]
