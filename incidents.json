@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2301922",
+        "date": "2023-02-11",
+        "time": "8:57:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LYON AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "NF2301918",
+        "date": "2023-02-11",
+        "time": "8:50:16 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "BF2300613",
+        "date": "2023-02-11",
+        "time": "8:46:40 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #1112 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "HF2300559",
         "date": "2023-02-11",
         "time": "8:42:25 PM",
@@ -8,29 +41,7 @@
         "location": "LINDA VISTA ST ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
-    },
-    {
-        "id": "FF2300967",
-        "date": "2023-02-11",
-        "time": "8:39:19 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "CF2301043",
-        "date": "2023-02-11",
-        "time": "8:38:20 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR #114 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "units": "*>E41"
     },
     {
         "id": "RF2301782",
@@ -44,17 +55,6 @@
         "units": ">E9"
     },
     {
-        "id": "FF2300966",
-        "date": "2023-02-11",
-        "time": "8:31:28 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "VIOLA ST ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
         "id": "HF2300558",
         "date": "2023-02-11",
         "time": "8:31:14 PM",
@@ -64,93 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E44"
-    },
-    {
-        "id": "CF2301042",
-        "date": "2023-02-11",
-        "time": "8:28:58 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2301921",
-        "date": "2023-02-11",
-        "time": "8:28:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #218 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2301344",
-        "date": "2023-02-11",
-        "time": "8:27:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #209 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "SF2301920",
-        "date": "2023-02-11",
-        "time": "8:11:42 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DORCHESTER RD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "BF2300611",
-        "date": "2023-02-11",
-        "time": "8:09:28 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FLEETWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2301919",
-        "date": "2023-02-11",
-        "time": "8:08:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N DELAWARE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "RF2301781",
-        "date": "2023-02-11",
-        "time": "8:08:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAK CREEK LN ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2301918",
-        "date": "2023-02-11",
-        "time": "8:05:02 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TILTON AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
