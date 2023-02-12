@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2301784",
+        "id": "CF2301046",
         "date": "2023-02-11",
-        "time": "10:19:08 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "1441 ROOSEVELT AVE #A ,RCY",
-        "latitude": 37.4696942361198,
-        "longitude": -122.23697619553,
-        "units": ">E10"
+        "time": "10:30:29 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E MILLBRAE AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "MF2301346",
+        "date": "2023-02-11",
+        "time": "10:29:23 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SANTA CRUZ AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2301926",
+        "date": "2023-02-11",
+        "time": "10:25:49 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "3421 WESTWOOD CT ,SMO",
+        "latitude": 37.5237195438257,
+        "longitude": -122.325813542326,
+        "units": ">E27"
     },
     {
         "id": "CF2301045",
@@ -19,28 +41,6 @@
         "location": "MILLBRAE AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "NF2301920",
-        "date": "2023-02-11",
-        "time": "10:13:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "101 SCHOOL ST ,DCY",
-        "latitude": 37.6931268918336,
-        "longitude": -122.466131795451,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2301924",
-        "date": "2023-02-11",
-        "time": "10:09:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL / 37TH AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E38"
     }
 ]
