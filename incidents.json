@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2301367",
+        "date": "2023-02-12",
+        "time": "8:35:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WEEKS ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2301959",
+        "date": "2023-02-12",
+        "time": "8:35:13 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #803 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "MF2301366",
         "date": "2023-02-12",
         "time": "8:27:57 PM",
@@ -8,18 +30,7 @@
         "location": "NB 101 / SO WILLOW RD",
         "latitude": 37.4655873647658,
         "longitude": -122.149382461131,
-        "units": "CM11X5 E1 E2 T2 ?TAC15?BC101"
-    },
-    {
-        "id": "SF2301958",
-        "date": "2023-02-12",
-        "time": "8:17:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #117B ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": ">T2 >E2"
     },
     {
         "id": "RF2301812",
@@ -31,27 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E16"
-    },
-    {
-        "id": "CF2301063",
-        "date": "2023-02-12",
-        "time": "8:09:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #106 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "FF2300980",
-        "date": "2023-02-12",
-        "time": "8:08:34 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GREENDALE DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
     }
 ]
