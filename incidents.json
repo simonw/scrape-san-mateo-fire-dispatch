@@ -1,25 +1,58 @@
 [
     {
-        "id": "FF2301010",
+        "id": "SF2302002",
         "date": "2023-02-13",
-        "time": "8:26:37 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "8:40:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ALIDA WAY #231 ,SSF",
+        "location": "GEORGE AVE #3 ,SMO",
         "latitude": null,
         "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "NF2302012",
+        "date": "2023-02-13",
+        "time": "8:39:35 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN JUAN AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T95"
+    },
+    {
+        "id": "FF2301011",
+        "date": "2023-02-13",
+        "time": "8:37:18 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "101 MCLELLAN DR ,SSF",
+        "latitude": 37.6642962765265,
+        "longitude": -122.446854864105,
         "units": "E63"
     },
     {
-        "id": "BF2300637",
+        "id": "SF2302001",
         "date": "2023-02-13",
-        "time": "8:23:45 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "8:35:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVE ,SNB",
+        "location": "S GRANT ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": ">E24"
+    },
+    {
+        "id": "NF2302011",
+        "date": "2023-02-13",
+        "time": "8:32:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HIGATE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "FF2301009",
@@ -30,7 +63,7 @@
         "location": "HAWTHORNE PL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "LF2300191",
@@ -41,28 +74,6 @@
         "location": "WASHINGTON ST ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">BC19 >E86 CM31X1"
-    },
-    {
-        "id": "RF2301852",
-        "date": "2023-02-13",
-        "time": "8:11:42 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STAMBAUGH ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2302000",
-        "date": "2023-02-13",
-        "time": "8:02:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BRIDGEPOINTE PKWY #D236 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
+        "units": ">BC19 CM31X1 >E86"
     }
 ]
