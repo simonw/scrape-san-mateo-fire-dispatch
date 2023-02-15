@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2301450",
+        "date": "2023-02-15",
+        "time": "1:42:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAKWOOD DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T2"
+    },
+    {
+        "id": "CF2301144",
+        "date": "2023-02-15",
+        "time": "1:30:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "138 TOBIN CLARK DR ,HIL",
+        "latitude": 37.5426222892917,
+        "longitude": -122.332634768193,
+        "units": ">E25"
+    },
+    {
         "id": "WF2300336",
         "date": "2023-02-15",
         "time": "1:23:41 PM",
@@ -8,7 +30,7 @@
         "location": "PORTOLA RD #15 ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "?E8"
+        "units": ">E8"
     },
     {
         "id": "MF2301448",
@@ -19,7 +41,7 @@
         "location": "HAMILTON CT ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "MF2301447",
@@ -30,50 +52,6 @@
         "location": "VINE ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "NF2302097",
-        "date": "2023-02-15",
-        "time": "1:20:23 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - manual",
-        "location": "1000 KING DR ,DCY",
-        "latitude": 37.6505389057844,
-        "longitude": -122.469501173263,
-        "units": "E64"
-    },
-    {
-        "id": "NF2302096",
-        "date": "2023-02-15",
-        "time": "1:13:05 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CERRO DR #110 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2302070",
-        "date": "2023-02-15",
-        "time": "1:10:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TOWN GREEN LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "SF2302069",
-        "date": "2023-02-15",
-        "time": "1:10:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E4"
     }
 ]
