@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2301485",
+        "date": "2023-02-16",
+        "time": "11:41:41 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "555 MIDDLEFIELD RD ,ATN",
+        "latitude": 37.4611403701171,
+        "longitude": -122.17689987835,
+        "units": "?E1"
+    },
+    {
+        "id": "SF2302113",
+        "date": "2023-02-16",
+        "time": "11:32:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FRANKLIN PKWY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "NF2302139",
+        "date": "2023-02-16",
+        "time": "11:24:33 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KING DR #138 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "SF2302112",
         "date": "2023-02-16",
         "time": "11:18:49 AM",
@@ -8,7 +41,7 @@
         "location": "NOTRE DAME AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E24"
     },
     {
         "id": "SF2302111",
@@ -20,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T21"
-    },
-    {
-        "id": "CF2301169",
-        "date": "2023-02-16",
-        "time": "11:07:48 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TOBIN CLARK DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "SF2302109",
-        "date": "2023-02-16",
-        "time": "11:02:20 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLSDALE MALL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
     }
 ]
