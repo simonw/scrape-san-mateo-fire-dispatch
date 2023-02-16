@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2301493",
+        "date": "2023-02-16",
+        "time": "2:41:14 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "3322 ALAMEDA DE LAS PULGAS ,WMP",
+        "latitude": 37.4339424461797,
+        "longitude": -122.20630923618,
+        "units": "E4"
+    },
+    {
+        "id": "RF2301957",
+        "date": "2023-02-16",
+        "time": "2:40:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #118 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "FF2301058",
+        "date": "2023-02-16",
+        "time": "2:37:59 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MEMORIAL DR #7 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "SF2302123",
+        "date": "2023-02-16",
+        "time": "2:28:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WOODSIDE WAY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2301173",
+        "date": "2023-02-16",
+        "time": "2:28:33 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MAGNOLIA AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "MF2301491",
         "date": "2023-02-16",
         "time": "2:26:30 PM",
@@ -8,7 +63,7 @@
         "location": "RALMAR AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
+        "units": ">E2"
     },
     {
         "id": "FF2301057",
@@ -19,7 +74,7 @@
         "location": "GARDINER AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": ""
     },
     {
         "id": "CF2301172",
@@ -33,28 +88,6 @@
         "units": ">E51"
     },
     {
-        "id": "MF2301490",
-        "date": "2023-02-16",
-        "time": "2:15:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "MF2301489",
-        "date": "2023-02-16",
-        "time": "2:11:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E SELBY LN ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
         "id": "SF2302122",
         "date": "2023-02-16",
         "time": "2:11:10 PM",
@@ -63,6 +96,6 @@
         "location": "S DELAWARE ST #1 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24 CM21X1 >E21"
+        "units": "CM21X1"
     }
 ]
