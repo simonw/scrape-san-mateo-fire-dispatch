@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2301528",
+        "id": "SF2302175",
         "date": "2023-02-17",
-        "time": "3:24:26 PM",
+        "time": "3:38:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2301529",
+        "date": "2023-02-17",
+        "time": "3:35:10 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "EL CAMINO REAL / OAK GROVE AVE",
-        "latitude": 37.4542810456205,
-        "longitude": -122.184405330511,
-        "units": "BC1 E6 CM11X3 ?TAC15 ?T1"
+        "category": "Medical aid",
+        "location": "BERESFORD AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "SF2302173",
+        "date": "2023-02-17",
+        "time": "3:31:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL / 42ND AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
+    },
+    {
+        "id": "FF2301077",
+        "date": "2023-02-17",
+        "time": "3:31:28 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "400 CYPRESS AVE ,SSF",
+        "latitude": 37.6561807464064,
+        "longitude": -122.407657929677,
+        "units": ">Q62"
+    },
+    {
+        "id": "CF2301200",
+        "date": "2023-02-17",
+        "time": "3:26:17 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GERI LN ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
     },
     {
         "id": "NF2302181",
@@ -19,7 +63,7 @@
         "location": "CALLAN BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "T95 E65"
+        "units": ">T95"
     },
     {
         "id": "CF2301199",
@@ -30,61 +74,6 @@
         "location": "HILLSIDE DR / EL CAMINO REAL",
         "latitude": 37.587504222269,
         "longitude": -122.371900305292,
-        "units": ">T34"
-    },
-    {
-        "id": "SF2302172",
-        "date": "2023-02-17",
-        "time": "3:07:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "FF2301076",
-        "date": "2023-02-17",
-        "time": "3:06:01 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #12 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "CF2301198",
-        "date": "2023-02-17",
-        "time": "3:05:17 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CAROLAN AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "SF2302171",
-        "date": "2023-02-17",
-        "time": "3:05:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DOVER LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "MF2301527",
-        "date": "2023-02-17",
-        "time": "2:51:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CAMINO AL LAGO ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": ""
     }
 ]
