@@ -8,7 +8,18 @@
         "location": "BROADWAY #1312 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
+    },
+    {
+        "id": "CF2301178",
+        "date": "2023-02-16",
+        "time": "7:08:38 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "731 NEWHALL RD ,HIL",
+        "latitude": 37.5779620594382,
+        "longitude": -122.360080729703,
+        "units": "CM21X5 >T34 ?TAC25 >E34"
     },
     {
         "id": "BF2300662",
@@ -19,7 +30,7 @@
         "location": "701 SHELTER CREEK LN ,SNB",
         "latitude": 37.6196118935287,
         "longitude": -122.427952492168,
-        "units": "BC16 E51 E52 >CM31X1 T51?TAC35"
+        "units": ">CM31X1 ?TAC35"
     },
     {
         "id": "DF2300470",
@@ -30,7 +41,7 @@
         "location": "1707 CABRILLO HWY ,SOS",
         "latitude": 37.1274107894227,
         "longitude": -122.309953360817,
-        "units": "E59"
+        "units": ">E59"
     },
     {
         "id": "NF2302152",
@@ -42,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E92"
-    },
-    {
-        "id": "RF2301966",
-        "date": "2023-02-16",
-        "time": "6:58:49 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOPKINS AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "NF2302151",
-        "date": "2023-02-16",
-        "time": "6:56:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GENEVA AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "NF2302150",
-        "date": "2023-02-16",
-        "time": "6:55:51 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AURORA CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
     }
 ]
