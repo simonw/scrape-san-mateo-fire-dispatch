@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2301240",
+        "date": "2023-02-19",
+        "time": "7:43:24 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD BAYSHORE HWY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "RF2302070",
+        "date": "2023-02-19",
+        "time": "7:35:09 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO WHIPPLE AVE",
+        "latitude": 37.501502985081,
+        "longitude": -122.242206420289,
+        "units": ">E9 >E16 CM11X1 ?TAC16"
+    },
+    {
+        "id": "FF2301119",
+        "date": "2023-02-19",
+        "time": "7:31:43 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "AMBERWOOD CIR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
         "id": "NF2302271",
         "date": "2023-02-19",
         "time": "7:22:41 PM",
@@ -8,18 +41,7 @@
         "location": "DOCKSIDE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "MF2301584",
-        "date": "2023-02-19",
-        "time": "7:10:50 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #304 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": ">E92"
     },
     {
         "id": "HF2300616",
@@ -30,7 +52,7 @@
         "location": "CULEBRA LN ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "CM41X1 *>E41 >E44"
+        "units": "*>E41 >E44"
     },
     {
         "id": "RF2302067",
@@ -41,6 +63,6 @@
         "location": "626 CLEVELAND ST ,RCY",
         "latitude": 37.479169653197,
         "longitude": -122.233357141585,
-        "units": ">E3 ?TAC15 >BC1 CM11X4 >T9>BC3 PR3D >E10 >E12"
+        "units": ">TAC15 CM11X4 >T9 >BC3 PR3D>E10 >E12"
     }
 ]
