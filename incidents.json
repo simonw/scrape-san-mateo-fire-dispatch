@@ -1,5 +1,159 @@
 [
     {
+        "id": "FF2301151",
+        "date": "2023-02-21",
+        "time": "12:43:21 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HICKEY BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E94"
+    },
+    {
+        "id": "RF2302132",
+        "date": "2023-02-21",
+        "time": "12:41:49 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "216 POPLAR AVE ,RCY",
+        "latitude": 37.4748135781316,
+        "longitude": -122.22380528201,
+        "units": "?E6"
+    },
+    {
+        "id": "MF2301629",
+        "date": "2023-02-21",
+        "time": "12:40:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LABURNUM RD ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "SF2302325",
+        "date": "2023-02-21",
+        "time": "12:39:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "55 W 3RD AVE ,SMO",
+        "latitude": 37.5618758032939,
+        "longitude": -122.326979991003,
+        "units": "T21"
+    },
+    {
+        "id": "RF2302131",
+        "date": "2023-02-21",
+        "time": "12:38:49 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2686 SPRING ST ,NFO",
+        "latitude": 37.4821205623114,
+        "longitude": -122.208190642085,
+        "units": "E11"
+    },
+    {
+        "id": "FF2301150",
+        "date": "2023-02-21",
+        "time": "12:35:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "KENWOOD WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "RF2302130",
+        "date": "2023-02-21",
+        "time": "12:33:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "332 E OAKWOOD BLVD ,RCY",
+        "latitude": 37.467804381934,
+        "longitude": -122.216054568577,
+        "units": ">E10 >T9 E3 BC3 >E9CM11X2 ?TAC15"
+    },
+    {
+        "id": "CF2301287",
+        "date": "2023-02-21",
+        "time": "12:33:46 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Lock out - vehicle",
+        "location": "850 BURLINGAME AVE ,BRM",
+        "latitude": 37.5820806128897,
+        "longitude": -122.342580115816,
+        "units": ">T34"
+    },
+    {
+        "id": "NF2302329",
+        "date": "2023-02-21",
+        "time": "12:33:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "1255 SOUTHGATE AVE ,DCY",
+        "latitude": 37.6772341888287,
+        "longitude": -122.485691783592,
+        "units": "U94"
+    },
+    {
+        "id": "SF2302324",
+        "date": "2023-02-21",
+        "time": "12:32:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DOVE LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "FF2301149",
+        "date": "2023-02-21",
+        "time": "12:30:57 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "S MAGNOLIA AVE / MAYFAIR AVE",
+        "latitude": 37.6517476307946,
+        "longitude": -122.421474587946,
+        "units": ">E64"
+    },
+    {
+        "id": "NF2302328",
+        "date": "2023-02-21",
+        "time": "12:30:15 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "1129 RAINIER AVE ,PCF",
+        "latitude": 37.5918783924336,
+        "longitude": -122.463637711968,
+        "units": ">E72"
+    },
+    {
+        "id": "BF2300713",
+        "date": "2023-02-21",
+        "time": "12:28:47 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN BRUNO AVE W ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "SF2302323",
+        "date": "2023-02-21",
+        "time": "12:28:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "2253 BERMUDA DR ,SMO",
+        "latitude": 37.5477759085509,
+        "longitude": -122.295238813383,
+        "units": ">E23"
+    },
+    {
         "id": "SF2302322",
         "date": "2023-02-21",
         "time": "12:24:41 PM",
@@ -8,7 +162,7 @@
         "location": "1700 SHOREVIEW AVE ,SMO",
         "latitude": 37.5733046209064,
         "longitude": -122.306259596483,
-        "units": "?E24"
+        "units": ""
     },
     {
         "id": "CF2301286",
@@ -19,62 +173,7 @@
         "location": "2520 HAYWARD DR ,BRM",
         "latitude": 37.58463554656,
         "longitude": -122.386391350196,
-        "units": "E35"
-    },
-    {
-        "id": "MF2301628",
-        "date": "2023-02-21",
-        "time": "12:22:11 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "NF2302327",
-        "date": "2023-02-21",
-        "time": "12:18:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "12 MANOR PLZ ,PCF",
-        "latitude": 37.6502631676939,
-        "longitude": -122.491923245574,
-        "units": ">U71"
-    },
-    {
-        "id": "MF2301626",
-        "date": "2023-02-21",
-        "time": "12:17:42 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WERTH WAY ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2302129",
-        "date": "2023-02-21",
-        "time": "12:13:28 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "670 ISLAND PL ,RWS",
-        "latitude": 37.533457628678,
-        "longitude": -122.252194280006,
-        "units": ">E20"
-    },
-    {
-        "id": "MF2301627",
-        "date": "2023-02-21",
-        "time": "12:13:01 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "POPLAR AVE / BAY RD",
-        "latitude": 37.4704944342013,
-        "longitude": -122.149104987193,
-        "units": ">E77"
+        "units": ""
     },
     {
         "id": "BF2300712",
@@ -85,51 +184,7 @@
         "location": "SNEATH LN / SWEENEY RIDGE SNEATH ACCESS",
         "latitude": 37.6197148903665,
         "longitude": -122.454173952362,
-        "units": "CM31X1 >E52 >BC16"
-    },
-    {
-        "id": "SF2302320",
-        "date": "2023-02-21",
-        "time": "12:11:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "1101 E HILLSDALE BLVD ,FCY",
-        "latitude": 37.5618403524546,
-        "longitude": -122.269138686537,
-        "units": ">E28"
-    },
-    {
-        "id": "SF2302319",
-        "date": "2023-02-21",
-        "time": "12:08:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1327 MARLIN AVE ,FCY",
-        "latitude": 37.5622434044571,
-        "longitude": -122.254158499772,
-        "units": ">E26"
-    },
-    {
-        "id": "NF2302325",
-        "date": "2023-02-21",
-        "time": "12:05:15 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HICKEY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "FF2301148",
-        "date": "2023-02-21",
-        "time": "12:05:15 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "CALIFORNIA AVE / LINDEN AVE",
-        "latitude": 37.6580661861817,
-        "longitude": -122.409119468864,
-        "units": ">Q62"
+        "units": "CM31X1 >E2607 >E52 >BC16"
     },
     {
         "id": "FF2301147",
@@ -140,7 +195,7 @@
         "location": "121 LOMITAS AVE ,SSF",
         "latitude": 37.6517047528816,
         "longitude": -122.446815581098,
-        "units": ">BC17 >U94 ?TAC35 >E63 >E64CM31X4"
+        "units": ">BC17 ?TAC35 >E63 CM31X4"
     },
     {
         "id": "FF2301146",
@@ -152,38 +207,5 @@
         "latitude": 37.6546349478985,
         "longitude": -122.4530008848,
         "units": ">E61"
-    },
-    {
-        "id": "BF2300711",
-        "date": "2023-02-21",
-        "time": "12:00:52 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SHELTER CREEK LN ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "MF2301624",
-        "date": "2023-02-21",
-        "time": "11:52:39 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAND HILL CIR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "SF2302318",
-        "date": "2023-02-21",
-        "time": "11:47:49 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "30 MOUNDS RD ,SMO",
-        "latitude": 37.5674328195041,
-        "longitude": -122.332806946467,
-        "units": ">E32"
     }
 ]
