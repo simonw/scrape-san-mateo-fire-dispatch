@@ -1,36 +1,135 @@
 [
     {
+        "id": "CF2301284",
+        "date": "2023-02-21",
+        "time": "12:04:02 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "370 ADRIAN RD ,MLB",
+        "latitude": 37.6007868700718,
+        "longitude": -122.381300670247,
+        "units": "?E34"
+    },
+    {
+        "id": "FF2301147",
+        "date": "2023-02-21",
+        "time": "12:02:53 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Full assignment response",
+        "location": "121 LOMITAS AVE ,SSF",
+        "latitude": 37.6517047528816,
+        "longitude": -122.446815581098,
+        "units": "E64 E63 BC17 CM31X4 ?TAC35?E94 ?T51"
+    },
+    {
+        "id": "CF2301283",
+        "date": "2023-02-21",
+        "time": "12:02:18 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROCKRIDGE RD ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "T21"
+    },
+    {
+        "id": "FF2301146",
+        "date": "2023-02-21",
+        "time": "12:01:59 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Tree down",
+        "location": "JUNIPERO SERRA BLVD / KING DR",
+        "latitude": 37.6546349478985,
+        "longitude": -122.4530008848,
+        "units": ""
+    },
+    {
+        "id": "BF2300711",
+        "date": "2023-02-21",
+        "time": "12:00:52 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SHELTER CREEK LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "NF2302324",
+        "date": "2023-02-21",
+        "time": "11:59:21 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "109 BEACHVIEW AVE ,PCF",
+        "latitude": 37.6566547909457,
+        "longitude": -122.485460350961,
+        "units": "U71"
+    },
+    {
+        "id": "MF2301624",
+        "date": "2023-02-21",
+        "time": "11:52:39 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAND HILL CIR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "CF2301282",
+        "date": "2023-02-21",
+        "time": "11:52:27 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "NF2302323",
+        "date": "2023-02-21",
+        "time": "11:51:49 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MONTEREY ST ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "SF2302318",
+        "date": "2023-02-21",
+        "time": "11:47:49 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "30 MOUNDS RD ,SMO",
+        "latitude": 37.5674328195041,
+        "longitude": -122.332806946467,
+        "units": ">E32"
+    },
+    {
+        "id": "WF2300359",
+        "date": "2023-02-21",
+        "time": "11:46:42 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CORTO LN ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E7"
+    },
+    {
         "id": "BF2300710",
         "date": "2023-02-21",
         "time": "11:42:14 AM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "SB 280 / NO TROUSDALE DR",
+        "location": "SB 280 / SO LARKSPUR DR",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
-    },
-    {
-        "id": "SF2302317",
-        "date": "2023-02-21",
-        "time": "11:37:23 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD COUNTY RD #206 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "HF2300627",
-        "date": "2023-02-21",
-        "time": "11:32:57 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAYHILL PL ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
+        "units": ">E52"
     },
     {
         "id": "SF2302314",
@@ -41,6 +140,6 @@
         "location": "715 INDIAN AVE ,SMO",
         "latitude": 37.5771294416327,
         "longitude": -122.326812318259,
-        "units": ">E24"
+        "units": "*>E24"
     }
 ]
