@@ -1,14 +1,113 @@
 [
     {
-        "id": "RF2302184",
+        "id": "CF2301295",
         "date": "2023-02-21",
-        "time": "2:24:22 PM",
+        "time": "2:42:54 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Tree down",
+        "location": "CENTER ST / EL CAMINO REAL",
+        "latitude": 37.607772847602,
+        "longitude": -122.398879754454,
+        "units": "?E37"
+    },
+    {
+        "id": "MF2301670",
+        "date": "2023-02-21",
+        "time": "2:38:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO MARSH RD",
+        "latitude": 37.4775715102468,
+        "longitude": -122.169821019453,
+        "units": "E16"
+    },
+    {
+        "id": "SF2302339",
+        "date": "2023-02-21",
+        "time": "2:38:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #307 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "MF2301671",
+        "date": "2023-02-21",
+        "time": "2:38:23 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Pole fire",
+        "location": "1216 SAN MATEO DR ,MNP",
+        "latitude": 37.446619654961,
+        "longitude": -122.191302080585,
+        "units": ">E4"
+    },
+    {
+        "id": "HF2300631",
+        "date": "2023-02-21",
+        "time": "2:38:04 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "12310 SAN MATEO RD ,SON",
+        "latitude": 37.480277835255,
+        "longitude": -122.406942750279,
+        "units": "E40 ?FECC"
+    },
+    {
+        "id": "MF2301669",
+        "date": "2023-02-21",
+        "time": "2:37:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Pole fire",
+        "location": "COLLEGE AVE / UNIVERSITY DR",
+        "latitude": 37.445766402733,
+        "longitude": -122.179562021511,
+        "units": "?E1"
+    },
+    {
+        "id": "MF2301661",
+        "date": "2023-02-21",
+        "time": "2:32:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / SO MARSH RD",
+        "latitude": 37.4775111992726,
+        "longitude": -122.170198805936,
+        "units": ">E5"
+    },
+    {
+        "id": "BF2300719",
+        "date": "2023-02-21",
+        "time": "2:28:09 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "271 TULARE DR ,SNB",
+        "latitude": 37.6231537072057,
+        "longitude": -122.450226933675,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2302338",
+        "date": "2023-02-21",
+        "time": "2:27:02 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "22 S CLAREMONT ST ,SMO",
+        "latitude": 37.56868554796,
+        "longitude": -122.323437176031,
+        "units": ""
+    },
+    {
+        "id": "RF2302185",
+        "date": "2023-02-21",
+        "time": "2:25:43 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "1215 GORDON ST ,RCY",
-        "latitude": 37.47036828906,
-        "longitude": -122.231884310909,
-        "units": "?BC2 ?E7 ?E18 ?E10 ?T23"
+        "category": "Medical aid",
+        "location": "COUNTY CN ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
     },
     {
         "id": "NF2302341",
@@ -19,18 +118,7 @@
         "location": "72 HILL ST ,DCY",
         "latitude": 37.6884185045921,
         "longitude": -122.468765738257,
-        "units": "U94"
-    },
-    {
-        "id": "MF2301656",
-        "date": "2023-02-21",
-        "time": "2:19:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "700 HERMOSA WAY ,MNP",
-        "latitude": 37.4413632578615,
-        "longitude": -122.187786116796,
-        "units": "E4"
+        "units": ">U94"
     },
     {
         "id": "RF2302180",
@@ -41,7 +129,7 @@
         "location": "10 GREENWOOD LN ,RCY",
         "latitude": 37.4809739776837,
         "longitude": -122.212793545681,
-        "units": ">E9 ?VFIR23 >T9 ?CM11X1 >E13>BC3 >E11"
+        "units": "?VFIR23 ?CM11X1 >E11"
     },
     {
         "id": "MF2301654",
@@ -63,7 +151,7 @@
         "location": "2785 HUNTER ST ,EPA",
         "latitude": 37.4808701870603,
         "longitude": -122.137663447341,
-        "units": "E2 ?CM11X2 ?TAC16 BC101 E16E5 >T2"
+        "units": ">E2 ?CM11X2 ?TAC16 >E77 >BC101>T2"
     },
     {
         "id": "FF2301158",
@@ -85,7 +173,7 @@
         "location": "ALTA VISTA DR #12 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": "Q62"
     },
     {
         "id": "MF2301647",
@@ -118,18 +206,7 @@
         "location": "906 GLEN WAY ,HIL",
         "latitude": 37.5772985134035,
         "longitude": -122.377286918554,
-        "units": "CM21X1 >BC108 ?TAC25 >E33"
-    },
-    {
-        "id": "NF2302338",
-        "date": "2023-02-21",
-        "time": "1:58:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CALLAN BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM21X1 ?TAC25"
     },
     {
         "id": "SF2302336",
@@ -140,7 +217,7 @@
         "location": "1101 SHOREWAY RD ,BLM",
         "latitude": 37.5262331209257,
         "longitude": -122.267424264846,
-        "units": "?TAC15 ?CM11X4 >E25"
+        "units": ">E25 PR5C"
     },
     {
         "id": "SF2302335",
@@ -151,7 +228,7 @@
         "location": "111 LAURIE MEADOWS DR ,SMO",
         "latitude": 37.532284145817,
         "longitude": -122.281640937291,
-        "units": ">E28"
+        "units": ""
     },
     {
         "id": "RF2302172",
@@ -163,17 +240,6 @@
         "latitude": 37.4714597571563,
         "longitude": -122.231261721781,
         "units": ""
-    },
-    {
-        "id": "MF2301642",
-        "date": "2023-02-21",
-        "time": "1:50:30 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "BOHANNON DR / MARSH RD",
-        "latitude": 37.4788137711818,
-        "longitude": -122.185538506827,
-        "units": "?VFIR22 ?CM11X3"
     },
     {
         "id": "RF2302170",
@@ -316,17 +382,6 @@
         "location": "SNEATH LN / SWEENEY RIDGE SNEATH ACCESS",
         "latitude": 37.6197148903665,
         "longitude": -122.454173952362,
-        "units": "E2609 E318 >E65 >E2608 ?WTG>E2607 >E2606 >E52 >E51 CM31X1"
-    },
-    {
-        "id": "FF2301147",
-        "date": "2023-02-21",
-        "time": "12:02:53 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "121 LOMITAS AVE ,SSF",
-        "latitude": 37.6517047528816,
-        "longitude": -122.446815581098,
-        "units": ">E63"
+        "units": ">E2609 E318 >E65 >E2608 ?WTG>E2607 >E2606 >E2610 >E52 >E51"
     }
 ]
