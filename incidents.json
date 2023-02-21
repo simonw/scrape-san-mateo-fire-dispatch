@@ -1,46 +1,90 @@
 [
     {
-        "id": "NF2302318",
+        "id": "NF2302320",
         "date": "2023-02-21",
-        "time": "9:58:25 AM",
+        "time": "10:27:11 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "2000 SHORELINE CT ,BRS",
-        "latitude": 37.6721863760177,
-        "longitude": -122.388632580806,
-        "units": ">E81"
-    },
-    {
-        "id": "MF2301620",
-        "date": "2023-02-21",
-        "time": "9:57:42 AM",
-        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "CAPITOL AVE #1 ,EPA",
+        "location": "JUNIPERO SERRA BLVD #423 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
+        "units": "E92"
     },
     {
-        "id": "MF2301619",
+        "id": "FF2301144",
         "date": "2023-02-21",
-        "time": "9:52:14 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident - structure",
-        "location": "1 NEWELL CT #1110 ,EPA",
-        "latitude": 37.4575065373593,
-        "longitude": -122.138167024941,
-        "units": ">T2"
-    },
-    {
-        "id": "CF2301280",
-        "date": "2023-02-21",
-        "time": "9:51:48 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "10:27:00 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BRM",
+        "location": "WILLOW AVE #3 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": "E63"
+    },
+    {
+        "id": "FF2301143",
+        "date": "2023-02-21",
+        "time": "10:26:36 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "OLIVE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "NF2302319",
+        "date": "2023-02-21",
+        "time": "10:24:36 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "RF2302126",
+        "date": "2023-02-21",
+        "time": "10:24:04 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "196 ORCHARD AVE ,RCY",
+        "latitude": 37.4653154274603,
+        "longitude": -122.220763354709,
+        "units": "E10"
+    },
+    {
+        "id": "SF2302310",
+        "date": "2023-02-21",
+        "time": "10:23:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "TAHOE DR / YOSEMITE DR",
+        "latitude": 37.5117581146606,
+        "longitude": -122.314009842273,
+        "units": "E15"
+    },
+    {
+        "id": "SF2302309",
+        "date": "2023-02-21",
+        "time": "10:20:40 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOBART AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "RF2302125",
+        "date": "2023-02-21",
+        "time": "10:13:12 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELM ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
     }
 ]
