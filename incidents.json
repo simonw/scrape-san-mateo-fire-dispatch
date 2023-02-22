@@ -1,14 +1,80 @@
 [
     {
-        "id": "HF2300664",
+        "id": "RF2302265",
         "date": "2023-02-22",
-        "time": "10:28:13 AM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "10:40:54 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "610 ACACIA LN ,EML",
+        "latitude": 37.4654198640069,
+        "longitude": -122.261871898545,
+        "units": "E12"
+    },
+    {
+        "id": "CF2301345",
+        "date": "2023-02-22",
+        "time": "10:40:42 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVENUE BALBOA / CORONADO ST",
+        "location": "ROCKRIDGE RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "?E41"
+        "units": "E32"
+    },
+    {
+        "id": "HF2300666",
+        "date": "2023-02-22",
+        "time": "10:40:13 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "745 MILL ST ,HMB",
+        "latitude": 37.4648205236062,
+        "longitude": -122.428290179988,
+        "units": "E40"
+    },
+    {
+        "id": "RF2302264",
+        "date": "2023-02-22",
+        "time": "10:39:11 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRITTAN AVE #7 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
+        "id": "DF2300518",
+        "date": "2023-02-22",
+        "time": "10:38:57 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "9713 ALPINE RD ,SOS",
+        "latitude": 37.2942438838576,
+        "longitude": -122.241650174274,
+        "units": "E58 ?CO57"
+    },
+    {
+        "id": "HF2300665",
+        "date": "2023-02-22",
+        "time": "10:35:55 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "750 THE ALAMEDA ,ELG",
+        "latitude": 37.5023380981267,
+        "longitude": -122.466968442443,
+        "units": ">E41"
+    },
+    {
+        "id": "NF2302424",
+        "date": "2023-02-22",
+        "time": "10:33:28 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SCHWERIN ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
     },
     {
         "id": "SF2302412",
@@ -19,7 +85,7 @@
         "location": "N BAYSHORE BLVD #3 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "BF2300745",
@@ -30,51 +96,7 @@
         "location": "GLENVIEW DR #108 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "MF2301798",
-        "date": "2023-02-22",
-        "time": "10:13:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "134 TUSCALOOSA AVE ,ATN",
-        "latitude": 37.4551680715714,
-        "longitude": -122.209124026818,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2302263",
-        "date": "2023-02-22",
-        "time": "10:12:47 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1498 ODDSTAD DR ,RCY",
-        "latitude": 37.489626010442,
-        "longitude": -122.216605050778,
-        "units": ">T9"
-    },
-    {
-        "id": "MF2301797",
-        "date": "2023-02-22",
-        "time": "10:09:10 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "2211 EUCLID AVE ,EPA",
-        "latitude": 37.4661374808407,
-        "longitude": -122.143649880257,
-        "units": ">E77"
-    },
-    {
-        "id": "NF2302422",
-        "date": "2023-02-22",
-        "time": "10:06:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DOCKSIDE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": "*>E52"
     },
     {
         "id": "DF2300516",
@@ -86,17 +108,6 @@
         "latitude": 37.2941859111939,
         "longitude": -122.241669453471,
         "units": ">E357"
-    },
-    {
-        "id": "SF2302410",
-        "date": "2023-02-22",
-        "time": "10:02:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREVIEW AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
     },
     {
         "id": "NF2302423",
