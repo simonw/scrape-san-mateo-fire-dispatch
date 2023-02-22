@@ -1,25 +1,91 @@
 [
     {
-        "id": "BF2300738",
+        "id": "MF2301752",
         "date": "2023-02-21",
-        "time": "7:04:41 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Pole fire",
-        "location": "3820 COLBY WAY ,SNB",
-        "latitude": 37.6329041057046,
-        "longitude": -122.466322972664,
-        "units": "E94"
+        "time": "7:21:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "5 NEWELL RD ,EPA",
+        "latitude": 37.4549212803261,
+        "longitude": -122.137017987316,
+        "units": "E77"
     },
     {
-        "id": "BF2300739",
+        "id": "NF2302386",
         "date": "2023-02-21",
-        "time": "7:04:36 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "7:20:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "LAKE MERCED BLVD / JOHN MUIR DR",
+        "latitude": 37.7080851307938,
+        "longitude": -122.485724047882,
+        "units": "?NFAEOC"
+    },
+    {
+        "id": "FF2301194",
+        "date": "2023-02-21",
+        "time": "7:20:16 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "27 LEWIS AVE ,SSF",
+        "latitude": 37.6634948115972,
+        "longitude": -122.403992639986,
+        "units": ">E65"
+    },
+    {
+        "id": "RF2302244",
+        "date": "2023-02-21",
+        "time": "7:17:05 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Fire alarm - smoke detector",
-        "location": "125 PIEDMONT AVE ,SNB",
-        "latitude": 37.6089354342786,
-        "longitude": -122.430231175828,
-        "units": "E63"
+        "location": "750 EDGEWOOD RD ,RCY",
+        "latitude": 37.4868951009146,
+        "longitude": -122.249397206652,
+        "units": ">E16"
+    },
+    {
+        "id": "HF2300653",
+        "date": "2023-02-21",
+        "time": "7:16:54 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "MAIN ST / 8TH ST",
+        "latitude": 37.5413919688789,
+        "longitude": -122.515649260304,
+        "units": "E41"
+    },
+    {
+        "id": "SF2302381",
+        "date": "2023-02-21",
+        "time": "7:10:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO 92",
+        "latitude": 37.5627460005368,
+        "longitude": -122.305327217889,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2302385",
+        "date": "2023-02-21",
+        "time": "7:10:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "265 GATEWAY DR ,PCF",
+        "latitude": 37.6621726487443,
+        "longitude": -122.47882452406,
+        "units": ">E71"
+    },
+    {
+        "id": "NF2302384",
+        "date": "2023-02-21",
+        "time": "7:09:30 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUMBOLDT RD ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
     },
     {
         "id": "SF2302380",
@@ -33,17 +99,6 @@
         "units": ">E15"
     },
     {
-        "id": "RF2302243",
-        "date": "2023-02-21",
-        "time": "6:59:40 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POPLAR AVE #10 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
         "id": "HF2300652",
         "date": "2023-02-21",
         "time": "6:59:32 PM",
@@ -52,7 +107,18 @@
         "location": "CABRILLO HWY S / MIRAMONTES POINT RD",
         "latitude": 37.4313221983695,
         "longitude": -122.426677017263,
-        "units": "E40"
+        "units": ""
+    },
+    {
+        "id": "NF2302382",
+        "date": "2023-02-21",
+        "time": "6:59:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "431 HEATHCLIFF DR ,PCF",
+        "latitude": 37.6495601876933,
+        "longitude": -122.476920544486,
+        "units": ">U71"
     },
     {
         "id": "FF2301192",
@@ -85,29 +151,7 @@
         "location": "2320 BRITTAN AVE ,SNC",
         "latitude": 37.4921457464279,
         "longitude": -122.264551215293,
-        "units": ">E16"
-    },
-    {
-        "id": "BF2300737",
-        "date": "2023-02-21",
-        "time": "6:56:20 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "448 ANGUS AVE E ,SNB",
-        "latitude": 37.6269149011115,
-        "longitude": -122.406959570948,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2302379",
-        "date": "2023-02-21",
-        "time": "6:51:36 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "411 BOREL AVE ,SMO",
-        "latitude": 37.5483812246773,
-        "longitude": -122.320176716985,
-        "units": ">E25"
+        "units": ""
     },
     {
         "id": "MF2301748",
@@ -119,17 +163,6 @@
         "latitude": 37.4580024369701,
         "longitude": -122.154514369444,
         "units": ">E1"
-    },
-    {
-        "id": "RF2302241",
-        "date": "2023-02-21",
-        "time": "6:46:40 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PYXIE LN ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
     },
     {
         "id": "FF2301189",
@@ -154,17 +187,6 @@
         "units": ">U72"
     },
     {
-        "id": "WF2300369",
-        "date": "2023-02-21",
-        "time": "6:26:34 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "SKYWOOD WAY / LA HONDA RD",
-        "latitude": 37.3927322695448,
-        "longitude": -122.261371894566,
-        "units": ""
-    },
-    {
         "id": "HF2300646",
         "date": "2023-02-21",
         "time": "6:12:49 PM",
@@ -173,7 +195,7 @@
         "location": "1220 CEDAR ST ,MON",
         "latitude": 37.5397759322828,
         "longitude": -122.505418207243,
-        "units": "CM41X2 >E44 TAC46"
+        "units": ">E44"
     },
     {
         "id": "RF2302236",
@@ -209,17 +231,6 @@
         "units": ">E6"
     },
     {
-        "id": "DF2300504",
-        "date": "2023-02-21",
-        "time": "5:44:34 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1127 PARROTT DR ,EIC",
-        "latitude": 37.5390224986827,
-        "longitude": -122.345879170754,
-        "units": ""
-    },
-    {
         "id": "RF2302229",
         "date": "2023-02-21",
         "time": "5:39:31 PM",
@@ -228,7 +239,7 @@
         "location": "441 SEAPORT BLVD ,RCY",
         "latitude": 37.5034648669877,
         "longitude": -122.210582971238,
-        "units": ">BOAT9 CM51X1 >T9"
+        "units": ">BOAT9 CM51X1"
     },
     {
         "id": "DF2300502",
@@ -284,6 +295,28 @@
         "latitude": 37.6472021284725,
         "longitude": -122.395343102223,
         "units": ">E61"
+    },
+    {
+        "id": "MF2301710",
+        "date": "2023-02-21",
+        "time": "3:45:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "148 SPRUCE AVE ,MNP",
+        "latitude": 37.4602299444494,
+        "longitude": -122.193629983615,
+        "units": ">E3"
+    },
+    {
+        "id": "MF2301691",
+        "date": "2023-02-21",
+        "time": "3:15:40 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "2405 GONZAGA ST ,EPA",
+        "latitude": 37.4719190639874,
+        "longitude": -122.136415740648,
+        "units": "?T2"
     },
     {
         "id": "MF2301651",
