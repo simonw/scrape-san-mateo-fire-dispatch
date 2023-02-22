@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2301347",
+        "date": "2023-02-22",
+        "time": "11:01:19 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1074A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E38"
+    },
+    {
+        "id": "MF2301799",
+        "date": "2023-02-22",
+        "time": "10:50:47 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2302266",
+        "date": "2023-02-22",
+        "time": "10:50:32 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "FF2301206",
+        "date": "2023-02-22",
+        "time": "10:50:04 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CORTEZ AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "RF2302265",
         "date": "2023-02-22",
         "time": "10:40:54 AM",
@@ -8,7 +52,7 @@
         "location": "610 ACACIA LN ,EML",
         "latitude": 37.4654198640069,
         "longitude": -122.261871898545,
-        "units": "E12"
+        "units": ">E12"
     },
     {
         "id": "CF2301345",
@@ -19,18 +63,7 @@
         "location": "ROCKRIDGE RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E32"
-    },
-    {
-        "id": "HF2300666",
-        "date": "2023-02-22",
-        "time": "10:40:13 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "745 MILL ST ,HMB",
-        "latitude": 37.4648205236062,
-        "longitude": -122.428290179988,
-        "units": "E40"
+        "units": ">E32"
     },
     {
         "id": "RF2302264",
@@ -44,28 +77,6 @@
         "units": ">E18"
     },
     {
-        "id": "DF2300518",
-        "date": "2023-02-22",
-        "time": "10:38:57 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "9713 ALPINE RD ,SOS",
-        "latitude": 37.2942438838576,
-        "longitude": -122.241650174274,
-        "units": "E58 ?CO57"
-    },
-    {
-        "id": "HF2300665",
-        "date": "2023-02-22",
-        "time": "10:35:55 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "750 THE ALAMEDA ,ELG",
-        "latitude": 37.5023380981267,
-        "longitude": -122.466968442443,
-        "units": ">E41"
-    },
-    {
         "id": "NF2302424",
         "date": "2023-02-22",
         "time": "10:33:28 AM",
@@ -77,28 +88,6 @@
         "units": ">E93"
     },
     {
-        "id": "SF2302412",
-        "date": "2023-02-22",
-        "time": "10:22:25 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N BAYSHORE BLVD #3 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "BF2300745",
-        "date": "2023-02-22",
-        "time": "10:14:50 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GLENVIEW DR #108 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E52"
-    },
-    {
         "id": "DF2300516",
         "date": "2023-02-22",
         "time": "10:03:40 AM",
@@ -108,27 +97,5 @@
         "latitude": 37.2941859111939,
         "longitude": -122.241669453471,
         "units": ">E357"
-    },
-    {
-        "id": "NF2302423",
-        "date": "2023-02-22",
-        "time": "10:02:22 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "FRANCISCAN DR / FRIGATE LN",
-        "latitude": 37.6863811801938,
-        "longitude": -122.449890688571,
-        "units": "U94"
-    },
-    {
-        "id": "MF2301795",
-        "date": "2023-02-22",
-        "time": "9:59:49 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "651 18TH AVE ,NFO",
-        "latitude": 37.4729094927602,
-        "longitude": -122.190399044049,
-        "units": ">E5"
     }
 ]
