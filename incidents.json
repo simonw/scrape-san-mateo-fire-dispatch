@@ -1,5 +1,104 @@
 [
     {
+        "id": "BF2300738",
+        "date": "2023-02-21",
+        "time": "7:04:41 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Pole fire",
+        "location": "3820 COLBY WAY ,SNB",
+        "latitude": 37.6329041057046,
+        "longitude": -122.466322972664,
+        "units": "E94"
+    },
+    {
+        "id": "BF2300739",
+        "date": "2023-02-21",
+        "time": "7:04:36 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "125 PIEDMONT AVE ,SNB",
+        "latitude": 37.6089354342786,
+        "longitude": -122.430231175828,
+        "units": "E63"
+    },
+    {
+        "id": "SF2302380",
+        "date": "2023-02-21",
+        "time": "7:01:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LADERA WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "RF2302243",
+        "date": "2023-02-21",
+        "time": "6:59:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "POPLAR AVE #10 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "HF2300652",
+        "date": "2023-02-21",
+        "time": "6:59:32 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "CABRILLO HWY S / MIRAMONTES POINT RD",
+        "latitude": 37.4313221983695,
+        "longitude": -122.426677017263,
+        "units": "E40"
+    },
+    {
+        "id": "FF2301192",
+        "date": "2023-02-21",
+        "time": "6:57:55 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "2460 ERIN PL ,SSF",
+        "latitude": 37.6397667471923,
+        "longitude": -122.45557107749,
+        "units": ">E64"
+    },
+    {
+        "id": "DF2300508",
+        "date": "2023-02-21",
+        "time": "6:57:27 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "20 TIPTOE LN ,BRH",
+        "latitude": 37.5690176130447,
+        "longitude": -122.389384760028,
+        "units": ">E33"
+    },
+    {
+        "id": "RF2302242",
+        "date": "2023-02-21",
+        "time": "6:56:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "2320 BRITTAN AVE ,SNC",
+        "latitude": 37.4921457464279,
+        "longitude": -122.264551215293,
+        "units": ">E16"
+    },
+    {
+        "id": "BF2300737",
+        "date": "2023-02-21",
+        "time": "6:56:20 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "448 ANGUS AVE E ,SNB",
+        "latitude": 37.6269149011115,
+        "longitude": -122.406959570948,
+        "units": ">E51"
+    },
+    {
         "id": "SF2302379",
         "date": "2023-02-21",
         "time": "6:51:36 PM",
@@ -8,7 +107,7 @@
         "location": "411 BOREL AVE ,SMO",
         "latitude": 37.5483812246773,
         "longitude": -122.320176716985,
-        "units": "E25"
+        "units": ">E25"
     },
     {
         "id": "MF2301748",
@@ -19,7 +118,7 @@
         "location": "315A CENTRAL AVE ,MNP",
         "latitude": 37.4580024369701,
         "longitude": -122.154514369444,
-        "units": "E1"
+        "units": ">E1"
     },
     {
         "id": "RF2302241",
@@ -33,39 +132,6 @@
         "units": ">E18"
     },
     {
-        "id": "CF2301318",
-        "date": "2023-02-21",
-        "time": "6:44:14 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "2125 OAKS DR ,HIL",
-        "latitude": 37.5759688335971,
-        "longitude": -122.371265225963,
-        "units": ">E24"
-    },
-    {
-        "id": "FF2301191",
-        "date": "2023-02-21",
-        "time": "6:43:03 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "NEWMAN DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "WF2300372",
-        "date": "2023-02-21",
-        "time": "6:42:37 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "115 NORMANDY LN ,WDS",
-        "latitude": 37.4527775699288,
-        "longitude": -122.239462832938,
-        "units": ">E10"
-    },
-    {
         "id": "FF2301189",
         "date": "2023-02-21",
         "time": "6:41:29 PM",
@@ -74,18 +140,7 @@
         "location": "UTAH AVE / HARBOR WAY",
         "latitude": 37.6467302424784,
         "longitude": -122.399735820193,
-        "units": ">E37"
-    },
-    {
-        "id": "CF2301317",
-        "date": "2023-02-21",
-        "time": "6:37:49 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "1633 OLD BAYSHORE HWY ,BRM",
-        "latitude": 37.5996378965416,
-        "longitude": -122.369115399686,
-        "units": ">T34"
+        "units": ">Q62"
     },
     {
         "id": "NF2302378",
@@ -99,39 +154,6 @@
         "units": ">U72"
     },
     {
-        "id": "NF2302377",
-        "date": "2023-02-21",
-        "time": "6:33:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MONTEREY ST ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "DF2300507",
-        "date": "2023-02-21",
-        "time": "6:33:18 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "150 ROQUENA DR ,LAH",
-        "latitude": 37.3229222560203,
-        "longitude": -122.268229259469,
-        "units": ">E357 >R57"
-    },
-    {
-        "id": "MF2301744",
-        "date": "2023-02-21",
-        "time": "6:31:12 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1920 COOLEY AVE ,EPA",
-        "latitude": 37.4562286719395,
-        "longitude": -122.138207876783,
-        "units": ""
-    },
-    {
         "id": "WF2300369",
         "date": "2023-02-21",
         "time": "6:26:34 PM",
@@ -143,39 +165,6 @@
         "units": ""
     },
     {
-        "id": "SF2302374",
-        "date": "2023-02-21",
-        "time": "6:20:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W 38TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2302375",
-        "date": "2023-02-21",
-        "time": "6:20:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Tree down",
-        "location": "MEADOW VIEW PL / KEHOE AVE",
-        "latitude": 37.5655195021844,
-        "longitude": -122.297498870061,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2301740",
-        "date": "2023-02-21",
-        "time": "6:15:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #101 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "HF2300646",
         "date": "2023-02-21",
         "time": "6:12:49 PM",
@@ -184,18 +173,7 @@
         "location": "1220 CEDAR ST ,MON",
         "latitude": 37.5397759322828,
         "longitude": -122.505418207243,
-        "units": "CM41X2 >E44 TAC46 >BC10"
-    },
-    {
-        "id": "CF2301313",
-        "date": "2023-02-21",
-        "time": "6:11:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "1148 OXFORD RD ,BRM",
-        "latitude": 37.5899261407848,
-        "longitude": -122.374715922299,
-        "units": ">E34"
+        "units": "CM41X2 >E44 TAC46"
     },
     {
         "id": "RF2302236",
@@ -239,7 +217,7 @@
         "location": "1127 PARROTT DR ,EIC",
         "latitude": 37.5390224986827,
         "longitude": -122.345879170754,
-        "units": ">E27"
+        "units": ""
     },
     {
         "id": "RF2302229",
@@ -251,17 +229,6 @@
         "latitude": 37.5034648669877,
         "longitude": -122.210582971238,
         "units": ">BOAT9 CM51X1 >T9"
-    },
-    {
-        "id": "HF2300640",
-        "date": "2023-02-21",
-        "time": "5:28:53 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "551 SAN MATEO RD ,HMB",
-        "latitude": 37.4706530994798,
-        "longitude": -122.421382423093,
-        "units": "?TAC45 ?CM41X4"
     },
     {
         "id": "DF2300502",
@@ -319,17 +286,6 @@
         "units": ">E61"
     },
     {
-        "id": "HF2300631",
-        "date": "2023-02-21",
-        "time": "2:38:04 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Landscape fire",
-        "location": "12310 SAN MATEO RD ,SON",
-        "latitude": 37.480277835255,
-        "longitude": -122.406942750279,
-        "units": ">E140 >PR10B"
-    },
-    {
         "id": "MF2301651",
         "date": "2023-02-21",
         "time": "2:08:59 PM",
@@ -349,6 +305,6 @@
         "location": "SNEATH LN / SWEENEY RIDGE SNEATH ACCESS",
         "latitude": 37.6197148903665,
         "longitude": -122.454173952362,
-        "units": ">E2609 >E2608 >E2607 >E2606 >E2610>E52 >BC16 >WT156 TAC36 >BC11"
+        "units": ">E2608 >E2607 >E2606 >E2610 >E52>BC16 >WT156 TAC36 >BC11"
     }
 ]
