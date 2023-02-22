@@ -1,14 +1,58 @@
 [
     {
-        "id": "NF2302416",
+        "id": "NF2302417",
         "date": "2023-02-22",
-        "time": "9:22:23 AM",
+        "time": "9:39:17 AM",
         "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "1480 S MAYFAIR AVE ,DCY",
+        "latitude": 37.6838372999708,
+        "longitude": -122.488336034624,
+        "units": "U94"
+    },
+    {
+        "id": "BF2300744",
+        "date": "2023-02-22",
+        "time": "9:35:09 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "SB 280 / CRYSTAL SPRINGS RD OFF RAMP",
+        "latitude": 37.6189297261568,
+        "longitude": -122.424989047455,
+        "units": "E38 TAC35 E52 CM31X5"
+    },
+    {
+        "id": "SF2302409",
+        "date": "2023-02-22",
+        "time": "9:29:49 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "EVERGREEN AVE ,DCY",
+        "location": "FERNWOOD ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": ">E23"
+    },
+    {
+        "id": "RF2302262",
+        "date": "2023-02-22",
+        "time": "9:28:53 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "88 CLAREMONT AVE ,RCY",
+        "latitude": 37.4903267732032,
+        "longitude": -122.242324485922,
+        "units": "T9"
+    },
+    {
+        "id": "HF2300663",
+        "date": "2023-02-22",
+        "time": "9:28:38 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST #125N ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
     },
     {
         "id": "WF2300379",
@@ -19,18 +63,7 @@
         "location": "744 LAKEVIEW WAY ,EML",
         "latitude": 37.4643290429839,
         "longitude": -122.266825824089,
-        "units": "E12"
-    },
-    {
-        "id": "NF2302415",
-        "date": "2023-02-22",
-        "time": "9:20:38 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OAKMONT DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": "E9 CM11X1 >E12"
     },
     {
         "id": "SF2302408",
@@ -42,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E29"
-    },
-    {
-        "id": "MF2301791",
-        "date": "2023-02-22",
-        "time": "8:57:52 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "125 SPRUCE AVE ,MNP",
-        "latitude": 37.4601296939196,
-        "longitude": -122.194485739514,
-        "units": ">BC1 >SQ401"
-    },
-    {
-        "id": "NF2302411",
-        "date": "2023-02-22",
-        "time": "8:22:25 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "CHESTER ST / ORANGE ST",
-        "latitude": 37.6909139561547,
-        "longitude": -122.455671777009,
-        "units": ">U94"
     }
 ]
