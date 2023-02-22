@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2301211",
+        "date": "2023-02-22",
+        "time": "2:36:12 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Tree down",
+        "location": "248 ALTA VISTA DR ,SSF",
+        "latitude": 37.6427038100156,
+        "longitude": -122.430585548308,
+        "units": "E61"
+    },
+    {
+        "id": "MF2301813",
+        "date": "2023-02-22",
+        "time": "2:31:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "BAY RD / LAUREL AVE",
+        "latitude": 37.4701427374161,
+        "longitude": -122.151847394864,
+        "units": ">T2"
+    },
+    {
+        "id": "MF2301812",
+        "date": "2023-02-22",
+        "time": "2:27:34 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "2405 GONZAGA ST ,EPA",
+        "latitude": 37.4720700954978,
+        "longitude": -122.136419054477,
+        "units": ""
+    },
+    {
         "id": "NF2302431",
         "date": "2023-02-22",
         "time": "2:21:20 PM",
@@ -8,7 +41,7 @@
         "location": "JUNIPERO SERRA BLVD #DIALYSIS ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ""
     },
     {
         "id": "DF2300520",
@@ -19,51 +52,7 @@
         "location": "LOS ALTOS DR ,EIC",
         "latitude": null,
         "longitude": null,
-        "units": ">E17"
-    },
-    {
-        "id": "NF2302430",
-        "date": "2023-02-22",
-        "time": "2:06:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HAMPSHIRE CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "CF2301356",
-        "date": "2023-02-22",
-        "time": "2:06:17 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "BROADWAY / EL CAMINO REAL",
-        "latitude": 37.5842041813247,
-        "longitude": -122.366256539724,
-        "units": ">T34"
-    },
-    {
-        "id": "LF2300225",
-        "date": "2023-02-22",
-        "time": "2:03:32 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "1370 EL CAMINO REAL ,CLM",
-        "latitude": 37.6800473844153,
-        "longitude": -122.461752506084,
-        "units": ">E86"
-    },
-    {
-        "id": "NF2302429",
-        "date": "2023-02-22",
-        "time": "1:59:45 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CORONADO AVE #14 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ""
     },
     {
         "id": "SF2302426",
@@ -74,6 +63,6 @@
         "location": "1241 E HILLSDALE BLVD ,FCY",
         "latitude": 37.5679487966639,
         "longitude": -122.267541044686,
-        "units": ">HM32 >DEM55 >BC5 >DEM51 CM21X3?TAC25 >MED5 >E15 >HM14 >E29"
+        "units": ">HM32 >BC5 >DEM51 CM21X3 ?TAC25>MED5 >E15 >HM14 >E29 >E27"
     }
 ]
