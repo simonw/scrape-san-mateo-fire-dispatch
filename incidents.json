@@ -1,58 +1,58 @@
 [
     {
-        "id": "FF2301211",
+        "id": "FF2301214",
         "date": "2023-02-22",
-        "time": "2:36:12 PM",
+        "time": "3:01:32 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Tree down",
-        "location": "248 ALTA VISTA DR ,SSF",
-        "latitude": 37.6427038100156,
-        "longitude": -122.430585548308,
-        "units": "E61"
+        "category": "Medical aid",
+        "location": "VERANO DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
     },
     {
-        "id": "MF2301813",
+        "id": "RF2302279",
         "date": "2023-02-22",
-        "time": "2:31:50 PM",
+        "time": "2:59:54 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GREENWOOD LN ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E11"
+    },
+    {
+        "id": "FF2301213",
+        "date": "2023-02-22",
+        "time": "2:59:52 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "COMMERCIAL AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "RF2302278",
+        "date": "2023-02-22",
+        "time": "2:58:10 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NUEVA AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T9"
+    },
+    {
+        "id": "MF2301814",
+        "date": "2023-02-22",
+        "time": "2:57:18 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "BAY RD / LAUREL AVE",
-        "latitude": 37.4701427374161,
-        "longitude": -122.151847394864,
+        "category": "Medical aid",
+        "location": "UNIVERSITY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
         "units": ">T2"
-    },
-    {
-        "id": "MF2301812",
-        "date": "2023-02-22",
-        "time": "2:27:34 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "2405 GONZAGA ST ,EPA",
-        "latitude": 37.4720700954978,
-        "longitude": -122.136419054477,
-        "units": ""
-    },
-    {
-        "id": "NF2302431",
-        "date": "2023-02-22",
-        "time": "2:21:20 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD #DIALYSIS ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "DF2300520",
-        "date": "2023-02-22",
-        "time": "2:08:51 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LOS ALTOS DR ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "SF2302426",
@@ -63,6 +63,6 @@
         "location": "1241 E HILLSDALE BLVD ,FCY",
         "latitude": 37.5679487966639,
         "longitude": -122.267541044686,
-        "units": ">HM32 >BC5 >DEM51 CM21X3 ?TAC25>MED5 >E15 >HM14 >E29 >E27"
+        "units": ">HM32 >BC5 >MED5 >E15 >HM14>T21"
     }
 ]
