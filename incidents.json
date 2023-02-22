@@ -1,14 +1,58 @@
 [
     {
+        "id": "NF2302431",
+        "date": "2023-02-22",
+        "time": "2:21:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD #DIALYSIS ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "DF2300520",
+        "date": "2023-02-22",
+        "time": "2:08:51 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LOS ALTOS DR ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17"
+    },
+    {
+        "id": "NF2302430",
+        "date": "2023-02-22",
+        "time": "2:06:18 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HAMPSHIRE CT ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "CF2301356",
+        "date": "2023-02-22",
+        "time": "2:06:17 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "BROADWAY / EL CAMINO REAL",
+        "latitude": 37.5842041813247,
+        "longitude": -122.366256539724,
+        "units": ">T34"
+    },
+    {
         "id": "LF2300225",
         "date": "2023-02-22",
         "time": "2:03:32 PM",
         "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLMA BLVD / EL CAMINO REAL",
-        "latitude": null,
-        "longitude": null,
-        "units": "E86"
+        "category": "Traffic accident",
+        "location": "1370 EL CAMINO REAL ,CLM",
+        "latitude": 37.6800473844153,
+        "longitude": -122.461752506084,
+        "units": ">E86"
     },
     {
         "id": "NF2302429",
@@ -22,50 +66,6 @@
         "units": ">E91"
     },
     {
-        "id": "SF2302428",
-        "date": "2023-02-22",
-        "time": "1:51:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "E HILLSDALE BLVD / EDGEWATER BLVD",
-        "latitude": 37.5543267768894,
-        "longitude": -122.277382494056,
-        "units": ">E26"
-    },
-    {
-        "id": "MF2301811",
-        "date": "2023-02-22",
-        "time": "1:51:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POLITZER DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2302427",
-        "date": "2023-02-22",
-        "time": "1:50:52 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TILTON AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "FF2301210",
-        "date": "2023-02-22",
-        "time": "1:43:41 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "515 ELM CT ,SSF",
-        "latitude": 37.6594781667967,
-        "longitude": -122.417565908096,
-        "units": ">E61"
-    },
-    {
         "id": "SF2302426",
         "date": "2023-02-22",
         "time": "1:41:21 PM",
@@ -74,28 +74,6 @@
         "location": "1241 E HILLSDALE BLVD ,FCY",
         "latitude": 37.5679487966639,
         "longitude": -122.267541044686,
-        "units": "HM32 DEM55 >BC5 DEM51 CM21X3?TAC25 >MED5 E15 >HM14 >E29"
-    },
-    {
-        "id": "SF2302424",
-        "date": "2023-02-22",
-        "time": "1:36:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ELDORADO ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "CF2301354",
-        "date": "2023-02-22",
-        "time": "1:27:18 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Pole fire",
-        "location": "40 BRODERICK RD ,BRM",
-        "latitude": 37.5975391499703,
-        "longitude": -122.382209445137,
-        "units": ">E34"
+        "units": ">HM32 >DEM55 >BC5 >DEM51 CM21X3?TAC25 >MED5 >E15 >HM14 >E29"
     }
 ]
