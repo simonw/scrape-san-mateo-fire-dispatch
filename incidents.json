@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2301779",
+        "date": "2023-02-22",
+        "time": "5:36:35 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "731 SAN BENITO AVE ,NFO",
+        "latitude": 37.475984619839,
+        "longitude": -122.193736164097,
+        "units": ">E5"
+    },
+    {
         "id": "CF2301335",
         "date": "2023-02-22",
         "time": "5:21:58 AM",
@@ -8,29 +19,7 @@
         "location": "845 STANTON RD ,BRM",
         "latitude": 37.5991362977836,
         "longitude": -122.370083307884,
-        "units": "E34"
-    },
-    {
-        "id": "RF2302257",
-        "date": "2023-02-22",
-        "time": "5:20:13 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "HF2300661",
-        "date": "2023-02-22",
-        "time": "4:40:44 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "1325 BIRCH ST ,MON",
-        "latitude": 37.5382750644436,
-        "longitude": -122.506923301583,
-        "units": "*>E44"
+        "units": ">E34"
     },
     {
         "id": "RF2302254",
@@ -41,6 +30,6 @@
         "location": "537 CYPRESS ST ,RCY",
         "latitude": 37.4698111655461,
         "longitude": -122.218203030556,
-        "units": "?TAC15 >BS17 >T1 >E3 >E20>E9 CM11X3 >T9 >BC3 >PR3D"
+        "units": "?TAC15 >BS17 >E3 >E20 >E9CM11X3 >BC3 >PR3D"
     }
 ]
