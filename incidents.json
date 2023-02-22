@@ -1,47 +1,36 @@
 [
     {
-        "id": "FF2301214",
+        "id": "DF2300521",
         "date": "2023-02-22",
-        "time": "3:01:32 PM",
+        "time": "3:19:46 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "3111 HILLSIDE DR ,BRH",
+        "latitude": 37.573335508498,
+        "longitude": -122.393504696798,
+        "units": "E35"
+    },
+    {
+        "id": "MF2301816",
+        "date": "2023-02-22",
+        "time": "3:17:39 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RAVENSWOOD AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "FF2301215",
+        "date": "2023-02-22",
+        "time": "3:10:17 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "VERANO DR ,SSF",
+        "location": "N ACCESS RD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "RF2302279",
-        "date": "2023-02-22",
-        "time": "2:59:54 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GREENWOOD LN ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E11"
-    },
-    {
-        "id": "FF2301213",
-        "date": "2023-02-22",
-        "time": "2:59:52 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "RF2302278",
-        "date": "2023-02-22",
-        "time": "2:58:10 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NUEVA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "T9"
+        "units": ">E51"
     },
     {
         "id": "MF2301814",
@@ -53,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T2"
-    },
-    {
-        "id": "SF2302426",
-        "date": "2023-02-22",
-        "time": "1:41:21 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Hazardous material - response",
-        "location": "1241 E HILLSDALE BLVD ,FCY",
-        "latitude": 37.5679487966639,
-        "longitude": -122.267541044686,
-        "units": ">HM32 >BC5 >MED5 >E15 >HM14>T21"
     }
 ]
