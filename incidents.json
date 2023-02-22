@@ -1,25 +1,80 @@
 [
     {
-        "id": "SF2302411",
+        "id": "HF2300664",
         "date": "2023-02-22",
-        "time": "10:04:33 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:28:13 AM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "PALM AVE ,SMO",
+        "location": "AVENUE BALBOA / CORONADO ST",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
+        "units": "?E41"
     },
     {
-        "id": "NF2302420",
+        "id": "SF2302412",
         "date": "2023-02-22",
-        "time": "10:04:26 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "10:22:25 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ESCUELA DR ,DCY",
+        "location": "N BAYSHORE BLVD #3 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E95"
+        "units": "E21"
+    },
+    {
+        "id": "BF2300745",
+        "date": "2023-02-22",
+        "time": "10:14:50 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GLENVIEW DR #108 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2301798",
+        "date": "2023-02-22",
+        "time": "10:13:24 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "134 TUSCALOOSA AVE ,ATN",
+        "latitude": 37.4551680715714,
+        "longitude": -122.209124026818,
+        "units": ">E6"
+    },
+    {
+        "id": "RF2302263",
+        "date": "2023-02-22",
+        "time": "10:12:47 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1498 ODDSTAD DR ,RCY",
+        "latitude": 37.489626010442,
+        "longitude": -122.216605050778,
+        "units": ">T9"
+    },
+    {
+        "id": "MF2301797",
+        "date": "2023-02-22",
+        "time": "10:09:10 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "2211 EUCLID AVE ,EPA",
+        "latitude": 37.4661374808407,
+        "longitude": -122.143649880257,
+        "units": ">E77"
+    },
+    {
+        "id": "NF2302422",
+        "date": "2023-02-22",
+        "time": "10:06:47 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "DOCKSIDE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "DF2300516",
@@ -30,7 +85,7 @@
         "location": "MINDEGO HILL RD / ALPINE RD",
         "latitude": 37.2941859111939,
         "longitude": -122.241669453471,
-        "units": "?E58 ?CO57"
+        "units": ">E357"
     },
     {
         "id": "SF2302410",
@@ -41,7 +96,18 @@
         "location": "SHOREVIEW AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E24"
+    },
+    {
+        "id": "NF2302423",
+        "date": "2023-02-22",
+        "time": "10:02:22 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "FRANCISCAN DR / FRIGATE LN",
+        "latitude": 37.6863811801938,
+        "longitude": -122.449890688571,
+        "units": "U94"
     },
     {
         "id": "MF2301795",
@@ -52,72 +118,6 @@
         "location": "651 18TH AVE ,NFO",
         "latitude": 37.4729094927602,
         "longitude": -122.190399044049,
-        "units": "E5"
-    },
-    {
-        "id": "MF2301794",
-        "date": "2023-02-22",
-        "time": "9:58:20 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD #215 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2302419",
-        "date": "2023-02-22",
-        "time": "9:54:49 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EASTGATE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2302418",
-        "date": "2023-02-22",
-        "time": "9:44:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCALERO AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "NF2302417",
-        "date": "2023-02-22",
-        "time": "9:39:17 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "1480 S MAYFAIR AVE ,DCY",
-        "latitude": 37.6838372999708,
-        "longitude": -122.488336034624,
-        "units": ">U94"
-    },
-    {
-        "id": "WF2300379",
-        "date": "2023-02-22",
-        "time": "9:21:28 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "744 LAKEVIEW WAY ,EML",
-        "latitude": 37.4643290429839,
-        "longitude": -122.266825824089,
-        "units": ">E9 CM11X1 >E12"
-    },
-    {
-        "id": "SF2302408",
-        "date": "2023-02-22",
-        "time": "9:17:12 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEAHORSE CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ">E5"
     }
 ]
