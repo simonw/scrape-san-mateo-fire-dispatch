@@ -1,69 +1,47 @@
 [
     {
-        "id": "NF2302393",
+        "id": "CF2301324",
         "date": "2023-02-21",
-        "time": "9:03:37 PM",
+        "time": "9:22:25 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Tree down",
+        "location": "1395 MILLBRAE AVE ,MLB",
+        "latitude": 37.5881491607047,
+        "longitude": -122.409522328811,
+        "units": "E38"
+    },
+    {
+        "id": "SF2302392",
+        "date": "2023-02-21",
+        "time": "9:19:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Pole fire",
+        "location": "1220 NORTH RD ,BLM",
+        "latitude": 37.5255759361729,
+        "longitude": -122.288885572465,
+        "units": "E14"
+    },
+    {
+        "id": "NF2302395",
+        "date": "2023-02-21",
+        "time": "9:16:33 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "ST ,DCY",
+        "location": "WOODROW ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
+        "units": ">E92"
     },
     {
-        "id": "HF2300657",
+        "id": "NF2302394",
         "date": "2023-02-21",
-        "time": "9:00:35 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "879 BUENA VISTA ST ,MBH",
-        "latitude": 37.5303112438684,
-        "longitude": -122.509178582457,
-        "units": "?E44"
-    },
-    {
-        "id": "FF2301195",
-        "date": "2023-02-21",
-        "time": "8:57:09 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "560 FORBES BLVD ,SSF",
-        "latitude": 37.6579745493352,
-        "longitude": -122.386008610748,
-        "units": ">E65"
-    },
-    {
-        "id": "FF2301196",
-        "date": "2023-02-21",
-        "time": "8:56:58 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "901 GATEWAY BLVD ,SSF",
-        "latitude": 37.6613847204936,
-        "longitude": -122.397214461963,
-        "units": "E81"
-    },
-    {
-        "id": "NF2302392",
-        "date": "2023-02-21",
-        "time": "8:52:51 PM",
+        "time": "9:12:55 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "648 N MAYFAIR AVE ,DCY",
-        "latitude": 37.7007974721512,
-        "longitude": -122.488322883422,
-        "units": ">E91"
-    },
-    {
-        "id": "BF2300740",
-        "date": "2023-02-21",
-        "time": "8:50:48 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SANTA LUCIA AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "category": "Public assist",
+        "location": "LAKE MERCED BLVD / JOHN DALY BLVD",
+        "latitude": 37.7014028709043,
+        "longitude": -122.484840281023,
+        "units": ">U91"
     },
     {
         "id": "CF2301323",
@@ -74,7 +52,7 @@
         "location": "1840 BROOKVALE RD ,HIL",
         "latitude": 37.5745917552484,
         "longitude": -122.362322747004,
-        "units": ">T34"
+        "units": ">E34 >T34"
     },
     {
         "id": "SF2302391",
@@ -85,18 +63,7 @@
         "location": "BALDWIN AVE #224 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "SF2302388",
-        "date": "2023-02-21",
-        "time": "8:32:36 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "825 OLD COUNTY RD ,BLM",
-        "latitude": 37.5227461109743,
-        "longitude": -122.276970789332,
-        "units": ">E13"
+        "units": ""
     },
     {
         "id": "HF2300656",
@@ -107,18 +74,7 @@
         "location": "SEYMOUR ST / FIRST AVE",
         "latitude": 37.4528045682691,
         "longitude": -122.438489098268,
-        "units": ">E40"
-    },
-    {
-        "id": "MF2301757",
-        "date": "2023-02-21",
-        "time": "8:10:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Pole fire",
-        "location": "1964 MENALTO AVE ,MNP",
-        "latitude": 37.4604552428625,
-        "longitude": -122.151794824457,
-        "units": ">E77"
+        "units": "*>E40"
     },
     {
         "id": "CF2301320",
@@ -129,29 +85,7 @@
         "location": "1815 EASTON DR ,BRM",
         "latitude": 37.5831609758468,
         "longitude": -122.371055909769,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2302388",
-        "date": "2023-02-21",
-        "time": "7:29:26 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "411 HEATHCLIFF DR ,PCF",
-        "latitude": 37.6503097261551,
-        "longitude": -122.477434515473,
-        "units": ">U71"
-    },
-    {
-        "id": "DF2300510",
-        "date": "2023-02-21",
-        "time": "7:19:46 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "5001 STAGE RD ,PES",
-        "latitude": 37.3025939778399,
-        "longitude": -122.383018447509,
-        "units": ">E59"
+        "units": ""
     },
     {
         "id": "FF2301189",
@@ -163,38 +97,5 @@
         "latitude": 37.6467302424784,
         "longitude": -122.399735820193,
         "units": ">Q62"
-    },
-    {
-        "id": "NF2302378",
-        "date": "2023-02-21",
-        "time": "6:34:05 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "1332 GRAND AVE ,PCF",
-        "latitude": 37.5938554645263,
-        "longitude": -122.508735621331,
-        "units": ">U72"
-    },
-    {
-        "id": "RF2302229",
-        "date": "2023-02-21",
-        "time": "5:39:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Boat in distress",
-        "location": "441 SEAPORT BLVD ,RCY",
-        "latitude": 37.5034648669877,
-        "longitude": -122.210582971238,
-        "units": ">BOAT9 CM51X1"
-    },
-    {
-        "id": "NF2302363",
-        "date": "2023-02-21",
-        "time": "5:00:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "948 BRUNSWICK ST ,DCY",
-        "latitude": 37.7074819719931,
-        "longitude": -122.452961246496,
-        "units": ">U91"
     }
 ]
