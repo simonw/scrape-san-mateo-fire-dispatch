@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2301848",
+        "date": "2023-02-23",
+        "time": "10:26:07 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WILLOW RD / BAY RD",
+        "latitude": 37.4663783910698,
+        "longitude": -122.156605902506,
+        "units": "E5 TAC16 T2 CM11X4 BC101"
+    },
+    {
+        "id": "SF2302470",
+        "date": "2023-02-23",
+        "time": "10:14:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROYAL AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
         "id": "RF2302319",
         "date": "2023-02-23",
         "time": "10:05:46 AM",
@@ -8,51 +30,7 @@
         "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?T9"
-    },
-    {
-        "id": "NF2302462",
-        "date": "2023-02-23",
-        "time": "10:00:21 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VICTORIA ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "SF2302469",
-        "date": "2023-02-23",
-        "time": "9:57:06 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1110 ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": 37.5088202739252,
-        "longitude": -122.293166164108,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2302461",
-        "date": "2023-02-23",
-        "time": "9:53:20 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SANTA BARBARA AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2302468",
-        "date": "2023-02-23",
-        "time": "9:53:09 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FOSTER ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ">T9"
     },
     {
         "id": "DF2300530",
@@ -63,39 +41,6 @@
         "location": "PORTOLA STATE PARK RD / ALPINE RD",
         "latitude": 37.2894855908705,
         "longitude": -122.212442942602,
-        "units": "TAC15 E58 E1762 ?CO57"
-    },
-    {
-        "id": "RF2302318",
-        "date": "2023-02-23",
-        "time": "9:50:19 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHELSEA WAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2302317",
-        "date": "2023-02-23",
-        "time": "9:41:42 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY #B35 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "DF2300529",
-        "date": "2023-02-23",
-        "time": "8:49:18 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "102 CANADA RD ,SOS",
-        "latitude": 37.4635953888813,
-        "longitude": -122.297599638436,
-        "units": ">E18"
+        "units": ">TAC15 >E58 >E1762"
     }
 ]
