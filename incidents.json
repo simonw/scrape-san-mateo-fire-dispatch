@@ -1,25 +1,58 @@
 [
     {
-        "id": "SF2302479",
+        "id": "SF2302480",
         "date": "2023-02-23",
-        "time": "1:42:49 PM",
+        "time": "2:04:41 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "S EL CAMINO REAL #216 ,SMO",
+        "location": "FIESTA DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": "?E28"
     },
     {
-        "id": "NF2302469",
+        "id": "NF2302471",
         "date": "2023-02-23",
-        "time": "1:35:16 PM",
+        "time": "2:00:07 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "ESPLANADE AVE #4 ,PCF",
+        "location": "ESCUELA DR #217B ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
+        "units": ">E95"
+    },
+    {
+        "id": "CF2301381",
+        "date": "2023-02-23",
+        "time": "1:58:07 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Structure fire",
+        "location": "95 GLENGARRY WAY ,HIL",
+        "latitude": 37.5391352860787,
+        "longitude": -122.356679447626,
+        "units": "BC8 CM21X2 E17 E25 ?TAC25E33 T17 E21 BC11 E27"
+    },
+    {
+        "id": "NF2302470",
+        "date": "2023-02-23",
+        "time": "1:54:31 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ODDSTAD BLVD #267B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "RF2302330",
+        "date": "2023-02-23",
+        "time": "1:52:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PARK ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
     },
     {
         "id": "FF2301246",
@@ -30,18 +63,7 @@
         "location": "MAYFAIR AVE #7 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2302468",
-        "date": "2023-02-23",
-        "time": "1:26:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HALF MOON LN #308 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": "E61"
     },
     {
         "id": "MF2301859",
@@ -53,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E2"
-    },
-    {
-        "id": "NF2302467",
-        "date": "2023-02-23",
-        "time": "1:11:55 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CALLAN BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
