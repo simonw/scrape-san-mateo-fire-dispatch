@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2301253",
+        "date": "2023-02-23",
+        "time": "8:23:38 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Pole fire",
+        "location": "2207 SHANNON DR ,SSF",
+        "latitude": 37.6407041353658,
+        "longitude": -122.460483779296,
+        "units": "E64"
+    },
+    {
+        "id": "RF2302351",
+        "date": "2023-02-23",
+        "time": "8:14:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LYONS ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "SF2302499",
         "date": "2023-02-23",
         "time": "8:02:23 PM",
@@ -8,7 +30,7 @@
         "location": "S NORFOLK ST #330 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E26"
     },
     {
         "id": "SF2302498",
@@ -19,29 +41,7 @@
         "location": "CONTINENTALS WAY #104 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "SF2302497",
-        "date": "2023-02-23",
-        "time": "8:00:14 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "10 BINNACLE LN ,FCY",
-        "latitude": 37.5356310442432,
-        "longitude": -122.264452978184,
-        "units": "E29"
-    },
-    {
-        "id": "CF2301388",
-        "date": "2023-02-23",
-        "time": "7:59:56 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BURLINGAME AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ""
     },
     {
         "id": "MF2301878",
@@ -53,38 +53,5 @@
         "latitude": 37.4674138165794,
         "longitude": -122.132102181843,
         "units": ">E77"
-    },
-    {
-        "id": "SF2302496",
-        "date": "2023-02-23",
-        "time": "7:51:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HOBART AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "NF2302482",
-        "date": "2023-02-23",
-        "time": "7:51:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN PEDRO TERRACE RD #114A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "MF2301876",
-        "date": "2023-02-23",
-        "time": "7:44:43 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SHARON PARK DR #C102 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
     }
 ]
