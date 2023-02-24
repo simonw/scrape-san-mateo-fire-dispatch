@@ -1,36 +1,47 @@
 [
     {
-        "id": "BF2300766",
+        "id": "BF2300767",
         "date": "2023-02-23",
-        "time": "9:24:08 PM",
+        "time": "9:38:19 PM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "E SAN BRUNO AVE #A ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
+        "category": "Pole fire",
+        "location": "3836 COLBY WAY ,SNB",
+        "latitude": 37.6332356779814,
+        "longitude": -122.466207385536,
+        "units": "E52"
     },
     {
-        "id": "SF2302501",
+        "id": "LF2300230",
         "date": "2023-02-23",
-        "time": "9:20:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:34:03 PM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "S EL CAMINO REAL / 2ND AVE",
+        "location": "D ST ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": ">E86"
     },
     {
-        "id": "MF2301885",
+        "id": "MF2301887",
         "date": "2023-02-23",
-        "time": "9:02:36 PM",
+        "time": "9:28:14 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1330 O'BRIEN DR ,MNP",
+        "latitude": 37.4763566510569,
+        "longitude": -122.145357157182,
+        "units": ">E77"
+    },
+    {
+        "id": "MF2301886",
+        "date": "2023-02-23",
+        "time": "9:27:33 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "FARRINGTON WAY ,EPA",
+        "location": "E O'KEEFE ST #5 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ">E1"
     },
     {
         "id": "RF2302354",
@@ -42,27 +53,5 @@
         "latitude": 37.4705052606747,
         "longitude": -122.222199623155,
         "units": ">E9"
-    },
-    {
-        "id": "RF2302353",
-        "date": "2023-02-23",
-        "time": "8:44:46 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODRIDGE CT ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "MF2301883",
-        "date": "2023-02-23",
-        "time": "8:32:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "37 RINGWOOD AVE ,ATN",
-        "latitude": 37.463256221286,
-        "longitude": -122.171647431393,
-        "units": ">SQ401"
     }
 ]
