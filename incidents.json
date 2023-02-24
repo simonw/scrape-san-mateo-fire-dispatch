@@ -1,25 +1,47 @@
 [
     {
-        "id": "MF2301913",
+        "id": "RF2302379",
         "date": "2023-02-24",
-        "time": "12:38:40 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "333 RAVENSWOOD AVE ,MNP",
-        "latitude": 37.4560860672996,
-        "longitude": -122.176324535021,
-        "units": "E77 E4 E1 T1 BC1CM11X4 ?TAC17"
+        "time": "1:01:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAKEVIEW WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E12"
     },
     {
-        "id": "HF2300687",
+        "id": "NF2302527",
         "date": "2023-02-24",
-        "time": "12:38:21 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "12:58:05 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #108B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "MF2301914",
+        "date": "2023-02-24",
+        "time": "12:53:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1311 CAMELLIA DR ,EPA",
+        "latitude": 37.4574742569929,
+        "longitude": -122.124479803842,
+        "units": ""
+    },
+    {
+        "id": "BF2300782",
+        "date": "2023-02-24",
+        "time": "12:48:15 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Traffic accident pd request c3",
-        "location": "N CABRILLO HWY / CARLOS ST",
-        "latitude": 37.5357620628845,
-        "longitude": -122.517797879801,
-        "units": "E72 E44 >BC10 CM41X3 ?TAC45"
+        "location": "EL CAMINO REAL / BAYHILL DR",
+        "latitude": 37.6308550183543,
+        "longitude": -122.417885282008,
+        "units": ">E51"
     },
     {
         "id": "BF2300781",
@@ -30,18 +52,7 @@
         "location": "SB 280 / EB 380 OFF RAMP",
         "latitude": 37.6301151263648,
         "longitude": -122.434721478371,
-        "units": "T51 TAC35 BC16 E52 CM31X4"
-    },
-    {
-        "id": "WF2300398",
-        "date": "2023-02-24",
-        "time": "12:35:57 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "4200 FARM HILL BLVD ,WDS",
-        "latitude": 37.4478922871236,
-        "longitude": -122.266398660236,
-        "units": ">E19 E12 BC2 SQ407 CM11X5?TAC16"
+        "units": ">E52 TAC35 >BC16 >T51 CM31X4"
     },
     {
         "id": "MF2301912",
@@ -52,62 +63,7 @@
         "location": "27 ADAM WAY ,ATN",
         "latitude": 37.462970500399,
         "longitude": -122.207342004445,
-        "units": ">E3 ?TAC15 >E6 CM11X2 >T9>BC3 >E5"
-    },
-    {
-        "id": "SF2302530",
-        "date": "2023-02-24",
-        "time": "12:27:02 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "YEW ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "MF2301910",
-        "date": "2023-02-24",
-        "time": "12:23:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1805 E BAYSHORE RD ,EPA",
-        "latitude": 37.456882075852,
-        "longitude": -122.133305178237,
-        "units": ""
-    },
-    {
-        "id": "BF2300780",
-        "date": "2023-02-24",
-        "time": "12:18:43 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #3 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "DF2300551",
-        "date": "2023-02-24",
-        "time": "12:04:17 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NORTH ST ,PES",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2302377",
-        "date": "2023-02-24",
-        "time": "11:33:59 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 101 / NO HOLLY ST",
-        "latitude": 37.5194827250338,
-        "longitude": -122.262201492139,
-        "units": "E13"
+        "units": ">E3 ?TAC15 >E6 CM11X2 >BC3"
     },
     {
         "id": "WF2300397",
