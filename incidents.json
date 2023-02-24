@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2300766",
+        "date": "2023-02-23",
+        "time": "9:24:08 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "E SAN BRUNO AVE #A ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "SF2302501",
+        "date": "2023-02-23",
+        "time": "9:20:49 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL / 2ND AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "MF2301885",
         "date": "2023-02-23",
         "time": "9:02:36 PM",
@@ -8,7 +30,7 @@
         "location": "FARRINGTON WAY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "RF2302354",
@@ -19,18 +41,7 @@
         "location": "485 WOODSIDE RD ,RCY",
         "latitude": 37.4705052606747,
         "longitude": -122.222199623155,
-        "units": "E9"
-    },
-    {
-        "id": "SF2302500",
-        "date": "2023-02-23",
-        "time": "8:50:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEMERIA AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": ">E9"
     },
     {
         "id": "RF2302353",
@@ -44,39 +55,6 @@
         "units": ">E12"
     },
     {
-        "id": "CF2301389",
-        "date": "2023-02-23",
-        "time": "8:43:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ROLLINS RD ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2302352",
-        "date": "2023-02-23",
-        "time": "8:41:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HASTINGS AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "MF2301882",
-        "date": "2023-02-23",
-        "time": "8:33:41 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "34 LINDEN AVE ,ATN",
-        "latitude": 37.4646476503145,
-        "longitude": -122.180776342884,
-        "units": ">E1"
-    },
-    {
         "id": "MF2301883",
         "date": "2023-02-23",
         "time": "8:32:57 PM",
@@ -86,16 +64,5 @@
         "latitude": 37.463256221286,
         "longitude": -122.171647431393,
         "units": ">SQ401"
-    },
-    {
-        "id": "MF2301878",
-        "date": "2023-02-23",
-        "time": "7:54:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1039 GARDEN ST ,EPA",
-        "latitude": 37.4674138165794,
-        "longitude": -122.132102181843,
-        "units": ">E77"
     }
 ]
