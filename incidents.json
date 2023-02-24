@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2302512",
+        "date": "2023-02-24",
+        "time": "8:00:33 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HACIENDA ST #227 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "CF2301399",
+        "date": "2023-02-24",
+        "time": "7:47:35 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #37A ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "BF2300773",
+        "date": "2023-02-24",
+        "time": "7:45:05 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "1141 GLENVIEW DR ,SNB",
+        "latitude": 37.6242001703928,
+        "longitude": -122.442431750771,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2301899",
+        "date": "2023-02-24",
+        "time": "7:43:45 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD #37 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "RF2302368",
         "date": "2023-02-24",
         "time": "7:39:57 AM",
@@ -8,7 +52,7 @@
         "location": "MAPLE ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "DF2300542",
@@ -19,39 +63,6 @@
         "location": "LA HONDA RD / WO SKYLINE BLVD",
         "latitude": 37.3862682073614,
         "longitude": -122.266882405039,
-        "units": ">CH57 ?CO57"
-    },
-    {
-        "id": "CF2301398",
-        "date": "2023-02-24",
-        "time": "7:32:18 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2302507",
-        "date": "2023-02-24",
-        "time": "7:15:14 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO EASTMOOR AVE",
-        "latitude": 37.6870119736043,
-        "longitude": -122.471397012826,
-        "units": ">E94 >E92 TAC35 CM31X3"
-    },
-    {
-        "id": "WF2300392",
-        "date": "2023-02-24",
-        "time": "6:48:57 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "LA HONDA RD / EO SKYLINE BLVD",
-        "latitude": 37.3859156165163,
-        "longitude": -122.261286827248,
-        "units": "*>E318"
+        "units": ">CH57"
     }
 ]
