@@ -1,5 +1,49 @@
 [
     {
+        "id": "LF2300229",
+        "date": "2023-02-23",
+        "time": "7:20:47 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "1152 NIMITZ DR ,BRD",
+        "latitude": 37.6919800252853,
+        "longitude": -122.48276006841,
+        "units": "E86"
+    },
+    {
+        "id": "MF2301874",
+        "date": "2023-02-23",
+        "time": "7:18:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2302348",
+        "date": "2023-02-23",
+        "time": "7:16:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOLLY ST #8 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "RF2302347",
+        "date": "2023-02-23",
+        "time": "7:10:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "531 WOODSIDE RD ,RCY",
+        "latitude": 37.4697354901845,
+        "longitude": -122.222991746459,
+        "units": ">E10"
+    },
+    {
         "id": "SF2302495",
         "date": "2023-02-23",
         "time": "7:08:16 PM",
@@ -8,18 +52,7 @@
         "location": "PORT DR #201 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E28"
-    },
-    {
-        "id": "DF2300535",
-        "date": "2023-02-23",
-        "time": "7:06:57 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "RALSTON AVE / POLHEMUS RD",
-        "latitude": 37.515602549862,
-        "longitude": -122.334084399128,
-        "units": "E18"
+        "units": ">E28"
     },
     {
         "id": "NF2302481",
@@ -31,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "FF2301251",
-        "date": "2023-02-23",
-        "time": "6:46:58 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MANZANITA AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2302480",
-        "date": "2023-02-23",
-        "time": "6:46:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAKE MERCED BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
     }
 ]
