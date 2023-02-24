@@ -1,5 +1,71 @@
 [
     {
+        "id": "NF2302529",
+        "date": "2023-02-24",
+        "time": "1:20:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "332 CITRUS AVE ,DCY",
+        "latitude": 37.6978641512759,
+        "longitude": -122.467359891263,
+        "units": ""
+    },
+    {
+        "id": "NF2302528",
+        "date": "2023-02-24",
+        "time": "1:16:55 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WINCHESTER ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2302381",
+        "date": "2023-02-24",
+        "time": "1:09:33 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WB MARSH RD ON RAMP / NB 101",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "CF2301409",
+        "date": "2023-02-24",
+        "time": "1:08:48 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AHWAHNEE DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "CF2301410",
+        "date": "2023-02-24",
+        "time": "1:08:04 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1809 EL CAMINO REAL ,BRM",
+        "latitude": 37.5942290808056,
+        "longitude": -122.384266163674,
+        "units": ">E37"
+    },
+    {
+        "id": "RF2302380",
+        "date": "2023-02-24",
+        "time": "1:07:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #107 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
         "id": "RF2302379",
         "date": "2023-02-24",
         "time": "1:01:35 PM",
@@ -8,40 +74,7 @@
         "location": "LAKEVIEW WAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "NF2302527",
-        "date": "2023-02-24",
-        "time": "12:58:05 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #108B ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "MF2301914",
-        "date": "2023-02-24",
-        "time": "12:53:43 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1311 CAMELLIA DR ,EPA",
-        "latitude": 37.4574742569929,
-        "longitude": -122.124479803842,
         "units": ""
-    },
-    {
-        "id": "BF2300782",
-        "date": "2023-02-24",
-        "time": "12:48:15 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / BAYHILL DR",
-        "latitude": 37.6308550183543,
-        "longitude": -122.417885282008,
-        "units": ">E51"
     },
     {
         "id": "BF2300781",
@@ -52,7 +85,7 @@
         "location": "SB 280 / EB 380 OFF RAMP",
         "latitude": 37.6301151263648,
         "longitude": -122.434721478371,
-        "units": ">E52 TAC35 >BC16 >T51 CM31X4"
+        "units": "TAC35 >BC16 >T51 CM31X4"
     },
     {
         "id": "MF2301912",
@@ -63,17 +96,6 @@
         "location": "27 ADAM WAY ,ATN",
         "latitude": 37.462970500399,
         "longitude": -122.207342004445,
-        "units": ">E3 ?TAC15 >E6 CM11X2 >BC3"
-    },
-    {
-        "id": "WF2300397",
-        "date": "2023-02-24",
-        "time": "11:28:02 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "2025 KINGS MOUNTAIN RD ,KMT",
-        "latitude": 37.423142477168,
-        "longitude": -122.308401233111,
-        "units": ">R56"
+        "units": ">E3"
     }
 ]
