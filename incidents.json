@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2301263",
+        "date": "2023-02-24",
+        "time": "6:04:51 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HOLLY AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E65"
+    },
+    {
+        "id": "DF2300541",
+        "date": "2023-02-24",
+        "time": "6:02:35 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "SKYLINE BLVD / KINGS MOUNTAIN RD",
+        "latitude": 37.4250155300573,
+        "longitude": -122.313764731392,
+        "units": "E356 E7 ?CO56"
+    },
+    {
+        "id": "DF2300540",
+        "date": "2023-02-24",
+        "time": "6:00:39 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 280 / SO 92",
+        "latitude": 37.5010326373211,
+        "longitude": -122.325975079224,
+        "units": "T17 E27 BC11 E18 CM11X5?TAC15"
+    },
+    {
+        "id": "FF2301262",
+        "date": "2023-02-24",
+        "time": "5:58:32 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "NB 101 / NO 380",
+        "latitude": 37.6433298173213,
+        "longitude": -122.406001905655,
+        "units": ">T51 >BC16 TAC36 E51 CM31X2"
+    },
+    {
         "id": "NF2302504",
         "date": "2023-02-24",
         "time": "5:42:01 AM",
@@ -8,18 +52,7 @@
         "location": "SB 280 / SO HICKEY BLVD",
         "latitude": 37.6547209829024,
         "longitude": -122.457577711741,
-        "units": "E64 E94 CM31X5 ?TAC35 ?BC121?T95"
-    },
-    {
-        "id": "WF2300391",
-        "date": "2023-02-24",
-        "time": "5:04:08 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA RD ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E8"
+        "units": ">E94 >BC121 TAC35 CM31X5 >E64>T95"
     },
     {
         "id": "DF2300539",
@@ -30,6 +63,6 @@
         "location": "SKYLINE BLVD / RAPLEY RANCH RD",
         "latitude": 37.3412257538656,
         "longitude": -122.220206981198,
-        "units": ">E318 >R56"
+        "units": ">E318"
     }
 ]
