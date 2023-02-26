@@ -1,5 +1,38 @@
 [
     {
+        "id": "WF2300404",
+        "date": "2023-02-26",
+        "time": "12:21:41 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PORTOLA RD ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E8"
+    },
+    {
+        "id": "SF2302612",
+        "date": "2023-02-26",
+        "time": "12:06:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W HILLSDALE BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
+        "id": "CF2301459",
+        "date": "2023-02-26",
+        "time": "12:05:44 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Trash fire",
+        "location": "49 EL CAMINO REAL ,MLB",
+        "latitude": 37.5989381369584,
+        "longitude": -122.388500689979,
+        "units": ">E38"
+    },
+    {
         "id": "FF2301315",
         "date": "2023-02-26",
         "time": "12:01:42 PM",
@@ -19,18 +52,7 @@
         "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
-    },
-    {
-        "id": "RF2302439",
-        "date": "2023-02-26",
-        "time": "11:59:12 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAIN ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E28"
     },
     {
         "id": "RF2302440",
@@ -41,7 +63,7 @@
         "location": "14 ESTATES CT ,SNC",
         "latitude": 37.4916753617823,
         "longitude": -122.278615909699,
-        "units": "E13"
+        "units": ">E13"
     },
     {
         "id": "BF2300802",
@@ -53,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E52"
-    },
-    {
-        "id": "LF2300240",
-        "date": "2023-02-26",
-        "time": "11:50:34 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD #306 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "SF2302610",
-        "date": "2023-02-26",
-        "time": "11:45:02 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BERMUDA DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "FF2301314",
-        "date": "2023-02-26",
-        "time": "11:39:01 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "AVALON DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
     }
 ]
