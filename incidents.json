@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2302593",
+        "id": "RF2302428",
         "date": "2023-02-26",
-        "time": "1:05:04 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "1:23:15 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ISABELLE AVE ,SMO",
+        "location": "VERA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E23"
+        "units": "E10"
+    },
+    {
+        "id": "MF2301965",
+        "date": "2023-02-26",
+        "time": "1:13:23 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "MF2301964",
+        "date": "2023-02-26",
+        "time": "1:11:49 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E O'KEEFE ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "CF2301445",
@@ -19,7 +41,7 @@
         "location": "1933 GARDEN DR ,BRM",
         "latitude": 37.5920380791188,
         "longitude": -122.387966657976,
-        "units": ">E35 E38 BC16 E51 >T34>BC8 >E37 >E34 CM21X2 ?TAC25"
+        "units": "?CCFINV CM21X2 >E51 >E38 >BC16>E35 >T34 >BC8 >E37 >E34"
     },
     {
         "id": "SF2302592",
@@ -31,27 +53,5 @@
         "latitude": 37.5436118210051,
         "longitude": -122.283133046134,
         "units": ">E26"
-    },
-    {
-        "id": "HF2300702",
-        "date": "2023-02-26",
-        "time": "2/25/2023 11:49:50 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Trash fire",
-        "location": "196 SAN MATEO RD ,HMB",
-        "latitude": 37.4681303331688,
-        "longitude": -122.430819286033,
-        "units": ""
-    },
-    {
-        "id": "FF2301311",
-        "date": "2023-02-26",
-        "time": "2/25/2023 11:47:10 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #801 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
     }
 ]
