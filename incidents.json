@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2301963",
+        "date": "2023-02-25",
+        "time": "10:57:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DEMETER ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "SF2302591",
+        "date": "2023-02-25",
+        "time": "10:53:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "411 BOREL AVE ,SMO",
+        "latitude": 37.5483812246773,
+        "longitude": -122.320176716985,
+        "units": ">T23 >BC5 >E25 ?TAC25 ?CM21X5"
+    },
+    {
+        "id": "CF2301444",
+        "date": "2023-02-25",
+        "time": "10:44:42 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "1060 CAROLAN AVE ,BRM",
+        "latitude": 37.5875120864274,
+        "longitude": -122.359632356215,
+        "units": ">E34"
+    },
+    {
+        "id": "NF2302582",
+        "date": "2023-02-25",
+        "time": "10:44:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "HICKEY BLVD / HICKEY BLVD ON RAMP",
+        "latitude": 37.6681080759967,
+        "longitude": -122.465923162688,
+        "units": ">BC20 >T95 >E94 CM31X3 ?TAC35"
+    },
+    {
         "id": "CF2301443",
         "date": "2023-02-25",
         "time": "10:32:59 PM",
@@ -11,50 +55,6 @@
         "units": ">E37"
     },
     {
-        "id": "MF2301962",
-        "date": "2023-02-25",
-        "time": "10:27:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COOLEY AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "RF2302422",
-        "date": "2023-02-25",
-        "time": "10:23:46 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAYPORT AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM11X1"
-    },
-    {
-        "id": "MF2301961",
-        "date": "2023-02-25",
-        "time": "10:21:24 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "RF2302421",
-        "date": "2023-02-25",
-        "time": "10:17:54 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "485 WOODSIDE RD #4206 ,RCY",
-        "latitude": 37.4705052606747,
-        "longitude": -122.222199623155,
-        "units": ">E9"
-    },
-    {
         "id": "MF2301960",
         "date": "2023-02-25",
         "time": "10:14:32 PM",
@@ -63,28 +63,6 @@
         "location": "EB 84 / UNIVERSITY AVE",
         "latitude": 37.48645840738,
         "longitude": -122.142501801018,
-        "units": "?TAC15 CM11X4 >E77 >BC101 >T2"
-    },
-    {
-        "id": "RF2302420",
-        "date": "2023-02-25",
-        "time": "10:12:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GOODWIN AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2302589",
-        "date": "2023-02-25",
-        "time": "9:46:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BERESFORD ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
+        "units": ">E77"
     }
 ]
