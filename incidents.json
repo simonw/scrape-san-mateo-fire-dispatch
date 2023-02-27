@@ -1,5 +1,38 @@
 [
     {
+        "id": "LF2300244",
+        "date": "2023-02-27",
+        "time": "1:22:57 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LOUVAINE DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "HF2300712",
+        "date": "2023-02-27",
+        "time": "1:18:40 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL GRANADA BLVD ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": "BC10 CM41X4 ?TAC45 E41"
+    },
+    {
+        "id": "NF2302629",
+        "date": "2023-02-27",
+        "time": "1:06:30 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BISMARK ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "DF2300586",
         "date": "2023-02-27",
         "time": "1:00:34 PM",
@@ -8,18 +41,7 @@
         "location": "SB 280 / SO 92",
         "latitude": 37.5004067419462,
         "longitude": -122.326125246726,
-        "units": ">E27 CM11X2 E17 E18 BC11T17 ?TAC15"
-    },
-    {
-        "id": "NF2302628",
-        "date": "2023-02-27",
-        "time": "12:57:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALE ST #21A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E91"
+        "units": "CM11X2 ?TAC15 >T17 >E27"
     },
     {
         "id": "CF2301486",
@@ -30,7 +52,7 @@
         "location": "FAGAN DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E35"
+        "units": "E35"
     },
     {
         "id": "NF2302627",
@@ -41,39 +63,6 @@
         "location": "NB 280 / SO JOHN DALY BLVD",
         "latitude": 37.7034101220142,
         "longitude": -122.471313233753,
-        "units": ">E94 ?TAC35 >T95 CM31X4"
-    },
-    {
-        "id": "SF2302645",
-        "date": "2023-02-27",
-        "time": "12:47:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 39TH AVE #3 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2302644",
-        "date": "2023-02-27",
-        "time": "12:44:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / RALSTON AVE OFF RAMP",
-        "latitude": 37.522444923169,
-        "longitude": -122.265610008824,
-        "units": ">E13"
-    },
-    {
-        "id": "MF2301997",
-        "date": "2023-02-27",
-        "time": "12:25:44 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 101 / NO EMBARCADERO",
-        "latitude": 37.4564271860104,
-        "longitude": -122.133818965041,
-        "units": ">E2"
+        "units": ">E94"
     }
 ]
