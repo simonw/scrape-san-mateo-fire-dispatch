@@ -1,14 +1,58 @@
 [
     {
-        "id": "NF2302621",
+        "id": "RF2302477",
         "date": "2023-02-27",
-        "time": "9:21:12 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:39:46 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "STEVENS CT ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18 T17"
+    },
+    {
+        "id": "WF2300411",
+        "date": "2023-02-27",
+        "time": "9:39:04 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "WOODSIDE RD / BEAR GULCH RD",
+        "latitude": 37.4164130399659,
+        "longitude": -122.265801736528,
+        "units": "SQ407"
+    },
+    {
+        "id": "CF2301475",
+        "date": "2023-02-27",
+        "time": "9:36:37 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "728 CROSSWAY RD ,BRM",
+        "latitude": 37.5817726022843,
+        "longitude": -122.353786897818,
+        "units": ">E34"
+    },
+    {
+        "id": "BF2300817",
+        "date": "2023-02-27",
+        "time": "9:33:02 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MAPLE AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "DF2300577",
+        "date": "2023-02-27",
+        "time": "9:27:38 AM",
+        "summary": "County Fire on Control-1",
         "category": "Traffic accident",
-        "location": "NB 1 ON RAMP / SB 280",
-        "latitude": 37.6747617349307,
-        "longitude": -122.469347728432,
-        "units": "E91 E94 CM31X1 BC20 T95?TAC36"
+        "location": "NB 280 / SO 92",
+        "latitude": 37.5010326373211,
+        "longitude": -122.325975079224,
+        "units": "CM11X3 ?TAC16 >BC11 E27"
     },
     {
         "id": "FF2301330",
@@ -19,28 +63,6 @@
         "location": "JUNIPERO SERRA BLVD / KING DR",
         "latitude": 37.6546349478985,
         "longitude": -122.4530008848,
-        "units": "E38"
-    },
-    {
-        "id": "BF2300816",
-        "date": "2023-02-27",
-        "time": "9:08:09 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO 380",
-        "latitude": 37.6247425325052,
-        "longitude": -122.428499844054,
-        "units": "?TAC35 >T51 >E64 CM31X3"
-    },
-    {
-        "id": "MF2301986",
-        "date": "2023-02-27",
-        "time": "9:04:35 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #407 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "units": ">E38"
     }
 ]
