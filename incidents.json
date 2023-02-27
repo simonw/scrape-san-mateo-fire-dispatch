@@ -1,5 +1,16 @@
 [
     {
+        "id": "NF2302633",
+        "date": "2023-02-27",
+        "time": "2:27:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WINONA AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E71"
+    },
+    {
         "id": "SF2302647",
         "date": "2023-02-27",
         "time": "2:04:16 PM",
@@ -8,18 +19,7 @@
         "location": "SAN JUAN CT ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
-    },
-    {
-        "id": "SF2302648",
-        "date": "2023-02-27",
-        "time": "2:03:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "344 E 40TH AVE ,SMO",
-        "latitude": 37.5340754006945,
-        "longitude": -122.283977609919,
-        "units": "?E26"
+        "units": ">T34"
     },
     {
         "id": "MF2302001",
@@ -30,7 +30,7 @@
         "location": "170 SELBY LN ,ATN",
         "latitude": 37.4581103259721,
         "longitude": -122.220197429185,
-        "units": "E9"
+        "units": ">PR1C >E9"
     },
     {
         "id": "DF2300591",
@@ -41,40 +41,7 @@
         "location": "SO VISTA 3 / SB 280",
         "latitude": 37.4913015493745,
         "longitude": -122.300263671528,
-        "units": ">BC11 CM11X4 >T17 ?TAC15"
-    },
-    {
-        "id": "MF2302000",
-        "date": "2023-02-27",
-        "time": "1:50:32 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "1391 WOODSIDE RD ,WSB",
-        "latitude": 37.4573872955027,
-        "longitude": -122.226972437823,
-        "units": ">E3"
-    },
-    {
-        "id": "HF2300713",
-        "date": "2023-02-27",
-        "time": "1:39:39 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Trash fire",
-        "location": "MAIN ST / POPLAR ST",
-        "latitude": 37.4571210599061,
-        "longitude": -122.430100127362,
-        "units": ">E40"
-    },
-    {
-        "id": "SF2302646",
-        "date": "2023-02-27",
-        "time": "1:27:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S DELAWARE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
+        "units": "?TAC15 CM11X4 >T17 >BC11"
     },
     {
         "id": "DF2300587",
