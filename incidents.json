@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2302647",
+        "date": "2023-02-27",
+        "time": "2:04:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SAN JUAN CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "T34"
+    },
+    {
+        "id": "SF2302648",
+        "date": "2023-02-27",
+        "time": "2:03:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Sparking/arcing wires down",
+        "location": "344 E 40TH AVE ,SMO",
+        "latitude": 37.5340754006945,
+        "longitude": -122.283977609919,
+        "units": "?E26"
+    },
+    {
+        "id": "MF2302001",
+        "date": "2023-02-27",
+        "time": "1:57:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "170 SELBY LN ,ATN",
+        "latitude": 37.4581103259721,
+        "longitude": -122.220197429185,
+        "units": "E9"
+    },
+    {
+        "id": "DF2300591",
+        "date": "2023-02-27",
+        "time": "1:55:02 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SO VISTA 3 / SB 280",
+        "latitude": 37.4913015493745,
+        "longitude": -122.300263671528,
+        "units": ">BC11 CM11X4 >T17 ?TAC15"
+    },
+    {
+        "id": "MF2302000",
+        "date": "2023-02-27",
+        "time": "1:50:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "1391 WOODSIDE RD ,WSB",
+        "latitude": 37.4573872955027,
+        "longitude": -122.226972437823,
+        "units": ">E3"
+    },
+    {
         "id": "HF2300713",
         "date": "2023-02-27",
         "time": "1:39:39 PM",
@@ -8,62 +63,7 @@
         "location": "MAIN ST / POPLAR ST",
         "latitude": 37.4571210599061,
         "longitude": -122.430100127362,
-        "units": "E40"
-    },
-    {
-        "id": "NF2302630",
-        "date": "2023-02-27",
-        "time": "1:32:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "S MAYFAIR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "FF2301336",
-        "date": "2023-02-27",
-        "time": "1:30:19 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "PARKRIDGE CIR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "BF2300820",
-        "date": "2023-02-27",
-        "time": "1:29:30 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FLEETWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "FF2301335",
-        "date": "2023-02-27",
-        "time": "1:28:08 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "PARK WAY #3 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2302488",
-        "date": "2023-02-27",
-        "time": "1:27:51 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HURLINGAME AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": ">E40"
     },
     {
         "id": "SF2302646",
@@ -74,7 +74,7 @@
         "location": "S DELAWARE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
+        "units": "E23"
     },
     {
         "id": "DF2300587",
@@ -85,18 +85,7 @@
         "location": "SB 280 / SO 92",
         "latitude": 37.5004067419462,
         "longitude": -122.326125246726,
-        "units": "CM11X3 ?TAC16 >E17 >T17 >BC11"
-    },
-    {
-        "id": "LF2300244",
-        "date": "2023-02-27",
-        "time": "1:22:57 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LOUVAINE DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
+        "units": ">E17"
     },
     {
         "id": "HF2300712",
@@ -107,28 +96,6 @@
         "location": "EL GRANADA BLVD ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": ">E41 ?TAC45 CM41X4 >BC10"
-    },
-    {
-        "id": "DF2300586",
-        "date": "2023-02-27",
-        "time": "1:00:34 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / SO 92",
-        "latitude": 37.5004067419462,
-        "longitude": -122.326125246726,
-        "units": ">E27"
-    },
-    {
-        "id": "CF2301486",
-        "date": "2023-02-27",
-        "time": "12:48:20 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FAGAN DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": "E35"
+        "units": "E41"
     }
 ]
