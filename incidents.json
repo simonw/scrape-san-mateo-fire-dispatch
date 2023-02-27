@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2301987",
+        "id": "MF2301989",
         "date": "2023-02-27",
-        "time": "10:03:41 AM",
+        "time": "10:27:10 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "NEWELL RD / W BAYSHORE RD",
+        "location": "CAMINO A LOS CERROS ,WMP",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
+        "units": ">E4"
+    },
+    {
+        "id": "DF2300580",
+        "date": "2023-02-27",
+        "time": "10:24:26 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / SO 92",
+        "latitude": 37.5004067419462,
+        "longitude": -122.326125246726,
+        "units": ">E17 E27 CM11X3 BC11 T17?TAC15"
+    },
+    {
+        "id": "CF2301478",
+        "date": "2023-02-27",
+        "time": "10:19:05 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1717 ADRIAN RD ,BRM",
+        "latitude": 37.597723457847,
+        "longitude": -122.376348460233,
+        "units": ">BC8 CM21X5 ?TAC25 >E38"
+    },
+    {
+        "id": "RF2302479",
+        "date": "2023-02-27",
+        "time": "10:07:38 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "MF2301988",
@@ -19,7 +52,7 @@
         "location": "1777 WOODLAND AVE ,EPA",
         "latitude": 37.4545625055866,
         "longitude": -122.135759355296,
-        "units": "?E1"
+        "units": ">E1"
     },
     {
         "id": "RF2302478",
@@ -30,40 +63,7 @@
         "location": "AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "FF2301331",
-        "date": "2023-02-27",
-        "time": "9:57:30 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "HF2300710",
-        "date": "2023-02-27",
-        "time": "9:55:59 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLOOM LN #2105 ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "DF2300578",
-        "date": "2023-02-27",
-        "time": "9:53:03 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / SO 92",
-        "latitude": 37.5004067419462,
-        "longitude": -122.326125246726,
-        "units": ">E27 >E17 CM11X4 BC11 ?TAC15"
+        "units": "E5"
     },
     {
         "id": "RF2302477",
@@ -74,6 +74,6 @@
         "location": "STEVENS CT ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E18 >CM11X1 >T17"
+        "units": "E18"
     }
 ]
