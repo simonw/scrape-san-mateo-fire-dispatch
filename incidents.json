@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2302651",
+        "id": "DF2300593",
         "date": "2023-02-27",
-        "time": "3:11:38 PM",
+        "time": "3:41:04 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / SO 92",
+        "latitude": 37.5004067419462,
+        "longitude": -122.326125246726,
+        "units": "E15 T23 CM11X5 ?TAC16"
+    },
+    {
+        "id": "DF2300592",
+        "date": "2023-02-27",
+        "time": "3:34:24 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO EDGEWOOD RD",
+        "latitude": 37.4913015493745,
+        "longitude": -122.300263671528,
+        "units": ">E18 >BC11 >E27 E17 T17CM11X1 ?TAC15"
+    },
+    {
+        "id": "SF2302653",
+        "date": "2023-02-27",
+        "time": "3:27:58 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "309 TREASURE ISLAND DR ,BLM",
-        "latitude": 37.5332696448496,
-        "longitude": -122.268957096677,
-        "units": ">E14"
+        "category": "Medical aid",
+        "location": "N SAN MATEO DR #105 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "CF2301490",
@@ -20,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E38"
-    },
-    {
-        "id": "NF2302636",
-        "date": "2023-02-27",
-        "time": "2:56:54 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "JUNIPERO SERRA BLVD / JOHN DALY BLVD",
-        "latitude": 37.7050569487866,
-        "longitude": -122.470738015831,
-        "units": ">E92"
     }
 ]
