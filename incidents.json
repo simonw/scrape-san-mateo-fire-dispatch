@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2302500",
+        "date": "2023-02-27",
+        "time": "10:58:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BALTIC CIR #202 ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "CF2301502",
+        "date": "2023-02-27",
+        "time": "10:50:36 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HENRY PL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2302655",
+        "date": "2023-02-27",
+        "time": "10:47:30 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HICKEY BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "LF2300248",
         "date": "2023-02-27",
         "time": "10:40:26 PM",
@@ -8,7 +41,7 @@
         "location": "GILMAN DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E86"
     },
     {
         "id": "NF2302649",
@@ -19,61 +52,6 @@
         "location": "981 GELLERT BLVD ,DCY",
         "latitude": 37.6512057657666,
         "longitude": -122.456199976598,
-        "units": ">E64 T51 E94 E63 BC120CM31X1 ?TAC35"
-    },
-    {
-        "id": "SF2302672",
-        "date": "2023-02-27",
-        "time": "10:33:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HACIENDA ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
-    },
-    {
-        "id": "SF2302671",
-        "date": "2023-02-27",
-        "time": "10:30:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ARLINGTON LN ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "RF2302498",
-        "date": "2023-02-27",
-        "time": "10:28:30 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GORDON ST #G6 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2302670",
-        "date": "2023-02-27",
-        "time": "10:26:42 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2302648",
-        "date": "2023-02-27",
-        "time": "10:06:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SCHWERIN ST / MACDONALD AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
+        "units": ">E94 ?TAC35 CM31X1 >E63 >T51>E64 >BC120"
     }
 ]
