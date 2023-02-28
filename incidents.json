@@ -1,5 +1,16 @@
 [
     {
+        "id": "BF2300825",
+        "date": "2023-02-27",
+        "time": "11:36:34 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO 380",
+        "latitude": 37.6303140014453,
+        "longitude": -122.434989149881,
+        "units": "?TAC37 CM31X2 BC16 E61 T51"
+    },
+    {
         "id": "BF2300824",
         "date": "2023-02-27",
         "time": "11:22:26 PM",
@@ -8,7 +19,7 @@
         "location": "SANTA MARIA AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "NF2302660",
@@ -19,7 +30,7 @@
         "location": "501 KING DR #107 ,DCY",
         "latitude": 37.6540074635937,
         "longitude": -122.453402476534,
-        "units": "E52"
+        "units": ">E52"
     },
     {
         "id": "SF2302673",
@@ -30,7 +41,7 @@
         "location": "NOTRE DAME AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E14"
     },
     {
         "id": "FF2301345",
@@ -44,28 +55,6 @@
         "units": ">E65"
     },
     {
-        "id": "MF2302015",
-        "date": "2023-02-27",
-        "time": "11:09:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Trash fire",
-        "location": "1120 MERRILL ST ,MNP",
-        "latitude": 37.4545762580927,
-        "longitude": -122.182399737614,
-        "units": ""
-    },
-    {
-        "id": "NF2302659",
-        "date": "2023-02-27",
-        "time": "11:06:51 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "411 OCEANA BLVD ,PCF",
-        "latitude": 37.6505289220498,
-        "longitude": -122.489691556475,
-        "units": ">E71"
-    },
-    {
         "id": "NF2302658",
         "date": "2023-02-27",
         "time": "11:04:15 PM",
@@ -74,40 +63,7 @@
         "location": "555 CRESPI DR ,PCF",
         "latitude": 37.5992882644219,
         "longitude": -122.498628049036,
-        "units": "T95 >E72 BC20 CM31X5 ?TAC36"
-    },
-    {
-        "id": "NF2302657",
-        "date": "2023-02-27",
-        "time": "11:01:57 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "690 HEATHER CT ,PCF",
-        "latitude": 37.6438824273329,
-        "longitude": -122.47067918693,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2302500",
-        "date": "2023-02-27",
-        "time": "10:58:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BALTIC CIR #202 ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "CF2301502",
-        "date": "2023-02-27",
-        "time": "10:50:36 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HENRY PL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM31X5 ?TAC36 >T95 >E72"
     },
     {
         "id": "NF2302649",
@@ -118,6 +74,6 @@
         "location": "981 GELLERT BLVD ,DCY",
         "latitude": 37.6512057657666,
         "longitude": -122.456199976598,
-        "units": ">E94 ?TAC35 CM31X1 >E63 >T51>E64 >BC120"
+        "units": ">E94 ?TAC35 CM31X1 >E63 >E64>BC120"
     }
 ]
