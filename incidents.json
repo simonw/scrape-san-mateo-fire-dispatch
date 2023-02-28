@@ -1,5 +1,16 @@
 [
     {
+        "id": "RF2302512",
+        "date": "2023-02-28",
+        "time": "4:13:53 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD #107 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
         "id": "RF2302511",
         "date": "2023-02-28",
         "time": "4:06:46 AM",
@@ -8,7 +19,7 @@
         "location": "MAPLE ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E9"
+        "units": ">E9"
     },
     {
         "id": "NF2302665",
@@ -19,40 +30,7 @@
         "location": "SB 1 / NO MANOR DR",
         "latitude": 37.6578989851063,
         "longitude": -122.487262663423,
-        "units": "BC20 E95 T95 E91 TAC36?CM31X3"
-    },
-    {
-        "id": "MF2302019",
-        "date": "2023-02-28",
-        "time": "3:54:52 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NIMITZ AVE ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "SF2302674",
-        "date": "2023-02-28",
-        "time": "3:43:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PORT ROYAL AVE ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "NF2302664",
-        "date": "2023-02-28",
-        "time": "3:43:10 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY DR #144 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">T95"
     },
     {
         "id": "NF2302649",
@@ -63,6 +41,6 @@
         "location": "976 GELLERT BLVD ,DCY",
         "latitude": 37.6512057657666,
         "longitude": -122.456199976598,
-        "units": ">E94 >TAC35 CM31X1 >E64 >BC120"
+        "units": ">E94 >CM31X1 >TAC35 >E64 >BC120"
     }
 ]
