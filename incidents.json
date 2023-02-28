@@ -1,14 +1,36 @@
 [
     {
-        "id": "FF2301354",
+        "id": "DF2300603",
         "date": "2023-02-28",
-        "time": "10:22:51 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "352 SHAW RD ,SSF",
-        "latitude": 37.6369603671728,
-        "longitude": -122.406802494407,
-        "units": "TAC37 ?E65 CM31X5 T51"
+        "time": "10:43:38 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / SO SHEEP CAMP TR",
+        "latitude": 37.4913015493745,
+        "longitude": -122.300263671528,
+        "units": "E19 E18 ?TAC16 ?CM11X3 ?BC2?T23"
+    },
+    {
+        "id": "DF2300602",
+        "date": "2023-02-28",
+        "time": "10:35:23 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / SO 92",
+        "latitude": 37.4913015493745,
+        "longitude": -122.300263671528,
+        "units": "CM11X2 ?TAC15 >T17 >BC11 >E27"
+    },
+    {
+        "id": "CF2301518",
+        "date": "2023-02-28",
+        "time": "10:32:00 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #1218 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "CF2301517",
@@ -20,28 +42,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E35"
-    },
-    {
-        "id": "CF2301516",
-        "date": "2023-02-28",
-        "time": "10:16:01 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "CF2301515",
-        "date": "2023-02-28",
-        "time": "10:10:29 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LOMITA AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
     },
     {
         "id": "WF2300422",
@@ -63,6 +63,6 @@
         "location": "976 GELLERT BLVD ,DCY",
         "latitude": 37.6512057657666,
         "longitude": -122.456199976598,
-        "units": ">E94 >CM31X1 >TAC35 >E63 >E64>BC120"
+        "units": ">E94 >CM31X1 >TAC35 >E64 >BC120"
     }
 ]
