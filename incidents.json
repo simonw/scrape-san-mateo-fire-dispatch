@@ -1,14 +1,69 @@
 [
     {
-        "id": "FF2301372",
+        "id": "SF2302737",
         "date": "2023-03-01",
-        "time": "10:43:46 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "11:02:44 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "2211 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5608970502269,
+        "longitude": -122.284657918613,
+        "units": "T21 E26 ?TAC26 ?CM21X1 ?BC5"
+    },
+    {
+        "id": "RF2302558",
+        "date": "2023-03-01",
+        "time": "10:58:36 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ALPINE CT ,SSF",
+        "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E9"
+    },
+    {
+        "id": "RF2302557",
+        "date": "2023-03-01",
+        "time": "10:57:39 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LANCASTER WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2301373",
+        "date": "2023-03-01",
+        "time": "10:53:40 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALIDA WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "SF2302736",
+        "date": "2023-03-01",
+        "time": "10:52:38 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "DF2300610",
+        "date": "2023-03-01",
+        "time": "10:44:42 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / SO TROUSDALE DR",
+        "latitude": 37.565593826912,
+        "longitude": -122.389108110994,
+        "units": ">T51 >E34 >BC16 ?TAC25 ?CM21X5"
     },
     {
         "id": "CF2301547",
@@ -19,6 +74,6 @@
         "location": "E MILLBRAE AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": "E37"
     }
 ]
