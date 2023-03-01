@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2302691",
+        "id": "RF2302542",
         "date": "2023-03-01",
-        "time": "12:25:25 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:41:26 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "700 BAIR ISLAND RD ,RCY",
+        "latitude": 37.4991046328101,
+        "longitude": -122.221736312786,
+        "units": "E11 BC3 ?TAC15 ?CM11X3 ?T9"
+    },
+    {
+        "id": "RF2302541",
+        "date": "2023-03-01",
+        "time": "12:39:12 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "MARBLY AVE ,DCY",
+        "location": "WOODSIDE RD #1 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": "E10"
     },
     {
         "id": "RF2302540",
@@ -20,16 +31,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "CF2301533",
-        "date": "2023-03-01",
-        "time": "12:10:24 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY #313 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
     }
 ]
