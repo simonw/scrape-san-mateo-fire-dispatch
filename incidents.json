@@ -1,5 +1,71 @@
 [
     {
+        "id": "FF2301385",
+        "date": "2023-03-01",
+        "time": "7:07:34 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "901 GATEWAY BLVD ,SSF",
+        "latitude": 37.6613847204936,
+        "longitude": -122.397214461963,
+        "units": "E65"
+    },
+    {
+        "id": "CF2301560",
+        "date": "2023-03-01",
+        "time": "7:07:18 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1600 OLD BAYSHORE HWY ,BRM",
+        "latitude": 37.5997077986349,
+        "longitude": -122.366962798634,
+        "units": "E34"
+    },
+    {
+        "id": "RF2302577",
+        "date": "2023-03-01",
+        "time": "7:06:43 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EMERALD HILL RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "BF2300861",
+        "date": "2023-03-01",
+        "time": "7:04:46 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Lock out - residential",
+        "location": "3251 FASMAN DR ,SNB",
+        "latitude": 37.6340947961398,
+        "longitude": -122.461311360045,
+        "units": ">E52"
+    },
+    {
+        "id": "BF2300860",
+        "date": "2023-03-01",
+        "time": "7:01:51 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #300 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "BF2300859",
+        "date": "2023-03-01",
+        "time": "7:01:23 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN MATEO AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "CF2301558",
         "date": "2023-03-01",
         "time": "6:58:46 PM",
@@ -8,7 +74,18 @@
         "location": "EL CAMINO REAL ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E24"
+        "units": ">E24"
+    },
+    {
+        "id": "RF2302576",
+        "date": "2023-03-01",
+        "time": "6:58:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "908 ALLERTON ST ,RCY",
+        "latitude": 37.4910675441807,
+        "longitude": -122.23403363082,
+        "units": ""
     },
     {
         "id": "MF2302080",
@@ -20,60 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E6"
-    },
-    {
-        "id": "BF2300858",
-        "date": "2023-03-01",
-        "time": "6:47:56 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MILLS AVE #2 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "NF2302724",
-        "date": "2023-03-01",
-        "time": "6:41:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALOMA AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2302756",
-        "date": "2023-03-01",
-        "time": "6:40:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "3088 BAZE RD ,SMO",
-        "latitude": 37.5408901405987,
-        "longitude": -122.296984052499,
-        "units": ">T23"
-    },
-    {
-        "id": "DF2300613",
-        "date": "2023-03-01",
-        "time": "6:07:50 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LA HONDA RD #42 ,LAH",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E58"
-    },
-    {
-        "id": "NF2302718",
-        "date": "2023-03-01",
-        "time": "4:50:13 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Structure fire",
-        "location": "11 MIRIAM ST ,DCY",
-        "latitude": 37.7047780912616,
-        "longitude": -122.465233281499,
-        "units": ">E92 >TAC35 CM31X3"
     }
 ]
