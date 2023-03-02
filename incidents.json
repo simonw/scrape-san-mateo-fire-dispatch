@@ -1,25 +1,36 @@
 [
     {
-        "id": "MF2302078",
+        "id": "NF2302722",
         "date": "2023-03-01",
-        "time": "5:00:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "5:55:43 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "UNIVERSITY AVE / DONOHOE ST",
+        "location": "SKYLINE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": "E94"
     },
     {
-        "id": "SF2302753",
+        "id": "CF2301557",
         "date": "2023-03-01",
-        "time": "4:58:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "5:40:06 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "VIRGINIA AVE ,SMO",
+        "location": "TROUSDALE DR #295 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E34"
+    },
+    {
+        "id": "NF2302721",
+        "date": "2023-03-01",
+        "time": "5:33:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "47 WILSON ST ,DCY",
+        "latitude": 37.7073215234253,
+        "longitude": -122.458983553126,
+        "units": ">E91"
     },
     {
         "id": "NF2302718",
@@ -30,17 +41,6 @@
         "location": "11 MIRIAM ST ,DCY",
         "latitude": 37.7047780912616,
         "longitude": -122.465233281499,
-        "units": ">E91 >E71 >BC121 >T95 >E95>E94 >BC20 >TAC35 >E92 E63"
-    },
-    {
-        "id": "RF2302572",
-        "date": "2023-03-01",
-        "time": "3:22:32 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Gas main break",
-        "location": "875 REGENT CT ,SNC",
-        "latitude": 37.4873734197135,
-        "longitude": -122.285690429231,
-        "units": ">E18"
+        "units": ">E92 >TAC35 >BC20 >E95 >PR20C>T95 CM31X3"
     }
 ]
