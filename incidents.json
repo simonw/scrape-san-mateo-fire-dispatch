@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2302104",
+        "date": "2023-03-02",
+        "time": "2:25:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #212A ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E6"
+    },
+    {
+        "id": "SF2302780",
+        "date": "2023-03-02",
+        "time": "2:17:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #3 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
+        "id": "SF2302779",
+        "date": "2023-03-02",
+        "time": "2:08:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N AMPHLETT BLVD / E POPLAR AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "MF2302103",
         "date": "2023-03-02",
         "time": "2:00:48 PM",
@@ -8,18 +41,7 @@
         "location": "SHARON OAKS DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X2 ?E4 E7"
-    },
-    {
-        "id": "RF2302609",
-        "date": "2023-03-02",
-        "time": "1:27:58 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO WHIPPLE AVE",
-        "latitude": 37.501502985081,
-        "longitude": -122.242206420289,
-        "units": ""
+        "units": "CM11X2 >E7 >R7 >BC2"
     },
     {
         "id": "CF2301573",
@@ -30,17 +52,6 @@
         "location": "AIRPORT BLVD ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">CM21X2 >BC8 >T34 >TAC25 >E34>USR133"
-    },
-    {
-        "id": "DF2300614",
-        "date": "2023-03-02",
-        "time": "12:14:32 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "399 WINDING WAY ,DVN",
-        "latitude": 37.4942422877434,
-        "longitude": -122.278349628196,
-        "units": ""
+        "units": ">CM21X2 >BC8 >TAC25 >USR133"
     }
 ]
