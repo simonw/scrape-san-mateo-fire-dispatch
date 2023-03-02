@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2302725",
+        "date": "2023-03-01",
+        "time": "7:28:34 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Explosion",
+        "location": "HILL ST / W MARKET ST",
+        "latitude": 37.6897902609944,
+        "longitude": -122.468705268761,
+        "units": "?TAC35 ?CM31X2 ?BC20 ?E94 ?E95?E92 ?T95"
+    },
+    {
+        "id": "WF2300430",
+        "date": "2023-03-01",
+        "time": "7:17:22 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WHISKEY HILL RD / SAND HILL RD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E7"
+    },
+    {
+        "id": "MF2302081",
+        "date": "2023-03-01",
+        "time": "7:14:49 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1000 EL CAMINO REAL ,ATN",
+        "latitude": 37.4560770363324,
+        "longitude": -122.192078155915,
+        "units": ">E6"
+    },
+    {
         "id": "FF2301385",
         "date": "2023-03-01",
         "time": "7:07:34 PM",
@@ -8,29 +41,7 @@
         "location": "901 GATEWAY BLVD ,SSF",
         "latitude": 37.6613847204936,
         "longitude": -122.397214461963,
-        "units": "E65"
-    },
-    {
-        "id": "CF2301560",
-        "date": "2023-03-01",
-        "time": "7:07:18 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1600 OLD BAYSHORE HWY ,BRM",
-        "latitude": 37.5997077986349,
-        "longitude": -122.366962798634,
-        "units": "E34"
-    },
-    {
-        "id": "RF2302577",
-        "date": "2023-03-01",
-        "time": "7:06:43 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EMERALD HILL RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": ">E65"
     },
     {
         "id": "BF2300861",
@@ -53,49 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T51"
-    },
-    {
-        "id": "BF2300859",
-        "date": "2023-03-01",
-        "time": "7:01:23 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN MATEO AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "CF2301558",
-        "date": "2023-03-01",
-        "time": "6:58:46 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "RF2302576",
-        "date": "2023-03-01",
-        "time": "6:58:14 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "908 ALLERTON ST ,RCY",
-        "latitude": 37.4910675441807,
-        "longitude": -122.23403363082,
-        "units": ""
-    },
-    {
-        "id": "MF2302080",
-        "date": "2023-03-01",
-        "time": "6:51:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #223 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
     }
 ]
