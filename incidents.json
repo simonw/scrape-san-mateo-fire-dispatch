@@ -1,69 +1,58 @@
 [
     {
-        "id": "RF2302605",
+        "id": "MF2302101",
         "date": "2023-03-02",
-        "time": "12:03:18 PM",
+        "time": "12:26:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NEWBRIDGE ST / SARATOGA AVE",
+        "latitude": 37.4726518496996,
+        "longitude": -122.153712361026,
+        "units": "?TAC15 ?E2 CM11X5 ?BC101 ?T2"
+    },
+    {
+        "id": "SF2302774",
+        "date": "2023-03-02",
+        "time": "12:18:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FOSTER SQUARE LN #302 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "DF2300614",
+        "date": "2023-03-02",
+        "time": "12:14:32 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist",
+        "location": "399 WINDING WAY ,DVN",
+        "latitude": 37.4942422877434,
+        "longitude": -122.278349628196,
+        "units": "E13"
+    },
+    {
+        "id": "RF2302606",
+        "date": "2023-03-02",
+        "time": "12:13:08 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Traffic accident pd request c3",
-        "location": "WHIPPLE AVE / E BAYSHORE RD",
-        "latitude": 37.497401081283,
-        "longitude": -122.232601910177,
-        "units": "T9 E11 BC3 CM11X2 ?TAC15"
+        "location": "WHIPPLE AVE / EL CAMINO REAL",
+        "latitude": 37.4904415192005,
+        "longitude": -122.239772684996,
+        "units": ">T9"
     },
     {
-        "id": "RF2302604",
+        "id": "NF2302750",
         "date": "2023-03-02",
-        "time": "12:01:51 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WALNUT ST #10 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "NF2302749",
-        "date": "2023-03-02",
-        "time": "11:59:03 AM",
+        "time": "12:10:12 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "LUPINE CT ,DCY",
+        "location": "PONCETTA DR #222 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "MF2302100",
-        "date": "2023-03-02",
-        "time": "11:56:46 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "2358 UNIVERSITY AVE #211 ,EPA",
-        "latitude": 37.4697269792462,
-        "longitude": -122.140358482152,
-        "units": ">E2"
-    },
-    {
-        "id": "MF2302099",
-        "date": "2023-03-02",
-        "time": "11:55:40 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "196 DEXTER AVE ,NFO",
-        "latitude": 37.470311345633,
-        "longitude": -122.20820966827,
-        "units": ">E3"
-    },
-    {
-        "id": "NF2302748",
-        "date": "2023-03-02",
-        "time": "11:53:43 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BISMARK ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ">E91"
     },
     {
         "id": "FF2301399",
@@ -75,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E63"
-    },
-    {
-        "id": "SF2302773",
-        "date": "2023-03-02",
-        "time": "11:39:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OXFORD WAY ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
     }
 ]
