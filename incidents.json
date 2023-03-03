@@ -1,14 +1,69 @@
 [
     {
+        "id": "SF2302823",
+        "date": "2023-03-03",
+        "time": "12:02:23 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAUREL AVE #3A3 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "RF2302642",
+        "date": "2023-03-03",
+        "time": "11:54:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARLIN CT ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "NF2302775",
+        "date": "2023-03-03",
+        "time": "11:53:11 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #208D ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "NF2302774",
+        "date": "2023-03-03",
+        "time": "11:50:48 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SCHWERIN ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "FF2301418",
+        "date": "2023-03-03",
+        "time": "11:49:55 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "C ST #2 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "RF2302641",
         "date": "2023-03-03",
         "time": "11:42:00 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Wires down (not sparking)",
-        "location": "ADAMS ST / JACKSON AVE",
+        "location": "202 JACKSON AVE ,RCY",
         "latitude": 37.4811453631967,
         "longitude": -122.230704136039,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "SF2302822",
@@ -20,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E15"
-    },
-    {
-        "id": "MF2302136",
-        "date": "2023-03-03",
-        "time": "11:27:11 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
     }
 ]
