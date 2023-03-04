@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2302147",
+        "date": "2023-03-03",
+        "time": "7:24:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "W BAYSHORE RD #50 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "RF2302670",
+        "date": "2023-03-03",
+        "time": "7:18:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2302796",
+        "date": "2023-03-03",
+        "time": "7:13:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BANFF WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "CF2301604",
         "date": "2023-03-03",
         "time": "7:04:01 PM",
@@ -8,7 +41,7 @@
         "location": "851 BURLWAY RD ,BRM",
         "latitude": 37.5951457848287,
         "longitude": -122.366054381563,
-        "units": "T21 E24 CM21X2 ?TAC26 ?BC8"
+        "units": "CM21X2 TAC26"
     },
     {
         "id": "SF2302837",
@@ -22,28 +55,6 @@
         "units": ">E21"
     },
     {
-        "id": "MF2302146",
-        "date": "2023-03-03",
-        "time": "6:56:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "BF2300879",
-        "date": "2023-03-03",
-        "time": "6:54:26 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "CF2301603",
         "date": "2023-03-03",
         "time": "6:53:10 PM",
@@ -52,28 +63,6 @@
         "location": "198 CALIFORNIA DR ,BRM",
         "latitude": 37.5785772648903,
         "longitude": -122.342117223446,
-        "units": ">T34 >E34 TAC25 CM21X1"
-    },
-    {
-        "id": "NF2302795",
-        "date": "2023-03-03",
-        "time": "6:46:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO 1",
-        "latitude": 37.6738400118365,
-        "longitude": -122.468286519171,
-        "units": ">E94"
-    },
-    {
-        "id": "FF2301432",
-        "date": "2023-03-03",
-        "time": "6:43:48 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MCLELLAN DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">T34 CM21X1 TAC25 >E34"
     }
 ]
