@@ -1,5 +1,16 @@
 [
     {
+        "id": "DF2300625",
+        "date": "2023-03-03",
+        "time": "8:21:24 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "3100 CABRILLO HWY ,SOS",
+        "latitude": 37.1400935466799,
+        "longitude": -122.318278677054,
+        "units": "BC10 R57 E1781 E59 E40?TAC16"
+    },
+    {
         "id": "DF2300624",
         "date": "2023-03-03",
         "time": "8:00:51 PM",
@@ -8,7 +19,7 @@
         "location": "SKYLINE BLVD ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": "R56 E58 ?TAC15"
+        "units": "?TAC15 >E58 >R56"
     },
     {
         "id": "SF2302838",
@@ -30,29 +41,7 @@
         "location": "GELLERT BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "DF2300623",
-        "date": "2023-03-03",
-        "time": "7:55:10 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "1971 LOS ALTOS DR ,EIC",
-        "latitude": 37.5231308481879,
-        "longitude": -122.338725674396,
-        "units": ">E27"
-    },
-    {
-        "id": "MF2302148",
-        "date": "2023-03-03",
-        "time": "7:50:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAKWOOD DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ""
     },
     {
         "id": "NF2302797",
@@ -63,6 +52,6 @@
         "location": "GUADALUPE CANYON PKWY / CARTER ST",
         "latitude": 37.6990874659049,
         "longitude": -122.421048964428,
-        "units": ">E93 ?TAC35 ?CM31X5"
+        "units": ">E93"
     }
 ]
