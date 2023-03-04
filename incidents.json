@@ -1,14 +1,58 @@
 [
     {
-        "id": "WF2300443",
+        "id": "RF2302658",
         "date": "2023-03-03",
-        "time": "3:40:43 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "1104 GODETIA DR ,WDS",
-        "latitude": 37.4498028945627,
-        "longitude": -122.270857565888,
-        "units": "E7"
+        "time": "4:19:44 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "270 INDUSTRIAL RD ,SNC",
+        "latitude": 37.5154741801079,
+        "longitude": -122.262986093504,
+        "units": "E14"
+    },
+    {
+        "id": "NF2302788",
+        "date": "2023-03-03",
+        "time": "4:09:23 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PALMCREST DR #14 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "FF2301426",
+        "date": "2023-03-03",
+        "time": "4:03:25 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "E GRAND AVE #258 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "SF2302834",
+        "date": "2023-03-03",
+        "time": "3:57:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "FF2301425",
+        "date": "2023-03-03",
+        "time": "3:49:59 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "405 ECCLES AVE ,SSF",
+        "latitude": 37.6571049632681,
+        "longitude": -122.396362452671,
+        "units": ">E61"
     },
     {
         "id": "RF2302656",
@@ -19,18 +63,7 @@
         "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9 CM11X4 >E12"
-    },
-    {
-        "id": "FF2301424",
-        "date": "2023-03-03",
-        "time": "3:34:57 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": "E9 CM11X4 E12"
     },
     {
         "id": "FF2301423",
@@ -41,7 +74,7 @@
         "location": "213 SOUTHCLIFF AVE ,SSF",
         "latitude": 37.6544862623456,
         "longitude": -122.447883437346,
-        "units": ">E63"
+        "units": ""
     },
     {
         "id": "DF2300622",
@@ -52,83 +85,6 @@
         "location": "BUTANO CUT OFF ,PES",
         "latitude": null,
         "longitude": null,
-        "units": ">E59"
-    },
-    {
-        "id": "HF2300752",
-        "date": "2023-03-03",
-        "time": "3:29:42 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "171 SAN LUCAS AVE ,MBH",
-        "latitude": 37.5162054296986,
-        "longitude": -122.511243487033,
-        "units": ">E44"
-    },
-    {
-        "id": "SF2302833",
-        "date": "2023-03-03",
-        "time": "3:28:36 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "99 27TH AVE ,SMO",
-        "latitude": 37.5415483056407,
-        "longitude": -122.305300025779,
-        "units": ">E23"
-    },
-    {
-        "id": "WF2300442",
-        "date": "2023-03-03",
-        "time": "3:27:58 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "36 SKYLINE DR ,SKY",
-        "latitude": 37.3771057344818,
-        "longitude": -122.260948238291,
-        "units": "*>E58"
-    },
-    {
-        "id": "HF2300751",
-        "date": "2023-03-03",
-        "time": "3:26:52 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLOOM LN #4101 ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "MF2302140",
-        "date": "2023-03-03",
-        "time": "3:26:13 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "SF2302832",
-        "date": "2023-03-03",
-        "time": "3:26:01 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NIMITZ LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "LF2300259",
-        "date": "2023-03-03",
-        "time": "3:18:30 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "19 HIBISCUS CT ,DCY",
-        "latitude": 37.6870958904967,
-        "longitude": -122.463580350616,
-        "units": "*>E86"
+        "units": ""
     }
 ]
