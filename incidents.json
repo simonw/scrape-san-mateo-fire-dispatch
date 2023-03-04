@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2301604",
+        "date": "2023-03-03",
+        "time": "7:04:01 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "851 BURLWAY RD ,BRM",
+        "latitude": 37.5951457848287,
+        "longitude": -122.366054381563,
+        "units": "T21 E24 CM21X2 ?TAC26 ?BC8"
+    },
+    {
+        "id": "SF2302837",
+        "date": "2023-03-03",
+        "time": "7:00:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2302146",
+        "date": "2023-03-03",
+        "time": "6:56:03 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "BF2300879",
+        "date": "2023-03-03",
+        "time": "6:54:26 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "CF2301603",
         "date": "2023-03-03",
         "time": "6:53:10 PM",
@@ -8,7 +52,7 @@
         "location": "198 CALIFORNIA DR ,BRM",
         "latitude": 37.5785772648903,
         "longitude": -122.342117223446,
-        "units": "CM21X1 ?TAC25 ?BC8 ?E34 ?T34"
+        "units": ">T34 >E34 TAC25 CM21X1"
     },
     {
         "id": "NF2302795",
@@ -19,7 +63,7 @@
         "location": "NB 280 / SO 1",
         "latitude": 37.6738400118365,
         "longitude": -122.468286519171,
-        "units": ">E94 BC124 T95 E92 CM31X4?TAC35"
+        "units": ">E94"
     },
     {
         "id": "FF2301432",
@@ -31,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E63"
-    },
-    {
-        "id": "NF2302794",
-        "date": "2023-03-03",
-        "time": "6:39:23 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LINCOLN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
     }
 ]
