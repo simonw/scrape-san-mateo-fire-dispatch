@@ -1,14 +1,80 @@
 [
     {
-        "id": "LF2300265",
+        "id": "RF2302701",
         "date": "2023-03-04",
-        "time": "3:42:52 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "4:21:41 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1280 VETERANS BLVD ,RCY",
+        "latitude": 37.4888339486976,
+        "longitude": -122.219861707853,
+        "units": ">E9 T9 BC3 CM11X2 ?TAC15"
+    },
+    {
+        "id": "NF2302822",
+        "date": "2023-03-04",
+        "time": "4:16:23 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "GUADALUPE CANYON PKWY / PRICE ST",
+        "latitude": 37.694218068163,
+        "longitude": -122.455205570575,
+        "units": ">E93 T95"
+    },
+    {
+        "id": "MF2302170",
+        "date": "2023-03-04",
+        "time": "4:15:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "UNIVERSITY DR / MIDDLE AVE",
+        "latitude": 37.4463667675006,
+        "longitude": -122.180605671872,
+        "units": ">E6"
+    },
+    {
+        "id": "CF2301626",
+        "date": "2023-03-04",
+        "time": "4:15:16 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,CLM",
+        "location": "MILLS CANYON CT ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "CM31X1 ?E94 ?E285"
+        "units": ">E38"
+    },
+    {
+        "id": "BF2300888",
+        "date": "2023-03-04",
+        "time": "4:12:03 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #206 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "CF2301625",
+        "date": "2023-03-04",
+        "time": "4:11:52 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DARRELL RD ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "NF2302821",
+        "date": "2023-03-04",
+        "time": "4:10:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BELLEVUE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "FF2301437",
@@ -20,27 +86,5 @@
         "latitude": 37.6565578348002,
         "longitude": -122.408966740116,
         "units": ">Q62"
-    },
-    {
-        "id": "BF2300886",
-        "date": "2023-03-04",
-        "time": "3:29:36 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #1308 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "LF2300264",
-        "date": "2023-03-04",
-        "time": "3:24:25 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD #317 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
     }
 ]
