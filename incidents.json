@@ -1,5 +1,27 @@
 [
     {
+        "id": "DF2300638",
+        "date": "2023-03-05",
+        "time": "9:57:13 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SKYLINE BLVD / RAPLEY RANCH RD",
+        "latitude": 37.3412257538656,
+        "longitude": -122.220206981198,
+        "units": "TAC15 E58 E7 BC2 SQ407R57"
+    },
+    {
+        "id": "SF2302893",
+        "date": "2023-03-05",
+        "time": "9:53:07 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SEA SPRAY LN #201 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
         "id": "MF2302191",
         "date": "2023-03-05",
         "time": "9:42:01 AM",
@@ -8,40 +30,7 @@
         "location": "FLOOD CIR ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
-    },
-    {
-        "id": "CF2301638",
-        "date": "2023-03-05",
-        "time": "9:39:43 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #301 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "T34"
-    },
-    {
-        "id": "SF2302892",
-        "date": "2023-03-05",
-        "time": "9:38:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "RALSTON AVE / CIPRIANI BLVD",
-        "latitude": 37.5123690976664,
-        "longitude": -122.3041243377,
-        "units": ">E15 BC5 T17 CM11X5 ?TAC15"
-    },
-    {
-        "id": "NF2302843",
-        "date": "2023-03-05",
-        "time": "9:29:25 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PACIFIC AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">E5"
     },
     {
         "id": "HF2300779",
@@ -52,7 +41,7 @@
         "location": "STONE PINE RD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E41"
+        "units": "*>E41"
     },
     {
         "id": "DF2300636",
@@ -63,6 +52,6 @@
         "location": "640 CABRILLO HWY ,SOS",
         "latitude": 37.1206284500294,
         "longitude": -122.307292219667,
-        "units": ">E1781 *>E59"
+        "units": ">E1781"
     }
 ]
