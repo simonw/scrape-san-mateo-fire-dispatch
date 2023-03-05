@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2302199",
+        "id": "RF2302731",
         "date": "2023-03-05",
-        "time": "1:01:53 PM",
+        "time": "1:22:22 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WALNUT ST #10 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "CF2301643",
+        "date": "2023-03-05",
+        "time": "1:22:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MYRTLE RD #205 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "MF2302200",
+        "date": "2023-03-05",
+        "time": "1:19:02 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "172 TOYON RD ,ATN",
-        "latitude": 37.4648785579098,
-        "longitude": -122.173072575746,
-        "units": "E1"
+        "category": "Medical aid",
+        "location": "ATHERTON AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
     },
     {
         "id": "BF2300903",
@@ -22,28 +44,6 @@
         "units": ">T51"
     },
     {
-        "id": "CF2301642",
-        "date": "2023-03-05",
-        "time": "12:55:34 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #2 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "DF2300639",
-        "date": "2023-03-05",
-        "time": "12:50:57 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Vehicle fire",
-        "location": "SB 280 / SO BUNKER HILL DR",
-        "latitude": 37.5128003426877,
-        "longitude": -122.347426465418,
-        "units": "?TAC15 >E18 CM11X3 >E17 >BC11"
-    },
-    {
         "id": "RF2302730",
         "date": "2023-03-05",
         "time": "12:50:27 PM",
@@ -52,7 +52,7 @@
         "location": "EMERALD AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E16"
+        "units": ""
     },
     {
         "id": "NF2302849",
@@ -64,49 +64,5 @@
         "latitude": 37.6509583172494,
         "longitude": -122.456874093087,
         "units": ">E63 >BC120"
-    },
-    {
-        "id": "MF2302198",
-        "date": "2023-03-05",
-        "time": "12:40:11 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL / ALMENDRAL AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2300902",
-        "date": "2023-03-05",
-        "time": "12:34:17 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SANTA MARIA AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2302729",
-        "date": "2023-03-05",
-        "time": "12:30:06 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JACKSON AVE #2 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2301450",
-        "date": "2023-03-05",
-        "time": "12:29:22 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HAUSMAN CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
     }
 ]
