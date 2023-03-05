@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2302184",
+        "date": "2023-03-05",
+        "time": "3:40:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "CF2301634",
+        "date": "2023-03-05",
+        "time": "3:27:12 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Trash fire",
+        "location": "CALIFORNIA DR / MURCHISON DR",
+        "latitude": 37.5974581682351,
+        "longitude": -122.384693126331,
+        "units": ">E37"
+    },
+    {
         "id": "RF2302718",
         "date": "2023-03-05",
         "time": "3:23:06 AM",
@@ -8,7 +30,7 @@
         "location": "ELM ST #303 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "?E16"
+        "units": ">E16"
     },
     {
         "id": "BF2300896",
@@ -17,50 +39,6 @@
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
         "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "RF2302717",
-        "date": "2023-03-05",
-        "time": "3:18:22 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN CARLOS AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "MF2302183",
-        "date": "2023-03-05",
-        "time": "3:14:36 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BUCKINGHAM AVE #B ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2302716",
-        "date": "2023-03-05",
-        "time": "3:09:19 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1087 OLD COUNTY RD ,SNC",
-        "latitude": 37.5019224100496,
-        "longitude": -122.251866836528,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2302883",
-        "date": "2023-03-05",
-        "time": "2:59:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLISLE DR ,SMO",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -75,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E41"
-    },
-    {
-        "id": "HF2300772",
-        "date": "2023-03-05",
-        "time": "2:25:49 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "200 CALIFORNIA AVE ,MBH",
-        "latitude": 37.5236961072247,
-        "longitude": -122.515605235162,
-        "units": ">E44"
     }
 ]
