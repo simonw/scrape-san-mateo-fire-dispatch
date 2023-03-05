@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2302736",
+        "date": "2023-03-05",
+        "time": "3:04:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TWIN DOLPHIN DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E16"
+    },
+    {
+        "id": "SF2302901",
+        "date": "2023-03-05",
+        "time": "2:58:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS #105 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "RF2302735",
+        "date": "2023-03-05",
+        "time": "2:56:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "353 MAIN ST ,RCY",
+        "latitude": 37.4913954502611,
+        "longitude": -122.226132964594,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2302900",
+        "date": "2023-03-05",
+        "time": "2:47:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAMINO VISTA CT ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "FF2301456",
+        "date": "2023-03-05",
+        "time": "2:44:55 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ASPEN AVE #1 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "MF2302207",
         "date": "2023-03-05",
         "time": "2:40:41 PM",
@@ -8,7 +63,7 @@
         "location": "180 BUCKINGHAM AVE ,NFO",
         "latitude": 37.4736948770798,
         "longitude": -122.213532815927,
-        "units": "BC1 T9 E9 E10 E3CM11X4 ?TAC15"
+        "units": ">T9"
     },
     {
         "id": "DF2300640",
@@ -19,7 +74,7 @@
         "location": "EDMONDS RD ,EML",
         "latitude": null,
         "longitude": null,
-        "units": "E19"
+        "units": ">E19"
     },
     {
         "id": "RF2302734",
@@ -33,50 +88,6 @@
         "units": ">E20"
     },
     {
-        "id": "FF2301455",
-        "date": "2023-03-05",
-        "time": "2:34:50 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WILDWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "RF2302733",
-        "date": "2023-03-05",
-        "time": "2:34:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROYAL LN ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "BF2300904",
-        "date": "2023-03-05",
-        "time": "2:33:33 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MAGNOLIA AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "MF2302203",
-        "date": "2023-03-05",
-        "time": "2:29:20 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Trash fire",
-        "location": "1781 E BAYSHORE RD ,EPA",
-        "latitude": 37.4589407354757,
-        "longitude": -122.13577955583,
-        "units": ">E77"
-    },
-    {
         "id": "CF2301644",
         "date": "2023-03-05",
         "time": "2:21:51 PM",
@@ -85,28 +96,6 @@
         "location": "525 ALMER RD #302 ,BRM",
         "latitude": 37.5782874594731,
         "longitude": -122.353216936018,
-        "units": "CM21X5 ?TAC25 >E34 >T21"
-    },
-    {
-        "id": "FF2301454",
-        "date": "2023-03-05",
-        "time": "2:11:21 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA VISTA DR #29 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "MF2302202",
-        "date": "2023-03-05",
-        "time": "2:06:32 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GLEN WAY ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E34"
     }
 ]
