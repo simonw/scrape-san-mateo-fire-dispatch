@@ -1,14 +1,58 @@
 [
     {
-        "id": "BF2300914",
+        "id": "SF2302933",
         "date": "2023-03-06",
-        "time": "8:52:55 AM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "9:14:44 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "NB 101 / E 3RD AVE OFF RAMP",
+        "latitude": 37.5697944329124,
+        "longitude": -122.312659020823,
+        "units": ">BC5 >E24 >E26 T23 CM21X5?TAC25"
+    },
+    {
+        "id": "DF2300645",
+        "date": "2023-03-06",
+        "time": "9:11:35 AM",
+        "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
+        "location": "CORDILLERAS RD ,EML",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
+        "units": ">E12"
+    },
+    {
+        "id": "SF2302932",
+        "date": "2023-03-06",
+        "time": "9:02:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #236 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "NF2302881",
+        "date": "2023-03-06",
+        "time": "9:00:30 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MANOR DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "RF2302750",
+        "date": "2023-03-06",
+        "time": "8:58:58 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALOTA RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "NF2302880",
@@ -20,49 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E93"
-    },
-    {
-        "id": "NF2302879",
-        "date": "2023-03-06",
-        "time": "8:43:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "371 GELLERT BLVD ,DCY",
-        "latitude": 37.6655927405695,
-        "longitude": -122.466855358774,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2302931",
-        "date": "2023-03-06",
-        "time": "8:42:36 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KILLDEER CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "NF2302875",
-        "date": "2023-03-06",
-        "time": "8:37:38 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ACTON ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "NF2302874",
-        "date": "2023-03-06",
-        "time": "8:29:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WARD CT #14 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
