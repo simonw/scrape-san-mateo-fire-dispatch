@@ -1,46 +1,35 @@
 [
     {
-        "id": "SF2302955",
+        "id": "SF2302957",
         "date": "2023-03-06",
-        "time": "8:34:31 PM",
+        "time": "8:56:36 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "OTTAWA ST ,SMO",
+        "location": "COVINGTON RD ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": ">E15"
     },
     {
-        "id": "BF2300924",
+        "id": "BF2300925",
         "date": "2023-03-06",
-        "time": "8:34:10 PM",
+        "time": "8:46:20 PM",
         "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1099 ADMIRAL CT ,SNB",
+        "latitude": 37.6340263494716,
+        "longitude": -122.422181047521,
+        "units": ">BC16"
+    },
+    {
+        "id": "SF2302956",
+        "date": "2023-03-06",
+        "time": "8:45:30 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MUIRFIELD CIR ,SNB",
+        "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "RF2302777",
-        "date": "2023-03-06",
-        "time": "8:17:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "707 BRADFORD ST ,RCY",
-        "latitude": 37.4889857851204,
-        "longitude": -122.227669818892,
-        "units": ">T9"
-    },
-    {
-        "id": "SF2302951",
-        "date": "2023-03-06",
-        "time": "7:39:55 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "425 BARNESON AVE ,SMO",
-        "latitude": 37.5496567011289,
-        "longitude": -122.321360225435,
-        "units": ">E25"
+        "units": ">E23"
     }
 ]
