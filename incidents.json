@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2302974",
+        "date": "2023-03-07",
+        "time": "9:04:30 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAPISTRANO WAY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "MF2302251",
+        "date": "2023-03-07",
+        "time": "9:01:43 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Gas main break",
+        "location": "141 UNIVERSITY DR ,MNP",
+        "latitude": 37.4441017375126,
+        "longitude": -122.177068147439,
+        "units": "E1 T2 E6 CM11X1 BC1E3 ?TAC15"
+    },
+    {
+        "id": "NF2302929",
+        "date": "2023-03-07",
+        "time": "8:58:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SULLIVAN AVE #330 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "BF2300928",
         "date": "2023-03-07",
         "time": "8:45:46 AM",
@@ -8,73 +41,7 @@
         "location": "SB 101 / NO MILLBRAE AVE",
         "latitude": 37.6076284150697,
         "longitude": -122.388400032852,
-        "units": "BC16 T51 E51 CM31X1 ?TAC35"
-    },
-    {
-        "id": "CF2301693",
-        "date": "2023-03-07",
-        "time": "8:41:41 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ARMSBY DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "HF2300791",
-        "date": "2023-03-07",
-        "time": "8:40:33 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "SAN MATEO RD / CABRILLO HWY S",
-        "latitude": 37.4679953807872,
-        "longitude": -122.433510912525,
-        "units": ">E40"
-    },
-    {
-        "id": "HF2300790",
-        "date": "2023-03-07",
-        "time": "8:37:57 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CREEKSIDE DR ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "CF2301692",
-        "date": "2023-03-07",
-        "time": "8:32:10 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1818 TROUSDALE DR ,BRM",
-        "latitude": 37.5923754618078,
-        "longitude": -122.386114494346,
-        "units": ">E34"
-    },
-    {
-        "id": "FF2301491",
-        "date": "2023-03-07",
-        "time": "8:27:27 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LINDEN AVE #51 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "NF2302928",
-        "date": "2023-03-07",
-        "time": "8:23:53 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ANGELITA AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": ">T51 >E51 >BC16 CM31X1 ?TAC35"
     },
     {
         "id": "WF2300454",
