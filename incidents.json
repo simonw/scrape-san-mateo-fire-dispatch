@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2300942",
+        "date": "2023-03-08",
+        "time": "8:41:19 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2303016",
+        "date": "2023-03-08",
+        "time": "8:40:06 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO 92",
+        "latitude": 37.5488862457401,
+        "longitude": -122.2917809826,
+        "units": ">BC5 >E26 >E24 T23 CM21X5?TAC25"
+    },
+    {
         "id": "SF2303015",
         "date": "2023-03-08",
         "time": "8:27:09 AM",
@@ -8,18 +30,7 @@
         "location": "PENSACOLA ST ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "SF2303014",
-        "date": "2023-03-08",
-        "time": "8:20:52 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "40 S CLAREMONT ST ,SMO",
-        "latitude": 37.5682626629068,
-        "longitude": -122.322719367532,
-        "units": ">T21"
+        "units": ">E29"
     },
     {
         "id": "WF2300461",
@@ -31,16 +42,5 @@
         "latitude": 37.3891918479632,
         "longitude": -122.230159720839,
         "units": ">E19"
-    },
-    {
-        "id": "SF2303012",
-        "date": "2023-03-08",
-        "time": "8:03:16 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c2",
-        "location": "S EL CAMINO REAL / W 5TH AVE",
-        "latitude": 37.5616454404632,
-        "longitude": -122.324479485703,
-        "units": ">E21"
     }
 ]
