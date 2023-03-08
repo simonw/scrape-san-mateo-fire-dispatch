@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2301532",
+        "date": "2023-03-08",
+        "time": "3:01:00 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD #311 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "HF2300805",
+        "date": "2023-03-08",
+        "time": "3:00:10 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RETIRO LN ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": "E44"
+    },
+    {
+        "id": "DF2300652",
+        "date": "2023-03-08",
+        "time": "2:45:46 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "308 DEVONSHIRE BLVD ,DVN",
+        "latitude": 37.4966655491574,
+        "longitude": -122.283934028661,
+        "units": ">E13"
+    },
+    {
         "id": "FF2301531",
         "date": "2023-03-08",
         "time": "2:35:41 PM",
@@ -8,40 +41,7 @@
         "location": "WESTBOROUGH BLVD #319 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
-    },
-    {
-        "id": "SF2303033",
-        "date": "2023-03-08",
-        "time": "2:33:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALDER LN ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
-    },
-    {
-        "id": "MF2302299",
-        "date": "2023-03-08",
-        "time": "2:33:08 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CARLTON AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2303032",
-        "date": "2023-03-08",
-        "time": "2:23:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ""
     },
     {
         "id": "MF2302296",
@@ -52,6 +52,6 @@
         "location": "1300 CRANE ST ,MNP",
         "latitude": 37.4530180568121,
         "longitude": -122.187615656831,
-        "units": ">CM11X1 >E6"
+        "units": ">CM11X1"
     }
 ]
