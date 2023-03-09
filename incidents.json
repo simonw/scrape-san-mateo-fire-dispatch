@@ -1,5 +1,60 @@
 [
     {
+        "id": "DF2300661",
+        "date": "2023-03-09",
+        "time": "9:42:37 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MONTALVO RD ,PAL",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18"
+    },
+    {
+        "id": "MF2302325",
+        "date": "2023-03-09",
+        "time": "9:40:34 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GORDON AVE ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "SF2303055",
+        "date": "2023-03-09",
+        "time": "9:40:04 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #400 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "SF2303054",
+        "date": "2023-03-09",
+        "time": "9:37:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLISLE DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "RF2302866",
+        "date": "2023-03-09",
+        "time": "9:36:42 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PARK ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "SF2303053",
         "date": "2023-03-09",
         "time": "9:26:27 AM",
@@ -8,51 +63,7 @@
         "location": "W 25TH AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?T21"
-    },
-    {
-        "id": "MF2302324",
-        "date": "2023-03-09",
-        "time": "9:07:02 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "INDEPENDENCE DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "NF2303013",
-        "date": "2023-03-09",
-        "time": "9:01:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EASTMOOR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "DF2300658",
-        "date": "2023-03-09",
-        "time": "8:59:58 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SKYLINE BLVD ,KMT",
-        "latitude": null,
-        "longitude": null,
-        "units": "TAC15 >E17 >R56"
-    },
-    {
-        "id": "NF2303012",
-        "date": "2023-03-09",
-        "time": "8:57:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "5 SERRAMONTE CTR ,DCY",
-        "latitude": 37.6741296216519,
-        "longitude": -122.471335485402,
-        "units": ">E94"
+        "units": ">T21"
     },
     {
         "id": "NF2303011",
@@ -64,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E52"
-    },
-    {
-        "id": "NF2303010",
-        "date": "2023-03-09",
-        "time": "8:54:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMELIA DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
