@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2300814",
+        "date": "2023-03-09",
+        "time": "3:42:03 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "701 UPPER TERRACE AVE ,HMB",
+        "latitude": 37.4781302086298,
+        "longitude": -122.43010961905,
+        "units": "E40"
+    },
+    {
+        "id": "BF2300958",
+        "date": "2023-03-09",
+        "time": "3:39:35 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "3411 LONGVIEW DR ,SNB",
+        "latitude": 37.6289224483978,
+        "longitude": -122.457997440468,
+        "units": "E2607"
+    },
+    {
+        "id": "NF2303026",
+        "date": "2023-03-09",
+        "time": "3:33:47 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "133 SERRAMONTE CTR ,DCY",
+        "latitude": 37.670459099639,
+        "longitude": -122.471203642265,
+        "units": ">BC124 >E94 ?TAC35 CM31X4"
+    },
+    {
         "id": "MF2302342",
         "date": "2023-03-09",
         "time": "3:23:07 PM",
@@ -8,7 +41,7 @@
         "location": "1425 BAY RD ,EPA",
         "latitude": 37.4714539378664,
         "longitude": -122.143167371153,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "FF2301553",
@@ -19,7 +52,7 @@
         "location": "SWIFT AVE #22 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E161"
+        "units": ">E161"
     },
     {
         "id": "DF2300665",
@@ -30,29 +63,7 @@
         "location": "MONTALVO RD ,PAL",
         "latitude": null,
         "longitude": null,
-        "units": "E18"
-    },
-    {
-        "id": "NF2303024",
-        "date": "2023-03-09",
-        "time": "3:19:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TERRA NOVA BLVD #108D ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "NF2303023",
-        "date": "2023-03-09",
-        "time": "3:11:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "6835 MISSION ST ,DCY",
-        "latitude": 37.6984566422915,
-        "longitude": -122.463790502327,
-        "units": ">E92"
+        "units": ">E18"
     },
     {
         "id": "FF2301552",
@@ -63,6 +74,6 @@
         "location": "S AIRPORT BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": ""
     }
 ]
