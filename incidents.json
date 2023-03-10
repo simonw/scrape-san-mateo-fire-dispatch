@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2302370",
+        "id": "NF2303089",
         "date": "2023-03-10",
-        "time": "10:41:25 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:02:24 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BAY RD ,EPA",
+        "location": "GELLERT BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "E63"
+    },
+    {
+        "id": "BF2300993",
+        "date": "2023-03-10",
+        "time": "11:01:45 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EASTON AVE #3 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E161 ?T51"
+    },
+    {
+        "id": "RF2302921",
+        "date": "2023-03-10",
+        "time": "11:01:06 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FAIR OAKS AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "NF2303088",
+        "date": "2023-03-10",
+        "time": "10:50:17 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "450 VALLEY DR ,BRS",
+        "latitude": 37.6912849320833,
+        "longitude": -122.415219741838,
+        "units": ">E81"
+    },
+    {
+        "id": "NF2303087",
+        "date": "2023-03-10",
+        "time": "10:43:57 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KING DR #124 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "BF2300992",
@@ -19,18 +63,7 @@
         "location": "2550 TURNBERRY DR ,SNB",
         "latitude": 37.6373552267537,
         "longitude": -122.453400575467,
-        "units": "E2607"
-    },
-    {
-        "id": "LF2300281",
-        "date": "2023-03-10",
-        "time": "10:35:10 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VILLAGE LN ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
+        "units": ">E2607"
     },
     {
         "id": "FF2301582",
@@ -41,7 +74,7 @@
         "location": "HEMLOCK AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": "E65"
     },
     {
         "id": "HF2300826",
@@ -52,18 +85,7 @@
         "location": "DERECHO LN ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": ">E17 TO11 CM41X1 >E44"
-    },
-    {
-        "id": "SF2303113",
-        "date": "2023-03-10",
-        "time": "10:25:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PILGRIM DR / E HILLSDALE BLVD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ">TO11"
     },
     {
         "id": "FF2301581",
@@ -74,40 +96,7 @@
         "location": "AVALON DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "NF2303086",
-        "date": "2023-03-10",
-        "time": "10:21:21 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ST FRANCIS BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2302919",
-        "date": "2023-03-10",
-        "time": "10:17:40 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Lock out - residential",
-        "location": "1000 TWIN DOLPHIN DR #216 ,RWS",
-        "latitude": 37.518462222033,
-        "longitude": -122.248875920118,
-        "units": ""
-    },
-    {
-        "id": "BF2300991",
-        "date": "2023-03-10",
-        "time": "10:17:17 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / UNDER 380",
-        "latitude": 37.6329015802442,
-        "longitude": -122.419060599694,
-        "units": ">T51"
+        "units": "E64"
     },
     {
         "id": "WF2300497",
@@ -118,6 +107,6 @@
         "location": "WOODSIDE RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": ">TAC15 >E507 >SQ407"
+        "units": ">E507 >SQ407"
     }
 ]
