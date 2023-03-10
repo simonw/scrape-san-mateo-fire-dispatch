@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2301003",
+        "date": "2023-03-10",
+        "time": "3:36:00 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "113 ELM AVE ,SNB",
+        "latitude": 37.6145968507753,
+        "longitude": -122.409368579255,
+        "units": ">E51"
+    },
+    {
+        "id": "MF2302376",
+        "date": "2023-03-10",
+        "time": "3:32:13 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2301786",
+        "date": "2023-03-10",
+        "time": "3:30:32 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAROLAN AVE #1321 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2303131",
+        "date": "2023-03-10",
+        "time": "3:26:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NADINA ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
+    },
+    {
         "id": "SF2303130",
         "date": "2023-03-10",
         "time": "3:24:21 PM",
@@ -8,7 +52,7 @@
         "location": "BOVET RD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
+        "units": ">E25"
     },
     {
         "id": "SF2303129",
@@ -19,40 +63,7 @@
         "location": "EDGEWATER BLVD / BEACH PARK BLVD",
         "latitude": 37.5457805234825,
         "longitude": -122.272328019229,
-        "units": ">E29 CM21X2 T23 BC5 ?TAC25"
-    },
-    {
-        "id": "SF2303128",
-        "date": "2023-03-10",
-        "time": "3:09:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "10TH AVE / PALM AVE",
-        "latitude": 37.5583521082378,
-        "longitude": -122.31808088088,
-        "units": ">E21"
-    },
-    {
-        "id": "NF2303105",
-        "date": "2023-03-10",
-        "time": "3:06:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHICO CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "MF2302375",
-        "date": "2023-03-10",
-        "time": "3:03:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E29"
     },
     {
         "id": "NF2303104",
@@ -63,6 +74,6 @@
         "location": "WESTLAKE AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ""
     }
 ]
