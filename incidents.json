@@ -1,36 +1,124 @@
 [
     {
-        "id": "CF2301776",
+        "id": "WF2300497",
         "date": "2023-03-10",
-        "time": "8:56:08 AM",
+        "time": "9:23:16 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4 CM11X1 SQ407"
+    },
+    {
+        "id": "NF2303083",
+        "date": "2023-03-10",
+        "time": "9:21:14 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IRVINGTON ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "NF2303082",
+        "date": "2023-03-10",
+        "time": "9:20:26 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FAIRVIEW AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "BF2300989",
+        "date": "2023-03-10",
+        "time": "9:20:20 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "490 OAK AVE ,SNB",
+        "latitude": 37.6203139766221,
+        "longitude": -122.417434080009,
+        "units": "T51"
+    },
+    {
+        "id": "FF2301579",
+        "date": "2023-03-10",
+        "time": "9:20:15 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ORANGE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E161"
+    },
+    {
+        "id": "RF2302916",
+        "date": "2023-03-10",
+        "time": "9:17:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SYCAMORE ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "CF2301779",
+        "date": "2023-03-10",
+        "time": "9:16:47 AM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "MAHLER RD ,BRM",
+        "location": "BURLINGAME AVE ,BRM",
         "latitude": null,
         "longitude": null,
         "units": ">E34"
     },
     {
-        "id": "SF2303107",
+        "id": "NF2303081",
         "date": "2023-03-10",
-        "time": "8:53:16 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:16:46 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Wires down (not sparking)",
-        "location": "18 S IDAHO ST ,SMO",
-        "latitude": 37.5724571780878,
-        "longitude": -122.318111137807,
-        "units": ">E21"
+        "location": "72 SAN JOSE AVE ,PCF",
+        "latitude": 37.6338115314078,
+        "longitude": -122.492719463167,
+        "units": ">E71"
     },
     {
-        "id": "RF2302914",
+        "id": "FF2301578",
         "date": "2023-03-10",
-        "time": "8:39:10 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "9:14:32 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "38 ELKWOOD DR ,SSF",
+        "latitude": 37.6671043023165,
+        "longitude": -122.45394685402,
+        "units": "E92"
+    },
+    {
+        "id": "CF2301778",
+        "date": "2023-03-10",
+        "time": "9:09:09 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "COUNTY CN ,RCY",
+        "location": "FLORIBUNDA AVE #301 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">T34"
+    },
+    {
+        "id": "SF2303108",
+        "date": "2023-03-10",
+        "time": "9:07:09 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BARCLAY WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
     },
     {
         "id": "WF2300496",
@@ -42,16 +130,5 @@
         "latitude": 37.3836938738114,
         "longitude": -122.23489989657,
         "units": ">E8"
-    },
-    {
-        "id": "BF2300988",
-        "date": "2023-03-10",
-        "time": "8:01:27 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "90 LIVINGSTON TE ,SNB",
-        "latitude": 37.6226165068912,
-        "longitude": -122.429663877246,
-        "units": ">T51"
     }
 ]
