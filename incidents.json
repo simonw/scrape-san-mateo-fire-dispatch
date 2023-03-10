@@ -1,5 +1,71 @@
 [
     {
+        "id": "SF2303127",
+        "date": "2023-03-10",
+        "time": "2:22:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "1410 YEW ST ,SMO",
+        "latitude": 37.5463499608089,
+        "longitude": -122.326985670625,
+        "units": "E25"
+    },
+    {
+        "id": "NF2303102",
+        "date": "2023-03-10",
+        "time": "2:20:50 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINDA MAR BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E172 E71"
+    },
+    {
+        "id": "NF2303101",
+        "date": "2023-03-10",
+        "time": "2:15:57 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ODDSTAD BLVD #306A ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "FF2301584",
+        "date": "2023-03-10",
+        "time": "2:15:13 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA VISTA DR #17 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "RF2302928",
+        "date": "2023-03-10",
+        "time": "2:14:07 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WHIPPLE AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2303100",
+        "date": "2023-03-10",
+        "time": "2:07:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HILLCREST DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "CF2301785",
         "date": "2023-03-10",
         "time": "2:03:55 PM",
@@ -8,7 +74,7 @@
         "location": "RALSTON AVE ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E33"
+        "units": ">E33"
     },
     {
         "id": "SF2303126",
@@ -19,18 +85,7 @@
         "location": "FRANKLIN PKWY ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "HF2300828",
-        "date": "2023-03-10",
-        "time": "2:03:15 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OBISPO RD ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
+        "units": ">E23"
     },
     {
         "id": "BF2301001",
@@ -41,17 +96,6 @@
         "location": "2110 FLEETWOOD DR ,SNB",
         "latitude": 37.6332191615477,
         "longitude": -122.439230335288,
-        "units": "E52"
-    },
-    {
-        "id": "NF2303097",
-        "date": "2023-03-10",
-        "time": "1:53:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Landscape fire",
-        "location": "500 JOHN DALY BLVD ,DCY",
-        "latitude": 37.7060721541935,
-        "longitude": -122.468673134774,
         "units": ""
     },
     {
@@ -66,17 +110,6 @@
         "units": ">E61"
     },
     {
-        "id": "CF2301784",
-        "date": "2023-03-10",
-        "time": "1:49:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TAYLOR BLVD ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
         "id": "BF2300998",
         "date": "2023-03-10",
         "time": "1:23:28 PM",
@@ -86,16 +119,5 @@
         "latitude": 37.6373552267537,
         "longitude": -122.453400575467,
         "units": ">E2607"
-    },
-    {
-        "id": "RF2302925",
-        "date": "2023-03-10",
-        "time": "1:21:55 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "849 ELM ST ,SNC",
-        "latitude": 37.5021634703902,
-        "longitude": -122.258895866045,
-        "units": ">SQ409"
     }
 ]
