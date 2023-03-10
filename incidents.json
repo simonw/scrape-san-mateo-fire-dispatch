@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2302363",
+        "date": "2023-03-10",
+        "time": "8:04:25 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "T2"
+    },
+    {
+        "id": "MF2302362",
+        "date": "2023-03-10",
+        "time": "8:02:27 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE #9 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "BF2300988",
+        "date": "2023-03-10",
+        "time": "8:01:27 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "90 LIVINGSTON TE ,SNB",
+        "latitude": 37.6226165068912,
+        "longitude": -122.429663877246,
+        "units": ">T51"
+    },
+    {
+        "id": "WF2300495",
+        "date": "2023-03-10",
+        "time": "7:58:32 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "PATROL RD / ENTRANCE WAY",
+        "latitude": 37.4293776974953,
+        "longitude": -122.28149186258,
+        "units": "E7"
+    },
+    {
+        "id": "DF2300693",
+        "date": "2023-03-10",
+        "time": "7:54:13 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "TUNITAS CREEK RD / SKYLINE BLVD",
+        "latitude": 37.4250155300573,
+        "longitude": -122.313764731392,
+        "units": ">E356"
+    },
+    {
+        "id": "WF2300494",
+        "date": "2023-03-10",
+        "time": "7:50:59 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "SKYWOOD WAY / SUNRISE DR",
+        "latitude": 37.3935443095572,
+        "longitude": -122.26162516851,
+        "units": ">E58"
+    },
+    {
         "id": "NF2303076",
         "date": "2023-03-10",
         "time": "7:40:56 AM",
@@ -8,51 +74,7 @@
         "location": "SKYLINE DR / LYNVALE CT",
         "latitude": 37.6939517694096,
         "longitude": -122.495803908156,
-        "units": "?E91"
-    },
-    {
-        "id": "LF2300280",
-        "date": "2023-03-10",
-        "time": "7:36:20 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "COLLINS AVE / JUNIPERO SERRA BLVD",
-        "latitude": 37.670794303818,
-        "longitude": -122.464297333702,
-        "units": "?TAC35 CM31X5 E86 T85"
-    },
-    {
-        "id": "CF2301774",
-        "date": "2023-03-10",
-        "time": "7:35:25 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1332 VISTA GRANDE ,MLB",
-        "latitude": 37.5901085078109,
-        "longitude": -122.40829185498,
-        "units": "E38"
-    },
-    {
-        "id": "FF2301575",
-        "date": "2023-03-10",
-        "time": "7:28:38 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ANTOINETTE LN #9 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "DF2300690",
-        "date": "2023-03-10",
-        "time": "7:28:17 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "CANYON RD / FEY DR",
-        "latitude": 37.5746634406563,
-        "longitude": -122.387967980661,
-        "units": ">E35"
+        "units": "U91"
     },
     {
         "id": "WF2300493",
@@ -64,16 +86,5 @@
         "latitude": 37.4399416970403,
         "longitude": -122.24497876821,
         "units": ">E4"
-    },
-    {
-        "id": "BF2300986",
-        "date": "2023-03-10",
-        "time": "7:05:46 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Tree down",
-        "location": "580 CHERRY AVE ,SNB",
-        "latitude": 37.622012005582,
-        "longitude": -122.421618651603,
-        "units": ">U51"
     }
 ]
