@@ -1,5 +1,104 @@
 [
     {
+        "id": "RF2302899",
+        "date": "2023-03-09",
+        "time": "9:00:27 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VISTA DR ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
+        "id": "MF2302354",
+        "date": "2023-03-09",
+        "time": "8:59:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1000 EL CAMINO REAL ,ATN",
+        "latitude": 37.4560770363324,
+        "longitude": -122.192078155915,
+        "units": ">BC1 >E6 E4 E5 T4CM11X2 ?TAC15"
+    },
+    {
+        "id": "RF2302898",
+        "date": "2023-03-09",
+        "time": "8:58:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "MF2302353",
+        "date": "2023-03-09",
+        "time": "8:57:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GLORIA WAY #204 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "TAC17 >BC101 >T2 CM11X3"
+    },
+    {
+        "id": "SF2303091",
+        "date": "2023-03-09",
+        "time": "8:51:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #311 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2302897",
+        "date": "2023-03-09",
+        "time": "8:49:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #1555 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "MF2302351",
+        "date": "2023-03-09",
+        "time": "8:49:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "NF2303055",
+        "date": "2023-03-09",
+        "time": "8:48:15 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #4 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "BF2300974",
+        "date": "2023-03-09",
+        "time": "8:42:08 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Pole fire",
+        "location": "FASMAN DR / SUSAN DR",
+        "latitude": 37.6337416811207,
+        "longitude": -122.457112180035,
+        "units": ">E52"
+    },
+    {
         "id": "WF2300484",
         "date": "2023-03-09",
         "time": "8:40:57 PM",
@@ -8,7 +107,7 @@
         "location": "NB 280 / SO EDGEWOOD RD",
         "latitude": 37.4503547561209,
         "longitude": -122.278505928096,
-        "units": "T4 CM11X4 BC2 ?TAC17 E19E12"
+        "units": ">SQ407"
     },
     {
         "id": "RF2302895",
@@ -30,18 +129,7 @@
         "location": "2518 ALBRIGHT WAY ,SSF",
         "latitude": 37.6352772897336,
         "longitude": -122.448337429867,
-        "units": "E52"
-    },
-    {
-        "id": "RF2302894",
-        "date": "2023-03-09",
-        "time": "8:35:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E64"
     },
     {
         "id": "WF2300483",
@@ -55,28 +143,6 @@
         "units": ">E7"
     },
     {
-        "id": "DF2300678",
-        "date": "2023-03-09",
-        "time": "8:32:51 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO 92",
-        "latitude": 37.5010326373211,
-        "longitude": -122.325975079224,
-        "units": "?CM11X3 TAC16 >T17 >BC11 E27"
-    },
-    {
-        "id": "MF2302350",
-        "date": "2023-03-09",
-        "time": "8:31:33 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W SELBY LN ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
         "id": "CF2301762",
         "date": "2023-03-09",
         "time": "8:31:26 PM",
@@ -85,7 +151,7 @@
         "location": "833 MAHLER RD #6 ,BRM",
         "latitude": 37.5963261237318,
         "longitude": -122.367492517635,
-        "units": ">BC8 CM21X3 >E37 >T34 E51BC16 ?TAC25 >E34 >E24 E35"
+        "units": ">BC8 CM21X3 >E37 >T34 TAC25>E34"
     },
     {
         "id": "DF2300679",
@@ -96,28 +162,6 @@
         "location": "2 ESTRADA PL ,PAL",
         "latitude": 37.4816743721285,
         "longitude": -122.267478079623,
-        "units": "E18"
-    },
-    {
-        "id": "DF2300677",
-        "date": "2023-03-09",
-        "time": "8:21:52 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "ALLEN RD / BEAR GULCH RD",
-        "latitude": 37.3903144127691,
-        "longitude": -122.298331289092,
-        "units": ">E58"
-    },
-    {
-        "id": "WF2300481",
-        "date": "2023-03-09",
-        "time": "8:07:58 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "WOODSIDE RD / MOUNTAIN HOME RD",
-        "latitude": 37.4295773746893,
-        "longitude": -122.254015997635,
-        "units": ">E507 CM11X1 >SQ407"
+        "units": ">E18"
     }
 ]
