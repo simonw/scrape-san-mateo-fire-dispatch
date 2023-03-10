@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2303118",
+        "id": "MF2302371",
         "date": "2023-03-10",
-        "time": "11:54:06 AM",
+        "time": "12:23:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "830 MENLO OAKS DR ,MOK",
+        "latitude": 37.468527194131,
+        "longitude": -122.166258407491,
+        "units": "E3"
+    },
+    {
+        "id": "CF2301782",
+        "date": "2023-03-10",
+        "time": "12:22:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "E MILLBRAE AVE / OVER 101",
+        "latitude": 37.6026016317555,
+        "longitude": -122.380331454231,
+        "units": "BC8 CM21X4 E37 T34 ?TAC25"
+    },
+    {
+        "id": "SF2303119",
+        "date": "2023-03-10",
+        "time": "12:13:41 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "4112 MARSTEN AVE ,BLM",
-        "latitude": 37.5165328992374,
-        "longitude": -122.323199330508,
-        "units": ""
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
     },
     {
         "id": "NF2303094",
@@ -22,28 +44,6 @@
         "units": ">E81"
     },
     {
-        "id": "NF2303093",
-        "date": "2023-03-10",
-        "time": "11:49:50 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "211 MACDONALD AVE ,DCY",
-        "latitude": 37.7063701433565,
-        "longitude": -122.4115631174,
-        "units": ">E93"
-    },
-    {
-        "id": "SF2303117",
-        "date": "2023-03-10",
-        "time": "11:41:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "YOUNG ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "BF2300994",
         "date": "2023-03-10",
         "time": "11:27:00 AM",
@@ -52,7 +52,7 @@
         "location": "EAST AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
+        "units": ""
     },
     {
         "id": "WF2300497",
