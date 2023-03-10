@@ -1,25 +1,80 @@
 [
     {
-        "id": "SF2303097",
+        "id": "RF2302902",
         "date": "2023-03-09",
-        "time": "10:01:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "77 W 39TH AVE ,SMO",
-        "latitude": 37.5317677489977,
-        "longitude": -122.294815222235,
-        "units": "T23"
+        "time": "10:27:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "658 TOPAZ ST ,RCY",
+        "latitude": 37.4695529779067,
+        "longitude": -122.244465333363,
+        "units": "?E12"
     },
     {
-        "id": "SF2303096",
+        "id": "RF2302901",
         "date": "2023-03-09",
-        "time": "10:00:10 PM",
+        "time": "10:25:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAMPTON AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "CF2301765",
+        "date": "2023-03-09",
+        "time": "10:23:40 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "SF2303098",
+        "date": "2023-03-09",
+        "time": "10:14:56 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "654 GREENWICH LN ,FCY",
-        "latitude": 37.5424423284869,
-        "longitude": -122.269092074589,
-        "units": "E29"
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #602 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "BF2300983",
+        "date": "2023-03-09",
+        "time": "10:10:13 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "580 FERNWOOD DR ,SNB",
+        "latitude": 37.6340502358634,
+        "longitude": -122.440806356088,
+        "units": ">E2607"
+    },
+    {
+        "id": "WF2300489",
+        "date": "2023-03-09",
+        "time": "10:09:41 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "3881 WOODSIDE RD ,WDS",
+        "latitude": 37.4164130399659,
+        "longitude": -122.265801736528,
+        "units": ">E19"
+    },
+    {
+        "id": "BF2300982",
+        "date": "2023-03-09",
+        "time": "10:08:33 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Tree down",
+        "location": "SB 280 / NO MILLBRAE AVE",
+        "latitude": 37.5923308646115,
+        "longitude": -122.41572267802,
+        "units": ">E38 U51 ?TAC35 ?CM31X3"
     },
     {
         "id": "WF2300488",
@@ -42,82 +97,5 @@
         "latitude": 37.5319987001456,
         "longitude": -122.294261997487,
         "units": ">E23"
-    },
-    {
-        "id": "BF2300981",
-        "date": "2023-03-09",
-        "time": "9:50:07 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTMOOR DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "SF2303092",
-        "date": "2023-03-09",
-        "time": "9:46:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Tree down",
-        "location": "2024 MEZES AVE ,BLM",
-        "latitude": 37.5218675792752,
-        "longitude": -122.29644607679,
-        "units": ">E15"
-    },
-    {
-        "id": "CF2301764",
-        "date": "2023-03-09",
-        "time": "9:43:38 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "MORRELL AVE / LINDEN AVE  ,BRM",
-        "latitude": 37.5854694777865,
-        "longitude": -122.353820249461,
-        "units": ""
-    },
-    {
-        "id": "RF2302900",
-        "date": "2023-03-09",
-        "time": "9:41:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MC KINLEY ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "WF2300486",
-        "date": "2023-03-09",
-        "time": "9:39:24 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "255 WOODSIDE DR ,WDS",
-        "latitude": 37.4490231140735,
-        "longitude": -122.239237476683,
-        "units": ">E7"
-    },
-    {
-        "id": "HF2300820",
-        "date": "2023-03-09",
-        "time": "9:36:05 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "100 BLOCK MAIN ST ,HMB",
-        "latitude": 37.4689552515794,
-        "longitude": -122.430937143752,
-        "units": ">U40"
-    },
-    {
-        "id": "DF2300680",
-        "date": "2023-03-09",
-        "time": "9:11:28 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "CANYON RD / EL PRADO RD",
-        "latitude": 37.5746634406563,
-        "longitude": -122.387967980661,
-        "units": ">E35"
     }
 ]
