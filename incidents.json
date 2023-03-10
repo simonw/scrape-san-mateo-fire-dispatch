@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2302369",
+        "date": "2023-03-10",
+        "time": "9:40:09 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "216 SELBY LN ,WSB",
+        "latitude": 37.455469696169,
+        "longitude": -122.220067622622,
+        "units": "?E3"
+    },
+    {
+        "id": "RF2302917",
+        "date": "2023-03-10",
+        "time": "9:36:20 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "CEDAR ST / BELMONT AVE",
+        "latitude": 37.4933106165529,
+        "longitude": -122.254639670376,
+        "units": ">E16"
+    },
+    {
+        "id": "CF2301780",
+        "date": "2023-03-10",
+        "time": "9:33:51 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1140 BERNAL AVE ,BRM",
+        "latitude": 37.5806422637849,
+        "longitude": -122.368448789707,
+        "units": "U34"
+    },
+    {
+        "id": "NF2303084",
+        "date": "2023-03-10",
+        "time": "9:32:12 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "340 HEATHCLIFF DR ,PCF",
+        "latitude": 37.650933627865,
+        "longitude": -122.475288298035,
+        "units": "E172"
+    },
+    {
+        "id": "SF2303109",
+        "date": "2023-03-10",
+        "time": "9:29:47 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 5TH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "WF2300497",
         "date": "2023-03-10",
         "time": "9:23:16 AM",
@@ -8,29 +63,7 @@
         "location": "WOODSIDE RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E4 CM11X1 SQ407"
-    },
-    {
-        "id": "NF2303083",
-        "date": "2023-03-10",
-        "time": "9:21:14 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IRVINGTON ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "NF2303082",
-        "date": "2023-03-10",
-        "time": "9:20:26 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FAIRVIEW AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": "CM11X1 >SQ407 >E4"
     },
     {
         "id": "BF2300989",
@@ -41,94 +74,6 @@
         "location": "490 OAK AVE ,SNB",
         "latitude": 37.6203139766221,
         "longitude": -122.417434080009,
-        "units": "T51"
-    },
-    {
-        "id": "FF2301579",
-        "date": "2023-03-10",
-        "time": "9:20:15 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ORANGE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E161"
-    },
-    {
-        "id": "RF2302916",
-        "date": "2023-03-10",
-        "time": "9:17:25 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SYCAMORE ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "CF2301779",
-        "date": "2023-03-10",
-        "time": "9:16:47 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BURLINGAME AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2303081",
-        "date": "2023-03-10",
-        "time": "9:16:46 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "72 SAN JOSE AVE ,PCF",
-        "latitude": 37.6338115314078,
-        "longitude": -122.492719463167,
-        "units": ">E71"
-    },
-    {
-        "id": "FF2301578",
-        "date": "2023-03-10",
-        "time": "9:14:32 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "38 ELKWOOD DR ,SSF",
-        "latitude": 37.6671043023165,
-        "longitude": -122.45394685402,
-        "units": "E92"
-    },
-    {
-        "id": "CF2301778",
-        "date": "2023-03-10",
-        "time": "9:09:09 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORIBUNDA AVE #301 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "SF2303108",
-        "date": "2023-03-10",
-        "time": "9:07:09 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BARCLAY WAY ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "WF2300496",
-        "date": "2023-03-10",
-        "time": "8:38:27 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "945 PORTOLA RD ,PVY",
-        "latitude": 37.3836938738114,
-        "longitude": -122.23489989657,
-        "units": ">E8"
+        "units": ">T51"
     }
 ]
