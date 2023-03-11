@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2301006",
+        "date": "2023-03-10",
+        "time": "8:35:42 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "Q62"
+    },
+    {
+        "id": "CF2301793",
+        "date": "2023-03-10",
+        "time": "8:34:40 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Gas main break",
+        "location": "1037 SYCAMORE DR ,MLB",
+        "latitude": 37.5979734537593,
+        "longitude": -122.420421649931,
+        "units": ">E37 CM21X1 >E38 T51 BC16E51 ?TAC25"
+    },
+    {
         "id": "SF2303142",
         "date": "2023-03-10",
         "time": "8:14:47 PM",
@@ -22,28 +44,6 @@
         "units": ">E13"
     },
     {
-        "id": "NF2303121",
-        "date": "2023-03-10",
-        "time": "8:11:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ROCKAWAY BEACH AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "FF2301595",
-        "date": "2023-03-10",
-        "time": "7:55:17 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "AIRPORT BLVD #232 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
         "id": "NF2303120",
         "date": "2023-03-10",
         "time": "7:39:59 PM",
@@ -53,16 +53,5 @@
         "latitude": 37.6511288363881,
         "longitude": -122.475932648699,
         "units": ">E52"
-    },
-    {
-        "id": "MF2302389",
-        "date": "2023-03-10",
-        "time": "7:22:56 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "EB 84 / UNIVERSITY AVE",
-        "latitude": 37.48645840738,
-        "longitude": -122.142501801018,
-        "units": ">E77"
     }
 ]
