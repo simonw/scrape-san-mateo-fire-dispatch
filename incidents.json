@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2303166",
+        "id": "SF2303169",
         "date": "2023-03-11",
-        "time": "3:13:16 PM",
+        "time": "3:43:14 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "12 AIRPORT BLVD ,SMO",
-        "latitude": 37.5925277084211,
-        "longitude": -122.324404241278,
-        "units": ">E24"
+        "category": "Medical aid",
+        "location": "S GRANT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E26"
+    },
+    {
+        "id": "SF2303168",
+        "date": "2023-03-11",
+        "time": "3:40:13 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MAINSAIL CT ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "MF2302418",
+        "date": "2023-03-11",
+        "time": "3:27:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ADDISON AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "RF2302957",
+        "date": "2023-03-11",
+        "time": "3:27:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "450 UPLAND RD ,EML",
+        "latitude": 37.4753225765342,
+        "longitude": -122.254533542062,
+        "units": ">E12"
+    },
+    {
+        "id": "NF2303151",
+        "date": "2023-03-11",
+        "time": "3:24:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "1001 E MARKET ST ,DCY",
+        "latitude": 37.6927868623669,
+        "longitude": -122.455703753043,
+        "units": ">E92"
     },
     {
         "id": "NF2303150",
@@ -20,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E93"
-    },
-    {
-        "id": "SF2303165",
-        "date": "2023-03-11",
-        "time": "3:09:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2302416",
-        "date": "2023-03-11",
-        "time": "2:30:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "EB 84 / WO TOLL PLZ",
-        "latitude": 37.5324693595174,
-        "longitude": -122.087873336095,
-        "units": ">E2"
     }
 ]
