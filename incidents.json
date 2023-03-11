@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2303116",
+        "id": "MF2302389",
         "date": "2023-03-10",
-        "time": "7:03:16 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "7:22:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "EB 84 / UNIVERSITY AVE",
+        "latitude": 37.48645840738,
+        "longitude": -122.142501801018,
+        "units": "E2 CM11X3 T2 E77 BC101?TAC15"
+    },
+    {
+        "id": "CF2301790",
+        "date": "2023-03-10",
+        "time": "7:19:42 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "920 BAYSWATER AVE ,BRM",
+        "latitude": 37.5787899660593,
+        "longitude": -122.340638337852,
+        "units": "E34"
+    },
+    {
+        "id": "MF2302388",
+        "date": "2023-03-10",
+        "time": "7:10:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "FOREST GROVE DR #3 ,DCY",
+        "location": "SERRANO DR ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": ">E3"
+    },
+    {
+        "id": "FF2301594",
+        "date": "2023-03-10",
+        "time": "7:07:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA MESA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
     },
     {
         "id": "FF2301593",
@@ -19,7 +52,7 @@
         "location": "250 GATEWAY BLVD ,SSF",
         "latitude": 37.655340147329,
         "longitude": -122.400698529941,
-        "units": "E65 E51 BC17 Q62 E61CM31X5 ?TAC35"
+        "units": ">BC17 >E65 ?TAC35 >Q62 CM31X5>E61"
     },
     {
         "id": "SF2303139",
@@ -41,18 +74,7 @@
         "location": "248 36TH AVE ,SMO",
         "latitude": 37.5328367266686,
         "longitude": -122.301608584556,
-        "units": ">T23 >BC5 E26 E23 E14?TAC25 ?CM21X3"
-    },
-    {
-        "id": "LF2300283",
-        "date": "2023-03-10",
-        "time": "6:57:16 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "1604 SWEETWOOD DR ,BRD",
-        "latitude": 37.6876787597372,
-        "longitude": -122.47652017356,
-        "units": ">E86 BC19 CM31X1"
+        "units": ">BC5 CM21X3 ?TAC25 >T23 >E26"
     },
     {
         "id": "SF2303137",
@@ -63,17 +85,6 @@
         "location": "STATION PARK CIR #233 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "DF2300698",
-        "date": "2023-03-10",
-        "time": "6:51:23 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SKYLINE BLVD / ALPINE RD",
-        "latitude": 37.3149197614327,
-        "longitude": -122.18724185588,
-        "units": "E58 E2936 R57 TAC15 BC2E7"
+        "units": ">E21"
     }
 ]
