@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2302968",
+        "id": "NF2303162",
         "date": "2023-03-11",
-        "time": "8:33:20 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "9:04:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "7555 MISSION ST ,DCY",
+        "latitude": 37.6864995515233,
+        "longitude": -122.46441838283,
+        "units": "?E92"
+    },
+    {
+        "id": "SF2303181",
+        "date": "2023-03-11",
+        "time": "9:03:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "PERRY ST #317 ,RCY",
+        "location": "N B ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "E21"
+    },
+    {
+        "id": "NF2303161",
+        "date": "2023-03-11",
+        "time": "8:57:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "89 SALADA AVE ,PCF",
+        "latitude": 37.6348288157222,
+        "longitude": -122.4925049097,
+        "units": ">E71"
     },
     {
         "id": "CF2301810",
@@ -19,28 +41,6 @@
         "location": "HILLCREST BLVD ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2303180",
-        "date": "2023-03-11",
-        "time": "8:19:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CONCAR DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2303160",
-        "date": "2023-03-11",
-        "time": "8:16:29 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALOU DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": "E37"
     }
 ]
