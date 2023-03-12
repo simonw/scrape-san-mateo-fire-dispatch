@@ -1,36 +1,69 @@
 [
     {
-        "id": "MF2302433",
+        "id": "NF2303171",
         "date": "2023-03-12",
-        "time": "8:38:52 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:02:36 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "SEVIER AVE ,MNP",
+        "location": "SAN BENITO RD ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": "E81"
     },
     {
-        "id": "RF2302988",
+        "id": "HF2300853",
         "date": "2023-03-12",
-        "time": "8:33:16 AM",
+        "time": "9:01:54 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "815 FERDINAND AVE ,ELG",
+        "latitude": 37.5085865623534,
+        "longitude": -122.473092074778,
+        "units": "E41"
+    },
+    {
+        "id": "MF2302435",
+        "date": "2023-03-12",
+        "time": "9:00:31 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "8 ATHLONE WAY ,NFO",
+        "latitude": 37.4773282327957,
+        "longitude": -122.19199507298,
+        "units": "E5"
+    },
+    {
+        "id": "RF2302989",
+        "date": "2023-03-12",
+        "time": "8:59:44 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Public assist, water problem",
-        "location": "903 HALL ST ,SNC",
-        "latitude": 37.5088794553446,
-        "longitude": -122.253768231676,
-        "units": ">E13"
+        "location": "2029 CEDAR ST ,SNC",
+        "latitude": 37.4899525070984,
+        "longitude": -122.250313535427,
+        "units": "E16"
     },
     {
-        "id": "FF2301625",
+        "id": "CF2301821",
         "date": "2023-03-12",
-        "time": "8:31:42 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "8:58:00 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "222 BRIDGE RD ,HIL",
+        "latitude": 37.5611610625894,
+        "longitude": -122.337939077918,
+        "units": "E32"
+    },
+    {
+        "id": "CF2301820",
+        "date": "2023-03-12",
+        "time": "8:57:09 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "PINE AVE ,SSF",
+        "location": "EL CAMINO REAL ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": ">E37"
     },
     {
         "id": "BF2301018",
@@ -41,18 +74,7 @@
         "location": "1099 ADMIRAL CT ,SNB",
         "latitude": 37.6340263494716,
         "longitude": -122.422181047521,
-        "units": ">E63 >E52 CM31X2 >T51 >E51>BC16 ?TAC35"
-    },
-    {
-        "id": "NF2303170",
-        "date": "2023-03-12",
-        "time": "8:23:24 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #203B ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">E51 ?TAC35 CM31X2 >BC16 >T51"
     },
     {
         "id": "CF2301819",
@@ -63,18 +85,7 @@
         "location": "TRAIN TRACK ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "CF2301818",
-        "date": "2023-03-12",
-        "time": "8:19:04 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "850 TAYLOR BLVD ,MLB",
-        "latitude": 37.5980060017428,
-        "longitude": -122.401513439284,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "DF2300709",
@@ -86,16 +97,5 @@
         "latitude": 37.5110803841622,
         "longitude": -122.332014459445,
         "units": ">T17"
-    },
-    {
-        "id": "DF2300707",
-        "date": "2023-03-12",
-        "time": "7:50:34 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / VISTA 3 ON RAMP",
-        "latitude": 37.4999344825022,
-        "longitude": -122.320448875946,
-        "units": ">E27"
     }
 ]
