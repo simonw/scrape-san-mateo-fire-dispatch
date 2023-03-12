@@ -1,35 +1,57 @@
 [
     {
-        "id": "RF2302977",
+        "id": "CF2301813",
         "date": "2023-03-12",
-        "time": "1:04:56 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "1:23:15 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
+        "location": "TROUSDALE DR #101 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?T9"
+        "units": "E34"
     },
     {
-        "id": "FF2301619",
+        "id": "CF2301812",
         "date": "2023-03-12",
-        "time": "12:42:39 AM",
+        "time": "1:17:58 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N ROLLINS RD ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "FF2301621",
+        "date": "2023-03-12",
+        "time": "1:16:01 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "GATEWAY BLVD #526 ,SSF",
+        "location": "APPIAN WAY #710 1 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": ">E64"
     },
     {
-        "id": "RF2302976",
+        "id": "MF2302427",
         "date": "2023-03-12",
-        "time": "12:39:59 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "1:13:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "BRADFORD ST #238 ,RCY",
+        "location": "OAKWOOD DR ,EPA",
         "latitude": null,
         "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2303164",
+        "date": "2023-03-12",
+        "time": "1:10:23 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "2000 SHORELINE CT ,BRS",
+        "latitude": 37.6721863760177,
+        "longitude": -122.388632580806,
         "units": ""
     },
     {
@@ -41,6 +63,6 @@
         "location": "1391 LA HONDA RD ,WDS",
         "latitude": 37.3896722814538,
         "longitude": -122.261730044911,
-        "units": ">R56 >E58"
+        "units": ">E58 >R56"
     }
 ]
