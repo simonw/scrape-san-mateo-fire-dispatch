@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2302986",
+        "date": "2023-03-12",
+        "time": "7:52:41 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #423 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "SF2303194",
+        "date": "2023-03-12",
+        "time": "7:51:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PARK PL #105 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "MF2302432",
+        "date": "2023-03-12",
+        "time": "7:50:44 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LARKSPUR DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "DF2300707",
+        "date": "2023-03-12",
+        "time": "7:50:34 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / VISTA 3 ON RAMP",
+        "latitude": 37.4999344825022,
+        "longitude": -122.320448875946,
+        "units": "CM11X2 ?TAC16 >BC11 >E27 >E19"
+    },
+    {
+        "id": "HF2300852",
+        "date": "2023-03-12",
+        "time": "7:50:07 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "501 SAN MATEO RD ,HMB",
+        "latitude": 37.4706530994798,
+        "longitude": -122.421382423093,
+        "units": "*>E40"
+    },
+    {
+        "id": "NF2303169",
+        "date": "2023-03-12",
+        "time": "7:45:25 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FRANKFORT ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
         "id": "RF2302984",
         "date": "2023-03-12",
         "time": "7:42:33 AM",
@@ -8,7 +74,7 @@
         "location": "E BAYSHORE RD #362 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E77"
     },
     {
         "id": "CF2301817",
@@ -19,7 +85,7 @@
         "location": "SB 101 / NO E POPLAR AVE",
         "latitude": 37.5866627903477,
         "longitude": -122.334833597726,
-        "units": ">BC8 CM21X5 >T34 ?TAC25 E34>E24"
+        "units": ">BC8 CM21X5 >T34 ?TAC25 >E34"
     },
     {
         "id": "NF2303168",
@@ -30,18 +96,7 @@
         "location": "E MARKET ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "FF2301624",
-        "date": "2023-03-12",
-        "time": "7:00:53 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E65"
+        "units": ""
     },
     {
         "id": "NF2303167",
@@ -52,6 +107,6 @@
         "location": "NB 280 / SO SERRAMONTE BLVD",
         "latitude": 37.6682462185452,
         "longitude": -122.465546681579,
-        "units": ">E94 *>E92 ?TAC35 CM31X5 >T95>BC120"
+        "units": ">E94 ?TAC35 CM31X5 >T95 >BC120"
     }
 ]
