@@ -1,5 +1,82 @@
 [
     {
+        "id": "CF2301823",
+        "date": "2023-03-12",
+        "time": "9:40:39 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CORTEZ AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E35"
+    },
+    {
+        "id": "SF2303199",
+        "date": "2023-03-12",
+        "time": "9:37:38 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "2125 CORONET BLVD ,BLM",
+        "latitude": 37.5192340011576,
+        "longitude": -122.298013842252,
+        "units": "E15"
+    },
+    {
+        "id": "SF2303198",
+        "date": "2023-03-12",
+        "time": "9:37:19 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PORTOFINO LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "SF2303200",
+        "date": "2023-03-12",
+        "time": "9:36:53 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "614 9TH AVE ,SMO",
+        "latitude": 37.5633376736643,
+        "longitude": -122.314889827602,
+        "units": ">E24"
+    },
+    {
+        "id": "HF2300855",
+        "date": "2023-03-12",
+        "time": "9:36:47 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "185 ORVAL AVE ,MBH",
+        "latitude": 37.5196765970886,
+        "longitude": -122.511630315458,
+        "units": "E44"
+    },
+    {
+        "id": "MF2302441",
+        "date": "2023-03-12",
+        "time": "9:31:57 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "560 MIDDLEFIELD RD ,ATN",
+        "latitude": 37.4607491473545,
+        "longitude": -122.177173649548,
+        "units": ">E1"
+    },
+    {
+        "id": "HF2300854",
+        "date": "2023-03-12",
+        "time": "9:28:24 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EAGLE TRACE DR ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
         "id": "MF2302440",
         "date": "2023-03-12",
         "time": "9:28:17 AM",
@@ -8,18 +85,29 @@
         "location": "1008 BAY RD ,EPA",
         "latitude": 37.4698587824259,
         "longitude": -122.151920371616,
-        "units": "?T2"
+        "units": ">T2"
     },
     {
-        "id": "DF2300711",
+        "id": "NF2303174",
         "date": "2023-03-12",
-        "time": "9:27:37 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "NB 280 / VISTA 3 OFF RAMP",
-        "latitude": 37.4964374112651,
-        "longitude": -122.311578812581,
-        "units": ">T17"
+        "time": "9:27:34 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #312B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "RF2302991",
+        "date": "2023-03-12",
+        "time": "9:26:58 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "BIRCH AVE / CORDILLERAS AVE",
+        "latitude": 37.4955758603315,
+        "longitude": -122.262043251216,
+        "units": ""
     },
     {
         "id": "BF2301020",
@@ -30,29 +118,7 @@
         "location": "EUCLID AVE / EASTON AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "FF2301626",
-        "date": "2023-03-12",
-        "time": "9:20:38 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BRUSCO WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "NF2303173",
-        "date": "2023-03-12",
-        "time": "9:20:28 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "336 ORIENTE ST ,DCY",
-        "latitude": 37.7024959350257,
-        "longitude": -122.416189634709,
-        "units": "E93"
+        "units": ">E51"
     },
     {
         "id": "MF2302438",
@@ -63,18 +129,7 @@
         "location": "2626 WESTMORELAND AVE ,NFO",
         "latitude": 37.4748706177774,
         "longitude": -122.214845414454,
-        "units": "T9"
-    },
-    {
-        "id": "NF2303172",
-        "date": "2023-03-12",
-        "time": "9:19:12 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SHARP PARK RD / GYPSY HILL RD",
-        "latitude": 37.6295716327188,
-        "longitude": -122.47781604105,
-        "units": ""
+        "units": ">T9"
     },
     {
         "id": "MF2302437",
@@ -85,7 +140,7 @@
         "location": "MENLO OAKS DR / BAY RD",
         "latitude": 37.4711584362358,
         "longitude": -122.16569684021,
-        "units": ">E1"
+        "units": ""
     },
     {
         "id": "WF2300510",
@@ -96,29 +151,7 @@
         "location": "SAND HILL RD / WHISKEY HILL RD",
         "latitude": 37.4182238763792,
         "longitude": -122.225329219367,
-        "units": "SQ407"
-    },
-    {
-        "id": "CF2301822",
-        "date": "2023-03-12",
-        "time": "9:12:06 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DARRELL RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "MF2302436",
-        "date": "2023-03-12",
-        "time": "9:08:46 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "562 PLACITAS AVE ,NFO",
-        "latitude": 37.4737585016193,
-        "longitude": -122.195146941462,
-        "units": ">E3"
+        "units": ">TAC15 >E7 CM11X1 >SQ407"
     },
     {
         "id": "SF2303197",
@@ -140,7 +173,7 @@
         "location": "NATIONAL AVE #2313 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
+        "units": ""
     },
     {
         "id": "RF2302990",
@@ -154,17 +187,6 @@
         "units": ""
     },
     {
-        "id": "HF2300853",
-        "date": "2023-03-12",
-        "time": "9:01:54 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "815 FERDINAND AVE ,ELG",
-        "latitude": 37.5085865623534,
-        "longitude": -122.473092074778,
-        "units": ">E41"
-    },
-    {
         "id": "MF2302435",
         "date": "2023-03-12",
         "time": "9:00:31 AM",
@@ -174,49 +196,5 @@
         "latitude": 37.4773282327957,
         "longitude": -122.19199507298,
         "units": ">E5"
-    },
-    {
-        "id": "RF2302989",
-        "date": "2023-03-12",
-        "time": "8:59:44 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "2029 CEDAR ST ,SNC",
-        "latitude": 37.4899525070984,
-        "longitude": -122.250313535427,
-        "units": ""
-    },
-    {
-        "id": "CF2301821",
-        "date": "2023-03-12",
-        "time": "8:58:00 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "222 BRIDGE RD ,HIL",
-        "latitude": 37.5611610625894,
-        "longitude": -122.337939077918,
-        "units": ">E32"
-    },
-    {
-        "id": "BF2301018",
-        "date": "2023-03-12",
-        "time": "8:31:30 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "1099 ADMIRAL CT ,SNB",
-        "latitude": 37.6340263494716,
-        "longitude": -122.422181047521,
-        "units": "?TAC35"
-    },
-    {
-        "id": "DF2300709",
-        "date": "2023-03-12",
-        "time": "8:16:49 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "WB 92 / EO 280",
-        "latitude": 37.5110803841622,
-        "longitude": -122.332014459445,
-        "units": ""
     }
 ]
