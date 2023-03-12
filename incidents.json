@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2303176",
+        "date": "2023-03-12",
+        "time": "10:24:16 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LAKE VISTA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E91"
+    },
+    {
+        "id": "RF2303000",
+        "date": "2023-03-12",
+        "time": "10:22:24 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "RF2302999",
+        "date": "2023-03-12",
+        "time": "10:14:13 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HURLINGAME AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "WF2300514",
+        "date": "2023-03-12",
+        "time": "10:13:10 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO WOODSIDE RD",
+        "latitude": 37.4414953804549,
+        "longitude": -122.251137026606,
+        "units": "?TAC15 >E7 CM11X1 >BC2"
+    },
+    {
+        "id": "RF2302998",
+        "date": "2023-03-12",
+        "time": "10:06:02 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SAN CARLOS AVE / CRANFIELD AVE",
+        "latitude": 37.5065857415735,
+        "longitude": -122.286398913973,
+        "units": ">BC5 ?VFIR23 CM11X3 >E15 >T17"
+    },
+    {
         "id": "SF2303202",
         "date": "2023-03-12",
         "time": "10:04:03 AM",
@@ -8,29 +63,7 @@
         "location": "E HILLSDALE BLVD ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "LF2300288",
-        "date": "2023-03-12",
-        "time": "10:00:21 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "7800 EL CAMINO REAL ,BRD",
-        "latitude": 37.6847983614674,
-        "longitude": -122.46446676944,
-        "units": ">E86"
-    },
-    {
-        "id": "MF2302443",
-        "date": "2023-03-12",
-        "time": "9:59:19 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL / 5TH AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": ">E29"
     },
     {
         "id": "SF2303201",
@@ -41,7 +74,7 @@
         "location": "RALSTON AVE / OVER 101",
         "latitude": 37.5263931928259,
         "longitude": -122.270111403638,
-        "units": ">E14 BC5 CM11X2 T23 ?TAC17"
+        "units": ">E14"
     },
     {
         "id": "NF2303175",
@@ -52,7 +85,7 @@
         "location": "2400 SKYLINE BLVD #A2 ,PCF",
         "latitude": 37.6468754113994,
         "longitude": -122.471573785372,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "RF2302995",
@@ -63,18 +96,7 @@
         "location": "900 WARRINGTON AVE ,RCY",
         "latitude": 37.4836815889377,
         "longitude": -122.204544996225,
-        "units": "?TAC16 >BC3 CM11X5 >E11"
-    },
-    {
-        "id": "FF2301627",
-        "date": "2023-03-12",
-        "time": "9:50:14 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BRUSCO WAY #3 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": ">BC3"
     },
     {
         "id": "WF2300512",
@@ -85,39 +107,6 @@
         "location": "NB 280 / SO FARM HILL BLVD",
         "latitude": 37.4416686625117,
         "longitude": -122.250937832791,
-        "units": "?TAC15 CM11X4 >E7 >SQ407"
-    },
-    {
-        "id": "RF2302994",
-        "date": "2023-03-12",
-        "time": "9:45:36 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "850 JEFFERSON AVE ,RCY",
-        "latitude": 37.4857676985872,
-        "longitude": -122.228701783093,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2301823",
-        "date": "2023-03-12",
-        "time": "9:40:39 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CORTEZ AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "HF2300855",
-        "date": "2023-03-12",
-        "time": "9:36:47 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "185 ORVAL AVE ,MBH",
-        "latitude": 37.5196765970886,
-        "longitude": -122.511630315458,
-        "units": ">E44"
+        "units": ">SQ407"
     }
 ]
