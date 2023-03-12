@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2302433",
+        "date": "2023-03-12",
+        "time": "8:38:52 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SEVIER AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "RF2302988",
+        "date": "2023-03-12",
+        "time": "8:33:16 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "903 HALL ST ,SNC",
+        "latitude": 37.5088794553446,
+        "longitude": -122.253768231676,
+        "units": ">E13"
+    },
+    {
+        "id": "FF2301625",
+        "date": "2023-03-12",
+        "time": "8:31:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "PINE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "BF2301018",
+        "date": "2023-03-12",
+        "time": "8:31:30 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1099 ADMIRAL CT ,SNB",
+        "latitude": 37.6340263494716,
+        "longitude": -122.422181047521,
+        "units": ">E63 >E52 CM31X2 >T51 >E51>BC16 ?TAC35"
+    },
+    {
         "id": "NF2303170",
         "date": "2023-03-12",
         "time": "8:23:24 AM",
@@ -8,7 +52,7 @@
         "location": "ESPLANADE AVE #203B ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "?E71"
+        "units": ">E71"
     },
     {
         "id": "CF2301819",
@@ -19,7 +63,7 @@
         "location": "TRAIN TRACK ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "CF2301818",
@@ -30,7 +74,7 @@
         "location": "850 TAYLOR BLVD ,MLB",
         "latitude": 37.5980060017428,
         "longitude": -122.401513439284,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "DF2300709",
@@ -41,29 +85,7 @@
         "location": "WB 92 / EO 280",
         "latitude": 37.5110803841622,
         "longitude": -122.332014459445,
-        "units": ">T17 CM11X3 ?TAC15"
-    },
-    {
-        "id": "RF2302986",
-        "date": "2023-03-12",
-        "time": "7:52:41 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #423 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "MF2302432",
-        "date": "2023-03-12",
-        "time": "7:50:44 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LARKSPUR DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">T17"
     },
     {
         "id": "DF2300707",
@@ -75,49 +97,5 @@
         "latitude": 37.4999344825022,
         "longitude": -122.320448875946,
         "units": ">E27"
-    },
-    {
-        "id": "HF2300852",
-        "date": "2023-03-12",
-        "time": "7:50:07 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "501 SAN MATEO RD ,HMB",
-        "latitude": 37.4706530994798,
-        "longitude": -122.421382423093,
-        "units": "*>E40"
-    },
-    {
-        "id": "RF2302984",
-        "date": "2023-03-12",
-        "time": "7:42:33 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #362 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2301817",
-        "date": "2023-03-12",
-        "time": "7:33:50 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO E POPLAR AVE",
-        "latitude": 37.5866627903477,
-        "longitude": -122.334833597726,
-        "units": ">T34"
-    },
-    {
-        "id": "NF2303167",
-        "date": "2023-03-12",
-        "time": "6:40:00 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO SERRAMONTE BLVD",
-        "latitude": 37.6682462185452,
-        "longitude": -122.465546681579,
-        "units": ">E94"
     }
 ]
