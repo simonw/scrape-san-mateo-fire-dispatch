@@ -1,14 +1,36 @@
 [
     {
-        "id": "DF2300714",
+        "id": "RF2303007",
         "date": "2023-03-12",
-        "time": "10:42:02 AM",
-        "summary": "County Fire on Control-1",
+        "time": "10:57:01 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Public assist, water problem",
-        "location": "132 BRECON CT ,PAL",
-        "latitude": 37.4809235162091,
-        "longitude": -122.259859824112,
-        "units": "?E16"
+        "location": "1409 INDUSTRIAL RD ,SNC",
+        "latitude": 37.5005247824205,
+        "longitude": -122.2437074935,
+        "units": "E13"
+    },
+    {
+        "id": "CF2301824",
+        "date": "2023-03-12",
+        "time": "10:55:33 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO BROADWAY",
+        "latitude": 37.5968398858127,
+        "longitude": -122.371807046932,
+        "units": ">E34"
+    },
+    {
+        "id": "FF2301628",
+        "date": "2023-03-12",
+        "time": "10:44:15 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GATEWAY BLVD #219 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
     },
     {
         "id": "SF2303203",
@@ -19,7 +41,7 @@
         "location": "BELMONT CANYON RD ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "RF2303005",
@@ -30,62 +52,7 @@
         "location": "VETERANS BLVD #602 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
-    },
-    {
-        "id": "DF2300713",
-        "date": "2023-03-12",
-        "time": "10:30:52 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "CRYSTAL SPRINGS RD / TARTAN TRAIL RD",
-        "latitude": 37.5369920393766,
-        "longitude": -122.349751036536,
-        "units": ">E27"
-    },
-    {
-        "id": "DF2300712",
-        "date": "2023-03-12",
-        "time": "10:28:39 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "CHESHAM AVE / WINDSOR DR",
-        "latitude": 37.4967452420034,
-        "longitude": -122.279767709506,
-        "units": ">T17"
-    },
-    {
-        "id": "LF2300289",
-        "date": "2023-03-12",
-        "time": "10:27:13 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Fire alarm - manual",
-        "location": "101 A ST ,BRD",
-        "latitude": 37.6867674483913,
-        "longitude": -122.467951201326,
-        "units": ">E86"
-    },
-    {
-        "id": "HF2300856",
-        "date": "2023-03-12",
-        "time": "10:25:26 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "MIRAMONTES POINT RD / IRIS LN",
-        "latitude": 37.4332883008456,
-        "longitude": -122.420020688177,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2303000",
-        "date": "2023-03-12",
-        "time": "10:22:24 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": ">E9"
     },
     {
         "id": "NF2303175",
@@ -96,6 +63,6 @@
         "location": "2400 SKYLINE BLVD #A2 ,PCF",
         "latitude": 37.6468754113994,
         "longitude": -122.471573785372,
-        "units": ">E94 CM31X1 E64"
+        "units": ">E94 CM31X1"
     }
 ]
