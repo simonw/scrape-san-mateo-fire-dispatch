@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2303170",
+        "date": "2023-03-12",
+        "time": "8:23:24 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #203B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E71"
+    },
+    {
+        "id": "CF2301819",
+        "date": "2023-03-12",
+        "time": "8:19:57 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TRAIN TRACK ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "CF2301818",
+        "date": "2023-03-12",
+        "time": "8:19:04 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "850 TAYLOR BLVD ,MLB",
+        "latitude": 37.5980060017428,
+        "longitude": -122.401513439284,
+        "units": "E37"
+    },
+    {
+        "id": "DF2300709",
+        "date": "2023-03-12",
+        "time": "8:16:49 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WB 92 / EO 280",
+        "latitude": 37.5110803841622,
+        "longitude": -122.332014459445,
+        "units": ">T17 CM11X3 ?TAC15"
+    },
+    {
         "id": "RF2302986",
         "date": "2023-03-12",
         "time": "7:52:41 AM",
@@ -11,17 +55,6 @@
         "units": ">E10"
     },
     {
-        "id": "SF2303194",
-        "date": "2023-03-12",
-        "time": "7:51:36 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PARK PL #105 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
         "id": "MF2302432",
         "date": "2023-03-12",
         "time": "7:50:44 AM",
@@ -30,7 +63,7 @@
         "location": "LARKSPUR DR ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ""
     },
     {
         "id": "DF2300707",
@@ -41,7 +74,7 @@
         "location": "SB 280 / VISTA 3 ON RAMP",
         "latitude": 37.4999344825022,
         "longitude": -122.320448875946,
-        "units": "CM11X2 ?TAC16 >BC11 >E27 >E19"
+        "units": ">E27"
     },
     {
         "id": "HF2300852",
@@ -55,17 +88,6 @@
         "units": "*>E40"
     },
     {
-        "id": "NF2303169",
-        "date": "2023-03-12",
-        "time": "7:45:25 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FRANKFORT ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
         "id": "RF2302984",
         "date": "2023-03-12",
         "time": "7:42:33 AM",
@@ -74,7 +96,7 @@
         "location": "E BAYSHORE RD #362 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": ""
     },
     {
         "id": "CF2301817",
@@ -85,18 +107,7 @@
         "location": "SB 101 / NO E POPLAR AVE",
         "latitude": 37.5866627903477,
         "longitude": -122.334833597726,
-        "units": ">BC8 CM21X5 >T34 ?TAC25 >E34"
-    },
-    {
-        "id": "NF2303168",
-        "date": "2023-03-12",
-        "time": "7:33:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "E MARKET ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">T34"
     },
     {
         "id": "NF2303167",
@@ -107,6 +118,6 @@
         "location": "NB 280 / SO SERRAMONTE BLVD",
         "latitude": 37.6682462185452,
         "longitude": -122.465546681579,
-        "units": ">E94 ?TAC35 CM31X5 >T95 >BC120"
+        "units": ">E94"
     }
 ]
