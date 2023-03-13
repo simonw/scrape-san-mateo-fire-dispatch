@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2302478",
+        "id": "NF2303217",
         "date": "2023-03-13",
-        "time": "1:21:23 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "1:38:04 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "LAUREL AVE ,MNP",
+        "location": "MANOR DR ,PCF",
         "latitude": null,
         "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "SF2303257",
+        "date": "2023-03-13",
+        "time": "1:37:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #427 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "MF2302479",
+        "date": "2023-03-13",
+        "time": "1:35:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "430 E O'KEEFE ST #316 ,EPA",
+        "latitude": 37.4614075002104,
+        "longitude": -122.146188689338,
         "units": ">E77"
+    },
+    {
+        "id": "RF2303049",
+        "date": "2023-03-13",
+        "time": "1:30:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "WOODSIDE RD / BROADWAY",
+        "latitude": 37.4870549580815,
+        "longitude": -122.214156972454,
+        "units": ">T2 >BC3 >SQ409 >E11 CM11X4?TAC15"
     },
     {
         "id": "CF2301853",
@@ -22,28 +55,6 @@
         "units": ">E38"
     },
     {
-        "id": "SF2303256",
-        "date": "2023-03-13",
-        "time": "1:11:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "REX ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2303255",
-        "date": "2023-03-13",
-        "time": "1:09:37 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
         "id": "SF2303254",
         "date": "2023-03-13",
         "time": "1:06:01 PM",
@@ -53,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E14"
-    },
-    {
-        "id": "SF2303253",
-        "date": "2023-03-13",
-        "time": "12:58:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "JEFFERSON CT #5 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
