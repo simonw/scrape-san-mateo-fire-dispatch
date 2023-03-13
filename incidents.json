@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2302462",
+        "date": "2023-03-12",
+        "time": "10:22:26 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LEMON ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E6"
+    },
+    {
+        "id": "SF2303230",
+        "date": "2023-03-12",
+        "time": "10:21:23 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #211W ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "NF2303200",
+        "date": "2023-03-12",
+        "time": "10:12:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SERRAMONTE BLVD / GELLERT BLVD",
+        "latitude": 37.6691625755526,
+        "longitude": -122.46890228072,
+        "units": ">E94 TAC35 ?CM31X5"
+    },
+    {
+        "id": "CF2301837",
+        "date": "2023-03-12",
+        "time": "10:05:33 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SKYFARM DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
         "id": "CF2301836",
         "date": "2023-03-12",
         "time": "10:03:14 PM",
@@ -8,7 +52,7 @@
         "location": "PALM AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E38 ?CM21X4 E37"
+        "units": ">E38 >E37 CM21X4"
     },
     {
         "id": "HF2300862",
@@ -19,7 +63,7 @@
         "location": "MARINE BLVD #406C ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "E44"
+        "units": ">E44"
     },
     {
         "id": "MF2302461",
@@ -33,17 +77,6 @@
         "units": ">T2 >E2 ?CM11X2"
     },
     {
-        "id": "SF2303229",
-        "date": "2023-03-12",
-        "time": "9:48:45 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ANNA ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
         "id": "MF2302460",
         "date": "2023-03-12",
         "time": "9:47:52 PM",
@@ -53,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T4 CM11X1 >E4"
-    },
-    {
-        "id": "NF2303199",
-        "date": "2023-03-12",
-        "time": "9:33:47 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BARCELONA DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
