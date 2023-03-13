@@ -1,13 +1,57 @@
 [
     {
-        "id": "SF2303260",
+        "id": "BF2301042",
         "date": "2023-03-13",
-        "time": "2:00:36 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "2:39:37 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "2891 COTTONWOOD DR ,SNB",
+        "latitude": 37.6288784839434,
+        "longitude": -122.448732894625,
+        "units": "E52"
+    },
+    {
+        "id": "CF2301855",
+        "date": "2023-03-13",
+        "time": "2:36:29 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "WILLBOROUGH PL / NEUCHATEL AVE",
+        "latitude": 37.5822345364325,
+        "longitude": -122.353584393304,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2301854",
+        "date": "2023-03-13",
+        "time": "2:34:41 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "LAUREL AVE #5B1 ,SMO",
+        "location": "TROUSDALE DR #501 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E32"
+    },
+    {
+        "id": "MF2302480",
+        "date": "2023-03-13",
+        "time": "2:31:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2735 SAND HILL RD ,MNP",
+        "latitude": 37.4185197932493,
+        "longitude": -122.209807033315,
+        "units": ">E7"
+    },
+    {
+        "id": "SF2303261",
+        "date": "2023-03-13",
+        "time": "2:31:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "27TH AVE / S EL CAMINO REAL",
+        "latitude": 37.5425921939994,
+        "longitude": -122.303686662863,
+        "units": ">E23"
     }
 ]
