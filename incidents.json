@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2302463",
+        "date": "2023-03-12",
+        "time": "10:25:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "170 BERKSHIRE AVE ,NFO",
+        "latitude": 37.4714146195563,
+        "longitude": -122.20997539151,
+        "units": ">E3"
+    },
+    {
         "id": "MF2302462",
         "date": "2023-03-12",
         "time": "10:22:26 PM",
@@ -8,7 +19,7 @@
         "location": "LEMON ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E6"
     },
     {
         "id": "SF2303230",
@@ -19,7 +30,7 @@
         "location": "CARLMONT DR #211W ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "NF2303200",
@@ -30,18 +41,7 @@
         "location": "SERRAMONTE BLVD / GELLERT BLVD",
         "latitude": 37.6691625755526,
         "longitude": -122.46890228072,
-        "units": ">E94 TAC35 ?CM31X5"
-    },
-    {
-        "id": "CF2301837",
-        "date": "2023-03-12",
-        "time": "10:05:33 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SKYFARM DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
+        "units": ">E94"
     },
     {
         "id": "CF2301836",
@@ -52,7 +52,7 @@
         "location": "PALM AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38 >E37 CM21X4"
+        "units": ">E37 CM21X4 >E38"
     },
     {
         "id": "HF2300862",
@@ -63,7 +63,7 @@
         "location": "MARINE BLVD #406C ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
+        "units": "E44"
     },
     {
         "id": "MF2302461",
@@ -74,7 +74,7 @@
         "location": "GARDENIA WAY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">T2 >E2 ?CM11X2"
+        "units": "?CM11X2 >E2 >T2"
     },
     {
         "id": "MF2302460",
@@ -85,6 +85,6 @@
         "location": "SHARON PARK DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">T4 CM11X1 >E4"
+        "units": "E4"
     }
 ]
