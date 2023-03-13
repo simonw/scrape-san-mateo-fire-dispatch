@@ -1,14 +1,58 @@
 [
     {
-        "id": "NF2303217",
+        "id": "NF2303219",
         "date": "2023-03-13",
-        "time": "1:38:04 PM",
+        "time": "2:01:31 PM",
         "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "424 MAGELLAN DR ,PCF",
+        "latitude": 37.6618750608813,
+        "longitude": -122.485077910223,
+        "units": "E71"
+    },
+    {
+        "id": "SF2303260",
+        "date": "2023-03-13",
+        "time": "2:00:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MANOR DR ,PCF",
+        "location": "LAUREL AVE #5B1 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
+        "units": ">T21"
+    },
+    {
+        "id": "SF2303259",
+        "date": "2023-03-13",
+        "time": "2:00:11 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ELIZA CT ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "SF2303258",
+        "date": "2023-03-13",
+        "time": "1:54:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "344 RAMONA ST ,SMO",
+        "latitude": 37.5732737949368,
+        "longitude": -122.33009996036,
+        "units": ">E21"
+    },
+    {
+        "id": "NF2303218",
+        "date": "2023-03-13",
+        "time": "1:45:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #134B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "SF2303257",
@@ -19,18 +63,7 @@
         "location": "THAYER LN #427 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2302479",
-        "date": "2023-03-13",
-        "time": "1:35:22 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "430 E O'KEEFE ST #316 ,EPA",
-        "latitude": 37.4614075002104,
-        "longitude": -122.146188689338,
-        "units": ">E77"
+        "units": "*>E28"
     },
     {
         "id": "RF2303049",
@@ -41,28 +74,6 @@
         "location": "WOODSIDE RD / BROADWAY",
         "latitude": 37.4870549580815,
         "longitude": -122.214156972454,
-        "units": ">T2 >BC3 >SQ409 >E11 CM11X4?TAC15"
-    },
-    {
-        "id": "CF2301853",
-        "date": "2023-03-13",
-        "time": "1:19:09 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SLEEPY HOLLOW LN ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "SF2303254",
-        "date": "2023-03-13",
-        "time": "1:06:01 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #109 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": ">E11"
     }
 ]
