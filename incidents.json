@@ -1,14 +1,25 @@
 [
     {
-        "id": "CF2301865",
+        "id": "SF2303270",
         "date": "2023-03-13",
-        "time": "8:00:01 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "8:21:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1300 OVERLAND DR ,SMO",
+        "latitude": 37.5308371363497,
+        "longitude": -122.327212421175,
+        "units": "E27"
+    },
+    {
+        "id": "SF2303269",
+        "date": "2023-03-13",
+        "time": "8:20:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "TROUSDALE DR #417 ,BRM",
+        "location": "BALCLUTHA DR ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E37 E34 ?CM21X1"
+        "units": "E28"
     },
     {
         "id": "CF2301864",
@@ -19,40 +30,7 @@
         "location": "BELLA VISTA DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "RF2303059",
-        "date": "2023-03-13",
-        "time": "7:49:50 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "NF2303233",
-        "date": "2023-03-13",
-        "time": "7:48:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMPUS DR #222 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "SF2303266",
-        "date": "2023-03-13",
-        "time": "7:21:32 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Structure fire",
-        "location": "790 EDGEWATER BLVD #102 ,FCY",
-        "latitude": 37.5526946734327,
-        "longitude": -122.274866276765,
-        "units": "CM21X5 >BC5 ?TAC25 >E29 >E28"
+        "units": ""
     },
     {
         "id": "RF2303058",
@@ -63,6 +41,6 @@
         "location": "500 DISCOVERY PKWY ,RCY",
         "latitude": 37.5049067791036,
         "longitude": -122.216998295907,
-        "units": "?TAC15 >BOAT9 >BC3 CM51X3 >AB77"
+        "units": ">BOAT9"
     }
 ]
