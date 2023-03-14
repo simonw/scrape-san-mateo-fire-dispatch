@@ -1,47 +1,124 @@
 [
     {
+        "id": "CF2301882",
+        "date": "2023-03-14",
+        "time": "11:02:06 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Tree down",
+        "location": "1469 EL CAMINO REAL ,BRM",
+        "latitude": 37.5886575566417,
+        "longitude": -122.374511383933,
+        "units": "E34"
+    },
+    {
+        "id": "CF2301881",
+        "date": "2023-03-14",
+        "time": "11:00:43 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1750 EL CAMINO REAL ,BRM",
+        "latitude": 37.5942170959461,
+        "longitude": -122.38158346213,
+        "units": "E37"
+    },
+    {
+        "id": "NF2303257",
+        "date": "2023-03-14",
+        "time": "10:59:48 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "1322 EVERGLADES DR ,PCF",
+        "latitude": 37.5912717392609,
+        "longitude": -122.475093304146,
+        "units": "BC124 E2118 E52 ?TAC35 CM31X2T95 E72"
+    },
+    {
+        "id": "BF2301052",
+        "date": "2023-03-14",
+        "time": "10:58:40 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "CRYSTAL SPRINGS RD / CUNNINGHAM WAY",
+        "latitude": 37.6140264691263,
+        "longitude": -122.420276396063,
+        "units": "U51"
+    },
+    {
+        "id": "NF2303256",
+        "date": "2023-03-14",
+        "time": "10:58:00 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "373 SAN BRUNO AVE ,BRS",
+        "latitude": 37.6823231469371,
+        "longitude": -122.400036737996,
+        "units": "E81"
+    },
+    {
+        "id": "CF2301878",
+        "date": "2023-03-14",
+        "time": "10:57:12 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "MILLBRAE AVE / EL CAMINO REAL",
+        "latitude": 37.5985188871241,
+        "longitude": -122.387409437657,
+        "units": ""
+    },
+    {
+        "id": "CF2301879",
+        "date": "2023-03-14",
+        "time": "10:56:58 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Sparking/arcing wires down",
+        "location": "1625 ROLLINS RD ,BRM",
+        "latitude": 37.5938384179882,
+        "longitude": -122.373644123722,
+        "units": "U34"
+    },
+    {
+        "id": "BF2301051",
+        "date": "2023-03-14",
+        "time": "10:53:53 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Tree down",
+        "location": "SB 280 / NO TROUSDALE DR",
+        "latitude": 37.5852479701872,
+        "longitude": -122.408022317144,
+        "units": "TAC25 CM21X1 T34 >E38"
+    },
+    {
+        "id": "BF2301050",
+        "date": "2023-03-14",
+        "time": "10:48:48 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MUIRFIELD CIR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2303294",
+        "date": "2023-03-14",
+        "time": "10:48:42 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "1316 JAMES CT ,SMO",
+        "latitude": 37.5688884713704,
+        "longitude": -122.30905826105,
+        "units": ">BC5 >E24"
+    },
+    {
         "id": "FF2301682",
         "date": "2023-03-14",
         "time": "10:44:44 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "SHAW RD ,SSF",
+        "location": "SHAW RD #ACF ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E51"
-    },
-    {
-        "id": "RF2303080",
-        "date": "2023-03-14",
-        "time": "10:42:56 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Pole fire",
-        "location": "565 EMERALD AVE ,SNC",
-        "latitude": 37.4853670940922,
-        "longitude": -122.255886752581,
-        "units": "E13"
-    },
-    {
-        "id": "HF2300880",
-        "date": "2023-03-14",
-        "time": "10:42:34 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "324 KELLY AVE ,HMB",
-        "latitude": 37.4642918011637,
-        "longitude": -122.439208096247,
-        "units": "E41"
-    },
-    {
-        "id": "RF2303081",
-        "date": "2023-03-14",
-        "time": "10:42:29 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Pole fire",
-        "location": "2335 EATON AVE ,SNC",
-        "latitude": 37.4842071282802,
-        "longitude": -122.256121415438,
-        "units": "?E10"
+        "units": ">E51"
     },
     {
         "id": "MF2302502",
@@ -55,39 +132,6 @@
         "units": ">E77"
     },
     {
-        "id": "BF2301049",
-        "date": "2023-03-14",
-        "time": "10:33:54 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Pole fire",
-        "location": "110 DALEY CT ,SNB",
-        "latitude": 37.6219086388346,
-        "longitude": -122.443794820363,
-        "units": "E2607"
-    },
-    {
-        "id": "SF2303293",
-        "date": "2023-03-14",
-        "time": "10:32:24 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREWAY RD #202 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "HF2300879",
-        "date": "2023-03-14",
-        "time": "10:30:14 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "165 LA GRANDE AVE ,MBH",
-        "latitude": 37.517439978113,
-        "longitude": -122.511338879577,
-        "units": ">E44"
-    },
-    {
         "id": "DF2300739",
         "date": "2023-03-14",
         "time": "10:29:24 AM",
@@ -96,29 +140,7 @@
         "location": "PESCADERO CREEK RD / DEARBORN PARK RD",
         "latitude": 37.2617631357852,
         "longitude": -122.325897035336,
-        "units": ">E655 >E59"
-    },
-    {
-        "id": "HF2300878",
-        "date": "2023-03-14",
-        "time": "10:27:53 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "25 SAILFISH CT ,HMB",
-        "latitude": 37.428914968491,
-        "longitude": -122.428065056709,
-        "units": ">E40"
-    },
-    {
-        "id": "FF2301680",
-        "date": "2023-03-14",
-        "time": "10:20:11 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Tree down",
-        "location": "2298 GELLERT BLVD ,SSF",
-        "latitude": 37.6439410134386,
-        "longitude": -122.453822208105,
-        "units": "CM31X1"
+        "units": ">E655"
     },
     {
         "id": "WF2300523",
