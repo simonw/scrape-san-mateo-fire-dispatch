@@ -1,14 +1,146 @@
 [
     {
-        "id": "FF2301695",
+        "id": "MF2302607",
         "date": "2023-03-14",
-        "time": "2:39:39 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "3:03:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "2035 RALMAR AVE ,EPA",
+        "latitude": 37.4640011125028,
+        "longitude": -122.150257144937,
+        "units": "?E9"
+    },
+    {
+        "id": "CF2301967",
+        "date": "2023-03-14",
+        "time": "2:59:25 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1520 FLORIBUNDA AVE ,BRM",
+        "latitude": 37.5788532020353,
+        "longitude": -122.354967127291,
+        "units": ">T34"
+    },
+    {
+        "id": "MF2302606",
+        "date": "2023-03-14",
+        "time": "2:58:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD #106 ,SSF",
+        "location": "UNIVERSITY AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
+        "units": ">T2"
+    },
+    {
+        "id": "LF2300298",
+        "date": "2023-03-14",
+        "time": "2:57:03 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "NF2303289",
+        "date": "2023-03-14",
+        "time": "2:54:34 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GENEVA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "SF2303374",
+        "date": "2023-03-14",
+        "time": "2:52:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "N EL CAMINO REAL / ENGLE RD",
+        "latitude": 37.5695773782173,
+        "longitude": -122.334619765652,
+        "units": ">E25"
+    },
+    {
+        "id": "CF2301964",
+        "date": "2023-03-14",
+        "time": "2:50:44 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1499 OAK GROVE AVE ,BRM",
+        "latitude": 37.5787112421597,
+        "longitude": -122.355781599418,
+        "units": ">E33"
+    },
+    {
+        "id": "SF2303372",
+        "date": "2023-03-14",
+        "time": "2:49:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "MF2302598",
+        "date": "2023-03-14",
+        "time": "2:45:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "ROBIN WAY / MARMONA DR",
+        "latitude": 37.4572855009419,
+        "longitude": -122.160156400081,
+        "units": ">E77"
+    },
+    {
+        "id": "RF2303230",
+        "date": "2023-03-14",
+        "time": "2:44:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "MIDDLEFIELD RD / CASSIA ST",
+        "latitude": 37.4836252781332,
+        "longitude": -122.224767325155,
+        "units": "?CM11X2"
+    },
+    {
+        "id": "CF2301963",
+        "date": "2023-03-14",
+        "time": "2:43:13 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "1121 DOUGLAS AVE ,BRM",
+        "latitude": 37.5805168882096,
+        "longitude": -122.349099441956,
+        "units": ">U34"
+    },
+    {
+        "id": "MF2302596",
+        "date": "2023-03-14",
+        "time": "2:42:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "49 WILLOW RD ,MNP",
+        "latitude": 37.451722916423,
+        "longitude": -122.170041803249,
+        "units": ">T4"
+    },
+    {
+        "id": "MF2302595",
+        "date": "2023-03-14",
+        "time": "2:41:12 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "221 LAUREL ST ,MNP",
+        "latitude": 37.4512126027701,
+        "longitude": -122.171157052849,
+        "units": ""
     },
     {
         "id": "RF2303228",
@@ -19,18 +151,7 @@
         "location": "222 LAUREL ST ,SNC",
         "latitude": 37.5103663287842,
         "longitude": -122.265999775985,
-        "units": "E16"
-    },
-    {
-        "id": "RF2303227",
-        "date": "2023-03-14",
-        "time": "2:37:49 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1070 BUCKLAND AVE ,SNC",
-        "latitude": 37.5084089317387,
-        "longitude": -122.274125626579,
-        "units": ""
+        "units": ">E16"
     },
     {
         "id": "WF2300558",
@@ -41,7 +162,18 @@
         "location": "237 ECHO LN ,PVY",
         "latitude": 37.371810929379,
         "longitude": -122.20982183155,
-        "units": ">E7 >BC2"
+        "units": ""
+    },
+    {
+        "id": "MF2302593",
+        "date": "2023-03-14",
+        "time": "2:31:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "1941 COOLEY AVE ,EPA",
+        "latitude": 37.4580870891177,
+        "longitude": -122.139475388052,
+        "units": ""
     },
     {
         "id": "MF2302591",
@@ -52,7 +184,7 @@
         "location": "4 NEWELL CT ,EPA",
         "latitude": 37.4573109602062,
         "longitude": -122.138796747127,
-        "units": "CM11X4 BC101 E9"
+        "units": "CM11X4"
     },
     {
         "id": "WF2300556",
@@ -66,26 +198,15 @@
         "units": ">E19"
     },
     {
-        "id": "RF2303221",
+        "id": "RF2303222",
         "date": "2023-03-14",
-        "time": "2:26:46 PM",
+        "time": "2:26:48 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STAFFORD ST #2 ,RCY",
-        "latitude": null,
-        "longitude": null,
+        "category": "Tree down",
+        "location": "1101 GREENBRIAR RD ,SNC",
+        "latitude": 37.4831070243061,
+        "longitude": -122.282823740146,
         "units": ">E18"
-    },
-    {
-        "id": "MF2302588",
-        "date": "2023-03-14",
-        "time": "2:24:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Pole fire",
-        "location": "1108 PINE ST ,MNP",
-        "latitude": 37.4576580089623,
-        "longitude": -122.180308732286,
-        "units": ">E77"
     },
     {
         "id": "RF2303219",
@@ -96,7 +217,7 @@
         "location": "BARKENTINE LN ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E20"
+        "units": ""
     },
     {
         "id": "MF2302585",
@@ -107,7 +228,7 @@
         "location": "MIDDLEFIELD RD / OAK GROVE AVE",
         "latitude": 37.4618674817492,
         "longitude": -122.17849448414,
-        "units": "?TAC15 >E2 CM11X5 >E5 >T2"
+        "units": "?TAC15 CM11X5"
     },
     {
         "id": "RF2303218",
@@ -118,18 +239,7 @@
         "location": "WHIPPLE AVE / E BAYSHORE RD",
         "latitude": 37.497401081283,
         "longitude": -122.232601910177,
-        "units": "E10"
-    },
-    {
-        "id": "MF2302584",
-        "date": "2023-03-14",
-        "time": "2:21:13 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAK GROVE AVE / EL CAMINO REAL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ">TO3 TAC17 >E10"
     },
     {
         "id": "RF2303217",
@@ -140,7 +250,7 @@
         "location": "WOODSIDE RD / MIDDLEFIELD RD",
         "latitude": 37.4810932683928,
         "longitude": -122.219104103963,
-        "units": "SQ409 CM11X2 >T9"
+        "units": "SQ409 >T9"
     },
     {
         "id": "MF2302580",
@@ -151,7 +261,7 @@
         "location": "785 ARBOR RD ,MNP",
         "latitude": 37.4450806228812,
         "longitude": -122.185627377944,
-        "units": "T4 CM11X1 ?TAC17 >E4"
+        "units": "CM11X1"
     },
     {
         "id": "HF2300895",
@@ -173,40 +283,18 @@
         "location": "EL CAMINO REAL / COLMA BLVD",
         "latitude": 37.6800473844153,
         "longitude": -122.461752506084,
-        "units": "?TAC35 >MED19 >E86 ?CM31X4"
+        "units": "?TAC35 >MED19 ?CM31X4"
     },
     {
-        "id": "RF2303210",
+        "id": "SF2303352",
         "date": "2023-03-14",
-        "time": "2:03:03 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "318 W OAKWOOD BLVD ,RCY",
-        "latitude": 37.4672077758637,
-        "longitude": -122.217029916866,
-        "units": ""
-    },
-    {
-        "id": "SF2303357",
-        "date": "2023-03-14",
-        "time": "2:00:24 PM",
+        "time": "1:53:43 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "445 MIDWAY AVE ,SMO",
-        "latitude": 37.5649189250783,
-        "longitude": -122.349147033982,
-        "units": ">E33"
-    },
-    {
-        "id": "RF2303199",
-        "date": "2023-03-14",
-        "time": "1:51:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "SPRING ST / WOODSIDE RD",
-        "latitude": 37.4840468040963,
-        "longitude": -122.216245663708,
-        "units": ""
+        "category": "Tree down",
+        "location": "1601 COYOTE POINT DR ,SMO",
+        "latitude": 37.5879945084045,
+        "longitude": -122.324275914323,
+        "units": "E24"
     },
     {
         "id": "CF2301956",
@@ -217,18 +305,7 @@
         "location": "1442 EDGEHILL DR ,BRM",
         "latitude": 37.5816986192182,
         "longitude": -122.361078394557,
-        "units": ">TAC25 >USR133"
-    },
-    {
-        "id": "SF2303346",
-        "date": "2023-03-14",
-        "time": "1:48:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "128 N EL CAMINO REAL ,SMO",
-        "latitude": 37.5678257507474,
-        "longitude": -122.330683903845,
-        "units": ">E25"
+        "units": ">TAC25"
     },
     {
         "id": "SF2303345",
@@ -275,17 +352,6 @@
         "units": "E63"
     },
     {
-        "id": "MF2302563",
-        "date": "2023-03-14",
-        "time": "1:38:23 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "660 8TH AVE ,NFO",
-        "latitude": 37.4763038607447,
-        "longitude": -122.198258539799,
-        "units": ""
-    },
-    {
         "id": "RF2303184",
         "date": "2023-03-14",
         "time": "1:36:29 PM",
@@ -306,17 +372,6 @@
         "latitude": 37.4672077758637,
         "longitude": -122.217029916866,
         "units": ">E3"
-    },
-    {
-        "id": "RF2303179",
-        "date": "2023-03-14",
-        "time": "1:31:43 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "FINGER AVE / EL CAMINO REAL",
-        "latitude": 37.4931413271168,
-        "longitude": -122.243689953733,
-        "units": ""
     },
     {
         "id": "MF2302558",
@@ -363,28 +418,6 @@
         "units": ">PR1A"
     },
     {
-        "id": "CF2301940",
-        "date": "2023-03-14",
-        "time": "1:28:58 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "2105 CARMELITA AVE ,BRM",
-        "latitude": 37.5785512062471,
-        "longitude": -122.367623187633,
-        "units": ">U34"
-    },
-    {
-        "id": "MF2302553",
-        "date": "2023-03-14",
-        "time": "1:27:18 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "200 DUMBARTON AVE ,NFO",
-        "latitude": 37.4731178273099,
-        "longitude": -122.210720980116,
-        "units": ""
-    },
-    {
         "id": "MF2302551",
         "date": "2023-03-14",
         "time": "1:26:29 PM",
@@ -418,17 +451,6 @@
         "units": ""
     },
     {
-        "id": "HF2300891",
-        "date": "2023-03-14",
-        "time": "1:18:17 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "331 8TH ST ,MON",
-        "latitude": 37.540764226283,
-        "longitude": -122.513648600182,
-        "units": ""
-    },
-    {
         "id": "RF2303165",
         "date": "2023-03-14",
         "time": "1:15:44 PM",
@@ -438,17 +460,6 @@
         "latitude": 37.4790654855578,
         "longitude": -122.258833629406,
         "units": ">PR3D"
-    },
-    {
-        "id": "BF2301068",
-        "date": "2023-03-14",
-        "time": "1:13:46 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "1571 SEQUOIA AVE ,SNB",
-        "latitude": 37.6281711057163,
-        "longitude": -122.445996173299,
-        "units": "CM31X1"
     },
     {
         "id": "MF2302543",
@@ -473,15 +484,15 @@
         "units": ""
     },
     {
-        "id": "FF2301690",
+        "id": "SF2303324",
         "date": "2023-03-14",
-        "time": "12:58:24 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "SAN FELIPE AVE / DEL MONTE AVE",
-        "latitude": 37.6583188109514,
-        "longitude": -122.447354931205,
-        "units": ">E161"
+        "time": "12:56:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Tree down",
+        "location": "420 STUDIO CIR ,SMO",
+        "latitude": 37.5778899453489,
+        "longitude": -122.334776222908,
+        "units": "E34"
     },
     {
         "id": "RF2303144",
@@ -503,29 +514,18 @@
         "location": "9TH AVE / PALM AVE",
         "latitude": 37.5602591682432,
         "longitude": -122.320166748297,
-        "units": "T21"
+        "units": ">T21"
     },
     {
-        "id": "SF2303315",
+        "id": "CF2301909",
         "date": "2023-03-14",
-        "time": "12:43:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Tree down",
-        "location": "1661 MCKINLEY ST ,SMO",
-        "latitude": 37.5606726599237,
-        "longitude": -122.300273544963,
-        "units": "E21"
-    },
-    {
-        "id": "SF2303311",
-        "date": "2023-03-14",
-        "time": "12:33:44 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "12:34:23 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Wires down (not sparking)",
-        "location": "BIRCH AVE / BIRCH ST",
-        "latitude": 37.5623000954891,
-        "longitude": -122.31003008923,
-        "units": "E24"
+        "location": "623 GERALDINE DR ,MLB",
+        "latitude": 37.6007587500714,
+        "longitude": -122.406586520106,
+        "units": "?E37"
     },
     {
         "id": "MF2302521",
@@ -550,17 +550,6 @@
         "units": "?VFIR23"
     },
     {
-        "id": "MF2302518",
-        "date": "2023-03-14",
-        "time": "12:28:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "95 CLAY DR ,ATN",
-        "latitude": 37.4465332482462,
-        "longitude": -122.214297431938,
-        "units": ""
-    },
-    {
         "id": "WF2300545",
         "date": "2023-03-14",
         "time": "12:26:14 PM",
@@ -570,6 +559,17 @@
         "latitude": 37.3910566531033,
         "longitude": -122.267942487427,
         "units": "?CO56"
+    },
+    {
+        "id": "CF2301903",
+        "date": "2023-03-14",
+        "time": "12:22:34 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Tree down",
+        "location": "25 FARMHILL CT ,HIL",
+        "latitude": 37.564946653212,
+        "longitude": -122.358189007003,
+        "units": ""
     },
     {
         "id": "DF2300752",
@@ -591,17 +591,6 @@
         "location": "1405 SOLANA DR ,BLM",
         "latitude": 37.5105799959163,
         "longitude": -122.283673922667,
-        "units": ">BC5 >T23"
-    },
-    {
-        "id": "MF2302512",
-        "date": "2023-03-14",
-        "time": "12:21:08 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "STOCKBRIDGE AVE / SELBY LN",
-        "latitude": 37.453706131642,
-        "longitude": -122.217256671324,
         "units": ""
     },
     {
@@ -627,17 +616,6 @@
         "units": ">PR1B"
     },
     {
-        "id": "CF2301901",
-        "date": "2023-03-14",
-        "time": "12:15:11 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "610 DEVON DR ,HIL",
-        "latitude": 37.5650338198043,
-        "longitude": -122.355627178882,
-        "units": ">E32"
-    },
-    {
         "id": "WF2300541",
         "date": "2023-03-14",
         "time": "12:04:59 PM",
@@ -660,17 +638,6 @@
         "units": "WT156"
     },
     {
-        "id": "DF2300747",
-        "date": "2023-03-14",
-        "time": "11:59:29 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Pole fire",
-        "location": "PESCADERO CREEK RD / ALPINE RD",
-        "latitude": 37.2995162281623,
-        "longitude": -122.264529329472,
-        "units": "?TAC16"
-    },
-    {
         "id": "RF2303101",
         "date": "2023-03-14",
         "time": "11:57:38 AM",
@@ -691,28 +658,6 @@
         "latitude": 37.3767725770491,
         "longitude": -122.200517922402,
         "units": ">E8"
-    },
-    {
-        "id": "RF2303099",
-        "date": "2023-03-14",
-        "time": "11:43:27 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "1790 INDUSTRIAL WAY ,RCY",
-        "latitude": 37.4965014054918,
-        "longitude": -122.238090300578,
-        "units": ""
-    },
-    {
-        "id": "RF2303098",
-        "date": "2023-03-14",
-        "time": "11:43:23 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1029 TAFT ST ,RCY",
-        "latitude": 37.4677086181605,
-        "longitude": -122.240472741754,
-        "units": ""
     },
     {
         "id": "RF2303096",
