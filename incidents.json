@@ -1,5 +1,148 @@
 [
     {
+        "id": "NF2303273",
+        "date": "2023-03-14",
+        "time": "12:23:16 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HILLCREST DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "DF2300752",
+        "date": "2023-03-14",
+        "time": "12:21:57 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "SB 280 / TROUSDALE DR OFF RAMP",
+        "latitude": 37.5840616825608,
+        "longitude": -122.406642268372,
+        "units": ">T34 >CM21X1 >E38"
+    },
+    {
+        "id": "FF2301685",
+        "date": "2023-03-14",
+        "time": "12:21:55 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Full assignment response",
+        "location": "2234 KENRY WAY ,SSF",
+        "latitude": 37.6400100211718,
+        "longitude": -122.450513280622,
+        "units": "E161 BC17 T51 E52 E63E64 CM31X3 ?TAC35"
+    },
+    {
+        "id": "SF2303307",
+        "date": "2023-03-14",
+        "time": "12:21:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "1405 SOLANA DR ,BLM",
+        "latitude": 37.5105799959163,
+        "longitude": -122.283673922667,
+        "units": ">BC5 >CM11X4 T17"
+    },
+    {
+        "id": "SF2303306",
+        "date": "2023-03-14",
+        "time": "12:19:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "T23"
+    },
+    {
+        "id": "MF2302511",
+        "date": "2023-03-14",
+        "time": "12:18:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "VALPARAISO AVE / EMILIE AVE",
+        "latitude": 37.4506313654943,
+        "longitude": -122.191978759606,
+        "units": ">E11"
+    },
+    {
+        "id": "RF2303110",
+        "date": "2023-03-14",
+        "time": "12:16:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "2316 SAN CARLOS AVE ,SNC",
+        "latitude": 37.5026741526859,
+        "longitude": -122.278068056512,
+        "units": "E15"
+    },
+    {
+        "id": "CF2301900",
+        "date": "2023-03-14",
+        "time": "12:14:09 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Sparking/arcing wires down",
+        "location": "EL CAMINO REAL / PENINSULA AVE",
+        "latitude": 37.5745215332737,
+        "longitude": -122.342896991173,
+        "units": "T21"
+    },
+    {
+        "id": "SF2303304",
+        "date": "2023-03-14",
+        "time": "12:09:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "451 W 20TH AVE ,SMO",
+        "latitude": 37.5461444445696,
+        "longitude": -122.317386240958,
+        "units": ""
+    },
+    {
+        "id": "WF2300544",
+        "date": "2023-03-14",
+        "time": "12:08:54 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "121 SHERIDAN WAY ,WDS",
+        "latitude": 37.4451290580621,
+        "longitude": -122.242867570245,
+        "units": ">E12"
+    },
+    {
+        "id": "SF2303302",
+        "date": "2023-03-14",
+        "time": "12:08:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Pole fire",
+        "location": "WARREN RD / N EL CAMINO REAL",
+        "latitude": 37.5738062424796,
+        "longitude": -122.341388341249,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2302508",
+        "date": "2023-03-14",
+        "time": "12:07:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "675 WALLEA DR ,MNP",
+        "latitude": 37.4424688237339,
+        "longitude": -122.185974892191,
+        "units": "?CM11X5 ?TAC17"
+    },
+    {
+        "id": "CF2301895",
+        "date": "2023-03-14",
+        "time": "12:05:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "851 TAYLOR BLVD ,MLB",
+        "latitude": 37.5972089329319,
+        "longitude": -122.400861292623,
+        "units": ">E37"
+    },
+    {
         "id": "WF2300541",
         "date": "2023-03-14",
         "time": "12:04:59 PM",
@@ -8,29 +151,73 @@
         "location": "RIDGEWAY RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
+        "units": "CM11X3 >E7 BC2"
     },
     {
-        "id": "FF2301684",
+        "id": "CF2301893",
         "date": "2023-03-14",
-        "time": "11:59:27 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "12:03:53 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Tree down",
-        "location": "APTOS WAY / BRENTWOOD DR",
-        "latitude": 37.6398426712166,
-        "longitude": -122.427830699345,
-        "units": "E61"
+        "location": "1528 NEWLANDS AVE ,BRM",
+        "latitude": 37.5744535294947,
+        "longitude": -122.347230148997,
+        "units": ""
     },
     {
-        "id": "NF2303269",
+        "id": "CF2301894",
         "date": "2023-03-14",
-        "time": "11:58:17 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:03:44 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "555 PALM AVE ,MLB",
+        "latitude": 37.6012790170917,
+        "longitude": -122.399729184743,
+        "units": "CM21X4 ?TAC25"
+    },
+    {
+        "id": "WF2300540",
+        "date": "2023-03-14",
+        "time": "12:03:31 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Tree down",
-        "location": "NB 1 / SO SKYLINE BLVD",
-        "latitude": 37.6578582163317,
-        "longitude": -122.487562183926,
-        "units": "E71"
+        "location": "KINGS MOUNTAIN RD / ENTRANCE WAY",
+        "latitude": 37.4300173820386,
+        "longitude": -122.280067299229,
+        "units": "WT156"
+    },
+    {
+        "id": "MF2302507",
+        "date": "2023-03-14",
+        "time": "12:03:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAVEN AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "DF2300747",
+        "date": "2023-03-14",
+        "time": "11:59:29 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Pole fire",
+        "location": "PESCADERO CREEK RD / ALPINE RD",
+        "latitude": 37.2995162281623,
+        "longitude": -122.264529329472,
+        "units": "?TAC16 E59 >E57"
+    },
+    {
+        "id": "RF2303101",
+        "date": "2023-03-14",
+        "time": "11:57:38 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "WB WHIPPLE AVE ON RAMP / SB 101",
+        "latitude": 37.4962963873572,
+        "longitude": -122.233189912834,
+        "units": ""
     },
     {
         "id": "NF2303267",
@@ -52,7 +239,7 @@
         "location": "ALAMEDA DE LAS PULGAS / VALPARAISO AVE",
         "latitude": 37.4340844598375,
         "longitude": -122.20579922071,
-        "units": "E6"
+        "units": ""
     },
     {
         "id": "WF2300537",
@@ -63,7 +250,7 @@
         "location": "120 ALTA MESA RD ,WDS",
         "latitude": 37.4407181601855,
         "longitude": -122.255538791845,
-        "units": "CM11X4 E9 E12 BC2 E4?TAC15 ?SQ407"
+        "units": "?TAC15 >E9"
     },
     {
         "id": "MF2302505",
@@ -88,28 +275,6 @@
         "units": ">E33"
     },
     {
-        "id": "SF2303301",
-        "date": "2023-03-14",
-        "time": "11:49:51 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COLLEGE VIEW WAY ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "DF2300744",
-        "date": "2023-03-14",
-        "time": "11:49:41 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "12500 SKYLINE BLVD ,KMT",
-        "latitude": 37.4623540326499,
-        "longitude": -122.348523816219,
-        "units": ""
-    },
-    {
         "id": "WF2300535",
         "date": "2023-03-14",
         "time": "11:49:27 AM",
@@ -119,17 +284,6 @@
         "latitude": 37.3767725770491,
         "longitude": -122.200517922402,
         "units": ">E8"
-    },
-    {
-        "id": "CF2301890",
-        "date": "2023-03-14",
-        "time": "11:46:12 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1039A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "CF2301889",
@@ -143,17 +297,6 @@
         "units": "*>U34"
     },
     {
-        "id": "HF2300885",
-        "date": "2023-03-14",
-        "time": "11:45:16 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POPLAR ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "RF2303099",
         "date": "2023-03-14",
         "time": "11:43:27 AM",
@@ -162,7 +305,7 @@
         "location": "1790 INDUSTRIAL WAY ,RCY",
         "latitude": 37.4965014054918,
         "longitude": -122.238090300578,
-        "units": ""
+        "units": "?E20 >E14"
     },
     {
         "id": "RF2303098",
@@ -173,29 +316,7 @@
         "location": "1029 TAFT ST ,RCY",
         "latitude": 37.4677086181605,
         "longitude": -122.240472741754,
-        "units": ">T9"
-    },
-    {
-        "id": "CF2301888",
-        "date": "2023-03-14",
-        "time": "11:41:51 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "755 PALOMA AVE ,BRM",
-        "latitude": 37.5806009080832,
-        "longitude": -122.35718861979,
-        "units": ""
-    },
-    {
-        "id": "LF2300292",
-        "date": "2023-03-14",
-        "time": "11:41:10 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "D ST ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">MED19"
+        "units": ">SQ409 >CM11X2 >T9"
     },
     {
         "id": "RF2303097",
@@ -228,7 +349,7 @@
         "location": "535 E BAYSHORE RD ,RCY",
         "latitude": 37.4962235875877,
         "longitude": -122.230116404098,
-        "units": ">E20 >CM11X1"
+        "units": ">CM11X1"
     },
     {
         "id": "RF2303091",
@@ -242,17 +363,6 @@
         "units": ">E10"
     },
     {
-        "id": "WF2300528",
-        "date": "2023-03-14",
-        "time": "11:31:49 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "600 OLD LA HONDA RD ,WDS",
-        "latitude": 37.3817737528595,
-        "longitude": -122.256672781257,
-        "units": ">E507"
-    },
-    {
         "id": "DF2300741",
         "date": "2023-03-14",
         "time": "11:31:36 AM",
@@ -261,7 +371,7 @@
         "location": "321 BLAKEWOOD WAY ,SKY",
         "latitude": 37.3878916543249,
         "longitude": -122.270525255434,
-        "units": ">E58 ?CO57"
+        "units": ">E58"
     },
     {
         "id": "RF2303092",
@@ -286,28 +396,6 @@
         "units": ">E356 >R56"
     },
     {
-        "id": "CF2301884",
-        "date": "2023-03-14",
-        "time": "11:24:38 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "6 SPRING VALLEY LN ,MLB",
-        "latitude": 37.5897779918464,
-        "longitude": -122.403091484348,
-        "units": ">E35"
-    },
-    {
-        "id": "CF2301883",
-        "date": "2023-03-14",
-        "time": "11:17:36 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "215 ROBIN RD ,HIL",
-        "latitude": 37.5572063730927,
-        "longitude": -122.360404392314,
-        "units": ">BC8 CM21X2 >E32"
-    },
-    {
         "id": "MF2302504",
         "date": "2023-03-14",
         "time": "11:13:29 AM",
@@ -317,28 +405,6 @@
         "latitude": 37.434854466834,
         "longitude": -122.195313782922,
         "units": ">T4"
-    },
-    {
-        "id": "WF2300524",
-        "date": "2023-03-14",
-        "time": "11:07:10 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "W CALIFORNIA WAY / SOUTHVIEW WAY",
-        "latitude": 37.4549810207279,
-        "longitude": -122.271576599472,
-        "units": ">SQ409"
-    },
-    {
-        "id": "CF2301881",
-        "date": "2023-03-14",
-        "time": "11:00:43 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "1750 EL CAMINO REAL ,BRM",
-        "latitude": 37.5942170959461,
-        "longitude": -122.38158346213,
-        "units": ">USR133"
     },
     {
         "id": "BF2301052",
@@ -352,17 +418,6 @@
         "units": ">U51"
     },
     {
-        "id": "NF2303256",
-        "date": "2023-03-14",
-        "time": "10:58:00 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "373 SAN BRUNO AVE ,BRS",
-        "latitude": 37.6823231469371,
-        "longitude": -122.400036737996,
-        "units": ">E81"
-    },
-    {
         "id": "BF2301051",
         "date": "2023-03-14",
         "time": "10:53:53 AM",
@@ -371,7 +426,7 @@
         "location": "SB 280 / NO TROUSDALE DR",
         "latitude": 37.5852479701872,
         "longitude": -122.408022317144,
-        "units": ">T34 CM21X1 TAC25 >E38"
+        "units": ""
     },
     {
         "id": "DF2300739",
