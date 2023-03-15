@@ -1,5 +1,71 @@
 [
     {
+        "id": "LF2300301",
+        "date": "2023-03-14",
+        "time": "8:03:09 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "D ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "RF2303271",
+        "date": "2023-03-14",
+        "time": "7:59:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "CHESTNUT ST / MAIN ST",
+        "latitude": 37.4793206783676,
+        "longitude": -122.223657848396,
+        "units": "E9"
+    },
+    {
+        "id": "WF2300570",
+        "date": "2023-03-14",
+        "time": "7:53:40 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "118 SOLANA RD ,PVY",
+        "latitude": 37.3901413211484,
+        "longitude": -122.221826281149,
+        "units": ""
+    },
+    {
+        "id": "NF2303304",
+        "date": "2023-03-14",
+        "time": "7:52:30 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #103B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "MF2302653",
+        "date": "2023-03-14",
+        "time": "7:50:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "1505 ADAMS DR ,MNP",
+        "latitude": 37.4785921620641,
+        "longitude": -122.142445736784,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2303303",
+        "date": "2023-03-14",
+        "time": "7:49:46 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "421 SIERRA POINT RD ,BRS",
+        "latitude": 37.6800073073084,
+        "longitude": -122.404467235109,
+        "units": ">E81"
+    },
+    {
         "id": "CF2301993",
         "date": "2023-03-14",
         "time": "7:47:28 PM",
@@ -8,7 +74,7 @@
         "location": "8 HOWARD AVE #4 ,BRM",
         "latitude": 37.5855855394833,
         "longitude": -122.334158112986,
-        "units": "?E21"
+        "units": ">E34"
     },
     {
         "id": "CF2301992",
@@ -19,73 +85,7 @@
         "location": "PARROTT DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
-    },
-    {
-        "id": "CF2301991",
-        "date": "2023-03-14",
-        "time": "7:42:38 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "431 BLOOMFIELD RD ,BRM",
-        "latitude": 37.5842550401326,
-        "longitude": -122.342478590201,
-        "units": "E34"
-    },
-    {
-        "id": "SF2303406",
-        "date": "2023-03-14",
-        "time": "7:35:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "1009 NORTON ST ,SMO",
-        "latitude": 37.5657629448247,
-        "longitude": -122.306704771423,
-        "units": ">E26"
-    },
-    {
-        "id": "MF2302651",
-        "date": "2023-03-14",
-        "time": "7:33:11 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "52 ATHERTON AVE ,ATN",
-        "latitude": 37.4586811916416,
-        "longitude": -122.203277652813,
-        "units": ""
-    },
-    {
-        "id": "SF2303405",
-        "date": "2023-03-14",
-        "time": "7:28:32 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Tree down",
-        "location": "GARVEY WAY / S DELAWARE ST",
-        "latitude": 37.5566600476315,
-        "longitude": -122.308640534717,
-        "units": ">E24"
-    },
-    {
-        "id": "CF2301988",
-        "date": "2023-03-14",
-        "time": "7:28:31 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "300 MURCHISON DR ,MLB",
-        "latitude": 37.5947919244717,
-        "longitude": -122.388222910487,
-        "units": ">T34 >E37 ?TAC25 ?CM21X2"
-    },
-    {
-        "id": "NF2303302",
-        "date": "2023-03-14",
-        "time": "7:27:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SCHWERIN ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E27"
     },
     {
         "id": "WF2300569",
@@ -96,18 +96,7 @@
         "location": "716 LAKEMEAD WAY ,EML",
         "latitude": 37.4611036800577,
         "longitude": -122.269227104931,
-        "units": "?TAC15 CM11X3 >E19"
-    },
-    {
-        "id": "RF2303262",
-        "date": "2023-03-14",
-        "time": "5:39:50 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "203 W OAKWOOD BLVD ,RCY",
-        "latitude": 37.4683473537875,
-        "longitude": -122.218183093936,
-        "units": ">SQ409"
+        "units": ">E19"
     },
     {
         "id": "WF2300555",
