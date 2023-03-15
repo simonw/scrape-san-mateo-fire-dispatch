@@ -1,47 +1,36 @@
 [
     {
-        "id": "RF2303279",
+        "id": "MF2302663",
         "date": "2023-03-14",
-        "time": "10:37:41 PM",
+        "time": "11:01:47 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL #2 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "HF2300901",
+        "date": "2023-03-14",
+        "time": "11:00:41 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "N CABRILLO HWY #D ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "RF2303280",
+        "date": "2023-03-14",
+        "time": "10:54:17 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "501 GALVESTON DR ,RCY",
-        "latitude": 37.4984029104696,
-        "longitude": -122.21562802622,
-        "units": "E9"
-    },
-    {
-        "id": "DF2300771",
-        "date": "2023-03-14",
-        "time": "10:31:50 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "LAKE BLVD / OAK KNOLL DR",
-        "latitude": 37.4681402055094,
-        "longitude": -122.262911470995,
-        "units": "E19 ?TAC15 ?CM11X1"
-    },
-    {
-        "id": "SF2303413",
-        "date": "2023-03-14",
-        "time": "10:30:53 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VILLAGE LN #227 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "SF2303412",
-        "date": "2023-03-14",
-        "time": "10:26:55 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HADDOCK ST ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
+        "category": "Tree down",
+        "location": "343 HEMLOCK AVE ,RCY",
+        "latitude": 37.4717805589282,
+        "longitude": -122.222149803141,
+        "units": "SQ409"
     },
     {
         "id": "DF2300770",
@@ -53,27 +42,5 @@
         "latitude": 37.2250631560575,
         "longitude": -122.357663292863,
         "units": "*>E59"
-    },
-    {
-        "id": "BF2301092",
-        "date": "2023-03-14",
-        "time": "9:28:35 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "1180 GLENVIEW DR ,SNB",
-        "latitude": 37.625213628899,
-        "longitude": -122.441943595444,
-        "units": ">E2607"
-    },
-    {
-        "id": "DF2300768",
-        "date": "2023-03-14",
-        "time": "8:40:40 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "PESCADERO CREEK RD / JONES GULCH RD",
-        "latitude": 37.2973101192908,
-        "longitude": -122.276542811299,
-        "units": ">U55 >E655"
     }
 ]
