@@ -1,5 +1,82 @@
 [
     {
+        "id": "LF2300305",
+        "date": "2023-03-15",
+        "time": "2:05:19 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "COLMA BLVD ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E86"
+    },
+    {
+        "id": "SF2303455",
+        "date": "2023-03-15",
+        "time": "2:04:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TARPON ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E28"
+    },
+    {
+        "id": "NF2303332",
+        "date": "2023-03-15",
+        "time": "1:58:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PENHURST AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "MF2302689",
+        "date": "2023-03-15",
+        "time": "1:57:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E O'KEEFE ST #316 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2302023",
+        "date": "2023-03-15",
+        "time": "1:50:44 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAROLAN AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "CF2302022",
+        "date": "2023-03-15",
+        "time": "1:49:46 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "DF2300777",
+        "date": "2023-03-15",
+        "time": "1:48:01 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "12465 LA HONDA RD ,SKY",
+        "latitude": 37.3606254170929,
+        "longitude": -122.259940251506,
+        "units": ">E58"
+    },
+    {
         "id": "DF2300776",
         "date": "2023-03-15",
         "time": "1:34:50 PM",
@@ -8,40 +85,7 @@
         "location": "1462 BEL AIRE RD ,EIC",
         "latitude": 37.5305070802817,
         "longitude": -122.343243405953,
-        "units": "E27"
-    },
-    {
-        "id": "SF2303454",
-        "date": "2023-03-15",
-        "time": "1:32:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE #9D2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "BF2301106",
-        "date": "2023-03-15",
-        "time": "1:31:46 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CEDAR AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "NF2303331",
-        "date": "2023-03-15",
-        "time": "1:30:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CARMEL AVE #5 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">E27"
     },
     {
         "id": "SF2303452",
@@ -52,17 +96,6 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "SF2303451",
-        "date": "2023-03-15",
-        "time": "1:23:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "316 8TH AVE ,SMO",
-        "latitude": 37.5624209811515,
-        "longitude": -122.318038711859,
         "units": ""
     },
     {
@@ -74,18 +107,7 @@
         "location": "2203 HASTINGS DR #22 ,BLM",
         "latitude": 37.5083224934502,
         "longitude": -122.29644033274,
-        "units": "TAC15 >BC5 >E18 CM11X1 >E15>T17 >T23"
-    },
-    {
-        "id": "DF2300775",
-        "date": "2023-03-15",
-        "time": "1:12:20 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "6650 GOLF COURSE DR ,SON",
-        "latitude": 37.5576664969344,
-        "longitude": -122.382230246489,
-        "units": ">E33"
+        "units": "TAC15 >BC5 CM11X1 >T17"
     },
     {
         "id": "NF2303327",
@@ -97,16 +119,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E81"
-    },
-    {
-        "id": "DF2300774",
-        "date": "2023-03-15",
-        "time": "12:02:36 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "LOWER MITCHELL CANYON RD / LOWER TUNITA",
-        "latitude": 37.4085237119845,
-        "longitude": -122.350806538052,
-        "units": ">E356"
     }
 ]
