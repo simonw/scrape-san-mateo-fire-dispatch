@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2303438",
+        "id": "MF2302681",
         "date": "2023-03-15",
-        "time": "10:39:15 AM",
+        "time": "11:02:41 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "320 MIDDLEFIELD RD ,MNP",
+        "latitude": 37.4588644768471,
+        "longitude": -122.167941221399,
+        "units": "E6 T9 E1 E5 CM11X4?TAC15 ?BC1"
+    },
+    {
+        "id": "SF2303439",
+        "date": "2023-03-15",
+        "time": "10:58:09 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "SHOREVIEW AVE ,SMO",
+        "location": "ALAMEDA DE LAS PULGAS #1 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E15"
     },
     {
         "id": "RF2303298",
@@ -19,7 +30,7 @@
         "location": "769 BARBOUR DR ,RCY",
         "latitude": 37.4701305720617,
         "longitude": -122.257492497102,
-        "units": "E10 ?E16"
+        "units": ">E10"
     },
     {
         "id": "SF2303436",
@@ -33,17 +44,6 @@
         "units": ">T23"
     },
     {
-        "id": "NF2303322",
-        "date": "2023-03-15",
-        "time": "10:35:28 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MORTON DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
-    },
-    {
         "id": "MF2302679",
         "date": "2023-03-15",
         "time": "10:30:04 AM",
@@ -53,16 +53,5 @@
         "latitude": 37.4548078309513,
         "longitude": -122.135106619739,
         "units": ">T2"
-    },
-    {
-        "id": "LF2300302",
-        "date": "2023-03-15",
-        "time": "10:11:38 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LARCHMONT DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">MED19 >E86"
     }
 ]
