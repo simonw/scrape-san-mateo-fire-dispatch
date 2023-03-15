@@ -1,5 +1,27 @@
 [
     {
+        "id": "WF2300575",
+        "date": "2023-03-15",
+        "time": "12:38:58 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "LOS TRANCOS RD / ALPINE RD",
+        "latitude": 37.3767725770491,
+        "longitude": -122.200517922402,
+        "units": "E8"
+    },
+    {
+        "id": "NF2303329",
+        "date": "2023-03-15",
+        "time": "12:25:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "2650 BAYSHORE BLVD ,DCY",
+        "latitude": 37.7070940200401,
+        "longitude": -122.407408515013,
+        "units": ">E93"
+    },
+    {
         "id": "BF2301103",
         "date": "2023-03-15",
         "time": "12:20:24 PM",
@@ -8,29 +30,7 @@
         "location": "EL CAMINO REAL #209 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "MF2302684",
-        "date": "2023-03-15",
-        "time": "12:16:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "507 O'KEEFE ST ,MNP",
-        "latitude": 37.4634668801185,
-        "longitude": -122.156982332604,
-        "units": "E1"
-    },
-    {
-        "id": "HF2300903",
-        "date": "2023-03-15",
-        "time": "12:15:47 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "KELLY AVE / ALSACE LORRAINE AVE",
-        "latitude": 37.4645101124643,
-        "longitude": -122.438131637454,
-        "units": ">E40"
+        "units": ">E51"
     },
     {
         "id": "NF2303328",
@@ -55,50 +55,6 @@
         "units": ">E81"
     },
     {
-        "id": "RF2303305",
-        "date": "2023-03-15",
-        "time": "12:07:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "2841 BRITTAN AVE ,SNC",
-        "latitude": 37.4874149095938,
-        "longitude": -122.272981481834,
-        "units": ">E16"
-    },
-    {
-        "id": "CF2302020",
-        "date": "2023-03-15",
-        "time": "12:06:52 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "1469 BELLEVUE AVE ,BRM",
-        "latitude": 37.5774446896324,
-        "longitude": -122.352136368988,
-        "units": ">T34"
-    },
-    {
-        "id": "NF2303326",
-        "date": "2023-03-15",
-        "time": "12:05:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WASHINGTON ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "MF2302683",
-        "date": "2023-03-15",
-        "time": "12:03:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "1025 DEL NORTE AVE ,MNP",
-        "latitude": 37.4735703786596,
-        "longitude": -122.169745221118,
-        "units": ">SQ401"
-    },
-    {
         "id": "DF2300774",
         "date": "2023-03-15",
         "time": "12:02:36 PM",
@@ -108,27 +64,5 @@
         "latitude": 37.4085237119845,
         "longitude": -122.350806538052,
         "units": "E356"
-    },
-    {
-        "id": "RF2303304",
-        "date": "2023-03-15",
-        "time": "12:00:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TOPAZ ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "MF2302682",
-        "date": "2023-03-15",
-        "time": "11:58:18 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "74 ALEJANDRA AVE ,ATN",
-        "latitude": 37.4550172100618,
-        "longitude": -122.196802257973,
-        "units": ""
     }
 ]
