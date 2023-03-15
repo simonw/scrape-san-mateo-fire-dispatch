@@ -1,36 +1,58 @@
 [
     {
-        "id": "RF2303297",
+        "id": "SF2303438",
         "date": "2023-03-15",
-        "time": "10:23:21 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "ALAMEDA DE LAS PULGAS / HILLTOP DR",
-        "latitude": 37.486007765767,
-        "longitude": -122.259514453337,
-        "units": "E16"
+        "time": "10:39:15 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SHOREVIEW AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
     },
     {
-        "id": "MF2302678",
+        "id": "RF2303298",
         "date": "2023-03-15",
-        "time": "10:21:20 AM",
+        "time": "10:38:59 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "769 BARBOUR DR ,RCY",
+        "latitude": 37.4701305720617,
+        "longitude": -122.257492497102,
+        "units": "E10 ?E16"
+    },
+    {
+        "id": "SF2303436",
+        "date": "2023-03-15",
+        "time": "10:36:39 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "301 HILLSDALE MALL ,SMO",
+        "latitude": 37.537458820289,
+        "longitude": -122.299881721961,
+        "units": ">T23"
+    },
+    {
+        "id": "NF2303322",
+        "date": "2023-03-15",
+        "time": "10:35:28 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MORTON DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "MF2302679",
+        "date": "2023-03-15",
+        "time": "10:30:04 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "3600 MIDDLEFIELD RD ,NFO",
-        "latitude": 37.4693245768347,
-        "longitude": -122.202769414616,
-        "units": ">E5"
-    },
-    {
-        "id": "RF2303295",
-        "date": "2023-03-15",
-        "time": "10:20:04 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "NB 101 / SO WHIPPLE AVE",
-        "latitude": 37.4926029176342,
-        "longitude": -122.221534463968,
-        "units": "TAC15 E9 T9 CM11X2"
+        "category": "Tree down",
+        "location": "1827 CLARKE AVE ,EPA",
+        "latitude": 37.4548078309513,
+        "longitude": -122.135106619739,
+        "units": ">T2"
     },
     {
         "id": "LF2300302",
@@ -41,28 +63,6 @@
         "location": "LARCHMONT DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">E86 >MED19"
-    },
-    {
-        "id": "SF2303434",
-        "date": "2023-03-15",
-        "time": "10:04:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "332 WARREN RD ,SMO",
-        "latitude": 37.5699605398277,
-        "longitude": -122.346815019659,
-        "units": ">E32"
-    },
-    {
-        "id": "NF2303320",
-        "date": "2023-03-15",
-        "time": "10:03:59 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PARK PLAZA DR #3 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ">MED19 >E86"
     }
 ]
