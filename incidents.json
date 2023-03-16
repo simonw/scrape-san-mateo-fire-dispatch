@@ -1,57 +1,68 @@
 [
     {
-        "id": "CF2302034",
+        "id": "RF2303328",
         "date": "2023-03-15",
-        "time": "6:04:03 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "6:50:44 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E11"
+    },
+    {
+        "id": "RF2303327",
+        "date": "2023-03-15",
+        "time": "6:37:26 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1083 ALAMEDA DE LAS PULGAS ,RCY",
+        "latitude": 37.4629760130209,
+        "longitude": -122.244890455512,
+        "units": ">E12"
+    },
+    {
+        "id": "RF2303326",
+        "date": "2023-03-15",
+        "time": "6:36:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "434 CARLOS AVE ,RCY",
+        "latitude": 37.4684005261378,
+        "longitude": -122.218866688332,
+        "units": "?TAC15 >E3 CM11X3"
+    },
+    {
+        "id": "NF2303343",
+        "date": "2023-03-15",
+        "time": "6:35:23 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO SIERRA POINT PKWY",
+        "latitude": 37.6688911071274,
+        "longitude": -122.39352514778,
+        "units": ">E65"
+    },
+    {
+        "id": "MF2302702",
+        "date": "2023-03-15",
+        "time": "6:34:52 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Public assist",
-        "location": "1485 SOUTHDOWN RD ,HIL",
-        "latitude": 37.543825285075,
-        "longitude": -122.356968814913,
-        "units": "?E33"
+        "location": "181 STANFORD AVE ,WMP",
+        "latitude": 37.4273544632986,
+        "longitude": -122.193286870597,
+        "units": ">E4"
     },
     {
-        "id": "WF2300578",
+        "id": "RF2303325",
         "date": "2023-03-15",
-        "time": "5:55:15 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "55 GRANADA CT ,PVY",
-        "latitude": 37.3830219457555,
-        "longitude": -122.206371119074,
-        "units": "E7"
-    },
-    {
-        "id": "CF2302033",
-        "date": "2023-03-15",
-        "time": "5:53:42 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "SF2303465",
-        "date": "2023-03-15",
-        "time": "5:45:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "E 3RD AVE / OVER 101",
-        "latitude": 37.5709041099554,
-        "longitude": -122.313911174726,
-        "units": ">E24"
-    },
-    {
-        "id": "WF2300577",
-        "date": "2023-03-15",
-        "time": "5:42:58 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA RD ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E8"
+        "time": "6:21:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "2406 DELAWARE AVE ,RCY",
+        "latitude": 37.455021653065,
+        "longitude": -122.230366817159,
+        "units": ">E10"
     }
 ]
