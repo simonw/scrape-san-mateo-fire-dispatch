@@ -1,36 +1,47 @@
 [
     {
-        "id": "FF2301719",
+        "id": "MF2302728",
         "date": "2023-03-16",
-        "time": "12:40:50 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "1:05:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "W ORANGE AVE ,SSF",
+        "location": "ALBERNI ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": "?E2"
     },
     {
-        "id": "CF2302061",
+        "id": "SF2303500",
         "date": "2023-03-16",
-        "time": "12:37:04 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "1:00:11 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "N ROLLINS RD ,MLB",
+        "location": "FLORES ST #315 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E23"
     },
     {
-        "id": "NF2303372",
+        "id": "WF2300585",
         "date": "2023-03-16",
-        "time": "12:35:00 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:56:21 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "51 STONEGATE RD ,PVY",
+        "latitude": 37.379388155309,
+        "longitude": -122.221753887475,
+        "units": ">E8"
+    },
+    {
+        "id": "LF2300312",
+        "date": "2023-03-16",
+        "time": "12:47:21 PM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "BAYSHORE BLVD / TUNNEL AVE",
+        "location": "CLARK AVE ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">E81"
+        "units": ">MED19 >E86"
     },
     {
         "id": "NF2303371",
@@ -42,60 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E95"
-    },
-    {
-        "id": "SF2303498",
-        "date": "2023-03-16",
-        "time": "12:32:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "ACADEMY AVE / RALSTON AVE",
-        "latitude": 37.5126622154141,
-        "longitude": -122.292513732453,
-        "units": ">E15"
-    },
-    {
-        "id": "RF2303361",
-        "date": "2023-03-16",
-        "time": "12:31:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "429 CORK HARBOUR CIR ,RWS",
-        "latitude": 37.5326110826377,
-        "longitude": -122.257745001907,
-        "units": ">E20"
-    },
-    {
-        "id": "NF2303370",
-        "date": "2023-03-16",
-        "time": "12:31:19 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LARKSPUR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "NF2303367",
-        "date": "2023-03-16",
-        "time": "11:53:50 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "CALLAN BLVD / HICKEY BLVD",
-        "latitude": 37.6652694339383,
-        "longitude": -122.47468068663,
-        "units": ">T95"
-    },
-    {
-        "id": "DF2300787",
-        "date": "2023-03-16",
-        "time": "11:29:59 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "222 PAUL SCANNELL DR ,SON",
-        "latitude": 37.511954457644,
-        "longitude": -122.336905090171,
-        "units": ">T17"
     }
 ]
