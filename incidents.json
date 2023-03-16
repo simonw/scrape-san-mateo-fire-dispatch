@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2302728",
+        "id": "BF2301121",
         "date": "2023-03-16",
-        "time": "1:05:24 PM",
+        "time": "1:22:40 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Pole fire",
+        "location": "1841 PARKVIEW DR ,SNB",
+        "latitude": 37.6104191556279,
+        "longitude": -122.416771748113,
+        "units": "?E51"
+    },
+    {
+        "id": "MF2302730",
+        "date": "2023-03-16",
+        "time": "1:22:10 PM",
         "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "1806 BARTON ST ,WSB",
+        "latitude": 37.4495404390598,
+        "longitude": -122.224282509593,
+        "units": "T4"
+    },
+    {
+        "id": "BF2301120",
+        "date": "2023-03-16",
+        "time": "1:11:56 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Tree down",
+        "location": "180 SCENIC CT ,SNB",
+        "latitude": 37.6112328760358,
+        "longitude": -122.418419094842,
+        "units": ">T51"
+    },
+    {
+        "id": "MF2302729",
+        "date": "2023-03-16",
+        "time": "1:08:16 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "9 CAMPBELL LN ,MNP",
+        "latitude": 37.4203198154545,
+        "longitude": -122.192131930056,
+        "units": ">E4"
+    },
+    {
+        "id": "SF2303501",
+        "date": "2023-03-16",
+        "time": "1:06:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ALBERNI ST ,EPA",
+        "location": "THAYER LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
+        "units": ">E28"
     },
     {
         "id": "SF2303500",
@@ -19,39 +63,6 @@
         "location": "FLORES ST #315 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "WF2300585",
-        "date": "2023-03-16",
-        "time": "12:56:21 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "51 STONEGATE RD ,PVY",
-        "latitude": 37.379388155309,
-        "longitude": -122.221753887475,
-        "units": ">E8"
-    },
-    {
-        "id": "LF2300312",
-        "date": "2023-03-16",
-        "time": "12:47:21 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CLARK AVE ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">MED19 >E86"
-    },
-    {
-        "id": "NF2303371",
-        "date": "2023-03-16",
-        "time": "12:34:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HIGATE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ""
     }
 ]
