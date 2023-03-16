@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2303366",
+        "date": "2023-03-16",
+        "time": "11:21:53 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALE ST #45 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "FF2301717",
+        "date": "2023-03-16",
+        "time": "11:09:45 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "RAILROAD AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "LF2300311",
+        "date": "2023-03-16",
+        "time": "11:07:34 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "740 LARCHMONT DR ,BRD",
+        "latitude": 37.6911401672175,
+        "longitude": -122.483532743146,
+        "units": ">E86"
+    },
+    {
         "id": "CF2302057",
         "date": "2023-03-16",
         "time": "11:01:45 AM",
@@ -8,7 +41,7 @@
         "location": "CORONADO WAY ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E35"
+        "units": ">E35"
     },
     {
         "id": "WF2300584",
@@ -19,7 +52,7 @@
         "location": "TURKEY FARM LN ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
+        "units": ">E7"
     },
     {
         "id": "MF2302721",
@@ -33,50 +66,6 @@
         "units": ">T4"
     },
     {
-        "id": "RF2303359",
-        "date": "2023-03-16",
-        "time": "10:48:58 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BREWSTER AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2303492",
-        "date": "2023-03-16",
-        "time": "10:48:54 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S B ST #2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "NF2303365",
-        "date": "2023-03-16",
-        "time": "10:46:28 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO SIERRA POINT PKWY",
-        "latitude": 37.6989155941404,
-        "longitude": -122.392986466886,
-        "units": "CM31X1 TAC35 >Q62 >E81"
-    },
-    {
-        "id": "CF2302056",
-        "date": "2023-03-16",
-        "time": "10:43:05 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c2",
-        "location": "835 CHATEAU DR ,HIL",
-        "latitude": 37.5548918199484,
-        "longitude": -122.378123142448,
-        "units": ">E33"
-    },
-    {
         "id": "DF2300785",
         "date": "2023-03-16",
         "time": "10:28:22 AM",
@@ -86,16 +75,5 @@
         "latitude": 37.2654179172229,
         "longitude": -122.32070011212,
         "units": ">U55 >E655"
-    },
-    {
-        "id": "MF2302720",
-        "date": "2023-03-16",
-        "time": "10:24:49 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SHERWOOD WAY #1 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
     }
 ]
