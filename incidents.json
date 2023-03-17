@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2302768",
+        "id": "SF2303551",
         "date": "2023-03-17",
-        "time": "4:23:30 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "4:37:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "801 N HUMBOLDT ST ,SMO",
+        "latitude": 37.5813750465737,
+        "longitude": -122.329184178026,
+        "units": "E32"
+    },
+    {
+        "id": "BF2301135",
+        "date": "2023-03-17",
+        "time": "4:27:32 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "CONCORD DR ,MNP",
+        "location": "HUNTINGTON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
+        "units": ">E61"
     },
     {
         "id": "BF2301134",
@@ -22,28 +33,6 @@
         "units": ">E51"
     },
     {
-        "id": "NF2303423",
-        "date": "2023-03-17",
-        "time": "4:16:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BRYANT ST #RM 213B ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "HF2300922",
-        "date": "2023-03-17",
-        "time": "4:14:37 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY S #100A ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
         "id": "CF2302090",
         "date": "2023-03-17",
         "time": "4:12:53 PM",
@@ -52,28 +41,6 @@
         "location": "EL CAMINO REAL ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2303422",
-        "date": "2023-03-17",
-        "time": "4:01:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHRISTEN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "FF2301741",
-        "date": "2023-03-17",
-        "time": "4:00:52 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CYPRESS AVE #227 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "Q62"
+        "units": ""
     }
 ]
