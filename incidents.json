@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2302088",
+        "id": "NF2303417",
         "date": "2023-03-17",
-        "time": "2:36:34 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "3:01:34 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "30 PONCETTA DR #216 ,DCY",
+        "latitude": 37.7035552159448,
+        "longitude": -122.473802947788,
+        "units": "E91"
+    },
+    {
+        "id": "NF2303416",
+        "date": "2023-03-17",
+        "time": "3:01:10 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
+        "location": "ST MARKS CT ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E95"
+    },
+    {
+        "id": "FF2301739",
+        "date": "2023-03-17",
+        "time": "2:47:06 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SAN MATEO AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "MF2302765",
+        "date": "2023-03-17",
+        "time": "2:45:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALTSCHUL AVE ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T4"
     },
     {
         "id": "RF2303399",
@@ -20,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "SF2303548",
-        "date": "2023-03-17",
-        "time": "2:36:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DAVIS DR / RALSTON AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "LF2300316",
-        "date": "2023-03-17",
-        "time": "2:31:15 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "LARCHMONT DR / MACARTHUR DR",
-        "latitude": 37.6893297270286,
-        "longitude": -122.482727422954,
-        "units": "?MED19 E86"
-    },
-    {
-        "id": "SF2303547",
-        "date": "2023-03-17",
-        "time": "2:23:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W 3RD AVE #302 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
