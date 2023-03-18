@@ -1,47 +1,80 @@
 [
     {
-        "id": "RF2303409",
+        "id": "RF2303410",
         "date": "2023-03-17",
-        "time": "7:18:42 PM",
+        "time": "7:43:41 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
+        "location": "AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E5"
     },
     {
-        "id": "BF2301140",
+        "id": "SF2303556",
         "date": "2023-03-17",
-        "time": "7:16:35 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "7:40:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "GLENVIEW DR ,SNB",
+        "location": "BRIDGEPOINTE PKWY ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "BC16 >E52 TAC35 ?CM31X3"
+        "units": ">E26"
     },
     {
-        "id": "FF2301744",
+        "id": "MF2302776",
         "date": "2023-03-17",
-        "time": "7:07:46 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:33:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "LINDEN AVE ,SSF",
+        "location": "ILLINOIS ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": ">E2"
     },
     {
-        "id": "BF2301139",
+        "id": "MF2302775",
         "date": "2023-03-17",
-        "time": "7:04:37 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "7:25:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
+        "location": "SEQUOIA AVE / MONTGOMERY AVE",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": ">E10"
+    },
+    {
+        "id": "NF2303431",
+        "date": "2023-03-17",
+        "time": "7:23:35 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Smoke investigation",
+        "location": "ALICANTE DR / MANZANITA DR",
+        "latitude": 37.5833354291695,
+        "longitude": -122.478206905286,
+        "units": ">E72"
+    },
+    {
+        "id": "NF2303430",
+        "date": "2023-03-17",
+        "time": "7:22:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LARKSPUR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2303555",
+        "date": "2023-03-17",
+        "time": "7:22:27 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO PENINSULA AVE",
+        "latitude": 37.5804221513466,
+        "longitude": -122.324214673445,
+        "units": ">E24"
     },
     {
         "id": "RF2303408",
@@ -52,29 +85,7 @@
         "location": "BRITTAN AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "MF2302774",
-        "date": "2023-03-17",
-        "time": "6:58:43 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAGNOLIA DR ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "FF2301743",
-        "date": "2023-03-17",
-        "time": "6:57:06 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LUX AVE #10 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": "E16"
     },
     {
         "id": "DF2300798",
@@ -85,6 +96,6 @@
         "location": "12670 SKYLINE BLVD #D ,KMT",
         "latitude": 37.4579392429142,
         "longitude": -122.341732781084,
-        "units": ">TAC15 >E17 >R56"
+        "units": ">R56"
     }
 ]
