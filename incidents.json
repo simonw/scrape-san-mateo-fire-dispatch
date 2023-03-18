@@ -1,44 +1,88 @@
 [
     {
-        "id": "SF2303551",
+        "id": "RF2303401",
         "date": "2023-03-17",
-        "time": "4:37:01 PM",
+        "time": "5:15:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "RUBY ST / REDWOOD AVE",
+        "latitude": 37.4652996685158,
+        "longitude": -122.236570591825,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2303426",
+        "date": "2023-03-17",
+        "time": "5:07:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #212A ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "MF2302770",
+        "date": "2023-03-17",
+        "time": "5:06:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GONZAGA ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "LF2300317",
+        "date": "2023-03-17",
+        "time": "5:06:35 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "502 MIDWAY AVE ,BRD",
+        "latitude": 37.6923800172716,
+        "longitude": -122.478577537396,
+        "units": ">T85 >MED19 CM31X1"
+    },
+    {
+        "id": "SF2303552",
+        "date": "2023-03-17",
+        "time": "5:04:44 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "801 N HUMBOLDT ST ,SMO",
-        "latitude": 37.5813750465737,
-        "longitude": -122.329184178026,
-        "units": "E32"
-    },
-    {
-        "id": "BF2301135",
-        "date": "2023-03-17",
-        "time": "4:27:32 PM",
-        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
+        "location": "MARSTEN AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": ""
     },
     {
-        "id": "BF2301134",
+        "id": "BF2301136",
         "date": "2023-03-17",
-        "time": "4:19:33 PM",
+        "time": "5:04:35 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "NATIONAL AVE #2134 ,SNB",
+        "location": "FAIRMONT DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": ">E52"
     },
     {
-        "id": "CF2302090",
+        "id": "CF2302093",
         "date": "2023-03-17",
-        "time": "4:12:53 PM",
+        "time": "4:53:33 PM",
         "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1520 SHERMAN AVE ,BRM",
+        "latitude": 37.5847574439719,
+        "longitude": -122.368607274209,
+        "units": ">T34"
+    },
+    {
+        "id": "MF2302769",
+        "date": "2023-03-17",
+        "time": "4:52:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
+        "location": "PARK LN ,ATN",
         "latitude": null,
         "longitude": null,
         "units": ""
