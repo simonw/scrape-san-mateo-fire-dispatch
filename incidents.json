@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2302780",
+        "date": "2023-03-17",
+        "time": "10:24:03 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c2",
+        "location": "WILLOW RD / NEWBRIDGE ST ,EPA",
+        "latitude": 37.4728488971723,
+        "longitude": -122.154543883849,
+        "units": "E77"
+    },
+    {
+        "id": "SF2303563",
+        "date": "2023-03-17",
+        "time": "10:16:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E16"
+    },
+    {
+        "id": "RF2303411",
+        "date": "2023-03-17",
+        "time": "10:13:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WINSLOW ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "CF2302096",
         "date": "2023-03-17",
         "time": "10:01:20 PM",
@@ -19,7 +52,7 @@
         "location": "JENEVEIN AVE / EL CAMINO REAL",
         "latitude": 37.6230070164296,
         "longitude": -122.412647685527,
-        "units": ">E51 >T51 >BC16 TAC35 ?CM31X4"
+        "units": "TAC35 >E51 >BC16 ?CM31X4"
     },
     {
         "id": "SF2303562",
@@ -30,39 +63,6 @@
         "location": "INDUSTRIAL RD / HARBOR BLVD",
         "latitude": 37.5210740100388,
         "longitude": -122.267267433947,
-        "units": ">E13 >T23 >BC5 >E14 CM11X4?TAC15"
-    },
-    {
-        "id": "MF2302779",
-        "date": "2023-03-17",
-        "time": "9:42:19 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GEORGETOWN ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "SF2303561",
-        "date": "2023-03-17",
-        "time": "9:35:32 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ESSEX LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2302777",
-        "date": "2023-03-17",
-        "time": "9:15:37 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LARKSPUR DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": "?TAC15 >E14 >BC5 CM11X4 >E13>T23"
     }
 ]
