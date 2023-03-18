@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2302101",
+        "date": "2023-03-18",
+        "time": "1:41:41 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Lock out - residential",
+        "location": "1439 EL CAMINO REAL #10 ,BRM",
+        "latitude": 37.5882046183247,
+        "longitude": -122.373630086542,
+        "units": "?E34"
+    },
+    {
+        "id": "NF2303436",
+        "date": "2023-03-18",
+        "time": "1:29:36 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHMOOR DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "SF2303566",
         "date": "2023-03-18",
         "time": "1:27:02 AM",
@@ -8,7 +30,7 @@
         "location": "CLARK DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E32"
+        "units": ">E32"
     },
     {
         "id": "BF2301143",
@@ -19,18 +41,7 @@
         "location": "HUNTINGTON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "FF2301747",
-        "date": "2023-03-18",
-        "time": "1:11:58 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MILLER AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ">E51"
     },
     {
         "id": "MF2302782",
@@ -42,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "NF2303435",
-        "date": "2023-03-18",
-        "time": "1:04:47 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
