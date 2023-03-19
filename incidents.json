@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2302815",
+        "id": "CF2302124",
         "date": "2023-03-19",
-        "time": "12:18:30 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "12:41:20 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "SANTA CRUZ AVE ,MNP",
+        "location": "NADINA AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": "E37"
+    },
+    {
+        "id": "NF2303465",
+        "date": "2023-03-19",
+        "time": "12:41:11 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE #204 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
     },
     {
         "id": "SF2303612",
@@ -19,62 +30,7 @@
         "location": "419 IOWA DR ,SMO",
         "latitude": 37.5520908654198,
         "longitude": -122.335814214212,
-        "units": "E25"
-    },
-    {
-        "id": "RF2303446",
-        "date": "2023-03-19",
-        "time": "12:09:49 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UPTON ST ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "CF2302123",
-        "date": "2023-03-19",
-        "time": "12:08:23 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1000 BROADWAY ,MLB",
-        "latitude": 37.605742034152,
-        "longitude": -122.397567683143,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2303611",
-        "date": "2023-03-19",
-        "time": "12:02:06 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2303445",
-        "date": "2023-03-19",
-        "time": "3/18/2023 11:54:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GLENWOOD AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "MF2302814",
-        "date": "2023-03-19",
-        "time": "3/18/2023 11:51:40 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #117 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E25"
     },
     {
         "id": "MF2302813",
@@ -85,6 +41,6 @@
         "location": "SB 101 / NO EMBARCADERO",
         "latitude": 37.4562476390862,
         "longitude": -122.13389083789,
-        "units": ">E2 >T2"
+        "units": ">E2"
     }
 ]
