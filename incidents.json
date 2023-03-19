@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2302826",
+        "id": "BF2301161",
         "date": "2023-03-19",
-        "time": "12:43:11 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "1:02:37 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "FAIRVIEW AVE ,ATN",
+        "location": "BOARDWALK DR #15 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": "E52"
+    },
+    {
+        "id": "CF2302133",
+        "date": "2023-03-19",
+        "time": "12:48:24 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROBIN LN ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
     },
     {
         "id": "RF2303461",
@@ -19,18 +30,7 @@
         "location": "VIRGINIA AVE / MASSACHUSETTS AVE",
         "latitude": 37.4572664722349,
         "longitude": -122.228089526361,
-        "units": "E10"
-    },
-    {
-        "id": "SF2303639",
-        "date": "2023-03-19",
-        "time": "12:34:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "88 N SAN MATEO DR ,SMO",
-        "latitude": 37.5682392096036,
-        "longitude": -122.327591611048,
-        "units": ">E24 >E32 >BC8 >E21 >T21CM21X3 ?TAC25"
+        "units": ">T9 CM11X1 >E10"
     },
     {
         "id": "FF2301772",
@@ -52,6 +52,6 @@
         "location": "SOUTHGATE AVE #240 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95 >T95"
+        "units": "E95"
     }
 ]
