@@ -1,5 +1,16 @@
 [
     {
+        "id": "NF2303519",
+        "date": "2023-03-20",
+        "time": "12:50:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #214B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "BF2301176",
         "date": "2023-03-20",
         "time": "12:42:34 PM",
@@ -8,18 +19,7 @@
         "location": "SNEATH LN ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "MF2302854",
-        "date": "2023-03-20",
-        "time": "12:39:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
+        "units": ">E51"
     },
     {
         "id": "RF2303501",
@@ -27,31 +27,9 @@
         "time": "12:38:58 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Structure fire",
-        "location": "144 REDWOOD AVE #150 ,RCY",
+        "location": "150 REDWOOD AVE #150 ,RCY",
         "latitude": 37.4757045319233,
         "longitude": -122.224301513844,
-        "units": ">T9 E3 CM11X2 E9 TO3E10 E16 BC1 BC3 E13"
-    },
-    {
-        "id": "RF2303500",
-        "date": "2023-03-20",
-        "time": "12:28:58 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "2ND AVE / ROLISON RD",
-        "latitude": 37.4864036384962,
-        "longitude": -122.199246931525,
-        "units": ">E11"
-    },
-    {
-        "id": "RF2303499",
-        "date": "2023-03-20",
-        "time": "12:24:51 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "48 EDDYSTONE CT ,RWS",
-        "latitude": 37.5353645806242,
-        "longitude": -122.246064644114,
-        "units": ">E20"
+        "units": ">E3 >BC1 >TO3 >TAC15 >T9>E9 CM11X2 >E13 >BC3 >PR3D"
     }
 ]
