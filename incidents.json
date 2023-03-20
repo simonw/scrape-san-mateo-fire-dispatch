@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2302855",
+        "id": "MF2302856",
         "date": "2023-03-20",
-        "time": "1:37:31 PM",
+        "time": "1:56:44 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "SANTA CRUZ AVE #3 ,MNP",
+        "location": "W BAYSHORE RD #50 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
+        "units": ">E2"
+    },
+    {
+        "id": "CF2302166",
+        "date": "2023-03-20",
+        "time": "1:56:06 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "12 DEXTER PL ,MLB",
+        "latitude": 37.6039412575104,
+        "longitude": -122.400553264706,
+        "units": ">E52"
+    },
+    {
+        "id": "RF2303503",
+        "date": "2023-03-20",
+        "time": "1:53:10 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "SF2303679",
+        "date": "2023-03-20",
+        "time": "1:48:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "1416 E 3RD AVE ,SMO",
+        "latitude": 37.5720710069396,
+        "longitude": -122.312165691331,
+        "units": ">T21 >E21 CM21X1 ?TAC25"
     },
     {
         "id": "CF2302165",
@@ -19,7 +52,7 @@
         "location": "SPRUCE ST ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": "E51"
     },
     {
         "id": "SF2303678",
@@ -27,10 +60,10 @@
         "time": "1:25:42 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "E 3RD AVE #2615 ,SMO",
+        "location": "E 3RD AVE #2201 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E24"
     },
     {
         "id": "FF2301787",
@@ -44,39 +77,6 @@
         "units": ">Q62"
     },
     {
-        "id": "DF2300818",
-        "date": "2023-03-20",
-        "time": "1:20:17 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "316 DEVONSHIRE BLVD ,DVN",
-        "latitude": 37.496574374679,
-        "longitude": -122.284511053609,
-        "units": "?TAC16 >E15 CM11X5 >T17"
-    },
-    {
-        "id": "FF2301786",
-        "date": "2023-03-20",
-        "time": "1:18:29 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S SAN FRANCISCO DR / WOODS CIR",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "SF2303677",
-        "date": "2023-03-20",
-        "time": "1:11:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SKYMONT DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
         "id": "RF2303501",
         "date": "2023-03-20",
         "time": "12:38:58 PM",
@@ -85,6 +85,6 @@
         "location": "150 REDWOOD AVE #8 ,RCY",
         "latitude": 37.4757045319233,
         "longitude": -122.224301513844,
-        "units": ">E3 >TO3 >TAC15 >T9 >E9CM11X2 >E13 >PR3D >E10 >E16"
+        "units": ">TO3 >TAC15 >T9 >E9 CM11X2>PR3D >E10"
     }
 ]
