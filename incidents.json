@@ -1,35 +1,57 @@
 [
     {
-        "id": "MF2302853",
+        "id": "BF2301176",
         "date": "2023-03-20",
-        "time": "12:14:06 PM",
+        "time": "12:42:34 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SNEATH LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "MF2302854",
+        "date": "2023-03-20",
+        "time": "12:39:57 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WILLOW RD #104 ,MNP",
+        "location": "BAY RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": "E2"
     },
     {
-        "id": "RF2303498",
+        "id": "RF2303501",
         "date": "2023-03-20",
-        "time": "12:10:27 PM",
+        "time": "12:38:58 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAIR ISLAND RD #300 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "category": "Structure fire",
+        "location": "144 REDWOOD AVE #150 ,RCY",
+        "latitude": 37.4757045319233,
+        "longitude": -122.224301513844,
+        "units": ">T9 E3 CM11X2 E9 TO3E10 E16 BC1 BC3 E13"
     },
     {
-        "id": "HF2300947",
+        "id": "RF2303500",
         "date": "2023-03-20",
-        "time": "12:01:46 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ST ,MON",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
+        "time": "12:28:58 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "2ND AVE / ROLISON RD",
+        "latitude": 37.4864036384962,
+        "longitude": -122.199246931525,
+        "units": ">E11"
+    },
+    {
+        "id": "RF2303499",
+        "date": "2023-03-20",
+        "time": "12:24:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "48 EDDYSTONE CT ,RWS",
+        "latitude": 37.5353645806242,
+        "longitude": -122.246064644114,
+        "units": ">E20"
     }
 ]
