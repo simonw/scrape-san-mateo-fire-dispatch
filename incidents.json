@@ -1,14 +1,47 @@
 [
     {
-        "id": "BF2301182",
+        "id": "NF2303551",
         "date": "2023-03-21",
-        "time": "9:00:26 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO 380",
-        "latitude": 37.6247425325052,
-        "longitude": -122.428499844054,
-        "units": "BC16 E64 T51 E38 CM31X1?TAC35"
+        "time": "9:22:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 280 / SO JOHN DALY BLVD",
+        "latitude": 37.7034101220142,
+        "longitude": -122.471313233753,
+        "units": "E92 T95 BC124 E93 CM31X5?TAC35"
+    },
+    {
+        "id": "FF2301800",
+        "date": "2023-03-21",
+        "time": "9:21:34 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "GRAND AVE / MAPLE AVE",
+        "latitude": 37.6557069909646,
+        "longitude": -122.412476043702,
+        "units": "E61"
+    },
+    {
+        "id": "WF2300602",
+        "date": "2023-03-21",
+        "time": "9:11:21 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PORTOLA RD ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E8"
+    },
+    {
+        "id": "CF2302183",
+        "date": "2023-03-21",
+        "time": "9:08:05 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MANGINI WAY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "NF2303549",
@@ -19,29 +52,7 @@
         "location": "50 CANTERBURY AVE ,DCY",
         "latitude": 37.6552044376442,
         "longitude": -122.471894720344,
-        "units": "CM31X3 BC124 E94 ?E92"
-    },
-    {
-        "id": "MF2302881",
-        "date": "2023-03-21",
-        "time": "8:51:48 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "WISTERIA DR / CAMELLIA DR",
-        "latitude": 37.4570770248842,
-        "longitude": -122.124998349418,
-        "units": ">T2"
-    },
-    {
-        "id": "MF2302880",
-        "date": "2023-03-21",
-        "time": "8:50:53 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ANNAPOLIS ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E94"
     },
     {
         "id": "CF2302182",
@@ -52,6 +63,6 @@
         "location": "MYRTLE RD #106 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">T34 ?CM21X1 >E34"
+        "units": ">E34"
     }
 ]
