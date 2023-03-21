@@ -1,35 +1,57 @@
 [
     {
+        "id": "BF2301179",
+        "date": "2023-03-20",
+        "time": "7:15:50 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL / SAN DIEGO AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "SF2303685",
+        "date": "2023-03-20",
+        "time": "7:15:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #219 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "SF2303684",
+        "date": "2023-03-20",
+        "time": "7:10:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL PARQUE CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "BF2301178",
+        "date": "2023-03-20",
+        "time": "6:50:58 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "2011 WILLOW WAY ,SNB",
+        "latitude": 37.6312785352514,
+        "longitude": -122.451103028401,
+        "units": ">E52"
+    },
+    {
         "id": "MF2302866",
         "date": "2023-03-20",
         "time": "6:44:20 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO WILLOW RD",
+        "location": "NB 101 / NO WILLOW RD",
         "latitude": 37.4655873647658,
         "longitude": -122.149382461131,
-        "units": "E2 TAC15 CM11X4 BC101 E1T2"
-    },
-    {
-        "id": "RF2303517",
-        "date": "2023-03-20",
-        "time": "6:37:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "707 LEAHY ST ,RCY",
-        "latitude": 37.4702118714814,
-        "longitude": -122.215220792766,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2303515",
-        "date": "2023-03-20",
-        "time": "6:14:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM11X4 TAC15"
     }
 ]
