@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2302877",
+        "date": "2023-03-21",
+        "time": "6:20:29 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HEDGE RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "FF2301798",
+        "date": "2023-03-21",
+        "time": "6:06:15 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "333 POINT SAN BRUNO BLVD ,SSF",
+        "latitude": 37.6527790849263,
+        "longitude": -122.381264520504,
+        "units": "Q62"
+    },
+    {
         "id": "RF2303531",
         "date": "2023-03-21",
         "time": "6:01:52 AM",
@@ -8,7 +30,7 @@
         "location": "2580 EL CAMINO REAL ,RCY",
         "latitude": 37.4720969148431,
         "longitude": -122.217242424708,
-        "units": "BC3 T9 E3 CM11X4 ?TAC15"
+        "units": ">E3"
     },
     {
         "id": "RF2303530",
@@ -20,16 +42,5 @@
         "latitude": 37.5378644345645,
         "longitude": -122.249193315338,
         "units": ">E20"
-    },
-    {
-        "id": "SF2303700",
-        "date": "2023-03-21",
-        "time": "5:41:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NEWBRIDGE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
     }
 ]
