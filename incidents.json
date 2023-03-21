@@ -1,58 +1,124 @@
 [
     {
-        "id": "MF2302966",
+        "id": "CF2302196",
         "date": "2023-03-21",
-        "time": "2:39:14 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Pole fire",
-        "location": "1975 SANTA CRUZ AVE ,MNP",
-        "latitude": 37.4341759805035,
-        "longitude": -122.197024170194,
-        "units": "E1"
-    },
-    {
-        "id": "SF2303732",
-        "date": "2023-03-21",
-        "time": "2:30:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:04:28 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "TRAIN TRACK ,SMO",
+        "location": "BALBOA AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": "E35"
     },
     {
-        "id": "MF2302960",
+        "id": "NF2303573",
         "date": "2023-03-21",
-        "time": "2:26:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MISSION DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "NF2303572",
-        "date": "2023-03-21",
-        "time": "2:21:04 PM",
+        "time": "3:03:28 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "category": "Wires down (not sparking)",
+        "location": "555 OCEANA BLVD ,PCF",
+        "latitude": 37.6480051537865,
+        "longitude": -122.490297754644,
+        "units": "?NFAEOC"
     },
     {
-        "id": "MF2302958",
+        "id": "SF2303733",
         "date": "2023-03-21",
-        "time": "2:20:09 PM",
+        "time": "3:02:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "101 N KINGSTON ST ,SMO",
+        "latitude": 37.5755810584935,
+        "longitude": -122.317538546981,
+        "units": "?E24"
+    },
+    {
+        "id": "HF2300960",
+        "date": "2023-03-21",
+        "time": "3:02:08 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "58 SEASCAPE DR ,HMB",
+        "latitude": 37.4281486031739,
+        "longitude": -122.427225440521,
+        "units": "E44"
+    },
+    {
+        "id": "HF2300958",
+        "date": "2023-03-21",
+        "time": "2:58:52 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "20 ERIN LN ,HMB",
+        "latitude": 37.467293465843,
+        "longitude": -122.424569959325,
+        "units": "?E41"
+    },
+    {
+        "id": "MF2302970",
+        "date": "2023-03-21",
+        "time": "2:52:06 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Sparking/arcing wires down",
-        "location": "190 FAIR OAKS LN ,ATN",
-        "latitude": 37.4680479910627,
-        "longitude": -122.193604180559,
-        "units": ">E504"
+        "location": "445 E O'KEEFE ST ,EPA",
+        "latitude": 37.4623234864328,
+        "longitude": -122.145705791343,
+        "units": ">E2"
+    },
+    {
+        "id": "WF2300614",
+        "date": "2023-03-21",
+        "time": "2:51:52 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "117 GLENWOOD AVE ,WDS",
+        "latitude": 37.4367039485754,
+        "longitude": -122.259819336021,
+        "units": ">BC2"
+    },
+    {
+        "id": "DF2300831",
+        "date": "2023-03-21",
+        "time": "2:50:57 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "BEAN HOLLOW RD / CABRILLO HWY",
+        "latitude": 37.2228162239643,
+        "longitude": -122.406331209675,
+        "units": ">E59"
+    },
+    {
+        "id": "BF2301194",
+        "date": "2023-03-21",
+        "time": "2:49:54 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "1031 CHERRY AVE ,SNB",
+        "latitude": 37.6302036786197,
+        "longitude": -122.428323600611,
+        "units": ">E51 >BC16"
+    },
+    {
+        "id": "HF2300956",
+        "date": "2023-03-21",
+        "time": "2:43:20 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "CABRILLO HWY S / MIRAMONTES POINT RD",
+        "latitude": 37.4313221983695,
+        "longitude": -122.426677017263,
+        "units": ">BC10 CM41X1 >E40"
+    },
+    {
+        "id": "FF2301811",
+        "date": "2023-03-21",
+        "time": "2:42:03 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "TAMARACK LN / MAPLE AVE",
+        "latitude": 37.6571490609179,
+        "longitude": -122.411974106569,
+        "units": ">E61"
     },
     {
         "id": "DF2300828",
@@ -63,18 +129,7 @@
         "location": "9000 PORTOLA STATE PARK RD ,SOS",
         "latitude": 37.2610635152212,
         "longitude": -122.21747314996,
-        "units": "E58 E57"
-    },
-    {
-        "id": "RF2303555",
-        "date": "2023-03-21",
-        "time": "1:53:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "600 BLOCK LANDMARK LN ,RWS",
-        "latitude": 37.5454725771536,
-        "longitude": -122.237952788949,
-        "units": "E20"
+        "units": ">E58 E57"
     },
     {
         "id": "RF2303554",
@@ -85,7 +140,7 @@
         "location": "30 ST MARYS PL ,RCY",
         "latitude": 37.4796104383956,
         "longitude": -122.188210555024,
-        "units": "E11"
+        "units": ">SQ409"
     },
     {
         "id": "WF2300607",
@@ -96,7 +151,7 @@
         "location": "50 STADLER DR ,WDS",
         "latitude": 37.3911438103052,
         "longitude": -122.269449045769,
-        "units": "E18 E356"
+        "units": ">E356"
     },
     {
         "id": "RF2303552",
@@ -107,7 +162,29 @@
         "location": "707 ELM ST ,SNC",
         "latitude": 37.5037873039834,
         "longitude": -122.260885732391,
-        "units": ">E16"
+        "units": "CM11X1 >E16"
+    },
+    {
+        "id": "MF2302932",
+        "date": "2023-03-21",
+        "time": "1:40:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "521 ENTRADA WAY ,MOK",
+        "latitude": 37.4645594786229,
+        "longitude": -122.166924467171,
+        "units": ">SQ401"
+    },
+    {
+        "id": "MF2302924",
+        "date": "2023-03-21",
+        "time": "1:35:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "1101 DEL NORTE AVE ,MNP",
+        "latitude": 37.4770132080253,
+        "longitude": -122.168129987686,
+        "units": ">E77"
     },
     {
         "id": "WF2300606",
@@ -130,17 +207,6 @@
         "latitude": 37.4633257425412,
         "longitude": -122.149449615808,
         "units": ">TO1A"
-    },
-    {
-        "id": "MF2302907",
-        "date": "2023-03-21",
-        "time": "1:26:25 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "458 3RD AVE ,NFO",
-        "latitude": 37.4744184220527,
-        "longitude": -122.205722251298,
-        "units": ">T9"
     },
     {
         "id": "WF2300605",
