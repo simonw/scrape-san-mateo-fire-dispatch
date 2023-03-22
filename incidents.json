@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2303623",
+        "id": "RF2303624",
         "date": "2023-03-21",
-        "time": "8:21:25 PM",
+        "time": "8:37:04 PM",
         "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD #11 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "WF2300657",
+        "date": "2023-03-21",
+        "time": "8:31:46 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Tree down",
-        "location": "204 TOPAZ ST ,RCY",
-        "latitude": 37.4753914711008,
-        "longitude": -122.250654227362,
-        "units": "T9"
+        "location": "714 GLENMERE WAY ,EML",
+        "latitude": 37.4595238565448,
+        "longitude": -122.271980842238,
+        "units": ">E19"
     },
     {
         "id": "LF2300341",
@@ -19,29 +30,7 @@
         "location": "GARDEN LN ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
-    },
-    {
-        "id": "DF2300872",
-        "date": "2023-03-21",
-        "time": "8:21:02 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO 92",
-        "latitude": 37.5128003426877,
-        "longitude": -122.347426465418,
-        "units": "?CM11X4 T34 E17 TAC16 BC11E27"
-    },
-    {
-        "id": "WF2300656",
-        "date": "2023-03-21",
-        "time": "8:13:08 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO FARM HILL BLVD",
-        "latitude": 37.4502169682406,
-        "longitude": -122.278716264987,
-        "units": ">E18"
+        "units": ">E86"
     },
     {
         "id": "DF2300871",
@@ -55,50 +44,6 @@
         "units": ">E57"
     },
     {
-        "id": "CF2302227",
-        "date": "2023-03-21",
-        "time": "8:03:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MOSELEY RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "NF2303617",
-        "date": "2023-03-21",
-        "time": "8:02:34 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "285 PALISADES DR ,DCY",
-        "latitude": 37.6883569539524,
-        "longitude": -122.49202420391,
-        "units": ">E95"
-    },
-    {
-        "id": "CF2302226",
-        "date": "2023-03-21",
-        "time": "7:55:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "2105 FOREST VIEW AVE ,HIL",
-        "latitude": 37.5752356232246,
-        "longitude": -122.37004227827,
-        "units": ""
-    },
-    {
-        "id": "SF2303771",
-        "date": "2023-03-21",
-        "time": "7:51:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ELLSWORTH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM21X1 >E21 >T21"
-    },
-    {
         "id": "RF2303622",
         "date": "2023-03-21",
         "time": "7:45:11 PM",
@@ -107,7 +52,7 @@
         "location": "1003 TAFT ST ,RCY",
         "latitude": 37.4683195660689,
         "longitude": -122.240952252075,
-        "units": ">SQ409 CM11X1 >E10"
+        "units": "CM11X1"
     },
     {
         "id": "WF2300653",
@@ -121,47 +66,14 @@
         "units": "TAC15 >R7 CM11X2 >BC2"
     },
     {
-        "id": "CF2302221",
+        "id": "WF2300649",
         "date": "2023-03-21",
-        "time": "7:24:13 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "45 SEARSVILLE CT ,HIL",
-        "latitude": 37.5336901582852,
-        "longitude": -122.353587618387,
-        "units": ""
-    },
-    {
-        "id": "DF2300869",
-        "date": "2023-03-21",
-        "time": "7:22:09 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "112 LINDEN LN ,EIC",
-        "latitude": 37.5347272670448,
-        "longitude": -122.34581416512,
-        "units": ">T17"
-    },
-    {
-        "id": "WF2300637",
-        "date": "2023-03-21",
-        "time": "5:15:03 PM",
+        "time": "6:47:08 PM",
         "summary": "Woodside Fire on Control-3",
         "category": "Tree down",
-        "location": "514 ROCKY WAY ,WDS",
-        "latitude": 37.4590390746491,
-        "longitude": -122.279150617668,
-        "units": ">E19"
-    },
-    {
-        "id": "MF2302911",
-        "date": "2023-03-21",
-        "time": "1:28:01 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "220 DONOHOE ST ,EPA",
-        "latitude": 37.4633257425412,
-        "longitude": -122.149449615808,
-        "units": ">TO1A"
+        "location": "124 ALTA MESA RD ,WDS",
+        "latitude": 37.4409253285611,
+        "longitude": -122.255278396171,
+        "units": ">E7"
     }
 ]
