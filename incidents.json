@@ -1,5 +1,104 @@
 [
     {
+        "id": "WF2300677",
+        "date": "2023-03-22",
+        "time": "7:21:42 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "GLENWOOD AVE / CANADA RD",
+        "latitude": 37.4359541095776,
+        "longitude": -122.260180583654,
+        "units": "R7"
+    },
+    {
+        "id": "RF2303653",
+        "date": "2023-03-22",
+        "time": "7:14:24 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / WOODSIDE RD ON RAMP",
+        "latitude": 37.4876634687775,
+        "longitude": -122.207269676084,
+        "units": ">T9"
+    },
+    {
+        "id": "DF2300882",
+        "date": "2023-03-22",
+        "time": "7:14:10 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "123 CHESHAM AVE ,DVN",
+        "latitude": 37.4958434596903,
+        "longitude": -122.280363306811,
+        "units": "?TAC15 CM11X3 >E13 E15 T17BC11 >E16"
+    },
+    {
+        "id": "BF2301210",
+        "date": "2023-03-22",
+        "time": "7:13:11 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN BRUNO AVE W ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "DF2300881",
+        "date": "2023-03-22",
+        "time": "7:12:53 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "9649 CABRILLO HWY ,SOS",
+        "latitude": 37.205704411448,
+        "longitude": -122.403827893105,
+        "units": "E659"
+    },
+    {
+        "id": "RF2303652",
+        "date": "2023-03-22",
+        "time": "7:11:35 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "267 ALAMEDA DE LAS PULGAS ,RCY",
+        "latitude": 37.4773338680506,
+        "longitude": -122.250817014568,
+        "units": ">E12"
+    },
+    {
+        "id": "BF2301209",
+        "date": "2023-03-22",
+        "time": "7:09:17 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MIRALUNA DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "NF2303633",
+        "date": "2023-03-22",
+        "time": "7:08:31 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ORANGE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2303016",
+        "date": "2023-03-22",
+        "time": "7:06:07 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WB MARSH RD ON RAMP / SB 101",
+        "latitude": 37.4834943947678,
+        "longitude": -122.181328681028,
+        "units": "?TAC16 CM11X5"
+    },
+    {
         "id": "CF2302238",
         "date": "2023-03-22",
         "time": "7:04:27 AM",
@@ -8,7 +107,7 @@
         "location": "252 ROBLAR AVE ,HIL",
         "latitude": 37.5649681852333,
         "longitude": -122.339002710807,
-        "units": "?E32"
+        "units": ">E32"
     },
     {
         "id": "NF2303632",
@@ -19,7 +118,18 @@
         "location": "JUNIPERO SERRA BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E91"
+    },
+    {
+        "id": "WF2300676",
+        "date": "2023-03-22",
+        "time": "6:54:47 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "GLENLOCH WAY / SYLVAN WAY",
+        "latitude": 37.4641201496634,
+        "longitude": -122.270480684141,
+        "units": ">E19"
     },
     {
         "id": "DF2300880",
@@ -30,7 +140,7 @@
         "location": "11000 BLOCK PESCADERO CREEK RD ,LAH",
         "latitude": 37.2991440342718,
         "longitude": -122.276431660085,
-        "units": "E655 U55"
+        "units": "U55 E655"
     },
     {
         "id": "RF2303651",
@@ -41,7 +151,7 @@
         "location": "REGENT ST #7 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": ""
     },
     {
         "id": "DF2300878",
@@ -52,18 +162,18 @@
         "location": "486 ALLEN RD ,SKY",
         "latitude": 37.3808719029146,
         "longitude": -122.28618656406,
-        "units": "R7 ?E58"
+        "units": ""
     },
     {
-        "id": "RF2303649",
+        "id": "DF2300879",
         "date": "2023-03-22",
-        "time": "6:30:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "759 OAKVIEW WAY ,RCY",
-        "latitude": 37.4639622789842,
-        "longitude": -122.258505057029,
-        "units": ">E12"
+        "time": "6:46:20 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "12 STARWOOD DR ,SKY",
+        "latitude": 37.3785622833149,
+        "longitude": -122.268934060405,
+        "units": "E58"
     },
     {
         "id": "RF2303645",
@@ -85,6 +195,6 @@
         "location": "635 PATROL RD ,WDS",
         "latitude": 37.4301172782387,
         "longitude": -122.281991760996,
-        "units": ">TAC15 >CM11X2 >E7 >BC2"
+        "units": ">E7"
     }
 ]
