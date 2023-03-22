@@ -1,14 +1,36 @@
 [
     {
+        "id": "WF2300672",
+        "date": "2023-03-22",
+        "time": "5:21:46 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "700 KINGS MOUNTAIN RD ,WDS",
+        "latitude": 37.4338742283598,
+        "longitude": -122.284399806003,
+        "units": "E19"
+    },
+    {
+        "id": "WF2300671",
+        "date": "2023-03-22",
+        "time": "5:15:41 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "1477 PORTOLA RD ,WDS",
+        "latitude": 37.3942170897776,
+        "longitude": -122.245841526743,
+        "units": "?TAC15 >R7 ?CM11X1 >BC2"
+    },
+    {
         "id": "SF2303791",
         "date": "2023-03-22",
         "time": "5:05:06 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Full assignment response",
-        "location": "1424 CARY AVE ,SMO",
+        "location": "1410 CARY AVE ,SMO",
         "latitude": 37.5706274503964,
         "longitude": -122.309404196204,
-        "units": "E26 E24 T21 E28 ?TAC25?CM21X3 ?BC5"
+        "units": "CM21X3 >BC5 TAC25 >E28 >E24>E26 >T21"
     },
     {
         "id": "WF2300670",
@@ -19,72 +41,6 @@
         "location": "635 PATROL RD ,WDS",
         "latitude": 37.4301172782387,
         "longitude": -122.281991760996,
-        "units": "E7"
-    },
-    {
-        "id": "MF2303014",
-        "date": "2023-03-22",
-        "time": "4:55:40 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "NF2303629",
-        "date": "2023-03-22",
-        "time": "4:48:46 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "35 YACHT LN ,DCY",
-        "latitude": 37.6854341371511,
-        "longitude": -122.446530301234,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2302235",
-        "date": "2023-03-22",
-        "time": "4:47:04 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "NF2303628",
-        "date": "2023-03-22",
-        "time": "4:45:28 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BELHAVEN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2302234",
-        "date": "2023-03-22",
-        "time": "4:36:43 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1420 BURLINGAME AVE ,BRM",
-        "latitude": 37.5777680108708,
-        "longitude": -122.348872422356,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2303790",
-        "date": "2023-03-22",
-        "time": "4:32:39 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W SANTA INEZ AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E7"
     }
 ]
