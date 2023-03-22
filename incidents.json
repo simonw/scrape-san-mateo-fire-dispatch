@@ -1,5 +1,93 @@
 [
     {
+        "id": "MF2303007",
+        "date": "2023-03-21",
+        "time": "10:22:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "95 CLAY DR ,ATN",
+        "latitude": 37.4465332482462,
+        "longitude": -122.214297431938,
+        "units": "T4"
+    },
+    {
+        "id": "RF2303628",
+        "date": "2023-03-21",
+        "time": "10:19:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1583 OXFORD ST #2 ,RCY",
+        "latitude": 37.4687323608882,
+        "longitude": -122.225270720998,
+        "units": "E10"
+    },
+    {
+        "id": "NF2303623",
+        "date": "2023-03-21",
+        "time": "10:18:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 280 / NO HICKEY BLVD",
+        "latitude": 37.6682462185452,
+        "longitude": -122.465546681579,
+        "units": "BC124 >E94 E92 ?TAC35 CM31X5T95"
+    },
+    {
+        "id": "NF2303621",
+        "date": "2023-03-21",
+        "time": "10:17:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Pole fire",
+        "location": "71 FAIRWAY DR ,DCY",
+        "latitude": 37.6994997482554,
+        "longitude": -122.479095443952,
+        "units": ">E91"
+    },
+    {
+        "id": "FF2301836",
+        "date": "2023-03-21",
+        "time": "10:14:41 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "MYRTLE AVE / W ORANGE AVE",
+        "latitude": 37.6525723926962,
+        "longitude": -122.426474527598,
+        "units": "E61"
+    },
+    {
+        "id": "SF2303779",
+        "date": "2023-03-21",
+        "time": "10:14:25 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO 92",
+        "latitude": 37.5627460005368,
+        "longitude": -122.305327217889,
+        "units": "?CM21X4 >BC5 ?TAC25 >E26 >E24>T21"
+    },
+    {
+        "id": "MF2303006",
+        "date": "2023-03-21",
+        "time": "10:12:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UNIVERSITY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "NF2303620",
+        "date": "2023-03-21",
+        "time": "10:08:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #208C ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "SF2303778",
         "date": "2023-03-21",
         "time": "9:59:42 PM",
@@ -8,7 +96,7 @@
         "location": "STATION PARK CIR #334 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T23"
+        "units": ">T23"
     },
     {
         "id": "WF2300665",
@@ -19,18 +107,7 @@
         "location": "NB 280 / SO FARM HILL BLVD",
         "latitude": 37.4416686625117,
         "longitude": -122.250937832791,
-        "units": "R7 E4 BC2 E19 ?TAC16?CM11X3"
-    },
-    {
-        "id": "WF2300664",
-        "date": "2023-03-21",
-        "time": "9:56:15 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "VERNAL WAY / LAKEVIEW WAY",
-        "latitude": 37.4638351364691,
-        "longitude": -122.26642471163,
-        "units": "E12"
+        "units": "?CM11X3 ?TAC16"
     },
     {
         "id": "CF2302231",
@@ -44,28 +121,6 @@
         "units": ">E33"
     },
     {
-        "id": "SF2303777",
-        "date": "2023-03-21",
-        "time": "9:49:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "28TH AVE / FLORES ST  ,SMO",
-        "latitude": 37.5406699826525,
-        "longitude": -122.305254597149,
-        "units": ">E23"
-    },
-    {
-        "id": "WF2300659",
-        "date": "2023-03-21",
-        "time": "8:47:12 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO SAND HILL RD",
-        "latitude": 37.4282029747085,
-        "longitude": -122.23430542581,
-        "units": "?TAC15 ?CM11X5"
-    },
-    {
         "id": "WF2300658",
         "date": "2023-03-21",
         "time": "8:40:36 PM",
@@ -74,17 +129,6 @@
         "location": "SUMMIT SPRINGS RD / PATROL RD",
         "latitude": 37.4251140300958,
         "longitude": -122.278620820279,
-        "units": ">E7"
-    },
-    {
-        "id": "WF2300650",
-        "date": "2023-03-21",
-        "time": "6:51:50 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "685 PATROL RD ,WDS",
-        "latitude": 37.4311560793672,
-        "longitude": -122.283769887257,
-        "units": ">CH2A"
+        "units": ""
     }
 ]
