@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2303624",
+        "date": "2023-03-21",
+        "time": "10:41:41 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO EASTMOOR AVE",
+        "latitude": 37.6870119736043,
+        "longitude": -122.471397012826,
+        "units": "BC20 E64 T51 E92 ?TAC36?CM31X2"
+    },
+    {
+        "id": "RF2303630",
+        "date": "2023-03-21",
+        "time": "10:40:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PELICAN LN ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "MF2303008",
+        "date": "2023-03-21",
+        "time": "10:27:14 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": ">E6"
+    },
+    {
+        "id": "WF2300666",
+        "date": "2023-03-21",
+        "time": "10:25:53 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "208 MIRAMONTES RD ,WDS",
+        "latitude": 37.4288810683651,
+        "longitude": -122.263451375032,
+        "units": ">E7"
+    },
+    {
+        "id": "HF2301015",
+        "date": "2023-03-21",
+        "time": "10:23:44 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "99 SAN MATEO RD ,HMB",
+        "latitude": 37.4675754757188,
+        "longitude": -122.430315529483,
+        "units": ">E40"
+    },
+    {
         "id": "MF2303007",
         "date": "2023-03-21",
         "time": "10:22:55 PM",
@@ -8,7 +63,7 @@
         "location": "95 CLAY DR ,ATN",
         "latitude": 37.4465332482462,
         "longitude": -122.214297431938,
-        "units": "T4"
+        "units": ">E4"
     },
     {
         "id": "RF2303628",
@@ -19,7 +74,7 @@
         "location": "1583 OXFORD ST #2 ,RCY",
         "latitude": 37.4687323608882,
         "longitude": -122.225270720998,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "NF2303623",
@@ -30,7 +85,7 @@
         "location": "NB 280 / NO HICKEY BLVD",
         "latitude": 37.6682462185452,
         "longitude": -122.465546681579,
-        "units": "BC124 >E94 E92 ?TAC35 CM31X5T95"
+        "units": ">BC124 >E94 ?TAC35 CM31X5 >T95"
     },
     {
         "id": "NF2303621",
@@ -44,17 +99,6 @@
         "units": ">E91"
     },
     {
-        "id": "FF2301836",
-        "date": "2023-03-21",
-        "time": "10:14:41 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "MYRTLE AVE / W ORANGE AVE",
-        "latitude": 37.6525723926962,
-        "longitude": -122.426474527598,
-        "units": "E61"
-    },
-    {
         "id": "SF2303779",
         "date": "2023-03-21",
         "time": "10:14:25 PM",
@@ -64,61 +108,6 @@
         "latitude": 37.5627460005368,
         "longitude": -122.305327217889,
         "units": "?CM21X4 >BC5 ?TAC25 >E26 >E24>T21"
-    },
-    {
-        "id": "MF2303006",
-        "date": "2023-03-21",
-        "time": "10:12:25 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "NF2303620",
-        "date": "2023-03-21",
-        "time": "10:08:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #208C ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "SF2303778",
-        "date": "2023-03-21",
-        "time": "9:59:42 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "STATION PARK CIR #334 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
-    },
-    {
-        "id": "WF2300665",
-        "date": "2023-03-21",
-        "time": "9:58:23 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO FARM HILL BLVD",
-        "latitude": 37.4416686625117,
-        "longitude": -122.250937832791,
-        "units": "?CM11X3 ?TAC16"
-    },
-    {
-        "id": "CF2302231",
-        "date": "2023-03-21",
-        "time": "9:54:33 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EUGENIA WAY ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
     },
     {
         "id": "WF2300658",
