@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2303047",
+        "date": "2023-03-22",
+        "time": "4:41:27 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "FAIR OAKS LN / EL CAMINO REAL",
+        "latitude": 37.4620821909327,
+        "longitude": -122.200033363352,
+        "units": "E3 BC1 T4 CM11X3 ?TAC16"
+    },
+    {
+        "id": "RF2303674",
+        "date": "2023-03-22",
+        "time": "4:40:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1762 MARYLAND ST ,RCY",
+        "latitude": 37.4532292367135,
+        "longitude": -122.235486779286,
+        "units": "E10"
+    },
+    {
+        "id": "SF2303820",
+        "date": "2023-03-22",
+        "time": "4:39:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Tree down",
+        "location": "900 BLOCK 6TH AVE ,BLM",
+        "latitude": 37.5200967224854,
+        "longitude": -122.278149170005,
+        "units": "E14"
+    },
+    {
+        "id": "CF2302259",
+        "date": "2023-03-22",
+        "time": "4:32:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "520 ROEHAMPTON RD ,HIL",
+        "latitude": 37.5618861235154,
+        "longitude": -122.343560938684,
+        "units": ">E32"
+    },
+    {
+        "id": "NF2303661",
+        "date": "2023-03-22",
+        "time": "4:32:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HICKEY BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "RF2303673",
         "date": "2023-03-22",
         "time": "4:13:30 PM",
@@ -8,7 +63,7 @@
         "location": "BRET HARTE DR / EDGECLIFF WAY",
         "latitude": 37.4565850793466,
         "longitude": -122.258617149438,
-        "units": "T9"
+        "units": ">T9"
     },
     {
         "id": "MF2303046",
@@ -19,28 +74,6 @@
         "location": "125 CONSTITUTION DR ,MNP",
         "latitude": 37.4853136574653,
         "longitude": -122.17646797387,
-        "units": ">E5"
-    },
-    {
-        "id": "HF2301033",
-        "date": "2023-03-22",
-        "time": "4:04:38 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CALIFORNIA AVE ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "NF2303660",
-        "date": "2023-03-22",
-        "time": "4:03:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">TAC15 >E5"
     }
 ]
