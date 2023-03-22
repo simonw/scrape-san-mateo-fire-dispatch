@@ -1,5 +1,82 @@
 [
     {
+        "id": "BF2301208",
+        "date": "2023-03-22",
+        "time": "5:47:55 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "WF2300673",
+        "date": "2023-03-22",
+        "time": "5:46:38 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CEDAR LN ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "RF2303643",
+        "date": "2023-03-22",
+        "time": "5:39:54 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #106 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2303642",
+        "date": "2023-03-22",
+        "time": "5:37:11 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #4212 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "CF2302236",
+        "date": "2023-03-22",
+        "time": "5:36:42 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1420 BURLINGAME AVE ,BRM",
+        "latitude": 37.5777680108708,
+        "longitude": -122.348872422356,
+        "units": ""
+    },
+    {
+        "id": "RF2303641",
+        "date": "2023-03-22",
+        "time": "5:35:32 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #502 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "HF2301019",
+        "date": "2023-03-22",
+        "time": "5:35:10 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "11881 SAN MATEO RD ,SON",
+        "latitude": 37.4865477420107,
+        "longitude": -122.394989361041,
+        "units": "E40"
+    },
+    {
         "id": "WF2300672",
         "date": "2023-03-22",
         "time": "5:21:46 AM",
@@ -8,18 +85,7 @@
         "location": "700 KINGS MOUNTAIN RD ,WDS",
         "latitude": 37.4338742283598,
         "longitude": -122.284399806003,
-        "units": "E19"
-    },
-    {
-        "id": "WF2300671",
-        "date": "2023-03-22",
-        "time": "5:15:41 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "1477 PORTOLA RD ,WDS",
-        "latitude": 37.3942170897776,
-        "longitude": -122.245841526743,
-        "units": "?TAC15 >R7 ?CM11X1 >BC2"
+        "units": ">E19"
     },
     {
         "id": "SF2303791",
@@ -41,6 +107,6 @@
         "location": "635 PATROL RD ,WDS",
         "latitude": 37.4301172782387,
         "longitude": -122.281991760996,
-        "units": ">E7"
+        "units": ">BC2 >R7 >TAC15 >CM11X2 >E7"
     }
 ]
