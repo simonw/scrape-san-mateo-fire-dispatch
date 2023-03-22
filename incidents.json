@@ -1,5 +1,71 @@
 [
     {
+        "id": "SF2303794",
+        "date": "2023-03-22",
+        "time": "8:38:00 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "2140 CARLMONT DR ,BLM",
+        "latitude": 37.5097066540427,
+        "longitude": -122.294842657296,
+        "units": "CM11X4 ?TAC15 >E15 T17 BC11"
+    },
+    {
+        "id": "CF2302243",
+        "date": "2023-03-22",
+        "time": "8:36:31 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "601 HILLSBOROUGH BLVD ,HIL",
+        "latitude": 37.5646336906558,
+        "longitude": -122.355220361943,
+        "units": ">E32"
+    },
+    {
+        "id": "MF2303024",
+        "date": "2023-03-22",
+        "time": "8:35:57 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HEDGE RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "HF2301025",
+        "date": "2023-03-22",
+        "time": "8:33:47 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "2158 N CABRILLO HWY ,HMB",
+        "latitude": 37.4821590339852,
+        "longitude": -122.450620768157,
+        "units": "E41"
+    },
+    {
+        "id": "CF2302242",
+        "date": "2023-03-22",
+        "time": "8:30:25 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRESTVIEW DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "DF2300885",
+        "date": "2023-03-22",
+        "time": "8:26:24 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LOWER DEARBORN PARK RD / DEARBORN PARK",
+        "latitude": 37.2585924211861,
+        "longitude": -122.317997664854,
+        "units": "E59"
+    },
+    {
         "id": "RF2303655",
         "date": "2023-03-22",
         "time": "8:23:54 AM",
@@ -8,18 +74,7 @@
         "location": "184 WILSHIRE CT ,SNC",
         "latitude": 37.4898294254091,
         "longitude": -122.270070738077,
-        "units": "E13 ?E16"
-    },
-    {
-        "id": "MF2303022",
-        "date": "2023-03-22",
-        "time": "8:15:51 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "139 SEMINARY DR ,MNP",
-        "latitude": 37.4613188460885,
-        "longitude": -122.169002320593,
-        "units": ">E1"
+        "units": ""
     },
     {
         "id": "DF2300884",
@@ -31,28 +86,6 @@
         "latitude": 37.4184493893395,
         "longitude": -122.33238226717,
         "units": "R56"
-    },
-    {
-        "id": "MF2303021",
-        "date": "2023-03-22",
-        "time": "8:08:35 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E O'KEEFE ST #316 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "CF2302241",
-        "date": "2023-03-22",
-        "time": "7:59:40 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #611 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     },
     {
         "id": "DF2300883",
@@ -75,16 +108,5 @@
         "latitude": 37.2991440342718,
         "longitude": -122.276431660085,
         "units": ">U57 >E655"
-    },
-    {
-        "id": "DF2300879",
-        "date": "2023-03-22",
-        "time": "6:46:20 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "12 STARWOOD DR ,SKY",
-        "latitude": 37.3785622833149,
-        "longitude": -122.268934060405,
-        "units": ">E58"
     }
 ]
