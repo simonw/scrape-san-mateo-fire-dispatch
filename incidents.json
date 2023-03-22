@@ -1,5 +1,71 @@
 [
     {
+        "id": "HF2301033",
+        "date": "2023-03-22",
+        "time": "4:04:38 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CALIFORNIA AVE ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E44"
+    },
+    {
+        "id": "NF2303660",
+        "date": "2023-03-22",
+        "time": "4:03:49 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SKYLINE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T95"
+    },
+    {
+        "id": "CF2302258",
+        "date": "2023-03-22",
+        "time": "3:54:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "WF2300688",
+        "date": "2023-03-22",
+        "time": "3:51:56 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "MOUNTAIN MEADOW DR / SKYLINE BLVD",
+        "latitude": 37.3985411621926,
+        "longitude": -122.292796635906,
+        "units": ">E58"
+    },
+    {
+        "id": "NF2303658",
+        "date": "2023-03-22",
+        "time": "3:47:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CROCKER AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "CF2302257",
+        "date": "2023-03-22",
+        "time": "3:42:02 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "807 MURCHISON DR ,MLB",
+        "latitude": 37.5920053749269,
+        "longitude": -122.390344361515,
+        "units": ">T34"
+    },
+    {
         "id": "BF2301217",
         "date": "2023-03-22",
         "time": "3:40:19 PM",
@@ -8,7 +74,7 @@
         "location": "MADISON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": ""
     },
     {
         "id": "NF2303657",
@@ -20,93 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E92"
-    },
-    {
-        "id": "WF2300687",
-        "date": "2023-03-22",
-        "time": "3:30:50 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "246 LA CUESTA DR ,LAD",
-        "latitude": 37.4043340690246,
-        "longitude": -122.194327966427,
-        "units": ">E7"
-    },
-    {
-        "id": "RF2303672",
-        "date": "2023-03-22",
-        "time": "3:28:02 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FARM HILL BLVD #1 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "SF2303819",
-        "date": "2023-03-22",
-        "time": "3:26:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "1100 NORTH RD ,BLM",
-        "latitude": 37.5267512638368,
-        "longitude": -122.29107289509,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2303818",
-        "date": "2023-03-22",
-        "time": "3:19:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c2",
-        "location": "E 5TH AVE / S B ST",
-        "latitude": 37.5641292460977,
-        "longitude": -122.320899717565,
-        "units": ">T21"
-    },
-    {
-        "id": "MF2303045",
-        "date": "2023-03-22",
-        "time": "3:18:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #221A ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2303817",
-        "date": "2023-03-22",
-        "time": "3:18:27 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALOS VERDES CT #103 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2303816",
-        "date": "2023-03-22",
-        "time": "3:08:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #115 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "DF2300890",
-        "date": "2023-03-22",
-        "time": "2:47:56 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "TARRYTOWN ST / LEXINGTON AVE",
-        "latitude": 37.5254020172746,
-        "longitude": -122.353447009008,
-        "units": ""
     }
 ]
