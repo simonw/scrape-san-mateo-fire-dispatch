@@ -1,58 +1,80 @@
 [
     {
-        "id": "NF2303634",
+        "id": "SF2303798",
         "date": "2023-03-22",
-        "time": "9:02:19 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:28:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "PILGRIM DR / E HILLSDALE BLVD",
+        "latitude": 37.5636019763467,
+        "longitude": -122.267986567096,
+        "units": "CM21X5 E26 ?TAC25 ?BC5 ?T21"
+    },
+    {
+        "id": "BF2301211",
+        "date": "2023-03-22",
+        "time": "9:28:18 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ACACIA AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "T51"
+    },
+    {
+        "id": "WF2300678",
+        "date": "2023-03-22",
+        "time": "9:24:37 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Tree down",
-        "location": "31 WINDSOR DR ,DCY",
-        "latitude": 37.6998728588002,
-        "longitude": -122.486465821532,
-        "units": "E91"
+        "location": "5000 WOODSIDE RD ,WDS",
+        "latitude": 37.4082262322422,
+        "longitude": -122.258913782388,
+        "units": "E7"
     },
     {
-        "id": "FF2301844",
+        "id": "MF2303027",
         "date": "2023-03-22",
-        "time": "8:56:50 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "3573 CALLAN BLVD ,SSF",
-        "latitude": 37.6437444819709,
-        "longitude": -122.463648853354,
-        "units": ">E64"
-    },
-    {
-        "id": "RF2303656",
-        "date": "2023-03-22",
-        "time": "8:50:19 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "1222 EL CAMINO REAL ,RCY",
-        "latitude": 37.4822036734645,
-        "longitude": -122.230280594019,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2303025",
-        "date": "2023-03-22",
-        "time": "8:44:00 AM",
+        "time": "9:21:00 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "90 DOUGLAS WAY ,ATN",
-        "latitude": 37.4545463554282,
-        "longitude": -122.190217240694,
-        "units": ">E6"
+        "category": "Tree down",
+        "location": "2051 SHARON RD ,WMP",
+        "latitude": 37.4308372802092,
+        "longitude": -122.198246842977,
+        "units": ">E4"
     },
     {
-        "id": "CF2302243",
+        "id": "SF2303797",
         "date": "2023-03-22",
-        "time": "8:36:31 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "601 HILLSBOROUGH BLVD ,HIL",
-        "latitude": 37.5646336906558,
-        "longitude": -122.355220361943,
-        "units": ">E32"
+        "time": "9:20:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "SF2303796",
+        "date": "2023-03-22",
+        "time": "9:17:12 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Tree down",
+        "location": "19 RIDGECREST TE ,SMO",
+        "latitude": 37.5233511159616,
+        "longitude": -122.333243855728,
+        "units": ">E27"
+    },
+    {
+        "id": "HF2301026",
+        "date": "2023-03-22",
+        "time": "9:06:11 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "1550 MIRAMONTES ST ,SOS",
+        "latitude": 37.4605385236579,
+        "longitude": -122.401985768898,
+        "units": ">TO11"
     },
     {
         "id": "DF2300885",
@@ -64,28 +86,6 @@
         "latitude": 37.2585924211861,
         "longitude": -122.317997664854,
         "units": "BC11 >E59"
-    },
-    {
-        "id": "RF2303655",
-        "date": "2023-03-22",
-        "time": "8:23:54 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "184 WILSHIRE CT ,SNC",
-        "latitude": 37.4898294254091,
-        "longitude": -122.270070738077,
-        "units": ""
-    },
-    {
-        "id": "DF2300884",
-        "date": "2023-03-22",
-        "time": "8:08:43 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "STAR HILL RD / SWETT RD",
-        "latitude": 37.4184493893395,
-        "longitude": -122.33238226717,
-        "units": ">R56"
     },
     {
         "id": "DF2300883",
@@ -107,6 +107,6 @@
         "location": "11000 BLOCK PESCADERO CREEK RD ,LAH",
         "latitude": 37.2991440342718,
         "longitude": -122.276431660085,
-        "units": ">U57 >E655"
+        "units": ">E655"
     }
 ]
