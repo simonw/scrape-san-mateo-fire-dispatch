@@ -1,5 +1,60 @@
 [
     {
+        "id": "BF2301217",
+        "date": "2023-03-22",
+        "time": "3:40:19 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MADISON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "NF2303657",
+        "date": "2023-03-22",
+        "time": "3:37:44 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IRVINGTON ST / ACTON ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "WF2300687",
+        "date": "2023-03-22",
+        "time": "3:30:50 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "246 LA CUESTA DR ,LAD",
+        "latitude": 37.4043340690246,
+        "longitude": -122.194327966427,
+        "units": ">E7"
+    },
+    {
+        "id": "RF2303672",
+        "date": "2023-03-22",
+        "time": "3:28:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FARM HILL BLVD #1 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "SF2303819",
+        "date": "2023-03-22",
+        "time": "3:26:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "1100 NORTH RD ,BLM",
+        "latitude": 37.5267512638368,
+        "longitude": -122.29107289509,
+        "units": ">E14"
+    },
+    {
         "id": "SF2303818",
         "date": "2023-03-22",
         "time": "3:19:39 PM",
@@ -8,7 +63,7 @@
         "location": "E 5TH AVE / S B ST",
         "latitude": 37.5641292460977,
         "longitude": -122.320899717565,
-        "units": "T21"
+        "units": ">T21"
     },
     {
         "id": "MF2303045",
@@ -19,18 +74,7 @@
         "location": "CRANE ST #221A ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "LF2300348",
-        "date": "2023-03-22",
-        "time": "3:18:40 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
+        "units": ""
     },
     {
         "id": "SF2303817",
@@ -41,40 +85,7 @@
         "location": "PALOS VERDES CT #103 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "CF2302256",
-        "date": "2023-03-22",
-        "time": "3:17:32 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROLLINS RD ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "FF2301852",
-        "date": "2023-03-22",
-        "time": "3:14:33 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ESCANYO DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "NF2303655",
-        "date": "2023-03-22",
-        "time": "3:08:44 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "116 WILSHIRE AVE ,DCY",
-        "latitude": 37.7066502648776,
-        "longitude": -122.476471363319,
-        "units": ">E95"
+        "units": ""
     },
     {
         "id": "SF2303816",
@@ -85,29 +96,7 @@
         "location": "BALDWIN AVE #115 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2303044",
-        "date": "2023-03-22",
-        "time": "3:07:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "CF2302255",
-        "date": "2023-03-22",
-        "time": "3:02:39 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #507 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
+        "units": ""
     },
     {
         "id": "DF2300890",
@@ -118,6 +107,6 @@
         "location": "TARRYTOWN ST / LEXINGTON AVE",
         "latitude": 37.5254020172746,
         "longitude": -122.353447009008,
-        "units": ">E17"
+        "units": ""
     }
 ]
