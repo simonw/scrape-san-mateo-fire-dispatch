@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2303794",
+        "id": "NF2303634",
         "date": "2023-03-22",
-        "time": "8:38:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:02:19 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "31 WINDSOR DR ,DCY",
+        "latitude": 37.6998728588002,
+        "longitude": -122.486465821532,
+        "units": "E91"
+    },
+    {
+        "id": "FF2301844",
+        "date": "2023-03-22",
+        "time": "8:56:50 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Fire alarm",
-        "location": "2140 CARLMONT DR ,BLM",
-        "latitude": 37.5097066540427,
-        "longitude": -122.294842657296,
-        "units": "CM11X4 ?TAC15 >E15 T17 BC11"
+        "location": "3573 CALLAN BLVD ,SSF",
+        "latitude": 37.6437444819709,
+        "longitude": -122.463648853354,
+        "units": ">E64"
+    },
+    {
+        "id": "RF2303656",
+        "date": "2023-03-22",
+        "time": "8:50:19 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c2",
+        "location": "1222 EL CAMINO REAL ,RCY",
+        "latitude": 37.4822036734645,
+        "longitude": -122.230280594019,
+        "units": ">E9"
+    },
+    {
+        "id": "MF2303025",
+        "date": "2023-03-22",
+        "time": "8:44:00 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "90 DOUGLAS WAY ,ATN",
+        "latitude": 37.4545463554282,
+        "longitude": -122.190217240694,
+        "units": ">E6"
     },
     {
         "id": "CF2302243",
@@ -22,39 +55,6 @@
         "units": ">E32"
     },
     {
-        "id": "MF2303024",
-        "date": "2023-03-22",
-        "time": "8:35:57 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HEDGE RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "HF2301025",
-        "date": "2023-03-22",
-        "time": "8:33:47 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "2158 N CABRILLO HWY ,HMB",
-        "latitude": 37.4821590339852,
-        "longitude": -122.450620768157,
-        "units": "E41"
-    },
-    {
-        "id": "CF2302242",
-        "date": "2023-03-22",
-        "time": "8:30:25 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRESTVIEW DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
         "id": "DF2300885",
         "date": "2023-03-22",
         "time": "8:26:24 AM",
@@ -63,7 +63,7 @@
         "location": "LOWER DEARBORN PARK RD / DEARBORN PARK",
         "latitude": 37.2585924211861,
         "longitude": -122.317997664854,
-        "units": "E59"
+        "units": "BC11 >E59"
     },
     {
         "id": "RF2303655",
@@ -85,7 +85,7 @@
         "location": "STAR HILL RD / SWETT RD",
         "latitude": 37.4184493893395,
         "longitude": -122.33238226717,
-        "units": "R56"
+        "units": ">R56"
     },
     {
         "id": "DF2300883",
