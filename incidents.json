@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2303030",
+        "id": "SF2303803",
         "date": "2023-03-22",
-        "time": "10:21:34 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "795 WILLOW RD ,MNP",
-        "latitude": 37.4663546046411,
-        "longitude": -122.160234197566,
-        "units": "?E2"
+        "time": "10:41:09 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GREBE ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "SF2303802",
+        "date": "2023-03-22",
+        "time": "10:35:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #104 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "WF2300681",
+        "date": "2023-03-22",
+        "time": "10:32:36 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HILLCREST WAY ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
+        "id": "CF2302247",
+        "date": "2023-03-22",
+        "time": "10:30:52 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAKEVIEW DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17"
+    },
+    {
+        "id": "SF2303801",
+        "date": "2023-03-22",
+        "time": "10:26:00 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARINA CT #H ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
     },
     {
         "id": "MF2303029",
@@ -19,40 +63,7 @@
         "location": "SAND HILL RD / LELAND AVE",
         "latitude": 37.427127871569,
         "longitude": -122.191094543413,
-        "units": "E4"
-    },
-    {
-        "id": "MF2303028",
-        "date": "2023-03-22",
-        "time": "10:17:10 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BERKELEY AVE ,MOK",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "FF2301845",
-        "date": "2023-03-22",
-        "time": "10:16:01 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "W ORANGE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "WF2300680",
-        "date": "2023-03-22",
-        "time": "10:14:54 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "NB 280 / EB FARM HILL BLVD OFF RAMP",
-        "latitude": 37.4439141453601,
-        "longitude": -122.255452068608,
-        "units": "E19 E7 ?TAC16 ?CM11X4"
+        "units": ">E4"
     },
     {
         "id": "DF2300887",
@@ -63,72 +74,6 @@
         "location": "NB 280 / EB 92 ON RAMP",
         "latitude": 37.5066596796234,
         "longitude": -122.337695277303,
-        "units": ">T17"
-    },
-    {
-        "id": "CF2302246",
-        "date": "2023-03-22",
-        "time": "10:04:48 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HENRY PL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2303799",
-        "date": "2023-03-22",
-        "time": "9:53:01 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WAKEFIELD DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "DF2300886",
-        "date": "2023-03-22",
-        "time": "9:52:10 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "ALLEN RD / BEAR GULCH RD",
-        "latitude": 37.3903144127691,
-        "longitude": -122.298331289092,
-        "units": "E58 >U58"
-    },
-    {
-        "id": "WF2300679",
-        "date": "2023-03-22",
-        "time": "9:41:25 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "140 E FLORESTA WAY ,LAD",
-        "latitude": 37.4018557465769,
-        "longitude": -122.195700654731,
-        "units": ""
-    },
-    {
-        "id": "RF2303658",
-        "date": "2023-03-22",
-        "time": "9:34:13 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "410 GRAND ST ,RCY",
-        "latitude": 37.4798717365941,
-        "longitude": -122.238264544153,
-        "units": ""
-    },
-    {
-        "id": "WF2300678",
-        "date": "2023-03-22",
-        "time": "9:24:37 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "5000 WOODSIDE RD ,WDS",
-        "latitude": 37.4082262322422,
-        "longitude": -122.258913782388,
         "units": ""
     },
     {
