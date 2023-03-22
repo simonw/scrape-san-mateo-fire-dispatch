@@ -1,36 +1,69 @@
 [
     {
-        "id": "BF2301201",
+        "id": "WF2300651",
         "date": "2023-03-21",
-        "time": "6:46:32 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "7:12:45 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "625 MANZANITA WAY ,WDS",
+        "latitude": 37.413079206829,
+        "longitude": -122.242590990023,
+        "units": "BC2"
+    },
+    {
+        "id": "SF2303770",
+        "date": "2023-03-21",
+        "time": "7:12:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ELM AVE ,SNB",
+        "location": "HOBART AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": "T21"
     },
     {
-        "id": "FF2301832",
+        "id": "MF2303001",
         "date": "2023-03-21",
-        "time": "6:40:18 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Tree down",
-        "location": "3RD LN / EUCALYPTUS AVE",
-        "latitude": 37.6583136839644,
-        "longitude": -122.426802881345,
-        "units": "E63"
+        "time": "7:07:58 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "95 CLAY DR ,ATN",
+        "latitude": 37.4465332482462,
+        "longitude": -122.214297431938,
+        "units": "E4"
     },
     {
-        "id": "CF2302218",
+        "id": "CF2302219",
         "date": "2023-03-21",
-        "time": "6:39:10 PM",
+        "time": "7:06:10 PM",
         "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c2",
-        "location": "CALIFORNIA DR / ROSEDALE AVE",
-        "latitude": 37.5928637257908,
-        "longitude": -122.376198376034,
-        "units": ">E35"
+        "category": "Public assist, water problem",
+        "location": "250 ROBLAR AVE ,HIL",
+        "latitude": 37.5651425855609,
+        "longitude": -122.338741299619,
+        "units": ">E32"
+    },
+    {
+        "id": "CF2302220",
+        "date": "2023-03-21",
+        "time": "7:05:39 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "BURLINGAME AVE / ROLLINS RD",
+        "latitude": 37.5865230695386,
+        "longitude": -122.335689667681,
+        "units": ""
+    },
+    {
+        "id": "SF2303768",
+        "date": "2023-03-21",
+        "time": "6:48:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "1728 PALM AVE ,SMO",
+        "latitude": 37.5523887595092,
+        "longitude": -122.312194113558,
+        "units": "?CM21X3 TAC25"
     },
     {
         "id": "SF2303767",
@@ -41,106 +74,7 @@
         "location": "W SANTA INEZ AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2303620",
-        "date": "2023-03-21",
-        "time": "6:33:47 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "WELLINGTON DR / SAN CARLOS AVE",
-        "latitude": 37.5021805322478,
-        "longitude": -122.276197858611,
-        "units": "E13"
-    },
-    {
-        "id": "CF2302217",
-        "date": "2023-03-21",
-        "time": "6:29:29 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "500 LUDEMAN LN ,MLB",
-        "latitude": 37.6048247437848,
-        "longitude": -122.40774374472,
-        "units": ">E37"
-    },
-    {
-        "id": "CF2302216",
-        "date": "2023-03-21",
-        "time": "6:25:08 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "624 PLYMOUTH WAY ,BRM",
-        "latitude": 37.585676110021,
-        "longitude": -122.34259659535,
-        "units": "CM21X2 >T34 ?TAC25"
-    },
-    {
-        "id": "CF2302215",
-        "date": "2023-03-21",
-        "time": "6:22:21 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "1528 HOOVER AVE ,BRM",
-        "latitude": 37.5847974336743,
-        "longitude": -122.381259151933,
-        "units": "*>E33"
-    },
-    {
-        "id": "SF2303766",
-        "date": "2023-03-21",
-        "time": "6:21:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SANDERLING ST ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "DF2300866",
-        "date": "2023-03-21",
-        "time": "6:18:58 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "CANYON VISTA WAY / CHESHAM AVE",
-        "latitude": 37.4948250961796,
-        "longitude": -122.281762837558,
-        "units": ">E16"
-    },
-    {
-        "id": "CF2302214",
-        "date": "2023-03-21",
-        "time": "6:14:16 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "ROBLAR AVE / POETT RD",
-        "latitude": 37.5646394003421,
-        "longitude": -122.334729348284,
-        "units": ">T21"
-    },
-    {
-        "id": "RF2303617",
-        "date": "2023-03-21",
-        "time": "6:09:52 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1003 TAFT ST ,RCY",
-        "latitude": 37.4683195660689,
-        "longitude": -122.240952252075,
-        "units": ">SQ409"
-    },
-    {
-        "id": "DF2300864",
-        "date": "2023-03-21",
-        "time": "6:09:06 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "1767 MONTICELLO RD ,EIC",
-        "latitude": 37.5206858801494,
-        "longitude": -122.348015093728,
-        "units": ">T17"
+        "units": ""
     },
     {
         "id": "DF2300860",
@@ -154,17 +88,6 @@
         "units": ">E58"
     },
     {
-        "id": "FF2301828",
-        "date": "2023-03-21",
-        "time": "5:26:42 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Tree down",
-        "location": "615 STONEGATE DR ,SSF",
-        "latitude": 37.6648044729766,
-        "longitude": -122.42463851321,
-        "units": ">E65 >BC17"
-    },
-    {
         "id": "WF2300635",
         "date": "2023-03-21",
         "time": "5:12:46 PM",
@@ -173,7 +96,7 @@
         "location": "570 WAYSIDE RD ,PVY",
         "latitude": 37.3798316766054,
         "longitude": -122.242310799615,
-        "units": ">PR2B"
+        "units": ">PR2B >E7"
     },
     {
         "id": "WF2300633",
