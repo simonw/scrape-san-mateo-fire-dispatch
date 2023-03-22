@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2303623",
+        "date": "2023-03-21",
+        "time": "8:21:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "204 TOPAZ ST ,RCY",
+        "latitude": 37.4753914711008,
+        "longitude": -122.250654227362,
+        "units": "T9"
+    },
+    {
+        "id": "LF2300341",
+        "date": "2023-03-21",
+        "time": "8:21:03 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GARDEN LN ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "DF2300872",
+        "date": "2023-03-21",
+        "time": "8:21:02 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO 92",
+        "latitude": 37.5128003426877,
+        "longitude": -122.347426465418,
+        "units": "?CM11X4 T34 E17 TAC16 BC11E27"
+    },
+    {
+        "id": "WF2300656",
+        "date": "2023-03-21",
+        "time": "8:13:08 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO FARM HILL BLVD",
+        "latitude": 37.4502169682406,
+        "longitude": -122.278716264987,
+        "units": ">E18"
+    },
+    {
+        "id": "DF2300871",
+        "date": "2023-03-21",
+        "time": "8:06:37 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "5874 LA HONDA RD ,SNG",
+        "latitude": 37.3144102024627,
+        "longitude": -122.307063453695,
+        "units": ">E57"
+    },
+    {
         "id": "CF2302227",
         "date": "2023-03-21",
         "time": "8:03:50 PM",
@@ -8,7 +63,7 @@
         "location": "MOSELEY RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "?E32"
+        "units": ">E32"
     },
     {
         "id": "NF2303617",
@@ -19,18 +74,7 @@
         "location": "285 PALISADES DR ,DCY",
         "latitude": 37.6883569539524,
         "longitude": -122.49202420391,
-        "units": "E91"
-    },
-    {
-        "id": "NF2303615",
-        "date": "2023-03-21",
-        "time": "7:57:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "203 CLIFTON RD ,PCF",
-        "latitude": 37.6535596075329,
-        "longitude": -122.489485840137,
-        "units": ">E71"
+        "units": ">E95"
     },
     {
         "id": "CF2302226",
@@ -41,18 +85,7 @@
         "location": "2105 FOREST VIEW AVE ,HIL",
         "latitude": 37.5752356232246,
         "longitude": -122.37004227827,
-        "units": "E34"
-    },
-    {
-        "id": "LF2300340",
-        "date": "2023-03-21",
-        "time": "7:54:38 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "D ST ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
+        "units": ""
     },
     {
         "id": "SF2303771",
@@ -63,18 +96,7 @@
         "location": "N ELLSWORTH AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">T21 CM21X1 >E21"
-    },
-    {
-        "id": "MF2303002",
-        "date": "2023-03-21",
-        "time": "7:50:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OLIVE ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": "CM21X1 >E21 >T21"
     },
     {
         "id": "RF2303622",
@@ -85,40 +107,7 @@
         "location": "1003 TAFT ST ,RCY",
         "latitude": 37.4683195660689,
         "longitude": -122.240952252075,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2303614",
-        "date": "2023-03-21",
-        "time": "7:44:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "SERRAVISTA AVE / MONTEVISTA LN",
-        "latitude": 37.6587302190284,
-        "longitude": -122.464255200597,
-        "units": ">E94 CM31X1 ?TAC35"
-    },
-    {
-        "id": "NF2303613",
-        "date": "2023-03-21",
-        "time": "7:44:40 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HANOVER ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "DF2300870",
-        "date": "2023-03-21",
-        "time": "7:40:09 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SKYLINE BLVD ,SKY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E58"
+        "units": ">SQ409 CM11X1 >E10"
     },
     {
         "id": "WF2300653",
@@ -129,7 +118,7 @@
         "location": "GROVE DR / GROVE CT",
         "latitude": 37.3766997593564,
         "longitude": -122.219636981379,
-        "units": ">R7 >BC2 CM11X2"
+        "units": "TAC15 >R7 CM11X2 >BC2"
     },
     {
         "id": "CF2302221",
@@ -140,7 +129,7 @@
         "location": "45 SEARSVILLE CT ,HIL",
         "latitude": 37.5336901582852,
         "longitude": -122.353587618387,
-        "units": ">E33"
+        "units": ""
     },
     {
         "id": "DF2300869",
@@ -154,26 +143,15 @@
         "units": ">T17"
     },
     {
-        "id": "DF2300860",
+        "id": "WF2300637",
         "date": "2023-03-21",
-        "time": "5:42:36 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "BEAR GULCH RD / SKYLINE BLVD",
-        "latitude": 37.3958036940609,
-        "longitude": -122.292534647016,
-        "units": ""
-    },
-    {
-        "id": "WF2300633",
-        "date": "2023-03-21",
-        "time": "4:57:43 PM",
+        "time": "5:15:03 PM",
         "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "221 RAYMUNDO DR ,WDS",
-        "latitude": 37.447145506694,
-        "longitude": -122.278922111023,
-        "units": ">CH2A"
+        "category": "Tree down",
+        "location": "514 ROCKY WAY ,WDS",
+        "latitude": 37.4590390746491,
+        "longitude": -122.279150617668,
+        "units": ">E19"
     },
     {
         "id": "MF2302911",
