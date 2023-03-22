@@ -1,5 +1,16 @@
 [
     {
+        "id": "BF2301215",
+        "date": "2023-03-22",
+        "time": "1:51:54 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CHABOT DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
         "id": "CF2302253",
         "date": "2023-03-22",
         "time": "1:39:43 PM",
@@ -8,18 +19,7 @@
         "location": "BELLEVUE AVE #2 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "NF2303653",
-        "date": "2023-03-22",
-        "time": "1:37:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SOUTHGATE AVE / CALLAN BLVD",
-        "latitude": 37.6757288986525,
-        "longitude": -122.471796064283,
-        "units": "BC20 TAC36 E95 T51 CM31X4"
+        "units": ">E34"
     },
     {
         "id": "HF2301030",
@@ -30,7 +30,7 @@
         "location": "551 SAN MATEO RD ,HMB",
         "latitude": 37.4706530994798,
         "longitude": -122.421382423093,
-        "units": "E40"
+        "units": ">E41"
     },
     {
         "id": "MF2303040",
@@ -44,28 +44,6 @@
         "units": ">E4"
     },
     {
-        "id": "MF2303039",
-        "date": "2023-03-22",
-        "time": "1:26:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2301851",
-        "date": "2023-03-22",
-        "time": "1:25:16 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "222 BLONDIN WAY ,SSF",
-        "latitude": 37.6445788491273,
-        "longitude": -122.431325124683,
-        "units": ">E61"
-    },
-    {
         "id": "NF2303652",
         "date": "2023-03-22",
         "time": "1:24:00 PM",
@@ -77,23 +55,12 @@
         "units": ">E65"
     },
     {
-        "id": "RF2303668",
-        "date": "2023-03-22",
-        "time": "1:14:04 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "WF2300685",
         "date": "2023-03-22",
         "time": "12:57:00 PM",
         "summary": "Woodside Fire on Control-3",
         "category": "Wires down (not sparking)",
-        "location": "227 OLD LA HONDA RD ,WDS",
+        "location": "27 HOME RD ,WDS",
         "latitude": 37.3882030071128,
         "longitude": -122.243879753252,
         "units": ">E7"
@@ -108,16 +75,5 @@
         "latitude": 37.2585924211861,
         "longitude": -122.317997664854,
         "units": ">BC11"
-    },
-    {
-        "id": "DF2300880",
-        "date": "2023-03-22",
-        "time": "6:51:24 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "11000 BLOCK PESCADERO CREEK RD ,LAH",
-        "latitude": 37.2991440342718,
-        "longitude": -122.276431660085,
-        "units": ">E655"
     }
 ]
