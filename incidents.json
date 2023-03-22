@@ -1,14 +1,58 @@
 [
     {
-        "id": "BF2301208",
+        "id": "RF2303645",
         "date": "2023-03-22",
-        "time": "5:47:55 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
+        "time": "6:04:39 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "BAYPORT AVE / AMERICAN ST",
+        "latitude": 37.4992936851988,
+        "longitude": -122.246512755455,
+        "units": "?E16"
+    },
+    {
+        "id": "NF2303631",
+        "date": "2023-03-22",
+        "time": "6:01:30 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "500 KING DR ,DCY",
+        "latitude": 37.6544745543475,
+        "longitude": -122.454389079192,
+        "units": "E64"
+    },
+    {
+        "id": "FF2301842",
+        "date": "2023-03-22",
+        "time": "5:59:01 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Pole fire",
+        "location": "MAYFAIR AVE / MYRTLE AVE",
+        "latitude": 37.6521555200735,
+        "longitude": -122.425762373853,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2303630",
+        "date": "2023-03-22",
+        "time": "5:55:37 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "NB 280 / EASTMOOR AVE OFF RAMP",
+        "latitude": 37.6748269958916,
+        "longitude": -122.46905914772,
+        "units": ">E94"
+    },
+    {
+        "id": "MF2303015",
+        "date": "2023-03-22",
+        "time": "5:51:11 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "2 LOWERY DR ,ATN",
+        "latitude": 37.4673478589855,
+        "longitude": -122.173083164827,
+        "units": ">E1"
     },
     {
         "id": "WF2300673",
@@ -19,7 +63,7 @@
         "location": "CEDAR LN ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "RF2303643",
@@ -44,17 +88,6 @@
         "units": ">T9"
     },
     {
-        "id": "CF2302236",
-        "date": "2023-03-22",
-        "time": "5:36:42 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1420 BURLINGAME AVE ,BRM",
-        "latitude": 37.5777680108708,
-        "longitude": -122.348872422356,
-        "units": ""
-    },
-    {
         "id": "RF2303641",
         "date": "2023-03-22",
         "time": "5:35:32 AM",
@@ -63,18 +96,7 @@
         "location": "WOODSIDE RD #502 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "HF2301019",
-        "date": "2023-03-22",
-        "time": "5:35:10 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "11881 SAN MATEO RD ,SON",
-        "latitude": 37.4865477420107,
-        "longitude": -122.394989361041,
-        "units": "E40"
+        "units": ""
     },
     {
         "id": "WF2300672",
@@ -96,7 +118,7 @@
         "location": "1410 CARY AVE ,SMO",
         "latitude": 37.5706274503964,
         "longitude": -122.309404196204,
-        "units": "CM21X3 >BC5 TAC25 >E28 >E24>E26 >T21"
+        "units": ">E26"
     },
     {
         "id": "WF2300670",
@@ -107,6 +129,6 @@
         "location": "635 PATROL RD ,WDS",
         "latitude": 37.4301172782387,
         "longitude": -122.281991760996,
-        "units": ">BC2 >R7 >TAC15 >CM11X2 >E7"
+        "units": ">TAC15 >CM11X2 >R7 >E7 >BC2"
     }
 ]
