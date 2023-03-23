@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2303065",
+        "date": "2023-03-23",
+        "time": "12:20:10 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WOODSIDE RD / SEQUOIA AVE",
+        "latitude": 37.4553655567824,
+        "longitude": -122.228465867848,
+        "units": "E10 T4 BC2 CM11X1 ?TAC15"
+    },
+    {
+        "id": "RF2303700",
+        "date": "2023-03-23",
+        "time": "12:18:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1602 STAFFORD ST ,RCY",
+        "latitude": 37.4926075814117,
+        "longitude": -122.241340103188,
+        "units": "E9"
+    },
+    {
+        "id": "CF2302278",
+        "date": "2023-03-23",
+        "time": "12:18:20 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "FF2301873",
+        "date": "2023-03-23",
+        "time": "12:17:07 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRAND AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2303681",
+        "date": "2023-03-23",
+        "time": "12:11:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "379 SAN DIEGO AVE ,DCY",
+        "latitude": 37.7035477354282,
+        "longitude": -122.466203400933,
+        "units": ">E92"
+    },
+    {
         "id": "SF2303861",
         "date": "2023-03-23",
         "time": "12:01:51 PM",
@@ -8,18 +63,7 @@
         "location": "522 E 16TH AVE ,SMO",
         "latitude": 37.5574858770123,
         "longitude": -122.308705441518,
-        "units": "?E24"
-    },
-    {
-        "id": "FF2301872",
-        "date": "2023-03-23",
-        "time": "11:59:28 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CHAPMAN AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
+        "units": ""
     },
     {
         "id": "DF2300901",
@@ -41,7 +85,7 @@
         "location": "12011 SAN MATEO RD ,SON",
         "latitude": 37.4834324314833,
         "longitude": -122.40010157294,
-        "units": "E44"
+        "units": ">E44"
     },
     {
         "id": "BF2301234",
@@ -63,17 +107,6 @@
         "location": "NORTH ST ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "?CO55 ?VFIR23 >E59"
-    },
-    {
-        "id": "SF2303860",
-        "date": "2023-03-23",
-        "time": "11:14:16 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BRANSON DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E59"
     }
 ]
