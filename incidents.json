@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2302272",
+        "date": "2023-03-23",
+        "time": "8:37:05 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "10 CONIFER LN ,HIL",
+        "latitude": 37.5669779853221,
+        "longitude": -122.358105096045,
+        "units": "E32"
+    },
+    {
+        "id": "SF2303850",
+        "date": "2023-03-23",
+        "time": "8:36:43 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "989 E HILLSDALE BLVD ,FCY",
+        "latitude": 37.5580993186732,
+        "longitude": -122.273131777766,
+        "units": ">E28"
+    },
+    {
+        "id": "NF2303673",
+        "date": "2023-03-23",
+        "time": "8:29:19 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PERALTA RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "RF2303693",
+        "date": "2023-03-23",
+        "time": "8:28:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "604 CROMPTON RD ,RCY",
+        "latitude": 37.4669523522718,
+        "longitude": -122.248664088604,
+        "units": ">E12"
+    },
+    {
         "id": "FF2301868",
         "date": "2023-03-23",
         "time": "8:24:25 AM",
@@ -8,50 +52,6 @@
         "location": "415 LINDEN AVE ,SSF",
         "latitude": 37.6567327284797,
         "longitude": -122.409700268975,
-        "units": "?TAC35 ?CM31X1 ?BC17 ?E81 ?E65?E61 ?Q62"
-    },
-    {
-        "id": "SF2303849",
-        "date": "2023-03-23",
-        "time": "8:22:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "3RD AVE / MARINERS ISLAND BLVD",
-        "latitude": 37.5706212061433,
-        "longitude": -122.2844733408,
-        "units": "E28 BC5 CM21X5 T21 ?TAC25"
-    },
-    {
-        "id": "NF2303672",
-        "date": "2023-03-23",
-        "time": "8:14:14 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "401 WESTMOOR AVE ,DCY",
-        "latitude": 37.6834268063772,
-        "longitude": -122.491332190028,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2303847",
-        "date": "2023-03-23",
-        "time": "8:12:16 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N SAN MATEO DR #10 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2303059",
-        "date": "2023-03-23",
-        "time": "8:05:57 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STEVENSON LN ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": ">BC17 CM31X1 TAC35 >Q62 >E61?SOFINV"
     }
 ]
