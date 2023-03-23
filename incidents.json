@@ -1,5 +1,27 @@
 [
     {
+        "id": "DF2300904",
+        "date": "2023-03-23",
+        "time": "1:38:56 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #G9 ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "RF2303702",
+        "date": "2023-03-23",
+        "time": "1:34:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "JEFFERSON AVE / AVENUE DEL ORA",
+        "latitude": 37.4736067476158,
+        "longitude": -122.240069277415,
+        "units": ">E19"
+    },
+    {
         "id": "MF2303066",
         "date": "2023-03-23",
         "time": "1:19:18 PM",
@@ -8,29 +30,7 @@
         "location": "2575 SAND HILL RD ,MNP",
         "latitude": 37.4197700506166,
         "longitude": -122.20392567363,
-        "units": "E4"
-    },
-    {
-        "id": "SF2303865",
-        "date": "2023-03-23",
-        "time": "1:05:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "CF2302281",
-        "date": "2023-03-23",
-        "time": "12:54:00 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRESTVIEW DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E4"
     },
     {
         "id": "RF2303701",
@@ -53,16 +53,5 @@
         "latitude": 37.6550155758715,
         "longitude": -122.42422287622,
         "units": ">E63"
-    },
-    {
-        "id": "HF2301042",
-        "date": "2023-03-23",
-        "time": "11:54:23 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "12011 SAN MATEO RD ,SON",
-        "latitude": 37.4834324314833,
-        "longitude": -122.40010157294,
-        "units": ">E44"
     }
 ]
