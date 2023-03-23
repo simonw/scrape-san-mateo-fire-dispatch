@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2303863",
+        "id": "CF2302281",
         "date": "2023-03-23",
-        "time": "12:36:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "12:54:00 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "HARBOR BLVD ,BLM",
+        "location": "CRESTVIEW DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">T9"
+        "units": ">E38"
+    },
+    {
+        "id": "RF2303701",
+        "date": "2023-03-23",
+        "time": "12:52:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Grass fire",
+        "location": "3728 COUNTRY CLUB DR ,RCY",
+        "latitude": 37.4575211961357,
+        "longitude": -122.250386450033,
+        "units": ">E12"
     },
     {
         "id": "DF2300902",
@@ -19,29 +30,7 @@
         "location": "LA HONDA RD / SEQUOIA DR",
         "latitude": 37.3668090775654,
         "longitude": -122.261934133602,
-        "units": ">E58 R57 E57 SQ407 BC2E7 ?TAC15"
-    },
-    {
-        "id": "HF2301043",
-        "date": "2023-03-23",
-        "time": "12:31:48 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "CYPRESS AVE / BEACH WAY",
-        "latitude": 37.5198592917562,
-        "longitude": -122.513473513292,
-        "units": "E41"
-    },
-    {
-        "id": "CF2302279",
-        "date": "2023-03-23",
-        "time": "12:26:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ADRIAN RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "E57 *>R57"
     },
     {
         "id": "FF2301874",
@@ -55,28 +44,6 @@
         "units": ">E63"
     },
     {
-        "id": "SF2303862",
-        "date": "2023-03-23",
-        "time": "12:23:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "SHOREWAY RD / CORMORANT DR",
-        "latitude": 37.5203932083482,
-        "longitude": -122.26303347428,
-        "units": ">E14"
-    },
-    {
-        "id": "CF2302278",
-        "date": "2023-03-23",
-        "time": "12:18:20 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "HF2301042",
         "date": "2023-03-23",
         "time": "11:54:23 AM",
@@ -86,16 +53,5 @@
         "latitude": 37.4834324314833,
         "longitude": -122.40010157294,
         "units": ">E44"
-    },
-    {
-        "id": "BF2301234",
-        "date": "2023-03-23",
-        "time": "11:52:49 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MUIRFIELD CIR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
     }
 ]
