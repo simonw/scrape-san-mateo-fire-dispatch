@@ -1,25 +1,69 @@
 [
     {
-        "id": "MF2303065",
+        "id": "SF2303863",
         "date": "2023-03-23",
-        "time": "12:20:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "WOODSIDE RD / SEQUOIA AVE",
-        "latitude": 37.4553655567824,
-        "longitude": -122.228465867848,
-        "units": "E10 T4 BC2 CM11X1 ?TAC15"
+        "time": "12:36:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HARBOR BLVD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
     },
     {
-        "id": "RF2303700",
+        "id": "DF2300902",
         "date": "2023-03-23",
-        "time": "12:18:59 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1602 STAFFORD ST ,RCY",
-        "latitude": 37.4926075814117,
-        "longitude": -122.241340103188,
-        "units": "E9"
+        "time": "12:32:10 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "LA HONDA RD / SEQUOIA DR",
+        "latitude": 37.3668090775654,
+        "longitude": -122.261934133602,
+        "units": ">E58 R57 E57 SQ407 BC2E7 ?TAC15"
+    },
+    {
+        "id": "HF2301043",
+        "date": "2023-03-23",
+        "time": "12:31:48 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "CYPRESS AVE / BEACH WAY",
+        "latitude": 37.5198592917562,
+        "longitude": -122.513473513292,
+        "units": "E41"
+    },
+    {
+        "id": "CF2302279",
+        "date": "2023-03-23",
+        "time": "12:26:48 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ADRIAN RD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "FF2301874",
+        "date": "2023-03-23",
+        "time": "12:23:19 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "TENNIS DR / ORANGE AVE",
+        "latitude": 37.6550155758715,
+        "longitude": -122.42422287622,
+        "units": ">E63"
+    },
+    {
+        "id": "SF2303862",
+        "date": "2023-03-23",
+        "time": "12:23:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "SHOREWAY RD / CORMORANT DR",
+        "latitude": 37.5203932083482,
+        "longitude": -122.26303347428,
+        "units": ">E14"
     },
     {
         "id": "CF2302278",
@@ -30,51 +74,7 @@
         "location": "TROUSDALE DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "FF2301873",
-        "date": "2023-03-23",
-        "time": "12:17:07 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2303681",
-        "date": "2023-03-23",
-        "time": "12:11:26 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "379 SAN DIEGO AVE ,DCY",
-        "latitude": 37.7035477354282,
-        "longitude": -122.466203400933,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2303861",
-        "date": "2023-03-23",
-        "time": "12:01:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "522 E 16TH AVE ,SMO",
-        "latitude": 37.5574858770123,
-        "longitude": -122.308705441518,
         "units": ""
-    },
-    {
-        "id": "DF2300901",
-        "date": "2023-03-23",
-        "time": "11:58:11 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LUNDYS LN ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E17"
     },
     {
         "id": "HF2301042",
@@ -96,17 +96,6 @@
         "location": "MUIRFIELD CIR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "DF2300900",
-        "date": "2023-03-23",
-        "time": "11:50:57 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NORTH ST ,PES",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E59"
+        "units": "E64"
     }
 ]
