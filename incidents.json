@@ -1,36 +1,47 @@
 [
     {
+        "id": "NF2303715",
+        "date": "2023-03-24",
+        "time": "12:42:10 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROCKAWAY BEACH AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E72"
+    },
+    {
+        "id": "CF2302302",
+        "date": "2023-03-24",
+        "time": "12:33:59 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #144 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2302301",
+        "date": "2023-03-24",
+        "time": "12:25:04 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CHADBOURNE AVE #222 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "RF2303722",
         "date": "2023-03-24",
         "time": "12:18:10 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Wires down (not sparking)",
-        "location": "2541 SAN CARLOS AVE ,SNC",
+        "location": "2532 SAN CARLOS AVE ,SNC",
         "latitude": 37.5054082958786,
         "longitude": -122.28145030764,
-        "units": "?E16"
-    },
-    {
-        "id": "NF2303714",
-        "date": "2023-03-24",
-        "time": "12:07:58 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HIGATE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "NF2303713",
-        "date": "2023-03-24",
-        "time": "12:02:13 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "24 WERNER AVE ,DCY",
-        "latitude": 37.6928781181919,
-        "longitude": -122.46836182777,
-        "units": ">E92"
+        "units": ""
     },
     {
         "id": "DF2300906",
@@ -41,6 +52,6 @@
         "location": "3949 TUNITAS CREEK RD ,SOS",
         "latitude": 37.4051642523791,
         "longitude": -122.358963507496,
-        "units": ">R56 >E40"
+        "units": ">R56"
     }
 ]
