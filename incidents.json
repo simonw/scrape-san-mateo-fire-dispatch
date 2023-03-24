@@ -1,14 +1,36 @@
 [
     {
-        "id": "HF2301048",
+        "id": "RF2303718",
         "date": "2023-03-23",
-        "time": "10:02:10 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "10:16:21 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BARRANCA LN ,MBH",
+        "location": "AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E44"
+        "units": ">E11"
+    },
+    {
+        "id": "CF2302296",
+        "date": "2023-03-23",
+        "time": "10:15:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PALOMA AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "HF2301049",
+        "date": "2023-03-23",
+        "time": "10:13:30 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST #148 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
     },
     {
         "id": "SF2303884",
@@ -19,29 +41,7 @@
         "location": "510 CORNELL AVE ,SMO",
         "latitude": 37.5561514053871,
         "longitude": -122.335251793459,
-        "units": "E25"
-    },
-    {
-        "id": "NF2303708",
-        "date": "2023-03-23",
-        "time": "9:49:47 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR #22 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "FF2301883",
-        "date": "2023-03-23",
-        "time": "9:45:17 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MITCHELL AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ""
     },
     {
         "id": "HF2301047",
@@ -53,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E40"
-    },
-    {
-        "id": "WF2300699",
-        "date": "2023-03-23",
-        "time": "9:36:52 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "150 CREST RD ,WDS",
-        "latitude": 37.445106866273,
-        "longitude": -122.249712770638,
-        "units": ">E4"
-    },
-    {
-        "id": "FF2301882",
-        "date": "2023-03-23",
-        "time": "9:19:08 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
     }
 ]
