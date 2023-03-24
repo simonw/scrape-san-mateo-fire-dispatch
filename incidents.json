@@ -1,5 +1,49 @@
 [
     {
+        "id": "HF2301048",
+        "date": "2023-03-23",
+        "time": "10:02:10 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BARRANCA LN ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": "E44"
+    },
+    {
+        "id": "SF2303884",
+        "date": "2023-03-23",
+        "time": "9:57:30 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "510 CORNELL AVE ,SMO",
+        "latitude": 37.5561514053871,
+        "longitude": -122.335251793459,
+        "units": "E25"
+    },
+    {
+        "id": "NF2303708",
+        "date": "2023-03-23",
+        "time": "9:49:47 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTWOOD DR #22 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "FF2301883",
+        "date": "2023-03-23",
+        "time": "9:45:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MITCHELL AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
         "id": "HF2301047",
         "date": "2023-03-23",
         "time": "9:42:17 PM",
@@ -8,7 +52,7 @@
         "location": "LAUREL AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": ">E40"
     },
     {
         "id": "WF2300699",
@@ -19,18 +63,7 @@
         "location": "150 CREST RD ,WDS",
         "latitude": 37.445106866273,
         "longitude": -122.249712770638,
-        "units": "E4"
-    },
-    {
-        "id": "RF2303717",
-        "date": "2023-03-23",
-        "time": "9:33:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E4"
     },
     {
         "id": "FF2301882",
@@ -42,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E61"
-    },
-    {
-        "id": "CF2302295",
-        "date": "2023-03-23",
-        "time": "9:10:22 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GARDEN DR #103 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
