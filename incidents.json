@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2303104",
+        "date": "2023-03-24",
+        "time": "7:44:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GONZAGA ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "CF2302329",
+        "date": "2023-03-24",
+        "time": "7:33:47 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1100 TROUSDALE DR ,BRM",
+        "latitude": 37.5954836542456,
+        "longitude": -122.382771993222,
+        "units": ">E37"
+    },
+    {
         "id": "CF2302328",
         "date": "2023-03-24",
         "time": "7:33:18 PM",
@@ -8,7 +30,7 @@
         "location": "EL CAMINO REAL #2 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E34"
+        "units": ">E34"
     },
     {
         "id": "NF2303743",
@@ -19,7 +41,7 @@
         "location": "ADOBE DR / HIGGINS WAY",
         "latitude": 37.5835107740759,
         "longitude": -122.498539414868,
-        "units": "E72"
+        "units": ">E72"
     },
     {
         "id": "SF2303916",
@@ -31,38 +53,5 @@
         "latitude": 37.5611117823707,
         "longitude": -122.28009786213,
         "units": ">E28"
-    },
-    {
-        "id": "SF2303915",
-        "date": "2023-03-24",
-        "time": "7:21:02 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2303914",
-        "date": "2023-03-24",
-        "time": "7:11:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "N HUMBOLDT ST / E POPLAR AVE",
-        "latitude": 37.5788103747412,
-        "longitude": -122.326294409679,
-        "units": "CM21X1 ?TAC25"
-    },
-    {
-        "id": "FF2301911",
-        "date": "2023-03-24",
-        "time": "6:45:57 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "MISSION RD / OAK AVE",
-        "latitude": 37.6576073928482,
-        "longitude": -122.434358445673,
-        "units": "E61"
     }
 ]
