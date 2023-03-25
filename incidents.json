@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2303107",
+        "date": "2023-03-24",
+        "time": "10:52:45 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "RF2303759",
+        "date": "2023-03-24",
+        "time": "10:52:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SOVEREIGN WAY ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
         "id": "NF2303746",
         "date": "2023-03-24",
         "time": "10:36:24 PM",
@@ -8,7 +30,7 @@
         "location": "SEA HAVEN CT ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "MF2303106",
@@ -20,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E2"
-    },
-    {
-        "id": "RF2303758",
-        "date": "2023-03-24",
-        "time": "10:30:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "VETERANS BLVD / MAPLE ST",
-        "latitude": 37.4894188312522,
-        "longitude": -122.221750520814,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2302334",
-        "date": "2023-03-24",
-        "time": "10:28:51 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BURLINGAME AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "CF2302333",
-        "date": "2023-03-24",
-        "time": "10:17:41 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1073A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
