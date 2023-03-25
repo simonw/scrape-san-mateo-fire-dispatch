@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2302328",
+        "date": "2023-03-24",
+        "time": "7:33:18 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #2 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E34"
+    },
+    {
+        "id": "NF2303743",
+        "date": "2023-03-24",
+        "time": "7:31:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "ADOBE DR / HIGGINS WAY",
+        "latitude": 37.5835107740759,
+        "longitude": -122.498539414868,
+        "units": "E72"
+    },
+    {
+        "id": "SF2303916",
+        "date": "2023-03-24",
+        "time": "7:24:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "3000 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5611117823707,
+        "longitude": -122.28009786213,
+        "units": ">E28"
+    },
+    {
+        "id": "SF2303915",
+        "date": "2023-03-24",
+        "time": "7:21:02 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "SF2303914",
         "date": "2023-03-24",
         "time": "7:11:26 PM",
@@ -8,29 +52,7 @@
         "location": "N HUMBOLDT ST / E POPLAR AVE",
         "latitude": 37.5788103747412,
         "longitude": -122.326294409679,
-        "units": ">E24 BC8 T21 CM21X1 ?TAC25"
-    },
-    {
-        "id": "RF2303750",
-        "date": "2023-03-24",
-        "time": "7:05:34 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MADISON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "FF2301912",
-        "date": "2023-03-24",
-        "time": "6:53:01 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DUNMAN WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": "CM21X1 ?TAC25"
     },
     {
         "id": "FF2301911",
@@ -42,16 +64,5 @@
         "latitude": 37.6576073928482,
         "longitude": -122.434358445673,
         "units": "E61"
-    },
-    {
-        "id": "BF2301250",
-        "date": "2023-03-24",
-        "time": "6:36:34 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Tree down",
-        "location": "SB 280 / SAN BRUNO AVE OFF RAMP",
-        "latitude": 37.6325384435259,
-        "longitude": -122.437530464659,
-        "units": ">E64"
     }
 ]
