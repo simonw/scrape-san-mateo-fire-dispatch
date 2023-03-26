@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2303815",
+        "date": "2023-03-26",
+        "time": "12:36:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CAMPANA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
+    },
+    {
+        "id": "NF2303814",
+        "date": "2023-03-26",
+        "time": "12:30:55 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA LOMA AVE / SAN FERNANDO WAY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "MF2303152",
+        "date": "2023-03-26",
+        "time": "12:27:29 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JERVIS AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "HF2301077",
         "date": "2023-03-26",
         "time": "12:21:11 PM",
@@ -8,72 +41,6 @@
         "location": "N CABRILLO HWY / VENICE BLVD",
         "latitude": 37.4813834728689,
         "longitude": -122.444712875135,
-        "units": "?E40 E41 BC10 ?TAC45 ?CM41X2"
-    },
-    {
-        "id": "FF2301932",
-        "date": "2023-03-26",
-        "time": "12:15:27 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "220 LINDEN AVE ,SSF",
-        "latitude": 37.6548348629577,
-        "longitude": -122.410021244747,
-        "units": ">E61"
-    },
-    {
-        "id": "FF2301931",
-        "date": "2023-03-26",
-        "time": "12:06:24 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HOLLY AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "SF2303981",
-        "date": "2023-03-26",
-        "time": "12:03:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Lock out - residential",
-        "location": "315 VIRGINIA AVE ,SMO",
-        "latitude": 37.5578093815728,
-        "longitude": -122.328453698482,
-        "units": ">E21"
-    },
-    {
-        "id": "CF2302377",
-        "date": "2023-03-26",
-        "time": "11:55:22 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PARROTT DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "BF2301271",
-        "date": "2023-03-26",
-        "time": "11:43:36 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BENNINGTON DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "CF2302376",
-        "date": "2023-03-26",
-        "time": "11:26:54 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1010 CADILLAC WAY ,BRM",
-        "latitude": 37.5885143554223,
-        "longitude": -122.361738924589,
-        "units": ">T34"
+        "units": ">E41 >E40 *>BC10"
     }
 ]
