@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2303807",
+        "id": "SF2303978",
         "date": "2023-03-26",
-        "time": "10:02:38 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "333 GELLERT BLVD ,DCY",
-        "latitude": 37.6666490822642,
-        "longitude": -122.46676579831,
-        "units": "?E94"
+        "time": "10:21:57 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #111 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "MF2303146",
+        "date": "2023-03-26",
+        "time": "10:21:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "200 STANFORD AVE ,WMP",
+        "latitude": 37.4279829511354,
+        "longitude": -122.193325242305,
+        "units": "E4"
+    },
+    {
+        "id": "SF2303977",
+        "date": "2023-03-26",
+        "time": "10:10:53 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROBERTA DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
     },
     {
         "id": "NF2303806",
@@ -19,28 +41,6 @@
         "location": "FAIRWAY DR / SEASIDE DR",
         "latitude": null,
         "longitude": null,
-        "units": "E71 CM31X1 E72"
-    },
-    {
-        "id": "RF2303810",
-        "date": "2023-03-26",
-        "time": "9:57:47 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "695 SEAPORT BLVD ,RCY",
-        "latitude": 37.5084297973317,
-        "longitude": -122.209362466591,
-        "units": "E9"
-    },
-    {
-        "id": "BF2301270",
-        "date": "2023-03-26",
-        "time": "9:52:31 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #1B ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": "CM31X1 >E71 >E72"
     }
 ]
