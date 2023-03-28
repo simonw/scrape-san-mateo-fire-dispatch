@@ -1,35 +1,46 @@
 [
     {
-        "id": "RF2303900",
+        "id": "NF2303905",
         "date": "2023-03-28",
-        "time": "2:17:28 PM",
+        "time": "2:39:44 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ODDSTAD BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "CF2302417",
+        "date": "2023-03-28",
+        "time": "2:36:25 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #2201 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "WF2300727",
+        "date": "2023-03-28",
+        "time": "2:30:22 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "451 GLENWOOD AVE ,WDS",
+        "latitude": 37.4394084517123,
+        "longitude": -122.253478873622,
+        "units": ">E7"
+    },
+    {
+        "id": "RF2303901",
+        "date": "2023-03-28",
+        "time": "2:29:59 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "3342 MELENDY DR ,SNC",
-        "latitude": 37.4887707002182,
-        "longitude": -122.283762379939,
-        "units": "E18"
-    },
-    {
-        "id": "SF2304074",
-        "date": "2023-03-28",
-        "time": "2:07:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "490 W 20TH AVE ,SMO",
-        "latitude": 37.5463037706428,
-        "longitude": -122.318984019498,
-        "units": ">E25"
-    },
-    {
-        "id": "HF2301093",
-        "date": "2023-03-28",
-        "time": "1:56:57 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "501 SAN MATEO RD ,HMB",
-        "latitude": 37.4706530994798,
-        "longitude": -122.421382423093,
+        "category": "Fire alarm - smoke detector",
+        "location": "16 WOODLEAF AVE ,RCY",
+        "latitude": 37.4485483336055,
+        "longitude": -122.25984721516,
         "units": ""
     },
     {
@@ -41,39 +52,6 @@
         "location": "NB 280 / NO HICKEY BLVD",
         "latitude": 37.6682462185452,
         "longitude": -122.465546681579,
-        "units": ">E94 CM31X1 ?TAC35 >T95 >BC120"
-    },
-    {
-        "id": "RF2303895",
-        "date": "2023-03-28",
-        "time": "1:46:05 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Pole fire",
-        "location": "3416 ROLISON RD ,RCY",
-        "latitude": 37.4854242673875,
-        "longitude": -122.192692393109,
-        "units": ">E11"
-    },
-    {
-        "id": "DF2300945",
-        "date": "2023-03-28",
-        "time": "1:40:11 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "SB 280 / SO 92",
-        "latitude": 37.5004067419462,
-        "longitude": -122.326125246726,
-        "units": ">E19"
-    },
-    {
-        "id": "DF2300944",
-        "date": "2023-03-28",
-        "time": "1:32:09 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO EDGEWOOD RD",
-        "latitude": 37.4913015493745,
-        "longitude": -122.300263671528,
-        "units": "*>T17 >E27"
+        "units": ""
     }
 ]
