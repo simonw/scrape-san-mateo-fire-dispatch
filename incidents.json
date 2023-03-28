@@ -1,14 +1,80 @@
 [
     {
-        "id": "MF2303202",
+        "id": "RF2303863",
         "date": "2023-03-27",
-        "time": "6:02:19 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "6:49:04 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "WISTERIA DR ,EPA",
+        "location": "ELM ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "E13"
+    },
+    {
+        "id": "LF2300360",
+        "date": "2023-03-27",
+        "time": "6:44:22 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HILLSIDE BLVD ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "MF2303203",
+        "date": "2023-03-27",
+        "time": "6:39:17 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAKWOOD DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2303872",
+        "date": "2023-03-27",
+        "time": "6:37:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD #100 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "NF2303871",
+        "date": "2023-03-27",
+        "time": "6:30:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PALMETTO AVE / SHOREVIEW AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "NF2303870",
+        "date": "2023-03-27",
+        "time": "6:29:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Lock out - residential",
+        "location": "359 HALF MOON LN #308 ,DCY",
+        "latitude": 37.6670169905253,
+        "longitude": -122.464474036106,
+        "units": ">E64"
+    },
+    {
+        "id": "NF2303868",
+        "date": "2023-03-27",
+        "time": "6:24:24 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IMPERIAL WAY #213 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "FF2301959",
@@ -31,93 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": "CM11X1 >E10 >E12"
-    },
-    {
-        "id": "SF2304040",
-        "date": "2023-03-27",
-        "time": "5:52:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "58 N EL CAMINO REAL #214 ,SMO",
-        "latitude": 37.5666626951883,
-        "longitude": -122.328636521696,
-        "units": ">E21"
-    },
-    {
-        "id": "FF2301958",
-        "date": "2023-03-27",
-        "time": "5:46:44 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LN ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "SF2304039",
-        "date": "2023-03-27",
-        "time": "5:44:21 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2303200",
-        "date": "2023-03-27",
-        "time": "5:42:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #218A ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "NF2303866",
-        "date": "2023-03-27",
-        "time": "5:39:42 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WILSHIRE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "LF2300358",
-        "date": "2023-03-27",
-        "time": "5:33:30 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E86"
-    },
-    {
-        "id": "SF2304037",
-        "date": "2023-03-27",
-        "time": "5:32:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "REGAN DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "MF2303199",
-        "date": "2023-03-27",
-        "time": "5:31:36 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "2245 AVY AVE ,MNP",
-        "latitude": 37.4290583884217,
-        "longitude": -122.203665864042,
-        "units": ">E4"
     }
 ]
