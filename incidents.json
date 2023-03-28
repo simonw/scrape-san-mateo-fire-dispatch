@@ -1,5 +1,82 @@
 [
     {
+        "id": "SF2304073",
+        "date": "2023-03-28",
+        "time": "2:02:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FAIRFAX AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "RF2303899",
+        "date": "2023-03-28",
+        "time": "2:00:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOOVER ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "HF2301093",
+        "date": "2023-03-28",
+        "time": "1:56:57 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "501 SAN MATEO RD ,HMB",
+        "latitude": 37.4706530994798,
+        "longitude": -122.421382423093,
+        "units": "E40"
+    },
+    {
+        "id": "NF2303904",
+        "date": "2023-03-28",
+        "time": "1:53:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 280 / NO HICKEY BLVD",
+        "latitude": 37.6682462185452,
+        "longitude": -122.465546681579,
+        "units": ">E94 >E92 CM31X1 ?TAC35 >T95>BC120"
+    },
+    {
+        "id": "NF2303903",
+        "date": "2023-03-28",
+        "time": "1:52:04 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "666 CARMEL AVE #ACF ,PCF",
+        "latitude": 37.6357236830535,
+        "longitude": -122.480666961239,
+        "units": ">E71"
+    },
+    {
+        "id": "RF2303896",
+        "date": "2023-03-28",
+        "time": "1:47:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO WHIPPLE AVE",
+        "latitude": 37.501502985081,
+        "longitude": -122.242206420289,
+        "units": ">E16"
+    },
+    {
+        "id": "RF2303895",
+        "date": "2023-03-28",
+        "time": "1:46:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Pole fire",
+        "location": "3416 ROLISON RD ,RCY",
+        "latitude": 37.4854242673875,
+        "longitude": -122.192692393109,
+        "units": "TAC16 CM11X1 >E11"
+    },
+    {
         "id": "DF2300945",
         "date": "2023-03-28",
         "time": "1:40:11 PM",
@@ -8,18 +85,7 @@
         "location": "SB 280 / SO 92",
         "latitude": 37.5004067419462,
         "longitude": -122.326125246726,
-        "units": ">E18 CM11X2 >E19"
-    },
-    {
-        "id": "FF2301974",
-        "date": "2023-03-28",
-        "time": "1:38:43 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E19"
     },
     {
         "id": "DF2300944",
@@ -30,28 +96,6 @@
         "location": "SB 280 / NO EDGEWOOD RD",
         "latitude": 37.4913015493745,
         "longitude": -122.300263671528,
-        "units": ">E27 >T17 CM11X5 ?TAC15"
-    },
-    {
-        "id": "CF2302416",
-        "date": "2023-03-28",
-        "time": "1:18:27 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "2800 EASTON DR ,BRM",
-        "latitude": 37.577830803746,
-        "longitude": -122.378701640064,
-        "units": ""
-    },
-    {
-        "id": "DF2300943",
-        "date": "2023-03-28",
-        "time": "1:06:51 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / NO EDGEWOOD RD",
-        "latitude": 37.485892737192,
-        "longitude": -122.29811648812,
-        "units": ""
+        "units": "*>T17 >E27"
     }
 ]
