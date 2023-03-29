@@ -1,24 +1,68 @@
 [
     {
-        "id": "SF2304105",
+        "id": "RF2303928",
         "date": "2023-03-29",
-        "time": "7:40:38 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:49:41 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "S SAN MATEO DR ,SMO",
+        "location": "CLINTON ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": ">T9"
     },
     {
-        "id": "NF2303924",
+        "id": "FF2301989",
         "date": "2023-03-29",
-        "time": "7:31:05 AM",
+        "time": "9:32:52 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD #414 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E81"
+    },
+    {
+        "id": "NF2303931",
+        "date": "2023-03-29",
+        "time": "9:31:28 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / SO JOHN DALY BLVD",
-        "latitude": 37.708197492076,
-        "longitude": -122.469050975611,
-        "units": ">E92 >TAC35 CM31X5 >T95"
+        "category": "Traffic accident pd request c3",
+        "location": "NB 280 / SO SERRAMONTE BLVD",
+        "latitude": 37.6682462185452,
+        "longitude": -122.465546681579,
+        "units": ">E94 ?TAC35 >T95 CM31X4 >BC120"
+    },
+    {
+        "id": "SF2304109",
+        "date": "2023-03-29",
+        "time": "9:29:52 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "COYOTE POINT DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "RF2303926",
+        "date": "2023-03-29",
+        "time": "9:27:32 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "FAIR OAKS AVE / WARRINGTON AVE",
+        "latitude": 37.4804737313255,
+        "longitude": -122.206967198786,
+        "units": ">E11"
+    },
+    {
+        "id": "RF2303925",
+        "date": "2023-03-29",
+        "time": "9:23:30 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TWIN DOLPHIN DR #401 ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
     }
 ]
