@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2304097",
+        "date": "2023-03-29",
+        "time": "2:03:12 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FRANKLIN PKWY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
+    },
+    {
+        "id": "BF2301298",
+        "date": "2023-03-29",
+        "time": "2:01:02 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "NF2303919",
+        "date": "2023-03-29",
+        "time": "1:52:03 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "FF2301985",
+        "date": "2023-03-29",
+        "time": "1:49:50 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRAND AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "MF2303238",
         "date": "2023-03-29",
         "time": "1:41:36 AM",
@@ -8,7 +52,7 @@
         "location": "SB 101 / NO UNIVERSITY AVE",
         "latitude": 37.4653880538424,
         "longitude": -122.149491775869,
-        "units": "T2 BC101 E77 E2 ?TAC15?CM11X3"
+        "units": "?TAC15 ?CM11X3"
     },
     {
         "id": "BF2301297",
@@ -19,18 +63,7 @@
         "location": "EL CAMINO REAL #17B ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "DF2300953",
-        "date": "2023-03-29",
-        "time": "1:32:57 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "35 TOWER RD ,SON",
-        "latitude": 37.5127970378226,
-        "longitude": -122.333963640447,
-        "units": ">E17"
+        "units": ""
     },
     {
         "id": "SF2304096",
@@ -41,6 +74,6 @@
         "location": "1825 S GRANT ST ,SMO",
         "latitude": 37.5537998428443,
         "longitude": -122.300093658352,
-        "units": ">E26"
+        "units": ""
     }
 ]
