@@ -1,5 +1,93 @@
 [
     {
+        "id": "CF2302435",
+        "date": "2023-03-29",
+        "time": "1:05:11 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EAST LN ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E34"
+    },
+    {
+        "id": "MF2303249",
+        "date": "2023-03-29",
+        "time": "1:02:58 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GARDEN ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "T2"
+    },
+    {
+        "id": "RF2303935",
+        "date": "2023-03-29",
+        "time": "1:01:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "335A CONVENTION WAY ,RCY",
+        "latitude": 37.4934885670246,
+        "longitude": -122.228935956202,
+        "units": "E9"
+    },
+    {
+        "id": "WF2300731",
+        "date": "2023-03-29",
+        "time": "12:55:33 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "580 OLD LA HONDA RD ,WDS",
+        "latitude": 37.3837586352284,
+        "longitude": -122.253814067357,
+        "units": "E58 R56"
+    },
+    {
+        "id": "DF2300962",
+        "date": "2023-03-29",
+        "time": "12:55:03 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / SO VISTA 3",
+        "latitude": 37.4913015493745,
+        "longitude": -122.300263671528,
+        "units": "CM11X3 TAC16"
+    },
+    {
+        "id": "BF2301305",
+        "date": "2023-03-29",
+        "time": "12:53:32 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GREEN AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2303248",
+        "date": "2023-03-29",
+        "time": "12:52:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1751 E BAYSHORE RD #150 ,EPA",
+        "latitude": 37.4616058226676,
+        "longitude": -122.136720161577,
+        "units": ">E2"
+    },
+    {
+        "id": "LF2300365",
+        "date": "2023-03-29",
+        "time": "12:50:56 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LARCHMONT DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "NF2303938",
         "date": "2023-03-29",
         "time": "12:21:08 PM",
@@ -8,7 +96,7 @@
         "location": "NB 280 / NO SERRAMONTE BLVD",
         "latitude": 37.6738400118365,
         "longitude": -122.468286519171,
-        "units": ">E94 ?TAC35 ?CM31X2 >T95 >BC120"
+        "units": ">E94 ?TAC35 ?CM31X2"
     },
     {
         "id": "RF2303933",
@@ -19,7 +107,7 @@
         "location": "2401 SPRING ST ,NFO",
         "latitude": 37.4833521566287,
         "longitude": -122.211707214274,
-        "units": "CM11X4 >T9 TAC15 >E11"
+        "units": ">CM11X4 >T9 >TAC15 >E11"
     },
     {
         "id": "SF2304115",
@@ -30,6 +118,6 @@
         "location": "S SAN MATEO DR #PK LOT ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": "E21"
     }
 ]
