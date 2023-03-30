@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2303954",
+        "id": "MF2303261",
         "date": "2023-03-29",
-        "time": "9:03:16 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "943 MC CUE AVE ,SNC",
-        "latitude": 37.5100989293382,
-        "longitude": -122.256903807745,
-        "units": "E13"
+        "time": "9:15:10 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "898 SANTA CRUZ AVE ,MNP",
+        "latitude": 37.4501661296813,
+        "longitude": -122.186131618434,
+        "units": ">E6"
+    },
+    {
+        "id": "DF2300968",
+        "date": "2023-03-29",
+        "time": "9:10:05 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LA HONDA RD / SEQUOIA DR",
+        "latitude": 37.3668090775654,
+        "longitude": -122.261934133602,
+        "units": "*>E58"
     },
     {
         "id": "DF2300967",
@@ -19,40 +30,7 @@
         "location": "100 LIFEMARK RD ,SON",
         "latitude": 37.4984792791482,
         "longitude": -122.369023723921,
-        "units": "T17 R56 ?TAC15 ?CM11X1 ?CO56"
-    },
-    {
-        "id": "FF2302004",
-        "date": "2023-03-29",
-        "time": "9:00:03 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #202 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "FF2302003",
-        "date": "2023-03-29",
-        "time": "8:53:30 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CYPRESS AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "CF2302453",
-        "date": "2023-03-29",
-        "time": "8:51:49 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CAROLAN AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ">T17 ?TAC15 ?CM11X1"
     },
     {
         "id": "CF2302452",
@@ -75,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E2"
-    },
-    {
-        "id": "NF2303952",
-        "date": "2023-03-29",
-        "time": "8:30:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OCEANA BLVD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E71"
     }
 ]
