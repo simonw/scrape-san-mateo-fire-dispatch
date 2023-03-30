@@ -1,14 +1,69 @@
 [
     {
-        "id": "RF2303952",
+        "id": "RF2303954",
         "date": "2023-03-29",
-        "time": "8:40:24 PM",
+        "time": "9:03:16 PM",
         "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "943 MC CUE AVE ,SNC",
+        "latitude": 37.5100989293382,
+        "longitude": -122.256903807745,
+        "units": "E13"
+    },
+    {
+        "id": "DF2300967",
+        "date": "2023-03-29",
+        "time": "9:00:05 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "100 LIFEMARK RD ,SON",
+        "latitude": 37.4984792791482,
+        "longitude": -122.369023723921,
+        "units": "T17 R56 ?TAC15 ?CM11X1 ?CO56"
+    },
+    {
+        "id": "FF2302004",
+        "date": "2023-03-29",
+        "time": "9:00:03 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "VALOTA RD ,RCY",
+        "location": "ALIDA WAY #202 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "E61"
+    },
+    {
+        "id": "FF2302003",
+        "date": "2023-03-29",
+        "time": "8:53:30 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "CF2302453",
+        "date": "2023-03-29",
+        "time": "8:51:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAROLAN AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2302452",
+        "date": "2023-03-29",
+        "time": "8:44:35 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DEXTER PL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "MF2303259",
@@ -19,7 +74,7 @@
         "location": "MANHATTAN AVE #6 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": "E2"
     },
     {
         "id": "NF2303952",
@@ -30,39 +85,6 @@
         "location": "OCEANA BLVD ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "BF2301311",
-        "date": "2023-03-29",
-        "time": "8:27:41 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "2891 MEDINA DR ,SNB",
-        "latitude": 37.6388102245158,
-        "longitude": -122.45841307011,
-        "units": ">E64"
-    },
-    {
-        "id": "MF2303258",
-        "date": "2023-03-29",
-        "time": "8:25:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "LF2300366",
-        "date": "2023-03-29",
-        "time": "8:22:02 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HILLSIDE BLVD ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
+        "units": "E71"
     }
 ]
