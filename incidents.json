@@ -1,5 +1,60 @@
 [
     {
+        "id": "CF2302491",
+        "date": "2023-03-31",
+        "time": "3:59:04 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1535 LAKEVIEW DR ,HIL",
+        "latitude": 37.5382920017608,
+        "longitude": -122.361712160131,
+        "units": "E32"
+    },
+    {
+        "id": "BF2301322",
+        "date": "2023-03-31",
+        "time": "3:57:34 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "1230 EL CAMINO REAL ,SNB",
+        "latitude": 37.6388184198278,
+        "longitude": -122.421762504134,
+        "units": ">Q62"
+    },
+    {
+        "id": "SF2304217",
+        "date": "2023-03-31",
+        "time": "3:54:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "2308 CIPRIANI BLVD ,BLM",
+        "latitude": 37.5183673719461,
+        "longitude": -122.304014327373,
+        "units": ">E27"
+    },
+    {
+        "id": "NF2304015",
+        "date": "2023-03-31",
+        "time": "3:50:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Landscape fire",
+        "location": "D ST / JUNIPERO SERRA BLVD",
+        "latitude": 37.6839193761641,
+        "longitude": -122.470710144059,
+        "units": ">E94"
+    },
+    {
+        "id": "SF2304216",
+        "date": "2023-03-31",
+        "time": "3:48:49 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BERMUDA DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "SF2304215",
         "date": "2023-03-31",
         "time": "3:40:20 PM",
@@ -8,7 +63,7 @@
         "location": "EB 92 / EO HIGH RI",
         "latitude": 37.5968493998132,
         "longitude": -122.222529393744,
-        "units": "E28 CM21X4 HABC1 T23 BC5HAT7 HAE6 ?TAC25"
+        "units": "CM21X4 >BC5 ?TAC25 >E28 >T23>HABC1 >HAT7"
     },
     {
         "id": "RF2304012",
@@ -19,28 +74,6 @@
         "location": "830 MAIN ST ,RCY",
         "latitude": 37.4858838006392,
         "longitude": -122.226598281572,
-        "units": ">BC3 >E9 E10 T9 E12CM11X2 ?TAC16"
-    },
-    {
-        "id": "FF2302044",
-        "date": "2023-03-31",
-        "time": "3:36:14 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MILLER AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "MF2303304",
-        "date": "2023-03-31",
-        "time": "3:26:40 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "3 STOWE LN ,MNP",
-        "latitude": 37.420121576866,
-        "longitude": -122.190639600172,
-        "units": ">T4 >E4 CM11X1 ?TAC15"
+        "units": ">T9 ?TAC16 >E9 CM11X2 >BC3>E12"
     }
 ]
