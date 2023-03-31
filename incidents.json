@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2304196",
+        "id": "MF2303294",
         "date": "2023-03-31",
-        "time": "9:34:46 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:58:49 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "3600 MIDDLEFIELD RD ,NFO",
+        "latitude": 37.4693245768347,
+        "longitude": -122.202769414616,
+        "units": ">E5"
+    },
+    {
+        "id": "MF2303295",
+        "date": "2023-03-31",
+        "time": "9:58:29 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "91 TALLWOOD CT ,ATN",
+        "latitude": 37.4337486514648,
+        "longitude": -122.214892454075,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2304001",
+        "date": "2023-03-31",
+        "time": "9:55:38 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1531 MAIN ST ,RCY",
+        "latitude": 37.479062612289,
+        "longitude": -122.223086607325,
+        "units": "E9"
+    },
+    {
+        "id": "NF2304000",
+        "date": "2023-03-31",
+        "time": "9:46:12 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,SMO",
+        "location": "PIERCE ST #227 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E25"
+        "units": ""
     },
     {
         "id": "RF2304000",
@@ -19,17 +52,6 @@
         "location": "PARK AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2304195",
-        "date": "2023-03-31",
-        "time": "9:27:38 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "705 BARNESON AVE ,SMO",
-        "latitude": 37.5447937361059,
-        "longitude": -122.328844966139,
-        "units": "E23"
+        "units": ""
     }
 ]
