@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2304231",
+        "date": "2023-03-31",
+        "time": "8:41:11 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "NF2304022",
+        "date": "2023-03-31",
+        "time": "8:33:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALE ST #21B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "FF2302050",
+        "date": "2023-03-31",
+        "time": "8:31:09 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S AIRPORT BLVD #416 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
         "id": "NF2304021",
         "date": "2023-03-31",
         "time": "8:22:54 PM",
@@ -8,7 +41,7 @@
         "location": "ESCUELA DR #115C ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": ">E95"
     },
     {
         "id": "MF2303311",
@@ -19,18 +52,7 @@
         "location": "E SELBY LN #122 ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2304025",
-        "date": "2023-03-31",
-        "time": "8:12:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOPKINS AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ""
     },
     {
         "id": "CF2302496",
@@ -52,6 +74,6 @@
         "location": "CHERRY AVE / SAN BRUNO AVE W",
         "latitude": 37.6259233296429,
         "longitude": -122.424330677594,
-        "units": "?TAC35 >E51 >BC16 >T51 ?CM31X3"
+        "units": "E51 ?TAC35 >BC16 >T51 ?CM31X3"
     }
 ]
