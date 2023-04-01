@@ -1,47 +1,58 @@
 [
     {
-        "id": "SF2304234",
+        "id": "WF2300746",
         "date": "2023-03-31",
-        "time": "9:42:25 PM",
+        "time": "9:57:34 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "WOODSIDE RD / LINDENBROOK RD",
+        "latitude": 37.4347905877822,
+        "longitude": -122.24446560238,
+        "units": "E7"
+    },
+    {
+        "id": "BF2301328",
+        "date": "2023-03-31",
+        "time": "9:53:59 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MILLS AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "FF2302052",
+        "date": "2023-03-31",
+        "time": "9:52:07 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GREENDALE DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2304235",
+        "date": "2023-03-31",
+        "time": "9:50:56 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVE / FASHION ISLAND BLVD",
+        "location": "S GRANT ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E26"
     },
     {
-        "id": "SF2304233",
+        "id": "CF2302499",
         "date": "2023-03-31",
-        "time": "9:41:53 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:46:11 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "E 38TH AVE ,SMO",
+        "location": "SYCAMORE DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "RF2304028",
-        "date": "2023-03-31",
-        "time": "9:33:10 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #105 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2304024",
-        "date": "2023-03-31",
-        "time": "9:31:57 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "770 SKYLINE DR ,DCY",
-        "latitude": 37.6728101725898,
-        "longitude": -122.489513484396,
-        "units": "?TAC35 >E95 >T95 ?CM31X4"
+        "units": ">E38"
     },
     {
         "id": "RF2304027",
@@ -52,28 +63,6 @@
         "location": "1135 VETERANS BLVD ,RCY",
         "latitude": 37.4902140108328,
         "longitude": -122.223720066573,
-        "units": "?CM11X4 >T9 TAC15 >E9 >BC3"
-    },
-    {
-        "id": "NF2304023",
-        "date": "2023-03-31",
-        "time": "9:22:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MILAGRA DR #5 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "CF2302498",
-        "date": "2023-03-31",
-        "time": "9:14:05 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #297 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "T9"
     }
 ]
