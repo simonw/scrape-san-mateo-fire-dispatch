@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2302049",
+        "date": "2023-03-31",
+        "time": "8:00:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MILLER AVE #204 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "SF2304229",
+        "date": "2023-03-31",
+        "time": "7:59:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "1002 LIVE OAK WAY ,BLM",
+        "latitude": 37.5086381955943,
+        "longitude": -122.301296146976,
+        "units": ">E15"
+    },
+    {
+        "id": "SF2304227",
+        "date": "2023-03-31",
+        "time": "7:47:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #119 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
         "id": "RF2304024",
         "date": "2023-03-31",
         "time": "7:40:03 PM",
@@ -8,7 +41,7 @@
         "location": "SAN CARLOS AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E13"
+        "units": ""
     },
     {
         "id": "RF2304023",
@@ -22,17 +55,6 @@
         "units": ">E9"
     },
     {
-        "id": "FF2302048",
-        "date": "2023-03-31",
-        "time": "7:34:57 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "N ACCESS RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "Q62"
-    },
-    {
         "id": "SF2304226",
         "date": "2023-03-31",
         "time": "7:31:04 PM",
@@ -44,28 +66,6 @@
         "units": ">E23"
     },
     {
-        "id": "MF2303310",
-        "date": "2023-03-31",
-        "time": "7:29:19 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAGNOLIA ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2304022",
-        "date": "2023-03-31",
-        "time": "7:28:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PUGET LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
         "id": "DF2300979",
         "date": "2023-03-31",
         "time": "7:20:39 PM",
@@ -74,18 +74,7 @@
         "location": "PESCADERO CREEK RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "VFIR23 E40 BC10 >E655 >E59"
-    },
-    {
-        "id": "RF2304021",
-        "date": "2023-03-31",
-        "time": "7:19:48 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST #5 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "?CM11X2"
+        "units": "VFIR23 >BC10 >E655 >E59"
     },
     {
         "id": "MF2303309",
@@ -97,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E1"
-    },
-    {
-        "id": "MF2303307",
-        "date": "2023-03-31",
-        "time": "5:44:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "400 EL CAMINO REAL ,MNP",
-        "latitude": 37.4477514911593,
-        "longitude": -122.172123457965,
-        "units": "TAC15 >CM11X1"
     }
 ]
