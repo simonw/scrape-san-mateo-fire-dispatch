@@ -1,33 +1,55 @@
 [
     {
-        "id": "HF2301124",
+        "id": "SF2304272",
         "date": "2023-04-01",
-        "time": "7:37:42 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "8:00:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "CORREAS ST ,HMB",
+        "location": "HAMLET ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": ">E26"
     },
     {
-        "id": "CF2302520",
+        "id": "RF2304054",
         "date": "2023-04-01",
-        "time": "7:34:49 PM",
+        "time": "7:57:33 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE #29 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2304270",
+        "date": "2023-04-01",
+        "time": "7:57:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "125 S HUMBOLDT ST ,SMO",
+        "latitude": 37.5711226471327,
+        "longitude": -122.317547086543,
+        "units": "?CM21X5 ?TAC25 >E24"
+    },
+    {
+        "id": "SF2304269",
+        "date": "2023-04-01",
+        "time": "7:54:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BEACH PARK BLVD ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "CF2302521",
+        "date": "2023-04-01",
+        "time": "7:54:34 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "CHADBOURNE AVE #307 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "HF2301123",
-        "date": "2023-04-01",
-        "time": "7:27:13 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAILFISH CT ,HMB",
+        "location": "BROADWAY #3 ,BRM",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -41,6 +63,6 @@
         "location": "4780 LA HONDA RD ,LAH",
         "latitude": 37.3148777211528,
         "longitude": -122.275044723537,
-        "units": ">E58 >TAC15 >E57"
+        "units": "*>E58 >TAC15"
     }
 ]
