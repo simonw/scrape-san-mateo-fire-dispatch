@@ -1,47 +1,91 @@
 [
     {
-        "id": "SF2304379",
+        "id": "SF2304380",
         "date": "2023-04-04",
-        "time": "2:38:11 PM",
+        "time": "3:01:04 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Vehicle fire",
-        "location": "330 N DELAWARE ST ,SMO",
-        "latitude": 37.5744040578015,
-        "longitude": -122.327546167623,
-        "units": "CM21X2 E21 E32"
+        "category": "Fire alarm",
+        "location": "384 FOSTER CITY BLVD ,FCY",
+        "latitude": 37.5655248318382,
+        "longitude": -122.276548882326,
+        "units": "E28"
     },
     {
-        "id": "SF2304378",
+        "id": "BF2301378",
         "date": "2023-04-04",
-        "time": "2:25:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #3222 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "BF2301377",
-        "date": "2023-04-04",
-        "time": "2:22:15 PM",
+        "time": "3:00:11 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "GREENWOOD WAY ,SNB",
+        "location": "COLBY WAY ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
+        "units": "E52"
     },
     {
-        "id": "SF2304377",
+        "id": "RF2304163",
         "date": "2023-04-04",
-        "time": "2:17:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "2:55:26 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,SMO",
+        "location": "LAUREL ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E13"
+    },
+    {
+        "id": "DF2301002",
+        "date": "2023-04-04",
+        "time": "2:52:01 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SB 1 / SO TUNNEL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "LF2300385",
+        "date": "2023-04-04",
+        "time": "2:51:43 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "D ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "MF2303408",
+        "date": "2023-04-04",
+        "time": "2:51:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BERKSHIRE AVE #4 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "MF2303407",
+        "date": "2023-04-04",
+        "time": "2:49:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TUSCALOOSA AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "NF2304142",
+        "date": "2023-04-04",
+        "time": "2:44:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GLENWOOD AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
     },
     {
         "id": "RF2304162",
@@ -52,7 +96,7 @@
         "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">PR3B >E9"
+        "units": ">PR3B >PR3D"
     },
     {
         "id": "SF2304374",
@@ -63,6 +107,6 @@
         "location": "NEWBRIDGE AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">BC5 CM21X1 >PR5B >E24 >T21"
+        "units": ">T21"
     }
 ]
