@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2304346",
+        "id": "RF2304138",
         "date": "2023-04-03",
-        "time": "7:40:17 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:03:21 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "S NORFOLK ST #1 ,SMO",
+        "location": "CLINTON ST #B ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": "E10"
+    },
+    {
+        "id": "SF2304350",
+        "date": "2023-04-03",
+        "time": "8:01:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "605 SAN NICHOLAS LN ,FCY",
+        "latitude": 37.5418031679866,
+        "longitude": -122.262819074766,
+        "units": "E29"
+    },
+    {
+        "id": "SF2304349",
+        "date": "2023-04-03",
+        "time": "7:53:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "742 COLUMBIA DR ,SMO",
+        "latitude": 37.5525798029101,
+        "longitude": -122.338275966638,
+        "units": ">E25"
+    },
+    {
+        "id": "MF2303386",
+        "date": "2023-04-03",
+        "time": "7:46:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD / UNIVERSITY AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2304347",
+        "date": "2023-04-03",
+        "time": "7:43:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1 TWIN PINES LN ,BLM",
+        "latitude": 37.5181551253682,
+        "longitude": -122.276664761774,
+        "units": ""
     },
     {
         "id": "MF2303385",
@@ -19,7 +63,7 @@
         "location": "LLOYDEN DR ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
+        "units": ""
     },
     {
         "id": "WF2300760",
@@ -30,28 +74,6 @@
         "location": "1543 PORTOLA RD ,WDS",
         "latitude": 37.3950578249624,
         "longitude": -122.247121304592,
-        "units": "TAC16 >E7 ?CM11X1 >BC2 >SQ407"
-    },
-    {
-        "id": "RF2304137",
-        "date": "2023-04-03",
-        "time": "7:00:40 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "HOLLY ST / INDUSTRIAL RD",
-        "latitude": 37.5119588285906,
-        "longitude": -122.257806284697,
-        "units": ""
-    },
-    {
-        "id": "RF2304135",
-        "date": "2023-04-03",
-        "time": "6:43:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "900 BROADWAY ,RCY",
-        "latitude": 37.4869530454621,
-        "longitude": -122.211162491365,
-        "units": "?TAC15"
+        "units": "TAC16 ?CM11X1"
     }
 ]
