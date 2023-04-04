@@ -1,5 +1,27 @@
 [
     {
+        "id": "WF2300762",
+        "date": "2023-04-03",
+        "time": "8:12:41 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PORTOLA RD #28B ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ407"
+    },
+    {
+        "id": "HF2301145",
+        "date": "2023-04-03",
+        "time": "8:08:49 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "200 PILARCITOS AVE #4 ,HMB",
+        "latitude": 37.4653029474991,
+        "longitude": -122.435698456608,
+        "units": ">E40"
+    },
+    {
         "id": "RF2304138",
         "date": "2023-04-03",
         "time": "8:03:21 PM",
@@ -8,7 +30,7 @@
         "location": "CLINTON ST #B ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "SF2304350",
@@ -19,61 +41,6 @@
         "location": "605 SAN NICHOLAS LN ,FCY",
         "latitude": 37.5418031679866,
         "longitude": -122.262819074766,
-        "units": "E29"
-    },
-    {
-        "id": "SF2304349",
-        "date": "2023-04-03",
-        "time": "7:53:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "742 COLUMBIA DR ,SMO",
-        "latitude": 37.5525798029101,
-        "longitude": -122.338275966638,
-        "units": ">E25"
-    },
-    {
-        "id": "MF2303386",
-        "date": "2023-04-03",
-        "time": "7:46:11 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD / UNIVERSITY AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2304347",
-        "date": "2023-04-03",
-        "time": "7:43:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1 TWIN PINES LN ,BLM",
-        "latitude": 37.5181551253682,
-        "longitude": -122.276664761774,
-        "units": ""
-    },
-    {
-        "id": "MF2303385",
-        "date": "2023-04-03",
-        "time": "7:32:58 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LLOYDEN DR ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2300760",
-        "date": "2023-04-03",
-        "time": "7:05:46 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "1543 PORTOLA RD ,WDS",
-        "latitude": 37.3950578249624,
-        "longitude": -122.247121304592,
-        "units": "TAC16 ?CM11X1"
+        "units": ">E29"
     }
 ]
