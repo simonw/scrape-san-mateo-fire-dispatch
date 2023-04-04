@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2304116",
+        "id": "MF2303385",
         "date": "2023-04-03",
-        "time": "7:12:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Trash fire",
-        "location": "325 CORONADO AVE ,DCY",
-        "latitude": 37.6966926360095,
-        "longitude": -122.485115561131,
-        "units": "E91"
+        "time": "7:32:58 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LLOYDEN DR ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "FF2302094",
+        "date": "2023-04-03",
+        "time": "7:22:55 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "644 PINE TE ,SSF",
+        "latitude": 37.6590630631046,
+        "longitude": -122.412012934357,
+        "units": ">E61"
+    },
+    {
+        "id": "WF2300761",
+        "date": "2023-04-03",
+        "time": "7:16:35 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "SKYLINE BLVD / MORSE LN",
+        "latitude": 37.38988171259,
+        "longitude": -122.268985352174,
+        "units": ""
     },
     {
         "id": "WF2300760",
@@ -19,18 +41,7 @@
         "location": "1543 PORTOLA RD ,WDS",
         "latitude": 37.3950578249624,
         "longitude": -122.247121304592,
-        "units": ">BC2 >SQ407 >E7 TAC16 ?CM11X1"
-    },
-    {
-        "id": "NF2304115",
-        "date": "2023-04-03",
-        "time": "7:04:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "TAC16 >E7 ?CM11X1 >BC2 >SQ407"
     },
     {
         "id": "RF2304137",
@@ -44,28 +55,6 @@
         "units": ">E16"
     },
     {
-        "id": "BF2301371",
-        "date": "2023-04-03",
-        "time": "7:00:25 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DONNER AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "CF2302570",
-        "date": "2023-04-03",
-        "time": "6:58:13 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #420 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
         "id": "RF2304135",
         "date": "2023-04-03",
         "time": "6:43:29 PM",
@@ -74,6 +63,6 @@
         "location": "900 BROADWAY ,RCY",
         "latitude": 37.4869530454621,
         "longitude": -122.211162491365,
-        "units": "?TAC15 CM11X2"
+        "units": "?TAC15"
     }
 ]
