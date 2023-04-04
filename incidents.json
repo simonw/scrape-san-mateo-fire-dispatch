@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2301153",
+        "date": "2023-04-04",
+        "time": "12:19:35 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PALMA ST ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": "E41"
+    },
+    {
+        "id": "RF2304160",
+        "date": "2023-04-04",
+        "time": "12:13:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Gas main break",
+        "location": "23 DUANE ST ,RCY",
+        "latitude": 37.487461414856,
+        "longitude": -122.242161010637,
+        "units": ">BC3 >E9 >E10 >T9 CM11X5?TAC15"
+    },
+    {
+        "id": "NF2304138",
+        "date": "2023-04-04",
+        "time": "12:13:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BILL DRAKE WAY #B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "DF2301001",
         "date": "2023-04-04",
         "time": "12:02:53 PM",
@@ -8,61 +41,6 @@
         "location": "MONTALVO RD ,PAL",
         "latitude": null,
         "longitude": null,
-        "units": "E18"
-    },
-    {
-        "id": "SF2304366",
-        "date": "2023-04-04",
-        "time": "12:01:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "600 36TH AVE ,SMO",
-        "latitude": 37.5303632175501,
-        "longitude": -122.309199190809,
-        "units": "E23"
-    },
-    {
-        "id": "MF2303404",
-        "date": "2023-04-04",
-        "time": "12:01:12 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY DR #92 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "MF2303403",
-        "date": "2023-04-04",
-        "time": "11:58:56 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E SELBY LN ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "HF2301152",
-        "date": "2023-04-04",
-        "time": "11:46:22 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAIN ST #216 ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "MF2303402",
-        "date": "2023-04-04",
-        "time": "11:44:22 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": ">E18"
     }
 ]
