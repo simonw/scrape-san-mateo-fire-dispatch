@@ -1,24 +1,68 @@
 [
     {
-        "id": "RF2304154",
+        "id": "RF2304155",
         "date": "2023-04-04",
-        "time": "8:34:27 AM",
+        "time": "9:00:02 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #304 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "category": "Fire alarm",
+        "location": "217 VERA AVE ,RCY",
+        "latitude": 37.479166784044,
+        "longitude": -122.228707319469,
+        "units": ">E9"
     },
     {
-        "id": "FF2302103",
+        "id": "FF2302105",
         "date": "2023-04-04",
-        "time": "8:34:04 AM",
+        "time": "8:59:58 AM",
         "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "PALM AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2304132",
+        "date": "2023-04-04",
+        "time": "8:59:57 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Gas main break",
+        "location": "340 HIGATE DR ,DCY",
+        "latitude": 37.6806626938662,
+        "longitude": -122.489256952195,
+        "units": ">T95 >E95 TAC35 BC120 E71E91 CM31X4"
+    },
+    {
+        "id": "FF2302104",
+        "date": "2023-04-04",
+        "time": "8:54:12 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "650 GATEWAY BLVD ,SSF",
+        "latitude": 37.6568252514836,
+        "longitude": -122.398207291258,
+        "units": ">Q62"
+    },
+    {
+        "id": "NF2304131",
+        "date": "2023-04-04",
+        "time": "8:53:09 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MARINA BLVD ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "HF2301148",
+        "date": "2023-04-04",
+        "time": "8:46:06 AM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Wires down (not sparking)",
-        "location": "123 S MAGNOLIA AVE ,SSF",
-        "latitude": 37.6500313502965,
-        "longitude": -122.421775749182,
+        "location": "PARK AVE / BEACH WAY",
+        "latitude": 37.518038005199,
+        "longitude": -122.512510373226,
         "units": ""
     },
     {
@@ -31,27 +75,5 @@
         "latitude": 37.5737954806153,
         "longitude": -122.355003366764,
         "units": ">E34"
-    },
-    {
-        "id": "MF2303399",
-        "date": "2023-04-04",
-        "time": "8:20:00 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAKWOOD DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2304359",
-        "date": "2023-04-04",
-        "time": "8:12:26 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HASTINGS DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
     }
 ]
