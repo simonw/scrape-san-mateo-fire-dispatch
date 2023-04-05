@@ -1,36 +1,69 @@
 [
     {
-        "id": "RF2304211",
+        "id": "RF2304216",
         "date": "2023-04-05",
-        "time": "3:40:46 PM",
+        "time": "4:03:45 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "HAMPTON AVE ,RCY",
+        "location": "ROLISON RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": ">E5"
     },
     {
-        "id": "RF2304210",
+        "id": "NF2304182",
         "date": "2023-04-05",
-        "time": "3:32:39 PM",
+        "time": "4:00:32 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "379 IMPERIAL WAY ,DCY",
+        "latitude": 37.6649059345259,
+        "longitude": -122.463074057949,
+        "units": "E94"
+    },
+    {
+        "id": "NF2304181",
+        "date": "2023-04-05",
+        "time": "3:59:29 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD / JUNIPERO SERRA BLVD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2304215",
+        "date": "2023-04-05",
+        "time": "3:59:23 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BROADWAY #18 ,RCY",
+        "location": "BROADWAY #14 ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ">E9"
     },
     {
-        "id": "RF2304208",
+        "id": "RF2304214",
         "date": "2023-04-05",
-        "time": "3:18:13 PM",
+        "time": "3:59:02 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "WHIPPLE AVE ,RCY",
+        "location": "EL CAMINO REAL / SAN CARLOS AVE",
         "latitude": null,
         "longitude": null,
         "units": ">E16"
+    },
+    {
+        "id": "RF2304213",
+        "date": "2023-04-05",
+        "time": "3:55:49 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "619 SPAR DR ,RWS",
+        "latitude": 37.5241448600386,
+        "longitude": -122.249478320657,
+        "units": ">E20"
     },
     {
         "id": "RF2304205",
@@ -41,6 +74,6 @@
         "location": "3762 ROLISON RD ,RCY",
         "latitude": 37.4839228475447,
         "longitude": -122.184016663414,
-        "units": "?RCFINV >CM11X4 >TAC15 >BC3 >E77E11 >E5 >T2"
+        "units": ">CM11X4 >PR3B >TAC15 >BC3 >E77E11 >T2"
     }
 ]
