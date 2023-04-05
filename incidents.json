@@ -1,47 +1,69 @@
 [
     {
-        "id": "RF2304217",
+        "id": "SF2304425",
         "date": "2023-04-05",
-        "time": "4:21:15 PM",
+        "time": "4:40:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "EB 92 / WO HIGH RI",
+        "latitude": 37.5819022143102,
+        "longitude": -122.253289256567,
+        "units": "BC5 CM21X3 ?TAC25 E28 T21"
+    },
+    {
+        "id": "RF2304219",
+        "date": "2023-04-05",
+        "time": "4:38:48 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "HOWLAND ST / ARGUELLO ST",
+        "location": "HOPKINS AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
+        "units": ">T9"
     },
     {
-        "id": "MF2303431",
+        "id": "RF2304218",
         "date": "2023-04-05",
-        "time": "4:13:38 PM",
+        "time": "4:38:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SPRUCE ST #108 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2304183",
+        "date": "2023-04-05",
+        "time": "4:38:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HALF MOON LN #308 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "MF2303432",
+        "date": "2023-04-05",
+        "time": "4:33:01 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "E O'KEEFE ST #316 ,EPA",
+        "location": "ASHTON AVE ,WMP",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ">E4"
     },
     {
-        "id": "CF2302608",
+        "id": "CF2302609",
         "date": "2023-04-05",
-        "time": "4:12:07 PM",
+        "time": "4:26:36 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "PRIMROSE RD ,BRM",
+        "location": "CHADBOURNE AVE #134 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2304424",
-        "date": "2023-04-05",
-        "time": "4:07:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S SAN MATEO DR #120 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E32"
     },
     {
         "id": "RF2304216",
@@ -55,28 +77,6 @@
         "units": ">E5"
     },
     {
-        "id": "NF2304182",
-        "date": "2023-04-05",
-        "time": "4:00:32 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "379 IMPERIAL WAY ,DCY",
-        "latitude": 37.6649059345259,
-        "longitude": -122.463074057949,
-        "units": ">E94"
-    },
-    {
-        "id": "RF2304215",
-        "date": "2023-04-05",
-        "time": "3:59:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY #14 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
         "id": "RF2304205",
         "date": "2023-04-05",
         "time": "3:11:13 PM",
@@ -85,6 +85,6 @@
         "location": "3762 ROLISON RD ,RCY",
         "latitude": 37.4839228475447,
         "longitude": -122.184016663414,
-        "units": ">CM11X4 >PR3B >TAC15 >BC3 >E77>T2"
+        "units": ">CM11X4 >PR3B >TAC15"
     }
 ]
