@@ -1,5 +1,27 @@
 [
     {
+        "id": "HF2301160",
+        "date": "2023-04-05",
+        "time": "9:35:01 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GRAND BLVD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "FF2302129",
+        "date": "2023-04-05",
+        "time": "9:34:22 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "C ST #2 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "NF2304170",
         "date": "2023-04-05",
         "time": "9:23:21 AM",
@@ -19,7 +41,7 @@
         "location": "MILLER AVE #221 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": ""
     },
     {
         "id": "SF2304410",
@@ -30,18 +52,7 @@
         "location": "NORTON ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "NF2304169",
-        "date": "2023-04-05",
-        "time": "9:13:54 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GENEVA AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
+        "units": ""
     },
     {
         "id": "RF2304191",
@@ -52,18 +63,7 @@
         "location": "STAMBAUGH ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "RF2304190",
-        "date": "2023-04-05",
-        "time": "9:08:42 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "520 WOODSIDE RD ,RCY",
-        "latitude": 37.4704028745695,
-        "longitude": -122.223748141641,
-        "units": ">E11"
+        "units": ""
     },
     {
         "id": "SF2304405",
@@ -74,6 +74,6 @@
         "location": "10 SCENIC WAY ,SMO",
         "latitude": 37.5343554713348,
         "longitude": -122.324063123238,
-        "units": "CM21X4 >E25 ?TAC25 >T17 >E27"
+        "units": "CM21X4 ?TAC25 >T17 >E27"
     }
 ]
