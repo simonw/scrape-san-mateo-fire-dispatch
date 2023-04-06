@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2303455",
+        "id": "NF2304213",
         "date": "2023-04-06",
-        "time": "10:01:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "10:22:30 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "229 DENNIS DR ,DCY",
+        "latitude": 37.6529867162773,
+        "longitude": -122.461097673681,
+        "units": "?E64"
+    },
+    {
+        "id": "RF2304245",
+        "date": "2023-04-06",
+        "time": "10:18:26 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "GREEN ST ,EPA",
+        "location": "GORDON ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E10"
+    },
+    {
+        "id": "SF2304461",
+        "date": "2023-04-06",
+        "time": "10:18:16 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EDISON ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "NF2304212",
+        "date": "2023-04-06",
+        "time": "10:06:03 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IMPERIAL WAY #109 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "MF2303454",
@@ -19,29 +52,7 @@
         "location": "795 WILLOW RD ,MNP",
         "latitude": 37.4663546046411,
         "longitude": -122.160234197566,
-        "units": ">E1 E77 E5 T2 BC1CM11X5 ?TAC15"
-    },
-    {
-        "id": "SF2304460",
-        "date": "2023-04-06",
-        "time": "9:59:28 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BRANSON DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "FF2302163",
-        "date": "2023-04-06",
-        "time": "9:38:06 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "OYSTER POINT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": ">E1"
     },
     {
         "id": "DF2301009",
