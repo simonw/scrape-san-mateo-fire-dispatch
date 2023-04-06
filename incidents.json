@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2304439",
+        "id": "HF2301167",
         "date": "2023-04-05",
-        "time": "10:20:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:42:29 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "BIRCH AVE ,SMO",
+        "location": "CABRILLO HWY S ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": "?E40"
+    },
+    {
+        "id": "NF2304191",
+        "date": "2023-04-05",
+        "time": "10:35:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FIRECREST AVE / GATEWAY DR",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "SF2304440",
+        "date": "2023-04-05",
+        "time": "10:26:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EPPLETON LN #203 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "RF2304230",
+        "date": "2023-04-05",
+        "time": "10:26:29 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "ROOSEVELT AVE / MC GARVEY AVE",
+        "latitude": 37.4652648149762,
+        "longitude": -122.241704588029,
+        "units": ">T9 >E10 >CM11X2 ?TAC15"
     },
     {
         "id": "FF2302153",
@@ -19,50 +52,6 @@
         "location": "DUNMAN WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "HF2301166",
-        "date": "2023-04-05",
-        "time": "10:19:22 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "818 ETHELDORE ST ,MBH",
-        "latitude": 37.5279246548833,
-        "longitude": -122.512353108887,
-        "units": ">E44"
-    },
-    {
-        "id": "SF2304438",
-        "date": "2023-04-05",
-        "time": "10:12:20 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WOOSTER AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2304189",
-        "date": "2023-04-05",
-        "time": "10:11:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2302151",
-        "date": "2023-04-05",
-        "time": "10:00:59 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "513 ECCLES AVE #A ,SSF",
-        "latitude": 37.660345546395,
-        "longitude": -122.391804559333,
-        "units": ">E61"
+        "units": ">E94"
     }
 ]
