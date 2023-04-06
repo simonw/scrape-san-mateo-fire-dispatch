@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2304211",
+        "id": "MF2303455",
         "date": "2023-04-06",
-        "time": "9:41:01 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "130 VALE ST ,DCY",
-        "latitude": 37.6918439765847,
-        "longitude": -122.468438157393,
-        "units": "E94 CM31X4 ?TAC35 ?BC20 ?E95?E92 ?T95"
+        "time": "10:01:23 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GREEN ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "MF2303454",
+        "date": "2023-04-06",
+        "time": "10:00:22 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "795 WILLOW RD ,MNP",
+        "latitude": 37.4663546046411,
+        "longitude": -122.160234197566,
+        "units": ">E1 E77 E5 T2 BC1CM11X5 ?TAC15"
+    },
+    {
+        "id": "SF2304460",
+        "date": "2023-04-06",
+        "time": "9:59:28 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BRANSON DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
     },
     {
         "id": "FF2302163",
@@ -19,18 +41,7 @@
         "location": "OYSTER POINT BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
-    },
-    {
-        "id": "SF2304459",
-        "date": "2023-04-06",
-        "time": "9:34:11 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1119 ANNAPOLIS DR ,SMO",
-        "latitude": 37.5495400083122,
-        "longitude": -122.295381375466,
-        "units": "E23"
+        "units": ">E65"
     },
     {
         "id": "DF2301009",
@@ -41,17 +52,6 @@
         "location": "PESCADERO CREEK RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": ">E59"
-    },
-    {
-        "id": "SF2304458",
-        "date": "2023-04-06",
-        "time": "9:30:35 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "650 CAPISTRANO WAY ,SMO",
-        "latitude": 37.5582347629349,
-        "longitude": -122.324413204052,
-        "units": "E24"
+        "units": "*>E59"
     }
 ]
