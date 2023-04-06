@@ -1,5 +1,27 @@
 [
     {
+        "id": "HF2301172",
+        "date": "2023-04-06",
+        "time": "4:21:32 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST #221 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "SF2304476",
+        "date": "2023-04-06",
+        "time": "4:20:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "N EL CAMINO REAL / E BELLEVUE AVE",
+        "latitude": 37.5711275361784,
+        "longitude": -122.337553460998,
+        "units": "T21 T34 E32 CM21X2 ?TAC25?BC8"
+    },
+    {
         "id": "FF2302171",
         "date": "2023-04-06",
         "time": "4:01:37 PM",
@@ -8,18 +30,7 @@
         "location": "34 GREENWOOD DR ,SSF",
         "latitude": 37.635784185124,
         "longitude": -122.431086505439,
-        "units": "T51"
-    },
-    {
-        "id": "NF2304224",
-        "date": "2023-04-06",
-        "time": "3:50:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "120 PARK LN ,BRS",
-        "latitude": 37.6866998385221,
-        "longitude": -122.404237674276,
-        "units": ">E81"
+        "units": ""
     },
     {
         "id": "DF2301010",
@@ -33,17 +44,6 @@
         "units": ">E58 TAC15 >R56"
     },
     {
-        "id": "RF2304259",
-        "date": "2023-04-06",
-        "time": "3:24:49 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RENATO CT #4 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
         "id": "NF2304223",
         "date": "2023-04-06",
         "time": "3:17:25 PM",
@@ -52,6 +52,6 @@
         "location": "WESTLAKE CTR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": "E91"
     }
 ]
