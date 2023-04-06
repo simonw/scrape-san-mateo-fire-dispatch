@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2304466",
+        "id": "NF2304215",
         "date": "2023-04-06",
-        "time": "11:37:25 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "12:02:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "2000 SHORELINE CT ,BRS",
+        "latitude": 37.6721863760177,
+        "longitude": -122.388632580806,
+        "units": "?E81"
+    },
+    {
+        "id": "NF2304214",
+        "date": "2023-04-06",
+        "time": "12:01:41 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "CARLMONT DR #310C ,BLM",
+        "location": "BIG BEND DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
+        "units": "E72"
+    },
+    {
+        "id": "MF2303459",
+        "date": "2023-04-06",
+        "time": "11:50:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLARKE AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2304467",
+        "date": "2023-04-06",
+        "time": "11:49:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PENSACOLA ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
     },
     {
         "id": "SF2304465",
@@ -22,17 +55,6 @@
         "units": ">E29"
     },
     {
-        "id": "CF2302625",
-        "date": "2023-04-06",
-        "time": "11:33:35 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ADELINE DR #120 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
         "id": "BF2301395",
         "date": "2023-04-06",
         "time": "11:32:07 AM",
@@ -41,6 +63,6 @@
         "location": "GRUNDY LN / ELM AVE",
         "latitude": 37.6296180787125,
         "longitude": -122.416585816858,
-        "units": ">E51 >BC16 CM31X1"
+        "units": ">E51 CM31X1 >BC16"
     }
 ]
