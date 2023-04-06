@@ -1,14 +1,69 @@
 [
     {
-        "id": "MF2303456",
+        "id": "FF2302165",
         "date": "2023-04-06",
-        "time": "10:27:53 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:04:16 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "DAPHNE WAY ,EPA",
+        "location": "DNA WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">T2"
+        "units": "Q62"
+    },
+    {
+        "id": "RF2304247",
+        "date": "2023-04-06",
+        "time": "11:00:47 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL / BRITTAN AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "SF2304462",
+        "date": "2023-04-06",
+        "time": "10:55:10 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #319 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "FF2302164",
+        "date": "2023-04-06",
+        "time": "10:54:57 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "OLYMPIC DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "RF2304246",
+        "date": "2023-04-06",
+        "time": "10:49:43 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1418 ARGUELLO ST ,RCY",
+        "latitude": 37.4926104574001,
+        "longitude": -122.239292388481,
+        "units": "E9"
+    },
+    {
+        "id": "MF2303457",
+        "date": "2023-04-06",
+        "time": "10:49:03 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "1300 CRANE ST ,MNP",
+        "latitude": 37.4530180568121,
+        "longitude": -122.187615656831,
+        "units": ">BC1 CM11X4 >E6 >E3 ?TAC15>E1 >T2"
     },
     {
         "id": "RF2304245",
@@ -20,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E10"
-    },
-    {
-        "id": "NF2304212",
-        "date": "2023-04-06",
-        "time": "10:06:03 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IMPERIAL WAY #109 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
