@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2304251",
+        "id": "RF2304278",
         "date": "2023-04-07",
-        "time": "7:59:48 AM",
+        "time": "8:22:36 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "250 SHORELINE DR ,RWS",
+        "latitude": 37.5236711221536,
+        "longitude": -122.25637532582,
+        "units": "?TAC15 ?CM11X1 ?BC3 ?T9 ?E20"
+    },
+    {
+        "id": "NF2304252",
+        "date": "2023-04-07",
+        "time": "8:14:20 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "HILLSIDE BLVD / PRICE ST",
-        "latitude": 37.6930381390427,
-        "longitude": -122.461735730025,
-        "units": "E92"
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "HF2301177",
@@ -19,7 +30,7 @@
         "location": "11853 SAN MATEO RD ,SON",
         "latitude": 37.4872396692543,
         "longitude": -122.395179311286,
-        "units": "E40 BC10 E41 ?TAC45 ?CM41X1"
+        "units": "CM41X1 ?TAC45 >E41 >E40 >BC10"
     },
     {
         "id": "NF2304249",
@@ -30,7 +41,7 @@
         "location": "WESTLINE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
+        "units": "E71"
     },
     {
         "id": "CF2302644",
