@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2304304",
+        "date": "2023-04-07",
+        "time": "9:05:27 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E11"
+    },
+    {
+        "id": "DF2301018",
+        "date": "2023-04-07",
+        "time": "9:04:11 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDMONDS RD ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18"
+    },
+    {
+        "id": "CF2302669",
+        "date": "2023-04-07",
+        "time": "8:55:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1 OLD BAYSHORE HWY ,MLB",
+        "latitude": 37.603672150367,
+        "longitude": -122.376253250447,
+        "units": "?CM21X5 >BC8 >E37 ?TAC26"
+    },
+    {
+        "id": "SF2304528",
+        "date": "2023-04-07",
+        "time": "8:53:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #404B ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "NF2304286",
+        "date": "2023-04-07",
+        "time": "8:51:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUCKLEBERRY CT ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "SF2304527",
+        "date": "2023-04-07",
+        "time": "8:48:13 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TIMBERLANE WAY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
         "id": "NF2304284",
         "date": "2023-04-07",
         "time": "8:42:40 PM",
@@ -8,7 +74,7 @@
         "location": "KING DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "SF2304526",
@@ -19,7 +85,7 @@
         "location": "E POPLAR AVE / N HUMBOLDT ST",
         "latitude": 37.5788103747412,
         "longitude": -122.326294409679,
-        "units": "E24 BC8 T21 ?TAC25 ?CM21X4"
+        "units": "?CM21X4 ?TAC25 >E24 >T21"
     },
     {
         "id": "RF2304303",
@@ -31,27 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E20"
-    },
-    {
-        "id": "NF2304283",
-        "date": "2023-04-07",
-        "time": "8:18:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VERANO DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2304525",
-        "date": "2023-04-07",
-        "time": "8:17:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SONORA DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
     }
 ]
