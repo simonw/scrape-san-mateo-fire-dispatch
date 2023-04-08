@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2303517",
+        "date": "2023-04-08",
+        "time": "11:41:13 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MILTON ST ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "CF2302680",
+        "date": "2023-04-08",
+        "time": "11:29:18 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #1205 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
         "id": "RF2304327",
         "date": "2023-04-08",
         "time": "11:22:57 AM",
@@ -8,7 +30,7 @@
         "location": "MARLIN DR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E20"
+        "units": ">E20"
     },
     {
         "id": "LF2300390",
@@ -19,7 +41,7 @@
         "location": "5055 JUNIPERO SERRA BLVD ,CLM",
         "latitude": 37.6722529318109,
         "longitude": -122.465286238236,
-        "units": "?TAC35 ?CM31X2 ?T85 ?E86"
+        "units": ""
     },
     {
         "id": "RF2304326",
@@ -30,29 +52,7 @@
         "location": "ARLINGTON RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
-    },
-    {
-        "id": "NF2304302",
-        "date": "2023-04-08",
-        "time": "11:20:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LINDA MAR BLVD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2304545",
-        "date": "2023-04-08",
-        "time": "11:13:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": ""
     },
     {
         "id": "CF2302679",
@@ -64,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "RF2304325",
-        "date": "2023-04-08",
-        "time": "11:06:35 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ST FRANCIS ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "FF2302199",
-        "date": "2023-04-08",
-        "time": "10:58:07 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "TIPPERARY AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
     }
 ]
