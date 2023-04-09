@@ -1,14 +1,36 @@
 [
     {
-        "id": "BF2301420",
+        "id": "NF2304317",
         "date": "2023-04-08",
-        "time": "10:21:31 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "10:41:31 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
+        "location": "AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": "E92"
+    },
+    {
+        "id": "RF2304346",
+        "date": "2023-04-08",
+        "time": "10:40:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c2",
+        "location": "NB 101 / WOODSIDE RD OFF RAMP",
+        "latitude": 37.4877724840573,
+        "longitude": -122.206761986838,
+        "units": "E5"
+    },
+    {
+        "id": "CF2302691",
+        "date": "2023-04-08",
+        "time": "10:34:21 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MOSELEY RD ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
     },
     {
         "id": "MF2303537",
@@ -19,18 +41,7 @@
         "location": "SANTA CLARA AVE ,WSB",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "SF2304567",
-        "date": "2023-04-08",
-        "time": "10:18:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - trouble",
-        "location": "3701 HACIENDA ST ,SMO",
-        "latitude": 37.5309086826939,
-        "longitude": -122.300154674965,
-        "units": "E23"
+        "units": ">E4"
     },
     {
         "id": "NF2304316",
@@ -42,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "RF2304345",
-        "date": "2023-04-08",
-        "time": "10:09:58 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "880 ALAMEDA DE LAS PULGAS ,RCY",
-        "latitude": 37.4652686043904,
-        "longitude": -122.246257084449,
-        "units": ""
     }
 ]
