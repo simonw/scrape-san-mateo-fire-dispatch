@@ -1,46 +1,57 @@
 [
     {
-        "id": "MF2303597",
+        "id": "FF2302240",
         "date": "2023-04-10",
-        "time": "12:41:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "DONOHOE ST / UNIVERSITY AVE",
-        "latitude": 37.4627249091171,
-        "longitude": -122.14175519534,
-        "units": "E2"
-    },
-    {
-        "id": "CF2302723",
-        "date": "2023-04-10",
-        "time": "12:09:00 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "1:05:26 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL #101 ,BRM",
+        "location": "BADEN AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E32"
+        "units": "?E63"
     },
     {
-        "id": "SF2304616",
+        "id": "DF2301029",
         "date": "2023-04-10",
-        "time": "12:07:38 PM",
+        "time": "1:03:54 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDMONDS RD ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18"
+    },
+    {
+        "id": "SF2304619",
+        "date": "2023-04-10",
+        "time": "1:02:19 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E25"
+        "category": "Fire alarm",
+        "location": "110 MARSH DR ,FCY",
+        "latitude": 37.5692913552888,
+        "longitude": -122.277242649618,
+        "units": "E29"
     },
     {
-        "id": "MF2303586",
+        "id": "SF2304618",
         "date": "2023-04-10",
-        "time": "9:33:59 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Grass fire",
-        "location": "EB 84 / WILLOW RD",
-        "latitude": 37.4819266276664,
-        "longitude": -122.150298804463,
-        "units": ">SQ401 >BC101 >E1 >T2"
+        "time": "1:01:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "2205 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5627573436112,
+        "longitude": -122.282987480842,
+        "units": "E28"
+    },
+    {
+        "id": "RF2304396",
+        "date": "2023-04-10",
+        "time": "12:57:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "917 BRANSTEN RD ,SNC",
+        "latitude": 37.5068437324703,
+        "longitude": -122.251944561702,
+        "units": ">E13"
     }
 ]
