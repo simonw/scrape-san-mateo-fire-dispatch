@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2303573",
+        "id": "CF2302709",
         "date": "2023-04-09",
-        "time": "8:38:45 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:55:13 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "CHILCO ST ,MNP",
+        "location": "MEADOW LN ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": ">E34"
+    },
+    {
+        "id": "SF2304602",
+        "date": "2023-04-09",
+        "time": "8:51:13 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Trash fire",
+        "location": "COTTAGE GROVE AVE / OCEAN VIEW AVE",
+        "latitude": 37.5700693283279,
+        "longitude": -122.303358158009,
+        "units": ""
+    },
+    {
+        "id": "NF2304335",
+        "date": "2023-04-09",
+        "time": "8:45:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST / FLOURNOY ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "RF2304377",
@@ -19,39 +41,6 @@
         "location": "SB 101 / NO MARSH RD",
         "latitude": 37.4859579510142,
         "longitude": -122.193590413825,
-        "units": "E9 ?E10 >E77 T2 E11BC1 ?TAC16 ?CM11X2"
-    },
-    {
-        "id": "FF2302229",
-        "date": "2023-04-09",
-        "time": "8:28:34 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA LOMA DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "NF2304334",
-        "date": "2023-04-09",
-        "time": "8:18:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHESTER ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "RF2304375",
-        "date": "2023-04-09",
-        "time": "8:07:30 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "MIDDLEFIELD RD / WOODSIDE RD",
-        "latitude": 37.4810932683928,
-        "longitude": -122.219104103963,
-        "units": "TAC15 ?CM11X5"
+        "units": ">T9 >BC1 >TAC16 ?CM11X2 >E11"
     }
 ]
