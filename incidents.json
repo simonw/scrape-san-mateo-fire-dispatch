@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2304704",
+        "date": "2023-04-12",
+        "time": "2:18:38 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Trash fire",
+        "location": "12 N QUEBEC ST ,SMO",
+        "latitude": 37.5781508634985,
+        "longitude": -122.312286022157,
+        "units": "E24"
+    },
+    {
+        "id": "FF2302294",
+        "date": "2023-04-12",
+        "time": "2:09:57 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CROFTON WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "NF2304423",
         "date": "2023-04-12",
         "time": "2:04:57 PM",
@@ -8,7 +30,7 @@
         "location": "ODDSTAD BLVD #219 ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "?E72"
+        "units": ">E72"
     },
     {
         "id": "CF2302784",
@@ -19,61 +41,6 @@
         "location": "HINCKLEY RD ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "RF2304477",
-        "date": "2023-04-12",
-        "time": "1:59:16 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PARK ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "SF2304703",
-        "date": "2023-04-12",
-        "time": "1:48:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "WB 92 / EO 101",
-        "latitude": 37.5555095273839,
-        "longitude": -122.287603147109,
-        "units": ">BC5"
-    },
-    {
-        "id": "NF2304422",
-        "date": "2023-04-12",
-        "time": "1:47:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "STATION AVE #A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2304701",
-        "date": "2023-04-12",
-        "time": "1:46:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1997 OFARRELL ST ,SMO",
-        "latitude": 37.5472074838054,
-        "longitude": -122.314365801354,
-        "units": ">E25"
-    },
-    {
-        "id": "FF2302293",
-        "date": "2023-04-12",
-        "time": "1:45:00 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E34"
     }
 ]
