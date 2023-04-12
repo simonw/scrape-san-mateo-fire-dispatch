@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2302290",
+        "date": "2023-04-12",
+        "time": "11:03:49 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ANTOINETTE LN #9 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "RF2304470",
+        "date": "2023-04-12",
+        "time": "10:47:00 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Gas main break",
+        "location": "310 CAPSTAN CT ,RWS",
+        "latitude": 37.5260623735262,
+        "longitude": -122.255728084658,
+        "units": ">E20"
+    },
+    {
         "id": "NF2304417",
         "date": "2023-04-12",
         "time": "10:41:34 AM",
@@ -8,7 +30,7 @@
         "location": "PIERCE ST #202 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     },
     {
         "id": "SF2304697",
@@ -19,18 +41,7 @@
         "location": "N EL CAMINO REAL #114 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "WF2300795",
-        "date": "2023-04-12",
-        "time": "10:37:10 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "155 LOS TRANCOS RD ,PVY",
-        "latitude": 37.3727148709928,
-        "longitude": -122.200742179657,
-        "units": "E8"
+        "units": ">E34"
     },
     {
         "id": "MF2303655",
@@ -44,28 +55,6 @@
         "units": ">E77"
     },
     {
-        "id": "RF2304469",
-        "date": "2023-04-12",
-        "time": "10:31:36 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Lock out - vehicle",
-        "location": "401 HUDSON ST ,RCY",
-        "latitude": 37.4795605658089,
-        "longitude": -122.238502016512,
-        "units": ""
-    },
-    {
-        "id": "CF2302782",
-        "date": "2023-04-12",
-        "time": "10:27:08 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MARCO POLO WAY #27 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
         "id": "RF2304468",
         "date": "2023-04-12",
         "time": "10:24:07 AM",
@@ -75,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E13"
-    },
-    {
-        "id": "BF2301457",
-        "date": "2023-04-12",
-        "time": "10:13:36 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SUSAN DR #O12 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
     }
 ]
