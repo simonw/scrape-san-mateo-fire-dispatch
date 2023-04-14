@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2304760",
+        "date": "2023-04-13",
+        "time": "10:12:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EDISON ST #325 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "BF2301471",
         "date": "2023-04-13",
         "time": "9:59:58 PM",
@@ -8,7 +19,7 @@
         "location": "SHELTER CREEK LN ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "SF2304759",
@@ -16,31 +27,9 @@
         "time": "9:57:51 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Traffic accident pd request c3",
-        "location": "E 3RD AVE OFF RAMP / SB 101",
+        "location": "WB E 3RD AVE ON RAMP / E 3RD AVE",
         "latitude": 37.5731235042546,
         "longitude": -122.316588157619,
-        "units": ">E24 >BC5 T21 ?TAC25 ?CM21X3"
-    },
-    {
-        "id": "MF2303702",
-        "date": "2023-04-13",
-        "time": "9:50:27 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PULGAS AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "CF2302823",
-        "date": "2023-04-13",
-        "time": "9:42:01 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MARCO POLO WAY #27 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">T21 >E24 >BC5 ?TAC25 ?CM21X3"
     }
 ]
