@@ -1,14 +1,36 @@
 [
     {
-        "id": "FF2302325",
+        "id": "RF2304556",
         "date": "2023-04-14",
-        "time": "10:40:43 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "11:02:19 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CALLAN BLVD ,SSF",
+        "location": "POPLAR AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": "E3"
+    },
+    {
+        "id": "RF2304555",
+        "date": "2023-04-14",
+        "time": "10:59:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BREWSTER AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "LF2300409",
+        "date": "2023-04-14",
+        "time": "10:58:12 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "C ST ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
     },
     {
         "id": "RF2304554",
@@ -19,7 +41,7 @@
         "location": "HUDSON ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9 E10"
+        "units": ">E9"
     },
     {
         "id": "RF2304553",
@@ -30,6 +52,6 @@
         "location": "WOODSIDE RD / BROADWAY",
         "latitude": 37.4870549580815,
         "longitude": -122.214156972454,
-        "units": ">BC3 >E11 CM11X4 >T9 ?TAC15"
+        "units": ">T9 CM11X4 ?TAC15 >BC3 >E11>E10"
     }
 ]
