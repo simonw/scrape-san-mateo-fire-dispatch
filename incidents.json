@@ -1,5 +1,49 @@
 [
     {
+        "id": "DF2301056",
+        "date": "2023-04-14",
+        "time": "2:19:59 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDGEWOOD RD ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18"
+    },
+    {
+        "id": "SF2304786",
+        "date": "2023-04-14",
+        "time": "2:19:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "HF2301225",
+        "date": "2023-04-14",
+        "time": "2:19:06 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "210 FILBERT ST ,HMB",
+        "latitude": 37.457299640659,
+        "longitude": -122.440428824829,
+        "units": "E40"
+    },
+    {
+        "id": "MF2303717",
+        "date": "2023-04-14",
+        "time": "2:07:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "RF2304565",
         "date": "2023-04-14",
         "time": "2:04:43 PM",
@@ -8,29 +52,7 @@
         "location": "EL CAMINO REAL / JAMES AVE",
         "latitude": 37.4845258801912,
         "longitude": -122.233002506605,
-        "units": "T4 E3 ?TAC15 ?CM11X3 ?BC3"
-    },
-    {
-        "id": "RF2304564",
-        "date": "2023-04-14",
-        "time": "1:55:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "2115 HARDING AVE ,EML",
-        "latitude": 37.4724323266944,
-        "longitude": -122.249964392555,
-        "units": "E19"
-    },
-    {
-        "id": "RF2304563",
-        "date": "2023-04-14",
-        "time": "1:54:12 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FAIRVIEW AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": "CM11X3 >T4 ?TAC15 >E13 >BC3"
     },
     {
         "id": "CF2302834",
@@ -41,39 +63,6 @@
         "location": "GILBRETH RD #STE 118 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2304785",
-        "date": "2023-04-14",
-        "time": "1:48:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "640 CONCAR DR ,SMO",
-        "latitude": 37.5534480453507,
-        "longitude": -122.30458435228,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2304562",
-        "date": "2023-04-14",
-        "time": "1:41:10 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GOVER LN ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2304561",
-        "date": "2023-04-14",
-        "time": "1:38:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #235 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": ""
     }
 ]
