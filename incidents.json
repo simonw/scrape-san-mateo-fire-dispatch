@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2303736",
+        "date": "2023-04-14",
+        "time": "11:41:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "MF2303735",
+        "date": "2023-04-14",
+        "time": "11:30:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1920 COOLEY AVE ,EPA",
+        "latitude": 37.4562286719395,
+        "longitude": -122.138207876783,
+        "units": ">E2"
+    },
+    {
         "id": "NF2304510",
         "date": "2023-04-14",
         "time": "11:22:33 PM",
@@ -8,7 +30,7 @@
         "location": "MONTEBELLO DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "BC124 E71 ?TAC36 ?CM31X5"
+        "units": "E71 >BC124 CM31X5 TAC36"
     },
     {
         "id": "NF2304509",
@@ -19,17 +41,6 @@
         "location": "VALLEY DR / SILVERSPOT DR",
         "latitude": 37.6932946992505,
         "longitude": -122.420678062169,
-        "units": "BC20 CM31X2 TAC35 E81 Q62"
-    },
-    {
-        "id": "SF2304811",
-        "date": "2023-04-14",
-        "time": "11:07:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TOPSAIL CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ">E81"
     }
 ]
