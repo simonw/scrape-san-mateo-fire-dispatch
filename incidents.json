@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2302870",
+        "date": "2023-04-16",
+        "time": "1:05:59 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1074A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E37"
+    },
+    {
+        "id": "BF2301502",
+        "date": "2023-04-16",
+        "time": "1:05:38 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WILLOW WAY ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E52"
+    },
+    {
+        "id": "RF2304615",
+        "date": "2023-04-16",
+        "time": "12:51:45 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Trash fire",
+        "location": "1071 EL CAMINO REAL ,RCY",
+        "latitude": 37.4844815634121,
+        "longitude": -122.230419626787,
+        "units": ">E9"
+    },
+    {
         "id": "NF2304551",
         "date": "2023-04-16",
         "time": "12:38:46 AM",
@@ -8,7 +41,7 @@
         "location": "325 CORONADO AVE #112 ,DCY",
         "latitude": 37.6966926360095,
         "longitude": -122.485115561131,
-        "units": "CM31X5 TAC35 BC20 E91 T95E95 E92"
+        "units": "CM31X5 TAC35 >E92 >BC20 >E95>T95 E91"
     },
     {
         "id": "NF2304550",
@@ -19,7 +52,7 @@
         "location": "CALLAN BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": ""
     },
     {
         "id": "FF2302352",
@@ -30,6 +63,6 @@
         "location": "214 B ST ,SSF",
         "latitude": 37.6517844932201,
         "longitude": -122.429463391004,
-        "units": ">E63"
+        "units": ""
     }
 ]
