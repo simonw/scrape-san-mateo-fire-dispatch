@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2304843",
+        "date": "2023-04-16",
+        "time": "1:16:57 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARINA VISTA #319 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "FF2302353",
+        "date": "2023-04-16",
+        "time": "1:08:02 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FERNDALE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "CF2302870",
         "date": "2023-04-16",
         "time": "1:05:59 AM",
@@ -8,7 +30,7 @@
         "location": "TROUSDALE DR #1074A ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E37"
+        "units": ">E37"
     },
     {
         "id": "BF2301502",
@@ -19,18 +41,7 @@
         "location": "WILLOW WAY ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E52"
-    },
-    {
-        "id": "RF2304615",
-        "date": "2023-04-16",
-        "time": "12:51:45 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Trash fire",
-        "location": "1071 EL CAMINO REAL ,RCY",
-        "latitude": 37.4844815634121,
-        "longitude": -122.230419626787,
-        "units": ">E9"
+        "units": ""
     },
     {
         "id": "NF2304551",
@@ -41,28 +52,6 @@
         "location": "325 CORONADO AVE #112 ,DCY",
         "latitude": 37.6966926360095,
         "longitude": -122.485115561131,
-        "units": "CM31X5 TAC35 >E92 >BC20 >E95>T95 E91"
-    },
-    {
-        "id": "NF2304550",
-        "date": "2023-04-16",
-        "time": "12:33:29 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CALLAN BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2302352",
-        "date": "2023-04-16",
-        "time": "12:15:51 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "214 B ST ,SSF",
-        "latitude": 37.6517844932201,
-        "longitude": -122.429463391004,
-        "units": ""
+        "units": ">BC20 *>E91"
     }
 ]
