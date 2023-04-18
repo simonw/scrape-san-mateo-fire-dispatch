@@ -1,14 +1,58 @@
 [
     {
-        "id": "HF2301249",
+        "id": "SF2304925",
         "date": "2023-04-18",
-        "time": "9:42:09 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "KELMORE ST / VERMONT AVE",
-        "latitude": 37.5288593330468,
-        "longitude": -122.510388090656,
-        "units": "BC10 E41 E44 ?TAC45 ?CM41X3"
+        "time": "10:02:01 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "37TH AVE / EDISON ST",
+        "latitude": 37.5325874987098,
+        "longitude": -122.298870685591,
+        "units": "CM21X3 BC5 E23 T23 ?TAC25"
+    },
+    {
+        "id": "MF2303802",
+        "date": "2023-04-18",
+        "time": "9:59:28 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "22 LINDEN AVE ,ATN",
+        "latitude": 37.4640648717921,
+        "longitude": -122.180615029019,
+        "units": ""
+    },
+    {
+        "id": "LF2300423",
+        "date": "2023-04-18",
+        "time": "9:56:27 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #1133 ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "CF2302919",
+        "date": "2023-04-18",
+        "time": "9:51:03 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FOREST VIEW AVE ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "FF2302404",
+        "date": "2023-04-18",
+        "time": "9:44:35 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LN ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
     },
     {
         "id": "CF2302918",
@@ -19,18 +63,7 @@
         "location": "1048 WHITWELL RD ,HIL",
         "latitude": 37.552342719459,
         "longitude": -122.352326566027,
-        "units": "E32"
-    },
-    {
-        "id": "BF2301529",
-        "date": "2023-04-18",
-        "time": "9:34:39 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #2123 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
+        "units": ">E32"
     },
     {
         "id": "DF2301076",
@@ -41,6 +74,6 @@
         "location": "92 / SKYLINE LOWER",
         "latitude": 37.5118497209983,
         "longitude": -122.349706442818,
-        "units": ">E27 >T17 >BC11 ?TAC15 ?CM11X2"
+        "units": "?TAC15 ?CM11X2 >T17 >BC11 >E27"
     }
 ]
