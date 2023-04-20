@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2304783",
+        "id": "SF2305022",
         "date": "2023-04-20",
-        "time": "2:41:10 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "2:51:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "DOUGLAS AVE ,RCY",
+        "location": "ELM ST #108 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
+        "units": ">E32"
+    },
+    {
+        "id": "FF2302447",
+        "date": "2023-04-20",
+        "time": "2:42:18 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Grass fire",
+        "location": "108 ASSOCIATED RD ,SSF",
+        "latitude": 37.6506389051686,
+        "longitude": -122.405698561525,
+        "units": ">Q62 >BC17 >E61 CM31X5 ?VFIR22"
     },
     {
         "id": "MF2303863",
@@ -19,7 +30,7 @@
         "location": "WALSH RD ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": "T4"
+        "units": ""
     },
     {
         "id": "SF2305021",
@@ -30,61 +41,6 @@
         "location": "OAK KNOLL DR ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "CF2302981",
-        "date": "2023-04-20",
-        "time": "2:39:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HELEN DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "CF2302980",
-        "date": "2023-04-20",
-        "time": "2:37:04 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "516 RICHMOND DR ,MLB",
-        "latitude": 37.5990815194581,
-        "longitude": -122.405666635258,
-        "units": ">E37 CM21X1 E38 E51 ?TAC25"
-    },
-    {
-        "id": "HF2301265",
-        "date": "2023-04-20",
-        "time": "2:35:04 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CEDAR ST ,MON",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "SF2305020",
-        "date": "2023-04-20",
-        "time": "2:31:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #208 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2304782",
-        "date": "2023-04-20",
-        "time": "2:24:50 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CORMORANT DR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": ">E15"
     }
 ]
