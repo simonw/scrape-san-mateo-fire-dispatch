@@ -1,5 +1,60 @@
 [
     {
+        "id": "HF2301267",
+        "date": "2023-04-20",
+        "time": "9:24:04 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARINE BLVD ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": "E44"
+    },
+    {
+        "id": "BF2301561",
+        "date": "2023-04-20",
+        "time": "9:23:53 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "COMMODORE DR #318 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "SF2305040",
+        "date": "2023-04-20",
+        "time": "9:22:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BRIDGEPOINTE CIR #135 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E28"
+    },
+    {
+        "id": "RF2304796",
+        "date": "2023-04-20",
+        "time": "9:16:56 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2304733",
+        "date": "2023-04-20",
+        "time": "9:13:55 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "SF2305039",
         "date": "2023-04-20",
         "time": "9:03:21 PM",
@@ -8,40 +63,7 @@
         "location": "6TH AVE / RALSTON AVE",
         "latitude": 37.5192246328833,
         "longitude": -122.277328265646,
-        "units": "BC11 CM11X1 E15 T23 ?TAC16"
-    },
-    {
-        "id": "SF2305038",
-        "date": "2023-04-20",
-        "time": "8:55:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 39TH AVE #2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2304732",
-        "date": "2023-04-20",
-        "time": "8:53:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Vehicle fire",
-        "location": "133 SERRAMONTE CTR ,DCY",
-        "latitude": 37.670459099639,
-        "longitude": -122.471203642265,
-        "units": ">E94"
-    },
-    {
-        "id": "BF2301560",
-        "date": "2023-04-20",
-        "time": "8:53:00 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "E SAN BRUNO AVE / 4TH AVE",
-        "latitude": 37.6308912226688,
-        "longitude": -122.408563939948,
-        "units": ">E51 >BC16 >T51 CM31X5 ?TAC35"
+        "units": "CM11X1 ?TAC16 >E15 >BC11"
     },
     {
         "id": "RF2304795",
@@ -52,29 +74,7 @@
         "location": "1040 ROCKPORT AVE ,RWS",
         "latitude": 37.5450495332441,
         "longitude": -122.235165777492,
-        "units": ">BC5 E26 >T9 BC3 E13>E16 >E14 >E20 CM11X4 ?TAC15"
-    },
-    {
-        "id": "MF2303870",
-        "date": "2023-04-20",
-        "time": "8:43:13 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALMA ST / RAVENSWOOD AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2305037",
-        "date": "2023-04-20",
-        "time": "8:22:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PORT ROYAL AVE ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E29"
+        "units": ">T9 CM11X4 >E14 ?TAC15 >E20>BC5 >E13 >BC3 PR3D >E26"
     },
     {
         "id": "RF2304791",
@@ -85,6 +85,6 @@
         "location": "VETERANS BLVD / WOODSIDE RD",
         "latitude": 37.4883151735144,
         "longitude": -122.213634387043,
-        "units": "CM11X3 >E9 ?VFIR22 >E11"
+        "units": ">E9"
     }
 ]
