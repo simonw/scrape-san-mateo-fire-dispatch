@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2305055",
+        "date": "2023-04-21",
+        "time": "9:00:09 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "222 W 39TH AVE ,SMO",
+        "latitude": 37.5309086826939,
+        "longitude": -122.300154674965,
+        "units": "TAC25 BC5 CM21X5 T23 E15"
+    },
+    {
+        "id": "NF2304747",
+        "date": "2023-04-21",
+        "time": "8:54:34 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IRVINGTON ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "RF2304807",
+        "date": "2023-04-21",
+        "time": "8:53:26 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VERA AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "SF2305054",
+        "date": "2023-04-21",
+        "time": "8:51:24 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SHOREWAY RD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
         "id": "FF2302459",
         "date": "2023-04-21",
         "time": "8:41:52 AM",
@@ -8,72 +52,6 @@
         "location": "GELLERT BLVD #316 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
-    },
-    {
-        "id": "FF2302458",
-        "date": "2023-04-21",
-        "time": "8:39:28 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "RANDOLPH AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E65"
-    },
-    {
-        "id": "RF2304806",
-        "date": "2023-04-21",
-        "time": "8:35:15 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "400 DUANE ST ,RCY",
-        "latitude": 37.4808815498637,
-        "longitude": -122.234806714408,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2305052",
-        "date": "2023-04-21",
-        "time": "8:30:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHULA VISTA DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2304746",
-        "date": "2023-04-21",
-        "time": "8:24:15 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WERNER AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "WF2300842",
-        "date": "2023-04-21",
-        "time": "8:24:00 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO EDGEWOOD RD",
-        "latitude": 37.4503547561209,
-        "longitude": -122.278505928096,
-        "units": "?TAC15 >BC2 CM11X5 >SQ407 >E12"
-    },
-    {
-        "id": "BF2301563",
-        "date": "2023-04-21",
-        "time": "8:03:43 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Gas main break",
-        "location": "1150 EL CAMINO REAL #300 ,SNB",
-        "latitude": 37.6364709775789,
-        "longitude": -122.416803771445,
-        "units": ">E51 ?TAC35 >BC16 >T51 CM31X3"
+        "units": ">E64"
     }
 ]
