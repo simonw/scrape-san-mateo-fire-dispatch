@@ -1,47 +1,80 @@
 [
     {
-        "id": "FF2302462",
+        "id": "SF2305059",
         "date": "2023-04-21",
-        "time": "9:49:14 AM",
+        "time": "10:21:35 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "500 BIDDULPH WAY ,BLM",
+        "latitude": 37.5250372800605,
+        "longitude": -122.275683769601,
+        "units": "E14"
+    },
+    {
+        "id": "RF2304811",
+        "date": "2023-04-21",
+        "time": "10:19:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "NF2304753",
+        "date": "2023-04-21",
+        "time": "10:19:02 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "205 CERRO DR #B407 ,DCY",
+        "latitude": 37.6743964422314,
+        "longitude": -122.474919558836,
+        "units": "E94"
+    },
+    {
+        "id": "WF2300843",
+        "date": "2023-04-21",
+        "time": "10:17:13 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "125 FOX HOLLOW RD ,WDS",
+        "latitude": 37.4257583093807,
+        "longitude": -122.260856303619,
+        "units": "CM11X1 SQ407 E10"
+    },
+    {
+        "id": "BF2301565",
+        "date": "2023-04-21",
+        "time": "10:16:28 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "RF2304810",
+        "date": "2023-04-21",
+        "time": "10:14:05 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GREENWOOD LN ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "FF2302463",
+        "date": "2023-04-21",
+        "time": "10:12:50 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "HILLSIDE BLVD ,SSF",
+        "location": "ALLERTON AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "CF2303000",
-        "date": "2023-04-21",
-        "time": "9:42:28 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2303879",
-        "date": "2023-04-21",
-        "time": "9:40:19 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #210B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "MF2303878",
-        "date": "2023-04-21",
-        "time": "9:38:47 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #207C ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">Q62"
     },
     {
         "id": "RF2304809",
@@ -53,27 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E11"
-    },
-    {
-        "id": "NF2304748",
-        "date": "2023-04-21",
-        "time": "9:32:11 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "55 YACHT LN ,DCY",
-        "latitude": 37.6856627797917,
-        "longitude": -122.44649135115,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2305058",
-        "date": "2023-04-21",
-        "time": "9:30:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E POPLAR AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
