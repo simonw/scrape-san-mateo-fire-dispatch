@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2305039",
+        "date": "2023-04-20",
+        "time": "9:03:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "6TH AVE / RALSTON AVE",
+        "latitude": 37.5192246328833,
+        "longitude": -122.277328265646,
+        "units": "BC11 CM11X1 E15 T23 ?TAC16"
+    },
+    {
+        "id": "SF2305038",
+        "date": "2023-04-20",
+        "time": "8:55:07 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 39TH AVE #2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "NF2304732",
+        "date": "2023-04-20",
+        "time": "8:53:28 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "133 SERRAMONTE CTR ,DCY",
+        "latitude": 37.670459099639,
+        "longitude": -122.471203642265,
+        "units": ">E94"
+    },
+    {
+        "id": "BF2301560",
+        "date": "2023-04-20",
+        "time": "8:53:00 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "E SAN BRUNO AVE / 4TH AVE",
+        "latitude": 37.6308912226688,
+        "longitude": -122.408563939948,
+        "units": ">E51 >BC16 >T51 CM31X5 ?TAC35"
+    },
+    {
+        "id": "RF2304795",
+        "date": "2023-04-20",
+        "time": "8:45:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Structure fire",
+        "location": "1040 ROCKPORT AVE ,RWS",
+        "latitude": 37.5450495332441,
+        "longitude": -122.235165777492,
+        "units": ">BC5 E26 >T9 BC3 E13>E16 >E14 >E20 CM11X4 ?TAC15"
+    },
+    {
         "id": "MF2303870",
         "date": "2023-04-20",
         "time": "8:43:13 PM",
@@ -8,29 +63,7 @@
         "location": "ALMA ST / RAVENSWOOD AVE",
         "latitude": null,
         "longitude": null,
-        "units": "?E6"
-    },
-    {
-        "id": "LF2300441",
-        "date": "2023-04-20",
-        "time": "8:37:37 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "D ST ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": "E86"
-    },
-    {
-        "id": "MF2303869",
-        "date": "2023-04-20",
-        "time": "8:36:34 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #210 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "units": ">E6"
     },
     {
         "id": "SF2305037",
@@ -41,18 +74,7 @@
         "location": "PORT ROYAL AVE ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "CF2302990",
-        "date": "2023-04-20",
-        "time": "8:20:20 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MATEO AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": "E29"
     },
     {
         "id": "RF2304791",
@@ -63,6 +85,6 @@
         "location": "VETERANS BLVD / WOODSIDE RD",
         "latitude": 37.4883151735144,
         "longitude": -122.213634387043,
-        "units": "CM11X3 >E9 ?VFIR22 >BC3 >E11"
+        "units": "CM11X3 >E9 ?VFIR22 >E11"
     }
 ]
