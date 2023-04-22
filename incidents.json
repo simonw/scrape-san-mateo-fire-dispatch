@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2304799",
+        "id": "SF2305135",
         "date": "2023-04-22",
-        "time": "3:00:09 PM",
+        "time": "3:14:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Structure fire",
+        "location": "26 WILDWOOD DR ,SMO",
+        "latitude": 37.5499249172405,
+        "longitude": -122.339238607989,
+        "units": "CM21X4 >BC5 >E23 >E25 ?TAC25T21"
+    },
+    {
+        "id": "DF2301096",
+        "date": "2023-04-22",
+        "time": "3:12:57 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALPINE RD ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E58 VFIR22 E1769 R57"
+    },
+    {
+        "id": "NF2304800",
+        "date": "2023-04-22",
+        "time": "3:12:49 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "KING DR / JUNIPERO SERRA BLVD",
-        "latitude": 37.6546349478985,
-        "longitude": -122.4530008848,
-        "units": ">E64 BC120 CM31X2 ?TAC35"
+        "category": "Medical aid",
+        "location": "LINDA VISTA DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
     },
     {
         "id": "MF2303916",
@@ -19,7 +41,7 @@
         "location": "MONTGOMERY AVE / SAN CARLOS AVE",
         "latitude": 37.4563130987495,
         "longitude": -122.225862155643,
-        "units": "E3"
+        "units": ">E3"
     },
     {
         "id": "FF2302495",
@@ -33,17 +55,6 @@
         "units": ">E65"
     },
     {
-        "id": "NF2304798",
-        "date": "2023-04-22",
-        "time": "2:54:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "2 OCEAN GROVE AVE ,DCY",
-        "latitude": 37.6860693299221,
-        "longitude": -122.484341132902,
-        "units": ">E95"
-    },
-    {
         "id": "DF2301095",
         "date": "2023-04-22",
         "time": "2:40:59 PM",
@@ -52,6 +63,6 @@
         "location": "SB 280 / SO 92",
         "latitude": 37.5004067419462,
         "longitude": -122.326125246726,
-        "units": ">E17 >CM11X4 >TAC15 >E18 >T17>BC11 >E27"
+        "units": ">E17 >CM11X4 >TAC15 >T17 >BC11>E27"
     }
 ]
