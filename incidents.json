@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2304802",
+        "date": "2023-04-22",
+        "time": "3:37:38 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #111A ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "NF2304801",
+        "date": "2023-04-22",
+        "time": "3:34:58 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MODOC PL / BERENDOS AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "SF2305137",
+        "date": "2023-04-22",
+        "time": "3:32:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "SF2305136",
+        "date": "2023-04-22",
+        "time": "3:29:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "1400 FASHION ISLAND BLVD ,SMO",
+        "latitude": 37.5560124868826,
+        "longitude": -122.28794645564,
+        "units": ">E26"
+    },
+    {
         "id": "SF2305135",
         "date": "2023-04-22",
         "time": "3:14:04 PM",
@@ -8,7 +52,7 @@
         "location": "26 WILDWOOD DR ,SMO",
         "latitude": 37.5499249172405,
         "longitude": -122.339238607989,
-        "units": "CM21X4 >BC5 >E23 >E25 ?TAC25T21"
+        "units": "CM21X4 >BC5 >E23 >E25 ?TAC25>T21"
     },
     {
         "id": "DF2301096",
@@ -19,40 +63,7 @@
         "location": "ALPINE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "E58 VFIR22 E1769 R57"
-    },
-    {
-        "id": "NF2304800",
-        "date": "2023-04-22",
-        "time": "3:12:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LINDA VISTA DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "MF2303916",
-        "date": "2023-04-22",
-        "time": "2:59:14 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "MONTGOMERY AVE / SAN CARLOS AVE",
-        "latitude": 37.4563130987495,
-        "longitude": -122.225862155643,
-        "units": ">E3"
-    },
-    {
-        "id": "FF2302495",
-        "date": "2023-04-22",
-        "time": "2:55:05 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FERNDALE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": ">E58 >VFIR22 >E1769"
     },
     {
         "id": "DF2301095",
@@ -63,6 +74,6 @@
         "location": "SB 280 / SO 92",
         "latitude": 37.5004067419462,
         "longitude": -122.326125246726,
-        "units": ">E17 >CM11X4 >TAC15 >T17 >BC11>E27"
+        "units": ">T17 >BC11 E27"
     }
 ]
