@@ -1,5 +1,16 @@
 [
     {
+        "id": "NF2304777",
+        "date": "2023-04-21",
+        "time": "9:13:48 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PEORIA ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "SF2305105",
         "date": "2023-04-21",
         "time": "9:04:16 PM",
@@ -8,7 +19,7 @@
         "location": "CHESTERTON PL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "DF2301094",
@@ -19,28 +30,6 @@
         "location": "SAN MATEO RD / SKYLINE UPPER",
         "latitude": 37.4955750561378,
         "longitude": -122.368892307841,
-        "units": "T17 E17 BC11 R56 E40?TAC15 ?CM11X3"
-    },
-    {
-        "id": "FF2302480",
-        "date": "2023-04-21",
-        "time": "8:49:21 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "N ACCESS RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2304834",
-        "date": "2023-04-21",
-        "time": "8:48:05 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CAMBRIDGE RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": ">R56 >T17 >E40 >E17 >BC11?TAC15 ?CM11X3"
     }
 ]
