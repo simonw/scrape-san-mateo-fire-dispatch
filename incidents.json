@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2305102",
+        "id": "BF2301571",
         "date": "2023-04-21",
-        "time": "8:04:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:23:40 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "KINGRIDGE DR ,SMO",
+        "location": "WILLIAMS AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E15"
+        "units": "?E51"
+    },
+    {
+        "id": "SF2305103",
+        "date": "2023-04-21",
+        "time": "8:21:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "CF2303023",
+        "date": "2023-04-21",
+        "time": "8:20:02 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1064B ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "RF2304832",
+        "date": "2023-04-21",
+        "time": "8:16:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "485 VETERANS BLVD ,RCY",
+        "latitude": 37.4960960017186,
+        "longitude": -122.235598575461,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2304831",
+        "date": "2023-04-21",
+        "time": "8:15:26 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KING ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "MF2303895",
+        "date": "2023-04-21",
+        "time": "8:09:40 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "1690 PURDUE AVE ,EPA",
+        "latitude": 37.4786803488287,
+        "longitude": -122.137508509787,
+        "units": ">E2 ?TAC15 CM11X2 >BC101 >T2"
     },
     {
         "id": "MF2303894",
@@ -20,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E1"
-    },
-    {
-        "id": "RF2304830",
-        "date": "2023-04-21",
-        "time": "7:50:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #383 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "BF2301570",
-        "date": "2023-04-21",
-        "time": "7:45:29 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MILLS AVE #C ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2304829",
-        "date": "2023-04-21",
-        "time": "7:35:25 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JONES CT ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E11"
     }
 ]
