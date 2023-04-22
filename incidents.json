@@ -1,25 +1,47 @@
 [
     {
-        "id": "SF2305121",
+        "id": "MF2303908",
         "date": "2023-04-22",
-        "time": "9:23:05 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:34:37 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "VISTA DEL MAR ,SMO",
+        "location": "SANTA CRUZ AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E6"
     },
     {
-        "id": "SF2305120",
+        "id": "RF2304849",
         "date": "2023-04-22",
-        "time": "9:22:53 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:34:15 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "HARDING AVE ,SMO",
+        "location": "E BAYSHORE RD #208 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E77"
+    },
+    {
+        "id": "HF2301276",
+        "date": "2023-04-22",
+        "time": "9:31:11 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "345 EAGLE TRACE DR ,HMB",
+        "latitude": 37.4367919992945,
+        "longitude": -122.428154918187,
+        "units": ">E41"
+    },
+    {
+        "id": "SF2305122",
+        "date": "2023-04-22",
+        "time": "9:28:51 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CORTEZ LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
     },
     {
         "id": "RF2304848",
@@ -31,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "FF2302490",
-        "date": "2023-04-22",
-        "time": "9:17:35 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EVERGREEN DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "NF2304786",
-        "date": "2023-04-22",
-        "time": "8:59:03 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALICANTE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "NF2304785",
-        "date": "2023-04-22",
-        "time": "8:46:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALEXIS CIR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E93"
     }
 ]
