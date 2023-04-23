@@ -1,47 +1,58 @@
 [
     {
+        "id": "FF2302502",
+        "date": "2023-04-22",
+        "time": "8:04:35 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S AIRPORT BLVD #202 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?Q62"
+    },
+    {
+        "id": "NF2304812",
+        "date": "2023-04-22",
+        "time": "7:57:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "NF2304811",
+        "date": "2023-04-22",
+        "time": "7:51:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "705 SERRAMONTE BLVD ,DCY",
+        "latitude": 37.6689285428315,
+        "longitude": -122.47909065558,
+        "units": ">E94"
+    },
+    {
+        "id": "CF2303042",
+        "date": "2023-04-22",
+        "time": "7:50:24 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HEMLOCK AVE #7A ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
         "id": "BF2301578",
         "date": "2023-04-22",
         "time": "7:44:54 PM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Structure fire",
+        "category": "Structure fire - working",
         "location": "705 CEDAR AVE ,SNB",
         "latitude": 37.6225108550009,
         "longitude": -122.425382132939,
-        "units": "T51 E38 BC17 E51 BC16CM31X5 E37 E64 E52 ?TAC35"
-    },
-    {
-        "id": "FF2302501",
-        "date": "2023-04-22",
-        "time": "7:36:55 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE #5 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2304810",
-        "date": "2023-04-22",
-        "time": "7:32:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "THOMAS AVE #A ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "RF2304864",
-        "date": "2023-04-22",
-        "time": "7:30:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MESA VERDE WAY ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
+        "units": "CM31X5 >E51 >E52 >E37 ?TAC35>BC17 >BC16 >T51 >E38 >E64"
     },
     {
         "id": "RF2304863",
@@ -52,7 +63,7 @@
         "location": "ENCINA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": "E10"
     },
     {
         "id": "FF2302500",
