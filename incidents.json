@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2304869",
+        "id": "NF2304821",
         "date": "2023-04-23",
-        "time": "1:42:31 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "2:02:55 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "3 SERRAMONTE CTR ,DCY",
+        "latitude": 37.6725022722999,
+        "longitude": -122.471402942882,
+        "units": "E95"
+    },
+    {
+        "id": "SF2305158",
+        "date": "2023-04-23",
+        "time": "1:54:41 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "WHIPPLE AVE ,RCY",
+        "location": "N EL CAMINO REAL #O ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E32"
+    },
+    {
+        "id": "SF2305157",
+        "date": "2023-04-23",
+        "time": "1:50:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAUREL AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "NF2304820",
@@ -19,7 +41,7 @@
         "location": "TERRA NOVA BLVD #204B ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": ">E72"
     },
     {
         "id": "NF2304819",
@@ -30,7 +52,7 @@
         "location": "PIERCE ST #430 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
+        "units": ""
     },
     {
         "id": "SF2305156",
@@ -41,39 +63,6 @@
         "location": "2ND AVE / S AMPHLETT BLVD",
         "latitude": 37.5719908558213,
         "longitude": -122.315935869654,
-        "units": "CM21X2 >BC8 ?TAC25 >E24 >T21"
-    },
-    {
-        "id": "MF2303927",
-        "date": "2023-04-23",
-        "time": "1:25:48 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Trash fire",
-        "location": "W BAYSHORE RD / NEWELL RD",
-        "latitude": 37.4573426606717,
-        "longitude": -122.136130436025,
-        "units": ">E2"
-    },
-    {
-        "id": "CF2303049",
-        "date": "2023-04-23",
-        "time": "1:25:36 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FRONTERA WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2303048",
-        "date": "2023-04-23",
-        "time": "12:55:36 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LASUEN DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37 CM21X1 >E38"
+        "units": ">E24 >T21"
     }
 ]
