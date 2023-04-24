@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2305206",
+        "date": "2023-04-24",
+        "time": "11:24:04 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "3471 GLENDORA DR ,SMO",
+        "latitude": 37.5263307466565,
+        "longitude": -122.323411434961,
+        "units": "T23"
+    },
+    {
+        "id": "BF2301611",
+        "date": "2023-04-24",
+        "time": "11:16:24 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SYLVAN AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "CF2303078",
+        "date": "2023-04-24",
+        "time": "11:09:51 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1017 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "NF2304859",
+        "date": "2023-04-24",
+        "time": "11:06:12 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ACTON ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "NF2304858",
         "date": "2023-04-24",
         "time": "11:03:43 AM",
@@ -8,40 +52,7 @@
         "location": "N MAYFAIR AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "HF2301291",
-        "date": "2023-04-24",
-        "time": "11:02:42 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KELMORE ST ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "RF2304908",
-        "date": "2023-04-24",
-        "time": "11:01:32 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MASSACHUSETTS AVE #8 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "RF2304907",
-        "date": "2023-04-24",
-        "time": "11:00:08 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1 CIRCLE STAR WAY ,SNC",
-        "latitude": 37.4985213801901,
-        "longitude": -122.239878489563,
-        "units": "BC5 CM11X2 T23 E9 ?TAC16"
+        "units": ">E91"
     },
     {
         "id": "RF2304906",
@@ -52,7 +63,7 @@
         "location": "850 WOODSIDE RD ,RCY",
         "latitude": 37.4655871364034,
         "longitude": -122.225084244905,
-        "units": ">E10 >BC3 CM11X1 T9 ?TAC15"
+        "units": ""
     },
     {
         "id": "CF2303077",
@@ -64,49 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E33"
-    },
-    {
-        "id": "CF2303076",
-        "date": "2023-04-24",
-        "time": "10:49:26 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MATEO AVE #36C ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "BF2301610",
-        "date": "2023-04-24",
-        "time": "10:42:51 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SYLVAN AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2305205",
-        "date": "2023-04-24",
-        "time": "10:42:34 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #202 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "DF2301109",
-        "date": "2023-04-24",
-        "time": "10:36:48 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ADELINE DR ,BRH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
     }
 ]
