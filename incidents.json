@@ -1,5 +1,82 @@
 [
     {
+        "id": "BF2301637",
+        "date": "2023-04-25",
+        "time": "2:59:55 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINDEN AVE #4 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2304916",
+        "date": "2023-04-25",
+        "time": "2:59:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Gas main break",
+        "location": "320 BEAUMONT BLVD ,PCF",
+        "latitude": 37.6557335194373,
+        "longitude": -122.487636715029,
+        "units": ">E94 BC124 E52 TAC35 T95E95 CM31X2"
+    },
+    {
+        "id": "CF2303110",
+        "date": "2023-04-25",
+        "time": "2:53:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LINCOLN CIR #ART CTR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2304915",
+        "date": "2023-04-25",
+        "time": "2:51:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MONTEREY RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "FF2302568",
+        "date": "2023-04-25",
+        "time": "2:50:44 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ZITA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "RF2304948",
+        "date": "2023-04-25",
+        "time": "2:46:42 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1446 KENTFIELD AVE ,RCY",
+        "latitude": 37.4664352206437,
+        "longitude": -122.230731547154,
+        "units": ">E10"
+    },
+    {
+        "id": "HF2301297",
+        "date": "2023-04-25",
+        "time": "2:46:26 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GEORGE ST ,MON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
         "id": "SF2305255",
         "date": "2023-04-25",
         "time": "2:43:41 PM",
@@ -8,18 +85,7 @@
         "location": "THAYER LN #602 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E28"
-    },
-    {
-        "id": "SF2305254",
-        "date": "2023-04-25",
-        "time": "2:41:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Grass fire",
-        "location": "SB 101 / NO E 3RD AVE",
-        "latitude": 37.5750283753154,
-        "longitude": -122.318639833312,
-        "units": "E32 ?VFIR23 CM21X5 BC8 ?E34?E24"
+        "units": "*>E28"
     },
     {
         "id": "MF2303988",
@@ -30,73 +96,7 @@
         "location": "1771 E BAYSHORE RD ,EPA",
         "latitude": 37.4604034096873,
         "longitude": -122.135880549022,
-        "units": "E5"
-    },
-    {
-        "id": "MF2303987",
-        "date": "2023-04-25",
-        "time": "2:37:22 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2304912",
-        "date": "2023-04-25",
-        "time": "2:35:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ST FRANCIS BLVD #1041 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "RF2304947",
-        "date": "2023-04-25",
-        "time": "2:35:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HARRISON AVE #8 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "NF2304911",
-        "date": "2023-04-25",
-        "time": "2:33:34 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SULLIVAN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2304910",
-        "date": "2023-04-25",
-        "time": "2:31:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTLINE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "FF2302567",
-        "date": "2023-04-25",
-        "time": "2:28:56 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "TAMARACK LN / LINDEN AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": "T2 ?BC101 T4 CM11X1 >E2TAC15 >E5"
     },
     {
         "id": "DF2301112",
@@ -107,6 +107,6 @@
         "location": "LA HONDA RD #42 ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 ?VFIR22 >R57"
+        "units": "?VFIR22"
     }
 ]
