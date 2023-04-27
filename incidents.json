@@ -1,13 +1,35 @@
 [
     {
-        "id": "MF2304050",
+        "id": "MF2304053",
         "date": "2023-04-27",
-        "time": "6:10:10 AM",
+        "time": "8:22:05 AM",
         "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2033 PULGAS AVE ,EPA",
+        "latitude": 37.4622112097594,
+        "longitude": -122.130523809907,
+        "units": "?E2"
+    },
+    {
+        "id": "LF2300459",
+        "date": "2023-04-27",
+        "time": "8:18:36 AM",
+        "summary": "Colma Fire on Control-3",
         "category": "Full assignment response",
-        "location": "1855 WHITE OAK DR ,MNP",
-        "latitude": 37.4323693688515,
-        "longitude": -122.192019371789,
-        "units": ">TAC15 >CM11X5 >E4 >T4"
+        "location": "HILLSIDE BLVD / HOFFMAN ST",
+        "latitude": 37.6849412240534,
+        "longitude": -122.458694697192,
+        "units": "CM31X5 BC19 E86 E285 T85E85 ?TAC35"
+    },
+    {
+        "id": "MF2304052",
+        "date": "2023-04-27",
+        "time": "8:04:39 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "248 5TH AVE ,NFO",
+        "latitude": 37.4706984241022,
+        "longitude": -122.205013373774,
+        "units": ">E3"
     }
 ]
