@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2301666",
+        "date": "2023-04-27",
+        "time": "2:22:04 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "1900 MONTEREY DR ,SNB",
+        "latitude": 37.623127895038,
+        "longitude": -122.447473705721,
+        "units": "?E38"
+    },
+    {
+        "id": "DF2301129",
+        "date": "2023-04-27",
+        "time": "2:20:34 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "225 CLIFFORD AVE ,PAL",
+        "latitude": 37.482011972837,
+        "longitude": -122.263842632304,
+        "units": "E17"
+    },
+    {
+        "id": "MF2304063",
+        "date": "2023-04-27",
+        "time": "2:20:30 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DELFINO WAY ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E6"
+    },
+    {
+        "id": "CF2303155",
+        "date": "2023-04-27",
+        "time": "2:05:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N ROLLINS RD ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "RF2305027",
         "date": "2023-04-27",
         "time": "1:53:20 PM",
@@ -8,7 +52,7 @@
         "location": "1176 RUBY ST ,RCY",
         "latitude": 37.4664800580412,
         "longitude": -122.23847971868,
-        "units": ">E11 >BC3 TAC15 >E12 >T9E4 BC2 E19 >E10 CM11X5"
+        "units": "PR3A >TAC15 >T9 >BC2 >BC3>CM11X5 >E11 >E19 >E10 >E12"
     },
     {
         "id": "NF2304999",
@@ -22,28 +66,6 @@
         "units": ">E94"
     },
     {
-        "id": "NF2304998",
-        "date": "2023-04-27",
-        "time": "1:52:08 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "MF2304062",
-        "date": "2023-04-27",
-        "time": "1:43:40 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CARLTON AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
         "id": "SF2305355",
         "date": "2023-04-27",
         "time": "1:30:46 PM",
@@ -52,6 +74,6 @@
         "location": "MARLIN AVE ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
+        "units": "E28"
     }
 ]
