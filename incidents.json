@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2304060",
+        "id": "RF2305022",
         "date": "2023-04-27",
-        "time": "12:41:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "12:58:36 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "WOODSIDE RD #2 ,WSB",
+        "location": "VERA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E12"
+    },
+    {
+        "id": "RF2305021",
+        "date": "2023-04-27",
+        "time": "12:52:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
     },
     {
         "id": "BF2301665",
@@ -19,7 +30,7 @@
         "location": "ELM AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "RF2305020",
@@ -30,51 +41,7 @@
         "location": "GREENWOOD LN ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "FF2302614",
-        "date": "2023-04-27",
-        "time": "12:39:08 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist, water problem",
-        "location": "2260 DERRY WAY ,SSF",
-        "latitude": 37.6399215195651,
-        "longitude": -122.447730152443,
-        "units": "E64"
-    },
-    {
-        "id": "NF2304995",
-        "date": "2023-04-27",
-        "time": "12:33:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "E MARKET ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E93"
-    },
-    {
-        "id": "CF2303154",
-        "date": "2023-04-27",
-        "time": "12:26:23 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MYRTLE RD #106 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "FF2302613",
-        "date": "2023-04-27",
-        "time": "12:23:26 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FRANCISCO DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ""
     },
     {
         "id": "CF2303152",
@@ -85,6 +52,6 @@
         "location": "1500 EASTON DR ,BRM",
         "latitude": 37.5860030538161,
         "longitude": -122.370430046494,
-        "units": ">BC8 >T34 CM21X2 ?TAC25 >E34>E35"
+        "units": ">BC8 >T34 >E34 >E35 CM21X2?TAC25"
     }
 ]
