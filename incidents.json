@@ -1,14 +1,80 @@
 [
     {
-        "id": "NF2305006",
+        "id": "NF2305010",
         "date": "2023-04-27",
-        "time": "5:22:09 PM",
+        "time": "5:56:40 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO SIERRA POINT PKWY",
-        "latitude": 37.6688911071274,
-        "longitude": -122.39352514778,
-        "units": "?TAC35 ?CM31X3 ?E81 ?BC17 ?E65?Q62"
+        "category": "Hazardous material - investiga",
+        "location": "224 ANGELITA AVE ,PCF",
+        "latitude": 37.6117313450042,
+        "longitude": -122.477231519328,
+        "units": ">E71"
+    },
+    {
+        "id": "MF2304070",
+        "date": "2023-04-27",
+        "time": "5:55:26 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #111 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2305367",
+        "date": "2023-04-27",
+        "time": "5:55:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "FF2302622",
+        "date": "2023-04-27",
+        "time": "5:54:52 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MORNINGSIDE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "NF2305009",
+        "date": "2023-04-27",
+        "time": "5:51:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SKYLINE BLVD / WESTMOOR AVE",
+        "latitude": 37.6833409160063,
+        "longitude": -122.489100467712,
+        "units": "?TAC35 >T95 >E91 CM31X4 >BC120"
+    },
+    {
+        "id": "NF2305008",
+        "date": "2023-04-27",
+        "time": "5:43:08 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "NF2305007",
+        "date": "2023-04-27",
+        "time": "5:38:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #217B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "BF2301668",
@@ -19,51 +85,7 @@
         "location": "SAN BRUNO AVE W ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "SF2305366",
-        "date": "2023-04-27",
-        "time": "5:10:20 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FATHOM DR #204 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "SF2305365",
-        "date": "2023-04-27",
-        "time": "5:03:53 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "NF2305005",
-        "date": "2023-04-27",
-        "time": "5:02:13 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "950 HILLSIDE BLVD ,DCY",
-        "latitude": 37.6901988547872,
-        "longitude": -122.461505268849,
-        "units": ""
-    },
-    {
-        "id": "DF2301130",
-        "date": "2023-04-27",
-        "time": "4:00:30 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GUADALUPE CANYON PKWY ,SON",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
+        "units": ">E52 CM31X1 >BC16"
     },
     {
         "id": "RF2305027",
@@ -74,6 +96,6 @@
         "location": "1176 RUBY ST ,RCY",
         "latitude": 37.4664800580412,
         "longitude": -122.23847971868,
-        "units": ">PR3A >TAC15 >BC3 >CM11X5 >E11"
+        "units": ">E11"
     }
 ]
