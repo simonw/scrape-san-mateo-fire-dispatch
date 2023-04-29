@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2303204",
+        "date": "2023-04-29",
+        "time": "2:41:37 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ARMSBY DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "E35"
+    },
+    {
+        "id": "LF2300466",
+        "date": "2023-04-29",
+        "time": "2:40:12 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "D ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "RF2305111",
+        "date": "2023-04-29",
+        "time": "2:33:41 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VERA AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "NF2305070",
+        "date": "2023-04-29",
+        "time": "2:26:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "N MAYFAIR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
         "id": "SF2305459",
         "date": "2023-04-29",
         "time": "2:23:24 PM",
@@ -8,7 +52,7 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E23"
+        "units": ">E23"
     },
     {
         "id": "RF2305110",
@@ -19,7 +63,18 @@
         "location": "ALAMEDA DE LAS PULGAS ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
+    },
+    {
+        "id": "MF2304120",
+        "date": "2023-04-29",
+        "time": "2:21:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "ALPINE RD / JUNIPERO SERRA BLVD",
+        "latitude": 37.4244692375576,
+        "longitude": -122.191640489007,
+        "units": ""
     },
     {
         "id": "SF2305458",
@@ -30,18 +85,7 @@
         "location": "691 BEACH PARK BLVD ,FCY",
         "latitude": 37.5483436550528,
         "longitude": -122.267020725314,
-        "units": "E29"
-    },
-    {
-        "id": "NF2305069",
-        "date": "2023-04-29",
-        "time": "2:20:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SB 280 / SO SERRAMONTE BLVD",
-        "latitude": null,
-        "longitude": null,
-        "units": "T95 E64 CM31X5 ?TAC35"
+        "units": ">E29"
     },
     {
         "id": "RF2305109",
@@ -52,18 +96,7 @@
         "location": "223 TWIN DOLPHIN DR ,RWS",
         "latitude": 37.5236648128766,
         "longitude": -122.261017387382,
-        "units": "?E14"
-    },
-    {
-        "id": "NF2305068",
-        "date": "2023-04-29",
-        "time": "2:15:02 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #103B ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ">E14"
     },
     {
         "id": "FF2302655",
@@ -75,27 +108,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">Q62"
-    },
-    {
-        "id": "NF2305067",
-        "date": "2023-04-29",
-        "time": "2:09:52 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Trash fire",
-        "location": "2350 JUNIPERO SERRA BLVD ,DCY",
-        "latitude": 37.6944076542282,
-        "longitude": -122.471513589612,
-        "units": ">E81"
-    },
-    {
-        "id": "WF2300876",
-        "date": "2023-04-29",
-        "time": "1:30:27 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WILLOWBROOK DR ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
