@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2305124",
+        "date": "2023-04-29",
+        "time": "10:23:26 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD #11 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T9"
+    },
+    {
+        "id": "SF2305479",
+        "date": "2023-04-29",
+        "time": "10:20:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N DELAWARE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "DF2301138",
+        "date": "2023-04-29",
+        "time": "10:15:20 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 1 / SO TUNNEL",
+        "latitude": 37.5629500165583,
+        "longitude": -122.513137177766,
+        "units": ">E72 >E44 BC10 TAC45 ?CM41X5"
+    },
+    {
+        "id": "FF2302663",
+        "date": "2023-04-29",
+        "time": "10:13:52 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Trash fire",
+        "location": "NB 101 / SO OYSTER POINT BLVD",
+        "latitude": 37.6591276060046,
+        "longitude": -122.404983096409,
+        "units": ">E81 Q62 ?TAC35 ?CM31X5"
+    },
+    {
+        "id": "BF2301697",
+        "date": "2023-04-29",
+        "time": "10:11:26 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MASTICK AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "MF2304127",
+        "date": "2023-04-29",
+        "time": "10:05:37 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL / OAK GROVE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "RF2305123",
         "date": "2023-04-29",
         "time": "10:01:42 PM",
@@ -8,7 +74,7 @@
         "location": "GORDON ST #14 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "DF2301137",
@@ -19,18 +85,7 @@
         "location": "BRECON CT ,PAL",
         "latitude": null,
         "longitude": null,
-        "units": "E18"
-    },
-    {
-        "id": "NF2305092",
-        "date": "2023-04-29",
-        "time": "9:50:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "MISSION ST / JOHN DALY BLVD",
-        "latitude": 37.7049507470656,
-        "longitude": -122.462292095903,
-        "units": ">E92"
+        "units": "*>E18"
     },
     {
         "id": "NF2305090",
@@ -42,16 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "WF2300878",
-        "date": "2023-04-29",
-        "time": "9:32:14 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALPINE RD #415 ,LAD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
     }
 ]
