@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2305492",
+        "id": "BF2301699",
         "date": "2023-04-30",
-        "time": "9:41:46 AM",
+        "time": "10:04:01 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINDEN AVE #6 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "SF2305494",
+        "date": "2023-04-30",
+        "time": "9:57:16 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "801 N HUMBOLDT ST ,SMO",
+        "latitude": 37.5813750465737,
+        "longitude": -122.329184178026,
+        "units": "E24"
+    },
+    {
+        "id": "SF2305493",
+        "date": "2023-04-30",
+        "time": "9:51:22 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
         "location": "CHULA VISTA DR ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "NF2305105",
@@ -19,18 +41,7 @@
         "location": "GENEVA AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
-    },
-    {
-        "id": "SF2305491",
-        "date": "2023-04-30",
-        "time": "9:38:08 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Lock out - residential",
-        "location": "11 N ROCHESTER ST ,SMO",
-        "latitude": 37.5783390931838,
-        "longitude": -122.312014485708,
-        "units": "E24"
+        "units": ">E93"
     },
     {
         "id": "CF2303222",
@@ -41,17 +52,6 @@
         "location": "HILLCREST BLVD / EL CAMINO REAL",
         "latitude": 37.6022290306648,
         "longitude": -122.391746775515,
-        "units": ">T34 CM21X4 >E38 ?TAC25"
-    },
-    {
-        "id": "RF2305138",
-        "date": "2023-04-30",
-        "time": "9:19:13 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #110 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": "CM21X4 >T34 ?TAC25 >E38"
     }
 ]
