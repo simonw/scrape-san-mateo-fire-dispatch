@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2302661",
+        "date": "2023-04-29",
+        "time": "9:02:02 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BOURBON CT ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "SF2305476",
+        "date": "2023-04-29",
+        "time": "9:01:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PALOS VERDES DR #4 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "BF2301696",
+        "date": "2023-04-29",
+        "time": "9:00:32 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "RF2305119",
+        "date": "2023-04-29",
+        "time": "8:46:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "RF2305118",
         "date": "2023-04-29",
         "time": "8:41:38 PM",
@@ -8,7 +52,7 @@
         "location": "ELIZABETH ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": ">E13"
     },
     {
         "id": "NF2305086",
@@ -22,61 +66,6 @@
         "units": ">E71"
     },
     {
-        "id": "SF2305474",
-        "date": "2023-04-29",
-        "time": "8:38:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #203 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "BF2301695",
-        "date": "2023-04-29",
-        "time": "8:32:24 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "1199 EL CAMINO REAL ,SNB",
-        "latitude": 37.6362608569349,
-        "longitude": -122.421433932112,
-        "units": ">E51 TAC35 ?CM31X4"
-    },
-    {
-        "id": "SF2305473",
-        "date": "2023-04-29",
-        "time": "8:23:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD COUNTY RD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2305085",
-        "date": "2023-04-29",
-        "time": "8:23:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #104A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "NF2305084",
-        "date": "2023-04-29",
-        "time": "8:21:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "W AVALON DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "HF2301330",
         "date": "2023-04-29",
         "time": "8:05:34 PM",
@@ -85,6 +74,6 @@
         "location": "THE ALAMEDA #B ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": "CM41X1 >E44 >E41 >BC10"
+        "units": "BC10"
     }
 ]
