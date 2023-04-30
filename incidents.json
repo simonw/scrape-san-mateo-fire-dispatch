@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2305145",
+        "date": "2023-04-30",
+        "time": "12:19:41 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "10 BIRCH ST ,RCY",
+        "latitude": 37.4886637455143,
+        "longitude": -122.241475519341,
+        "units": "E9 E10 T9 E13 BC3CM11X3 ?TAC15"
+    },
+    {
+        "id": "MF2304139",
+        "date": "2023-04-30",
+        "time": "12:09:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TIOGA DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "FF2302671",
+        "date": "2023-04-30",
+        "time": "12:08:01 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HILLCREST CT ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "RF2305144",
         "date": "2023-04-30",
         "time": "12:01:04 PM",
@@ -19,7 +52,7 @@
         "location": "8 BELFORD DR ,DCY",
         "latitude": 37.6977457958967,
         "longitude": -122.492047582691,
-        "units": ">BC20 >T95 >E95 E71 >E91E94 BC121 E92 CM31X3 ?TAC35"
+        "units": "PR20A >E94 ?TAC35 >E92 >BC20>E95 >E71 >T95 >E91 CM31X3"
     },
     {
         "id": "BF2301700",
@@ -31,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E52"
-    },
-    {
-        "id": "RF2305142",
-        "date": "2023-04-30",
-        "time": "11:44:28 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RADIO RD ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2304138",
-        "date": "2023-04-30",
-        "time": "11:28:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2305497",
-        "date": "2023-04-30",
-        "time": "11:27:52 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #421C ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
