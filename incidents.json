@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2305118",
+        "date": "2023-04-29",
+        "time": "8:41:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELIZABETH ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "NF2305086",
+        "date": "2023-04-29",
+        "time": "8:40:11 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MANOR DR / OCEANA BLVD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "SF2305474",
+        "date": "2023-04-29",
+        "time": "8:38:49 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #203 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "BF2301695",
+        "date": "2023-04-29",
+        "time": "8:32:24 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "1199 EL CAMINO REAL ,SNB",
+        "latitude": 37.6362608569349,
+        "longitude": -122.421433932112,
+        "units": ">E51 TAC35 ?CM31X4"
+    },
+    {
         "id": "SF2305473",
         "date": "2023-04-29",
         "time": "8:23:35 PM",
@@ -8,7 +52,7 @@
         "location": "OLD COUNTY RD ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E14"
+        "units": ""
     },
     {
         "id": "NF2305085",
@@ -19,7 +63,7 @@
         "location": "ESCUELA DR #104A ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?T95"
+        "units": ">T95"
     },
     {
         "id": "NF2305084",
@@ -30,29 +74,7 @@
         "location": "W AVALON DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "DF2301135",
-        "date": "2023-04-29",
-        "time": "8:12:46 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EDMONDS RD ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "NF2305083",
-        "date": "2023-04-29",
-        "time": "8:09:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #141C ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ""
     },
     {
         "id": "HF2301330",
@@ -63,17 +85,6 @@
         "location": "THE ALAMEDA #B ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": ">E44 >BC10 CM41X1 >E41"
-    },
-    {
-        "id": "NF2305081",
-        "date": "2023-04-29",
-        "time": "6:58:02 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND TETON DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM41X1 >E44 >E41 >BC10"
     }
 ]
