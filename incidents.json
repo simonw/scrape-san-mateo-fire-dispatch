@@ -1,5 +1,16 @@
 [
     {
+        "id": "NF2305153",
+        "date": "2023-05-01",
+        "time": "12:51:55 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALENCIA WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "SF2305544",
         "date": "2023-05-01",
         "time": "12:43:13 PM",
@@ -8,7 +19,7 @@
         "location": "LAUREL CT ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E14"
+        "units": ">E14"
     },
     {
         "id": "SF2305543",
@@ -19,7 +30,7 @@
         "location": "FOSTER SQUARE LN #402 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E29"
     },
     {
         "id": "NF2305152",
@@ -30,40 +41,7 @@
         "location": "MONTEREY ST ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "WF2300882",
-        "date": "2023-05-01",
-        "time": "12:23:56 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GRANDVIEW DR ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E58"
-    },
-    {
-        "id": "NF2305151",
-        "date": "2023-05-01",
-        "time": "12:20:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BLOSSOM CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2303249",
-        "date": "2023-05-01",
-        "time": "12:10:34 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TERRACE DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
+        "units": "*>E81"
     },
     {
         "id": "RF2305170",
@@ -74,6 +52,6 @@
         "location": "3750 FLORENCE ST ,RCY",
         "latitude": 37.4783724069055,
         "longitude": -122.186624597453,
-        "units": ">T4 ?TAC15 >T9 CM11X2 >E5"
+        "units": ">E5"
     }
 ]
