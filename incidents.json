@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2305522",
+        "date": "2023-04-30",
+        "time": "10:34:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "1757 KELLY ST ,SMO",
+        "latitude": 37.5649732757701,
+        "longitude": -122.291353562498,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2305154",
+        "date": "2023-04-30",
+        "time": "10:33:39 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHASTA ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "MF2304152",
         "date": "2023-04-30",
         "time": "10:25:06 PM",
@@ -8,7 +30,7 @@
         "location": "LINCOLN ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
+        "units": ">E2"
     },
     {
         "id": "BF2301706",
@@ -20,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E51"
-    },
-    {
-        "id": "MF2304151",
-        "date": "2023-04-30",
-        "time": "10:10:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "5TH AVE / EL CAMINO REAL",
-        "latitude": 37.4671874030112,
-        "longitude": -122.209013468662,
-        "units": ""
-    },
-    {
-        "id": "CF2303234",
-        "date": "2023-04-30",
-        "time": "10:07:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "OLD BAYSHORE HWY / BROADWAY OFF RAMP",
-        "latitude": 37.5919284689891,
-        "longitude": -122.362628636071,
-        "units": ">E24 >T34 CM21X5 >BC8 ?TAC26"
-    },
-    {
-        "id": "MF2304150",
-        "date": "2023-04-30",
-        "time": "9:59:18 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #39 ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
     }
 ]
