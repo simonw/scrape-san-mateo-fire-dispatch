@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2305151",
+        "date": "2023-05-01",
+        "time": "12:20:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BLOSSOM CT ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "CF2303249",
+        "date": "2023-05-01",
+        "time": "12:10:34 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TERRACE DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
         "id": "SF2305542",
         "date": "2023-05-01",
         "time": "12:00:58 PM",
@@ -8,62 +30,7 @@
         "location": "SOLANA DR ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "FF2302686",
-        "date": "2023-05-01",
-        "time": "12:00:25 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BADEN AVE #1 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "MF2304168",
-        "date": "2023-05-01",
-        "time": "11:59:21 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "SF2305541",
-        "date": "2023-05-01",
-        "time": "11:56:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1221 CHESS DR ,FCY",
-        "latitude": 37.5622080641952,
-        "longitude": -122.276994283274,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2305540",
-        "date": "2023-05-01",
-        "time": "11:53:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #404 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "SF2305539",
-        "date": "2023-05-01",
-        "time": "11:47:08 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1317 NEWBRIDGE AVE ,SMO",
-        "latitude": 37.567818816615,
-        "longitude": -122.308594007648,
-        "units": "E21"
+        "units": ">E15"
     },
     {
         "id": "RF2305170",
@@ -74,6 +41,6 @@
         "location": "3750 FLORENCE ST ,RCY",
         "latitude": 37.4783724069055,
         "longitude": -122.186624597453,
-        "units": "T9 >PR3A >PR3 >T4 >BC3>E9 >E77 >E5 CM11X2 ?TAC15"
+        "units": ">PR3A >T4 ?TAC15 >T9 CM11X2>BC3 >PR3 >E5"
     }
 ]
