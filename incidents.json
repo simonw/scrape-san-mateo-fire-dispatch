@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2303231",
+        "id": "NF2305122",
         "date": "2023-04-30",
-        "time": "7:39:00 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "1051 BROADWAY ,MLB",
-        "latitude": 37.6056756048456,
-        "longitude": -122.398449904762,
-        "units": ">E37"
+        "time": "8:03:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARK PLAZA DR #16 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "NF2305121",
+        "date": "2023-04-30",
+        "time": "7:52:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2305152",
+        "date": "2023-04-30",
+        "time": "7:47:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CEDAR ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "SF2305515",
@@ -19,18 +41,7 @@
         "location": "815 SEA SPRAY LN #315 ,FCY",
         "latitude": 37.5532496623897,
         "longitude": -122.281214205949,
-        "units": ">E26 BC11 TAC26 T23 CM21X1"
-    },
-    {
-        "id": "CF2303230",
-        "date": "2023-04-30",
-        "time": "7:29:22 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "CM21X1 >T23 >E26 TAC26"
     },
     {
         "id": "SF2305514",
@@ -41,28 +52,6 @@
         "location": "4100 E 3RD AVE ,FCY",
         "latitude": 37.5718308352563,
         "longitude": -122.265852390068,
-        "units": ">E24 ?BOAT14 >JS28 >BC5 TAC25>E28 BOAT9 CM51X2"
-    },
-    {
-        "id": "RF2305151",
-        "date": "2023-04-30",
-        "time": "7:14:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BELLE AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2304148",
-        "date": "2023-04-30",
-        "time": "6:54:20 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SANTA CRUZ AVE ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "BOAT9 >JS28 >BC5 CM51X2 TAC25BOAT14 >E28 >E24"
     }
 ]
