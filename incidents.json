@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2305521",
+        "date": "2023-04-30",
+        "time": "10:05:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "E 5TH AVE / S EL CAMINO REAL",
+        "latitude": 37.5616454404632,
+        "longitude": -122.324479485703,
+        "units": "CM21X3 T21 E21 ?TAC25 ?BC5"
+    },
+    {
+        "id": "MF2304150",
+        "date": "2023-04-30",
+        "time": "9:59:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD #39 ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
         "id": "SF2305520",
         "date": "2023-04-30",
         "time": "9:39:43 PM",
@@ -8,39 +30,6 @@
         "location": "OVERLAND DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
-    },
-    {
-        "id": "SF2305519",
-        "date": "2023-04-30",
-        "time": "9:38:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ACADEMY AVE #3 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "FF2302679",
-        "date": "2023-04-30",
-        "time": "9:37:41 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ELKWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "NF2305129",
-        "date": "2023-04-30",
-        "time": "9:17:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BAY RIDGE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
+        "units": ">E27"
     }
 ]
