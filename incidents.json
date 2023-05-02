@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2301728",
+        "date": "2023-05-02",
+        "time": "1:22:17 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "850 CHERRY AVE ,SNB",
+        "latitude": 37.6269945030683,
+        "longitude": -122.424171869514,
+        "units": "E52 E51 ?TAC35 ?CM31X1 ?BC16?E38 ?T51"
+    },
+    {
+        "id": "NF2305203",
+        "date": "2023-05-02",
+        "time": "1:20:25 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GATEWAY DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "NF2305202",
+        "date": "2023-05-02",
+        "time": "1:16:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CAMPUS DR #111 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "DF2301148",
         "date": "2023-05-02",
         "time": "1:02:53 PM",
@@ -11,17 +44,6 @@
         "units": ">E18"
     },
     {
-        "id": "RF2305200",
-        "date": "2023-05-02",
-        "time": "12:58:21 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #6 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "T9"
-    },
-    {
         "id": "RF2305199",
         "date": "2023-05-02",
         "time": "12:55:12 PM",
@@ -31,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "FF2302708",
-        "date": "2023-05-02",
-        "time": "12:42:06 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD #227 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2305198",
-        "date": "2023-05-02",
-        "time": "12:41:25 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAKSIDE AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
     }
 ]
