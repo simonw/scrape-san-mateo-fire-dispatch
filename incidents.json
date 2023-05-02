@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2305207",
+        "date": "2023-05-02",
+        "time": "3:24:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELIZABETH ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "FF2302710",
+        "date": "2023-05-02",
+        "time": "3:19:15 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALIDA WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
+        "id": "RF2305206",
+        "date": "2023-05-02",
+        "time": "3:16:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2305583",
+        "date": "2023-05-02",
+        "time": "3:13:10 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "BF2301729",
+        "date": "2023-05-02",
+        "time": "3:10:05 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SNEATH LN / SKYLINE BLVD",
+        "latitude": 37.6243541224022,
+        "longitude": -122.447243311469,
+        "units": ">E52"
+    },
+    {
         "id": "RF2305205",
         "date": "2023-05-02",
         "time": "3:00:19 PM",
@@ -8,61 +63,6 @@
         "location": "1235 RUBY ST ,RCY",
         "latitude": 37.4659261464045,
         "longitude": -122.236929798699,
-        "units": "E12"
-    },
-    {
-        "id": "MF2304197",
-        "date": "2023-05-02",
-        "time": "2:55:36 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "CF2303275",
-        "date": "2023-05-02",
-        "time": "2:50:16 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "1 OLD BAYSHORE HWY ,MLB",
-        "latitude": 37.603672150367,
-        "longitude": -122.376253250447,
-        "units": ">BC8 CM21X4 >T34 ?TAC25 >E35"
-    },
-    {
-        "id": "SF2305582",
-        "date": "2023-05-02",
-        "time": "2:47:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #172 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "HF2301343",
-        "date": "2023-05-02",
-        "time": "2:39:41 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JENNA LN ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "DF2301149",
-        "date": "2023-05-02",
-        "time": "2:32:06 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SB 1 / SO TUNNEL",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM41X1 >E44 >CH10A"
+        "units": ">E12"
     }
 ]
