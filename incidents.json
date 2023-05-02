@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2305585",
+        "date": "2023-05-02",
+        "time": "3:42:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E HILLSDALE BLVD ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "RF2305208",
+        "date": "2023-05-02",
+        "time": "3:31:12 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TRAIN TRACK ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "FF2302711",
+        "date": "2023-05-02",
+        "time": "3:31:11 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1050 MISSION RD ,SSF",
+        "latitude": 37.6591214749934,
+        "longitude": -122.435330747519,
+        "units": ">E61"
+    },
+    {
         "id": "RF2305207",
         "date": "2023-05-02",
         "time": "3:24:02 PM",
@@ -8,7 +41,7 @@
         "location": "ELIZABETH ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": ">E13"
     },
     {
         "id": "FF2302710",
@@ -16,10 +49,10 @@
         "time": "3:19:15 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "ALIDA WAY ,SSF",
+        "location": "ALIDA WAY #301 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "RF2305206",
@@ -31,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "SF2305583",
-        "date": "2023-05-02",
-        "time": "3:13:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "BF2301729",
-        "date": "2023-05-02",
-        "time": "3:10:05 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SNEATH LN / SKYLINE BLVD",
-        "latitude": 37.6243541224022,
-        "longitude": -122.447243311469,
-        "units": ">E52"
-    },
-    {
-        "id": "RF2305205",
-        "date": "2023-05-02",
-        "time": "3:00:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Lock out - vehicle",
-        "location": "1235 RUBY ST ,RCY",
-        "latitude": 37.4659261464045,
-        "longitude": -122.236929798699,
-        "units": ">E12"
     }
 ]
