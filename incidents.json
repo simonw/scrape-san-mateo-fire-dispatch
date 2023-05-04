@@ -1,69 +1,69 @@
 [
     {
-        "id": "MF2304232",
+        "id": "FF2302739",
         "date": "2023-05-03",
-        "time": "6:44:24 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "7:16:16 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "BAY RD ,EPA",
+        "location": "CALLAN BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "E64"
     },
     {
-        "id": "SF2305642",
+        "id": "RF2305247",
         "date": "2023-05-03",
-        "time": "6:44:02 PM",
+        "time": "7:11:56 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "RF2305246",
+        "date": "2023-05-03",
+        "time": "7:05:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "201 MARSHALL ST ,RCY",
+        "latitude": 37.4871320116755,
+        "longitude": -122.23249084383,
+        "units": "CM11X4 >E9 ?TAC15 >T9 >E13>BC3 >E10"
+    },
+    {
+        "id": "SF2305643",
+        "date": "2023-05-03",
+        "time": "7:04:23 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALM AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
+        "category": "Lock out - residential",
+        "location": "12 KIMMIE CT ,BLM",
+        "latitude": 37.5130149742881,
+        "longitude": -122.296574115681,
+        "units": ">E15"
     },
     {
-        "id": "NF2305256",
+        "id": "NF2305257",
         "date": "2023-05-03",
-        "time": "6:41:18 PM",
+        "time": "7:01:57 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IDLEWILD CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
+        "category": "Traffic accident pd request c3",
+        "location": "SHARP PARK RD ON RAMP / NB 1",
+        "latitude": 37.6262198951362,
+        "longitude": -122.487781009055,
+        "units": ""
     },
     {
-        "id": "RF2305244",
+        "id": "WF2300891",
         "date": "2023-05-03",
-        "time": "6:35:37 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "INVERNESS DR ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "RF2305243",
-        "date": "2023-05-03",
-        "time": "6:30:50 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "850 JEFFERSON AVE ,RCY",
-        "latitude": 37.4857676985872,
-        "longitude": -122.228701783093,
-        "units": ">E12"
-    },
-    {
-        "id": "CF2303300",
-        "date": "2023-05-03",
-        "time": "6:28:28 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "time": "6:59:40 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "OLD LA HONDA RD / PORTOLA RD",
+        "latitude": 37.3958205280036,
+        "longitude": -122.246447114409,
+        "units": ">E7"
     },
     {
         "id": "NF2305253",
@@ -75,38 +75,5 @@
         "latitude": 37.6996640847121,
         "longitude": -122.489882897079,
         "units": ">E91"
-    },
-    {
-        "id": "LF2300481",
-        "date": "2023-05-03",
-        "time": "6:25:45 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MADDUX DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "DF2301165",
-        "date": "2023-05-03",
-        "time": "6:25:36 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EDMONDS RD ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "SF2305641",
-        "date": "2023-05-03",
-        "time": "6:08:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Lock out - residential",
-        "location": "1081 BEACH PARK BLVD #303 ,FCY",
-        "latitude": 37.5515620832541,
-        "longitude": -122.253696539843,
-        "units": "CM21X5 >E28 >T23"
     }
 ]
