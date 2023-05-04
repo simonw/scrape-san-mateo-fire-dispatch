@@ -1,5 +1,27 @@
 [
     {
+        "id": "WF2300896",
+        "date": "2023-05-04",
+        "time": "12:22:12 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "2965 WOODSIDE RD ,WDS",
+        "latitude": 37.4288668199176,
+        "longitude": -122.251012907646,
+        "units": "E7"
+    },
+    {
+        "id": "RF2305265",
+        "date": "2023-05-04",
+        "time": "12:11:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "INDUSTRIAL RD #G ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
         "id": "NF2305283",
         "date": "2023-05-04",
         "time": "12:03:54 PM",
@@ -8,29 +30,7 @@
         "location": "ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
-    },
-    {
-        "id": "MF2304250",
-        "date": "2023-05-04",
-        "time": "11:51:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "1667 WOODSIDE RD ,WSB",
-        "latitude": 37.455355775386,
-        "longitude": -122.228010806894,
-        "units": "T4 CM11X1 >E4"
-    },
-    {
-        "id": "SF2305666",
-        "date": "2023-05-04",
-        "time": "11:45:32 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "461 RALSTON AVE ,BLM",
-        "latitude": 37.5228516226466,
-        "longitude": -122.272713954501,
-        "units": ">E14"
+        "units": ">E93"
     },
     {
         "id": "RF2305263",
@@ -41,6 +41,6 @@
         "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9 >T9"
+        "units": "E9"
     }
 ]
