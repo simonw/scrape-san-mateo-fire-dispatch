@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2305645",
+        "id": "MF2304234",
         "date": "2023-05-03",
-        "time": "7:56:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:23:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "S NORFOLK ST #220 ,SMO",
+        "location": "BAY RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": "E2"
+    },
+    {
+        "id": "RF2305248",
+        "date": "2023-05-03",
+        "time": "8:17:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAGNOLIA AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2305646",
+        "date": "2023-05-03",
+        "time": "8:10:39 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / WB 92 ON RAMP",
+        "latitude": 37.5500237547677,
+        "longitude": -122.292843381049,
+        "units": ">E26 >E29 >BC5 E24 T23?TAC25 ?CM21X3"
+    },
+    {
+        "id": "NF2305260",
+        "date": "2023-05-03",
+        "time": "8:08:15 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "BELHAVEN AVE / LAKESHIRE DR",
+        "latitude": 37.674012643551,
+        "longitude": -122.483369720729,
+        "units": ""
+    },
+    {
+        "id": "MF2304233",
+        "date": "2023-05-03",
+        "time": "8:02:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "1860 OAKDELL DR ,MNP",
+        "latitude": 37.433015747949,
+        "longitude": -122.193673686266,
+        "units": ">T4 ?TAC15 CM11X3 >E4"
     },
     {
         "id": "HF2301355",
@@ -20,27 +64,5 @@
         "latitude": 37.5242304758887,
         "longitude": -122.504120369018,
         "units": ">E44"
-    },
-    {
-        "id": "NF2305259",
-        "date": "2023-05-03",
-        "time": "7:49:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GOODMAN RD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "HF2301354",
-        "date": "2023-05-03",
-        "time": "7:38:12 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN CARLOS AVE ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E41"
     }
 ]
