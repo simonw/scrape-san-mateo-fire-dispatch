@@ -1,14 +1,58 @@
 [
     {
-        "id": "CF2303302",
+        "id": "LF2300482",
         "date": "2023-05-03",
-        "time": "9:19:02 PM",
+        "time": "9:43:39 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MACARTHUR DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E86"
+    },
+    {
+        "id": "NF2305262",
+        "date": "2023-05-03",
+        "time": "9:41:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 1 / NO MANOR DR",
+        "latitude": 37.6578989851063,
+        "longitude": -122.487262663423,
+        "units": "E71 BC120 T95 E95 TAC35CM31X4"
+    },
+    {
+        "id": "CF2303303",
+        "date": "2023-05-03",
+        "time": "9:35:08 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "BROADWAY #1012 ,MLB",
+        "location": "MATEO AVE #22A ,MLB",
         "latitude": null,
         "longitude": null,
         "units": ">E37"
+    },
+    {
+        "id": "BF2301749",
+        "date": "2023-05-03",
+        "time": "9:33:59 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINDEN AVE #4 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "FF2302742",
+        "date": "2023-05-03",
+        "time": "9:27:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Pole fire",
+        "location": "MISSION RD / OAK AVE",
+        "latitude": 37.6576073928482,
+        "longitude": -122.434358445673,
+        "units": ">E63"
     },
     {
         "id": "RF2305249",
@@ -20,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E20"
-    },
-    {
-        "id": "NF2305261",
-        "date": "2023-05-03",
-        "time": "9:16:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "338 ARDENDALE DR ,DCY",
-        "latitude": 37.7056782042887,
-        "longitude": -122.437600717453,
-        "units": "E92"
-    },
-    {
-        "id": "FF2302741",
-        "date": "2023-05-03",
-        "time": "9:05:18 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ROCCA AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "SF2305647",
-        "date": "2023-05-03",
-        "time": "8:57:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "766 BOUNTY DR ,FCY",
-        "latitude": 37.5567856495588,
-        "longitude": -122.264046572791,
-        "units": ">E28"
     }
 ]
