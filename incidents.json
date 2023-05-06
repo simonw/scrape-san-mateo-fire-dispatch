@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2304297",
+        "id": "SF2305729",
         "date": "2023-05-06",
-        "time": "11:04:34 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:25:10 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "UNIVERSITY AVE #515 ,EPA",
+        "location": "CARLMONT DR #310C ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
+        "units": "?E15"
+    },
+    {
+        "id": "NF2305369",
+        "date": "2023-05-06",
+        "time": "11:19:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "361 ACCACIA ST ,DCY",
+        "latitude": 37.7021855182872,
+        "longitude": -122.416696769992,
+        "units": ">E93"
+    },
+    {
+        "id": "BF2301777",
+        "date": "2023-05-06",
+        "time": "11:07:59 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BENNINGTON DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "SF2305728",
@@ -19,18 +41,7 @@
         "location": "705 BARNESON AVE ,SMO",
         "latitude": 37.5447937361059,
         "longitude": -122.328844966139,
-        "units": "E21"
-    },
-    {
-        "id": "NF2305368",
-        "date": "2023-05-06",
-        "time": "10:56:16 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #309 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">E21"
     },
     {
         "id": "DF2301180",
@@ -41,40 +52,7 @@
         "location": "NB 280 / ALPINE RD ON RAMP",
         "latitude": 37.4106326985431,
         "longitude": -122.199078515668,
-        "units": ">SQ407 >T4 >BC2 E8 ?TAC15?CM11X5"
-    },
-    {
-        "id": "FF2302792",
-        "date": "2023-05-06",
-        "time": "10:50:53 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "RF2305336",
-        "date": "2023-05-06",
-        "time": "10:48:07 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "2053 E BAYSHORE RD ,RCY",
-        "latitude": 37.4877869369454,
-        "longitude": -122.201033076977,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2304296",
-        "date": "2023-05-06",
-        "time": "10:46:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #307 ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E7"
+        "units": "?TAC15 >E7 >BC2 ?CM11X5 >SQ407"
     },
     {
         "id": "SF2305727",
