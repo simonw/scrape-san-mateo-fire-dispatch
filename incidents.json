@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2305386",
+        "id": "NF2305387",
         "date": "2023-05-06",
-        "time": "8:42:42 PM",
+        "time": "8:49:16 PM",
         "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "KING DR / GELLERT BLVD",
+        "latitude": 37.6505693434561,
+        "longitude": -122.455651185106,
+        "units": "?TAC35 >T51 >E64 ?CM31X4"
+    },
+    {
+        "id": "CF2303373",
+        "date": "2023-05-06",
+        "time": "8:48:07 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "LOS OLIVOS AVE ,DCY",
+        "location": "TROUSDALE DR #160 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
+        "units": ">E34"
     },
     {
         "id": "LF2300487",
@@ -19,18 +30,7 @@
         "location": "MISSION RD #306 ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "BF2301781",
-        "date": "2023-05-06",
-        "time": "8:31:07 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "3300 COLLEGE DR ,SNB",
-        "latitude": 37.6297229529346,
-        "longitude": -122.466494512477,
-        "units": ">E52"
+        "units": "E86"
     },
     {
         "id": "RF2305351",
@@ -41,6 +41,6 @@
         "location": "KEELSON CIR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E20"
+        "units": "E20"
     }
 ]
