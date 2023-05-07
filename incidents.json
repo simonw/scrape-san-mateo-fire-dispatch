@@ -1,25 +1,36 @@
 [
     {
-        "id": "CF2303382",
+        "id": "CF2303384",
         "date": "2023-05-07",
-        "time": "9:41:10 AM",
+        "time": "10:03:50 AM",
         "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "161 N ROLLINS RD ,MLB",
-        "latitude": 37.6014827797597,
-        "longitude": -122.38467417021,
-        "units": "E37"
-    },
-    {
-        "id": "SF2305757",
-        "date": "2023-05-07",
-        "time": "9:36:29 AM",
-        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MONTEREY ST ,SMO",
+        "location": "TROUSDALE DR #1062A ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
+        "units": "?E34"
+    },
+    {
+        "id": "RF2305369",
+        "date": "2023-05-07",
+        "time": "10:01:21 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "5 CLINTON CT ,RCY",
+        "latitude": 37.4786139797679,
+        "longitude": -122.230617813676,
+        "units": "E10"
+    },
+    {
+        "id": "CF2303383",
+        "date": "2023-05-07",
+        "time": "9:52:52 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #2201 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     },
     {
         "id": "NF2305409",
@@ -30,29 +41,7 @@
         "location": "BELCREST AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "WF2300908",
-        "date": "2023-05-07",
-        "time": "9:09:09 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SUMMIT SPRINGS RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
-    },
-    {
-        "id": "NF2305407",
-        "date": "2023-05-07",
-        "time": "9:04:18 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "1339 SOLANO DR ,PCF",
-        "latitude": 37.5838948972345,
-        "longitude": -122.489171030679,
-        "units": ">E72"
+        "units": "E94"
     },
     {
         "id": "DF2301184",
@@ -63,6 +52,6 @@
         "location": "EB 92 / WO RALSTON AVE",
         "latitude": 37.5105819265036,
         "longitude": -122.332271179191,
-        "units": ">E17 ?TAC16 CM11X2 >T17 *>BC11"
+        "units": ">E17 ?TAC16 CM11X2 >T17"
     }
 ]
