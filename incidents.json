@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2304320",
+        "date": "2023-05-07",
+        "time": "9:17:49 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "ILLINOIS ST / PURDUE AVE",
+        "latitude": 37.47766374254,
+        "longitude": -122.135359583303,
+        "units": ">E2"
+    },
+    {
         "id": "HF2301385",
         "date": "2023-05-07",
         "time": "9:05:03 PM",
@@ -8,29 +19,7 @@
         "location": "POPLAR ST / CABRILLO HWY S",
         "latitude": 37.4567052071443,
         "longitude": -122.433335427065,
-        "units": "?TAC45 ?CM41X2 ?BC10 ?E41 ?E40"
-    },
-    {
-        "id": "RF2305385",
-        "date": "2023-05-07",
-        "time": "8:59:37 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "750 EDGEWOOD RD ,RCY",
-        "latitude": 37.4868951009146,
-        "longitude": -122.249397206652,
-        "units": "E10"
-    },
-    {
-        "id": "FF2302827",
-        "date": "2023-05-07",
-        "time": "8:54:02 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": "*>E41 >BC10 >E40 TAC45 ?CM41X2"
     },
     {
         "id": "NF2305427",
@@ -53,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E21"
-    },
-    {
-        "id": "NF2305426",
-        "date": "2023-05-07",
-        "time": "8:29:43 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMERON LN ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
