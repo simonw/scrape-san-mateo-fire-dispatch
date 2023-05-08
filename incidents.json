@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2301383",
+        "date": "2023-05-07",
+        "time": "7:44:30 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN MATEO RD #32 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "SF2305779",
+        "date": "2023-05-07",
+        "time": "7:43:23 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E25"
+    },
+    {
+        "id": "SF2305778",
+        "date": "2023-05-07",
+        "time": "7:38:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "1038 FOSTER SQUARE LN #204 ,FCY",
+        "latitude": 37.5578187737661,
+        "longitude": -122.268232315806,
+        "units": ">E29"
+    },
+    {
         "id": "SF2305777",
         "date": "2023-05-07",
         "time": "7:34:00 PM",
@@ -8,7 +41,7 @@
         "location": "CARLMONT DR #204B ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "SF2305776",
@@ -19,7 +52,7 @@
         "location": "65 W 5TH AVE ,SMO",
         "latitude": 37.5598507806189,
         "longitude": -122.326129782073,
-        "units": "BC5 E21 T21 ?TAC25 ?CM21X3"
+        "units": "CM21X3 >E21 ?TAC25"
     },
     {
         "id": "FF2302824",
@@ -31,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">Q62"
-    },
-    {
-        "id": "RF2305384",
-        "date": "2023-05-07",
-        "time": "7:25:11 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLEVELAND ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
-    },
-    {
-        "id": "FF2302823",
-        "date": "2023-05-07",
-        "time": "7:18:46 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "NORTHCREST DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
     }
 ]
