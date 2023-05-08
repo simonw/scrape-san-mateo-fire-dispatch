@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2304339",
+        "date": "2023-05-08",
+        "time": "4:34:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD #359 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "RF2305415",
+        "date": "2023-05-08",
+        "time": "4:33:01 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2305453",
+        "date": "2023-05-08",
+        "time": "4:31:00 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "2300 JUNIPERO SERRA BLVD ,DCY",
+        "latitude": 37.6954042659689,
+        "longitude": -122.472366242069,
+        "units": ">E92"
+    },
+    {
         "id": "RF2305414",
         "date": "2023-05-08",
         "time": "4:10:43 PM",
@@ -8,29 +41,7 @@
         "location": "1250 SAN CARLOS AVE ,SNC",
         "latitude": 37.5064407596381,
         "longitude": -122.261989736853,
-        "units": "CM11X5 ?T9 >E16"
-    },
-    {
-        "id": "NF2305452",
-        "date": "2023-05-08",
-        "time": "4:00:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CITRUS AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2303408",
-        "date": "2023-05-08",
-        "time": "3:59:30 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "1656 SKYLINE BLVD ,BRM",
-        "latitude": 37.5776776546794,
-        "longitude": -122.399006330847,
-        "units": ">E38"
+        "units": ">T9 TAC15 CM11X5 >E16"
     },
     {
         "id": "CF2303407",
@@ -41,6 +52,6 @@
         "location": "BAYBERRY PL ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E33"
+        "units": ""
     }
 ]
