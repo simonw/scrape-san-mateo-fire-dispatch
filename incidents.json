@@ -1,5 +1,60 @@
 [
     {
+        "id": "HF2301399",
+        "date": "2023-05-09",
+        "time": "10:00:05 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Gas main break",
+        "location": "615 CORONADO ST ,ELG",
+        "latitude": 37.5010338761779,
+        "longitude": -122.466603022744,
+        "units": "E40 E72 E44 BC10 CM41X5?TAC45 ?E41"
+    },
+    {
+        "id": "MF2304354",
+        "date": "2023-05-09",
+        "time": "9:59:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2 E77 CM11X5"
+    },
+    {
+        "id": "FF2302849",
+        "date": "2023-05-09",
+        "time": "9:52:26 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "WEXFORD AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "NF2305480",
+        "date": "2023-05-09",
+        "time": "9:52:14 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "E MARKET ST #248 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "LF2300496",
+        "date": "2023-05-09",
+        "time": "9:44:44 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Public assist",
+        "location": "700 STEWART AVE ,BRD",
+        "latitude": 37.6949814191804,
+        "longitude": -122.482660341816,
+        "units": ">E86 >MED19"
+    },
+    {
         "id": "SF2305839",
         "date": "2023-05-09",
         "time": "9:43:09 AM",
@@ -8,29 +63,7 @@
         "location": "NOTRE DAME AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E14"
-    },
-    {
-        "id": "NF2305479",
-        "date": "2023-05-09",
-        "time": "9:32:11 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PARK PLAZA DR #16 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "MF2304353",
-        "date": "2023-05-09",
-        "time": "9:22:53 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E14"
     },
     {
         "id": "MF2304352",
@@ -41,28 +74,6 @@
         "location": "210 OAK GROVE AVE ,MNP",
         "latitude": 37.4609233570848,
         "longitude": -122.180358167806,
-        "units": ">E3 TAC15 CM11X1 >SQ401"
-    },
-    {
-        "id": "RF2305435",
-        "date": "2023-05-09",
-        "time": "9:14:42 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRESTVIEW DR ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "DF2301192",
-        "date": "2023-05-09",
-        "time": "9:08:04 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EDMONDS RD ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E19"
+        "units": ">E3 TAC15 CM11X1 >T4 >SQ401"
     }
 ]
