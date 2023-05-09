@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2305835",
+        "date": "2023-05-09",
+        "time": "8:23:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "950 MONTE DIABLO AVE ,SMO",
+        "latitude": 37.5745329930458,
+        "longitude": -122.322248141966,
+        "units": "?E24"
+    },
+    {
+        "id": "HF2301396",
+        "date": "2023-05-09",
+        "time": "8:16:34 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "686 OCEAN BLVD ,MBH",
+        "latitude": 37.5169564250569,
+        "longitude": -122.512626016991,
+        "units": ">E44"
+    },
+    {
+        "id": "MF2304350",
+        "date": "2023-05-09",
+        "time": "8:12:11 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #205C ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "RF2305431",
         "date": "2023-05-09",
         "time": "8:02:16 AM",
@@ -8,17 +41,6 @@
         "location": "SB 101 / NO MARSH RD",
         "latitude": 37.4859579510142,
         "longitude": -122.193590413825,
-        "units": "E9 BC3 E77 T9 CM11X4?TAC15"
-    },
-    {
-        "id": "RF2305430",
-        "date": "2023-05-09",
-        "time": "8:00:44 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "445 INDUSTRIAL RD ,SNC",
-        "latitude": 37.5126241063162,
-        "longitude": -122.258321988806,
-        "units": "E13"
+        "units": ">E9 >T9 CM11X4 ?TAC15"
     }
 ]
