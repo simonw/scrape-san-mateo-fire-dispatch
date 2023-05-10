@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2305872",
+        "id": "RF2305452",
         "date": "2023-05-09",
-        "time": "9:04:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:22:11 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "E HILLSDALE BLVD ,FCY",
+        "location": "AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E11"
+    },
+    {
+        "id": "BF2301810",
+        "date": "2023-05-09",
+        "time": "9:21:16 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Trash fire",
+        "location": "PACIFIC HEIGHTS BLVD / COLBY WAY",
+        "latitude": 37.6326557327765,
+        "longitude": -122.467048678293,
+        "units": "E52"
     },
     {
         "id": "RF2305451",
@@ -19,18 +30,7 @@
         "location": "HARRISON AVE #8 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "SF2305871",
-        "date": "2023-05-09",
-        "time": "9:00:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL / 15TH AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": "E25"
+        "units": ">E10"
     },
     {
         "id": "FF2302864",
@@ -42,27 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E63"
-    },
-    {
-        "id": "CF2303438",
-        "date": "2023-05-09",
-        "time": "8:50:46 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2305510",
-        "date": "2023-05-09",
-        "time": "8:41:32 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / JOHN DALY BLVD OFF RAMP",
-        "latitude": 37.708197492076,
-        "longitude": -122.469050975611,
-        "units": ">E92 >BC20"
     }
 ]
