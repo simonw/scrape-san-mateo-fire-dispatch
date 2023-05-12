@@ -1,25 +1,47 @@
 [
     {
-        "id": "SF2305971",
+        "id": "MF2304436",
         "date": "2023-05-12",
-        "time": "10:36:23 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:04:07 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "E 3RD AVE ,SMO",
+        "location": "MIDDLEFIELD RD ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": "E5"
     },
     {
-        "id": "SF2305970",
+        "id": "SF2305972",
         "date": "2023-05-12",
-        "time": "10:31:59 AM",
+        "time": "10:54:47 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "LAUREL AVE #412 ,SMO",
+        "location": "KEHOE AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": ">E26 >BC5 CM21X1"
+    },
+    {
+        "id": "RF2305534",
+        "date": "2023-05-12",
+        "time": "10:51:56 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VERA AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "CF2303493",
+        "date": "2023-05-12",
+        "time": "10:49:32 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TIPTOE LN ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
     },
     {
         "id": "HF2301417",
@@ -30,39 +52,6 @@
         "location": "2205 CARLOS ST ,MBH",
         "latitude": 37.5297780114814,
         "longitude": -122.514810814738,
-        "units": ">E40 >BC10 >E41 >E44 CM41X4?TAC45"
-    },
-    {
-        "id": "RF2305532",
-        "date": "2023-05-12",
-        "time": "10:30:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2304434",
-        "date": "2023-05-12",
-        "time": "10:25:57 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #150 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ401"
-    },
-    {
-        "id": "CF2303491",
-        "date": "2023-05-12",
-        "time": "10:16:07 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "860 HINCKLEY RD ,BRM",
-        "latitude": 37.5978161309509,
-        "longitude": -122.369321690281,
-        "units": ""
+        "units": "?TAC45 >E44 >E41 >BC10 CM41X4"
     }
 ]
