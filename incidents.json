@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2305535",
+        "date": "2023-05-12",
+        "time": "11:17:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1050 TWIN DOLPHIN DR ,RWS",
+        "latitude": 37.5190788543549,
+        "longitude": -122.248417920691,
+        "units": ">E13"
+    },
+    {
+        "id": "MF2304437",
+        "date": "2023-05-12",
+        "time": "11:07:28 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAMILTON CT ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
         "id": "MF2304436",
         "date": "2023-05-12",
         "time": "11:04:07 AM",
@@ -8,7 +30,7 @@
         "location": "MIDDLEFIELD RD ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": ">E5"
     },
     {
         "id": "SF2305972",
@@ -19,29 +41,7 @@
         "location": "KEHOE AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26 >BC5 CM21X1"
-    },
-    {
-        "id": "RF2305534",
-        "date": "2023-05-12",
-        "time": "10:51:56 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VERA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "CF2303493",
-        "date": "2023-05-12",
-        "time": "10:49:32 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TIPTOE LN ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
+        "units": ">BC5 CM21X1 >E26"
     },
     {
         "id": "HF2301417",
@@ -52,6 +52,6 @@
         "location": "2205 CARLOS ST ,MBH",
         "latitude": 37.5297780114814,
         "longitude": -122.514810814738,
-        "units": "?TAC45 >E44 >E41 >BC10 CM41X4"
+        "units": "*>E44"
     }
 ]
