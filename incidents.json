@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2304418",
+        "id": "NF2305562",
         "date": "2023-05-11",
-        "time": "8:05:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:15:41 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "OAKWOOD DR ,EPA",
+        "location": "MANOR PLZ ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E71"
+    },
+    {
+        "id": "RF2305517",
+        "date": "2023-05-11",
+        "time": "8:11:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Structure fire - working",
+        "location": "627 MYRTLE ST ,RCY",
+        "latitude": 37.4745162147197,
+        "longitude": -122.238384426731,
+        "units": ">E3 ?TAC15 ?RCFINV >E9 >T9>BC2 >BC3 >CM11X5 >E11 >E10"
     },
     {
         "id": "MF2304417",
@@ -19,7 +30,7 @@
         "location": "SEVIER AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": "E77"
     },
     {
         "id": "CF2303482",
@@ -41,6 +52,6 @@
         "location": "SAN GREGORIO BEACH RD ,SNG",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 >E40 >BC15 >E59"
+        "units": ">E59"
     }
 ]
