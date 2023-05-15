@@ -1,14 +1,69 @@
 [
     {
-        "id": "NF2305690",
+        "id": "CF2303578",
         "date": "2023-05-15",
-        "time": "3:02:26 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "3:23:28 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "835 AIRPORT BLVD ,BRM",
+        "latitude": 37.5906488666974,
+        "longitude": -122.350942454073,
+        "units": "E35 CM21X3 ?TAC25 ?BC8 ?E38?E34 ?T34"
+    },
+    {
+        "id": "HF2301444",
+        "date": "2023-05-15",
+        "time": "3:19:36 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "W MOLTKE ST ,DCY",
+        "location": "MIRAMONTES AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
+        "units": ">E40"
+    },
+    {
+        "id": "RF2305640",
+        "date": "2023-05-15",
+        "time": "3:17:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROOSEVELT AVE / EL CAMINO REAL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "BF2301885",
+        "date": "2023-05-15",
+        "time": "3:17:27 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CASTLETON WAY ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "DF2301226",
+        "date": "2023-05-15",
+        "time": "3:17:13 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LA HONDA RD ,SNG",
+        "latitude": null,
+        "longitude": null,
+        "units": "?VFIR22 E59 R57"
+    },
+    {
+        "id": "WF2300947",
+        "date": "2023-05-15",
+        "time": "3:15:24 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CANADA RD / JEFFERSON AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E7"
     },
     {
         "id": "SF2306122",
@@ -19,40 +74,7 @@
         "location": "WINWAY ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "RF2305639",
-        "date": "2023-05-15",
-        "time": "2:54:35 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "CONVENTION WAY / VETERANS BLVD",
-        "latitude": 37.4936219129902,
-        "longitude": -122.233307011476,
-        "units": "?TAC15 CM11X4 >E13 >BC3"
-    },
-    {
-        "id": "MF2304540",
-        "date": "2023-05-15",
-        "time": "2:53:58 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD #361 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2305689",
-        "date": "2023-05-15",
-        "time": "2:53:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALOMA AVE / BEACH BLVD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">E23"
     },
     {
         "id": "SF2306121",
@@ -63,6 +85,6 @@
         "location": "N SAN MATEO DR #1 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E32"
+        "units": "E32"
     }
 ]
