@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2304519",
+        "date": "2023-05-14",
+        "time": "11:18:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CAMBRIDGE AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2306091",
+        "date": "2023-05-14",
+        "time": "11:17:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BISCAYNE AVE ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "SF2306090",
+        "date": "2023-05-14",
+        "time": "11:13:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARLIN AVE ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
         "id": "FF2302960",
         "date": "2023-05-14",
         "time": "11:02:16 PM",
@@ -8,29 +41,7 @@
         "location": "124 SOUTHWOOD CTR ,SSF",
         "latitude": 37.6492130741031,
         "longitude": -122.430985929691,
-        "units": "E51 CM31X3 ?TAC35 ?BC17 ?E61?E63 ?T51"
-    },
-    {
-        "id": "SF2306089",
-        "date": "2023-05-14",
-        "time": "10:55:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "FF2302959",
-        "date": "2023-05-14",
-        "time": "10:45:49 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HEMLOCK AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E63"
     },
     {
         "id": "RF2305618",
@@ -41,18 +52,7 @@
         "location": "SHASTA ST / MANZANITA ST",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "NF2305664",
-        "date": "2023-05-14",
-        "time": "10:43:50 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "245 SKYLINE DR ,DCY",
-        "latitude": 37.6895250087031,
-        "longitude": -122.492152284686,
-        "units": ">E95"
+        "units": "E9"
     },
     {
         "id": "NF2305663",
@@ -63,7 +63,7 @@
         "location": "WESTDALE AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": "E91"
     },
     {
         "id": "HF2301436",
@@ -74,6 +74,6 @@
         "location": "POPLAR ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E41 CM41X1 >E40"
+        "units": "CM41X1 >E41 >E40"
     }
 ]
