@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2303627",
+        "date": "2023-05-17",
+        "time": "3:39:30 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "600 W SANTA INEZ AVE ,HIL",
+        "latitude": 37.5614618568839,
+        "longitude": -122.346614663823,
+        "units": "E32"
+    },
+    {
+        "id": "RF2305718",
+        "date": "2023-05-17",
+        "time": "3:38:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "CF2303626",
         "date": "2023-05-17",
         "time": "3:22:15 PM",
@@ -8,50 +30,6 @@
         "location": "1075 ROLLINS RD ,BRM",
         "latitude": 37.5880517148597,
         "longitude": -122.358686191781,
-        "units": "BC8 E35 E34 T34 E37CM21X2 ?TAC25"
-    },
-    {
-        "id": "WF2300958",
-        "date": "2023-05-17",
-        "time": "3:20:50 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "140 FARM RD ,WDS",
-        "latitude": 37.3868936717283,
-        "longitude": -122.231022187846,
-        "units": "E8"
-    },
-    {
-        "id": "NF2305766",
-        "date": "2023-05-17",
-        "time": "3:13:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM31X1 >E92 >BC20 ?TAC36"
-    },
-    {
-        "id": "CF2303625",
-        "date": "2023-05-17",
-        "time": "3:08:00 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #3 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "BF2301910",
-        "date": "2023-05-17",
-        "time": "3:05:56 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "WHITMAN WAY / MARKHAM AVE",
-        "latitude": 37.6177787629083,
-        "longitude": -122.430519216577,
-        "units": ">T51"
+        "units": ">BC8 >E35 >E37 >T34 >E34CM21X2 ?TAC25"
     }
 ]
