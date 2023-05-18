@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2303650",
+        "date": "2023-05-18",
+        "time": "1:40:00 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "35 TERRIER PL ,HIL",
+        "latitude": 37.5420065704866,
+        "longitude": -122.35646121268,
+        "units": "?E33"
+    },
+    {
+        "id": "WF2300963",
+        "date": "2023-05-18",
+        "time": "1:35:59 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "4420 ALPINE RD ,PVY",
+        "latitude": 37.3728213717062,
+        "longitude": -122.207211917233,
+        "units": "E19"
+    },
+    {
+        "id": "WF2300962",
+        "date": "2023-05-18",
+        "time": "1:33:46 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "501 PORTOLA RD ,PVY",
+        "latitude": 37.3724798871499,
+        "longitude": -122.22117470823,
+        "units": "?TAC16 CM11X5 *>E8"
+    },
+    {
         "id": "DF2301242",
         "date": "2023-05-18",
         "time": "1:19:34 PM",
@@ -8,7 +41,7 @@
         "location": "PESCADERO CREEK RD / WURR RD",
         "latitude": 37.2767620251854,
         "longitude": -122.287422514422,
-        "units": "E58 E59 BC15 TAC15 ?CO55"
+        "units": ">CO55 TAC15 BC15 >E59"
     },
     {
         "id": "BF2301926",
@@ -22,17 +55,6 @@
         "units": ">E52"
     },
     {
-        "id": "RF2305749",
-        "date": "2023-05-18",
-        "time": "1:06:13 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BREWSTER AVE / BROADWAY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
         "id": "LF2300531",
         "date": "2023-05-18",
         "time": "1:00:50 PM",
@@ -41,6 +63,6 @@
         "location": "JUNIPERO SERRA BLVD ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E86"
+        "units": "E86"
     }
 ]
