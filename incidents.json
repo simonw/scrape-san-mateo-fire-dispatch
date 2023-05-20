@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2304678",
+        "date": "2023-05-20",
+        "time": "4:41:38 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "RF2305828",
+        "date": "2023-05-20",
+        "time": "4:30:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "2018 BREWSTER AVE ,RCY",
+        "latitude": 37.4808534795741,
+        "longitude": -122.244488404376,
+        "units": ">E10"
+    },
+    {
         "id": "SF2306359",
         "date": "2023-05-20",
         "time": "4:23:25 PM",
@@ -8,7 +30,7 @@
         "location": "ALAMEDA DE LAS PULGAS #320 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E14"
     },
     {
         "id": "SF2306358",
@@ -19,7 +41,7 @@
         "location": "HALLMARK DR ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
+        "units": "*>E15"
     },
     {
         "id": "SF2306357",
@@ -31,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "CF2303694",
-        "date": "2023-05-20",
-        "time": "4:06:59 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #110 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "BF2301959",
-        "date": "2023-05-20",
-        "time": "3:49:23 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "2000 CRYSTAL SPRINGS RD ,SNB",
-        "latitude": 37.6064502458462,
-        "longitude": -122.426997019799,
-        "units": ">E51"
     }
 ]
