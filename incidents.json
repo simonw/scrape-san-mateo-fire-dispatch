@@ -1,14 +1,36 @@
 [
     {
-        "id": "FF2303029",
+        "id": "NF2305845",
         "date": "2023-05-19",
-        "time": "7:43:03 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "8:00:36 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "ALIDA WAY #209 ,SSF",
+        "location": "W MOLTKE ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E92"
+    },
+    {
+        "id": "CF2303680",
+        "date": "2023-05-19",
+        "time": "7:57:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CHAPIN AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2303679",
+        "date": "2023-05-19",
+        "time": "7:49:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #904 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "SF2306316",
@@ -19,7 +41,7 @@
         "location": "700 EL CAMINO REAL ,BLM",
         "latitude": 37.5227340366989,
         "longitude": -122.279401950364,
-        "units": ">E14 CM11X5 TAC15 T23 BC5"
+        "units": ">E14 >BC5 >TAC15 >E15 >CM11X5>T23"
     },
     {
         "id": "SF2306317",
@@ -30,7 +52,7 @@
         "location": "960 PALM AVE #2 ,SMO",
         "latitude": 37.5586639049046,
         "longitude": -122.318878667879,
-        "units": "T21"
+        "units": ">T21"
     },
     {
         "id": "NF2305844",
@@ -41,50 +63,6 @@
         "location": "BAYSHORE BLVD ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": "E81"
-    },
-    {
-        "id": "SF2306313",
-        "date": "2023-05-19",
-        "time": "7:26:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PACIFIC BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2306312",
-        "date": "2023-05-19",
-        "time": "7:25:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "CF2303678",
-        "date": "2023-05-19",
-        "time": "7:13:51 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ADELINE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "SF2306310",
-        "date": "2023-05-19",
-        "time": "6:57:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "1400 ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": 37.5061317233887,
-        "longitude": -122.289156860221,
-        "units": ""
+        "units": ">E81"
     }
 ]
