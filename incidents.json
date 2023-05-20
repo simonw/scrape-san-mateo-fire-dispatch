@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2306303",
+        "date": "2023-05-19",
+        "time": "5:10:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "401 ISLAND PKWY ,BLM",
+        "latitude": 37.5310295895305,
+        "longitude": -122.268496912364,
+        "units": ">E14"
+    },
+    {
+        "id": "BF2301944",
+        "date": "2023-05-19",
+        "time": "5:05:06 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
         "id": "CF2303676",
         "date": "2023-05-19",
         "time": "4:40:41 PM",
@@ -8,61 +30,6 @@
         "location": "BROADWAY #2102A ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "SF2306301",
-        "date": "2023-05-19",
-        "time": "4:35:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2305838",
-        "date": "2023-05-19",
-        "time": "4:30:48 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FAIRVIEW AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2305792",
-        "date": "2023-05-19",
-        "time": "4:28:57 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL / JEFFERSON AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": "T9"
-    },
-    {
-        "id": "MF2304649",
-        "date": "2023-05-19",
-        "time": "4:28:41 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DEL NORTE AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "LF2300534",
-        "date": "2023-05-19",
-        "time": "4:28:11 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "990 SERRAMONTE BLVD #D ,CLM",
-        "latitude": 37.6711188611219,
-        "longitude": -122.464437228684,
-        "units": ">T85 >BC124 >MED19 >E86 >TAC35>CM31X1"
+        "units": ">E37"
     }
 ]
