@@ -1,14 +1,80 @@
 [
     {
-        "id": "NF2305867",
+        "id": "NF2305869",
         "date": "2023-05-20",
-        "time": "12:40:58 PM",
+        "time": "1:05:13 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "2 CLAYTON CT ,DCY",
-        "latitude": 37.6951798161629,
-        "longitude": -122.458988612541,
-        "units": "E92"
+        "category": "Traffic accident",
+        "location": "227 LAKE MERCED BLVD ,DCY",
+        "latitude": 37.6997398109049,
+        "longitude": -122.483603140001,
+        "units": "?TAC35 ?CM31X4 ?BC20 ?E91 ?T95"
+    },
+    {
+        "id": "SF2306347",
+        "date": "2023-05-20",
+        "time": "1:00:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PARROTT DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2304673",
+        "date": "2023-05-20",
+        "time": "12:50:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GLENDALE AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "SF2306346",
+        "date": "2023-05-20",
+        "time": "12:47:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #602 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "RF2305818",
+        "date": "2023-05-20",
+        "time": "12:47:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2305868",
+        "date": "2023-05-20",
+        "time": "12:45:51 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "RF2305817",
+        "date": "2023-05-20",
+        "time": "12:44:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WALNUT ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
     },
     {
         "id": "BF2301957",
@@ -19,29 +85,7 @@
         "location": "NB 280 / AVALON DR OFF RAMP",
         "latitude": 37.6367912586307,
         "longitude": -122.439668852986,
-        "units": ">E52 CM31X5 >E64 ?TAC36"
-    },
-    {
-        "id": "CF2303688",
-        "date": "2023-05-20",
-        "time": "12:34:10 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MATEO AVE #39 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2303037",
-        "date": "2023-05-20",
-        "time": "12:32:21 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "422 RAILROAD AVE #B ,SSF",
-        "latitude": 37.6533054093968,
-        "longitude": -122.414210914343,
-        "units": ">BC17 >E65 >Q62 CM31X1 ?TAC35>E61"
+        "units": ">E52"
     },
     {
         "id": "DF2301257",
@@ -52,72 +96,6 @@
         "location": "9900 PESCADERO CREEK RD ,LMR",
         "latitude": 37.277273303008,
         "longitude": -122.281632154712,
-        "units": "E58 ?TAC16 E1765 BC15 >E55E59 >R57"
-    },
-    {
-        "id": "FF2303036",
-        "date": "2023-05-20",
-        "time": "12:28:47 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Smoke investigation",
-        "location": "HIBISCUS DR / MCLELLAN DR",
-        "latitude": 37.6606930057533,
-        "longitude": -122.447306511319,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2303687",
-        "date": "2023-05-20",
-        "time": "12:27:34 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #195C ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "MF2304672",
-        "date": "2023-05-20",
-        "time": "12:21:55 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLIAM AVE / 5TH AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2305816",
-        "date": "2023-05-20",
-        "time": "12:20:28 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WALNUT ST #203 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2301492",
-        "date": "2023-05-20",
-        "time": "11:50:58 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARINE BLVD #SNF 406C ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2301491",
-        "date": "2023-05-20",
-        "time": "11:32:59 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KELLY AVE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44 >TO11 >U41"
+        "units": ">E55"
     }
 ]
