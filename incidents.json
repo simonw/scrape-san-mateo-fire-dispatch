@@ -1,13 +1,35 @@
 [
     {
-        "id": "SF2306391",
+        "id": "SF2306392",
         "date": "2023-05-21",
-        "time": "11:36:11 AM",
+        "time": "12:01:57 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "156 HACK ROSS AVE ,SMO",
+        "latitude": 37.5399738459905,
+        "longitude": -122.296906759558,
+        "units": "E23"
+    },
+    {
+        "id": "RF2305848",
+        "date": "2023-05-21",
+        "time": "12:00:58 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "GARFIELD ST ,SMO",
+        "location": "WOODSIDE RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
+        "units": "E10"
+    },
+    {
+        "id": "CF2303712",
+        "date": "2023-05-21",
+        "time": "11:49:56 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Structure fire",
+        "location": "528 LOMITA CT ,MLB",
+        "latitude": 37.6113797330128,
+        "longitude": -122.41108510659,
+        "units": "?CCFINV >BC8 >E51 >E37 CM21X5>BC16 ?TAC25 >T51 >E38"
     }
 ]
