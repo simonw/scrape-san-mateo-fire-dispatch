@@ -1,25 +1,36 @@
 [
     {
-        "id": "MF2304731",
+        "id": "MF2304732",
         "date": "2023-05-23",
-        "time": "11:05:30 AM",
+        "time": "11:23:37 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "FREMONT ST #A ,MNP",
+        "location": "MERRILL ST #309 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E6"
+        "units": ">E6"
     },
     {
-        "id": "FF2303090",
+        "id": "NF2305956",
         "date": "2023-05-23",
-        "time": "11:04:28 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "11:18:45 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "CYPRESS AVE ,SSF",
+        "location": "SCHOOL ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?Q62"
+        "units": ">E95"
+    },
+    {
+        "id": "NF2305955",
+        "date": "2023-05-23",
+        "time": "11:18:05 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "371 GELLERT BLVD ,DCY",
+        "latitude": 37.6655927405695,
+        "longitude": -122.466855358774,
+        "units": ""
     },
     {
         "id": "RF2305917",
@@ -30,7 +41,7 @@
         "location": "372 WOODSIDE PLZ ,RCY",
         "latitude": 37.4568908649299,
         "longitude": -122.228973283504,
-        "units": "E3"
+        "units": "T9 CM11X1 >E3"
     },
     {
         "id": "SF2306467",
@@ -42,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E23"
-    },
-    {
-        "id": "FF2303089",
-        "date": "2023-05-23",
-        "time": "10:30:31 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FAIRFAX WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
     }
 ]
