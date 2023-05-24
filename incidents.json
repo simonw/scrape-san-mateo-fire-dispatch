@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2306496",
+        "date": "2023-05-23",
+        "time": "11:22:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE / PALM AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "T21"
+    },
+    {
         "id": "CF2303768",
         "date": "2023-05-23",
         "time": "11:05:05 PM",
@@ -8,7 +19,7 @@
         "location": "835 AIRPORT BLVD ,BRM",
         "latitude": 37.5906488666974,
         "longitude": -122.350942454073,
-        "units": "?TAC26 ?CM21X2 ?BC8 ?E21 ?E35?E34 ?T34"
+        "units": ">E35 >T34 >BC8 >E34 TAC26?CM21X2"
     },
     {
         "id": "SF2306495",
@@ -19,18 +30,7 @@
         "location": "1100 COBB ST ,SMO",
         "latitude": 37.5646250158176,
         "longitude": -122.304962111623,
-        "units": ">E28 >BC5 >E26 >E24 T21TAC25 CM21X4"
-    },
-    {
-        "id": "RF2305939",
-        "date": "2023-05-23",
-        "time": "10:54:43 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAIR ISLAND RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E24 TAC25 CM21X4"
     },
     {
         "id": "DF2301274",
@@ -41,6 +41,6 @@
         "location": "SB 1 / SO TUNNEL",
         "latitude": 37.5629500165583,
         "longitude": -122.513137177766,
-        "units": "?TAC45 CM41X2 >E44"
+        "units": ""
     }
 ]
