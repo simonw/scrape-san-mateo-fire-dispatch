@@ -1,47 +1,80 @@
 [
     {
-        "id": "NF2305977",
+        "id": "FF2303097",
         "date": "2023-05-23",
-        "time": "5:57:50 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "100 ESPLANADE AVE ,PCF",
-        "latitude": 37.6554265478498,
-        "longitude": -122.492793995464,
-        "units": ">E71 ?TAC35 ?CM31X4"
+        "time": "6:44:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "2425 GREENDALE DR ,SSF",
+        "latitude": 37.6480270487927,
+        "longitude": -122.458704046815,
+        "units": ">E64"
     },
     {
-        "id": "RF2305930",
+        "id": "HF2301512",
         "date": "2023-05-23",
-        "time": "5:56:43 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "6:41:37 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "230 CABRILLO HWY S ,HMB",
+        "latitude": 37.4655814799176,
+        "longitude": -122.434299580299,
+        "units": ">E40"
+    },
+    {
+        "id": "NF2305978",
+        "date": "2023-05-23",
+        "time": "6:35:35 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "GORDON ST ,RCY",
+        "location": "VALE ST #11 ,DCY",
         "latitude": null,
         "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2305932",
+        "date": "2023-05-23",
+        "time": "6:34:44 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Hazardous material - investiga",
+        "location": "372 WOODSIDE PLZ ,RCY",
+        "latitude": 37.4568908649299,
+        "longitude": -122.228973283504,
         "units": ">E10"
     },
     {
-        "id": "WF2300998",
+        "id": "HF2301511",
         "date": "2023-05-23",
-        "time": "5:56:32 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident pd request c2",
-        "location": "NB 280 / SO WOODSIDE RD",
-        "latitude": 37.4284489470436,
-        "longitude": -122.234018361835,
-        "units": ">E19 >E7 SQ407 CM11X4 ?TAC16"
-    },
-    {
-        "id": "LF2300543",
-        "date": "2023-05-23",
-        "time": "5:41:42 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "6:32:42 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "GILMAN DR ,BRD",
+        "location": "MAIN ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E86"
+        "units": ">E41"
+    },
+    {
+        "id": "BF2301984",
+        "date": "2023-05-23",
+        "time": "6:32:00 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SANTA HELENA AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "SF2306489",
+        "date": "2023-05-23",
+        "time": "6:16:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "RF2305927",
@@ -55,39 +88,6 @@
         "units": ">E9 VFIR23 ?CM11X3 >E13 >BC3>E11"
     },
     {
-        "id": "NF2305976",
-        "date": "2023-05-23",
-        "time": "5:37:14 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "S HILL BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "NF2305974",
-        "date": "2023-05-23",
-        "time": "5:30:51 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "DF2301270",
-        "date": "2023-05-23",
-        "time": "5:30:20 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "PESCADERO CREEK RD / RIDGE LOOP TRL",
-        "latitude": 37.3023135868585,
-        "longitude": -122.275736716416,
-        "units": ">R57"
-    },
-    {
         "id": "DF2301268",
         "date": "2023-05-23",
         "time": "5:15:14 PM",
@@ -96,6 +96,6 @@
         "location": "13901 SKYLINE BLVD ,KMT",
         "latitude": 37.4325847987693,
         "longitude": -122.32519230496,
-        "units": "TAC15 >E56 >E58 HM14 >BC15>R56"
+        "units": "TAC15 >E56 HM33 >BC15 >R56"
     }
 ]
