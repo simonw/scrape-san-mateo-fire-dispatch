@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2306031",
+        "id": "NF2306032",
         "date": "2023-05-25",
-        "time": "8:19:51 AM",
+        "time": "8:34:22 AM",
         "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "REINA DEL MAR AVE / RAMONA AVE",
+        "latitude": 37.6135786082011,
+        "longitude": -122.482867901193,
+        "units": "E71"
+    },
+    {
+        "id": "RF2305990",
+        "date": "2023-05-25",
+        "time": "8:24:33 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "S MAYFAIR AVE ,DCY",
+        "location": "AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ">E11"
     },
     {
         "id": "RF2305989",
@@ -19,40 +30,7 @@
         "location": "BLOMQUIST ST #A114 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
-    },
-    {
-        "id": "SF2306554",
-        "date": "2023-05-25",
-        "time": "8:13:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORES ST #111 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2305988",
-        "date": "2023-05-25",
-        "time": "8:12:48 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO HOLLY ST",
-        "latitude": 37.5015834506222,
-        "longitude": -122.241966950497,
-        "units": ">E13"
-    },
-    {
-        "id": "WF2301007",
-        "date": "2023-05-25",
-        "time": "7:51:07 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA RD #16H ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
+        "units": ""
     },
     {
         "id": "RF2305986",
@@ -64,16 +42,5 @@
         "latitude": 37.4822639536225,
         "longitude": -122.229172072009,
         "units": ">E9"
-    },
-    {
-        "id": "SF2306553",
-        "date": "2023-05-25",
-        "time": "7:49:59 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "711 S BAYSHORE BLVD ,SMO",
-        "latitude": 37.5684435255112,
-        "longitude": -122.310303618891,
-        "units": ">BC5 >E24"
     }
 ]
