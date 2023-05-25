@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2304780",
+        "date": "2023-05-25",
+        "time": "12:37:13 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E SELBY LN #110 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "SF2306564",
+        "date": "2023-05-25",
+        "time": "12:27:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #5 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
         "id": "SF2306563",
         "date": "2023-05-25",
         "time": "12:21:17 PM",
@@ -8,29 +30,7 @@
         "location": "2546 SOMERSET DR ,BLM",
         "latitude": 37.5016134546982,
         "longitude": -122.305105295243,
-        "units": "E14 CM11X5 BC11 T17 ?TAC15?E27 ?E15"
-    },
-    {
-        "id": "SF2306562",
-        "date": "2023-05-25",
-        "time": "12:15:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "2727 EDISON ST ,SMO",
-        "latitude": 37.5418031559715,
-        "longitude": -122.303909045783,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2306040",
-        "date": "2023-05-25",
-        "time": "12:07:37 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESPI DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": ">BC11 >E15 >T17 CM11X5 ?TAC15"
     },
     {
         "id": "DF2301283",
@@ -42,49 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E12"
-    },
-    {
-        "id": "CF2303815",
-        "date": "2023-05-25",
-        "time": "11:56:02 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RHINETTE AVE #204 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "FF2303126",
-        "date": "2023-05-25",
-        "time": "11:55:15 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2306561",
-        "date": "2023-05-25",
-        "time": "11:43:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ELLSWORTH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "DF2301282",
-        "date": "2023-05-25",
-        "time": "11:29:57 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LA HONDA RD #42 ,LAH",
-        "latitude": null,
-        "longitude": null,
-        "units": "VFIR22 >E58 >R57"
     }
 ]
