@@ -1,36 +1,91 @@
 [
     {
-        "id": "CF2303795",
+        "id": "MF2304766",
         "date": "2023-05-24",
-        "time": "4:40:17 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "5:14:12 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ANITA LN ,MLB",
+        "location": "ALMANOR AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E1"
     },
     {
-        "id": "NF2306008",
+        "id": "NF2306010",
         "date": "2023-05-24",
-        "time": "4:33:25 PM",
+        "time": "5:12:35 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
+        "location": "ODDSTAD BLVD ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": ">E72"
     },
     {
-        "id": "SF2306532",
+        "id": "BF2301998",
         "date": "2023-05-24",
-        "time": "4:20:00 PM",
+        "time": "5:11:48 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MONTGOMERY AVE / WALNUT ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2305963",
+        "date": "2023-05-24",
+        "time": "5:10:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "520 ORACLE PKWY ,RWS",
+        "latitude": 37.5311615881875,
+        "longitude": -122.262087899012,
+        "units": ">E14"
+    },
+    {
+        "id": "SF2306535",
+        "date": "2023-05-24",
+        "time": "5:09:54 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "1805 RALSTON AVE ,BLM",
-        "latitude": 37.5125638196267,
-        "longitude": -122.290680264444,
-        "units": ">E15"
+        "category": "Medical aid",
+        "location": "MERIDIAN BAY LN #134 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "SF2306533",
+        "date": "2023-05-24",
+        "time": "5:06:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TRITON PARK LN #362 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E29"
+    },
+    {
+        "id": "RF2305962",
+        "date": "2023-05-24",
+        "time": "5:05:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WALNUT ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2306009",
+        "date": "2023-05-24",
+        "time": "5:04:11 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "729 HIGATE DR ,DCY",
+        "latitude": 37.6737846422593,
+        "longitude": -122.487441745247,
+        "units": "CM31X1 >E95 ?TAC35 >T95"
     },
     {
         "id": "SF2306528",
@@ -41,6 +96,6 @@
         "location": "555 E 3RD AVE ,SMO",
         "latitude": 37.567160658646,
         "longitude": -122.320445830711,
-        "units": "PR5E PR5B"
+        "units": ">PR5B >PR5E"
     }
 ]
