@@ -1,5 +1,60 @@
 [
     {
+        "id": "LF2300546",
+        "date": "2023-05-24",
+        "time": "7:45:15 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "5001 JUNIPERO SERRA BLVD ,CLM",
+        "latitude": 37.6732793063756,
+        "longitude": -122.464687826434,
+        "units": "?TAC35 E86 ?CM31X3 T85"
+    },
+    {
+        "id": "SF2306542",
+        "date": "2023-05-24",
+        "time": "7:44:30 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DARCY AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "DF2301277",
+        "date": "2023-05-24",
+        "time": "7:43:57 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SKYLINE BLVD / PORTOLA HEIGHTS RD",
+        "latitude": 37.2934992914506,
+        "longitude": -122.161298411677,
+        "units": ">E1769 E58 BC15"
+    },
+    {
+        "id": "MF2304770",
+        "date": "2023-05-24",
+        "time": "7:41:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GONZAGA ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "WF2301005",
+        "date": "2023-05-24",
+        "time": "7:34:18 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROCKY WAY ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
         "id": "FF2303118",
         "date": "2023-05-24",
         "time": "7:26:56 PM",
@@ -16,10 +71,10 @@
         "time": "7:26:50 PM",
         "summary": "County Fire on Control-1",
         "category": "Traffic accident pd request c3",
-        "location": "SKYLINE BLVD / WARE RD",
+        "location": "SKYLINE BLVD / PORTOLA HEIGHTS RD",
         "latitude": 37.4453032854365,
         "longitude": -122.329427671977,
-        "units": ">E56 E1765 BC15 E58 ?TAC15"
+        "units": "?TAC15 E1765"
     },
     {
         "id": "FF2303117",
@@ -52,7 +107,7 @@
         "location": "REDWOOD SHORES PKWY ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E20"
+        "units": ""
     },
     {
         "id": "HF2301524",
@@ -63,17 +118,6 @@
         "location": "REDONDO BEACH RD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "FF2303116",
-        "date": "2023-05-24",
-        "time": "6:44:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "NEWMAN DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
+        "units": "*>E40"
     }
 ]
