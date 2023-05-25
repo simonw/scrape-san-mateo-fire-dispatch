@@ -1,5 +1,71 @@
 [
     {
+        "id": "SF2306572",
+        "date": "2023-05-25",
+        "time": "4:41:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #214 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "FF2303132",
+        "date": "2023-05-25",
+        "time": "4:37:04 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD #208 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "MF2304789",
+        "date": "2023-05-25",
+        "time": "4:30:03 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CARLTON AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "CF2303823",
+        "date": "2023-05-25",
+        "time": "4:27:56 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #106 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "MF2304788",
+        "date": "2023-05-25",
+        "time": "4:26:33 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2001 MANHATTAN AVE ,EPA",
+        "latitude": 37.4607647593039,
+        "longitude": -122.143638315637,
+        "units": ">E1"
+    },
+    {
+        "id": "RF2306004",
+        "date": "2023-05-25",
+        "time": "4:24:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TOPAZ ST / BREWSTER AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "RF2306003",
         "date": "2023-05-25",
         "time": "4:22:44 PM",
@@ -8,7 +74,7 @@
         "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?T9"
+        "units": ">T9"
     },
     {
         "id": "CF2303822",
@@ -19,7 +85,7 @@
         "location": "TROUSDALE DR #1061A ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E35"
+        "units": ">E35"
     },
     {
         "id": "CF2303821",
@@ -30,7 +96,7 @@
         "location": "TROUSDALE DR #615 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "RF2306002",
@@ -41,7 +107,7 @@
         "location": "521 ARLINGTON RD ,RCY",
         "latitude": 37.4870189297322,
         "longitude": -122.245690934629,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "MF2304786",
@@ -52,39 +118,6 @@
         "location": "E BAYSHORE RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "CF2303820",
-        "date": "2023-05-25",
-        "time": "4:15:28 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO SFO",
-        "latitude": 37.605374335711,
-        "longitude": -122.38455861888,
-        "units": ">E51 CM21X5 BC8 T34 E34?TAC25"
-    },
-    {
-        "id": "DF2301287",
-        "date": "2023-05-25",
-        "time": "3:54:30 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "LA HONDA RD / ENTRADA WAY",
-        "latitude": 37.3190761866914,
-        "longitude": -122.274246743564,
-        "units": "TAC15 *>E58 >BC15 >R57"
-    },
-    {
-        "id": "MF2304785",
-        "date": "2023-05-25",
-        "time": "3:22:11 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "RAVENSWOOD AVE / LAUREL ST",
-        "latitude": 37.4556432146188,
-        "longitude": -122.179057355779,
-        "units": ">SQ401"
+        "units": "E2"
     }
 ]
