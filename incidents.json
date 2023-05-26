@@ -1,57 +1,57 @@
 [
     {
-        "id": "FF2303149",
+        "id": "RF2306031",
         "date": "2023-05-26",
-        "time": "11:38:33 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "11:57:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1025 HANSEN WAY ,RCY",
+        "latitude": 37.4903857019268,
+        "longitude": -122.218752988177,
+        "units": "E10"
+    },
+    {
+        "id": "RF2306030",
+        "date": "2023-05-26",
+        "time": "11:55:16 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1290 ODDSTAD DR ,RCY",
+        "latitude": 37.4905664895344,
+        "longitude": -122.21972585681,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2306029",
+        "date": "2023-05-26",
+        "time": "11:50:47 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BADEN AVE #226 ,SSF",
+        "location": "VINE ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": ">E13"
     },
     {
-        "id": "SF2306604",
+        "id": "NF2306076",
         "date": "2023-05-26",
-        "time": "11:37:28 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "907 W HILLSDALE BLVD ,SMO",
-        "latitude": 37.5297933046994,
-        "longitude": -122.322081976661,
-        "units": "E27"
-    },
-    {
-        "id": "MF2304812",
-        "date": "2023-05-26",
-        "time": "11:36:30 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "29 SOUTHGATE ST ,ATN",
-        "latitude": 37.4621023260313,
-        "longitude": -122.206029878097,
-        "units": ">E3"
-    },
-    {
-        "id": "FF2303148",
-        "date": "2023-05-26",
-        "time": "11:28:36 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "11:48:15 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "COUNTRY CLUB DR ,SSF",
+        "location": "ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": ">T95"
     },
     {
-        "id": "FF2303147",
+        "id": "NF2306075",
         "date": "2023-05-26",
-        "time": "11:26:03 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "time": "11:42:59 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "BEVERLY ST / SHIPLEY AVE",
+        "latitude": 37.6543589544896,
+        "longitude": -122.467263198176,
+        "units": ">E94"
     }
 ]
