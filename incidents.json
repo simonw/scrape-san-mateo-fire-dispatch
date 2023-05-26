@@ -1,14 +1,58 @@
 [
     {
-        "id": "RF2306007",
+        "id": "RF2306009",
         "date": "2023-05-25",
-        "time": "6:02:38 PM",
+        "time": "6:35:16 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "SEAPORT BLVD / SEAPORT CT",
-        "latitude": 37.5026077043153,
-        "longitude": -122.21078052011,
-        "units": "E9"
+        "category": "Medical aid",
+        "location": "LAUREL ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "RF2306008",
+        "date": "2023-05-25",
+        "time": "6:28:36 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WINSLOW ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10 T9"
+    },
+    {
+        "id": "NF2306056",
+        "date": "2023-05-25",
+        "time": "6:24:05 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2306055",
+        "date": "2023-05-25",
+        "time": "6:17:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WESTPARK DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "MF2304795",
+        "date": "2023-05-25",
+        "time": "6:10:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BUCHANAN CT ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "NF2306054",
@@ -19,28 +63,6 @@
         "location": "923 FARRIER PL ,DCY",
         "latitude": 37.7039907234962,
         "longitude": -122.425089414068,
-        "units": ">BC20 >E81 CM31X2 >E93 T95R95 ?TAC35"
-    },
-    {
-        "id": "BF2302008",
-        "date": "2023-05-25",
-        "time": "5:48:32 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #1407 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "SF2306577",
-        "date": "2023-05-25",
-        "time": "5:45:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ADMIRALTY LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
+        "units": "CM31X2 ?TAC35"
     }
 ]
