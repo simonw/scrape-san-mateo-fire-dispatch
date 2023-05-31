@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2304924",
+        "date": "2023-05-31",
+        "time": "9:30:21 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ATHERTON AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "MF2304923",
         "date": "2023-05-31",
         "time": "9:25:59 AM",
@@ -8,18 +19,7 @@
         "location": "SHARON PARK DR #67 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "SF2306795",
-        "date": "2023-05-31",
-        "time": "9:24:15 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PACIFIC BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E4"
     },
     {
         "id": "SF2306794",
@@ -30,7 +30,7 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "CF2303964",
@@ -53,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E38"
-    },
-    {
-        "id": "MF2304922",
-        "date": "2023-05-31",
-        "time": "9:18:39 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2306793",
-        "date": "2023-05-31",
-        "time": "9:00:08 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SAN MIGUEL WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2301026",
-        "date": "2023-05-31",
-        "time": "8:27:57 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "812 REVERE WAY ,EML",
-        "latitude": 37.4588905413894,
-        "longitude": -122.26643167277,
-        "units": ">CM11X1 >SQ407"
     }
 ]
