@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2304000",
+        "date": "2023-06-01",
+        "time": "11:20:08 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2306848",
+        "date": "2023-06-01",
+        "time": "11:13:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "5 CAMINO VISTA CT ,BLM",
+        "latitude": 37.5237445517566,
+        "longitude": -122.284858115361,
+        "units": ">E23"
+    },
+    {
+        "id": "FF2303243",
+        "date": "2023-06-01",
+        "time": "11:13:29 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "E GRAND AVE #135 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
         "id": "RF2306221",
         "date": "2023-06-01",
         "time": "11:01:34 AM",
@@ -8,7 +41,7 @@
         "location": "SHELFORD AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E14"
     },
     {
         "id": "CF2303999",
@@ -22,39 +55,6 @@
         "units": ">T34"
     },
     {
-        "id": "RF2306220",
-        "date": "2023-06-01",
-        "time": "10:58:37 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "NF2306270",
-        "date": "2023-06-01",
-        "time": "10:55:53 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BAY RIDGE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "MF2304952",
-        "date": "2023-06-01",
-        "time": "10:42:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E SELBY LN #304 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
         "id": "MF2304951",
         "date": "2023-06-01",
         "time": "10:37:56 AM",
@@ -63,6 +63,6 @@
         "location": "SB 101 / NO WILLOW RD",
         "latitude": 37.4775111992726,
         "longitude": -122.170198805936,
-        "units": ">E5"
+        "units": "CM11X1 TAC15 >E5"
     }
 ]
