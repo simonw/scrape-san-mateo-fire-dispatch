@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2304961",
+        "date": "2023-06-01",
+        "time": "2:17:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1300 CRANE ST ,MNP",
+        "latitude": 37.4530180568121,
+        "longitude": -122.187615656831,
+        "units": "E3"
+    },
+    {
+        "id": "MF2304960",
+        "date": "2023-06-01",
+        "time": "2:14:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLE AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "CF2304003",
         "date": "2023-06-01",
         "time": "2:00:36 PM",
@@ -8,62 +30,7 @@
         "location": "BROOKSIDE LN ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
-    },
-    {
-        "id": "MF2304959",
-        "date": "2023-06-01",
-        "time": "1:57:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SHARON RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "SF2306853",
-        "date": "2023-06-01",
-        "time": "1:55:44 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "MF2304958",
-        "date": "2023-06-01",
-        "time": "1:54:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "55 MT VERNON LN ,ATN",
-        "latitude": 37.4665647430266,
-        "longitude": -122.199301549687,
-        "units": ">E3"
-    },
-    {
-        "id": "MF2304956",
-        "date": "2023-06-01",
-        "time": "1:44:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2306852",
-        "date": "2023-06-01",
-        "time": "1:41:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COLUMBA LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E38"
     },
     {
         "id": "RF2306225",
@@ -74,28 +41,6 @@
         "location": "SEAPORT BLVD / BLOMQUIST ST",
         "latitude": 37.4929867127668,
         "longitude": -122.213510776097,
-        "units": "CM11X1 >PR3B TAC15 >BC3 >E11>E5"
-    },
-    {
-        "id": "FF2303249",
-        "date": "2023-06-01",
-        "time": "1:20:02 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Trash fire",
-        "location": "20 AIRPORT BLVD ,SSF",
-        "latitude": 37.6529132863082,
-        "longitude": -122.40824786955,
-        "units": ">CM31X1 >E63 >TAC35 >E61"
-    },
-    {
-        "id": "CF2304001",
-        "date": "2023-06-01",
-        "time": "12:54:31 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "1388 BROADWAY ,MLB",
-        "latitude": 37.609056593723,
-        "longitude": -122.40069422355,
-        "units": ""
+        "units": "CM11X1 TAC15 >BC3 >E11 >E5"
     }
 ]
