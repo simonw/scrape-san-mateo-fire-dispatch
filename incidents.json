@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2304952",
+        "date": "2023-06-01",
+        "time": "10:42:43 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E SELBY LN #304 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E3"
+    },
+    {
+        "id": "HF2301588",
+        "date": "2023-06-01",
+        "time": "10:42:08 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SPINDRIFT WAY ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E41"
+    },
+    {
+        "id": "BF2302085",
+        "date": "2023-06-01",
+        "time": "10:39:49 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2304951",
+        "date": "2023-06-01",
+        "time": "10:37:56 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO WILLOW RD",
+        "latitude": 37.4775111992726,
+        "longitude": -122.170198805936,
+        "units": ">BC3 >E77 >E5 T9 CM11X2?TAC15"
+    },
+    {
         "id": "SF2306847",
         "date": "2023-06-01",
         "time": "10:23:04 AM",
@@ -8,7 +52,7 @@
         "location": "EB E HILLSDALE BLVD ON RAMP / SB 101",
         "latitude": 37.5402262867579,
         "longitude": -122.284124876463,
-        "units": ">E26"
+        "units": ""
     },
     {
         "id": "MF2304950",
@@ -19,29 +63,7 @@
         "location": "E BAYSHORE RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "FF2303242",
-        "date": "2023-06-01",
-        "time": "10:16:19 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "SF2306846",
-        "date": "2023-06-01",
-        "time": "10:15:46 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E2"
     },
     {
         "id": "NF2306269",
@@ -53,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "CF2303998",
-        "date": "2023-06-01",
-        "time": "10:07:50 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #150 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2306845",
-        "date": "2023-06-01",
-        "time": "10:05:33 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 20TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2306844",
-        "date": "2023-06-01",
-        "time": "9:56:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "YALE DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
