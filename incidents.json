@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2306293",
+        "id": "FF2303260",
         "date": "2023-06-01",
-        "time": "8:38:38 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:01:01 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
+        "location": "ALIDA WAY #120 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": "E61"
+    },
+    {
+        "id": "HF2301593",
+        "date": "2023-06-01",
+        "time": "8:59:49 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CARMEL AVE ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "BF2302090",
+        "date": "2023-06-01",
+        "time": "8:58:44 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "DONNER AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2306249",
+        "date": "2023-06-01",
+        "time": "8:42:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "525 MIDDLEFIELD RD ,RCY",
+        "latitude": 37.489423866019,
+        "longitude": -122.228886520516,
+        "units": ">E9 CM11X3 >T9 TAC15 >BC3>E11 >E10"
     },
     {
         "id": "MF2304971",
@@ -19,7 +52,7 @@
         "location": "WILLOW PL ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E1"
+        "units": ""
     },
     {
         "id": "FF2303259",
@@ -31,16 +64,5 @@
         "latitude": 37.6565888331949,
         "longitude": -122.431982437366,
         "units": ">E63"
-    },
-    {
-        "id": "NF2306292",
-        "date": "2023-06-01",
-        "time": "8:21:51 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALISADES DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
     }
 ]
