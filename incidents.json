@@ -1,14 +1,25 @@
 [
     {
-        "id": "CF2304044",
+        "id": "SF2306925",
         "date": "2023-06-03",
-        "time": "10:17:41 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "322 AIRPORT BLVD ,BRM",
-        "latitude": 37.5883125298208,
-        "longitude": -122.334556670501,
-        "units": "E32"
+        "time": "10:40:54 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W BELLEVUE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "NF2306343",
+        "date": "2023-06-03",
+        "time": "10:31:08 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "DF2301328",
@@ -19,29 +30,7 @@
         "location": "CABRILLO HWY S / TUNITAS CREEK RD",
         "latitude": 37.3586341004646,
         "longitude": -122.397621990062,
-        "units": "E41 E40 >TAC16 E1765 BC11BC10 R57"
-    },
-    {
-        "id": "MF2305015",
-        "date": "2023-06-03",
-        "time": "10:15:48 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "ALPINE RD / JUNIPERO SERRA BLVD",
-        "latitude": 37.4244692375576,
-        "longitude": -122.191640489007,
-        "units": ">E4"
-    },
-    {
-        "id": "WF2301038",
-        "date": "2023-06-03",
-        "time": "10:08:35 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "4510 ALPINE RD ,PVY",
-        "latitude": 37.3706233210763,
-        "longitude": -122.21026272577,
-        "units": "SQ407"
+        "units": ">E40 >E41 >VFIR22 >TAC16 BC11*>BC10 >E59"
     },
     {
         "id": "WF2301037",
@@ -52,6 +41,6 @@
         "location": "OLD LA HONDA RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": ">CM11X1 >TAC15 >E58 >BC2 >E8>E19"
+        "units": ">E19"
     }
 ]
