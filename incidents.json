@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2306302",
+        "date": "2023-06-03",
+        "time": "1:02:13 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "SF2306933",
+        "date": "2023-06-03",
+        "time": "12:57:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "SF2306932",
         "date": "2023-06-03",
         "time": "12:43:01 PM",
@@ -8,7 +30,7 @@
         "location": "N ELDORADO ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E21"
+        "units": ">E21"
     },
     {
         "id": "FF2303283",
@@ -19,7 +41,7 @@
         "location": "GRAND AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "DF2301329",
@@ -27,21 +49,10 @@
         "time": "12:42:12 PM",
         "summary": "County Fire on Control-1",
         "category": "Traffic accident",
-        "location": "92 / WB 92 OFF RAMP",
+        "location": "EB 92 / CANADA RD",
         "latitude": 37.5090471922405,
         "longitude": -122.344329997837,
-        "units": "E18 BC11 CM11X4 T17 ?TAC15"
-    },
-    {
-        "id": "SF2306931",
-        "date": "2023-06-03",
-        "time": "12:39:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALM AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E18 CM11X4 ?TAC15 >T17 >BC11"
     },
     {
         "id": "HF2301608",
@@ -52,7 +63,7 @@
         "location": "MARINE BLVD #NURSE ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
+        "units": "*>E44"
     },
     {
         "id": "RF2306301",
@@ -64,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E5"
-    },
-    {
-        "id": "CF2304047",
-        "date": "2023-06-03",
-        "time": "11:38:15 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDGEHILL DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2305019",
-        "date": "2023-06-03",
-        "time": "11:31:05 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "3322 ALAMEDA DE LAS PULGAS ,WMP",
-        "latitude": 37.4339424461797,
-        "longitude": -122.20630923618,
-        "units": ">E4"
     }
 ]
