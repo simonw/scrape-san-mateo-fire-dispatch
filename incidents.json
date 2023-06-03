@@ -1,5 +1,71 @@
 [
     {
+        "id": "BF2302104",
+        "date": "2023-06-03",
+        "time": "12:05:27 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SANTA HELENA AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E51"
+    },
+    {
+        "id": "NF2306349",
+        "date": "2023-06-03",
+        "time": "12:03:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "MF2305020",
+        "date": "2023-06-03",
+        "time": "12:00:41 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SANTIAGO AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T4"
+    },
+    {
+        "id": "RF2306299",
+        "date": "2023-06-03",
+        "time": "11:57:24 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "926 UPLAND RD ,EML",
+        "latitude": 37.4729813032241,
+        "longitude": -122.256246540738,
+        "units": ">E12"
+    },
+    {
+        "id": "SF2306929",
+        "date": "2023-06-03",
+        "time": "11:53:43 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "3133 CASA DE CAMPO ,SMO",
+        "latitude": 37.5436118210051,
+        "longitude": -122.283133046134,
+        "units": ">E26"
+    },
+    {
+        "id": "NF2306348",
+        "date": "2023-06-03",
+        "time": "11:50:18 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "RF2306298",
         "date": "2023-06-03",
         "time": "11:42:09 AM",
@@ -8,7 +74,7 @@
         "location": "589 GENEVA AVE ,RCY",
         "latitude": 37.4708860586017,
         "longitude": -122.225075845074,
-        "units": "T9 E5 BC3 CM11X5 ?TAC16"
+        "units": "?TAC16 >BC3 CM11X5 >E5"
     },
     {
         "id": "CF2304047",
@@ -19,18 +85,7 @@
         "location": "EDGEHILL DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2306928",
-        "date": "2023-06-03",
-        "time": "11:35:48 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE / 6TH AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": "E34"
     },
     {
         "id": "NF2306347",
@@ -52,28 +107,6 @@
         "location": "3322 ALAMEDA DE LAS PULGAS ,WMP",
         "latitude": 37.4339424461797,
         "longitude": -122.20630923618,
-        "units": ">T4 >BC1 >TAC15 >CM11X1 >E4"
-    },
-    {
-        "id": "NF2306346",
-        "date": "2023-06-03",
-        "time": "11:29:38 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EASTMOOR AVE #10 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2306927",
-        "date": "2023-06-03",
-        "time": "11:28:32 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "107 42ND AVE ,SMO",
-        "latitude": 37.5290725403616,
-        "longitude": -122.29214618866,
-        "units": "CM21X2 >E23 ?TAC25"
+        "units": ">E4"
     }
 ]
