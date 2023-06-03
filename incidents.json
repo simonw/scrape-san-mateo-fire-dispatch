@@ -1,25 +1,80 @@
 [
     {
-        "id": "SF2306941",
+        "id": "MF2305025",
         "date": "2023-06-03",
-        "time": "4:19:27 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "4:42:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "N EL CAMINO REAL #133 ,SMO",
+        "location": "ENCINA AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": "E5"
     },
     {
-        "id": "RF2306310",
+        "id": "SF2306943",
         "date": "2023-06-03",
-        "time": "4:17:34 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "4:41:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "STAMBAUGH ST ,RCY",
+        "location": "S NORFOLK ST #226 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "E29"
+    },
+    {
+        "id": "CF2304051",
+        "date": "2023-06-03",
+        "time": "4:39:08 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "RHINETTE AVE #204 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "FF2303288",
+        "date": "2023-06-03",
+        "time": "4:34:03 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "FF2303287",
+        "date": "2023-06-03",
+        "time": "4:32:50 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GARDENSIDE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "SF2306942",
+        "date": "2023-06-03",
+        "time": "4:30:27 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Vehicle fire",
+        "location": "MARINE PKWY / ISLAND PKWY",
+        "latitude": 37.527181575401,
+        "longitude": -122.269016081799,
+        "units": ">BC5 >E26 CM11X4"
+    },
+    {
+        "id": "BF2302109",
+        "date": "2023-06-03",
+        "time": "4:24:43 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CHESTNUT AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     },
     {
         "id": "DF2301332",
@@ -30,7 +85,7 @@
         "location": "SB 280 / NO ALPINE RD",
         "latitude": null,
         "longitude": null,
-        "units": ">SQ407 >E7"
+        "units": ""
     },
     {
         "id": "RF2306311",
@@ -41,29 +96,7 @@
         "location": "E BAYSHORE RD / BAIR ISLAND RD",
         "latitude": 37.495051727453,
         "longitude": -122.227431150476,
-        "units": "E12 ?E512 >BC3 E13 E14E11 ?VFIR22 ?CM11X5"
-    },
-    {
-        "id": "NF2306361",
-        "date": "2023-06-03",
-        "time": "4:14:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MADRONE WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "NF2306360",
-        "date": "2023-06-03",
-        "time": "4:00:29 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KING DR #225 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "?RCFINV >E14 PR3B >VFIR22 >E13>E512 >BC3 >CM11X5 >E11 >E12"
     },
     {
         "id": "MF2305023",
@@ -74,6 +107,6 @@
         "location": "2821 EL CAMINO REAL ,NFO",
         "latitude": 37.4704761031846,
         "longitude": -122.212738566282,
-        "units": ">BC1 >CM11X1 >E3 >TAC15 PR1B>T2"
+        "units": ">E3 PR1B"
     }
 ]
