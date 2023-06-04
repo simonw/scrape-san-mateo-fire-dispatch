@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2306338",
+        "date": "2023-06-04",
+        "time": "12:18:33 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAUREL ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "SF2306984",
+        "date": "2023-06-04",
+        "time": "12:09:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SHOAL DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
         "id": "NF2306388",
         "date": "2023-06-04",
         "time": "11:59:51 AM",
@@ -8,18 +30,18 @@
         "location": "2195 JUNIPERO SERRA BLVD ,DCY",
         "latitude": 37.6978986013977,
         "longitude": -122.470392704758,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "MF2305046",
         "date": "2023-06-04",
         "time": "11:52:23 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
+        "category": "Full assignment response",
         "location": "2575 SAND HILL RD ,MNP",
         "latitude": 37.4197700506166,
         "longitude": -122.20392567363,
-        "units": ">E7"
+        "units": "TAC15 >T4 >E6 CM11X3 >E7>BC2 >E8 >SQ407"
     },
     {
         "id": "MF2305045",
@@ -31,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "CF2304075",
-        "date": "2023-06-04",
-        "time": "11:02:25 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PARROTT DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": "E27"
     }
 ]
