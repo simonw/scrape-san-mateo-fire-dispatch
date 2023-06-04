@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2306390",
+        "id": "CF2304078",
         "date": "2023-06-04",
-        "time": "1:02:34 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "1:20:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "510 N SAN RAYMUNDO RD ,HIL",
+        "latitude": 37.5637525505934,
+        "longitude": -122.355702235129,
+        "units": "E32"
+    },
+    {
+        "id": "MF2305047",
+        "date": "2023-06-04",
+        "time": "1:10:03 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "RIO VERDE ST ,DCY",
+        "location": "EL CAMINO REAL ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E93"
+        "units": ""
+    },
+    {
+        "id": "SF2306991",
+        "date": "2023-06-04",
+        "time": "1:06:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1400 NOTRE DAME AVE ,BLM",
+        "latitude": 37.5182247999123,
+        "longitude": -122.289809260632,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2306990",
+        "date": "2023-06-04",
+        "time": "1:05:11 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAUREL AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "SF2306989",
@@ -19,61 +52,6 @@
         "location": "LOWER LOCK AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "RF2306340",
-        "date": "2023-06-04",
-        "time": "12:58:22 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2306987",
-        "date": "2023-06-04",
-        "time": "12:54:38 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "3212 COUNTRYSIDE DR ,SMO",
-        "latitude": 37.5323662673756,
-        "longitude": -122.325504547759,
-        "units": ">E27"
-    },
-    {
-        "id": "SF2306986",
-        "date": "2023-06-04",
-        "time": "12:47:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHESTERTON AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E14"
-    },
-    {
-        "id": "NF2306388",
-        "date": "2023-06-04",
-        "time": "11:59:51 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Vehicle fire",
-        "location": "2195 JUNIPERO SERRA BLVD ,DCY",
-        "latitude": 37.6978986013977,
-        "longitude": -122.470392704758,
-        "units": ">E94"
-    },
-    {
-        "id": "MF2305046",
-        "date": "2023-06-04",
-        "time": "11:52:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "2575 SAND HILL RD ,MNP",
-        "latitude": 37.4197700506166,
-        "longitude": -122.20392567363,
-        "units": ">E7"
+        "units": "CM11X4 >E15 >E27"
     }
 ]
