@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2303320",
+        "date": "2023-06-05",
+        "time": "10:40:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "721 AIRPORT BLVD ,SSF",
+        "latitude": 37.6592720463077,
+        "longitude": -122.405902445879,
+        "units": ">Q62"
+    },
+    {
+        "id": "FF2303319",
+        "date": "2023-06-05",
+        "time": "10:39:54 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD #17 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "NF2306424",
+        "date": "2023-06-05",
+        "time": "10:31:02 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KATHLEEN CT ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "SF2307026",
+        "date": "2023-06-05",
+        "time": "10:29:55 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WILSHIRE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "SF2307024",
         "date": "2023-06-05",
         "time": "10:22:54 AM",
@@ -8,7 +52,7 @@
         "location": "OLD COUNTY RD #14 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "SF2307025",
@@ -19,29 +63,7 @@
         "location": "1886 S NORFOLK ST ,SMO",
         "latitude": 37.5543204792585,
         "longitude": -122.29190823465,
-        "units": "T21 T23"
-    },
-    {
-        "id": "FF2303318",
-        "date": "2023-06-05",
-        "time": "10:07:36 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "102 GRAND AVE ,SSF",
-        "latitude": 37.6549203107198,
-        "longitude": -122.408140416648,
-        "units": ">Q62"
-    },
-    {
-        "id": "SF2307023",
-        "date": "2023-06-05",
-        "time": "10:03:39 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE #215 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">T21"
     },
     {
         "id": "FF2303317",
@@ -53,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E64"
-    },
-    {
-        "id": "CF2304097",
-        "date": "2023-06-05",
-        "time": "9:47:43 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #348 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
