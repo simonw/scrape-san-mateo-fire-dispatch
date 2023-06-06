@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2304115",
+        "id": "DF2301343",
         "date": "2023-06-05",
-        "time": "8:16:57 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "8:34:16 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2 LIGHTHOUSE VIEW RD ,SOS",
+        "latitude": 37.1926643424775,
+        "longitude": -122.372335085187,
+        "units": "E59"
+    },
+    {
+        "id": "RF2306393",
+        "date": "2023-06-05",
+        "time": "8:31:59 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BROADWAY #6 ,MLB",
+        "location": "BROADWAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": ">E11"
+    },
+    {
+        "id": "SF2307051",
+        "date": "2023-06-05",
+        "time": "8:30:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GLENDORA DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
     },
     {
         "id": "RF2306392",
@@ -20,71 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E12"
-    },
-    {
-        "id": "RF2306391",
-        "date": "2023-06-05",
-        "time": "8:05:58 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "HF2301634",
-        "date": "2023-06-05",
-        "time": "8:05:01 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN MATEO RD ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E40"
-    },
-    {
-        "id": "SF2307050",
-        "date": "2023-06-05",
-        "time": "8:04:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KEDITH ST ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2306390",
-        "date": "2023-06-05",
-        "time": "7:57:58 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HARRISON AVE #8 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2306435",
-        "date": "2023-06-05",
-        "time": "7:55:15 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LINDA MAR BLVD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2307048",
-        "date": "2023-06-05",
-        "time": "7:33:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MASON LN ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
