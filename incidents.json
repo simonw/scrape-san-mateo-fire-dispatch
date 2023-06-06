@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2305097",
+        "date": "2023-06-06",
+        "time": "1:59:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #219 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "FF2303356",
+        "date": "2023-06-06",
+        "time": "1:49:55 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "N ACCESS RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "RF2306419",
+        "date": "2023-06-06",
+        "time": "1:44:34 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "850 JEFFERSON AVE ,RCY",
+        "latitude": 37.4857676985872,
+        "longitude": -122.228701783093,
+        "units": ""
+    },
+    {
         "id": "MF2305096",
         "date": "2023-06-06",
         "time": "1:22:51 PM",
@@ -8,18 +41,7 @@
         "location": "NASSAU DR / CERRITO AVE",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "MF2305095",
-        "date": "2023-06-06",
-        "time": "1:20:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY AVE #130 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": "E4"
     },
     {
         "id": "WF2301052",
@@ -31,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E19"
-    },
-    {
-        "id": "WF2301051",
-        "date": "2023-06-06",
-        "time": "1:18:41 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Vehicle fire",
-        "location": "KINGS MOUNTAIN RD / JOSELYN LN",
-        "latitude": 37.4308180623894,
-        "longitude": -122.274358003794,
-        "units": ">CM11X1 >E3 >SQ407"
     }
 ]
