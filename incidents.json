@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2304154",
+        "date": "2023-06-07",
+        "time": "3:18:33 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ADELINE DR #120 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "DF2301351",
+        "date": "2023-06-07",
+        "time": "3:12:47 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "2601 CLOVERDALE RD ,SOS",
+        "latitude": 37.2002337470312,
+        "longitude": -122.345457134842,
+        "units": ">TAC15 >E59 R40 R57 E1767BC15 E40"
+    },
+    {
+        "id": "MF2305134",
+        "date": "2023-06-07",
+        "time": "3:10:41 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ADDISON AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "MF2305132",
         "date": "2023-06-07",
         "time": "3:04:08 PM",
@@ -8,7 +41,7 @@
         "location": "BELL CT ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E2"
     },
     {
         "id": "MF2305131",
@@ -19,40 +52,7 @@
         "location": "BAY RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
-    },
-    {
-        "id": "HF2301644",
-        "date": "2023-06-07",
-        "time": "3:02:14 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAIN ST #22 ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E41"
-    },
-    {
-        "id": "FF2303379",
-        "date": "2023-06-07",
-        "time": "3:00:58 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CATHERINE DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "BF2302151",
-        "date": "2023-06-07",
-        "time": "2:51:41 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Landscape fire",
-        "location": "470 SAN MATEO AVE ,SNB",
-        "latitude": 37.6236337697108,
-        "longitude": -122.410930067033,
-        "units": ">E51"
+        "units": ">T2"
     },
     {
         "id": "SF2307113",
@@ -63,28 +63,6 @@
         "location": "E HILLSDALE BLVD #200 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2305130",
-        "date": "2023-06-07",
-        "time": "2:44:23 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON CT ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "HF2301642",
-        "date": "2023-06-07",
-        "time": "2:08:12 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Vehicle fire",
-        "location": "12310 SAN MATEO RD ,SON",
-        "latitude": 37.480277835255,
-        "longitude": -122.406942750279,
-        "units": ">E40"
+        "units": "*>E28"
     }
 ]
