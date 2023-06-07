@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2302148",
+        "date": "2023-06-07",
+        "time": "1:52:57 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROSEWOOD DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "SF2307111",
+        "date": "2023-06-07",
+        "time": "1:50:18 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CONCOURSE DR #1711 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "FF2303377",
+        "date": "2023-06-07",
+        "time": "1:49:12 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "3581 CALLAN BLVD ,SSF",
+        "latitude": 37.6440284130355,
+        "longitude": -122.46342488703,
+        "units": ">E64"
+    },
+    {
         "id": "MF2305127",
         "date": "2023-06-07",
         "time": "1:42:14 PM",
@@ -8,7 +41,7 @@
         "location": "BRENTWOOD CT ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2 ?E77"
+        "units": ">E2"
     },
     {
         "id": "LF2300593",
@@ -19,50 +52,6 @@
         "location": "401 SERRAMONTE BLVD ,CLM",
         "latitude": 37.6789525354902,
         "longitude": -122.454247779143,
-        "units": "E86 T85 CM31X4 ?TAC36"
-    },
-    {
-        "id": "NF2306483",
-        "date": "2023-06-07",
-        "time": "1:40:50 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 1 / CLARENDON RD OFF RAMP",
-        "latitude": 37.627665600935,
-        "longitude": -122.488873057721,
-        "units": "T95 BC124 E71 CM31X1 ?TAC35"
-    },
-    {
-        "id": "RF2306457",
-        "date": "2023-06-07",
-        "time": "1:36:25 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VALOTA RD #7 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "MF2305126",
-        "date": "2023-06-07",
-        "time": "1:23:38 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY AVE / BELL ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2307110",
-        "date": "2023-06-07",
-        "time": "1:19:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRYSTAL SPRINGS RD #1303 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">MED19 >E86 TAC36 CM31X4"
     }
 ]
