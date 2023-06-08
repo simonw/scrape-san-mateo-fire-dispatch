@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2303385",
+        "date": "2023-06-07",
+        "time": "9:02:39 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "528 LARCH AVE ,SSF",
+        "latitude": 37.6663577804625,
+        "longitude": -122.41445350984,
+        "units": "E65"
+    },
+    {
+        "id": "NF2306493",
+        "date": "2023-06-07",
+        "time": "8:59:47 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #103 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2306471",
+        "date": "2023-06-07",
+        "time": "8:44:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARLIN CT ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
         "id": "CF2304161",
         "date": "2023-06-07",
         "time": "8:42:01 PM",
@@ -8,18 +41,7 @@
         "location": "MYRTLE RD #205 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "RF2306470",
-        "date": "2023-06-07",
-        "time": "8:41:10 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALDEN ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "T9"
+        "units": ">E34"
     },
     {
         "id": "CF2304160",
@@ -30,28 +52,6 @@
         "location": "10 CORLETT WAY ,HIL",
         "latitude": 37.5561899944571,
         "longitude": -122.376302961759,
-        "units": ">BC8 CM21X4 >E32 ?TAC25 >E38>USR133 >E35"
-    },
-    {
-        "id": "MF2305145",
-        "date": "2023-06-07",
-        "time": "8:25:12 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PIERCE RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "RF2306469",
-        "date": "2023-06-07",
-        "time": "8:23:10 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST #944 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">BC8 CM21X4 ?TAC25 >USR133"
     }
 ]
