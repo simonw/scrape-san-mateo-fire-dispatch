@@ -1,5 +1,16 @@
 [
     {
+        "id": "NF2306502",
+        "date": "2023-06-08",
+        "time": "1:23:26 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "860 CAMPUS DR ,DCY",
+        "latitude": 37.6659205501196,
+        "longitude": -122.477130748548,
+        "units": "E94"
+    },
+    {
         "id": "MF2305146",
         "date": "2023-06-08",
         "time": "1:01:26 AM",
@@ -8,7 +19,7 @@
         "location": "BEECH ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "RF2306473",
@@ -19,29 +30,7 @@
         "location": "435 EMERALD AVE ,SNC",
         "latitude": 37.4875104317208,
         "longitude": -122.257857326366,
-        "units": "E10"
-    },
-    {
-        "id": "NF2306501",
-        "date": "2023-06-08",
-        "time": "12:55:50 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MINA LN ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "NF2306500",
-        "date": "2023-06-08",
-        "time": "12:52:55 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ">E10"
     },
     {
         "id": "SF2307126",
@@ -63,6 +52,6 @@
         "location": "189 WESTDALE AVE ,DCY",
         "latitude": 37.7063043112254,
         "longitude": -122.482671885843,
-        "units": ">CM31X2 *>BC120 *>E95 >PR20D >T95>BC20 >E92 >E91 ?TAC35"
+        "units": ">CM31X2 *>BC120 >PR20D >T95 >BC20>E92 >E91 ?TAC35"
     }
 ]
