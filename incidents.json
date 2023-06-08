@@ -1,36 +1,47 @@
 [
     {
-        "id": "SF2307140",
+        "id": "FF2303401",
         "date": "2023-06-08",
-        "time": "11:40:25 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "100 S SAN MATEO DR ,SMO",
-        "latitude": 37.5649003297418,
-        "longitude": -122.326263931242,
-        "units": "TAC25 T21 E21 BC5 ?CM21X5"
-    },
-    {
-        "id": "RF2306500",
-        "date": "2023-06-08",
-        "time": "11:31:14 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "12:01:23 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "BROADWAY #18 ,RCY",
+        "location": "SPRUCE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E5"
+        "units": "E61"
     },
     {
-        "id": "MF2305154",
+        "id": "MF2305157",
         "date": "2023-06-08",
-        "time": "10:55:31 AM",
+        "time": "11:55:41 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Trash fire",
-        "location": "69 RIDGEVIEW DR ,ATN",
-        "latitude": 37.4379586585874,
-        "longitude": -122.226016357412,
-        "units": ">E4"
+        "category": "Fire alarm - smoke detector",
+        "location": "515 EL CAMINO REAL ,MNP",
+        "latitude": 37.4504135443433,
+        "longitude": -122.178836290041,
+        "units": ">E6"
+    },
+    {
+        "id": "MF2305156",
+        "date": "2023-06-08",
+        "time": "11:47:45 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "FF2303399",
+        "date": "2023-06-08",
+        "time": "11:47:41 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HARBOR MASTER RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
     },
     {
         "id": "RF2306485",
@@ -41,6 +52,6 @@
         "location": "1105 HILTON ST ,RCY",
         "latitude": 37.482648849327,
         "longitude": -122.21698216327,
-        "units": "?TAC15 >E20 >T9 CM11X2 >BC3>E11"
+        "units": ">T9"
     }
 ]
