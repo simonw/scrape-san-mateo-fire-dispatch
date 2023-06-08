@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2305152",
+        "date": "2023-06-08",
+        "time": "10:23:14 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "640 OAK GROVE AVE ,MNP",
+        "latitude": 37.4539422797459,
+        "longitude": -122.185042012327,
+        "units": "E1"
+    },
+    {
+        "id": "RF2306489",
+        "date": "2023-06-08",
+        "time": "10:19:33 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "NB 101 / SO WHIPPLE AVE",
+        "latitude": 37.4926029176342,
+        "longitude": -122.221534463968,
+        "units": "E2 E18 ?TAC17 ?CM11X5"
+    },
+    {
+        "id": "RF2306487",
+        "date": "2023-06-08",
+        "time": "10:10:11 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "701 CHARTER ST ,RCY",
+        "latitude": 37.4830083067698,
+        "longitude": -122.215129068561,
+        "units": ">E6"
+    },
+    {
         "id": "RF2306486",
         "date": "2023-06-08",
         "time": "9:53:19 AM",
@@ -8,7 +41,7 @@
         "location": "EL CAMINO REAL / CEDAR ST",
         "latitude": 37.4794032114868,
         "longitude": -122.225893297434,
-        "units": "?CM11X4 ?TAC16 BC2 E12 >T2"
+        "units": ">E12"
     },
     {
         "id": "RF2306485",
@@ -20,16 +53,5 @@
         "latitude": 37.482648849327,
         "longitude": -122.21698216327,
         "units": ">BC1 ?TAC15 >E20 >T9 >E3CM11X2 >E13 >BC3 >PR3D >E11"
-    },
-    {
-        "id": "NF2306514",
-        "date": "2023-06-08",
-        "time": "9:44:23 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PARKROSE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
     }
 ]
