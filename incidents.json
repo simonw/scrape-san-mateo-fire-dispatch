@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2306520",
+        "date": "2023-06-08",
+        "time": "1:12:18 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "1278 BRUNSWICK ST ,DCY",
+        "latitude": 37.7051831471865,
+        "longitude": -122.459553005869,
+        "units": ">E81"
+    },
+    {
+        "id": "SF2307145",
+        "date": "2023-06-08",
+        "time": "1:08:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS #306 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "MF2305159",
+        "date": "2023-06-08",
+        "time": "1:06:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "2825 SAND HILL RD ,MNP",
+        "latitude": 37.4189746897703,
+        "longitude": -122.212142170387,
+        "units": ">E7"
+    },
+    {
+        "id": "DF2301355",
+        "date": "2023-06-08",
+        "time": "1:06:09 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "501 BEAN HOLLOW RD ,PES",
+        "latitude": 37.2276233464411,
+        "longitude": -122.406007086991,
+        "units": ">E59 E655"
+    },
+    {
         "id": "SF2307144",
         "date": "2023-06-08",
         "time": "1:00:08 PM",
@@ -8,29 +52,7 @@
         "location": "OXFORD WAY #75 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
-    },
-    {
-        "id": "RF2306502",
-        "date": "2023-06-08",
-        "time": "12:54:03 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "225 SHOREWAY RD ,SNC",
-        "latitude": 37.5202283163035,
-        "longitude": -122.259373913701,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2307143",
-        "date": "2023-06-08",
-        "time": "12:50:21 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": ""
     },
     {
         "id": "BF2302156",
@@ -41,6 +63,6 @@
         "location": "EL CAMINO REAL / SNEATH LN",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": ">T51 >E51"
     }
 ]
