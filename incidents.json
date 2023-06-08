@@ -1,36 +1,58 @@
 [
     {
-        "id": "NF2306499",
+        "id": "MF2305146",
         "date": "2023-06-08",
-        "time": "12:31:40 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "1:01:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WESTLAKE CTR ,DCY",
+        "location": "BEECH ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
+        "units": "E2"
     },
     {
-        "id": "FF2303390",
+        "id": "RF2306473",
         "date": "2023-06-08",
-        "time": "12:27:31 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "1:00:48 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "435 EMERALD AVE ,SNC",
+        "latitude": 37.4875104317208,
+        "longitude": -122.257857326366,
+        "units": "E10"
+    },
+    {
+        "id": "NF2306501",
+        "date": "2023-06-08",
+        "time": "12:55:50 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "DONEGAL AVE ,SSF",
+        "location": "MINA LN ,PCF",
         "latitude": null,
         "longitude": null,
         "units": ">E64"
     },
     {
-        "id": "SF2307125",
+        "id": "NF2306500",
         "date": "2023-06-08",
-        "time": "12:13:43 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "12:52:55 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BOUNTY DR #1210 ,FCY",
+        "location": "JOHN DALY BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
+        "units": ">E94"
+    },
+    {
+        "id": "SF2307126",
+        "date": "2023-06-08",
+        "time": "12:51:52 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "410 STATION PARK CIR ,SMO",
+        "latitude": 37.5544424757843,
+        "longitude": -122.309049043635,
+        "units": ">T23"
     },
     {
         "id": "NF2306498",
@@ -41,6 +63,6 @@
         "location": "189 WESTDALE AVE ,DCY",
         "latitude": 37.7063043112254,
         "longitude": -122.482671885843,
-        "units": ">PR20D *>E94 >CM31X2 >E95 >T95>BC120 >BC20 >E92 >E91 ?TAC35"
+        "units": ">CM31X2 *>BC120 *>E95 >PR20D >T95>BC20 >E92 >E91 ?TAC35"
     }
 ]
