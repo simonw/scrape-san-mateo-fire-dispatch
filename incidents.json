@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2305179",
+        "id": "MF2305180",
         "date": "2023-06-09",
-        "time": "9:04:33 AM",
+        "time": "9:09:47 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "2086 CLARKE AVE ,EPA",
-        "latitude": 37.4619807169303,
-        "longitude": -122.133864795736,
-        "units": "?E2"
+        "category": "Medical aid",
+        "location": "OAKWOOD DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "NF2306549",
+        "date": "2023-06-09",
+        "time": "9:09:27 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CAMPUS DR #304 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "FF2303416",
@@ -19,29 +30,7 @@
         "location": "WILLOW AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "NF2306548",
-        "date": "2023-06-09",
-        "time": "8:58:55 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GLENCOURT WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "RF2306538",
-        "date": "2023-06-09",
-        "time": "8:47:33 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BREWSTER AVE #175 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E63"
     },
     {
         "id": "RF2306539",
@@ -53,38 +42,5 @@
         "latitude": 37.485506485559,
         "longitude": -122.2041006719,
         "units": ">E11"
-    },
-    {
-        "id": "SF2307176",
-        "date": "2023-06-09",
-        "time": "8:14:55 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Vehicle fire",
-        "location": "1150 19TH AVE ,SMO",
-        "latitude": 37.5518039573749,
-        "longitude": -122.296967833373,
-        "units": ">E26"
-    },
-    {
-        "id": "MF2305177",
-        "date": "2023-06-09",
-        "time": "8:10:38 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "345 HERMOSA WAY ,MNP",
-        "latitude": 37.4386280405409,
-        "longitude": -122.184678942215,
-        "units": ">E6"
-    },
-    {
-        "id": "MF2305176",
-        "date": "2023-06-09",
-        "time": "8:09:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HACKER WAY ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E77"
     }
 ]
