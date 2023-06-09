@@ -1,36 +1,58 @@
 [
     {
-        "id": "NF2306546",
+        "id": "MF2305179",
         "date": "2023-06-09",
-        "time": "8:26:28 AM",
+        "time": "9:04:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "2086 CLARKE AVE ,EPA",
+        "latitude": 37.4619807169303,
+        "longitude": -122.133864795736,
+        "units": "?E2"
+    },
+    {
+        "id": "FF2303416",
+        "date": "2023-06-09",
+        "time": "9:02:44 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "WILLOW AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "NF2306548",
+        "date": "2023-06-09",
+        "time": "8:58:55 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
+        "location": "GLENCOURT WAY ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": ">T95"
     },
     {
-        "id": "SF2307178",
+        "id": "RF2306538",
         "date": "2023-06-09",
-        "time": "8:22:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:47:33 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "TICONDEROGA DR ,SMO",
+        "location": "BREWSTER AVE #175 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E17"
+        "units": ">E9"
     },
     {
-        "id": "MF2305178",
+        "id": "RF2306539",
         "date": "2023-06-09",
-        "time": "8:21:03 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E SELBY LN ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "time": "8:46:56 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "440 BROADWAY ,RCY",
+        "latitude": 37.485506485559,
+        "longitude": -122.2041006719,
+        "units": ">E11"
     },
     {
         "id": "SF2307176",
@@ -63,6 +85,6 @@
         "location": "HACKER WAY ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": "E77"
     }
 ]
