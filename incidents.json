@@ -1,58 +1,80 @@
 [
     {
-        "id": "WF2301071",
+        "id": "RF2306563",
         "date": "2023-06-09",
-        "time": "5:15:28 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SUMMIT SPRINGS RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
-    },
-    {
-        "id": "SF2307200",
-        "date": "2023-06-09",
-        "time": "5:11:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CASCADE CT ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "RF2306560",
-        "date": "2023-06-09",
-        "time": "4:59:28 PM",
+        "time": "6:02:10 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "6TH AVE / FAIR OAKS AVE",
-        "latitude": 37.477678486255,
-        "longitude": -122.199885677536,
+        "category": "Landscape fire",
+        "location": "1087 OLD COUNTY RD ,SNC",
+        "latitude": 37.5019224100496,
+        "longitude": -122.251866836528,
+        "units": "?E14"
+    },
+    {
+        "id": "MF2305191",
+        "date": "2023-06-09",
+        "time": "5:59:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAMILTON AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "NF2306570",
+        "date": "2023-06-09",
+        "time": "5:53:08 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BAYSHORE BLVD #15 ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "FF2303426",
+        "date": "2023-06-09",
+        "time": "5:48:18 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist, water problem",
+        "location": "HARBOR WAY / UTAH AVE",
+        "latitude": 37.6467302424784,
+        "longitude": -122.399735820193,
+        "units": ">Q62"
+    },
+    {
+        "id": "HF2301654",
+        "date": "2023-06-09",
+        "time": "5:42:04 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "598 AVENUE ALHAMBRA ,ELG",
+        "latitude": 37.5014816283763,
+        "longitude": -122.46840780506,
+        "units": ">E41"
+    },
+    {
+        "id": "RF2306561",
+        "date": "2023-06-09",
+        "time": "5:39:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MICHAEL DR ,RCY",
+        "latitude": null,
+        "longitude": null,
         "units": ">E5"
     },
     {
-        "id": "MF2305189",
+        "id": "DF2301364",
         "date": "2023-06-09",
-        "time": "4:52:28 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DONOHOE ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "NF2306569",
-        "date": "2023-06-09",
-        "time": "4:42:20 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Water rescue response",
-        "location": "2100 BEACH BLVD ,PCF",
-        "latitude": 37.6333841438688,
-        "longitude": -122.494435094081,
-        "units": ">CG22A >BC20 >TAC35 CM31X1 >R95>E71 >T95 >BC120"
+        "time": "5:35:46 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "PAGE MILL RD / SKYLINE BLVD",
+        "latitude": 37.3149197614327,
+        "longitude": -122.18724185588,
+        "units": "*>E58"
     },
     {
         "id": "RF2306558",
@@ -63,7 +85,7 @@
         "location": "NB 101 / SO HOLLY ST",
         "latitude": 37.5015834506222,
         "longitude": -122.241966950497,
-        "units": "CM11X4 >TO3 ?TAC16 >E14 >E16>T2"
+        "units": "CM11X4 ?TAC16 >E16 >T2"
     },
     {
         "id": "RF2306557",
@@ -74,6 +96,6 @@
         "location": "SB 101 / NO WOODSIDE RD",
         "latitude": 37.4924375527393,
         "longitude": -122.221572014907,
-        "units": "?TAC15 CM11X1 E20 >T9 E13>BC3 >E11"
+        "units": "E20 E13"
     }
 ]
