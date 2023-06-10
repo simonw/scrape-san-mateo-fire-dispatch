@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2303433",
+        "date": "2023-06-09",
+        "time": "11:38:00 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "309 SOUTHCLIFF AVE ,SSF",
+        "latitude": 37.6526179291089,
+        "longitude": -122.449897160269,
+        "units": "E63"
+    },
+    {
+        "id": "NF2306583",
+        "date": "2023-06-09",
+        "time": "11:37:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #201B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2306568",
+        "date": "2023-06-09",
+        "time": "11:35:23 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "NF2306582",
+        "date": "2023-06-09",
+        "time": "11:32:31 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "11 WERNER AVE #3 ,DCY",
+        "latitude": 37.6931456916508,
+        "longitude": -122.467801978317,
+        "units": ">E92"
+    },
+    {
         "id": "SF2307210",
         "date": "2023-06-09",
         "time": "11:20:01 PM",
@@ -8,29 +52,7 @@
         "location": "N SAN MATEO DR #105 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "SF2307209",
-        "date": "2023-06-09",
-        "time": "11:08:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE #504 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2307208",
-        "date": "2023-06-09",
-        "time": "11:04:27 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PACIFIC BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E21"
     },
     {
         "id": "MF2305197",
@@ -44,17 +66,6 @@
         "units": ">E4"
     },
     {
-        "id": "CF2304205",
-        "date": "2023-06-09",
-        "time": "10:54:01 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TRAIN TRACK ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "DF2301365",
         "date": "2023-06-09",
         "time": "10:49:25 PM",
@@ -63,6 +74,6 @@
         "location": "8865 LA HONDA RD ,LAH",
         "latitude": 37.320074862341,
         "longitude": -122.27469007349,
-        "units": "TAC15 >E58 >BC15 >R57"
+        "units": ">TAC15 >E58 >BC15 >R57"
     }
 ]
