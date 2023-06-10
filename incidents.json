@@ -1,25 +1,58 @@
 [
     {
-        "id": "FF2303425",
+        "id": "WF2301071",
         "date": "2023-06-09",
-        "time": "4:39:43 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "5:15:28 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "GREENWOOD DR ,SSF",
+        "location": "SUMMIT SPRINGS RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E7"
     },
     {
-        "id": "SF2307199",
+        "id": "SF2307200",
         "date": "2023-06-09",
-        "time": "4:37:58 PM",
+        "time": "5:11:07 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "CAMPUS DR #130 ,SMO",
+        "location": "CASCADE CT ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E27"
+        "units": ">E24"
+    },
+    {
+        "id": "RF2306560",
+        "date": "2023-06-09",
+        "time": "4:59:28 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "6TH AVE / FAIR OAKS AVE",
+        "latitude": 37.477678486255,
+        "longitude": -122.199885677536,
+        "units": ">E5"
+    },
+    {
+        "id": "MF2305189",
+        "date": "2023-06-09",
+        "time": "4:52:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DONOHOE ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "NF2306569",
+        "date": "2023-06-09",
+        "time": "4:42:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Water rescue response",
+        "location": "2100 BEACH BLVD ,PCF",
+        "latitude": 37.6333841438688,
+        "longitude": -122.494435094081,
+        "units": ">CG22A >BC20 >TAC35 CM31X1 >R95>E71 >T95 >BC120"
     },
     {
         "id": "RF2306558",
@@ -30,18 +63,7 @@
         "location": "NB 101 / SO HOLLY ST",
         "latitude": 37.5015834506222,
         "longitude": -122.241966950497,
-        "units": ">E16 >TO3 >E14 T2 CM11X4?TAC16"
-    },
-    {
-        "id": "CF2304200",
-        "date": "2023-06-09",
-        "time": "4:34:14 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "935 MILLBRAE AVE ,MLB",
-        "latitude": 37.5939729094069,
-        "longitude": -122.395931717709,
-        "units": ">E37"
+        "units": "CM11X4 >TO3 ?TAC16 >E14 >E16>T2"
     },
     {
         "id": "RF2306557",
@@ -52,28 +74,6 @@
         "location": "SB 101 / NO WOODSIDE RD",
         "latitude": 37.4924375527393,
         "longitude": -122.221572014907,
-        "units": "?E20 >T9 CM11X1 >E11 >BC3>E13 ?TAC15"
-    },
-    {
-        "id": "RF2306556",
-        "date": "2023-06-09",
-        "time": "4:21:57 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE WAY ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2306555",
-        "date": "2023-06-09",
-        "time": "4:20:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": "?TAC15 CM11X1 E20 >T9 E13>BC3 >E11"
     }
 ]
