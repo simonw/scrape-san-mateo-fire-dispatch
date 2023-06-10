@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2306602",
+        "date": "2023-06-10",
+        "time": "10:55:50 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CLARIDGE DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "RF2306582",
+        "date": "2023-06-10",
+        "time": "10:55:47 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MERIDIAN DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "MF2305205",
+        "date": "2023-06-10",
+        "time": "10:53:40 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL RD #1 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "FF2303441",
+        "date": "2023-06-10",
+        "time": "10:43:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "250 GATEWAY BLVD ,SSF",
+        "latitude": 37.655340147329,
+        "longitude": -122.400698529941,
+        "units": ">Q62"
+    },
+    {
         "id": "SF2307221",
         "date": "2023-06-10",
         "time": "10:42:02 AM",
@@ -8,18 +52,7 @@
         "location": "CARLMONT DR #5 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "CF2304209",
-        "date": "2023-06-10",
-        "time": "10:39:55 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Gas main break",
-        "location": "1029 CAPUCHINO AVE ,BRM",
-        "latitude": 37.5832353413232,
-        "longitude": -122.362739111123,
-        "units": "BC8 E37 E34 CM21X5 E35T34 ?TAC25"
+        "units": ">E15"
     },
     {
         "id": "DF2301366",
@@ -30,18 +63,7 @@
         "location": "WOODLAND VISTA ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 >R57 ?VFIR23"
-    },
-    {
-        "id": "NF2306601",
-        "date": "2023-06-10",
-        "time": "10:37:29 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": "*>E58 >R57"
     },
     {
         "id": "NF2306600",
@@ -53,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T95"
-    },
-    {
-        "id": "NF2306599",
-        "date": "2023-06-10",
-        "time": "10:35:55 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAKE FOREST DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "SF2307220",
-        "date": "2023-06-10",
-        "time": "10:10:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COYOTE POINT DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
     }
 ]
