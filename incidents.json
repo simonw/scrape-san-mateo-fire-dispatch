@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2307261",
+        "date": "2023-06-11",
+        "time": "1:01:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "NF2306640",
+        "date": "2023-06-11",
+        "time": "12:54:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "125 MONTEREY RD ,PCF",
+        "latitude": 37.6522688695328,
+        "longitude": -122.491251391774,
+        "units": ">E71"
+    },
+    {
+        "id": "MF2305236",
+        "date": "2023-06-11",
+        "time": "12:52:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "WF2301084",
+        "date": "2023-06-11",
+        "time": "12:44:53 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "19501 SKYLINE BLVD ,PVY",
+        "latitude": 37.3420681167364,
+        "longitude": -122.221206914621,
+        "units": ">TAC15 >CM11X5 >E1765 >E58 >BC15"
+    },
+    {
         "id": "FF2303460",
         "date": "2023-06-11",
         "time": "12:42:26 PM",
@@ -8,18 +52,7 @@
         "location": "VETERANS BLVD #238 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
-    },
-    {
-        "id": "CF2304232",
-        "date": "2023-06-11",
-        "time": "12:20:23 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLSIDE DR #3 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E65"
     },
     {
         "id": "FF2303459",
@@ -31,16 +64,5 @@
         "latitude": 37.6669637186074,
         "longitude": -122.450663722253,
         "units": ">E63"
-    },
-    {
-        "id": "NF2306639",
-        "date": "2023-06-11",
-        "time": "11:56:52 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IMPERIAL WAY #307 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
     }
 ]
