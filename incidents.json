@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2303456",
+        "date": "2023-06-11",
+        "time": "8:58:59 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SPRUCE AVE / BEECH AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "BF2302189",
+        "date": "2023-06-11",
+        "time": "8:54:12 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "SNEATH LN / CHERRY AVE",
+        "latitude": 37.6333597846617,
+        "longitude": -122.428837146548,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2307257",
+        "date": "2023-06-11",
+        "time": "8:48:55 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CUTWATER LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
         "id": "RF2306606",
         "date": "2023-06-11",
         "time": "8:40:13 AM",
@@ -8,40 +41,7 @@
         "location": "38 MEADOW LN ,RCY",
         "latitude": 37.4809315747057,
         "longitude": -122.213440586302,
-        "units": "BC3 E11 E5 CM11X4 ?TAC15?E9 ?T9"
-    },
-    {
-        "id": "DF2301371",
-        "date": "2023-06-11",
-        "time": "8:29:59 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ASCENSION DR ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "SF2307256",
-        "date": "2023-06-11",
-        "time": "8:24:35 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TOWN GREEN LN #127 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "CF2304229",
-        "date": "2023-06-11",
-        "time": "8:22:40 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LINDEN AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "units": ">E9 >CM11X4 >TAC15 >E11"
     },
     {
         "id": "SF2307255",
@@ -52,6 +52,6 @@
         "location": "WARREN RD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E32 CM21X1 >E34"
+        "units": "E32"
     }
 ]
