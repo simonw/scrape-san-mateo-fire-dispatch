@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2307300",
+        "date": "2023-06-12",
+        "time": "2:14:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N DELAWARE ST #B ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "BF2302206",
+        "date": "2023-06-12",
+        "time": "2:12:28 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #300 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "WF2301089",
+        "date": "2023-06-12",
+        "time": "2:12:13 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Gas main break",
+        "location": "1600 LA HONDA RD ,WDS",
+        "latitude": 37.385537982705,
+        "longitude": -122.261739216556,
+        "units": ">E58 ?E19 E1765 E56 SQ407BC15 E8 ?TAC15 ?CM11X4"
+    },
+    {
         "id": "SF2307299",
         "date": "2023-06-12",
         "time": "2:03:20 PM",
@@ -8,7 +41,7 @@
         "location": "CARLMONT DR #213 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15 ?E14"
+        "units": ">E15"
     },
     {
         "id": "RF2306649",
@@ -20,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "NF2306671",
-        "date": "2023-06-12",
-        "time": "1:39:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GLENCOURT WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "FF2303485",
-        "date": "2023-06-12",
-        "time": "1:36:03 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "YELLOWSTONE DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2306648",
-        "date": "2023-06-12",
-        "time": "1:34:48 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN CARLOS AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
