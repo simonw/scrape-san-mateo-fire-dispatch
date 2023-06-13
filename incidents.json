@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2307316",
+        "date": "2023-06-12",
+        "time": "11:03:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE / S DELAWARE ST",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "WF2301091",
+        "date": "2023-06-12",
+        "time": "11:02:56 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "100 PALMER LN ,PVY",
+        "latitude": 37.3831254960089,
+        "longitude": -122.208314980757,
+        "units": "E8"
+    },
+    {
+        "id": "MF2305279",
+        "date": "2023-06-12",
+        "time": "10:54:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "2397 CLARKE AVE #1 ,EPA",
+        "latitude": 37.4713148310967,
+        "longitude": -122.135227263942,
+        "units": ">E2"
+    },
+    {
         "id": "CF2304271",
         "date": "2023-06-12",
         "time": "10:41:18 PM",
@@ -8,7 +41,7 @@
         "location": "EL CAMINO REAL #6 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?CM21X1 ?T34 E34"
+        "units": ">E34"
     },
     {
         "id": "NF2306690",
@@ -19,7 +52,7 @@
         "location": "GLENCOURT WAY ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "RF2306665",
@@ -31,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E12"
-    },
-    {
-        "id": "HF2301683",
-        "date": "2023-06-12",
-        "time": "10:27:42 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIRAMAR DR ,MIR",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
     }
 ]
