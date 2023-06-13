@@ -1,25 +1,47 @@
 [
     {
-        "id": "HF2301680",
+        "id": "HF2301682",
         "date": "2023-06-12",
-        "time": "9:05:03 PM",
+        "time": "9:14:16 PM",
         "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "CABRILLO HWY S ,HMB",
+        "location": "ARNOLD WAY #B ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "?E17"
+        "units": ">E41"
     },
     {
-        "id": "CF2304269",
+        "id": "NF2306686",
         "date": "2023-06-12",
-        "time": "8:59:30 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1 ROLLINS RD ,MLB",
-        "latitude": 37.6000091939903,
-        "longitude": -122.38303489806,
-        "units": ">E37"
+        "time": "9:13:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "HF2301681",
+        "date": "2023-06-12",
+        "time": "9:11:26 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "3 MIRAMONTES POINT RD ,HMB",
+        "latitude": 37.4342935873734,
+        "longitude": -122.440402395401,
+        "units": ">E40"
+    },
+    {
+        "id": "RF2306664",
+        "date": "2023-06-12",
+        "time": "9:11:16 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "3863 CHATHAM CT ,RCY",
+        "latitude": 37.4532178507099,
+        "longitude": -122.253441675915,
+        "units": ""
     },
     {
         "id": "CF2304270",
@@ -27,21 +49,10 @@
         "time": "8:59:15 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Gas main break",
-        "location": "959 EL CAMINO REAL ,MLB",
+        "location": "525 EL CAMINO REAL ,MLB",
         "latitude": 37.6035065971493,
         "longitude": -122.394292796568,
-        "units": "CM21X2 >BC16 ?TAC25 E34 T51E38 E35"
-    },
-    {
-        "id": "RF2306663",
-        "date": "2023-06-12",
-        "time": "8:58:33 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KING ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": "CM21X2 >BC16 ?TAC25 >T51 >E38"
     },
     {
         "id": "SF2307314",
@@ -55,28 +66,6 @@
         "units": ">E24"
     },
     {
-        "id": "NF2306685",
-        "date": "2023-06-12",
-        "time": "8:54:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LADERA WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "RF2306662",
-        "date": "2023-06-12",
-        "time": "8:51:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LINDEN ST #208 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
         "id": "FF2303495",
         "date": "2023-06-12",
         "time": "8:48:31 PM",
@@ -85,17 +74,6 @@
         "location": "SB 101 / NO S AIRPORT BLVD",
         "latitude": 37.6532145791878,
         "longitude": -122.407115445744,
-        "units": "?CM31X5 >BC17 >E65 >E51 ?VFIR23>Q62 >E81"
-    },
-    {
-        "id": "SF2307313",
-        "date": "2023-06-12",
-        "time": "8:39:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAGUNA CIR ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": "?CM31X5 >BC17 >E65 ?VFIR23 >Q62"
     }
 ]
