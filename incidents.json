@@ -1,14 +1,58 @@
 [
     {
-        "id": "NF2306721",
+        "id": "NF2306723",
         "date": "2023-06-13",
-        "time": "2:20:28 PM",
+        "time": "2:40:01 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "DEL PRADO DR ,DCY",
+        "location": "ANZA DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "T95"
+        "units": "E72"
+    },
+    {
+        "id": "NF2306722",
+        "date": "2023-06-13",
+        "time": "2:34:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "64 SERRAMONTE CTR ,DCY",
+        "latitude": 37.6717029388744,
+        "longitude": -122.472712282847,
+        "units": ">E94"
+    },
+    {
+        "id": "MF2305290",
+        "date": "2023-06-13",
+        "time": "2:30:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2307345",
+        "date": "2023-06-13",
+        "time": "2:28:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DE ANZA BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
+        "id": "WF2301099",
+        "date": "2023-06-13",
+        "time": "2:27:56 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "3500 TRIPP RD ,WDS",
+        "latitude": 37.4241082682993,
+        "longitude": -122.273564720464,
+        "units": "E20"
     },
     {
         "id": "CF2304292",
@@ -22,72 +66,6 @@
         "units": ">E35"
     },
     {
-        "id": "BF2302221",
-        "date": "2023-06-13",
-        "time": "2:15:20 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #1 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2307344",
-        "date": "2023-06-13",
-        "time": "2:12:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #309 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "NF2306720",
-        "date": "2023-06-13",
-        "time": "2:10:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "CF2304291",
-        "date": "2023-06-13",
-        "time": "2:02:43 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DARRELL RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "CF2304290",
-        "date": "2023-06-13",
-        "time": "1:59:26 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FIR CT ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2307343",
-        "date": "2023-06-13",
-        "time": "1:56:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "3100 ST JAMES RD ,BLM",
-        "latitude": 37.5096862255498,
-        "longitude": -122.322749109412,
-        "units": ">E15"
-    },
-    {
         "id": "WF2301097",
         "date": "2023-06-13",
         "time": "1:28:41 PM",
@@ -96,6 +74,6 @@
         "location": "835 BAY VIEW WAY ,EML",
         "latitude": 37.4591367377181,
         "longitude": -122.26394266079,
-        "units": "TAC15 >E7 CM11X2 >BC2 >E19"
+        "units": ">E19"
     }
 ]
