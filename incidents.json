@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2307340",
+        "date": "2023-06-13",
+        "time": "1:04:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "METRO CENTER BLVD ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E28"
+    },
+    {
+        "id": "RF2306688",
+        "date": "2023-06-13",
+        "time": "12:53:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "NF2306716",
+        "date": "2023-06-13",
+        "time": "12:52:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE #106 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "NF2306715",
+        "date": "2023-06-13",
+        "time": "12:43:04 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Water rescue investigation",
+        "location": "130 WESTLINE DR ,DCY",
+        "latitude": 37.663288675799,
+        "longitude": -122.49262105901,
+        "units": "CG22A >TAC35 >CM31X4 >BC124 >E71"
+    },
+    {
         "id": "NF2306713",
         "date": "2023-06-13",
         "time": "12:42:27 PM",
@@ -8,7 +52,18 @@
         "location": "IMPERIAL WAY #305 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
+    },
+    {
+        "id": "NF2306714",
+        "date": "2023-06-13",
+        "time": "12:41:15 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "5007 PALMETTO AVE #38 ,PCF",
+        "latitude": 37.6597642339748,
+        "longitude": -122.490512167657,
+        "units": "E64"
     },
     {
         "id": "MF2305289",
@@ -30,7 +85,7 @@
         "location": "BALDWIN AVE #506 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": ""
     },
     {
         "id": "RF2306687",
@@ -41,39 +96,6 @@
         "location": "PORT WALK PL ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
-    },
-    {
-        "id": "MF2305288",
-        "date": "2023-06-13",
-        "time": "12:30:58 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HENDERSON AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "MF2305287",
-        "date": "2023-06-13",
-        "time": "12:26:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E SELBY LN ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2306686",
-        "date": "2023-06-13",
-        "time": "12:16:16 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / NO WHIPPLE AVE",
-        "latitude": 37.4952950114786,
-        "longitude": -122.229005427012,
-        "units": ">T9 >E11"
+        "units": ">E14"
     }
 ]
