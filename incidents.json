@@ -1,5 +1,60 @@
 [
     {
+        "id": "WF2301106",
+        "date": "2023-06-14",
+        "time": "1:39:06 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "501 PORTOLA RD ,PVY",
+        "latitude": 37.3724798871499,
+        "longitude": -122.22117470823,
+        "units": "E4 E7 E8 SQ407 BC2?TAC15 ?CM11X3"
+    },
+    {
+        "id": "SF2307383",
+        "date": "2023-06-14",
+        "time": "1:37:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARINA CT #D ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2306725",
+        "date": "2023-06-14",
+        "time": "1:37:18 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "350 MARINE PKWY ,RWS",
+        "latitude": 37.5289434764482,
+        "longitude": -122.257592961957,
+        "units": "E20"
+    },
+    {
+        "id": "WF2301105",
+        "date": "2023-06-14",
+        "time": "1:30:06 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BLACK FOX WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
+        "id": "LF2300620",
+        "date": "2023-06-14",
+        "time": "1:28:30 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEECHWOOD DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86 >MED19"
+    },
+    {
         "id": "CF2304314",
         "date": "2023-06-14",
         "time": "1:23:38 PM",
@@ -8,7 +63,7 @@
         "location": "CRESTVIEW DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
+        "units": ">E38"
     },
     {
         "id": "FF2303541",
@@ -20,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "RF2306724",
-        "date": "2023-06-14",
-        "time": "1:08:50 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "503 OLD COUNTY RD ,SNC",
-        "latitude": 37.5099523571838,
-        "longitude": -122.259355513157,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2307379",
-        "date": "2023-06-14",
-        "time": "1:06:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "2220 BRIDGEPOINTE PKWY ,SMO",
-        "latitude": 37.5592557153616,
-        "longitude": -122.282217007693,
-        "units": ">E28"
     }
 ]
