@@ -1,47 +1,58 @@
 [
     {
-        "id": "BF2302223",
+        "id": "BF2302224",
         "date": "2023-06-13",
-        "time": "5:20:14 PM",
+        "time": "6:02:36 PM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HAWTHORNE AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
+        "category": "Traffic accident pd request c3",
+        "location": "SAN BRUNO AVE W / SAN BRUNO AVE W ON RA",
+        "latitude": 37.6251135970737,
+        "longitude": -122.427145241075,
+        "units": "BC16 T51 E51 CM31X5 ?TAC35"
     },
     {
-        "id": "MF2305294",
+        "id": "NF2306732",
         "date": "2023-06-13",
-        "time": "5:18:45 PM",
+        "time": "6:02:11 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BRYANT ST / 92ND ST",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E92"
+    },
+    {
+        "id": "SF2307352",
+        "date": "2023-06-13",
+        "time": "6:00:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "LA SALLE DR / W 20TH AVE",
+        "latitude": 37.5459603881824,
+        "longitude": -122.319517281051,
+        "units": "E25"
+    },
+    {
+        "id": "SF2307350",
+        "date": "2023-06-13",
+        "time": "5:40:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "COMSTOCK CIR ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "MF2305295",
+        "date": "2023-06-13",
+        "time": "5:31:55 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BELL ST #PARK ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2303519",
-        "date": "2023-06-13",
-        "time": "5:18:19 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DUVAL DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "MF2305293",
-        "date": "2023-06-13",
-        "time": "5:15:46 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DOUGLAS WAY ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "category": "Traffic accident",
+        "location": "SANTA CRUZ AVE / SAND HILL RD",
+        "latitude": 37.4258512850005,
+        "longitude": -122.192377904228,
+        "units": "?TAC15 >T4 CM11X5 >E4"
     },
     {
         "id": "DF2301388",
@@ -52,50 +63,6 @@
         "location": "EDEN WEST RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "VFIR22 E655 >E59"
-    },
-    {
-        "id": "NF2306731",
-        "date": "2023-06-13",
-        "time": "5:09:40 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ABBOT AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2304296",
-        "date": "2023-06-13",
-        "time": "5:07:12 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #4 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "HF2301691",
-        "date": "2023-06-13",
-        "time": "5:00:40 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OCEAN BLVD / BERNAL AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "CF2304295",
-        "date": "2023-06-13",
-        "time": "4:21:56 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORIBUNDA AVE #311 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "*>E59"
     }
 ]
