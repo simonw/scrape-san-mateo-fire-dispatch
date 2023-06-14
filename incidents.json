@@ -1,36 +1,69 @@
 [
     {
-        "id": "WF2301106",
+        "id": "MF2305321",
         "date": "2023-06-14",
-        "time": "1:39:06 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "501 PORTOLA RD ,PVY",
-        "latitude": 37.3724798871499,
-        "longitude": -122.22117470823,
-        "units": "E4 E7 E8 SQ407 BC2?TAC15 ?CM11X3"
-    },
-    {
-        "id": "SF2307383",
-        "date": "2023-06-14",
-        "time": "1:37:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "2:03:30 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MARINA CT #D ,SMO",
+        "location": "LINCOLN ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": "E2"
     },
     {
-        "id": "RF2306725",
+        "id": "CF2304317",
         "date": "2023-06-14",
-        "time": "1:37:18 PM",
+        "time": "2:02:46 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CALIFORNIA DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34 T34"
+    },
+    {
+        "id": "BF2302227",
+        "date": "2023-06-14",
+        "time": "2:00:50 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "1230 EL CAMINO REAL ,SNB",
+        "latitude": 37.6388184198278,
+        "longitude": -122.421762504134,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2307384",
+        "date": "2023-06-14",
+        "time": "1:58:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "3200 MONTEREY ST ,SMO",
+        "latitude": 37.5302958339305,
+        "longitude": -122.315882177985,
+        "units": ">E27"
+    },
+    {
+        "id": "WF2301107",
+        "date": "2023-06-14",
+        "time": "1:54:04 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "MANZANITA WAY / SAND HILL RD",
+        "latitude": 37.41075031379,
+        "longitude": -122.241816893803,
+        "units": ">SQ407 >BC2 >CM11X1 >TAC15 E7"
+    },
+    {
+        "id": "RF2306726",
+        "date": "2023-06-14",
+        "time": "1:46:12 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "350 MARINE PKWY ,RWS",
-        "latitude": 37.5289434764482,
-        "longitude": -122.257592961957,
-        "units": "E20"
+        "category": "Medical aid",
+        "location": "HOPKINS AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "WF2301105",
@@ -41,18 +74,7 @@
         "location": "BLACK FOX WAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E19"
-    },
-    {
-        "id": "LF2300620",
-        "date": "2023-06-14",
-        "time": "1:28:30 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BEECHWOOD DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86 >MED19"
+        "units": ""
     },
     {
         "id": "CF2304314",
@@ -74,6 +96,6 @@
         "location": "WESTBOROUGH BLVD #117 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
+        "units": "E64"
     }
 ]
