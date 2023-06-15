@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2306757",
+        "id": "CF2304328",
         "date": "2023-06-15",
-        "time": "11:01:49 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:24:33 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
+        "location": "GARDEN DR #310 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E3 T9 CM11X1"
+        "units": "?E37"
+    },
+    {
+        "id": "SF2307432",
+        "date": "2023-06-15",
+        "time": "11:15:15 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRANE AVE ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "NF2306786",
+        "date": "2023-06-15",
+        "time": "11:10:40 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "SF2307430",
@@ -19,7 +41,7 @@
         "location": "DAVEY GLEN RD #3423 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E14"
     },
     {
         "id": "SF2307429",
@@ -30,29 +52,7 @@
         "location": "SB 101 / E HILLSDALE BLVD OFF RAMP",
         "latitude": 37.5484157345317,
         "longitude": -122.291652364815,
-        "units": "E24"
-    },
-    {
-        "id": "RF2306756",
-        "date": "2023-06-15",
-        "time": "10:54:17 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "2757 MELENDY DR ,SNC",
-        "latitude": 37.4919031089168,
-        "longitude": -122.274274125076,
-        "units": ">E16"
-    },
-    {
-        "id": "NF2306785",
-        "date": "2023-06-15",
-        "time": "10:51:57 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LARKSPUR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "PR5A >E24"
     },
     {
         "id": "SF2307427",
@@ -63,17 +63,6 @@
         "location": "350 HATCH DR ,FCY",
         "latitude": 37.566218250247,
         "longitude": -122.274833081721,
-        "units": ">E29"
-    },
-    {
-        "id": "DF2301393",
-        "date": "2023-06-15",
-        "time": "10:31:39 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MORELAND DR ,SON",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E29"
     }
 ]
