@@ -8,7 +8,7 @@
         "location": "METRO CENTER BLVD / FOSTER CITY BLVD",
         "latitude": 37.5628704476621,
         "longitude": -122.27150963883,
-        "units": "BC5 >CM21X5 ?TAC25 >E28 T23"
+        "units": ">BC5 >CM21X5 ?TAC25 >E28 >T23"
     },
     {
         "id": "MF2305339",
@@ -19,7 +19,7 @@
         "location": "GLORIA WAY #411 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 >E2"
+        "units": ">BC101 >E2 CM11X1"
     },
     {
         "id": "SF2307405",
@@ -33,17 +33,6 @@
         "units": ">E24"
     },
     {
-        "id": "SF2307404",
-        "date": "2023-06-14",
-        "time": "10:23:55 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST #206 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
         "id": "NF2306771",
         "date": "2023-06-14",
         "time": "10:21:27 PM",
@@ -52,17 +41,6 @@
         "location": "PARADISE DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "MF2305338",
-        "date": "2023-06-14",
-        "time": "10:10:25 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LEMON ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": "E71"
     }
 ]
