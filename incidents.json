@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2305350",
+        "date": "2023-06-15",
+        "time": "4:19:54 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #101 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "SF2307444",
+        "date": "2023-06-15",
+        "time": "4:11:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "WF2301114",
         "date": "2023-06-15",
         "time": "3:56:27 PM",
@@ -8,39 +30,6 @@
         "location": "1265 WESTRIDGE DR ,PVY",
         "latitude": 37.3831139724221,
         "longitude": -122.221874221666,
-        "units": "E7"
-    },
-    {
-        "id": "WF2301113",
-        "date": "2023-06-15",
-        "time": "3:53:40 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "ALPINE RD / WESTRIDGE DR",
-        "latitude": 37.3932851790602,
-        "longitude": -122.190958023782,
-        "units": ">E8"
-    },
-    {
-        "id": "RF2306765",
-        "date": "2023-06-15",
-        "time": "3:48:33 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "CF2304332",
-        "date": "2023-06-15",
-        "time": "1:37:08 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Structure fire",
-        "location": "447 BROADWAY ,MLB",
-        "latitude": 37.6019138366533,
-        "longitude": -122.393409831537,
-        "units": ">PR8B"
+        "units": "*>E7"
     }
 ]
