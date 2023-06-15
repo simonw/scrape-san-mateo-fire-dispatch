@@ -1,25 +1,58 @@
 [
     {
+        "id": "RF2306762",
+        "date": "2023-06-15",
+        "time": "1:55:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "HF2301703",
+        "date": "2023-06-15",
+        "time": "1:54:47 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVIGNON PL ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "NF2306790",
+        "date": "2023-06-15",
+        "time": "1:53:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "35 COUNTY ST ,DCY",
+        "latitude": 37.6892326037443,
+        "longitude": -122.465088597618,
+        "units": ">E92"
+    },
+    {
         "id": "MF2305348",
         "date": "2023-06-15",
         "time": "1:43:21 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Vehicle fire",
+        "category": "Full assignment response",
         "location": "149 COMMONWEALTH DR ,MNP",
         "latitude": 37.4810465537795,
         "longitude": -122.173855832262,
-        "units": "?E77"
+        "units": ">TAC15 ?MNFINV >E77 >CM11X5 >BC101>E5 >T2"
     },
     {
         "id": "CF2304332",
         "date": "2023-06-15",
         "time": "1:37:08 PM",
         "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
+        "category": "Structure fire",
         "location": "447 BROADWAY ,MLB",
         "latitude": 37.6019138366533,
         "longitude": -122.393409831537,
-        "units": ">T34 >E51 >E37 E38 BC8CM21X2 ?TAC25"
+        "units": ">T34 CM21X2 >BC8 >E51 >E37>BC16 ?TAC25 >E34 >T51 >E38"
     },
     {
         "id": "BF2302234",
@@ -27,42 +60,9 @@
         "time": "1:23:14 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Vehicle fire",
-        "location": "1265 SAN MATEO AVE ,SNB",
+        "location": "1699 SAN MATEO AVE ,SSF",
         "latitude": 37.6412477945081,
         "longitude": -122.411579328852,
-        "units": ">E81"
-    },
-    {
-        "id": "MF2305347",
-        "date": "2023-06-15",
-        "time": "1:16:05 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #BLDG 334 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ401"
-    },
-    {
-        "id": "MF2305345",
-        "date": "2023-06-15",
-        "time": "12:56:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "2575 SAND HILL RD ,MNP",
-        "latitude": 37.4197700506166,
-        "longitude": -122.20392567363,
-        "units": ">E7"
-    },
-    {
-        "id": "FF2303557",
-        "date": "2023-06-15",
-        "time": "12:23:24 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist, water problem",
-        "location": "211 S MAPLE AVE ,SSF",
-        "latitude": 37.6463393310814,
-        "longitude": -122.415209743652,
-        "units": ">E61"
+        "units": "PR17A >PR16A"
     }
 ]
