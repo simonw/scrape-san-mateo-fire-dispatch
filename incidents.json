@@ -1,14 +1,58 @@
 [
     {
-        "id": "FF2303558",
+        "id": "MF2305347",
         "date": "2023-06-15",
-        "time": "1:04:04 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Lock out - vehicle",
-        "location": "3747 FAIRFAX WAY ,SSF",
-        "latitude": 37.6473277340073,
-        "longitude": -122.458633814989,
-        "units": "E64"
+        "time": "1:16:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #BLDG 334 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ401"
+    },
+    {
+        "id": "SF2307439",
+        "date": "2023-06-15",
+        "time": "1:15:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "MF2305346",
+        "date": "2023-06-15",
+        "time": "1:11:10 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #219 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "RF2306761",
+        "date": "2023-06-15",
+        "time": "1:08:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWPORT CIR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "BF2302233",
+        "date": "2023-06-15",
+        "time": "1:07:20 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #17B ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "MF2305345",
@@ -19,51 +63,7 @@
         "location": "2575 SAND HILL RD ,MNP",
         "latitude": 37.4197700506166,
         "longitude": -122.20392567363,
-        "units": "E7"
-    },
-    {
-        "id": "RF2306760",
-        "date": "2023-06-15",
-        "time": "12:54:57 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JAMES AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2307438",
-        "date": "2023-06-15",
-        "time": "12:54:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PORTOFINO LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "CF2304331",
-        "date": "2023-06-15",
-        "time": "12:42:27 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "EL CERRITO AVE / HOMS CT",
-        "latitude": 37.5642781215591,
-        "longitude": -122.335876476665,
-        "units": ""
-    },
-    {
-        "id": "NF2306788",
-        "date": "2023-06-15",
-        "time": "12:40:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "35 COUNTY ST ,DCY",
-        "latitude": 37.6892326037443,
-        "longitude": -122.465088597618,
-        "units": ""
+        "units": ">E7"
     },
     {
         "id": "FF2303557",
@@ -74,6 +74,6 @@
         "location": "211 S MAPLE AVE ,SSF",
         "latitude": 37.6463393310814,
         "longitude": -122.415209743652,
-        "units": "Q62 ?CM31X3 >E61"
+        "units": ">Q62 >E61 ?CM31X3"
     }
 ]
