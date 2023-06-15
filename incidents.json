@@ -1,5 +1,60 @@
 [
     {
+        "id": "FF2303558",
+        "date": "2023-06-15",
+        "time": "1:04:04 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Lock out - vehicle",
+        "location": "3747 FAIRFAX WAY ,SSF",
+        "latitude": 37.6473277340073,
+        "longitude": -122.458633814989,
+        "units": "E64"
+    },
+    {
+        "id": "MF2305345",
+        "date": "2023-06-15",
+        "time": "12:56:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": "E7"
+    },
+    {
+        "id": "RF2306760",
+        "date": "2023-06-15",
+        "time": "12:54:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JAMES AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2307438",
+        "date": "2023-06-15",
+        "time": "12:54:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PORTOFINO LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "CF2304331",
+        "date": "2023-06-15",
+        "time": "12:42:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "EL CERRITO AVE / HOMS CT",
+        "latitude": 37.5642781215591,
+        "longitude": -122.335876476665,
+        "units": ""
+    },
+    {
         "id": "NF2306788",
         "date": "2023-06-15",
         "time": "12:40:46 PM",
@@ -8,18 +63,7 @@
         "location": "35 COUNTY ST ,DCY",
         "latitude": 37.6892326037443,
         "longitude": -122.465088597618,
-        "units": "E92"
-    },
-    {
-        "id": "SF2307437",
-        "date": "2023-06-15",
-        "time": "12:30:52 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "506 STATE ST ,SMO",
-        "latitude": 37.5780425726143,
-        "longitude": -122.333092217066,
-        "units": ">T21 >E24 CM21X4 ?TAC25"
+        "units": ""
     },
     {
         "id": "FF2303557",
@@ -30,6 +74,6 @@
         "location": "211 S MAPLE AVE ,SSF",
         "latitude": 37.6463393310814,
         "longitude": -122.415209743652,
-        "units": ">E61"
+        "units": "Q62 ?CM31X3 >E61"
     }
 ]
