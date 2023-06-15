@@ -1,47 +1,36 @@
 [
     {
-        "id": "WF2301110",
+        "id": "FF2303560",
         "date": "2023-06-15",
-        "time": "2:14:24 PM",
+        "time": "2:40:05 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FORBES BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "WF2301111",
+        "date": "2023-06-15",
+        "time": "2:35:05 PM",
         "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA RD #BLDG 16 ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
+        "category": "Carbon monoxide alarm",
+        "location": "171 MAPACHE DR ,PVY",
+        "latitude": 37.388133451466,
+        "longitude": -122.227980119513,
+        "units": ">E7"
     },
     {
-        "id": "NF2306791",
+        "id": "RF2306763",
         "date": "2023-06-15",
-        "time": "2:07:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WESTMOOR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2306762",
-        "date": "2023-06-15",
-        "time": "1:55:30 PM",
+        "time": "2:32:06 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
+        "location": "SHEPARD WAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "HF2301703",
-        "date": "2023-06-15",
-        "time": "1:54:47 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVIGNON PL ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
+        "units": ">E19"
     },
     {
         "id": "MF2305348",
@@ -52,7 +41,7 @@
         "location": "149 COMMONWEALTH DR ,MNP",
         "latitude": 37.4810465537795,
         "longitude": -122.173855832262,
-        "units": "PR1C >TAC15 >E77 >CM11X5 >BC101>PR1A"
+        "units": ">E77"
     },
     {
         "id": "CF2304332",
@@ -63,17 +52,6 @@
         "location": "447 BROADWAY ,MLB",
         "latitude": 37.6019138366533,
         "longitude": -122.393409831537,
-        "units": ">T34 CM21X2 >BC8 >E51 >E37>BC16 ?TAC25 >E34 >E38 PR8B"
-    },
-    {
-        "id": "BF2302234",
-        "date": "2023-06-15",
-        "time": "1:23:14 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Vehicle fire",
-        "location": "1265 SAN MATEO AVE ,SNB",
-        "latitude": 37.6412477945081,
-        "longitude": -122.411579328852,
-        "units": "PR17A >PR16A"
+        "units": ">T34 CM21X2 >BC8 >E37 ?TAC25>E34 >E38 >PR8B"
     }
 ]
