@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2303575",
+        "date": "2023-06-16",
+        "time": "11:54:02 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "MF2305371",
+        "date": "2023-06-16",
+        "time": "11:50:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "SF2307475",
         "date": "2023-06-16",
         "time": "11:40:58 AM",
@@ -8,40 +30,7 @@
         "location": "N ELLSWORTH AVE #103 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "RF2306796",
-        "date": "2023-06-16",
-        "time": "11:40:45 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PHELPS RD ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": "E16"
-    },
-    {
-        "id": "MF2305370",
-        "date": "2023-06-16",
-        "time": "11:32:42 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2307474",
-        "date": "2023-06-16",
-        "time": "11:32:34 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE #2C2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
+        "units": ">E24"
     },
     {
         "id": "MF2305369",
@@ -52,18 +41,7 @@
         "location": "383 WALSH RD ,ATN",
         "latitude": 37.4308573647359,
         "longitude": -122.217250990308,
-        "units": "T4 >CM11X1 >E4"
-    },
-    {
-        "id": "FF2303573",
-        "date": "2023-06-16",
-        "time": "11:21:08 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "425 BRIARWOOD DR ,SSF",
-        "latitude": 37.6365668411532,
-        "longitude": -122.432941023666,
-        "units": ">BC17 ?TAC35 CM31X5 >E61"
+        "units": ">T4 >CM11X1 >E4"
     },
     {
         "id": "RF2306795",
@@ -74,7 +52,7 @@
         "location": "1700 BROADWAY ,RCY",
         "latitude": 37.4870943334691,
         "longitude": -122.221417625868,
-        "units": "CM11X2 >T9 >BC3"
+        "units": "CM11X2"
     },
     {
         "id": "SF2307472",
@@ -85,6 +63,6 @@
         "location": "1100 PARK PL ,SMO",
         "latitude": 37.5450423094314,
         "longitude": -122.290763966433,
-        "units": ">BC5 >E25 >E23 >CM21X3 >TAC25>T23 >E26"
+        "units": ">BC5 >E25 >CM21X3 >TAC25 >T23>E26"
     }
 ]
