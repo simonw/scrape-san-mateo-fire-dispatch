@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2303572",
+        "date": "2023-06-16",
+        "time": "10:39:11 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "BF2302241",
+        "date": "2023-06-16",
+        "time": "10:35:40 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "133 SANTA CLARA AVE ,SNB",
+        "latitude": 37.6137574849659,
+        "longitude": -122.403701109456,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2307470",
+        "date": "2023-06-16",
+        "time": "10:31:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Lock out - vehicle",
+        "location": "1655 S EL CAMINO REAL ,SMO",
+        "latitude": 37.5531248503543,
+        "longitude": -122.313802605274,
+        "units": ">T21"
+    },
+    {
+        "id": "MF2305367",
+        "date": "2023-06-16",
+        "time": "10:30:45 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "2398 UNIVERSITY AVE #B ,EPA",
+        "latitude": 37.4705402279861,
+        "longitude": -122.139756024178,
+        "units": ">T2 >E2"
+    },
+    {
         "id": "SF2307469",
         "date": "2023-06-16",
         "time": "10:22:48 AM",
@@ -8,40 +52,7 @@
         "location": "N BAYSHORE BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "CF2304355",
-        "date": "2023-06-16",
-        "time": "10:16:24 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALM AVE #307 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2306819",
-        "date": "2023-06-16",
-        "time": "10:14:19 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KATHLEEN CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2307468",
-        "date": "2023-06-16",
-        "time": "10:14:18 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "14 VISTA AVE ,SMO",
-        "latitude": 37.531588531142,
-        "longitude": -122.288553906513,
-        "units": ">E23"
+        "units": ">E24"
     },
     {
         "id": "DF2301402",
@@ -52,6 +63,6 @@
         "location": "SLATE CREEK RD / PORTOLA STATE PARK RD",
         "latitude": 37.2656996695298,
         "longitude": -122.210953143121,
-        "units": "TAC15 E1762 E17 BC15 E59"
+        "units": ">E1762 >E17 TAC15"
     }
 ]
