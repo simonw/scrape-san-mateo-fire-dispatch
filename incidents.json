@@ -1,25 +1,47 @@
 [
     {
-        "id": "SF2307473",
+        "id": "SF2307475",
         "date": "2023-06-16",
-        "time": "11:23:45 AM",
+        "time": "11:40:58 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
+        "location": "N ELLSWORTH AVE #103 ,SMO",
         "latitude": null,
         "longitude": null,
         "units": "E24"
     },
     {
-        "id": "WF2301117",
+        "id": "RF2306796",
         "date": "2023-06-16",
-        "time": "11:22:39 AM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "11:40:45 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "PORTOLA RD #BLDG 300 ,PVY",
+        "location": "PHELPS RD ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
+        "units": "E16"
+    },
+    {
+        "id": "MF2305370",
+        "date": "2023-06-16",
+        "time": "11:32:42 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2307474",
+        "date": "2023-06-16",
+        "time": "11:32:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAUREL AVE #2C2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
     },
     {
         "id": "MF2305369",
@@ -30,7 +52,7 @@
         "location": "383 WALSH RD ,ATN",
         "latitude": 37.4308573647359,
         "longitude": -122.217250990308,
-        "units": "E4"
+        "units": "T4 >CM11X1 >E4"
     },
     {
         "id": "FF2303573",
@@ -38,10 +60,10 @@
         "time": "11:21:08 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Full assignment response",
-        "location": "113 ROSEWOOD WAY ,SSF",
+        "location": "425 BRIARWOOD DR ,SSF",
         "latitude": 37.6365668411532,
         "longitude": -122.432941023666,
-        "units": "E65 E51 BC17 E61 Q62CM31X5 ?TAC35"
+        "units": ">BC17 ?TAC35 CM31X5 >E61"
     },
     {
         "id": "RF2306795",
@@ -52,29 +74,7 @@
         "location": "1700 BROADWAY ,RCY",
         "latitude": 37.4870943334691,
         "longitude": -122.221417625868,
-        "units": "T9"
-    },
-    {
-        "id": "MF2305368",
-        "date": "2023-06-16",
-        "time": "11:20:45 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "NF2306820",
-        "date": "2023-06-16",
-        "time": "11:10:50 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "152 FOX SPARROW LN ,BRS",
-        "latitude": 37.6913789258093,
-        "longitude": -122.40994019909,
-        "units": ">E81"
+        "units": "CM11X2 >T9 >BC3"
     },
     {
         "id": "SF2307472",
@@ -85,17 +85,6 @@
         "location": "1100 PARK PL ,SMO",
         "latitude": 37.5450423094314,
         "longitude": -122.290763966433,
-        "units": ">TAC25 >CM21X3 >E23 >BC5 >T23>E25 >E26"
-    },
-    {
-        "id": "HF2301707",
-        "date": "2023-06-16",
-        "time": "10:59:08 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALAMEDA AVE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E44"
+        "units": ">BC5 >E25 >E23 >CM21X3 >TAC25>T23 >E26"
     }
 ]
