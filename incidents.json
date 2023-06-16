@@ -1,25 +1,91 @@
 [
     {
-        "id": "CF2304356",
+        "id": "SF2307473",
         "date": "2023-06-16",
-        "time": "11:05:40 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "11:23:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ALMER RD #103 ,BRM",
+        "location": "S GRANT ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E34"
+        "units": "E24"
     },
     {
-        "id": "HF2301708",
+        "id": "WF2301117",
         "date": "2023-06-16",
-        "time": "11:03:41 AM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "11:22:39 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "TROON WAY #205 ,HMB",
+        "location": "PORTOLA RD #BLDG 300 ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
+        "units": "E8"
+    },
+    {
+        "id": "MF2305369",
+        "date": "2023-06-16",
+        "time": "11:21:38 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "383 WALSH RD ,ATN",
+        "latitude": 37.4308573647359,
+        "longitude": -122.217250990308,
+        "units": "E4"
+    },
+    {
+        "id": "FF2303573",
+        "date": "2023-06-16",
+        "time": "11:21:08 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Full assignment response",
+        "location": "113 ROSEWOOD WAY ,SSF",
+        "latitude": 37.6365668411532,
+        "longitude": -122.432941023666,
+        "units": "E65 E51 BC17 E61 Q62CM31X5 ?TAC35"
+    },
+    {
+        "id": "RF2306795",
+        "date": "2023-06-16",
+        "time": "11:21:04 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1700 BROADWAY ,RCY",
+        "latitude": 37.4870943334691,
+        "longitude": -122.221417625868,
+        "units": "T9"
+    },
+    {
+        "id": "MF2305368",
+        "date": "2023-06-16",
+        "time": "11:20:45 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "NF2306820",
+        "date": "2023-06-16",
+        "time": "11:10:50 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "152 FOX SPARROW LN ,BRS",
+        "latitude": 37.6913789258093,
+        "longitude": -122.40994019909,
+        "units": ">E81"
+    },
+    {
+        "id": "SF2307472",
+        "date": "2023-06-16",
+        "time": "11:08:30 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "1100 PARK PL ,SMO",
+        "latitude": 37.5450423094314,
+        "longitude": -122.290763966433,
+        "units": ">TAC25 >CM21X3 >E23 >BC5 >T23>E25 >E26"
     },
     {
         "id": "HF2301707",
@@ -30,61 +96,6 @@
         "location": "ALAMEDA AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "SF2307471",
-        "date": "2023-06-16",
-        "time": "10:53:47 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "60 31ST AVE ,SMO",
-        "latitude": 37.5389350979686,
-        "longitude": -122.301956113109,
-        "units": "*>E25"
-    },
-    {
-        "id": "RF2306792",
-        "date": "2023-06-16",
-        "time": "10:51:13 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAVEN AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2307470",
-        "date": "2023-06-16",
-        "time": "10:31:20 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Lock out - vehicle",
-        "location": "1655 S EL CAMINO REAL ,SMO",
-        "latitude": 37.5531248503543,
-        "longitude": -122.313802605274,
-        "units": ">T21"
-    },
-    {
-        "id": "MF2305367",
-        "date": "2023-06-16",
-        "time": "10:30:45 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "2398 UNIVERSITY AVE #B ,EPA",
-        "latitude": 37.4705402279861,
-        "longitude": -122.139756024178,
-        "units": ""
-    },
-    {
-        "id": "DF2301402",
-        "date": "2023-06-16",
-        "time": "10:06:06 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SLATE CREEK RD / PORTOLA STATE PARK RD",
-        "latitude": 37.2656996695298,
-        "longitude": -122.210953143121,
-        "units": ">E1762 >E17 TAC15"
+        "units": "*>E44"
     }
 ]
