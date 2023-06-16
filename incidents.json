@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2303575",
+        "id": "RF2306797",
         "date": "2023-06-16",
-        "time": "11:54:02 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "12:12:52 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CYPRESS AVE ,SSF",
+        "location": "SPRING ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": ">E11"
+    },
+    {
+        "id": "FF2303576",
+        "date": "2023-06-16",
+        "time": "12:08:31 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA VISTA DR #26 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
     },
     {
         "id": "MF2305371",
@@ -19,18 +30,7 @@
         "location": "AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "SF2307475",
-        "date": "2023-06-16",
-        "time": "11:40:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ELLSWORTH AVE #103 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": ""
     },
     {
         "id": "MF2305369",
@@ -41,18 +41,7 @@
         "location": "383 WALSH RD ,ATN",
         "latitude": 37.4308573647359,
         "longitude": -122.217250990308,
-        "units": ">T4 >CM11X1 >E4"
-    },
-    {
-        "id": "RF2306795",
-        "date": "2023-06-16",
-        "time": "11:21:04 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1700 BROADWAY ,RCY",
-        "latitude": 37.4870943334691,
-        "longitude": -122.221417625868,
-        "units": "CM11X2"
+        "units": ">CM11X1 >E4"
     },
     {
         "id": "SF2307472",
@@ -63,6 +52,6 @@
         "location": "1100 PARK PL ,SMO",
         "latitude": 37.5450423094314,
         "longitude": -122.290763966433,
-        "units": ">BC5 >E25 >CM21X3 >TAC25 >T23>E26"
+        "units": ">E25"
     }
 ]
