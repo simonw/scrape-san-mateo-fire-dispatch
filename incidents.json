@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2305404",
+        "date": "2023-06-17",
+        "time": "11:43:20 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E1"
+    },
+    {
+        "id": "RF2306838",
+        "date": "2023-06-17",
+        "time": "11:42:59 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRITTAN AVE #10 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18"
+    },
+    {
         "id": "BF2302254",
         "date": "2023-06-17",
         "time": "11:21:05 AM",
@@ -8,7 +30,7 @@
         "location": "FLEETWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "CF2304377",
@@ -22,17 +44,6 @@
         "units": ">E33"
     },
     {
-        "id": "SF2307498",
-        "date": "2023-06-17",
-        "time": "11:16:53 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
         "id": "SF2307497",
         "date": "2023-06-17",
         "time": "11:14:20 AM",
@@ -42,27 +53,5 @@
         "latitude": 37.561636676561,
         "longitude": -122.312795223402,
         "units": ">E24"
-    },
-    {
-        "id": "RF2306837",
-        "date": "2023-06-17",
-        "time": "11:08:33 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TRAIN TRACK ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "RF2306836",
-        "date": "2023-06-17",
-        "time": "11:07:12 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "MAPLE ST / VETERANS BLVD",
-        "latitude": 37.4894188312522,
-        "longitude": -122.221750520814,
-        "units": ">E9"
     }
 ]
