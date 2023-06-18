@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2305443",
+        "date": "2023-06-18",
+        "time": "4:04:54 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "54 SERRANO DR ,ATN",
+        "latitude": 37.4575218220042,
+        "longitude": -122.216865544994,
+        "units": "?E3"
+    },
+    {
+        "id": "CF2304401",
+        "date": "2023-06-18",
+        "time": "3:54:43 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LOMITA AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
         "id": "NF2306896",
         "date": "2023-06-18",
         "time": "3:42:17 PM",
@@ -8,29 +30,7 @@
         "location": "SKYLINE BLVD / WESTRIDGE AVE",
         "latitude": 37.6906131980292,
         "longitude": -122.492616996869,
-        "units": "T95 BC121 E95 CM31X4 ?TAC35"
-    },
-    {
-        "id": "SF2307548",
-        "date": "2023-06-18",
-        "time": "3:38:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "S EL CAMINO REAL / 9TH AVE",
-        "latitude": 37.5591549665704,
-        "longitude": -122.321758089831,
-        "units": ">E21 >BC5 T21 CM21X4 ?TAC25"
-    },
-    {
-        "id": "FF2303620",
-        "date": "2023-06-18",
-        "time": "3:34:37 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CHESTNUT AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E95 ?TAC35 >T95 CM31X4"
     },
     {
         "id": "NF2306894",
@@ -41,28 +41,6 @@
         "location": "TUNNEL AVE / LAGOON RD",
         "latitude": 37.6894595160485,
         "longitude": -122.398345564143,
-        "units": ">E93 >E81 CM31X3 ?VFIR23"
-    },
-    {
-        "id": "SF2307547",
-        "date": "2023-06-18",
-        "time": "3:31:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "210 MONTE DIABLO AVE ,SMO",
-        "latitude": 37.5698183833708,
-        "longitude": -122.328848591218,
-        "units": "E24"
-    },
-    {
-        "id": "DF2301416",
-        "date": "2023-06-18",
-        "time": "2:50:16 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ANO NUEVO ,SOS",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E59"
+        "units": "?VFIR23 PR20D >E81 CM31X3"
     }
 ]
