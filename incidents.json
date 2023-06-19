@@ -1,35 +1,79 @@
 [
     {
-        "id": "BF2302278",
+        "id": "FF2303631",
         "date": "2023-06-19",
-        "time": "12:39:02 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Tree down",
-        "location": "W SAN BRUNO AVE / CRESTMOOR DR",
-        "latitude": 37.6234394035836,
-        "longitude": -122.429067011138,
-        "units": "T51"
+        "time": "1:03:36 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "3581 CALLAN BLVD ,SSF",
+        "latitude": 37.6440284130355,
+        "longitude": -122.46342488703,
+        "units": "?E64"
     },
     {
-        "id": "SF2307589",
+        "id": "HF2301735",
         "date": "2023-06-19",
-        "time": "12:33:42 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "12:58:56 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "NB 101 / SO E 3RD AVE",
+        "location": "MARINE BLVD #NURSE ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "CM21X4 TAC25 >E24 >E26"
+        "units": ">E44"
     },
     {
-        "id": "SF2307588",
+        "id": "CF2304421",
         "date": "2023-06-19",
-        "time": "12:26:57 PM",
+        "time": "12:57:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "EL CAMINO REAL / HILLCREST BLVD",
+        "latitude": 37.6022290306648,
+        "longitude": -122.391746775515,
+        "units": "T34 CM21X5 >BC16 ?TAC25 E38"
+    },
+    {
+        "id": "MF2305470",
+        "date": "2023-06-19",
+        "time": "12:57:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GARDEN ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2307592",
+        "date": "2023-06-19",
+        "time": "12:56:59 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "RALSTON AVE #215 ,BLM",
+        "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
         "units": ">E14"
+    },
+    {
+        "id": "CF2304420",
+        "date": "2023-06-19",
+        "time": "12:53:11 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1014 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "SF2307590",
+        "date": "2023-06-19",
+        "time": "12:51:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Structure fire",
+        "location": "600 E 3RD AVE ,SMO",
+        "latitude": 37.5669220818278,
+        "longitude": -122.31953240273,
+        "units": "CM21X2 >BC5 >BC8 >E25 >E23>E21 >T23 >E24 >E26 TAC26"
     }
 ]
