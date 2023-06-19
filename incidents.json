@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2307579",
+        "date": "2023-06-19",
+        "time": "9:39:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1301 RALSTON AVE ,BLM",
+        "latitude": 37.5157900093722,
+        "longitude": -122.28101907251,
+        "units": "E14 ?TAC15 ?CM11X4 ?BC5 ?T9"
+    },
+    {
+        "id": "NF2306924",
+        "date": "2023-06-19",
+        "time": "9:37:24 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EDGEMAR AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "CF2304415",
+        "date": "2023-06-19",
+        "time": "9:29:27 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #36C ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "NF2306923",
         "date": "2023-06-19",
         "time": "9:23:46 AM",
@@ -8,18 +41,7 @@
         "location": "3 SANTA ELENA AVE ,DCY",
         "latitude": 37.6765114103193,
         "longitude": -122.478041317887,
-        "units": "E95"
-    },
-    {
-        "id": "MF2305467",
-        "date": "2023-06-19",
-        "time": "9:22:09 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "W BAYSHORE RD / DONOHOE ST",
-        "latitude": 37.4629815664788,
-        "longitude": -122.145789230931,
-        "units": "E1"
+        "units": ">E95"
     },
     {
         "id": "SF2307578",
@@ -30,7 +52,7 @@
         "location": "ROBERTA DR / BORDEN ST",
         "latitude": 37.5591015815771,
         "longitude": -122.292533926214,
-        "units": ">T21 BC5 TAC25 CM21X3 E24"
+        "units": ""
     },
     {
         "id": "SF2307577",
@@ -44,17 +66,6 @@
         "units": ">E26"
     },
     {
-        "id": "BF2302271",
-        "date": "2023-06-19",
-        "time": "9:18:05 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTMOOR DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
         "id": "NF2306922",
         "date": "2023-06-19",
         "time": "9:13:43 AM",
@@ -64,28 +75,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "RF2306908",
-        "date": "2023-06-19",
-        "time": "9:13:03 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "FRANKLIN ST / DILLER ST",
-        "latitude": 37.4825082111971,
-        "longitude": -122.228253948206,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2306907",
-        "date": "2023-06-19",
-        "time": "9:12:50 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN CARLOS AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
     },
     {
         "id": "NF2306920",
@@ -107,17 +96,6 @@
         "location": "TRAIN TRACK ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2306906",
-        "date": "2023-06-19",
-        "time": "9:02:20 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "INDUSTRIAL RD #G ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": "E6"
     }
 ]
