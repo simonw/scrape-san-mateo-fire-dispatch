@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2302295",
+        "date": "2023-06-20",
+        "time": "2:22:47 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?Q62"
+    },
+    {
+        "id": "MF2305504",
+        "date": "2023-06-20",
+        "time": "2:20:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO UNIVERSITY AVE",
+        "latitude": 37.4653880538424,
+        "longitude": -122.149491775869,
+        "units": "SQ401 E2 BC8 T2 E1CM11X4 ?TAC15"
+    },
+    {
+        "id": "SF2307651",
+        "date": "2023-06-20",
+        "time": "2:12:38 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "READ AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
+        "id": "WF2301145",
+        "date": "2023-06-20",
+        "time": "2:11:15 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "205 CHEROKEE WAY ,PVY",
+        "latitude": 37.3820271522742,
+        "longitude": -122.210358686393,
+        "units": ">E8"
+    },
+    {
         "id": "HF2301740",
         "date": "2023-06-20",
         "time": "2:01:32 PM",
@@ -8,18 +52,7 @@
         "location": "501 KELLY AVE ,HMB",
         "latitude": 37.4643994013246,
         "longitude": -122.433517635433,
-        "units": "E40"
-    },
-    {
-        "id": "RF2306949",
-        "date": "2023-06-20",
-        "time": "2:01:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "INDUSTRIAL WAY / FLOWER ST",
-        "latitude": 37.4968566928805,
-        "longitude": -122.239325942927,
-        "units": "E15"
+        "units": ""
     },
     {
         "id": "NF2306961",
@@ -30,7 +63,7 @@
         "location": "SKYLINE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "T95"
+        "units": ">T95"
     },
     {
         "id": "MF2305503",
@@ -41,7 +74,7 @@
         "location": "SB 101 / NO WILLOW RD",
         "latitude": 37.4775111992726,
         "longitude": -122.170198805936,
-        "units": ">BC101 >E5"
+        "units": "BC101"
     },
     {
         "id": "RF2306948",
@@ -52,6 +85,6 @@
         "location": "E BAYSHORE RD / WHIPPLE AVE",
         "latitude": 37.497401081283,
         "longitude": -122.232601910177,
-        "units": "CM11X3 >E11 ?VFIR22 >E9 >E512>BC3 >E16"
+        "units": "E13 E77 BC1 E10 E14E1771 BC11 E15 ?WT158 >E512"
     }
 ]
