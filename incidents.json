@@ -1,14 +1,36 @@
 [
     {
+        "id": "MF2305485",
+        "date": "2023-06-19",
+        "time": "10:18:13 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PLUMAS AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "HF2301737",
+        "date": "2023-06-19",
+        "time": "10:10:31 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E40"
+    },
+    {
         "id": "SF2307619",
         "date": "2023-06-19",
         "time": "10:02:17 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Landscape fire",
+        "category": "Grass fire",
         "location": "1901 J HART CLINTON DR #SHOP ,SMO",
         "latitude": 37.5736116481715,
         "longitude": -122.301825299744,
-        "units": "E24 ?FECC"
+        "units": ">BC5 ?VFIR23 CM21X5 >E28 >E21>E24"
     },
     {
         "id": "MF2305484",
@@ -22,17 +44,6 @@
         "units": ">E2"
     },
     {
-        "id": "FF2303643",
-        "date": "2023-06-19",
-        "time": "9:37:52 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "2350 GALWAY DR ,SSF",
-        "latitude": 37.6451214132505,
-        "longitude": -122.456350928713,
-        "units": ">E64"
-    },
-    {
         "id": "SF2307618",
         "date": "2023-06-19",
         "time": "9:34:10 PM",
@@ -42,16 +53,5 @@
         "latitude": 37.5076787187232,
         "longitude": -122.294528319716,
         "units": ">E15"
-    },
-    {
-        "id": "SF2307616",
-        "date": "2023-06-19",
-        "time": "9:13:45 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALOS VERDES CT #103 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
