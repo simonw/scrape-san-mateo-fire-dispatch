@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2301740",
+        "date": "2023-06-20",
+        "time": "2:01:32 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "501 KELLY AVE ,HMB",
+        "latitude": 37.4643994013246,
+        "longitude": -122.433517635433,
+        "units": "E40"
+    },
+    {
+        "id": "RF2306949",
+        "date": "2023-06-20",
+        "time": "2:01:01 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "INDUSTRIAL WAY / FLOWER ST",
+        "latitude": 37.4968566928805,
+        "longitude": -122.239325942927,
+        "units": "E15"
+    },
+    {
+        "id": "NF2306961",
+        "date": "2023-06-20",
+        "time": "1:59:58 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SKYLINE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T95"
+    },
+    {
         "id": "MF2305503",
         "date": "2023-06-20",
         "time": "1:35:58 PM",
@@ -8,7 +41,7 @@
         "location": "SB 101 / NO WILLOW RD",
         "latitude": 37.4775111992726,
         "longitude": -122.170198805936,
-        "units": ">E5 >E2 BC101 T2 CM11X1?TAC15"
+        "units": ">BC101 >E5"
     },
     {
         "id": "RF2306948",
@@ -19,28 +52,6 @@
         "location": "E BAYSHORE RD / WHIPPLE AVE",
         "latitude": 37.497401081283,
         "longitude": -122.232601910177,
-        "units": ">E9 >BC3 E12 E11 E16CM11X3 ?VFIR22"
-    },
-    {
-        "id": "LF2300641",
-        "date": "2023-06-20",
-        "time": "1:22:53 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "HILLSIDE BLVD / SERRAMONTE BLVD",
-        "latitude": 37.6807499863507,
-        "longitude": -122.452867552725,
-        "units": ">E86 >BC19 CM31X3 TAC35"
-    },
-    {
-        "id": "DF2301430",
-        "date": "2023-06-20",
-        "time": "1:21:39 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BUNKER HILL DR ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T17"
+        "units": "CM11X3 >E11 ?VFIR22 >E9 >E512>BC3 >E16"
     }
 ]
