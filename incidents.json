@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2307680",
+        "id": "CF2304465",
         "date": "2023-06-21",
-        "time": "9:02:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:26:43 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #2 ,BLM",
+        "location": "BARCLAY AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": "E37"
+    },
+    {
+        "id": "MF2305523",
+        "date": "2023-06-21",
+        "time": "9:19:27 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHARON PARK DR #B301 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "FF2303671",
+        "date": "2023-06-21",
+        "time": "9:14:02 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MILTONIA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "RF2306974",
+        "date": "2023-06-21",
+        "time": "9:13:22 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "152 OAK AVE ,RCY",
+        "latitude": 37.476045376498,
+        "longitude": -122.224847074762,
+        "units": ">E20"
+    },
+    {
+        "id": "SF2307681",
+        "date": "2023-06-21",
+        "time": "9:06:14 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "WF2301152",
@@ -19,7 +63,7 @@
         "location": "SKYWOOD WAY ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 R56 TAC15 ?CM11X1"
+        "units": ">E58"
     },
     {
         "id": "FF2303670",
@@ -30,18 +74,7 @@
         "location": "100 E GRAND AVE ,SSF",
         "latitude": 37.6539351661943,
         "longitude": -122.405364938335,
-        "units": ">Q62"
-    },
-    {
-        "id": "SF2307679",
-        "date": "2023-06-21",
-        "time": "8:34:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": ">Q62 CM31X1 >E61"
     },
     {
         "id": "SF2307676",
@@ -52,6 +85,6 @@
         "location": "2183 TRAIN TRACK ,BLM",
         "latitude": 37.5212288924643,
         "longitude": -122.276486272478,
-        "units": "PR5 PR5E"
+        "units": ">E14 >PR5B >PR5E"
     }
 ]
