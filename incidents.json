@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2307708",
+        "id": "FF2303686",
         "date": "2023-06-21",
-        "time": "10:23:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "120 SEM LN ,BLM",
-        "latitude": 37.5249242961001,
-        "longitude": -122.266962106106,
-        "units": "BC5 E14 T23 ?TAC15 ?CM11X5"
+        "time": "10:42:15 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SWIFT AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?Q62"
+    },
+    {
+        "id": "CF2304474",
+        "date": "2023-06-21",
+        "time": "10:32:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "MILLBRAE AVE / S EL CAMINO REAL",
+        "latitude": 37.5985188871241,
+        "longitude": -122.387409437657,
+        "units": ">T34 >BC8 >E37 >CM21X1 ?TAC25"
     },
     {
         "id": "FF2303685",
@@ -31,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E26"
-    },
-    {
-        "id": "NF2307002",
-        "date": "2023-06-21",
-        "time": "10:03:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
