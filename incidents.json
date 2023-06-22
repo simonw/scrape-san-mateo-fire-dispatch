@@ -1,14 +1,36 @@
 [
     {
-        "id": "DF2301441",
+        "id": "SF2307735",
         "date": "2023-06-22",
-        "time": "12:57:01 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "1661 ASCENSION DR ,EIC",
-        "latitude": 37.5264639977341,
-        "longitude": -122.336724668606,
-        "units": ">T17"
+        "time": "1:20:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CALIFORNIA DR / PENINSULA AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "RF2307024",
+        "date": "2023-06-22",
+        "time": "1:17:29 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "610 ELM ST ,SNC",
+        "latitude": 37.5036550817192,
+        "longitude": -122.262375580056,
+        "units": ">T9 >E13 >E16"
+    },
+    {
+        "id": "SF2307734",
+        "date": "2023-06-22",
+        "time": "1:15:07 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WARREN RD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
     },
     {
         "id": "SF2307733",
@@ -19,29 +41,7 @@
         "location": "WB 92 / EO ALAMEDA DE LAS PULGAS",
         "latitude": 37.5279151497987,
         "longitude": -122.331397016459,
-        "units": "CM21X4 >E27 E17 ?TAC25"
-    },
-    {
-        "id": "CF2304488",
-        "date": "2023-06-22",
-        "time": "12:45:26 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "311 AIRPORT BLVD ,BRM",
-        "latitude": 37.5909104063444,
-        "longitude": -122.335307637788,
-        "units": ">E24"
-    },
-    {
-        "id": "WF2301158",
-        "date": "2023-06-22",
-        "time": "12:43:19 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WESTRIDGE DR ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
+        "units": ">E27"
     },
     {
         "id": "LF2300649",
@@ -52,6 +52,6 @@
         "location": "THORNHILL DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">E86"
+        "units": "E86"
     }
 ]
