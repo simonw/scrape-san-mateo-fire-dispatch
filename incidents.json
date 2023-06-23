@@ -1,14 +1,69 @@
 [
     {
-        "id": "NF2307050",
+        "id": "MF2305594",
         "date": "2023-06-23",
-        "time": "11:24:16 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "11:39:57 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / SO UNIVERSITY AVE",
+        "latitude": 37.4562476390862,
+        "longitude": -122.13389083789,
+        "units": "E2 T2 E77 BC101 CM11X4?TAC17"
+    },
+    {
+        "id": "RF2307064",
+        "date": "2023-06-23",
+        "time": "11:37:19 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "266 INDUSTRIAL RD ,SNC",
+        "latitude": 37.5171070564266,
+        "longitude": -122.264369667549,
+        "units": "CM11X5 E26 BC3 T9 ?TAC16"
+    },
+    {
+        "id": "LF2300652",
+        "date": "2023-06-23",
+        "time": "11:32:35 AM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "CORONADO AVE #103 ,DCY",
+        "location": "REINER ST ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": ">E86"
+    },
+    {
+        "id": "MF2305593",
+        "date": "2023-06-23",
+        "time": "11:31:39 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HILLVIEW DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "SF2307776",
+        "date": "2023-06-23",
+        "time": "11:30:55 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2307775",
+        "date": "2023-06-23",
+        "time": "11:27:46 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BARCLAY WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
     },
     {
         "id": "BF2302325",
@@ -22,17 +77,6 @@
         "units": ">E52"
     },
     {
-        "id": "MF2305592",
-        "date": "2023-06-23",
-        "time": "11:00:44 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD #16 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
         "id": "DF2301446",
         "date": "2023-06-23",
         "time": "10:55:28 AM",
@@ -41,6 +85,6 @@
         "location": "259 WINDING WAY ,DVN",
         "latitude": 37.494318779031,
         "longitude": -122.279103018526,
-        "units": "?CM11X1 ?TAC15 >E14 >E13 >E15"
+        "units": ">E14 >E13"
     }
 ]
