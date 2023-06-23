@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2305590",
+        "date": "2023-06-23",
+        "time": "10:42:30 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL CT #T8 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "T2"
+    },
+    {
+        "id": "RF2307062",
+        "date": "2023-06-23",
+        "time": "10:41:47 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "SF2307773",
+        "date": "2023-06-23",
+        "time": "10:34:19 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1 TWIN PINES LN #HALL ,BLM",
+        "latitude": 37.5179224329484,
+        "longitude": -122.276793712051,
+        "units": ">E14"
+    },
+    {
+        "id": "SF2307772",
+        "date": "2023-06-23",
+        "time": "10:30:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ORINDA DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "RF2307061",
         "date": "2023-06-23",
         "time": "10:26:42 AM",
@@ -8,40 +52,7 @@
         "location": "BLOMQUIST ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E9"
-    },
-    {
-        "id": "NF2307046",
-        "date": "2023-06-23",
-        "time": "10:16:27 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IMPERIAL WAY #101 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "SF2307771",
-        "date": "2023-06-23",
-        "time": "10:11:52 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #312 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "DF2301444",
-        "date": "2023-06-23",
-        "time": "10:02:44 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "402 WINDING WAY ,DVN",
-        "latitude": 37.4940910099157,
-        "longitude": -122.279631952155,
-        "units": ">E15"
+        "units": ">E9"
     },
     {
         "id": "SF2307768",
@@ -52,6 +63,6 @@
         "location": "E POPLAR AVE / N BAYSHORE BLVD",
         "latitude": 37.5805120541171,
         "longitude": -122.32408571596,
-        "units": "CM21X1 TAC27 >E21 >E24"
+        "units": ">E24"
     }
 ]
