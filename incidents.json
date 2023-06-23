@@ -1,25 +1,36 @@
 [
     {
-        "id": "MF2305602",
+        "id": "HF2301760",
         "date": "2023-06-23",
-        "time": "3:03:28 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "98 MONTE VISTA AVE ,ATN",
-        "latitude": 37.4424796992479,
-        "longitude": -122.207641363949,
-        "units": "?E6"
+        "time": "3:21:58 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "230 CABRILLO HWY S ,HMB",
+        "latitude": 37.4655814799176,
+        "longitude": -122.434299580299,
+        "units": "E40"
     },
     {
-        "id": "SF2307786",
+        "id": "FF2303716",
         "date": "2023-06-23",
-        "time": "3:00:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:20:44 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Elevator rescue",
+        "location": "275 S AIRPORT BLVD ,SSF",
+        "latitude": 37.6463849553125,
+        "longitude": -122.404273368693,
+        "units": "Q62 CM31X1 BC17"
+    },
+    {
+        "id": "FF2303715",
+        "date": "2023-06-23",
+        "time": "3:18:44 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "NOTRE DAME AVE ,BLM",
+        "location": "S AIRPORT BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E61"
     },
     {
         "id": "SF2307785",
@@ -31,49 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E27"
-    },
-    {
-        "id": "MF2305601",
-        "date": "2023-06-23",
-        "time": "2:53:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "76 ALMENDRAL AVE ,ATN",
-        "latitude": 37.4599955632882,
-        "longitude": -122.208666061453,
-        "units": ">E3"
-    },
-    {
-        "id": "FF2303714",
-        "date": "2023-06-23",
-        "time": "2:49:13 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FORBES BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "MF2305600",
-        "date": "2023-06-23",
-        "time": "2:43:38 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1781 E BAYSHORE RD ,EPA",
-        "latitude": 37.4589407354757,
-        "longitude": -122.13577955583,
-        "units": ">T2 >E2 CM11X1 ?TAC15"
-    },
-    {
-        "id": "NF2307052",
-        "date": "2023-06-23",
-        "time": "2:32:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE PLZ ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
