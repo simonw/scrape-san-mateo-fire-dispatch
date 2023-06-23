@@ -1,14 +1,47 @@
 [
     {
-        "id": "LF2300650",
+        "id": "SF2307752",
         "date": "2023-06-22",
-        "time": "9:40:56 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "10:01:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "D ST ,BRD",
+        "location": "S SAN MATEO DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E21"
+    },
+    {
+        "id": "BF2302321",
+        "date": "2023-06-22",
+        "time": "9:59:57 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Trash fire",
+        "location": "135 LONDON CT ,SNB",
+        "latitude": 37.6082564541845,
+        "longitude": -122.429757782557,
+        "units": "E52"
+    },
+    {
+        "id": "RF2307047",
+        "date": "2023-06-22",
+        "time": "9:59:36 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "564 HARBOR COLONY CT ,RWS",
+        "latitude": 37.5297879480431,
+        "longitude": -122.248493266192,
+        "units": ">E20"
+    },
+    {
+        "id": "SF2307751",
+        "date": "2023-06-22",
+        "time": "9:46:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "3005 CLEARVIEW WAY ,SMO",
+        "latitude": 37.5344435609217,
+        "longitude": -122.331291857895,
+        "units": ">E27"
     },
     {
         "id": "MF2305581",
@@ -22,39 +55,6 @@
         "units": ">E77"
     },
     {
-        "id": "SF2307750",
-        "date": "2023-06-22",
-        "time": "9:33:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2307046",
-        "date": "2023-06-22",
-        "time": "9:27:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2305578",
-        "date": "2023-06-22",
-        "time": "9:15:41 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BUCHANAN CT ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "FF2303700",
         "date": "2023-06-22",
         "time": "9:15:23 PM",
@@ -63,7 +63,7 @@
         "location": "S AIRPORT BLVD / N ACCESS RD",
         "latitude": 37.6391470084715,
         "longitude": -122.401196848586,
-        "units": ">Q62"
+        "units": ""
     },
     {
         "id": "CF2304493",
@@ -74,28 +74,6 @@
         "location": "SEABURY RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "SF2307749",
-        "date": "2023-06-22",
-        "time": "9:15:02 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #505 ,FCY",
-        "latitude": null,
-        "longitude": null,
         "units": ""
-    },
-    {
-        "id": "HF2301753",
-        "date": "2023-06-22",
-        "time": "9:10:38 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "3 MIRAMONTES POINT RD ,HMB",
-        "latitude": 37.4342935873734,
-        "longitude": -122.440402395401,
-        "units": ">E40"
     }
 ]
