@@ -1,35 +1,57 @@
 [
     {
-        "id": "SF2307842",
+        "id": "SF2307844",
         "date": "2023-06-25",
-        "time": "12:12:43 AM",
+        "time": "12:42:06 AM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "S DELAWARE ST / 2ND AVE",
+        "latitude": 37.5679007585373,
+        "longitude": -122.320902194614,
+        "units": "BC8 ?CM21X5 ?TAC25 E21 T21"
+    },
+    {
+        "id": "FF2303747",
+        "date": "2023-06-25",
+        "time": "12:40:09 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "N IDAHO ST #4 ,SMO",
+        "location": "EL CAMINO REAL #100 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": "E63"
     },
     {
-        "id": "SF2307841",
+        "id": "BF2302352",
         "date": "2023-06-25",
-        "time": "12:08:26 AM",
+        "time": "12:39:33 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "750 GLENVIEW DR ,SNB",
+        "latitude": 37.6168963470744,
+        "longitude": -122.439575163172,
+        "units": "?E52"
+    },
+    {
+        "id": "SF2307843",
+        "date": "2023-06-25",
+        "time": "12:31:38 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "401 S NORFOLK ST #109 ,SMO",
-        "latitude": 37.5723895636353,
-        "longitude": -122.309674783608,
-        "units": ">E24"
+        "category": "Medical aid",
+        "location": "CARLMONT DR #W111 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
     },
     {
-        "id": "MF2305646",
+        "id": "DF2301460",
         "date": "2023-06-25",
-        "time": "6/24/2023 11:34:38 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "12:24:09 AM",
+        "summary": "County Fire on Control-1",
         "category": "Public assist",
-        "location": "225 HANNA WAY ,MNP",
-        "latitude": 37.4630701793562,
-        "longitude": -122.167539038332,
-        "units": ">E1"
+        "location": "1 SAN GREGORIO BEACH RD ,SNG",
+        "latitude": 37.3231476337668,
+        "longitude": -122.401027417072,
+        "units": ">E1761 >E59 R57"
     }
 ]
