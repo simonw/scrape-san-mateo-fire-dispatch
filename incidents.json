@@ -1,5 +1,71 @@
 [
     {
+        "id": "NF2307188",
+        "date": "2023-06-27",
+        "time": "1:02:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LERIDA WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "SF2307954",
+        "date": "2023-06-27",
+        "time": "12:59:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BRYCE CT ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "RF2307224",
+        "date": "2023-06-27",
+        "time": "12:58:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY HARBOUR DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "FF2303808",
+        "date": "2023-06-27",
+        "time": "12:58:43 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "STAMFORD CT ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "FF2303807",
+        "date": "2023-06-27",
+        "time": "12:57:29 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LA CROSSE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "CF2304585",
+        "date": "2023-06-27",
+        "time": "12:50:23 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "1340 MURCHISON DR ,MLB",
+        "latitude": 37.5892954951155,
+        "longitude": -122.402861674217,
+        "units": ">E38"
+    },
+    {
         "id": "RF2307223",
         "date": "2023-06-27",
         "time": "12:39:22 PM",
@@ -8,18 +74,7 @@
         "location": "GREENBRIAR RD ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E18"
-    },
-    {
-        "id": "NF2307187",
-        "date": "2023-06-27",
-        "time": "12:33:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HICKEY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": "*>E18"
     },
     {
         "id": "BF2302377",
@@ -30,6 +85,6 @@
         "location": "1000 NATIONAL AVE ,SNB",
         "latitude": 37.6330851842369,
         "longitude": -122.421275946215,
-        "units": ">PR16 >E51"
+        "units": ">E51 >PR16"
     }
 ]
