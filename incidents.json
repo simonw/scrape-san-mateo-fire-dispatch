@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2308003",
+        "date": "2023-06-28",
+        "time": "1:17:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "120 N B ST ,SMO",
+        "latitude": 37.5691600364669,
+        "longitude": -122.325785150518,
+        "units": ">T21 >E21 CM21X2 ?TAC25"
+    },
+    {
+        "id": "HF2301804",
+        "date": "2023-06-28",
+        "time": "1:15:42 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SPRUCE ST ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
         "id": "BF2302388",
         "date": "2023-06-28",
         "time": "1:01:46 PM",
@@ -8,29 +30,7 @@
         "location": "SNEATH LN #227 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "CF2304607",
-        "date": "2023-06-28",
-        "time": "1:00:11 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "108 CALIFORNIA DR ,MLB",
-        "latitude": 37.5984550341595,
-        "longitude": -122.385567663552,
-        "units": "T34 E34 BC8 CM21X3 ?TAC25"
-    },
-    {
-        "id": "FF2303827",
-        "date": "2023-06-28",
-        "time": "12:59:10 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BIRCH AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
+        "units": ">E51"
     },
     {
         "id": "CF2304606",
@@ -41,7 +41,7 @@
         "location": "HEMLOCK AVE #24 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": "E37"
     },
     {
         "id": "SF2308002",
@@ -64,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T51"
-    },
-    {
-        "id": "DF2301476",
-        "date": "2023-06-28",
-        "time": "12:50:32 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALPINE RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "NF2307221",
-        "date": "2023-06-28",
-        "time": "12:47:45 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALEXANDER AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2303826",
-        "date": "2023-06-28",
-        "time": "12:45:19 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "2704 DUHALLOW WAY ,SSF",
-        "latitude": 37.6441616492226,
-        "longitude": -122.466796666562,
-        "units": ">E64"
     }
 ]
