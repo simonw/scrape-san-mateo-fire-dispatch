@@ -1,24 +1,90 @@
 [
     {
-        "id": "SF2308038",
+        "id": "SF2308042",
         "date": "2023-06-29",
-        "time": "9:02:44 AM",
+        "time": "9:27:03 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "515 30TH AVE ,SMO",
+        "latitude": 37.5352682727818,
+        "longitude": -122.311581132087,
+        "units": "E23"
+    },
+    {
+        "id": "SF2308041",
+        "date": "2023-06-29",
+        "time": "9:26:52 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "N EL CAMINO REAL #235 ,SMO",
+        "location": "CRESTWOOD DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "SF2308040",
+        "date": "2023-06-29",
+        "time": "9:25:57 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST ,SMO",
         "latitude": null,
         "longitude": null,
         "units": "E21"
     },
     {
-        "id": "SF2308039",
+        "id": "RF2307290",
         "date": "2023-06-29",
-        "time": "9:02:08 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:24:36 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "819 MEDITERRANEAN LN ,RWS",
+        "latitude": 37.5366594463275,
+        "longitude": -122.244697944164,
+        "units": "E16 ?E13"
+    },
+    {
+        "id": "MF2305769",
+        "date": "2023-06-29",
+        "time": "9:19:21 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JAMIE LN ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "FF2303842",
+        "date": "2023-06-29",
+        "time": "9:18:06 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRAND AVE #11 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "CF2304632",
+        "date": "2023-06-29",
+        "time": "9:14:05 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Wires down (not sparking)",
-        "location": "OCCIDENTAL AVE / WARREN RD",
-        "latitude": 37.5688419366394,
-        "longitude": -122.348775087098,
-        "units": "E32"
+        "location": "SUMMIT DR / BELLA VISTA DR",
+        "latitude": 37.5711850039304,
+        "longitude": -122.385619279481,
+        "units": ">E32"
+    },
+    {
+        "id": "CF2304631",
+        "date": "2023-06-29",
+        "time": "9:09:49 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #404 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
     }
 ]
