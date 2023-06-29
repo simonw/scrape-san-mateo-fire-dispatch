@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2308042",
+        "id": "SF2308043",
         "date": "2023-06-29",
-        "time": "9:27:03 AM",
+        "time": "9:39:23 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "515 30TH AVE ,SMO",
-        "latitude": 37.5352682727818,
-        "longitude": -122.311581132087,
-        "units": "E23"
+        "category": "Medical aid",
+        "location": "NB 101 / SO KEHOE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29 E26 CM21X2 ?TAC25"
+    },
+    {
+        "id": "DF2301478",
+        "date": "2023-06-29",
+        "time": "9:37:58 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SB 280 / NO EDGEWOOD RD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18 E17 ?TAC15 ?CM11X4"
+    },
+    {
+        "id": "CF2304634",
+        "date": "2023-06-29",
+        "time": "9:36:54 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "2500 SUMMIT DR ,HIL",
+        "latitude": 37.5742120720289,
+        "longitude": -122.379621592344,
+        "units": ">E32"
     },
     {
         "id": "SF2308041",
@@ -19,7 +41,7 @@
         "location": "CRESTWOOD DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
+        "units": ">E27"
     },
     {
         "id": "SF2308040",
@@ -30,7 +52,7 @@
         "location": "S NORFOLK ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ""
     },
     {
         "id": "RF2307290",
@@ -41,7 +63,7 @@
         "location": "819 MEDITERRANEAN LN ,RWS",
         "latitude": 37.5366594463275,
         "longitude": -122.244697944164,
-        "units": "E16 ?E13"
+        "units": ">E16"
     },
     {
         "id": "MF2305769",
@@ -53,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E2"
-    },
-    {
-        "id": "FF2303842",
-        "date": "2023-06-29",
-        "time": "9:18:06 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE #11 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2304632",
-        "date": "2023-06-29",
-        "time": "9:14:05 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "SUMMIT DR / BELLA VISTA DR",
-        "latitude": 37.5711850039304,
-        "longitude": -122.385619279481,
-        "units": ">E32"
-    },
-    {
-        "id": "CF2304631",
-        "date": "2023-06-29",
-        "time": "9:09:49 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #404 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
     }
 ]
