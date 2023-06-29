@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2308046",
+        "id": "BF2302403",
         "date": "2023-06-29",
-        "time": "11:25:28 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:38:43 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "1099 ADMIRAL CT ,SNB",
+        "latitude": 37.6340263494716,
+        "longitude": -122.422181047521,
+        "units": "E63 T51 CM31X3 E94 BC16E52 ?TAC35"
+    },
+    {
+        "id": "BF2302402",
+        "date": "2023-06-29",
+        "time": "11:37:16 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "E HILLSDALE BLVD ,FCY",
+        "location": "CHESTNUT AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
+        "units": ">E51"
     },
     {
         "id": "CF2304637",
@@ -19,18 +30,7 @@
         "location": "ENCINA DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
-    },
-    {
-        "id": "MF2305773",
-        "date": "2023-06-29",
-        "time": "11:19:56 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E SELBY LN ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": ">E38"
     },
     {
         "id": "MF2305772",
@@ -42,16 +42,5 @@
         "latitude": 37.4568887452104,
         "longitude": -122.1296631968,
         "units": ">E2"
-    },
-    {
-        "id": "RF2307293",
-        "date": "2023-06-29",
-        "time": "10:50:08 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #3121 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
     }
 ]
