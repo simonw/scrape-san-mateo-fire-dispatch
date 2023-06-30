@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2307341",
+        "id": "SF2308093",
         "date": "2023-06-30",
-        "time": "10:39:10 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:56:06 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MAPLE ST #470 ,RCY",
+        "location": "CATAMARAN ST #3 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": ">E29"
+    },
+    {
+        "id": "MF2305794",
+        "date": "2023-06-30",
+        "time": "10:54:30 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #218B ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2308091",
+        "date": "2023-06-30",
+        "time": "10:48:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1770 S AMPHLETT BLVD ,SMO",
+        "latitude": 37.5561049271613,
+        "longitude": -122.300963658225,
+        "units": ">CM21X1 >BC5 >TAC25 >T23 >E26"
     },
     {
         "id": "MF2305793",
@@ -19,18 +41,7 @@
         "location": "ATHERTON AVE ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "NF2307276",
-        "date": "2023-06-30",
-        "time": "10:26:43 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ADOBE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": ""
     },
     {
         "id": "WF2301194",
@@ -41,17 +52,6 @@
         "location": "135 PORTOLA RD ,PVY",
         "latitude": 37.3721833095757,
         "longitude": -122.209527473065,
-        "units": ">E8"
-    },
-    {
-        "id": "CF2304666",
-        "date": "2023-06-30",
-        "time": "10:11:58 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SKYLINE BLVD / HILLCREST BLVD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "units": "*>E8"
     }
 ]
