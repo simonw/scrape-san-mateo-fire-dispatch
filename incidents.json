@@ -1,25 +1,36 @@
 [
     {
-        "id": "SF2308097",
+        "id": "CF2304670",
         "date": "2023-06-30",
-        "time": "2:14:20 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "2:34:34 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "PALM PL ,SMO",
+        "location": "SAN PABLO AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": ">E32"
     },
     {
-        "id": "NF2307281",
+        "id": "RF2307347",
         "date": "2023-06-30",
-        "time": "2:10:48 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "2:31:14 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "SERRAMONTE CTR #D ,DCY",
+        "location": "EATON AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">T95"
+        "units": ">E16"
+    },
+    {
+        "id": "MF2305801",
+        "date": "2023-06-30",
+        "time": "2:27:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Gas main break",
+        "location": "1844 VALPARAISO AVE ,WMP",
+        "latitude": 37.4386006567731,
+        "longitude": -122.202943277367,
+        "units": "?TAC16 >E3 CM11X5 >E4"
     },
     {
         "id": "MF2305800",
@@ -30,17 +41,6 @@
         "location": "203 SANTA MARGARITA AVE ,MNP",
         "latitude": 37.4572606726174,
         "longitude": -122.164624996364,
-        "units": ">E5 >T2 >BC1 >E6 >E1?TAC15 CM11X1 >SQ401"
-    },
-    {
-        "id": "CF2304669",
-        "date": "2023-06-30",
-        "time": "2:03:15 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1864 ROLLINS RD ,BRM",
-        "latitude": 37.5990149934986,
-        "longitude": -122.380962436766,
-        "units": ">E34"
+        "units": "CM11X1 ?TAC15 >E6 >BC1 >SQ401>T2 >E1"
     }
 ]
