@@ -1,14 +1,47 @@
 [
     {
-        "id": "HF2301820",
+        "id": "WF2301196",
         "date": "2023-06-30",
-        "time": "2:56:22 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "3:23:46 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "4175 WOODSIDE RD ,WDS",
+        "latitude": 37.4096538273193,
+        "longitude": -122.256585095775,
+        "units": "E7"
+    },
+    {
+        "id": "RF2307352",
+        "date": "2023-06-30",
+        "time": "3:16:17 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "LE MANS WAY ,HMB",
+        "location": "ROCKPORT AVE ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E41"
+        "units": ">E20"
+    },
+    {
+        "id": "FF2303864",
+        "date": "2023-06-30",
+        "time": "3:12:29 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "TUNITAS LN ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "RF2307351",
+        "date": "2023-06-30",
+        "time": "3:10:22 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE #1 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "MF2305800",
@@ -19,6 +52,6 @@
         "location": "203 SANTA MARGARITA AVE ,MNP",
         "latitude": 37.4572606726174,
         "longitude": -122.164624996364,
-        "units": "CM11X1 ?TAC15 >E6 >BC1 >SQ401>T2 >E1"
+        "units": "CM11X1 ?TAC15 >E6 >SQ401 >E1"
     }
 ]
