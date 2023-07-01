@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2301823",
+        "date": "2023-06-30",
+        "time": "8:38:38 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KELLY AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "MF2305817",
+        "date": "2023-06-30",
+        "time": "8:34:37 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD #A ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "MF2305816",
+        "date": "2023-06-30",
+        "time": "8:33:54 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "2067 ASHTON AVE ,WMP",
+        "latitude": 37.4330327191043,
+        "longitude": -122.202561303314,
+        "units": ""
+    },
+    {
         "id": "RF2307366",
         "date": "2023-06-30",
         "time": "8:29:21 PM",
@@ -8,7 +41,7 @@
         "location": "BRIARFIELD AVE / WESTWOOD ST",
         "latitude": 37.4616599275381,
         "longitude": -122.245834891504,
-        "units": "E12"
+        "units": ">E12"
     },
     {
         "id": "LF2300681",
@@ -22,17 +55,6 @@
         "units": ">E86"
     },
     {
-        "id": "RF2307365",
-        "date": "2023-06-30",
-        "time": "8:22:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #634 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
         "id": "BF2302420",
         "date": "2023-06-30",
         "time": "8:20:29 PM",
@@ -42,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E51"
-    },
-    {
-        "id": "SF2308107",
-        "date": "2023-06-30",
-        "time": "8:11:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GARFIELD ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
     }
 ]
