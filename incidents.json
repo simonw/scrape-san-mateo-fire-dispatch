@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2304696",
+        "date": "2023-07-01",
+        "time": "4:15:33 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "530 BARBARA WAY ,HIL",
+        "latitude": 37.5527717366327,
+        "longitude": -122.373439358916,
+        "units": ">E33"
+    },
+    {
+        "id": "LF2300685",
+        "date": "2023-07-01",
+        "time": "4:08:43 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">BC19 >MED19 >E86"
+    },
+    {
+        "id": "MF2305840",
+        "date": "2023-07-01",
+        "time": "4:06:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E SELBY LN #105 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "NF2307323",
         "date": "2023-07-01",
         "time": "4:04:07 PM",
@@ -8,18 +41,7 @@
         "location": "BEPLER ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "NF2307322",
-        "date": "2023-07-01",
-        "time": "3:57:08 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">E91"
     },
     {
         "id": "CF2304695",
@@ -33,17 +55,6 @@
         "units": ">E38"
     },
     {
-        "id": "SF2308148",
-        "date": "2023-07-01",
-        "time": "3:48:01 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
         "id": "FF2303882",
         "date": "2023-07-01",
         "time": "3:44:27 PM",
@@ -53,16 +64,5 @@
         "latitude": 37.6421019498443,
         "longitude": -122.464790410541,
         "units": ">E64"
-    },
-    {
-        "id": "SF2308146",
-        "date": "2023-07-01",
-        "time": "3:17:00 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO E HILLSDALE BLVD",
-        "latitude": 37.5367073346711,
-        "longitude": -122.280511769518,
-        "units": ">E14"
     }
 ]
