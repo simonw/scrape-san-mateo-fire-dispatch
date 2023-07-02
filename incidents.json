@@ -1,14 +1,25 @@
 [
     {
-        "id": "HF2301843",
+        "id": "WF2301205",
         "date": "2023-07-01",
-        "time": "8:39:31 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "9:03:32 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "CYPRESS AVE ,MBH",
+        "location": "WILMINGTON WAY ,EML",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": ">E19"
+    },
+    {
+        "id": "MF2305843",
+        "date": "2023-07-01",
+        "time": "8:55:03 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "319 CONCORD DR ,MNP",
+        "latitude": 37.4561823591099,
+        "longitude": -122.157940380368,
+        "units": ">E1"
     },
     {
         "id": "HF2301842",
@@ -19,50 +30,6 @@
         "location": "251 SAN MATEO RD #17 ,HMB",
         "latitude": 37.4687353183573,
         "longitude": -122.425930612097,
-        "units": ">E40 ?CM41X1 T17 E1761 >E44>BC10 BC11 E27 E59 E72"
-    },
-    {
-        "id": "NF2307336",
-        "date": "2023-07-01",
-        "time": "8:36:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALE ST #8B ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "HF2301841",
-        "date": "2023-07-01",
-        "time": "8:36:30 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KELMORE ST ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "LF2300688",
-        "date": "2023-07-01",
-        "time": "8:27:51 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Lock out - residential",
-        "location": "101 A ST #4 ,BRD",
-        "latitude": 37.6867674483913,
-        "longitude": -122.467951201326,
-        "units": ">E86"
-    },
-    {
-        "id": "CF2304704",
-        "date": "2023-07-01",
-        "time": "8:00:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "520 HILLCREST BLVD ,MLB",
-        "latitude": 37.5979262650628,
-        "longitude": -122.396584779516,
-        "units": ">E37 >T34"
+        "units": "?CM41X1 >E44 ?TAC45 >E40 >BC10"
     }
 ]
