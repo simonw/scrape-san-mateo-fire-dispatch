@@ -1,5 +1,38 @@
 [
     {
+        "id": "LF2300688",
+        "date": "2023-07-01",
+        "time": "8:27:51 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Lock out - residential",
+        "location": "101 A ST #4 ,BRD",
+        "latitude": 37.6867674483913,
+        "longitude": -122.467951201326,
+        "units": ">E86"
+    },
+    {
+        "id": "RF2307400",
+        "date": "2023-07-01",
+        "time": "8:22:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "POPLAR AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2307334",
+        "date": "2023-07-01",
+        "time": "8:20:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "NF2307333",
         "date": "2023-07-01",
         "time": "8:12:12 PM",
@@ -8,7 +41,7 @@
         "location": "IMPERIAL WAY #109 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "CF2304704",
@@ -19,29 +52,7 @@
         "location": "520 HILLCREST BLVD ,MLB",
         "latitude": 37.5979262650628,
         "longitude": -122.396584779516,
-        "units": ">E37"
-    },
-    {
-        "id": "HF2301840",
-        "date": "2023-07-01",
-        "time": "7:57:38 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "1480 N CABRILLO HWY ,HMB",
-        "latitude": 37.4787998977883,
-        "longitude": -122.442139564543,
-        "units": ">E44"
-    },
-    {
-        "id": "HF2301839",
-        "date": "2023-07-01",
-        "time": "7:55:04 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Lock out - vehicle",
-        "location": "1862 ETHELDORE ST ,MBH",
-        "latitude": 37.5286568286446,
-        "longitude": -122.497295961159,
-        "units": ">E41"
+        "units": "CM21X1 >E37 >T34"
     },
     {
         "id": "DF2301503",
@@ -52,17 +63,6 @@
         "location": "SKYLINE BLVD / PAGE MILL RD",
         "latitude": 37.3149197614327,
         "longitude": -122.18724185588,
-        "units": "TAC15 >E1769 >E58"
-    },
-    {
-        "id": "NF2307331",
-        "date": "2023-07-01",
-        "time": "7:25:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Smoke investigation",
-        "location": "2152 SKYLINE BLVD ,DCY",
-        "latitude": 37.7001010454059,
-        "longitude": -122.496688088862,
-        "units": ">E91"
+        "units": ">E1769"
     }
 ]
