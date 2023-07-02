@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2308161",
+        "date": "2023-07-01",
+        "time": "9:27:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "JAMES CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "MF2305846",
         "date": "2023-07-01",
         "time": "9:18:24 PM",
@@ -19,7 +30,7 @@
         "location": "EB 84 / UNIVERSITY AVE",
         "latitude": 37.48645840738,
         "longitude": -122.142501801018,
-        "units": ">SQ401 >E5 >E2 >BC101 E77?VFIR22 ?CM11X4"
+        "units": ">E2 ?CM11X4 ?VFIR22 >E77 >BC101>E5"
     },
     {
         "id": "BF2302431",
@@ -30,62 +41,7 @@
         "location": "FERNWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "NF2307338",
-        "date": "2023-07-01",
-        "time": "9:10:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IRVINGTON ST #3 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "RF2307403",
-        "date": "2023-07-01",
-        "time": "9:08:24 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "333 REDWOOD AVE ,RCY",
-        "latitude": 37.4738679642454,
-        "longitude": -122.225534281394,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2307337",
-        "date": "2023-07-01",
-        "time": "9:07:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WYANDOTTE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "RF2307402",
-        "date": "2023-07-01",
-        "time": "9:06:57 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #104 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "WF2301205",
-        "date": "2023-07-01",
-        "time": "9:03:32 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WILMINGTON WAY ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E19"
+        "units": ""
     },
     {
         "id": "HF2301842",
@@ -96,6 +52,6 @@
         "location": "251 SAN MATEO RD #17 ,HMB",
         "latitude": 37.4687353183573,
         "longitude": -122.425930612097,
-        "units": "?CM41X1 >E44 ?TAC45 >E40 >BC10"
+        "units": ">E44 >BC10"
     }
 ]
