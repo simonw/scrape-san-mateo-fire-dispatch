@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2305897",
+        "date": "2023-07-03",
+        "time": "12:40:57 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RUNNYMEDE ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "NF2307389",
+        "date": "2023-07-03",
+        "time": "12:30:35 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "N MAYFAIR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
         "id": "DF2301514",
         "date": "2023-07-03",
         "time": "12:23:07 PM",
@@ -8,18 +30,7 @@
         "location": "CUESTA REAL ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": "VFIR22 ?CO57 ?E58"
-    },
-    {
-        "id": "RF2307465",
-        "date": "2023-07-03",
-        "time": "12:21:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "2307 WHIPPLE AVE ,RCY",
-        "latitude": 37.4819198956371,
-        "longitude": -122.250169804861,
-        "units": "E10"
+        "units": "VFIR22 >E58 >R57"
     },
     {
         "id": "RF2307464",
@@ -31,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E77"
-    },
-    {
-        "id": "SF2308224",
-        "date": "2023-07-03",
-        "time": "11:42:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">BC5 CM21X5 ?TAC25 >E26"
     }
 ]
