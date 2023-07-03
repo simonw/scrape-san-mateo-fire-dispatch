@@ -1,36 +1,58 @@
 [
     {
-        "id": "SF2308229",
+        "id": "RF2307467",
         "date": "2023-07-03",
-        "time": "1:22:48 PM",
+        "time": "1:40:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GORDON ST / WOODSIDE RD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "NF2307392",
+        "date": "2023-07-03",
+        "time": "1:39:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST #222 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "SF2308230",
+        "date": "2023-07-03",
+        "time": "1:36:15 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALM AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "CF2304746",
-        "date": "2023-07-03",
-        "time": "1:20:41 PM",
-        "summary": "Central County Fire on Control-2",
         "category": "Public assist",
-        "location": "20 LORTON AVE #1 ,BRM",
-        "latitude": 37.576108107642,
-        "longitude": -122.342270134877,
-        "units": "T34"
+        "location": "127 N DELAWARE ST ,SMO",
+        "latitude": 37.5714365442838,
+        "longitude": -122.325123116975,
+        "units": ">E21"
     },
     {
-        "id": "CF2304745",
+        "id": "MF2305898",
         "date": "2023-07-03",
-        "time": "1:19:14 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "1:28:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "1 NEWELL CT #1112 ,EPA",
+        "latitude": 37.4575065373593,
+        "longitude": -122.138167024941,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2307466",
+        "date": "2023-07-03",
+        "time": "1:28:34 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "TAYLOR BLVD ,MLB",
+        "location": "OAKWOOD DR ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "HF2301857",
@@ -41,28 +63,6 @@
         "location": "CABRILLO HWY S #123 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "SF2308228",
-        "date": "2023-07-03",
-        "time": "1:09:13 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #117B ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "FF2303914",
-        "date": "2023-07-03",
-        "time": "12:54:48 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "HUNTINGTON AVE / NOOR AVE",
-        "latitude": 37.6417950075561,
-        "longitude": -122.419980868785,
-        "units": ">TAC35 >BC17 >CM31X3"
+        "units": "*>E40"
     }
 ]
