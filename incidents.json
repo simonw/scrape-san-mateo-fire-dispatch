@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2305913",
+        "date": "2023-07-03",
+        "time": "10:22:03 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GLENWOOD AVE #218 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "CF2304758",
+        "date": "2023-07-03",
+        "time": "10:16:23 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SKYFARM DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "FF2303923",
+        "date": "2023-07-03",
+        "time": "10:12:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "400 B ST ,SSF",
+        "latitude": 37.6478816196094,
+        "longitude": -122.426577629477,
+        "units": ">E63"
+    },
+    {
+        "id": "MF2305912",
+        "date": "2023-07-03",
+        "time": "10:11:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
         "id": "WF2301216",
         "date": "2023-07-03",
         "time": "10:03:11 PM",
@@ -8,18 +52,7 @@
         "location": "CREST RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "RF2307486",
-        "date": "2023-07-03",
-        "time": "9:58:14 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Grass fire",
-        "location": "SEAPORT BLVD / E BAYSHORE RD",
-        "latitude": 37.4929867127668,
-        "longitude": -122.213510776097,
-        "units": "BC3 E9 E5 E11 ?FECC?VFIR23 ?CM11X5"
+        "units": ">E4"
     },
     {
         "id": "MF2305910",
@@ -30,7 +63,7 @@
         "location": "UNIVERSITY AVE / WOODLAND AVE",
         "latitude": 37.4579749079162,
         "longitude": -122.141802268042,
-        "units": ">E2 >BC101 >T2 ?TAC16 ?CM11X3"
+        "units": "?CM11X3 >E2 ?TAC16 >BC101 >T2"
     },
     {
         "id": "DF2301519",
@@ -38,10 +71,10 @@
         "time": "9:57:08 PM",
         "summary": "County Fire on Control-1",
         "category": "Traffic accident",
-        "location": "CABRILLO HWY / BEAN HOLLOW RD",
+        "location": "9351 CABRILLO HWY ,SOS",
         "latitude": 37.2228162239643,
         "longitude": -122.406331209675,
-        "units": ">E59 E655 E1761 BC10 R57E40 ?TAC15 ?CO55"
+        "units": "?TAC15 >E1761 >E59"
     },
     {
         "id": "SF2308247",
@@ -53,38 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E26"
-    },
-    {
-        "id": "LF2300695",
-        "date": "2023-07-03",
-        "time": "9:49:13 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD #214 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "CF2304757",
-        "date": "2023-07-03",
-        "time": "9:41:05 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PARK RD #502 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "FF2303922",
-        "date": "2023-07-03",
-        "time": "8:54:07 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HEMLOCK AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
     }
 ]
