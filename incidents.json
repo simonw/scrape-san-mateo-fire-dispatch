@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2307461",
+        "id": "NF2307462",
         "date": "2023-07-04",
-        "time": "10:37:37 PM",
+        "time": "11:00:45 PM",
         "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #234C ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2308276",
+        "date": "2023-07-04",
+        "time": "10:52:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Trash fire",
-        "location": "500 OLD COUNTY RD ,PCF",
-        "latitude": 37.6087580390689,
-        "longitude": -122.496157874994,
-        "units": ">E72"
+        "location": "955 N AMPHLETT BLVD ,SMO",
+        "latitude": 37.5851450927528,
+        "longitude": -122.330339937404,
+        "units": ">E34"
     },
     {
         "id": "SF2308275",
@@ -19,7 +30,7 @@
         "location": "WB 92 / EO EDGEWATER BLVD",
         "latitude": 37.5599628722163,
         "longitude": -122.279418245863,
-        "units": ">BC5 >E26 E28 TAC25 T23CM21X5"
+        "units": ">E28"
     },
     {
         "id": "SF2308274",
@@ -31,82 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "MF2305939",
-        "date": "2023-07-04",
-        "time": "10:32:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LINCOLN ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "BF2302467",
-        "date": "2023-07-04",
-        "time": "10:30:14 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Trash fire",
-        "location": "195 BALBOA WAY ,SNB",
-        "latitude": 37.6143367271947,
-        "longitude": -122.413205323011,
-        "units": ">E52 >CH16"
-    },
-    {
-        "id": "BF2302466",
-        "date": "2023-07-04",
-        "time": "10:29:44 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Trash fire",
-        "location": "1252 EL CAMINO REAL #C ,SNB",
-        "latitude": 37.6388741849863,
-        "longitude": -122.420534195675,
-        "units": ">PR16 >E63"
-    },
-    {
-        "id": "SF2308273",
-        "date": "2023-07-04",
-        "time": "10:24:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "CF2304785",
-        "date": "2023-07-04",
-        "time": "10:14:53 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Structure fire",
-        "location": "ESTATES DR / CRESTVIEW DR",
-        "latitude": 37.5937473404281,
-        "longitude": -122.415444968336,
-        "units": ">E38"
-    },
-    {
-        "id": "RF2307515",
-        "date": "2023-07-04",
-        "time": "10:05:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Grass fire",
-        "location": "999 SKYWAY RD ,SNC",
-        "latitude": 37.5074749359292,
-        "longitude": -122.247004422058,
-        "units": "?CM11X2 >E9 VFIR22 >E512 >E13>BC3 ?FECC"
-    },
-    {
-        "id": "BF2302463",
-        "date": "2023-07-04",
-        "time": "9:45:32 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Grass fire",
-        "location": "7TH AVE / WALNUT ST",
-        "latitude": 37.6327587170907,
-        "longitude": -122.405710428602,
-        "units": ">E2607 >E51 >TO16"
     }
 ]
