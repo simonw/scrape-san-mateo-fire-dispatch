@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2305982",
+        "id": "NF2307519",
         "date": "2023-07-06",
-        "time": "8:19:56 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "380 WILLOW RD ,MNP",
-        "latitude": 37.4597072161466,
-        "longitude": -122.161006293795,
-        "units": ""
+        "time": "8:42:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #204C ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "SF2308336",
+        "date": "2023-07-06",
+        "time": "8:34:50 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2308335",
+        "date": "2023-07-06",
+        "time": "8:32:44 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "1636 RALSTON AVE ,BLM",
+        "latitude": 37.5141614937193,
+        "longitude": -122.288404719931,
+        "units": ">E15"
+    },
+    {
+        "id": "SF2308334",
+        "date": "2023-07-06",
+        "time": "8:32:39 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N AMPHLETT BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
     },
     {
         "id": "MF2305981",
@@ -19,7 +52,7 @@
         "location": "1281 EL CAMINO REAL ,MNP",
         "latitude": 37.4547033727166,
         "longitude": -122.186175596467,
-        "units": "CM11X3 ?TAC16 >T4 >BC1 >SQ401>E1"
+        "units": "CM11X3 ?TAC16 >BC1 >SQ401 >E1"
     },
     {
         "id": "WF2301228",
@@ -30,7 +63,7 @@
         "location": "SB 280 / NO SAND HILL RD",
         "latitude": 37.4282029747085,
         "longitude": -122.23430542581,
-        "units": "?TAC15 E6 >BC2 CM11X5 SQ407E19 >E4"
+        "units": "?TAC15 >BC2 CM11X5 >SQ407 >E19"
     },
     {
         "id": "WF2301227",
@@ -42,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E8"
-    },
-    {
-        "id": "RF2307569",
-        "date": "2023-07-06",
-        "time": "8:09:44 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JACKSON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "MF2305980",
-        "date": "2023-07-06",
-        "time": "8:05:25 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #320 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "FF2303963",
-        "date": "2023-07-06",
-        "time": "8:04:23 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Smoke investigation",
-        "location": "GREENWOOD DR / ROCKWOOD DR",
-        "latitude": 37.63728853464,
-        "longitude": -122.429975268759,
-        "units": ">E61"
     }
 ]
