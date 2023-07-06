@@ -1,14 +1,36 @@
 [
     {
-        "id": "FF2303966",
+        "id": "SF2308338",
         "date": "2023-07-06",
-        "time": "10:02:04 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "10:18:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "3115 DEL MONTE ST ,SMO",
+        "latitude": 37.5322524214052,
+        "longitude": -122.311918285939,
+        "units": "E23"
+    },
+    {
+        "id": "RF2307574",
+        "date": "2023-07-06",
+        "time": "10:18:12 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "NORTHWOOD DR ,SSF",
+        "location": "NUEVA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E10"
+    },
+    {
+        "id": "RF2307573",
+        "date": "2023-07-06",
+        "time": "10:10:46 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GOODWIN AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
     },
     {
         "id": "HF2301877",
@@ -19,29 +41,7 @@
         "location": "ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": "E44"
-    },
-    {
-        "id": "NF2307522",
-        "date": "2023-07-06",
-        "time": "9:58:06 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CALLAN BLVD #12 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "NF2307521",
-        "date": "2023-07-06",
-        "time": "9:57:59 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTLINE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">E41"
     },
     {
         "id": "DF2301532",
@@ -52,28 +52,6 @@
         "location": "1 GRAY WHALE COVE PARKING LOT ,SON",
         "latitude": 37.5632966675234,
         "longitude": -122.51262545831,
-        "units": ">E72 E41 BC15 CM41X5 ?TAC45"
-    },
-    {
-        "id": "RF2307572",
-        "date": "2023-07-06",
-        "time": "9:50:55 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WHITEHALL LN ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "LF2300704",
-        "date": "2023-07-06",
-        "time": "9:41:08 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #4118 ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">MED19 CM31X1 >E86"
+        "units": ">BC15"
     }
 ]
