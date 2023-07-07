@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2306003",
+        "id": "MF2306004",
         "date": "2023-07-06",
-        "time": "11:25:19 PM",
+        "time": "11:41:12 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1115 BAY RD ,EPA",
-        "latitude": 37.4706736873646,
-        "longitude": -122.149250251824,
-        "units": "E2"
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "SF2308359",
+        "date": "2023-07-06",
+        "time": "11:37:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #213A ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
     },
     {
         "id": "RF2307594",
@@ -20,38 +31,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E9"
-    },
-    {
-        "id": "BF2302503",
-        "date": "2023-07-06",
-        "time": "11:06:15 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GEOFFREY DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2307541",
-        "date": "2023-07-06",
-        "time": "10:54:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHGATE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "DF2301535",
-        "date": "2023-07-06",
-        "time": "10:52:30 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POPE RD ,LAH",
-        "latitude": null,
-        "longitude": null,
-        "units": "?VFIR22 *>E58 >R57"
     }
 ]
