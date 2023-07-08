@@ -1,36 +1,102 @@
 [
     {
-        "id": "RF2307612",
+        "id": "FF2303992",
         "date": "2023-07-07",
-        "time": "4:40:00 PM",
+        "time": "5:16:41 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "283 E GRAND AVE ,SSF",
+        "latitude": 37.6547314101139,
+        "longitude": -122.394156352927,
+        "units": ">E94"
+    },
+    {
+        "id": "HF2301889",
+        "date": "2023-07-07",
+        "time": "5:15:31 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CAPISTRANO RD ,PRN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "RF2307616",
+        "date": "2023-07-07",
+        "time": "5:09:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "DOUGLAS AVE / FAIR OAKS AVE",
+        "latitude": 37.4817144823745,
+        "longitude": -122.210046123449,
+        "units": ">E11"
+    },
+    {
+        "id": "MF2306023",
+        "date": "2023-07-07",
+        "time": "5:09:23 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UNIVERSITY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "MF2306022",
+        "date": "2023-07-07",
+        "time": "5:08:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #101 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "RF2307615",
+        "date": "2023-07-07",
+        "time": "5:03:51 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "NORTHUMBERLAND AVE ,RCY",
+        "location": "WARREN ST ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ">E9"
     },
     {
-        "id": "FF2303991",
+        "id": "SF2308384",
         "date": "2023-07-07",
-        "time": "4:39:24 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "5:02:27 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
+        "location": "SANDPIPER CT ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ""
     },
     {
-        "id": "MF2306021",
+        "id": "RF2307614",
         "date": "2023-07-07",
-        "time": "4:27:13 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "4:59:16 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "MARKHAM AVE ,NFO",
+        "location": "BRITTAN AVE #7 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
+        "units": ""
+    },
+    {
+        "id": "CF2304857",
+        "date": "2023-07-07",
+        "time": "4:54:13 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1727 EL CAMINO REAL ,MLB",
+        "latitude": 37.6143970195875,
+        "longitude": -122.405937874676,
+        "units": ">CM21X2 >TAC25"
     },
     {
         "id": "NF2307566",
@@ -41,6 +107,6 @@
         "location": "100 W HILL DR ,BRS",
         "latitude": 37.6927070976299,
         "longitude": -122.422851070766,
-        "units": ">BC20 >PR20A >BC124 E1771 >E51>E65 >E93 ?VFIR23 >Q62 CM31X5"
+        "units": ">BC20 >PR20A *>BC124 >E1771 >E51>E65 >E93 ?VFIR23 >Q62 CM31X5"
     }
 ]
