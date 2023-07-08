@@ -1,5 +1,82 @@
 [
     {
+        "id": "SF2308426",
+        "date": "2023-07-08",
+        "time": "12:04:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CONCAR DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "T23"
+    },
+    {
+        "id": "FF2304003",
+        "date": "2023-07-08",
+        "time": "12:01:19 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "HILLSIDE BLVD / FRANKLIN AVE",
+        "latitude": 37.6663392427151,
+        "longitude": -122.412383116532,
+        "units": "E65"
+    },
+    {
+        "id": "NF2307593",
+        "date": "2023-07-08",
+        "time": "11:58:07 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST / SAN JOSE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2307639",
+        "date": "2023-07-08",
+        "time": "11:53:53 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "NF2307592",
+        "date": "2023-07-08",
+        "time": "11:50:56 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FIRECREST AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "FF2304002",
+        "date": "2023-07-08",
+        "time": "11:48:19 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "500 E JAMIE CT ,SSF",
+        "latitude": 37.6486821235683,
+        "longitude": -122.383061053776,
+        "units": ">E61"
+    },
+    {
+        "id": "CF2304871",
+        "date": "2023-07-08",
+        "time": "11:43:53 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Gas main break",
+        "location": "60 WOODRIDGE RD ,HIL",
+        "latitude": 37.5452314024638,
+        "longitude": -122.34705418257,
+        "units": ">BC8 >E17 >E25 CM21X5 ?TAC26"
+    },
+    {
         "id": "FF2304001",
         "date": "2023-07-08",
         "time": "11:40:13 AM",
@@ -8,72 +85,6 @@
         "location": "NYLA AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "SF2308425",
-        "date": "2023-07-08",
-        "time": "11:33:17 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1770 S AMPHLETT BLVD ,SMO",
-        "latitude": 37.5561049271613,
-        "longitude": -122.300963658225,
-        "units": "CM21X2 >BC5 ?TAC25 >E28 >T23"
-    },
-    {
-        "id": "FF2304000",
-        "date": "2023-07-08",
-        "time": "11:33:15 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "3721 CARTER DR ,SSF",
-        "latitude": 37.6450722962752,
-        "longitude": -122.468192244099,
-        "units": "?E64 >E94"
-    },
-    {
-        "id": "SF2308424",
-        "date": "2023-07-08",
-        "time": "11:26:23 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE #527 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "SF2308423",
-        "date": "2023-07-08",
-        "time": "11:25:02 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE #312 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "NF2307591",
-        "date": "2023-07-08",
-        "time": "11:19:37 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 1 / NO PALMETTO AVE",
-        "latitude": 37.6578989851063,
-        "longitude": -122.487262663423,
-        "units": ">E95 >BC121 CM31X5 >E71 ?TAC36"
-    },
-    {
-        "id": "NF2307590",
-        "date": "2023-07-08",
-        "time": "11:17:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "MISSION ST / EVERGREEN AVE",
-        "latitude": 37.7074306014852,
-        "longitude": -122.456718265882,
-        "units": "?TAC35 >BC20 >E92 CM31X2 >T95"
+        "units": ">E63"
     }
 ]
