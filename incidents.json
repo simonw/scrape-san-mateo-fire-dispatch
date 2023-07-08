@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2308428",
+        "date": "2023-07-08",
+        "time": "12:21:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOWE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "MF2306053",
+        "date": "2023-07-08",
+        "time": "12:19:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BERESFORD AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "SF2308427",
+        "date": "2023-07-08",
+        "time": "12:14:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "223 37TH AVE ,SMO",
+        "latitude": 37.5320336672355,
+        "longitude": -122.300057675874,
+        "units": ">BC5 >E23 T23 CM21X3 ?TAC25"
+    },
+    {
         "id": "SF2308426",
         "date": "2023-07-08",
         "time": "12:04:21 PM",
@@ -8,51 +41,7 @@
         "location": "CONCAR DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T23"
-    },
-    {
-        "id": "FF2304003",
-        "date": "2023-07-08",
-        "time": "12:01:19 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "HILLSIDE BLVD / FRANKLIN AVE",
-        "latitude": 37.6663392427151,
-        "longitude": -122.412383116532,
-        "units": "E65"
-    },
-    {
-        "id": "NF2307593",
-        "date": "2023-07-08",
-        "time": "11:58:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST / SAN JOSE AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "RF2307639",
-        "date": "2023-07-08",
-        "time": "11:53:53 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2307592",
-        "date": "2023-07-08",
-        "time": "11:50:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FIRECREST AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ""
     },
     {
         "id": "FF2304002",
@@ -74,17 +63,6 @@
         "location": "60 WOODRIDGE RD ,HIL",
         "latitude": 37.5452314024638,
         "longitude": -122.34705418257,
-        "units": ">BC8 >E17 >E25 CM21X5 ?TAC26"
-    },
-    {
-        "id": "FF2304001",
-        "date": "2023-07-08",
-        "time": "11:40:13 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "NYLA AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E25"
     }
 ]
