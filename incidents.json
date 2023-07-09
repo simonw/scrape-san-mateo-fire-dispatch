@@ -1,36 +1,36 @@
 [
     {
-        "id": "RF2307647",
+        "id": "NF2307611",
         "date": "2023-07-08",
-        "time": "5:52:44 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "7:00:30 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "CLIFTON AVE ,SNC",
+        "location": "MATEO AVE #4 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E92"
+    },
+    {
+        "id": "NF2307610",
+        "date": "2023-07-08",
+        "time": "6:55:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #132B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2308444",
+        "date": "2023-07-08",
+        "time": "6:51:13 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #208A ,BLM",
         "latitude": null,
         "longitude": null,
         "units": ">E15"
-    },
-    {
-        "id": "CF2304877",
-        "date": "2023-07-08",
-        "time": "5:51:21 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ROLLINS RD ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2308441",
-        "date": "2023-07-08",
-        "time": "5:50:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
     },
     {
         "id": "MF2306061",
@@ -41,7 +41,7 @@
         "location": "1885 E BAYSHORE RD ,EPA",
         "latitude": 37.456321249816,
         "longitude": -122.131363309402,
-        "units": "?CM11X2 >E2 ?TAC16 >SQ401 >E77>BC101 >T2 >E1"
+        "units": "?CM11X2 >E2 ?TAC16 >T2"
     },
     {
         "id": "WF2301241",
@@ -52,6 +52,6 @@
         "location": "45 POSSUM LN ,PVY",
         "latitude": 37.3828184534936,
         "longitude": -122.225533525297,
-        "units": ">E7 ?WOFINV CM11X3 TAC15 >T4>BC1 >BC2 >E8 >SQ407 >E19"
+        "units": "PR2 >E7 CM11X3 TAC15 >T4>BC1 >BC2 >E8 >SQ407"
     }
 ]
