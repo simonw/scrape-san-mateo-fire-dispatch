@@ -1,14 +1,25 @@
 [
     {
-        "id": "LF2300718",
+        "id": "BF2302538",
         "date": "2023-07-10",
-        "time": "10:00:52 AM",
-        "summary": "Colma Fire on Control-3",
+        "time": "10:23:55 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Lock out - residential",
+        "location": "190 TRINITY CT ,SNB",
+        "latitude": 37.6235853341707,
+        "longitude": -122.454178875033,
+        "units": "E52"
+    },
+    {
+        "id": "RF2307687",
+        "date": "2023-07-10",
+        "time": "10:09:54 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "LARCHMONT DR ,BRD",
+        "location": "REDWOOD SHORES PKWY ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E20"
     },
     {
         "id": "MF2306104",
@@ -19,7 +30,7 @@
         "location": "BURGESS DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC15 >T4 CM11X3 >BC1 >E1"
+        "units": ""
     },
     {
         "id": "SF2308514",
@@ -30,17 +41,6 @@
         "location": "2225 S EL CAMINO REAL ,SMO",
         "latitude": 37.5461309666133,
         "longitude": -122.307394796712,
-        "units": ">BC5 CM21X5 >E23 ?TAC25 >E21>T23 >E27"
-    },
-    {
-        "id": "FF2304038",
-        "date": "2023-07-10",
-        "time": "9:38:08 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LINDEN AVE #3 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ""
     }
 ]
