@@ -1,5 +1,38 @@
 [
     {
+        "id": "LF2300722",
+        "date": "2023-07-11",
+        "time": "3:40:06 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "700 STEWART AVE ,BRD",
+        "latitude": 37.6949814191804,
+        "longitude": -122.482660341816,
+        "units": "TAC35 T85 BC19 MED19 E86CM31X3"
+    },
+    {
+        "id": "MF2306142",
+        "date": "2023-07-11",
+        "time": "3:39:10 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN CARLOS AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "SF2308575",
+        "date": "2023-07-11",
+        "time": "3:36:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "700 PROMONTORY POINT LN ,FCY",
+        "latitude": 37.5498956576757,
+        "longitude": -122.283207541514,
+        "units": ">E26"
+    },
+    {
         "id": "CF2304953",
         "date": "2023-07-11",
         "time": "3:26:56 PM",
@@ -8,29 +41,7 @@
         "location": "CARLTON RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "?E33"
-    },
-    {
-        "id": "MF2306141",
-        "date": "2023-07-11",
-        "time": "3:19:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ARIANA LN ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T4"
-    },
-    {
-        "id": "CF2304951",
-        "date": "2023-07-11",
-        "time": "3:19:41 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HIGHLAND AVE #E ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
+        "units": ">E33"
     },
     {
         "id": "NF2307688",
@@ -44,17 +55,6 @@
         "units": ">E91"
     },
     {
-        "id": "SF2308574",
-        "date": "2023-07-11",
-        "time": "3:09:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CASANOVA DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "HF2301920",
         "date": "2023-07-11",
         "time": "2:44:03 PM",
@@ -63,6 +63,6 @@
         "location": "1 VENICE BEACH RD ,HMB",
         "latitude": 37.4797544195467,
         "longitude": -122.449685776514,
-        "units": "CM41X1 >E44 >E41 >TAC45 >BC10"
+        "units": "CM41X1 >E41 >TAC45 >BC10"
     }
 ]
