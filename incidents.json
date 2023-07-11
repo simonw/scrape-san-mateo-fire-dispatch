@@ -1,25 +1,36 @@
 [
     {
-        "id": "SF2308560",
+        "id": "RF2307727",
         "date": "2023-07-11",
-        "time": "10:03:17 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:17:58 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "W 20TH AVE ,SMO",
+        "location": "SEQUOIA CT ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E13"
     },
     {
-        "id": "CF2304938",
+        "id": "SF2308561",
         "date": "2023-07-11",
-        "time": "10:02:23 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "10:09:17 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "BROADWAY #109 ,MLB",
+        "location": "STATION PARK CIR #334 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E25"
+    },
+    {
+        "id": "CF2304939",
+        "date": "2023-07-11",
+        "time": "10:07:21 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #197 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
     },
     {
         "id": "DF2301559",
@@ -30,28 +41,6 @@
         "location": "EDMONDS RD ,EML",
         "latitude": null,
         "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "MF2306127",
-        "date": "2023-07-11",
-        "time": "9:52:56 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "389 BELMONT AVE ,WSB",
-        "latitude": 37.4531783588027,
-        "longitude": -122.223653354289,
-        "units": ">E3"
-    },
-    {
-        "id": "SF2308559",
-        "date": "2023-07-11",
-        "time": "9:52:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO PENINSULA AVE",
-        "latitude": 37.5804221513466,
-        "longitude": -122.324214673445,
-        "units": ">E34 >E21 >BC5 T23 CM21X2?TAC25"
+        "units": "*>E18"
     }
 ]
