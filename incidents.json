@@ -1,24 +1,46 @@
 [
     {
-        "id": "RF2307729",
+        "id": "RF2307732",
         "date": "2023-07-11",
-        "time": "11:05:50 AM",
+        "time": "11:25:30 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "NEVADA ST / SOUTHGATE ST",
+        "location": "VETERANS BLVD #108 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E10"
+        "units": ">E9"
     },
     {
-        "id": "SF2308564",
+        "id": "SF2308566",
         "date": "2023-07-11",
-        "time": "11:03:55 AM",
+        "time": "11:25:01 AM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "215 2ND AVE ,SMO",
+        "latitude": 37.5661417008151,
+        "longitude": -122.32380281333,
+        "units": "E21"
+    },
+    {
+        "id": "HF2301916",
+        "date": "2023-07-11",
+        "time": "11:24:58 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "547 EL GRANADA BLVD ,ELG",
+        "latitude": 37.5119353829714,
+        "longitude": -122.464559459321,
+        "units": "E41"
+    },
+    {
+        "id": "NF2307674",
+        "date": "2023-07-11",
+        "time": "11:16:56 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
+        "location": "ST MARKS CT ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">T95"
     }
 ]
