@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2308576",
+        "date": "2023-07-11",
+        "time": "4:01:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "PALM AVE / E 25TH AVE",
+        "latitude": 37.5450643687117,
+        "longitude": -122.304943631239,
+        "units": "BC5 T23 E23 ?TAC25 ?CM21X4"
+    },
+    {
+        "id": "CF2304955",
+        "date": "2023-07-11",
+        "time": "3:58:46 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "FF2304067",
+        "date": "2023-07-11",
+        "time": "3:58:31 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BRENTWOOD DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "FF2304066",
+        "date": "2023-07-11",
+        "time": "3:52:39 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "34 ARLINGTON DR ,SSF",
+        "latitude": 37.6690229480859,
+        "longitude": -122.455856464177,
+        "units": ">E94"
+    },
+    {
         "id": "LF2300722",
         "date": "2023-07-11",
         "time": "3:40:06 PM",
@@ -8,18 +52,7 @@
         "location": "700 STEWART AVE ,BRD",
         "latitude": 37.6949814191804,
         "longitude": -122.482660341816,
-        "units": "TAC35 T85 BC19 MED19 E86CM31X3"
-    },
-    {
-        "id": "MF2306142",
-        "date": "2023-07-11",
-        "time": "3:39:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN CARLOS AVE ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E3"
+        "units": ">MED19"
     },
     {
         "id": "SF2308575",
@@ -31,38 +64,5 @@
         "latitude": 37.5498956576757,
         "longitude": -122.283207541514,
         "units": ">E26"
-    },
-    {
-        "id": "CF2304953",
-        "date": "2023-07-11",
-        "time": "3:26:56 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLTON RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "NF2307688",
-        "date": "2023-07-11",
-        "time": "3:18:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PONCETTA DR #315 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "HF2301920",
-        "date": "2023-07-11",
-        "time": "2:44:03 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "1 VENICE BEACH RD ,HMB",
-        "latitude": 37.4797544195467,
-        "longitude": -122.449685776514,
-        "units": "CM41X1 >E41 >TAC45 >BC10"
     }
 ]
