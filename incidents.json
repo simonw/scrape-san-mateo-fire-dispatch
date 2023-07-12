@@ -1,5 +1,60 @@
 [
     {
+        "id": "BF2302554",
+        "date": "2023-07-11",
+        "time": "6:00:53 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Smoke investigation",
+        "location": "SB 280 / NO MILLBRAE AVE",
+        "latitude": 37.5923308646115,
+        "longitude": -122.41572267802,
+        "units": "E52 E38 ?TAC36 ?CM31X5"
+    },
+    {
+        "id": "FF2304069",
+        "date": "2023-07-11",
+        "time": "6:00:02 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "250 GATEWAY BLVD ,SSF",
+        "latitude": 37.655340147329,
+        "longitude": -122.400698529941,
+        "units": "BC17 Q62 E51 E81 CM31X2E65 ?TAC35"
+    },
+    {
+        "id": "CF2304960",
+        "date": "2023-07-11",
+        "time": "5:58:39 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Smoke investigation",
+        "location": "MILLBRAE AVE / EL CAMINO REAL",
+        "latitude": 37.5985188871241,
+        "longitude": -122.387409437657,
+        "units": "E37"
+    },
+    {
+        "id": "RF2307748",
+        "date": "2023-07-11",
+        "time": "5:40:06 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "CF2304959",
+        "date": "2023-07-11",
+        "time": "5:31:51 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BURLINGAME AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "SF2308582",
         "date": "2023-07-11",
         "time": "5:27:49 PM",
@@ -8,29 +63,7 @@
         "location": "N DELAWARE ST #205 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "NF2307695",
-        "date": "2023-07-11",
-        "time": "5:25:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "147 HILTON LN ,PCF",
-        "latitude": 37.6321863376817,
-        "longitude": -122.491035248963,
-        "units": "E95"
-    },
-    {
-        "id": "SF2308581",
-        "date": "2023-07-11",
-        "time": "5:23:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "4242 S EL CAMINO REAL ,SMO",
-        "latitude": 37.5297897695819,
-        "longitude": -122.288883248883,
-        "units": "E23"
+        "units": ">E21"
     },
     {
         "id": "NF2307694",
@@ -41,18 +74,7 @@
         "location": "LINDA MAR BLVD / ADOBE DR",
         "latitude": null,
         "longitude": null,
-        "units": "E44"
-    },
-    {
-        "id": "SF2308580",
-        "date": "2023-07-11",
-        "time": "5:22:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALBOA LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ""
     },
     {
         "id": "NF2307693",
@@ -63,18 +85,7 @@
         "location": "CLIFTON RD ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "CF2304958",
-        "date": "2023-07-11",
-        "time": "5:06:41 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #128 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": "E71"
     },
     {
         "id": "NF2307691",
@@ -86,27 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E72"
-    },
-    {
-        "id": "FF2304068",
-        "date": "2023-07-11",
-        "time": "4:45:43 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LINDEN AVE #3 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2307689",
-        "date": "2023-07-11",
-        "time": "4:20:55 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SYLVAN ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
     }
 ]
