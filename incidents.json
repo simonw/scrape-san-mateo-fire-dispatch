@@ -1,25 +1,80 @@
 [
     {
-        "id": "CF2304982",
+        "id": "MF2306177",
         "date": "2023-07-12",
-        "time": "7:00:13 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "7:47:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "TIOGA DR ,MLB",
+        "location": "COLEMAN PL ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
+        "units": "E1"
     },
     {
-        "id": "SF2308640",
+        "id": "SF2308646",
         "date": "2023-07-12",
-        "time": "6:58:25 PM",
+        "time": "7:47:13 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "814 S FREMONT ST ,SMO",
+        "latitude": 37.5645531447698,
+        "longitude": -122.314626122767,
+        "units": "T21"
+    },
+    {
+        "id": "SF2308645",
+        "date": "2023-07-12",
+        "time": "7:46:19 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "S EL CAMINO REAL #568 ,SMO",
+        "location": "S GRANT ST / CYPRESS AVE",
         "latitude": null,
         "longitude": null,
-        "units": "T23"
+        "units": "E24"
+    },
+    {
+        "id": "SF2308644",
+        "date": "2023-07-12",
+        "time": "7:44:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N SAN MATEO DR #8 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2306176",
+        "date": "2023-07-12",
+        "time": "7:35:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "650 LIVE OAK AVE #3 ,MNP",
+        "latitude": 37.4519648940594,
+        "longitude": -122.181376098921,
+        "units": ">E6"
+    },
+    {
+        "id": "NF2307731",
+        "date": "2023-07-12",
+        "time": "7:25:48 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2306173",
+        "date": "2023-07-12",
+        "time": "7:08:49 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "WILLOW RD / NEWBRIDGE ST",
+        "latitude": 37.4728488971723,
+        "longitude": -122.154543883849,
+        "units": ">CM11X1 >TAC16"
     },
     {
         "id": "SF2308639",
@@ -33,50 +88,6 @@
         "units": "E23"
     },
     {
-        "id": "RF2307792",
-        "date": "2023-07-12",
-        "time": "6:53:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GORDON ST / WOODSIDE RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2307791",
-        "date": "2023-07-12",
-        "time": "6:48:57 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "RF2307790",
-        "date": "2023-07-12",
-        "time": "6:46:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #51 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "BF2302564",
-        "date": "2023-07-12",
-        "time": "6:46:00 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRYSTAL SPRINGS RD ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "DF2301568",
         "date": "2023-07-12",
         "time": "6:35:55 PM",
@@ -85,7 +96,7 @@
         "location": "CABRILLO HWY ,SON",
         "latitude": null,
         "longitude": null,
-        "units": ">E44 CM41X1 BC10"
+        "units": ">CM41X1 >E44 >VFIR22 >BC10"
     },
     {
         "id": "MF2306172",
@@ -96,6 +107,6 @@
         "location": "SB 101 / NO EMBARCADERO",
         "latitude": 37.4562476390862,
         "longitude": -122.13389083789,
-        "units": "TAC15 >E2 CM11X3 >T2"
+        "units": ">TAC15 >CM11X3"
     }
 ]
