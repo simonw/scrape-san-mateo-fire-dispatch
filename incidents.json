@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2305003",
+        "date": "2023-07-13",
+        "time": "3:19:48 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Landscape fire",
+        "location": "1350 OLD BAYSHORE HWY ,BRM",
+        "latitude": 37.5949475091206,
+        "longitude": -122.363660441047,
+        "units": "E24"
+    },
+    {
+        "id": "LF2300733",
+        "date": "2023-07-13",
+        "time": "3:16:12 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VILLAGE LN #RM 2 ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "FF2304097",
+        "date": "2023-07-13",
+        "time": "3:16:09 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "44 DNA WAY ,SSF",
+        "latitude": 37.6563106137356,
+        "longitude": -122.379954498737,
+        "units": ">Q62"
+    },
+    {
+        "id": "MF2306199",
+        "date": "2023-07-13",
+        "time": "3:06:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE #30 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "MF2306198",
         "date": "2023-07-13",
         "time": "3:04:44 PM",
@@ -8,84 +52,7 @@
         "location": "ALMA ST / BURGESS DR",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
-    },
-    {
-        "id": "RF2307832",
-        "date": "2023-07-13",
-        "time": "3:02:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "808 BAIN PL ,RCY",
-        "latitude": 37.4687406178792,
-        "longitude": -122.255105885735,
-        "units": "E12"
-    },
-    {
-        "id": "RF2307831",
-        "date": "2023-07-13",
-        "time": "2:59:47 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "2541 EL CAMINO REAL ,RCY",
-        "latitude": 37.4738663872634,
-        "longitude": -122.217210790496,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2307830",
-        "date": "2023-07-13",
-        "time": "2:55:54 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #209 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "FF2304096",
-        "date": "2023-07-13",
-        "time": "2:52:31 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "458 BADEN AVE ,SSF",
-        "latitude": 37.6555276858064,
-        "longitude": -122.415225163158,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2307754",
-        "date": "2023-07-13",
-        "time": "2:48:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KING DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "BF2302576",
-        "date": "2023-07-13",
-        "time": "2:45:23 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ELSTON DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "SF2308682",
-        "date": "2023-07-13",
-        "time": "2:35:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N AMPHLETT BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": ">E6"
     },
     {
         "id": "CF2305002",
@@ -107,6 +74,6 @@
         "location": "EB 92 / WO 101",
         "latitude": 37.5524784143592,
         "longitude": -122.30332912257,
-        "units": ">DEM57 >HM32 CM21X2 TAC27 >BC5>E23 >MED5 ?TAC25 >HM14 >E29"
+        "units": ">DEM57 >HM32 CM21X2 >BC5 >E23>MED5 ?TAC25 >HM14 >E29 >CH5B"
     }
 ]
