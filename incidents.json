@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2308675",
+        "date": "2023-07-13",
+        "time": "11:42:24 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST #303 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E21"
+    },
+    {
+        "id": "WF2301272",
+        "date": "2023-07-13",
+        "time": "11:38:12 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "4420 ALPINE RD ,PVY",
+        "latitude": 37.3728213717062,
+        "longitude": -122.207211917233,
+        "units": ">E8"
+    },
+    {
+        "id": "CF2304998",
+        "date": "2023-07-13",
+        "time": "11:33:04 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AIRPORT BLVD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "RF2307821",
         "date": "2023-07-13",
         "time": "11:25:52 AM",
@@ -8,7 +41,7 @@
         "location": "PAGE ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": ">E5"
     },
     {
         "id": "CF2304997",
@@ -19,7 +52,7 @@
         "location": "EL CAMINO REAL ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "NF2307747",
@@ -30,40 +63,18 @@
         "location": "JUDSON PL ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
-    },
-    {
-        "id": "HF2301930",
-        "date": "2023-07-13",
-        "time": "11:09:29 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BEACH AVE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "SF2308673",
-        "date": "2023-07-13",
-        "time": "11:06:45 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SANDPIPER CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": ">E72"
     },
     {
         "id": "SF2308674",
         "date": "2023-07-13",
         "time": "11:06:00 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Hazardous material - investiga",
+        "category": "Hazardous material - response",
         "location": "EB 92 / WO 101",
         "latitude": 37.5524784143592,
         "longitude": -122.30332912257,
-        "units": "CM21X2 >BC5 >E23 ?TAC25 HM14>E29 >T23"
+        "units": "CM21X2 ?OESC >BC5 >E23 MED5?TAC25 >HM14 >E29 ?ENVHAZ >T23"
     },
     {
         "id": "RF2307819",
@@ -74,6 +85,6 @@
         "location": "DAVIT LN ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E20"
+        "units": ""
     }
 ]
