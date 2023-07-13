@@ -1,25 +1,69 @@
 [
     {
-        "id": "CF2305008",
+        "id": "FF2304100",
         "date": "2023-07-13",
-        "time": "4:03:47 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "4:20:02 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
+        "location": "ALMOND AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": "E63"
     },
     {
-        "id": "CF2305007",
+        "id": "FF2304099",
         "date": "2023-07-13",
-        "time": "4:01:24 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "4:18:53 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "MONTECITO WAY ,BRM",
+        "location": "OLYMPIC DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
+        "units": ">E64"
+    },
+    {
+        "id": "RF2307833",
+        "date": "2023-07-13",
+        "time": "4:15:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JOHNSON ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "CF2305010",
+        "date": "2023-07-13",
+        "time": "4:13:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #207 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "NF2307758",
+        "date": "2023-07-13",
+        "time": "4:12:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ARLEEN WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "FF2304098",
+        "date": "2023-07-13",
+        "time": "4:08:43 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "750 GATEWAY BLVD ,SSF",
+        "latitude": 37.659631302714,
+        "longitude": -122.395563030988,
+        "units": ""
     },
     {
         "id": "CF2305006",
@@ -30,28 +74,6 @@
         "location": "6565 SKYLINE BLVD ,HIL",
         "latitude": 37.562438507667,
         "longitude": -122.380825586775,
-        "units": "T34 >E33 BC11 ?TAC25 ?CM21X4"
-    },
-    {
-        "id": "SF2308683",
-        "date": "2023-07-13",
-        "time": "3:35:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "N SAN MATEO DR / E POPLAR AVE",
-        "latitude": 37.5721272666724,
-        "longitude": -122.332460010128,
-        "units": ">E21"
-    },
-    {
-        "id": "SF2308674",
-        "date": "2023-07-13",
-        "time": "11:06:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Hazardous material - response",
-        "location": "EB 92 / WO 101",
-        "latitude": 37.5524784143592,
-        "longitude": -122.30332912257,
-        "units": ">HM32 >CH5B"
+        "units": ">E33"
     }
 ]
