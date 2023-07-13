@@ -1,25 +1,80 @@
 [
     {
-        "id": "BF2302575",
+        "id": "MF2306198",
         "date": "2023-07-13",
-        "time": "2:40:34 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "3:04:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "CHERRY AVE ,SNB",
+        "location": "ALMA ST / BURGESS DR",
         "latitude": null,
         "longitude": null,
-        "units": "T51"
+        "units": "E6"
     },
     {
-        "id": "RF2307829",
+        "id": "RF2307832",
         "date": "2023-07-13",
-        "time": "2:40:14 PM",
+        "time": "3:02:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "808 BAIN PL ,RCY",
+        "latitude": 37.4687406178792,
+        "longitude": -122.255105885735,
+        "units": "E12"
+    },
+    {
+        "id": "RF2307831",
+        "date": "2023-07-13",
+        "time": "2:59:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "2541 EL CAMINO REAL ,RCY",
+        "latitude": 37.4738663872634,
+        "longitude": -122.217210790496,
+        "units": ">E3"
+    },
+    {
+        "id": "RF2307830",
+        "date": "2023-07-13",
+        "time": "2:55:54 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "STAMBAUGH ST #7 ,RCY",
+        "location": "ELM ST #209 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E13"
+    },
+    {
+        "id": "FF2304096",
+        "date": "2023-07-13",
+        "time": "2:52:31 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "458 BADEN AVE ,SSF",
+        "latitude": 37.6555276858064,
+        "longitude": -122.415225163158,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2307754",
+        "date": "2023-07-13",
+        "time": "2:48:46 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KING DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "BF2302576",
+        "date": "2023-07-13",
+        "time": "2:45:23 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ELSTON DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "SF2308682",
@@ -33,50 +88,6 @@
         "units": ">E24"
     },
     {
-        "id": "SF2308681",
-        "date": "2023-07-13",
-        "time": "2:34:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N DELAWARE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "FF2304095",
-        "date": "2023-07-13",
-        "time": "2:33:54 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LN ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "HF2301934",
-        "date": "2023-07-13",
-        "time": "2:31:47 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JOHNSTON ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "BF2302574",
-        "date": "2023-07-13",
-        "time": "2:29:53 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #1 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "CF2305002",
         "date": "2023-07-13",
         "time": "2:26:55 PM",
@@ -85,18 +96,7 @@
         "location": "BURLINGAME AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "RF2307827",
-        "date": "2023-07-13",
-        "time": "2:23:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POPLAR AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": "E34"
     },
     {
         "id": "SF2308674",
