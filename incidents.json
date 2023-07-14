@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2306210",
+        "date": "2023-07-13",
+        "time": "11:23:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #309 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2308700",
+        "date": "2023-07-13",
+        "time": "11:22:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DALE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "SF2308699",
+        "date": "2023-07-13",
+        "time": "11:15:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Lock out - residential",
+        "location": "2761 S NORFOLK ST #215 ,SMO",
+        "latitude": 37.5479012619013,
+        "longitude": -122.285567929653,
+        "units": ">E26"
+    },
+    {
+        "id": "NF2307776",
+        "date": "2023-07-13",
+        "time": "11:11:32 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BOWER RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "LF2300734",
         "date": "2023-07-13",
         "time": "11:03:56 PM",
@@ -8,18 +52,7 @@
         "location": "D ST ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
-    },
-    {
-        "id": "MF2306209",
-        "date": "2023-07-13",
-        "time": "10:58:37 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO WOODSIDE RD",
-        "latitude": 37.4860898454352,
-        "longitude": -122.193396924125,
-        "units": ">T9 >E11 >E5 BC101 >CM11X2?TAC16"
+        "units": ""
     },
     {
         "id": "BF2302582",
@@ -31,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E51"
-    },
-    {
-        "id": "NF2307775",
-        "date": "2023-07-13",
-        "time": "10:49:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Lock out - residential",
-        "location": "77 PALOMA AVE #308 ,PCF",
-        "latitude": 37.6368471309216,
-        "longitude": -122.492873295979,
-        "units": ">E71"
-    },
-    {
-        "id": "SF2308698",
-        "date": "2023-07-13",
-        "time": "10:47:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDISON ST / W 39TH AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
     }
 ]
