@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2305054",
+        "date": "2023-07-15",
+        "time": "11:41:02 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1014 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "RF2307907",
+        "date": "2023-07-15",
+        "time": "11:40:06 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "1232 WINDSOR WAY ,RCY",
+        "latitude": 37.4613148495284,
+        "longitude": -122.242067228313,
+        "units": "E10"
+    },
+    {
+        "id": "MF2306259",
+        "date": "2023-07-15",
+        "time": "11:37:42 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #331 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "NF2307836",
         "date": "2023-07-15",
         "time": "11:25:09 AM",
@@ -8,7 +41,7 @@
         "location": "EVERGREEN AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     },
     {
         "id": "CF2305052",
@@ -19,50 +52,6 @@
         "location": "EL CAMINO REAL / SANCHEZ AVE",
         "latitude": 37.5819173922423,
         "longitude": -122.362181491215,
-        "units": "BC8 T34 E35 ?TAC25 ?CM21X3"
-    },
-    {
-        "id": "BF2302604",
-        "date": "2023-07-15",
-        "time": "11:23:58 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GREENWOOD WAY ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "BF2302603",
-        "date": "2023-07-15",
-        "time": "11:18:52 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "977 SNEATH LN ,SNB",
-        "latitude": 37.6342941178917,
-        "longitude": -122.423949575063,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2307906",
-        "date": "2023-07-15",
-        "time": "11:13:56 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BELMONT AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "MF2306258",
-        "date": "2023-07-15",
-        "time": "10:57:40 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MISSION DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">BC8 >E35 >T34 CM21X3 ?TAC25"
     }
 ]
