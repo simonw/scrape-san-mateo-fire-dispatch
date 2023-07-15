@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2308739",
+        "date": "2023-07-15",
+        "time": "12:31:09 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FOSTER CITY BLVD #7102 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
         "id": "CF2305043",
         "date": "2023-07-15",
         "time": "12:23:25 AM",
@@ -8,7 +19,18 @@
         "location": "OAKWOOD DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "?E38"
+        "units": ">E38"
+    },
+    {
+        "id": "NF2307817",
+        "date": "2023-07-15",
+        "time": "12:21:34 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "262 CROCKER AVE ,DCY",
+        "latitude": 37.7048991306176,
+        "longitude": -122.458131424108,
+        "units": ""
     },
     {
         "id": "FF2304120",
@@ -19,28 +41,6 @@
         "location": "AIRPORT BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65 ?TAC35 ?CM31X5"
-    },
-    {
-        "id": "MF2306247",
-        "date": "2023-07-15",
-        "time": "7/14/2023 11:56:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "EL CAMINO REAL / NORTHUMBERLAND AVE",
-        "latitude": 37.4728585606227,
-        "longitude": -122.216815361511,
-        "units": ">BC1 >E3 CM11X5 ?TAC15"
-    },
-    {
-        "id": "NF2307816",
-        "date": "2023-07-15",
-        "time": "7/14/2023 11:41:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EASTRIDGE CIR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E65"
     }
 ]
