@@ -1,14 +1,47 @@
 [
     {
-        "id": "BF2302599",
+        "id": "CF2305050",
         "date": "2023-07-15",
-        "time": "8:03:58 AM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "8:18:06 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "TRAIN TRACK ,SNB",
+        "location": "N ROLLINS RD #537 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": "E37"
+    },
+    {
+        "id": "BF2302600",
+        "date": "2023-07-15",
+        "time": "8:17:50 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "1100 TRAIN TRACK ,SNB",
+        "latitude": 37.6304814684682,
+        "longitude": -122.411468567058,
+        "units": ">E51"
+    },
+    {
+        "id": "CF2305049",
+        "date": "2023-07-15",
+        "time": "8:10:30 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "1245 OAK GROVE AVE ,BRM",
+        "latitude": 37.580901997563,
+        "longitude": -122.35238112976,
+        "units": ">E34"
+    },
+    {
+        "id": "NF2307830",
+        "date": "2023-07-15",
+        "time": "8:07:05 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD #100 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "NF2307828",
@@ -19,6 +52,6 @@
         "location": "SB 1 / MANOR DR OFF RAMP",
         "latitude": 37.6543792570026,
         "longitude": -122.490723963042,
-        "units": "CM31X2 T95 BC124 E95 E71?TAC35"
+        "units": ">E95 >T95 >BC124 CM31X2 ?TAC35"
     }
 ]
