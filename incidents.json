@@ -1,25 +1,58 @@
 [
     {
-        "id": "CF2305087",
+        "id": "CF2305090",
         "date": "2023-07-17",
-        "time": "10:00:11 AM",
+        "time": "10:21:51 AM",
         "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1515 FLORIBUNDA AVE ,BRM",
-        "latitude": 37.5784979346047,
-        "longitude": -122.354154078595,
-        "units": "E32"
+        "category": "Medical aid",
+        "location": "WEDGEWOOD DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "CM21X1 E32 E27"
     },
     {
-        "id": "MF2306318",
+        "id": "MF2306319",
         "date": "2023-07-17",
-        "time": "9:59:21 AM",
+        "time": "10:20:33 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "2172 VALPARAISO AVE ,WMP",
-        "latitude": 37.4328807028639,
-        "longitude": -122.207163346622,
-        "units": ">E4"
+        "category": "Medical aid",
+        "location": "FREMONT ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "NF2307911",
+        "date": "2023-07-17",
+        "time": "10:19:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "100 CRESCENT CT ,BRS",
+        "latitude": 37.6927517737025,
+        "longitude": -122.415897040868,
+        "units": ">E81"
+    },
+    {
+        "id": "CF2305088",
+        "date": "2023-07-17",
+        "time": "10:19:31 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "SF2308816",
+        "date": "2023-07-17",
+        "time": "10:10:28 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Lock out - commercial",
+        "location": "66 37TH AVE ,SMO",
+        "latitude": 37.5341209285749,
+        "longitude": -122.295596275077,
+        "units": ""
     },
     {
         "id": "SF2308814",
@@ -31,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "RF2307970",
-        "date": "2023-07-17",
-        "time": "9:56:30 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LOWELL ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
     }
 ]
