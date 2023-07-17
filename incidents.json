@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2304170",
+        "date": "2023-07-17",
+        "time": "2:31:01 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "710 GATEWAY BLVD ,SSF",
+        "latitude": 37.6589921217388,
+        "longitude": -122.395850807166,
+        "units": ">Q62"
+    },
+    {
+        "id": "SF2308825",
+        "date": "2023-07-17",
+        "time": "2:25:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BEACON AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "RF2307979",
         "date": "2023-07-17",
         "time": "2:23:47 PM",
@@ -8,40 +30,18 @@
         "location": "COTTAGE LN ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "?E13"
+        "units": ">E13"
     },
     {
-        "id": "RF2307978",
+        "id": "MF2306323",
         "date": "2023-07-17",
-        "time": "2:21:43 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "445 INDUSTRIAL RD ,SNC",
-        "latitude": 37.5126241063162,
-        "longitude": -122.258321988806,
-        "units": "E16"
-    },
-    {
-        "id": "HF2301965",
-        "date": "2023-07-17",
-        "time": "2:19:53 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PALM BEACH AVE ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": "E44"
-    },
-    {
-        "id": "CF2305100",
-        "date": "2023-07-17",
-        "time": "2:16:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "177 POPLAR AVE ,MLB",
-        "latitude": 37.5971032528164,
-        "longitude": -122.393107969353,
-        "units": "E38"
+        "time": "2:22:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "720 COLEMAN AVE ,MNP",
+        "latitude": 37.4624223388217,
+        "longitude": -122.162279745444,
+        "units": ">E1"
     },
     {
         "id": "BF2302629",
@@ -55,17 +55,6 @@
         "units": ">E51"
     },
     {
-        "id": "HF2301964",
-        "date": "2023-07-17",
-        "time": "2:08:21 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY S ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "BF2302628",
         "date": "2023-07-17",
         "time": "1:58:06 PM",
@@ -74,7 +63,7 @@
         "location": "CRYSTAL SPRINGS RD / CUNNINGHAM WAY",
         "latitude": 37.6140264691263,
         "longitude": -122.420276396063,
-        "units": ">T51"
+        "units": ""
     },
     {
         "id": "RF2307977",
@@ -86,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E19"
-    },
-    {
-        "id": "FF2304168",
-        "date": "2023-07-17",
-        "time": "12:52:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "461 LITTLEFIELD AVE ,SSF",
-        "latitude": 37.6512395131262,
-        "longitude": -122.395041733304,
-        "units": ">Q62 CM31X1 >E61 >PR17C"
     }
 ]
