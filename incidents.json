@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2302626",
+        "date": "2023-07-17",
+        "time": "1:21:56 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Gas main break",
+        "location": "3300 COLLEGE DR ,SNB",
+        "latitude": 37.6297229529346,
+        "longitude": -122.466494512477,
+        "units": "T51 E94 CM31X3 E64 E52BC16 ?TAC35"
+    },
+    {
+        "id": "CF2305099",
+        "date": "2023-07-17",
+        "time": "1:21:18 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARCO POLO WAY #35 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "SF2308824",
+        "date": "2023-07-17",
+        "time": "1:17:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "NF2307920",
+        "date": "2023-07-17",
+        "time": "1:08:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BELFAST WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "CF2305098",
         "date": "2023-07-17",
         "time": "1:04:28 PM",
@@ -8,7 +52,7 @@
         "location": "POPLAR AVE #307 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "FF2304168",
@@ -19,7 +63,7 @@
         "location": "461 LITTLEFIELD AVE ,SSF",
         "latitude": 37.6512395131262,
         "longitude": -122.395041733304,
-        "units": ">E61"
+        "units": "CM31X1 Q62 >E61"
     },
     {
         "id": "WF2301290",
@@ -30,18 +74,7 @@
         "location": "FARM HILL BLVD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": ">E19"
-    },
-    {
-        "id": "MF2306321",
-        "date": "2023-07-17",
-        "time": "12:51:22 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "ARBOR RD / SANTA CRUZ AVE",
-        "latitude": 37.4470301669566,
-        "longitude": -122.188355315785,
-        "units": ""
+        "units": "E19"
     },
     {
         "id": "DF2301597",
@@ -52,6 +85,6 @@
         "location": "HERITAGE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR22 >E58 >R57"
+        "units": "*>E58"
     }
 ]
