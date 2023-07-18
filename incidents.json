@@ -1,8 +1,19 @@
 [
     {
-        "id": "RF2307993",
+        "id": "RF2307997",
         "date": "2023-07-17",
-        "time": "7:17:35 PM",
+        "time": "7:59:06 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "ELM ST / ARROYO AVE",
+        "latitude": 37.5017569221612,
+        "longitude": -122.258162219467,
+        "units": "?E16"
+    },
+    {
+        "id": "RF2307996",
+        "date": "2023-07-17",
+        "time": "7:56:46 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
         "location": "BROADWAY ,RCY",
@@ -11,26 +22,81 @@
         "units": "E5"
     },
     {
-        "id": "MF2306330",
+        "id": "BF2302635",
         "date": "2023-07-17",
-        "time": "7:16:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "7:53:27 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "HELEN PL ,MNP",
+        "location": "ANZA WAY ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E51"
     },
     {
-        "id": "DF2301601",
+        "id": "SF2308836",
         "date": "2023-07-17",
-        "time": "7:14:29 PM",
+        "time": "7:44:49 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1770 S AMPHLETT BLVD ,SMO",
+        "latitude": 37.5561049271613,
+        "longitude": -122.300963658225,
+        "units": ">T23 >BC5 >E26 CM21X2 ?TAC25"
+    },
+    {
+        "id": "MF2306331",
+        "date": "2023-07-17",
+        "time": "7:43:40 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WINDERMERE AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "RF2307995",
+        "date": "2023-07-17",
+        "time": "7:40:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROOSEVELT AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2307994",
+        "date": "2023-07-17",
+        "time": "7:37:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TWIN DOLPHIN DR #314 ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "SF2308835",
+        "date": "2023-07-17",
+        "time": "7:35:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WIDGEON ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "DF2301602",
+        "date": "2023-07-17",
+        "time": "7:31:18 PM",
         "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "10985 ALPINE RD ,SOS",
-        "latitude": 37.297459851922,
-        "longitude": -122.262084183191,
-        "units": "E58 ?CO57"
+        "category": "Traffic accident",
+        "location": "EDGEWOOD RD / CANADA RD",
+        "latitude": 37.4638098941832,
+        "longitude": -122.297942531098,
+        "units": ">E18 *>T17"
     },
     {
         "id": "DF2301600",
@@ -52,6 +118,6 @@
         "location": "1107 2ND AVE ,RCY",
         "latitude": 37.4856958347054,
         "longitude": -122.200133941431,
-        "units": ">E9 >T9 ?CM11X1 >TAC15 >E11"
+        "units": "CM11X1 >E9 >E11 >TAC15 >T9>BC3"
     }
 ]
