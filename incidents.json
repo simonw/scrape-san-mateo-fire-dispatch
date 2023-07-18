@@ -8,7 +8,7 @@
         "location": "S PALOMAR DR ,PAL",
         "latitude": null,
         "longitude": null,
-        "units": "E18"
+        "units": ">E18"
     },
     {
         "id": "HF2301977",
@@ -19,7 +19,7 @@
         "location": "799 MAIN ST #I ,HMB",
         "latitude": 37.4583349334925,
         "longitude": -122.429618083136,
-        "units": "E40"
+        "units": "*>E40"
     },
     {
         "id": "CF2305120",
@@ -30,18 +30,7 @@
         "location": "LARKSPUR DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "NF2307948",
-        "date": "2023-07-18",
-        "time": "10:56:45 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BELLEVUE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ""
     },
     {
         "id": "NF2307947",
@@ -53,49 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "SF2308858",
-        "date": "2023-07-18",
-        "time": "10:55:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #W111 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "RF2308013",
-        "date": "2023-07-18",
-        "time": "10:52:48 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "INDUSTRIAL RD ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "CF2305118",
-        "date": "2023-07-18",
-        "time": "10:48:33 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRAIG RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "FF2304185",
-        "date": "2023-07-18",
-        "time": "10:40:31 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "YELLOWSTONE DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
     }
 ]
