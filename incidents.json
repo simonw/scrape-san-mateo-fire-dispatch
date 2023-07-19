@@ -1,35 +1,68 @@
 [
     {
-        "id": "FF2304208",
+        "id": "BF2302656",
         "date": "2023-07-19",
-        "time": "11:02:54 AM",
+        "time": "11:24:10 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "1270 EL CAMINO REAL ,SNB",
+        "latitude": 37.6393235090506,
+        "longitude": -122.420943045439,
+        "units": ">E65"
+    },
+    {
+        "id": "BF2302655",
+        "date": "2023-07-19",
+        "time": "11:23:46 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Smoke investigation",
+        "location": "1300 SNEATH LN ,SNB",
+        "latitude": 37.6311799983095,
+        "longitude": -122.433944380177,
+        "units": "E51"
+    },
+    {
+        "id": "NF2307990",
+        "date": "2023-07-19",
+        "time": "11:19:20 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "1500 SULLIVAN AVE ,DCY",
+        "latitude": 37.6889698554701,
+        "longitude": -122.472752101766,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2308045",
+        "date": "2023-07-19",
+        "time": "11:10:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "1262 GREENBRIAR RD ,SNC",
+        "latitude": 37.4826790326416,
+        "longitude": -122.279166567506,
+        "units": ">E18"
+    },
+    {
+        "id": "FF2304209",
+        "date": "2023-07-19",
+        "time": "11:10:00 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL / ARROYO DR",
+        "location": "S MAPLE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": ">E61"
     },
     {
-        "id": "NF2307989",
+        "id": "CF2305150",
         "date": "2023-07-19",
-        "time": "11:01:45 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - manual",
-        "location": "830 ROSITA RD ,PCF",
-        "latitude": 37.5854129978709,
-        "longitude": -122.498949469724,
-        "units": ""
-    },
-    {
-        "id": "SF2308895",
-        "date": "2023-07-19",
-        "time": "10:24:22 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ELM ST #310 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "time": "11:08:31 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "1353 LASUEN DR ,MLB",
+        "latitude": 37.584769187536,
+        "longitude": -122.399929320539,
+        "units": ">E37 >T34 >E33 >BC8 PR8D>E38 CM21X5 ?TAC25"
     }
 ]
