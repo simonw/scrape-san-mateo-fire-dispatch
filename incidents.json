@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2304212",
+        "date": "2023-07-19",
+        "time": "3:34:47 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA LOMA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "BF2302663",
+        "date": "2023-07-19",
+        "time": "3:32:27 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "TRAEGER AVE #212 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2308054",
+        "date": "2023-07-19",
+        "time": "3:31:27 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDEN BOWER LN ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
         "id": "SF2308911",
         "date": "2023-07-19",
         "time": "3:24:53 PM",
@@ -8,72 +41,6 @@
         "location": "801 N EL CAMINO REAL ,SMO",
         "latitude": 37.573164750464,
         "longitude": -122.34095488049,
-        "units": "T21 BC5 ?TAC25 ?CM21X4 ?E32"
-    },
-    {
-        "id": "SF2308910",
-        "date": "2023-07-19",
-        "time": "3:18:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1651 COYOTE POINT DR ,SMO",
-        "latitude": 37.5903866240666,
-        "longitude": -122.319518942114,
-        "units": "E24"
-    },
-    {
-        "id": "SF2308909",
-        "date": "2023-07-19",
-        "time": "3:10:45 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ARBOR LN ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "MF2306399",
-        "date": "2023-07-19",
-        "time": "3:06:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ATHERTON AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "BF2302662",
-        "date": "2023-07-19",
-        "time": "3:02:51 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OAKMONT DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "RF2308053",
-        "date": "2023-07-19",
-        "time": "3:01:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BIRCH ST #3 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2308908",
-        "date": "2023-07-19",
-        "time": "3:00:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1465 WOODBERRY AVE ,SMO",
-        "latitude": 37.5281138581631,
-        "longitude": -122.328339055048,
-        "units": ">E27"
+        "units": "CM21X4 >E32 TAC25 >T21"
     }
 ]
