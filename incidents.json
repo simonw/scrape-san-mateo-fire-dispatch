@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2306423",
+        "id": "CF2305171",
         "date": "2023-07-20",
-        "time": "10:41:25 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1928 COOLEY AVE ,EPA",
-        "latitude": 37.4565691315957,
-        "longitude": -122.138218799244,
-        "units": ">E2"
+        "time": "11:03:11 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "HOWARD AVE / PRIMROSE RD",
+        "latitude": 37.5765803074204,
+        "longitude": -122.346665099156,
+        "units": "E32 BC8 T34 TAC25 ?CM21X5"
+    },
+    {
+        "id": "SF2308946",
+        "date": "2023-07-20",
+        "time": "11:02:31 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MISSION DR / S EL CAMINO REAL",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "RF2308083",
+        "date": "2023-07-20",
+        "time": "10:52:31 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #109 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
     },
     {
         "id": "NF2308019",
@@ -31,49 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E41"
-    },
-    {
-        "id": "NF2308018",
-        "date": "2023-07-20",
-        "time": "10:34:26 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CORDOVA CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2308945",
-        "date": "2023-07-20",
-        "time": "10:30:38 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #PLAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "SF2308944",
-        "date": "2023-07-20",
-        "time": "10:21:11 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ST JAMES RD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E15"
-    },
-    {
-        "id": "CF2305170",
-        "date": "2023-07-20",
-        "time": "10:12:35 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SAN RAYMUNDO RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E33"
     }
 ]
