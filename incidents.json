@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2306422",
+        "id": "MF2306423",
         "date": "2023-07-20",
-        "time": "10:22:47 AM",
+        "time": "10:41:25 AM",
         "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1928 COOLEY AVE ,EPA",
+        "latitude": 37.4565691315957,
+        "longitude": -122.138218799244,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2308019",
+        "date": "2023-07-20",
+        "time": "10:37:38 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "NEWELL RD ,EPA",
+        "location": "HICKEY BLVD #4TH FLR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E94"
+    },
+    {
+        "id": "HF2301989",
+        "date": "2023-07-20",
+        "time": "10:36:41 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALAMEDA AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "NF2308018",
+        "date": "2023-07-20",
+        "time": "10:34:26 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CORDOVA CT ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "SF2308945",
+        "date": "2023-07-20",
+        "time": "10:30:38 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS #PLAY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
     },
     {
         "id": "SF2308944",
@@ -19,7 +63,7 @@
         "location": "ST JAMES RD ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": "*>E15"
     },
     {
         "id": "CF2305170",
@@ -30,17 +74,6 @@
         "location": "SAN RAYMUNDO RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "NF2308017",
-        "date": "2023-07-20",
-        "time": "10:04:45 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WINDJAMMER PL ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": "*>E33"
     }
 ]
