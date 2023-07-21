@@ -1,5 +1,71 @@
 [
     {
+        "id": "NF2308059",
+        "date": "2023-07-21",
+        "time": "2:22:57 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FOREST GROVE DR #5 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E91"
+    },
+    {
+        "id": "RF2308123",
+        "date": "2023-07-21",
+        "time": "2:22:06 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BEST CT ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18"
+    },
+    {
+        "id": "SF2308993",
+        "date": "2023-07-21",
+        "time": "2:20:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "S EL CAMINO REAL / 10TH AVE",
+        "latitude": 37.5572703823878,
+        "longitude": -122.319641706504,
+        "units": ">E21 BC5 T21 CM21X2 ?TAC25"
+    },
+    {
+        "id": "MF2306463",
+        "date": "2023-07-21",
+        "time": "2:19:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WB 84 / WO HIGH RI",
+        "latitude": 37.5039371156294,
+        "longitude": -122.121516838139,
+        "units": "T2 E2 BC1 FRBC6 ?VFIR23?CM11X2"
+    },
+    {
+        "id": "RF2308122",
+        "date": "2023-07-21",
+        "time": "2:18:43 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HESS RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "WF2301309",
+        "date": "2023-07-21",
+        "time": "2:18:04 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "SQ407"
+    },
+    {
         "id": "RF2308121",
         "date": "2023-07-21",
         "time": "2:00:53 PM",
@@ -8,51 +74,7 @@
         "location": "630 VETERANS BLVD ,RCY",
         "latitude": 37.492045976967,
         "longitude": -122.231950016558,
-        "units": "T9"
-    },
-    {
-        "id": "NF2308058",
-        "date": "2023-07-21",
-        "time": "1:54:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "MF2306462",
-        "date": "2023-07-21",
-        "time": "1:53:12 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "150 VALPARAISO AVE ,ATN",
-        "latitude": 37.4494230768729,
-        "longitude": -122.195951485811,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2308991",
-        "date": "2023-07-21",
-        "time": "1:49:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "2371 LYALL WAY ,BLM",
-        "latitude": 37.5103169147245,
-        "longitude": -122.300916020043,
-        "units": ">E15"
-    },
-    {
-        "id": "WF2301308",
-        "date": "2023-07-21",
-        "time": "1:46:12 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "4575 ALPINE RD ,PVY",
-        "latitude": 37.367932527049,
-        "longitude": -122.212063051273,
-        "units": "*>E8"
+        "units": ">T9"
     },
     {
         "id": "NF2308049",
@@ -63,6 +85,6 @@
         "location": "350 CRAIG CT ,DCY",
         "latitude": 37.6886708978522,
         "longitude": -122.461378546116,
-        "units": ">E92 >E95 >E94 >PR20B"
+        "units": ">PR20B"
     }
 ]
