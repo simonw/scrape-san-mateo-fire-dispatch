@@ -1,14 +1,47 @@
 [
     {
-        "id": "HF2302002",
+        "id": "RF2308164",
         "date": "2023-07-22",
-        "time": "12:38:20 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "12:59:15 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "BROADWAY / EL CAMINO REAL",
+        "latitude": 37.4862169747507,
+        "longitude": -122.234930844581,
+        "units": "?TAC15 >E9 CM11X3 >T9 >BC3"
+    },
+    {
+        "id": "SF2309048",
+        "date": "2023-07-22",
+        "time": "12:58:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "DRIFTWOOD TRL ,HMB",
+        "location": "CARLMONT DR #310C ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": ">E15"
+    },
+    {
+        "id": "CF2305218",
+        "date": "2023-07-22",
+        "time": "12:51:12 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #145 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "BF2302701",
+        "date": "2023-07-22",
+        "time": "12:49:12 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "100 LAKE DR ,SNB",
+        "latitude": 37.6184304050529,
+        "longitude": -122.44996849069,
+        "units": "?TAC35 CM31X2 >E52 >BC16 PR16A"
     },
     {
         "id": "NF2308086",
@@ -19,28 +52,6 @@
         "location": "BANFF WAY ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
-    },
-    {
-        "id": "SF2309046",
-        "date": "2023-07-22",
-        "time": "12:10:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "SF2309041",
-        "date": "2023-07-22",
-        "time": "10:55:02 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SONORA DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E25"
+        "units": ">E72"
     }
 ]
