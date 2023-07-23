@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2309092",
+        "date": "2023-07-23",
+        "time": "9:35:08 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "QUINCE ST #B ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "MF2306512",
+        "date": "2023-07-23",
+        "time": "9:35:00 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "58 GREENOAKS DR ,ATN",
+        "latitude": 37.4723101817255,
+        "longitude": -122.179715193298,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2309091",
+        "date": "2023-07-23",
+        "time": "9:28:30 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "POTOMAC WAY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "WF2301316",
         "date": "2023-07-23",
         "time": "9:24:03 AM",
@@ -8,7 +41,7 @@
         "location": "1 ENTRANCE WAY ,WDS",
         "latitude": 37.4300143908922,
         "longitude": -122.281169493681,
-        "units": "E7"
+        "units": ">E7"
     },
     {
         "id": "MF2306511",
@@ -22,50 +55,6 @@
         "units": ">E2"
     },
     {
-        "id": "RF2308193",
-        "date": "2023-07-23",
-        "time": "9:14:50 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2306510",
-        "date": "2023-07-23",
-        "time": "9:06:16 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHILCO ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "NF2308126",
-        "date": "2023-07-23",
-        "time": "8:59:33 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2305237",
-        "date": "2023-07-23",
-        "time": "8:56:49 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
         "id": "SF2309090",
         "date": "2023-07-23",
         "time": "8:55:59 AM",
@@ -74,6 +63,6 @@
         "location": "SOUTHRIDGE CT ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E27"
+        "units": "E27"
     }
 ]
