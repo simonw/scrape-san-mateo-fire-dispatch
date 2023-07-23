@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2308202",
+        "id": "SF2309102",
         "date": "2023-07-23",
-        "time": "3:40:42 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "4:03:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Smoke investigation",
+        "location": "1801 J HART CLINTON DR ,SMO",
+        "latitude": 37.5750270862123,
+        "longitude": -122.307322957557,
+        "units": "?E24"
+    },
+    {
+        "id": "NF2308139",
+        "date": "2023-07-23",
+        "time": "4:00:22 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "ROOSEVELT AVE ,RCY",
+        "location": "BROOKLAWN AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "E95"
+    },
+    {
+        "id": "RF2308203",
+        "date": "2023-07-23",
+        "time": "3:47:00 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "IRIS LN ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
     },
     {
         "id": "BF2302712",
@@ -19,7 +41,7 @@
         "location": "SEA CLIFF WAY ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": ">E52"
     },
     {
         "id": "CF2305245",
@@ -30,28 +52,6 @@
         "location": "BROADWAY #1010 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "CF2305244",
-        "date": "2023-07-23",
-        "time": "3:24:54 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #3 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "HF2302011",
-        "date": "2023-07-23",
-        "time": "3:12:55 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SEA GULL LN ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
+        "units": ""
     }
 ]
