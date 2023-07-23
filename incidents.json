@@ -1,5 +1,38 @@
 [
     {
+        "id": "DF2301632",
+        "date": "2023-07-23",
+        "time": "12:23:03 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SKYLINE BLVD / ALPINE RD",
+        "latitude": 37.3149197614327,
+        "longitude": -122.18724185588,
+        "units": "E58 E7 ?TAC45 ?BC15 ?CFE21?CO57"
+    },
+    {
+        "id": "NF2308137",
+        "date": "2023-07-23",
+        "time": "12:15:39 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "NF2308136",
+        "date": "2023-07-23",
+        "time": "12:12:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "RIFLE RANGE RD / DEAD END ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "WF2301318",
         "date": "2023-07-23",
         "time": "12:00:47 PM",
@@ -11,28 +44,6 @@
         "units": ">E8"
     },
     {
-        "id": "RF2308195",
-        "date": "2023-07-23",
-        "time": "11:58:25 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STANFORD AVE / SAN MATEO AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "BF2302711",
-        "date": "2023-07-23",
-        "time": "11:57:20 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN BENITO AVE #3 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "MF2306517",
         "date": "2023-07-23",
         "time": "11:55:23 AM",
@@ -41,18 +52,7 @@
         "location": "901 GARDEN ST ,EPA",
         "latitude": 37.4670172617833,
         "longitude": -122.13454374581,
-        "units": ">E2 >BC101 >T2 CM11X5 ?TAC15"
-    },
-    {
-        "id": "NF2308134",
-        "date": "2023-07-23",
-        "time": "11:54:22 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FAIRVIEW AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
+        "units": ">E2 ?TAC15 CM11X5 >T2"
     },
     {
         "id": "WF2301317",
@@ -63,17 +63,6 @@
         "location": "WOODSIDE RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "CF2305241",
-        "date": "2023-07-23",
-        "time": "11:41:25 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "35 NEW PLACE RD ,HIL",
-        "latitude": 37.5655855667214,
-        "longitude": -122.364678848139,
-        "units": ""
+        "units": "E4"
     }
 ]
