@@ -1,25 +1,80 @@
 [
     {
-        "id": "MF2306552",
+        "id": "SF2309149",
         "date": "2023-07-24",
-        "time": "3:41:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W BAYSHORE RD #6 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "SF2309146",
-        "date": "2023-07-24",
-        "time": "3:41:04 PM",
+        "time": "4:02:33 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ALBACORE LN ,FCY",
+        "location": "MULLET CT ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
+        "units": ">E28"
+    },
+    {
+        "id": "NF2308182",
+        "date": "2023-07-24",
+        "time": "3:58:58 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "43 MIRIAM ST ,DCY",
+        "latitude": 37.7039485900905,
+        "longitude": -122.464734232087,
+        "units": ">E92"
+    },
+    {
+        "id": "NF2308181",
+        "date": "2023-07-24",
+        "time": "3:56:52 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST #430 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2309147",
+        "date": "2023-07-24",
+        "time": "3:54:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1950 ELKHORN CT ,SMO",
+        "latitude": 37.5486413322339,
+        "longitude": -122.313479546388,
+        "units": ">E23"
+    },
+    {
+        "id": "FF2304289",
+        "date": "2023-07-24",
+        "time": "3:52:37 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "NF2308180",
+        "date": "2023-07-24",
+        "time": "3:51:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Smoke investigation",
+        "location": "LOMA VISTA TE / SACRAMENT TE",
+        "latitude": 37.6349729460959,
+        "longitude": -122.482508801152,
+        "units": ">E71"
+    },
+    {
+        "id": "CF2305272",
+        "date": "2023-07-24",
+        "time": "3:48:04 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #38C ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "NF2308179",
@@ -30,7 +85,7 @@
         "location": "HAMPSHIRE AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "SF2309145",
@@ -41,7 +96,7 @@
         "location": "LOWER LOCK AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "FF2304288",
@@ -52,6 +107,6 @@
         "location": "N ACCESS RD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": "Q62"
     }
 ]
