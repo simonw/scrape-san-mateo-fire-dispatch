@@ -1,5 +1,16 @@
 [
     {
+        "id": "RF2308215",
+        "date": "2023-07-23",
+        "time": "8:36:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TWIN DOLPHIN DR #306 ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
         "id": "NF2308151",
         "date": "2023-07-23",
         "time": "8:14:21 PM",
@@ -8,18 +19,7 @@
         "location": "105 ROCKAWAY BEACH AVE ,PCF",
         "latitude": 37.6102062306205,
         "longitude": -122.49628994306,
-        "units": ">E72 TAC35 CM31X1 BC120 E71"
-    },
-    {
-        "id": "NF2308150",
-        "date": "2023-07-23",
-        "time": "8:05:44 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EDGEWOOD DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": "TAC35 CM31X1 *>E71 >E72 >BC120"
     },
     {
         "id": "DF2301635",
@@ -30,6 +30,6 @@
         "location": "11222 SKYLINE BLVD ,KMT",
         "latitude": 37.4955750561378,
         "longitude": -122.368892307841,
-        "units": ">E1771 >E17 ?TAC15 CM11X3 >E56>T17 >BC11 >R56"
+        "units": ">E17 ?TAC15 CM11X3 >E56 >R56"
     }
 ]
