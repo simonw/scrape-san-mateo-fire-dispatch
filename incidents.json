@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2306566",
+        "date": "2023-07-25",
+        "time": "7:30:51 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2309177",
+        "date": "2023-07-25",
+        "time": "7:30:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "2260 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5593978480592,
+        "longitude": -122.281720076478,
+        "units": ""
+    },
+    {
         "id": "WF2301326",
         "date": "2023-07-25",
         "time": "7:23:09 AM",
@@ -8,7 +30,7 @@
         "location": "NB 280 / NO SAND HILL RD",
         "latitude": 37.4284489470436,
         "longitude": -122.234018361835,
-        "units": "TAC15 SQ407 E19 BC2 CM11X1E7"
+        "units": ">CM11X1 >E7 >TAC15 >BC2 >SQ407"
     },
     {
         "id": "SF2309176",
@@ -19,28 +41,6 @@
         "location": "COMSTOCK CIR ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "SF2309175",
-        "date": "2023-07-25",
-        "time": "7:06:56 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2309174",
-        "date": "2023-07-25",
-        "time": "7:04:22 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREVIEW AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": ">E15"
     }
 ]
