@@ -8,7 +8,7 @@
         "location": "SEA SHELL CIR ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
+        "units": ">E41"
     },
     {
         "id": "FF2304302",
@@ -19,18 +19,7 @@
         "location": "SAN MATEO AVE / LOWRIE AVE",
         "latitude": 37.6481099574969,
         "longitude": -122.409364935753,
-        "units": "CM31X2 Q62 BC17 E61 ?TAC35"
-    },
-    {
-        "id": "RF2308278",
-        "date": "2023-07-25",
-        "time": "1:19:08 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "MIDDLEFIELD RD / MAPLE ST",
-        "latitude": 37.4839737117839,
-        "longitude": -122.225544073124,
-        "units": ">E9 >BC3 T4 TAC15 CM11X2"
+        "units": ">Q62"
     },
     {
         "id": "HF2302027",
@@ -41,28 +30,6 @@
         "location": "CHESTERFIELD AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "CF2305298",
-        "date": "2023-07-25",
-        "time": "1:11:19 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #2 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "MF2306575",
-        "date": "2023-07-25",
-        "time": "1:03:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON CT ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "units": "*>E40"
     }
 ]
