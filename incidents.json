@@ -1,5 +1,49 @@
 [
     {
+        "id": "HF2302025",
+        "date": "2023-07-25",
+        "time": "9:24:12 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "NF2308214",
+        "date": "2023-07-25",
+        "time": "9:19:11 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST #349 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "NF2308213",
+        "date": "2023-07-25",
+        "time": "9:15:07 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "RIO VERDE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "NF2308212",
+        "date": "2023-07-25",
+        "time": "9:07:08 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HANOVER ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
         "id": "RF2308266",
         "date": "2023-07-25",
         "time": "9:04:40 AM",
@@ -8,7 +52,7 @@
         "location": "EL CAMINO REAL #310 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "RF2308265",
@@ -19,7 +63,7 @@
         "location": "ALAMEDA DE LAS PULGAS ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": ">E12"
     },
     {
         "id": "NF2308211",
@@ -30,18 +74,7 @@
         "location": "JUNIPERO SERRA BLVD #DIALYSIS ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "CF2305290",
-        "date": "2023-07-25",
-        "time": "9:01:22 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BAYWOOD AVE ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E91"
     },
     {
         "id": "CF2305289",
@@ -52,29 +85,7 @@
         "location": "TROUSDALE DR #612 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "NF2308210",
-        "date": "2023-07-25",
-        "time": "8:59:19 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MIRIAM ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2305287",
-        "date": "2023-07-25",
-        "time": "8:41:19 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #1302 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">E37"
     },
     {
         "id": "WF2301326",
@@ -85,6 +96,6 @@
         "location": "NB 280 / NO SAND HILL RD",
         "latitude": 37.4284489470436,
         "longitude": -122.234018361835,
-        "units": ">CM11X1 >E7 >TAC15 >BC2 >SQ407"
+        "units": ">CM11X1 >TAC15 *>SQ407"
     }
 ]
