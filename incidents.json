@@ -1,24 +1,68 @@
 [
     {
-        "id": "MF2306587",
+        "id": "MF2306588",
         "date": "2023-07-25",
-        "time": "5:19:45 PM",
+        "time": "6:03:10 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "category": "Fire alarm",
+        "location": "795 WILLOW RD ,MNP",
+        "latitude": 37.4663546046411,
+        "longitude": -122.160234197566,
+        "units": "E2 E1 T9 E77 CM11X3?TAC15 ?BC1"
     },
     {
-        "id": "FF2304306",
+        "id": "SF2309202",
         "date": "2023-07-25",
-        "time": "5:02:40 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "5:58:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "N ACCESS RD ,SSF",
+        "location": "KEHOE AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": "E24"
+    },
+    {
+        "id": "SF2309201",
+        "date": "2023-07-25",
+        "time": "5:49:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "2940 S NORFOLK ST ,SMO",
+        "latitude": 37.5442417997172,
+        "longitude": -122.285604425786,
+        "units": "*>E26"
+    },
+    {
+        "id": "NF2308223",
+        "date": "2023-07-25",
+        "time": "5:43:45 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #101A ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2308287",
+        "date": "2023-07-25",
+        "time": "5:43:23 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE #40 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "CF2305305",
+        "date": "2023-07-25",
+        "time": "5:40:19 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Landscape fire",
+        "location": "1638 ALBEMARLE WAY ,BRM",
+        "latitude": 37.5916427072901,
+        "longitude": -122.379895906149,
+        "units": ">E34"
     }
 ]
