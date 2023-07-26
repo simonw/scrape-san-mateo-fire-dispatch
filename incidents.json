@@ -1,14 +1,36 @@
 [
     {
-        "id": "LF2300770",
+        "id": "FF2304320",
         "date": "2023-07-26",
-        "time": "12:23:38 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "12:33:07 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "SERRAMONTE BLVD ,CLM",
+        "location": "W ORANGE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E86"
+        "units": ">E63"
+    },
+    {
+        "id": "HF2302033",
+        "date": "2023-07-26",
+        "time": "12:29:58 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "N CABRILLO HWY ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "NF2308245",
+        "date": "2023-07-26",
+        "time": "12:24:17 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARK MANOR DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
     },
     {
         "id": "CF2305322",
@@ -19,7 +41,7 @@
         "location": "TROUSDALE DR #213 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?T34"
+        "units": ">T34"
     },
     {
         "id": "RF2308316",
@@ -30,7 +52,7 @@
         "location": "STAMBAUGH ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E11"
+        "units": ">E11"
     },
     {
         "id": "RF2308315",
@@ -41,7 +63,7 @@
         "location": "SB 101 / HOLLY ST ON RAMP",
         "latitude": 37.5071358652959,
         "longitude": -122.248561922706,
-        "units": "?TAC15 CM11X4 E9 T9 E13>BC3"
+        "units": "?TAC15 CM11X4 >T9 >E13 >BC3"
     },
     {
         "id": "SF2309238",
@@ -53,49 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E28"
-    },
-    {
-        "id": "CF2305321",
-        "date": "2023-07-26",
-        "time": "12:06:44 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHILTERN RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "RF2308314",
-        "date": "2023-07-26",
-        "time": "12:04:57 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "FF2304319",
-        "date": "2023-07-26",
-        "time": "12:03:03 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DNA WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "MF2306613",
-        "date": "2023-07-26",
-        "time": "11:57:00 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BERESFORD AVE ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
