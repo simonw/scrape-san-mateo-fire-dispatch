@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2305312",
+        "date": "2023-07-25",
+        "time": "11:19:20 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "836 NEWHALL RD ,BRM",
+        "latitude": 37.5795858011207,
+        "longitude": -122.361277557391,
+        "units": ">E34"
+    },
+    {
+        "id": "MF2306594",
+        "date": "2023-07-25",
+        "time": "11:15:12 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #219 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "WF2301333",
+        "date": "2023-07-25",
+        "time": "11:06:56 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HIGHLAND TE ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ407"
+    },
+    {
         "id": "SF2309214",
         "date": "2023-07-25",
         "time": "11:03:02 PM",
@@ -8,29 +41,7 @@
         "location": "PENSACOLA ST ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "RF2308290",
-        "date": "2023-07-25",
-        "time": "10:59:11 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ORANGE AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "MF2306592",
-        "date": "2023-07-25",
-        "time": "10:53:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": ">E29"
     },
     {
         "id": "MF2306591",
@@ -44,17 +55,6 @@
         "units": ">E7"
     },
     {
-        "id": "HF2302031",
-        "date": "2023-07-25",
-        "time": "10:29:17 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TURNBERRY RD ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM41X1 >E41 >E40"
-    },
-    {
         "id": "DF2301648",
         "date": "2023-07-25",
         "time": "10:25:54 PM",
@@ -63,6 +63,6 @@
         "location": "REDWOOD AVE ,BUT",
         "latitude": null,
         "longitude": null,
-        "units": "VFIR23 >E59 >E655"
+        "units": ">E655"
     }
 ]
