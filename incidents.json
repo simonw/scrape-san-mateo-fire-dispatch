@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2308323",
+        "date": "2023-07-26",
+        "time": "3:39:12 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "RF2308322",
+        "date": "2023-07-26",
+        "time": "3:34:37 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "INDUSTRIAL RD ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "CF2305327",
+        "date": "2023-07-26",
+        "time": "3:27:31 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #419 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "CF2305326",
         "date": "2023-07-26",
         "time": "3:20:56 PM",
@@ -8,18 +41,7 @@
         "location": "EL CAMINO REAL / HILLSIDE DR",
         "latitude": null,
         "longitude": null,
-        "units": ">E34 CM21X1 >BC8"
-    },
-    {
-        "id": "FF2304325",
-        "date": "2023-07-26",
-        "time": "3:20:03 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WILLOW AVE #3 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E65"
+        "units": ">BC8 CM21X1 >E34 >E35"
     },
     {
         "id": "RF2308320",
@@ -30,29 +52,7 @@
         "location": "BROADWAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "RF2308321",
-        "date": "2023-07-26",
-        "time": "3:17:58 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Lock out - vehicle",
-        "location": "810 LAUREL ST ,SNC",
-        "latitude": 37.5031917316186,
-        "longitude": -122.257734033272,
-        "units": ">E16"
-    },
-    {
-        "id": "MF2306616",
-        "date": "2023-07-26",
-        "time": "3:14:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLOUD AVE ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": ""
     },
     {
         "id": "RF2308319",
@@ -63,7 +63,7 @@
         "location": "1109 HILTON ST ,RCY",
         "latitude": 37.4832696679803,
         "longitude": -122.216793084996,
-        "units": "T9"
+        "units": ""
     },
     {
         "id": "FF2304324",
@@ -75,17 +75,6 @@
         "latitude": 37.6464675901683,
         "longitude": -122.396775357804,
         "units": ">Q62"
-    },
-    {
-        "id": "BF2302739",
-        "date": "2023-07-26",
-        "time": "3:04:52 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Pole fire",
-        "location": "2550 CRESTMOOR DR ,SNB",
-        "latitude": 37.621493485266,
-        "longitude": -122.436320839032,
-        "units": ""
     },
     {
         "id": "BF2302738",
@@ -108,16 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E63"
-    },
-    {
-        "id": "MF2306615",
-        "date": "2023-07-26",
-        "time": "2:51:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BUCHANAN CT ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
     }
 ]
