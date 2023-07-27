@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2309270",
+        "id": "SF2309272",
         "date": "2023-07-26",
-        "time": "11:24:15 PM",
+        "time": "11:35:01 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "2371 LYALL WAY ,BLM",
+        "latitude": 37.5103169147245,
+        "longitude": -122.300916020043,
+        "units": ">E15"
+    },
+    {
+        "id": "SF2309271",
+        "date": "2023-07-26",
+        "time": "11:34:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "FF2304337",
+        "date": "2023-07-26",
+        "time": "11:32:10 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "N ACCESS RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "Q62"
+    },
+    {
+        "id": "RF2308335",
+        "date": "2023-07-26",
+        "time": "11:31:22 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Carbon monoxide alarm",
-        "location": "605 SUNNYBRAE BLVD ,SMO",
-        "latitude": 37.5582251811682,
-        "longitude": -122.309751649494,
-        "units": "E24"
+        "location": "199 KINGS CT ,SNC",
+        "latitude": 37.4934542094798,
+        "longitude": -122.283764109269,
+        "units": ">E13"
     },
     {
         "id": "CF2305337",
@@ -20,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E35"
-    },
-    {
-        "id": "CF2305335",
-        "date": "2023-07-26",
-        "time": "11:00:07 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #311B ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
