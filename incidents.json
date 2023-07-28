@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2306648",
+        "date": "2023-07-28",
+        "time": "6:25:03 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHARON PARK DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E4"
+    },
+    {
+        "id": "BF2302762",
+        "date": "2023-07-28",
+        "time": "6:21:36 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "4336 SHELTER CREEK LN ,SNB",
+        "latitude": 37.6196118935287,
+        "longitude": -122.427952492168,
+        "units": "E52"
+    },
+    {
         "id": "FF2304362",
         "date": "2023-07-28",
         "time": "6:04:54 AM",
@@ -8,28 +30,6 @@
         "location": "SB 280 / SO WESTBOROUGH BLVD",
         "latitude": 37.6414170599916,
         "longitude": -122.443838094168,
-        "units": "E51 BC120 E64 T51 CM31X1?TAC35"
-    },
-    {
-        "id": "NF2308297",
-        "date": "2023-07-28",
-        "time": "5:50:15 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MIRANDA CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "WF2301346",
-        "date": "2023-07-28",
-        "time": "5:47:31 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "1407 PORTOLA RD ,WDS",
-        "latitude": 37.3924063604176,
-        "longitude": -122.244397956943,
-        "units": ">E7"
+        "units": ">E51 >T51 >BC120 >E64 CM31X1?TAC35"
     }
 ]
