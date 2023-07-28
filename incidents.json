@@ -1,36 +1,69 @@
 [
     {
-        "id": "SF2309338",
+        "id": "SF2309341",
         "date": "2023-07-28",
-        "time": "9:56:44 AM",
+        "time": "10:25:15 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "E 3RD AVE #2201 ,SMO",
+        "location": "NB 101 / EB 92 ON RAMP",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": "?TAC25 ?CM21X5 ?E24 ?E23"
     },
     {
-        "id": "NF2308302",
+        "id": "MF2306654",
         "date": "2023-07-28",
-        "time": "9:48:56 AM",
+        "time": "10:21:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E SELBY LN #22 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E3 E5"
+    },
+    {
+        "id": "MF2306653",
+        "date": "2023-07-28",
+        "time": "10:20:07 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "1275 CRANE ST ,MNP",
+        "latitude": 37.4521314381749,
+        "longitude": -122.18795393585,
+        "units": "E1"
+    },
+    {
+        "id": "NF2308303",
+        "date": "2023-07-28",
+        "time": "10:18:09 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "N PARKVIEW AVE #10 ,DCY",
+        "location": "PIERCE ST #218 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": ">E95"
     },
     {
-        "id": "MF2306651",
+        "id": "RF2308395",
         "date": "2023-07-28",
-        "time": "9:48:38 AM",
+        "time": "10:17:06 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "2684 MIDDLEFIELD RD #D ,NFO",
+        "latitude": 37.47622196918,
+        "longitude": -122.213725300545,
+        "units": "T9"
+    },
+    {
+        "id": "MF2306652",
+        "date": "2023-07-28",
+        "time": "10:07:09 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "620 HAMILTON AVE ,MNP",
-        "latitude": 37.4789624813651,
-        "longitude": -122.157533437668,
-        "units": ">E77"
+        "category": "Medical aid",
+        "location": "GLORIA WAY #411 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "HF2302045",
@@ -41,6 +74,6 @@
         "location": "170 SAN MATEO RD ,HMB",
         "latitude": 37.4685540670812,
         "longitude": -122.431278297008,
-        "units": ">E41 ?TAC45 >E40 CM41X4 >BC10"
+        "units": ">E41 >E40 >BC10"
     }
 ]
