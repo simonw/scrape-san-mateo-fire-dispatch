@@ -1,36 +1,36 @@
 [
     {
-        "id": "SF2309341",
+        "id": "SF2309342",
         "date": "2023-07-28",
-        "time": "10:25:15 AM",
+        "time": "10:41:00 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "NB 101 / EB 92 ON RAMP",
+        "location": "HARBOR BLVD ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC25 ?CM21X5 ?E24 ?E23"
+        "units": "E13"
     },
     {
-        "id": "MF2306654",
+        "id": "CF2305381",
         "date": "2023-07-28",
-        "time": "10:21:18 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "10:40:34 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "1700 SANCHEZ AVE ,BRM",
+        "latitude": 37.5807157098467,
+        "longitude": -122.363994601591,
+        "units": "E33"
+    },
+    {
+        "id": "RF2308397",
+        "date": "2023-07-28",
+        "time": "10:35:19 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "E SELBY LN #22 ,NFO",
+        "location": "DUANE ST #4 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E3 E5"
-    },
-    {
-        "id": "MF2306653",
-        "date": "2023-07-28",
-        "time": "10:20:07 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "1275 CRANE ST ,MNP",
-        "latitude": 37.4521314381749,
-        "longitude": -122.18795393585,
-        "units": "E1"
+        "units": ">E9 >E10"
     },
     {
         "id": "NF2308303",
@@ -52,28 +52,6 @@
         "location": "2684 MIDDLEFIELD RD #D ,NFO",
         "latitude": 37.47622196918,
         "longitude": -122.213725300545,
-        "units": "T9"
-    },
-    {
-        "id": "MF2306652",
-        "date": "2023-07-28",
-        "time": "10:07:09 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GLORIA WAY #411 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2302045",
-        "date": "2023-07-28",
-        "time": "9:19:26 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Gas main break",
-        "location": "170 SAN MATEO RD ,HMB",
-        "latitude": 37.4685540670812,
-        "longitude": -122.431278297008,
-        "units": ">E41 >E40 >BC10"
+        "units": ">T9"
     }
 ]
