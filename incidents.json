@@ -1,25 +1,36 @@
 [
     {
-        "id": "RF2308374",
+        "id": "RF2308376",
         "date": "2023-07-27",
-        "time": "11:00:08 PM",
+        "time": "11:25:06 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "category": "Fire alarm",
+        "location": "701 CHARTER ST ,RCY",
+        "latitude": 37.4830083067698,
+        "longitude": -122.215129068561,
+        "units": "?E11"
     },
     {
-        "id": "HF2302042",
+        "id": "RF2308375",
         "date": "2023-07-27",
-        "time": "10:47:10 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "11:18:22 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CABRILLO HWY S ,HMB",
+        "location": "FULTON ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": ">E10"
+    },
+    {
+        "id": "FF2304357",
+        "date": "2023-07-27",
+        "time": "11:15:49 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
     },
     {
         "id": "DF2301658",
@@ -30,7 +41,7 @@
         "location": "MEMORY LN ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": "E1781 >E58 >R57 ?VFIR23"
+        "units": ">E58 >E1781 ?VFIR23 >R57"
     },
     {
         "id": "RF2308372",
@@ -42,16 +53,5 @@
         "latitude": 37.4826857361517,
         "longitude": -122.201426862535,
         "units": "TAC15 CM11X3"
-    },
-    {
-        "id": "RF2308368",
-        "date": "2023-07-27",
-        "time": "9:45:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Pole fire",
-        "location": "101 TWIN DOLPHIN DR ,RWS",
-        "latitude": 37.5259475784109,
-        "longitude": -122.262844114678,
-        "units": ">E20"
     }
 ]
