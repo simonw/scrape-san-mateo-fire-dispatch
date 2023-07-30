@@ -1,14 +1,25 @@
 [
     {
+        "id": "MF2306713",
+        "date": "2023-07-30",
+        "time": "2:34:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "SF2309442",
         "date": "2023-07-30",
         "time": "2:21:51 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "RALSTON AVE / MARINE PKWY",
+        "location": "SHOREWAY RD / MARINE PKWY",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
+        "units": ""
     },
     {
         "id": "CF2305443",
@@ -19,7 +30,7 @@
         "location": "OAK RIM DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "CM21X1 T34 E33"
+        "units": ">T34 >E33 CM21X1"
     },
     {
         "id": "LF2300789",
@@ -30,18 +41,7 @@
         "location": "7800 EL CAMINO REAL ,BRD",
         "latitude": 37.6847983614674,
         "longitude": -122.46446676944,
-        "units": ">E86 TAC35 CM31X3 T85"
-    },
-    {
-        "id": "SF2309441",
-        "date": "2023-07-30",
-        "time": "2:15:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CAMBRIDGE ST ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": ""
     },
     {
         "id": "NF2308380",
@@ -52,18 +52,7 @@
         "location": "1850 SULLIVAN AVE ,DCY",
         "latitude": 37.6809287952432,
         "longitude": -122.473772710118,
-        "units": ">E91"
-    },
-    {
-        "id": "SF2309440",
-        "date": "2023-07-30",
-        "time": "2:11:18 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, ladder request",
-        "location": "1337 6TH AVE ,BLM",
-        "latitude": 37.5171363596456,
-        "longitude": -122.274460960711,
-        "units": ">E13"
+        "units": ""
     },
     {
         "id": "CF2305442",
@@ -75,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "CF2305441",
-        "date": "2023-07-30",
-        "time": "1:53:09 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #406 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
