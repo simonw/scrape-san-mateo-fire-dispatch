@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2304533",
+        "id": "RF2308782",
         "date": "2023-08-07",
-        "time": "12:38:07 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "1:00:04 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "RAILROAD AVE #7 ,SSF",
+        "location": "LIDO CIR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": "E16"
+    },
+    {
+        "id": "RF2308781",
+        "date": "2023-08-07",
+        "time": "12:58:27 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KENTUCKY ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "FF2304534",
+        "date": "2023-08-07",
+        "time": "12:57:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Pole fire",
+        "location": "518 ECCLES AVE ,SSF",
+        "latitude": 37.6593409969469,
+        "longitude": -122.390897916865,
+        "units": ">Q62"
+    },
+    {
+        "id": "MF2306965",
+        "date": "2023-08-07",
+        "time": "12:57:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
     },
     {
         "id": "SF2309807",
@@ -19,18 +52,7 @@
         "location": "527 N AMPHLETT BLVD ,SMO",
         "latitude": 37.5804877679095,
         "longitude": -122.325296622535,
-        "units": ">E32 CM21X1 ?TAC26"
-    },
-    {
-        "id": "MF2306964",
-        "date": "2023-08-07",
-        "time": "12:31:51 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "246 RUTHERFORD AVE ,WSB",
-        "latitude": 37.4560926266072,
-        "longitude": -122.224602803101,
-        "units": ""
+        "units": "*>E32"
     },
     {
         "id": "NF2308705",
@@ -52,18 +74,7 @@
         "location": "1100 ISLAND DR ,RWS",
         "latitude": 37.5377040242083,
         "longitude": -122.256264553855,
-        "units": "CM11X1 TAC15 BC3 >E20"
-    },
-    {
-        "id": "SF2309806",
-        "date": "2023-08-07",
-        "time": "11:17:28 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Gas main break",
-        "location": "1525 CYPRESS AVE ,SMO",
-        "latitude": 37.5759889814281,
-        "longitude": -122.313714045587,
-        "units": "CM21X3 ?TAC25 >E34 >E194"
+        "units": "CM11X1 >DEM50 TAC15 >E20 >E13>BC3 HM14 HM34 >T23"
     },
     {
         "id": "SF2309442",
