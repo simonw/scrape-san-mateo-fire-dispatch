@@ -1,14 +1,69 @@
 [
     {
-        "id": "DF2301711",
+        "id": "MF2306996",
         "date": "2023-08-08",
-        "time": "12:02:38 PM",
-        "summary": "County Fire on Control-1",
+        "time": "12:22:36 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "2528 EMMETT WAY ,EPA",
+        "latitude": 37.4740881412496,
+        "longitude": -122.139830584576,
+        "units": "E2"
+    },
+    {
+        "id": "RF2308820",
+        "date": "2023-08-08",
+        "time": "12:22:25 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "FORGE RD ,EIC",
+        "location": "HESS RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T17"
+        "units": "E10"
+    },
+    {
+        "id": "CF2305696",
+        "date": "2023-08-08",
+        "time": "12:16:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "VISTA GRANDE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "CF2305695",
+        "date": "2023-08-08",
+        "time": "12:15:58 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #311 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "FF2304548",
+        "date": "2023-08-08",
+        "time": "12:09:54 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HEMLOCK AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "SF2309842",
+        "date": "2023-08-08",
+        "time": "12:07:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "KEHOE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
     },
     {
         "id": "SF2309840",
@@ -19,40 +74,7 @@
         "location": "CARLMONT DR #W111 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "MF2306995",
-        "date": "2023-08-08",
-        "time": "12:00:29 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "UNIVERSITY AVE / DONOHOE ST",
-        "latitude": 37.4627249091171,
-        "longitude": -122.14175519534,
-        "units": "E2"
-    },
-    {
-        "id": "FF2304547",
-        "date": "2023-08-08",
-        "time": "11:56:00 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "1600 EL CAMINO REAL ,SSF",
-        "latitude": 37.663872266813,
-        "longitude": -122.444587305742,
-        "units": "E63"
-    },
-    {
-        "id": "SF2309839",
-        "date": "2023-08-08",
-        "time": "11:51:23 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD COUNTY RD #205 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": ">E15"
     },
     {
         "id": "HF2302133",
@@ -63,7 +85,7 @@
         "location": "MAIN ST / SAN MATEO RD",
         "latitude": 37.4666657776944,
         "longitude": -122.429171911346,
-        "units": ">E44 CM41X1 >E41 ?TAC45 >E40>CH10A >BC10"
+        "units": "CM41X1 >E44 >E41 ?TAC45 >E40>BC10"
     },
     {
         "id": "SF2309442",
