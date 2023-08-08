@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2308823",
+        "date": "2023-08-08",
+        "time": "1:03:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "YARNALL PL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E11"
+    },
+    {
+        "id": "NF2308744",
+        "date": "2023-08-08",
+        "time": "12:50:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "125 MONTEREY RD ,PCF",
+        "latitude": 37.6522688695328,
+        "longitude": -122.491251391774,
+        "units": ">E71"
+    },
+    {
         "id": "NF2308743",
         "date": "2023-08-08",
         "time": "12:42:57 PM",
@@ -8,29 +30,7 @@
         "location": "WESTLAWN AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E91"
-    },
-    {
-        "id": "HF2302136",
-        "date": "2023-08-08",
-        "time": "12:41:11 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "315 MAIN ST ,HMB",
-        "latitude": 37.4655292423811,
-        "longitude": -122.428625565108,
-        "units": "?E17"
-    },
-    {
-        "id": "NF2308742",
-        "date": "2023-08-08",
-        "time": "12:34:08 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #203A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ">E91"
     },
     {
         "id": "RF2308821",
@@ -41,7 +41,7 @@
         "location": "2430 TRAIN TRACK ,SNC",
         "latitude": 37.4949597061049,
         "longitude": -122.245359726852,
-        "units": "?CM11X4 >T9 ?TAC15 E9 E14>E13 >BC3"
+        "units": "?CM11X4 ?TAC15 >E9 >E13 >BC3"
     },
     {
         "id": "DF2301712",
@@ -52,7 +52,7 @@
         "location": "ALPINE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "E58 E1769 ?CO57 ?VFIR23 E1765R57"
+        "units": ">E58 ?VFIR23"
     },
     {
         "id": "SF2309843",
@@ -63,40 +63,7 @@
         "location": "ALAMEDA DE LAS PULGAS #327 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "CF2305697",
-        "date": "2023-08-08",
-        "time": "12:27:42 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "SF2309842",
-        "date": "2023-08-08",
-        "time": "12:07:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KEHOE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
         "units": ""
-    },
-    {
-        "id": "HF2302133",
-        "date": "2023-08-08",
-        "time": "11:37:39 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "MAIN ST / SAN MATEO RD",
-        "latitude": 37.4666657776944,
-        "longitude": -122.429171911346,
-        "units": "CM41X1 >E44 >E41 ?TAC45 >E40>BC10"
     },
     {
         "id": "SF2309442",
