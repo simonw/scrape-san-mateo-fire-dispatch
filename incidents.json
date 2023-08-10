@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2308908",
+        "date": "2023-08-10",
+        "time": "2:18:42 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE PLZ ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "BF2302899",
+        "date": "2023-08-10",
+        "time": "2:16:45 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SUSAN DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "WF2301417",
+        "date": "2023-08-10",
+        "time": "2:14:44 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CANADA RD / RUNNYMEDE RD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">BC2 CM11X1 >E19"
+    },
+    {
+        "id": "NF2308835",
+        "date": "2023-08-10",
+        "time": "2:07:25 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "6817 MISSION ST ,DCY",
+        "latitude": 37.6990760536223,
+        "longitude": -122.463710061865,
+        "units": ">E92"
+    },
+    {
+        "id": "SF2309944",
+        "date": "2023-08-10",
+        "time": "2:06:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BARCLAY WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
         "id": "FF2304584",
         "date": "2023-08-10",
         "time": "2:04:48 PM",
@@ -8,7 +63,7 @@
         "location": "EVERGREEN DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E94"
+        "units": ">E94"
     },
     {
         "id": "WF2301416",
@@ -19,18 +74,7 @@
         "location": "PORTOLA RD #L18 ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
-    },
-    {
-        "id": "MF2307071",
-        "date": "2023-08-10",
-        "time": "2:01:14 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CAMELLIA DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2 T2 BC101 ?TAC17 ?CM11X5"
+        "units": ">E8"
     },
     {
         "id": "SF2309943",
@@ -44,39 +88,6 @@
         "units": ">E14"
     },
     {
-        "id": "MF2307070",
-        "date": "2023-08-10",
-        "time": "1:55:17 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "482 ELEANOR DR ,ATN",
-        "latitude": 37.4390038862857,
-        "longitude": -122.23058443786,
-        "units": ">E4"
-    },
-    {
-        "id": "FF2304583",
-        "date": "2023-08-10",
-        "time": "1:55:01 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHCLIFF AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2308907",
-        "date": "2023-08-10",
-        "time": "1:47:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "104 LOMA RD ,SNC",
-        "latitude": 37.4827408218083,
-        "longitude": -122.274538702894,
-        "units": "CM11X4 ?TAC16 >E18 >E13 >BC3>T17"
-    },
-    {
         "id": "SF2309912",
         "date": "2023-08-10",
         "time": "8/9/2023 10:53:58 PM",
@@ -85,6 +96,6 @@
         "location": "SB 101 FRONTAGE RD / EB HOLLY ST OFF RA",
         "latitude": 37.5193594727245,
         "longitude": -122.262360666777,
-        "units": "CM11X2 TAC15"
+        "units": "CM11X2"
     }
 ]
