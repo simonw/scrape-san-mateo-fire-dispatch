@@ -1,14 +1,25 @@
 [
     {
-        "id": "WF2301424",
+        "id": "SF2310009",
         "date": "2023-08-11",
-        "time": "6:47:13 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "5 MORSE LN ,SKY",
-        "latitude": 37.389168330592,
-        "longitude": -122.268930580615,
-        "units": "E17"
+        "time": "7:02:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ARGUS CT ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "CF2305785",
+        "date": "2023-08-11",
+        "time": "6:54:58 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1050 TOURNAMENT DR ,HIL",
+        "latitude": 37.5412604767269,
+        "longitude": -122.343830254731,
+        "units": ">E25"
     },
     {
         "id": "MF2307121",
@@ -19,51 +30,7 @@
         "location": "2050 UNIVERSITY AVE ,EPA",
         "latitude": 37.4605929271487,
         "longitude": -122.142766162559,
-        "units": "T2"
-    },
-    {
-        "id": "RF2308956",
-        "date": "2023-08-11",
-        "time": "6:42:00 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "707 LEAHY ST ,RCY",
-        "latitude": 37.4702118714814,
-        "longitude": -122.215220792766,
-        "units": ">E3"
-    },
-    {
-        "id": "SF2310008",
-        "date": "2023-08-11",
-        "time": "6:36:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EWELL RD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "FF2304607",
-        "date": "2023-08-11",
-        "time": "6:34:01 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "23 FAIRWAY DR ,SSF",
-        "latitude": 37.6482055527141,
-        "longitude": -122.431450361021,
-        "units": ""
-    },
-    {
-        "id": "SF2310007",
-        "date": "2023-08-11",
-        "time": "6:24:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "SB 101 / NO 92",
-        "latitude": 37.5627460005368,
-        "longitude": -122.305327217889,
-        "units": "CM21X4 ?TAC26 >T21"
+        "units": ">T2"
     },
     {
         "id": "DF2301734",
@@ -74,17 +41,6 @@
         "location": "14620 SKYLINE BLVD ,KMT",
         "latitude": 37.4236403804694,
         "longitude": -122.319903517105,
-        "units": ">E1781 *>E58 TAC45 >E1765 >BC15>R56"
-    },
-    {
-        "id": "CF2305782",
-        "date": "2023-08-11",
-        "time": "5:26:34 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "SB 101 / NO BROADWAY",
-        "latitude": 37.5968398858127,
-        "longitude": -122.371807046932,
-        "units": ">T34 CM21X5 ?TAC25"
+        "units": ">E1781 TAC45 >E1765 >BC15 >R56"
     }
 ]
