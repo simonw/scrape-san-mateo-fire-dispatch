@@ -1,5 +1,71 @@
 [
     {
+        "id": "WF2301424",
+        "date": "2023-08-11",
+        "time": "6:47:13 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "5 MORSE LN ,SKY",
+        "latitude": 37.389168330592,
+        "longitude": -122.268930580615,
+        "units": "E17"
+    },
+    {
+        "id": "MF2307121",
+        "date": "2023-08-11",
+        "time": "6:46:42 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "2050 UNIVERSITY AVE ,EPA",
+        "latitude": 37.4605929271487,
+        "longitude": -122.142766162559,
+        "units": "T2"
+    },
+    {
+        "id": "RF2308956",
+        "date": "2023-08-11",
+        "time": "6:42:00 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "707 LEAHY ST ,RCY",
+        "latitude": 37.4702118714814,
+        "longitude": -122.215220792766,
+        "units": ">E3"
+    },
+    {
+        "id": "SF2310008",
+        "date": "2023-08-11",
+        "time": "6:36:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EWELL RD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "FF2304607",
+        "date": "2023-08-11",
+        "time": "6:34:01 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Odor investigation",
+        "location": "23 FAIRWAY DR ,SSF",
+        "latitude": 37.6482055527141,
+        "longitude": -122.431450361021,
+        "units": ""
+    },
+    {
+        "id": "SF2310007",
+        "date": "2023-08-11",
+        "time": "6:24:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO 92",
+        "latitude": 37.5627460005368,
+        "longitude": -122.305327217889,
+        "units": "CM21X4 ?TAC26 >T21"
+    },
+    {
         "id": "DF2301734",
         "date": "2023-08-11",
         "time": "6:13:30 PM",
@@ -8,62 +74,7 @@
         "location": "14620 SKYLINE BLVD ,KMT",
         "latitude": 37.4236403804694,
         "longitude": -122.319903517105,
-        "units": ">R56 E1765 E58 E1781 TAC45BC15 SQ407 E7"
-    },
-    {
-        "id": "SF2310006",
-        "date": "2023-08-11",
-        "time": "6:09:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2307119",
-        "date": "2023-08-11",
-        "time": "6:08:15 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "MENALTO AVE / GREEN ST",
-        "latitude": 37.464976261907,
-        "longitude": -122.151233291684,
-        "units": ">E1"
-    },
-    {
-        "id": "CF2305784",
-        "date": "2023-08-11",
-        "time": "6:07:06 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "BROADWAY / OVER 101",
-        "latitude": 37.5889695557836,
-        "longitude": -122.362309528425,
-        "units": ">E37 >BC8 CM21X1 ?TAC27"
-    },
-    {
-        "id": "SF2310005",
-        "date": "2023-08-11",
-        "time": "6:04:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "CF2305783",
-        "date": "2023-08-11",
-        "time": "5:40:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "1501 TROUSDALE DR ,BRM",
-        "latitude": 37.5922302606011,
-        "longitude": -122.383176480929,
-        "units": ">E35"
+        "units": ">E1781 *>E58 TAC45 >E1765 >BC15>R56"
     },
     {
         "id": "CF2305782",
@@ -74,17 +85,6 @@
         "location": "SB 101 / NO BROADWAY",
         "latitude": 37.5968398858127,
         "longitude": -122.371807046932,
-        "units": ">T34 CM21X5 >BC16 ?TAC25 >E34"
-    },
-    {
-        "id": "NF2308892",
-        "date": "2023-08-11",
-        "time": "4:42:57 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FASSLER AVE / DEAD END",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": ">T34 CM21X5 ?TAC25"
     }
 ]
