@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2304631",
+        "date": "2023-08-13",
+        "time": "3:17:15 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "22 DNA WAY ,SSF",
+        "latitude": 37.6571355705236,
+        "longitude": -122.379211754143,
+        "units": "Q62"
+    },
+    {
+        "id": "FF2304630",
+        "date": "2023-08-13",
+        "time": "3:16:16 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "1140 VETERANS BLVD ,SSF",
+        "latitude": 37.6646605204368,
+        "longitude": -122.391492726653,
+        "units": ">E65"
+    },
+    {
         "id": "NF2308951",
         "date": "2023-08-13",
         "time": "3:01:43 AM",
@@ -8,7 +30,7 @@
         "location": "RIO VERDE ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
+        "units": ">E93"
     },
     {
         "id": "MF2307163",
@@ -19,40 +41,7 @@
         "location": "E O'KEEFE ST #14 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "RF2309004",
-        "date": "2023-08-13",
-        "time": "2:57:48 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LINCOLN AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9 >E10 CM11X1"
-    },
-    {
-        "id": "MF2307162",
-        "date": "2023-08-13",
-        "time": "2:51:19 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "160 FELTON DR ,MNP",
-        "latitude": 37.4636757155936,
-        "longitude": -122.188018755822,
-        "units": ">E6"
-    },
-    {
-        "id": "CF2305816",
-        "date": "2023-08-13",
-        "time": "2:48:06 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "2758 SUMMIT DR ,BRM",
-        "latitude": 37.5727591494667,
-        "longitude": -122.386980965432,
-        "units": ">E35"
+        "units": ">E2"
     },
     {
         "id": "CF2305815",
@@ -63,17 +52,6 @@
         "location": "SB 101 / NO E POPLAR AVE",
         "latitude": 37.5866627903477,
         "longitude": -122.334833597726,
-        "units": ">T34 >BC8 CM21X3 TAC25 >E34"
-    },
-    {
-        "id": "CF2305814",
-        "date": "2023-08-13",
-        "time": "2:45:45 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL / EDGEHILL DR",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">BC8 >E34"
     }
 ]
