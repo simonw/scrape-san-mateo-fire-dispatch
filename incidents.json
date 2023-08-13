@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2304640",
+        "date": "2023-08-13",
+        "time": "11:42:24 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "N ACCESS RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E51"
+    },
+    {
+        "id": "SF2310068",
+        "date": "2023-08-13",
+        "time": "11:25:57 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "STATION PARK CIR #205 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
         "id": "LF2300836",
         "date": "2023-08-13",
         "time": "11:21:00 AM",
@@ -8,29 +30,7 @@
         "location": "GILMAN DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86 MED19"
-    },
-    {
-        "id": "MF2307170",
-        "date": "2023-08-13",
-        "time": "11:15:04 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "170 SELBY LN ,ATN",
-        "latitude": 37.4581103259721,
-        "longitude": -122.220197429185,
-        "units": ">E3"
-    },
-    {
-        "id": "MF2307169",
-        "date": "2023-08-13",
-        "time": "11:12:42 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAND HILL RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
+        "units": ">E86"
     },
     {
         "id": "NF2308962",
@@ -41,6 +41,6 @@
         "location": "PEDRO MOUNTAIN RD / HIGGINS WAY",
         "latitude": null,
         "longitude": null,
-        "units": "CM41X1 >E44 >U44 >BC10 >E72"
+        "units": "*>E44 >U44 >BC10 >E72"
     }
 ]
