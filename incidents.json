@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2309053",
+        "date": "2023-08-14",
+        "time": "11:25:18 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #36 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E9"
+    },
+    {
+        "id": "SF2310105",
+        "date": "2023-08-14",
+        "time": "11:22:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #506 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "NF2309002",
+        "date": "2023-08-14",
+        "time": "11:07:05 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MARINER LN ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "NF2309001",
+        "date": "2023-08-14",
+        "time": "11:06:35 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EASTLAKE AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "HF2302181",
         "date": "2023-08-14",
         "time": "11:02:07 AM",
@@ -8,18 +52,7 @@
         "location": "N CABRILLO HWY / VERMONT AVE",
         "latitude": 37.5263295527002,
         "longitude": -122.512137575897,
-        "units": "E72 >E44 E41 CM41X2 BC10?TAC45"
-    },
-    {
-        "id": "NF2309000",
-        "date": "2023-08-14",
-        "time": "11:01:54 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "145 LAKE MERCED BLVD ,DCY",
-        "latitude": 37.705169674491,
-        "longitude": -122.485777559108,
-        "units": "E95 T95 BC20 CM31X5 ?TAC35"
+        "units": ">E1771 >E44 >CM41X2 >E41 >TAC45>BC10"
     },
     {
         "id": "SF2310104",
@@ -31,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E26"
-    },
-    {
-        "id": "SF2310103",
-        "date": "2023-08-14",
-        "time": "10:49:46 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST #5 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "BF2302927",
-        "date": "2023-08-14",
-        "time": "10:48:44 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GREEN AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "MF2307203",
-        "date": "2023-08-14",
-        "time": "9:55:20 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CYPRESS ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
     }
 ]
