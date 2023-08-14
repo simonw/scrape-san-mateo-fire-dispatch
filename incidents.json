@@ -1,47 +1,58 @@
 [
     {
-        "id": "SF2310085",
+        "id": "FF2304649",
         "date": "2023-08-13",
-        "time": "7:04:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "715 INDIAN AVE ,SMO",
-        "latitude": 37.5771294416327,
-        "longitude": -122.326812318259,
-        "units": "E24"
-    },
-    {
-        "id": "RF2309029",
-        "date": "2023-08-13",
-        "time": "7:01:39 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "7:25:30 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "HOPKINS AVE #33 ,RCY",
+        "location": "GRAND AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "?E61"
     },
     {
-        "id": "RF2309028",
+        "id": "RF2309031",
         "date": "2023-08-13",
-        "time": "6:56:45 PM",
+        "time": "7:24:32 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "560 MARLIN CT ,RWS",
-        "latitude": 37.5314822640743,
-        "longitude": -122.250926798948,
-        "units": ""
+        "category": "Medical aid",
+        "location": "WALNUT ST #312 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
     },
     {
-        "id": "CF2305832",
+        "id": "CF2305833",
         "date": "2023-08-13",
-        "time": "6:47:59 PM",
+        "time": "7:16:53 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "FLORIBUNDA AVE #217 ,BRM",
+        "location": "CHADBOURNE AVE #350 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": ">E37"
+    },
+    {
+        "id": "RF2309030",
+        "date": "2023-08-13",
+        "time": "7:12:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO HOLLY ST",
+        "latitude": 37.5015834506222,
+        "longitude": -122.241966950497,
+        "units": ">T9"
+    },
+    {
+        "id": "NF2308977",
+        "date": "2023-08-13",
+        "time": "7:11:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WAKEFIELD AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "RF2309027",
@@ -53,16 +64,5 @@
         "latitude": 37.4528445730955,
         "longitude": -122.255259078842,
         "units": ">E12"
-    },
-    {
-        "id": "MF2307183",
-        "date": "2023-08-13",
-        "time": "6:23:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "445 E O'KEEFE ST #8 ,EPA",
-        "latitude": 37.4623234864328,
-        "longitude": -122.145705791343,
-        "units": ">T2"
     }
 ]
