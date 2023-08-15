@@ -1,47 +1,69 @@
 [
     {
-        "id": "BF2302939",
+        "id": "HF2302189",
         "date": "2023-08-15",
-        "time": "2:37:15 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "3:04:24 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "ATLANTIC AVE ,SNB",
+        "location": "CREEKSIDE DR ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": "?E40"
     },
     {
-        "id": "NF2309053",
+        "id": "RF2309091",
         "date": "2023-08-15",
-        "time": "2:36:46 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "3:03:10 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "PIERCE ST #103 ,DCY",
+        "location": "CORDILLERAS AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": "?E16"
     },
     {
-        "id": "SF2310161",
+        "id": "SF2310163",
         "date": "2023-08-15",
-        "time": "2:36:23 PM",
+        "time": "2:57:45 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "category": "Elevator rescue",
+        "location": "655 OLD COUNTY RD ,BLM",
+        "latitude": 37.5246034052119,
+        "longitude": -122.278943036326,
+        "units": ">E14"
     },
     {
-        "id": "NF2309052",
+        "id": "CF2305878",
         "date": "2023-08-15",
-        "time": "2:35:37 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "2:52:36 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "LAKESHIRE DR ,DCY",
+        "location": "ALPINE AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">T95"
+        "units": ">E34"
+    },
+    {
+        "id": "SF2310162",
+        "date": "2023-08-15",
+        "time": "2:52:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "EB 92 / WO TOLL PLZ",
+        "latitude": 37.6049148325108,
+        "longitude": -122.195454098818,
+        "units": "BC5 ?CM21X1 HABC2 HAE2 ?TAC25E29 >T23 HAT7"
+    },
+    {
+        "id": "NF2309054",
+        "date": "2023-08-15",
+        "time": "2:45:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEL MAR AVE #21 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "NF2309051",
@@ -52,17 +74,6 @@
         "location": "PIERCE ST #414 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "CF2305877",
-        "date": "2023-08-15",
-        "time": "2:27:27 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "S MAGNOLIA AVE / MURCHISON DR",
-        "latitude": 37.5956497154054,
-        "longitude": -122.387150279308,
-        "units": ">E37"
+        "units": "*>E95"
     }
 ]
