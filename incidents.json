@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2305873",
+        "date": "2023-08-15",
+        "time": "12:39:53 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MURCHISON DR #C ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "LF2300848",
+        "date": "2023-08-15",
+        "time": "12:34:25 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
         "id": "NF2309049",
         "date": "2023-08-15",
         "time": "12:21:07 PM",
@@ -8,29 +30,7 @@
         "location": "ESCUELA DR #118 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2309086",
-        "date": "2023-08-15",
-        "time": "12:08:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LINDEN ST #208 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "FF2304691",
-        "date": "2023-08-15",
-        "time": "12:04:05 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "101 OYSTER POINT BLVD #104 ,SSF",
-        "latitude": 37.6628023448017,
-        "longitude": -122.397202241989,
-        "units": ">E65"
+        "units": ""
     },
     {
         "id": "SF2310156",
@@ -41,7 +41,7 @@
         "location": "409 41ST AVE ,SMO",
         "latitude": 37.5258429799323,
         "longitude": -122.303043311868,
-        "units": ">E25 >BC5 >E14 >CM21X3 >E23>T23 >TAC26"
+        "units": ">BC5 >E14 >CM21X3 >E23 >TAC26"
     },
     {
         "id": "FF2304690",
@@ -53,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E94"
-    },
-    {
-        "id": "CF2305871",
-        "date": "2023-08-15",
-        "time": "11:37:57 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Structure fire",
-        "location": "721 CHADBOURNE AVE ,MLB",
-        "latitude": 37.5956517148833,
-        "longitude": -122.394372588301,
-        "units": "*>T34"
     }
 ]
