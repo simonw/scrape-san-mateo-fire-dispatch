@@ -1,5 +1,71 @@
 [
     {
+        "id": "NF2309047",
+        "date": "2023-08-15",
+        "time": "11:59:08 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
+    },
+    {
+        "id": "BF2302937",
+        "date": "2023-08-15",
+        "time": "11:56:24 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1099 ADMIRAL CT ,SNB",
+        "latitude": 37.6340263494716,
+        "longitude": -122.422181047521,
+        "units": "TAC35 E63 >E52 >BC16 >T51CM31X3"
+    },
+    {
+        "id": "SF2310155",
+        "date": "2023-08-15",
+        "time": "11:56:17 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #W111 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "SF2310156",
+        "date": "2023-08-15",
+        "time": "11:56:15 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Gas main break",
+        "location": "409 41ST AVE ,SMO",
+        "latitude": 37.5258429799323,
+        "longitude": -122.303043311868,
+        "units": "E25 BC5 E14 CM21X3 >E23T23 TAC26"
+    },
+    {
+        "id": "FF2304690",
+        "date": "2023-08-15",
+        "time": "11:50:37 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ERRIS CT ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "FF2304689",
+        "date": "2023-08-15",
+        "time": "11:50:11 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SHANNON DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "HF2302188",
         "date": "2023-08-15",
         "time": "11:42:49 AM",
@@ -8,72 +74,17 @@
         "location": "BLOOM LN #1319 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "?E40"
-    },
-    {
-        "id": "CF2305872",
-        "date": "2023-08-15",
-        "time": "11:39:36 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1496 OLD BAYSHORE HWY ,BRM",
-        "latitude": 37.5981529640934,
-        "longitude": -122.364369019007,
-        "units": "E24"
-    },
-    {
-        "id": "LF2300847",
-        "date": "2023-08-15",
-        "time": "11:37:59 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Trash fire",
-        "location": "119 COLMA BLVD ,CLM",
-        "latitude": 37.677122804549,
-        "longitude": -122.4669632863,
-        "units": "E86"
+        "units": ">E40"
     },
     {
         "id": "CF2305871",
         "date": "2023-08-15",
         "time": "11:37:57 AM",
         "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
+        "category": "Structure fire",
         "location": "721 CHADBOURNE AVE ,MLB",
         "latitude": 37.5956517148833,
         "longitude": -122.394372588301,
-        "units": ">E37 >E38 T34 E34 BC8?TAC25 ?CM21X5"
-    },
-    {
-        "id": "NF2309046",
-        "date": "2023-08-15",
-        "time": "11:36:38 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SURREY CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "MF2307238",
-        "date": "2023-08-15",
-        "time": "11:34:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROBLE AVE #101 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "FF2304688",
-        "date": "2023-08-15",
-        "time": "11:24:28 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S LINDEN AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ">T34 >E37 >CM21X5 >TAC25 >E38"
     }
 ]
