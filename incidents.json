@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2310168",
+        "date": "2023-08-15",
+        "time": "7:04:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1171 COMPASS LN ,FCY",
+        "latitude": 37.5496783505199,
+        "longitude": -122.254021358975,
+        "units": "BC5 E29 T23 CM21X2 ?TAC25"
+    },
+    {
+        "id": "MF2307247",
+        "date": "2023-08-15",
+        "time": "7:04:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BELLAIR WAY ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2309108",
+        "date": "2023-08-15",
+        "time": "7:01:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OXFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T9 E3"
+    },
+    {
+        "id": "NF2309060",
+        "date": "2023-08-15",
+        "time": "7:01:39 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BELLEVUE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "RF2309107",
+        "date": "2023-08-15",
+        "time": "6:58:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "335 SAMSON ST ,RCY",
+        "latitude": 37.4907141214249,
+        "longitude": -122.234528724959,
+        "units": ""
+    },
+    {
         "id": "DF2301769",
         "date": "2023-08-15",
         "time": "6:47:09 PM",
@@ -8,28 +63,6 @@
         "location": "COVE BEACH ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "E1791 E59 ?VFIR23 ?CFE33"
-    },
-    {
-        "id": "HF2302193",
-        "date": "2023-08-15",
-        "time": "6:45:03 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Lock out - vehicle",
-        "location": "375 N CABRILLO HWY ,HMB",
-        "latitude": 37.4695136377552,
-        "longitude": -122.432895435199,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2309105",
-        "date": "2023-08-15",
-        "time": "6:38:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR #402 ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": ">E59"
     }
 ]
