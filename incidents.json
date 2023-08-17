@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2304733",
+        "date": "2023-08-17",
+        "time": "12:34:12 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "30 TANFORAN AVE ,SSF",
+        "latitude": 37.6406846713874,
+        "longitude": -122.416307792826,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2309130",
+        "date": "2023-08-17",
+        "time": "12:26:38 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "149 MONTEREY ST ,BRS",
+        "latitude": 37.6834062512899,
+        "longitude": -122.400327097818,
+        "units": ">E81"
+    },
+    {
         "id": "SF2310243",
         "date": "2023-08-17",
         "time": "12:18:18 PM",
@@ -8,29 +30,7 @@
         "location": "W HILLSDALE BLVD #217 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
-    },
-    {
-        "id": "WF2301447",
-        "date": "2023-08-17",
-        "time": "12:12:35 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "50 PALMER LN ,PVY",
-        "latitude": 37.3819491239656,
-        "longitude": -122.207985144362,
-        "units": ">E8"
-    },
-    {
-        "id": "NF2309129",
-        "date": "2023-08-17",
-        "time": "12:11:42 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CLIFTON RD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E71"
+        "units": ">E27"
     },
     {
         "id": "NF2309128",
@@ -42,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "SF2310242",
-        "date": "2023-08-17",
-        "time": "12:08:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #222 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
