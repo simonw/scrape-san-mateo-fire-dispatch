@@ -1,25 +1,58 @@
 [
     {
-        "id": "SF2310238",
+        "id": "WF2301446",
         "date": "2023-08-17",
-        "time": "10:23:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:40:54 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "FRANKLIN PKWY ,SMO",
+        "location": "PORTOLA RD ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": "E8"
     },
     {
-        "id": "NF2309123",
+        "id": "CF2305930",
         "date": "2023-08-17",
-        "time": "10:20:19 AM",
+        "time": "10:38:04 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "537 BROADWAY ,MLB",
+        "latitude": 37.6034682525234,
+        "longitude": -122.395990543396,
+        "units": "E51"
+    },
+    {
+        "id": "NF2309124",
+        "date": "2023-08-17",
+        "time": "10:34:50 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "PALOMA AVE ,PCF",
+        "location": "MANOR DR #C ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": ">E71"
+    },
+    {
+        "id": "RF2309174",
+        "date": "2023-08-17",
+        "time": "10:26:36 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "BF2302973",
+        "date": "2023-08-17",
+        "time": "10:25:35 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTMOOR DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "DF2301776",
@@ -28,17 +61,6 @@
         "summary": "County Fire on Control-1",
         "category": "Medical aid",
         "location": "LEXINGTON AVE ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E17"
-    },
-    {
-        "id": "SF2310237",
-        "date": "2023-08-17",
-        "time": "10:11:45 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PACIFIC BLVD ,SMO",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -52,6 +74,6 @@
         "location": "SWETT RD ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 >R56 TAC45"
+        "units": ">E58 TAC45 >R56"
     }
 ]
