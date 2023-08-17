@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2305913",
+        "date": "2023-08-16",
+        "time": "5:39:01 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MACADAMIA DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "E33"
+    },
+    {
+        "id": "MF2307278",
+        "date": "2023-08-16",
+        "time": "5:31:34 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KAVANAUGH DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "NF2309094",
         "date": "2023-08-16",
         "time": "5:16:54 PM",
@@ -8,7 +30,7 @@
         "location": "ACCACIA ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
+        "units": ">E93"
     },
     {
         "id": "BF2302960",
@@ -19,29 +41,7 @@
         "location": "SAN BRUNO AVE W ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "SF2310214",
-        "date": "2023-08-16",
-        "time": "5:14:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "1288 E HILLSDALE BLVD ,FCY",
-        "latitude": 37.5683104475974,
-        "longitude": -122.265410028222,
-        "units": "E28"
-    },
-    {
-        "id": "SF2310213",
-        "date": "2023-08-16",
-        "time": "5:06:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HACIENDA ST #133 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E51"
     },
     {
         "id": "RF2309147",
@@ -52,6 +52,6 @@
         "location": "PLEASANT HILL RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 >E19 >E12"
+        "units": "CM11X1 >E12"
     }
 ]
