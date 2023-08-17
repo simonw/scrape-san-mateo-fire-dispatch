@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2305939",
+        "date": "2023-08-17",
+        "time": "4:41:53 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CHADBOURNE AVE #350 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E35"
+    },
+    {
+        "id": "HF2302218",
+        "date": "2023-08-17",
+        "time": "4:40:44 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BEACH AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E41"
+    },
+    {
+        "id": "MF2307309",
+        "date": "2023-08-17",
+        "time": "4:39:39 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DEXTER AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
         "id": "BF2302975",
         "date": "2023-08-17",
         "time": "4:22:22 PM",
@@ -8,7 +41,7 @@
         "location": "LASSEN DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": ">E52"
     },
     {
         "id": "SF2310253",
@@ -19,28 +52,17 @@
         "location": "SB 101 / NO 92",
         "latitude": 37.5627460005368,
         "longitude": -122.305327217889,
-        "units": "CM21X2 BC8 E24 E26 ?TAC26?T21"
+        "units": ""
     },
     {
         "id": "SF2310252",
         "date": "2023-08-17",
         "time": "4:14:33 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Water rescue investigation",
+        "category": "Water rescue response",
         "location": "30 LAKESIDE DR ,FCY",
         "latitude": 37.5721818430181,
         "longitude": -122.279554872808,
-        "units": "?CG22A BC5 JS28 CM51X2 ?TAC25>E28"
-    },
-    {
-        "id": "FF2304744",
-        "date": "2023-08-17",
-        "time": "3:49:09 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "619 MYRTLE AVE ,SSF",
-        "latitude": 37.6491943997167,
-        "longitude": -122.424075776689,
-        "units": ">E61"
+        "units": "?CG22A >BC5 BOAT9 >Q62 >JS28CM51X2 ?TAC25 ?BOAT14 >E28 >E21"
     }
 ]
