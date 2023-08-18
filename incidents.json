@@ -1,80 +1,58 @@
 [
     {
+        "id": "MF2307316",
+        "date": "2023-08-17",
+        "time": "7:38:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #2106 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "FF2304747",
+        "date": "2023-08-17",
+        "time": "7:36:49 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MILLER AVE #4 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "RF2309189",
+        "date": "2023-08-17",
+        "time": "7:36:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Grass fire",
+        "location": "WOODSIDE RD / MIDDLEFIELD RD",
+        "latitude": 37.4810932683928,
+        "longitude": -122.219104103963,
+        "units": ">E3 >E11 >BC3 >E9 ?FECC?VFIR22 ?CM11X3"
+    },
+    {
+        "id": "SF2310266",
+        "date": "2023-08-17",
+        "time": "7:34:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ORINDA DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
         "id": "CF2305943",
         "date": "2023-08-17",
         "time": "7:24:41 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO BROADWAY",
+        "location": "SB 101 / SO BROADWAY",
         "latitude": 37.5968398858127,
         "longitude": -122.371807046932,
-        "units": "T34 E34 E37 CM21X3 ?TAC25?BC16"
-    },
-    {
-        "id": "HF2302219",
-        "date": "2023-08-17",
-        "time": "7:18:57 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WAVE AVE / FRONTAGE RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "MF2307315",
-        "date": "2023-08-17",
-        "time": "7:14:37 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "322 LAUREL AVE ,MNP",
-        "latitude": 37.4585993483135,
-        "longitude": -122.15484462395,
-        "units": ">E1"
-    },
-    {
-        "id": "LF2300853",
-        "date": "2023-08-17",
-        "time": "7:13:07 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1680 MISSION RD ,CLM",
-        "latitude": 37.6711335909561,
-        "longitude": -122.451329478687,
-        "units": "?CM31X2 ?TAC35 >E85 >T85"
-    },
-    {
-        "id": "RF2309188",
-        "date": "2023-08-17",
-        "time": "7:08:40 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SIERRA ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "WF2301450",
-        "date": "2023-08-17",
-        "time": "7:02:12 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "200 SHAWNEE PASS ,PVY",
-        "latitude": 37.380540409974,
-        "longitude": -122.218107567234,
-        "units": "*>E8"
-    },
-    {
-        "id": "RF2309187",
-        "date": "2023-08-17",
-        "time": "6:42:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "870 JEFFERSON AVE ,RCY",
-        "latitude": 37.4857318856983,
-        "longitude": -122.228335558305,
-        "units": ">E9"
+        "units": ">T34 >E37 CM21X3 >BC16 ?TAC25>E34"
     },
     {
         "id": "SF2310252",
@@ -85,6 +63,6 @@
         "location": "30 LAKESIDE DR ,FCY",
         "latitude": 37.5721818430181,
         "longitude": -122.279554872808,
-        "units": ">JS28 >BOAT14"
+        "units": ">BOAT14"
     }
 ]
