@@ -1,36 +1,69 @@
 [
     {
-        "id": "MF2307357",
+        "id": "CF2305971",
         "date": "2023-08-18",
-        "time": "7:14:58 PM",
+        "time": "7:40:44 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "T51"
+    },
+    {
+        "id": "CF2305970",
+        "date": "2023-08-18",
+        "time": "7:39:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "NF2309175",
+        "date": "2023-08-18",
+        "time": "7:37:55 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "6256 MISSION ST ,DCY",
+        "latitude": 37.7063092661831,
+        "longitude": -122.460716753147,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2309227",
+        "date": "2023-08-18",
+        "time": "7:36:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "MF2307358",
+        "date": "2023-08-18",
+        "time": "7:31:15 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WESTMINSTER AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "category": "Traffic accident pd request c3",
+        "location": "287 4TH AVE ,NFO",
+        "latitude": 37.4717433540632,
+        "longitude": -122.206260754079,
+        "units": ">T9 >BC1 >E11 ?TAC15 ?CM11X4"
     },
     {
-        "id": "SF2310317",
+        "id": "HF2302229",
         "date": "2023-08-18",
-        "time": "7:11:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "7:24:31 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "TRINITY ST ,SMO",
+        "location": "N CABRILLO HWY ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "FF2304765",
-        "date": "2023-08-18",
-        "time": "7:10:36 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LITTLEFIELD AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ">E41"
     },
     {
         "id": "RF2309225",
@@ -42,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E77"
-    },
-    {
-        "id": "BF2302994",
-        "date": "2023-08-18",
-        "time": "6:59:52 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "600 7TH AVE ,SNB",
-        "latitude": 37.6279991547047,
-        "longitude": -122.404804530486,
-        "units": ">T51"
     }
 ]
