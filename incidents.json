@@ -1,5 +1,71 @@
 [
     {
+        "id": "SF2310346",
+        "date": "2023-08-19",
+        "time": "12:39:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS #317 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "MF2307377",
+        "date": "2023-08-19",
+        "time": "12:37:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FREDRICK AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "NF2309206",
+        "date": "2023-08-19",
+        "time": "12:35:08 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VILLA ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
+        "id": "FF2304783",
+        "date": "2023-08-19",
+        "time": "12:34:13 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "20 AIRPORT BLVD ,SSF",
+        "latitude": 37.6522154460238,
+        "longitude": -122.407576982944,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2309205",
+        "date": "2023-08-19",
+        "time": "12:33:28 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SCHWERIN ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "FF2304782",
+        "date": "2023-08-19",
+        "time": "12:29:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "389 DNA WAY ,SSF",
+        "latitude": 37.6547558042217,
+        "longitude": -122.384251306861,
+        "units": ">Q62"
+    },
+    {
         "id": "SF2310345",
         "date": "2023-08-19",
         "time": "12:22:40 PM",
@@ -8,7 +74,7 @@
         "location": "S NORFOLK ST #220 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E24"
     },
     {
         "id": "NF2309204",
@@ -19,29 +85,7 @@
         "location": "JUNIPERO SERRA BLVD #301 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
-    },
-    {
-        "id": "MF2307376",
-        "date": "2023-08-19",
-        "time": "12:22:30 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident - structure",
-        "location": "630 MENLO AVE ,MNP",
-        "latitude": 37.4522416882892,
-        "longitude": -122.182571048554,
-        "units": "?TAC15 ?CM11X5 ?BC1 ?E3 ?E1?E6 ?T4"
-    },
-    {
-        "id": "RF2309243",
-        "date": "2023-08-19",
-        "time": "12:20:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Grass fire",
-        "location": "SB 101 / SO WOODSIDE RD",
-        "latitude": 37.4859579510142,
-        "longitude": -122.193590413825,
-        "units": "E9 CM11X4 BC3 ?VFIR22 ?E16?E11"
+        "units": ">E92"
     },
     {
         "id": "NF2309203",
@@ -52,7 +96,7 @@
         "location": "KING DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": "*>E94"
     },
     {
         "id": "FF2304780",
@@ -64,27 +108,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "SF2310344",
-        "date": "2023-08-19",
-        "time": "11:58:18 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "2000 ALAMEDA DE LAS PULGAS ,SMO",
-        "latitude": 37.5447365697105,
-        "longitude": -122.321205450432,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2310338",
-        "date": "2023-08-19",
-        "time": "10:50:41 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E25"
     }
 ]
