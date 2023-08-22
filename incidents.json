@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2306033",
+        "id": "BF2303033",
         "date": "2023-08-22",
-        "time": "9:24:49 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "9:38:17 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "2500 COTTONWOOD DR ,SNB",
+        "latitude": 37.6312280922545,
+        "longitude": -122.444193674726,
+        "units": "E64"
+    },
+    {
+        "id": "FF2304832",
+        "date": "2023-08-22",
+        "time": "9:33:03 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "BARCLAY AVE ,MLB",
+        "location": "VALVERDE DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": "E63"
+    },
+    {
+        "id": "DF2301803",
+        "date": "2023-08-22",
+        "time": "9:32:56 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 1 / SO TUNNEL",
+        "latitude": 37.5629500165583,
+        "longitude": -122.513137177766,
+        "units": ">E44 >PR10B CM41X2 BC11 ?TAC45"
+    },
+    {
+        "id": "NF2309297",
+        "date": "2023-08-22",
+        "time": "9:31:42 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1200 SIERRA POINT PKWY ,BRS",
+        "latitude": 37.6739158954726,
+        "longitude": -122.384069715722,
+        "units": ">E81"
     },
     {
         "id": "CF2306032",
@@ -17,17 +50,6 @@
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
         "location": "VALDIVIA WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "MF2307463",
-        "date": "2023-08-22",
-        "time": "8:57:47 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,MNP",
         "latitude": null,
         "longitude": null,
         "units": ""
