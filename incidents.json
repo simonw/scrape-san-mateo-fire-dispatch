@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2310513",
+        "id": "SF2310515",
         "date": "2023-08-23",
-        "time": "12:02:43 PM",
+        "time": "12:19:45 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "550 SHELL BLVD ,FCY",
-        "latitude": 37.5602572678181,
-        "longitude": -122.273024416369,
-        "units": "?TAC25 ?CM21X4 ?BC5 ?T23 ?E28"
+        "category": "Medical aid",
+        "location": "N IDAHO ST #4 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "T34"
+    },
+    {
+        "id": "SF2310514",
+        "date": "2023-08-23",
+        "time": "12:13:38 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "418 HILLCREST RD ,SMO",
+        "latitude": 37.5637707212982,
+        "longitude": -122.349494668481,
+        "units": ">E24"
+    },
+    {
+        "id": "CF2306058",
+        "date": "2023-08-23",
+        "time": "12:12:34 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #222 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "MF2307511",
+        "date": "2023-08-23",
+        "time": "12:11:37 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "291 LINFIELD DR ,MNP",
+        "latitude": 37.4531297517398,
+        "longitude": -122.169432420936,
+        "units": ">E1"
     },
     {
         "id": "SF2310512",
@@ -19,7 +52,7 @@
         "location": "384 FOSTER CITY BLVD ,FCY",
         "latitude": 37.5655248318382,
         "longitude": -122.276548882326,
-        "units": ""
+        "units": ">E26"
     },
     {
         "id": "HF2302280",
@@ -30,7 +63,7 @@
         "location": "EL GRANADA BLVD / EL GRANADA BLVD SERVI",
         "latitude": null,
         "longitude": null,
-        "units": ">E41 CM41X1 TO11"
+        "units": ">BC10 >E41 CM41X1 TO11"
     },
     {
         "id": "FF2304851",
