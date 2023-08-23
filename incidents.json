@@ -1,5 +1,16 @@
 [
     {
+        "id": "DF2301813",
+        "date": "2023-08-23",
+        "time": "4:35:11 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "500 LOG CABIN RANCH RD ,LAH",
+        "latitude": 37.3022646426092,
+        "longitude": -122.261695397936,
+        "units": "E57 E58 ?TAC45"
+    },
+    {
         "id": "RF2309419",
         "date": "2023-08-23",
         "time": "4:23:06 PM",
@@ -8,7 +19,7 @@
         "location": "BROADWAY / WOODSIDE RD",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "SF2310522",
@@ -19,18 +30,7 @@
         "location": "WILLIAMS LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "FF2304855",
-        "date": "2023-08-23",
-        "time": "4:13:04 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BADEN AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ">E29"
     },
     {
         "id": "MF2307520",
@@ -41,7 +41,7 @@
         "location": "2422 FORDHAM ST ,EPA",
         "latitude": 37.4721971021353,
         "longitude": -122.136766484362,
-        "units": "CM11X4 >TAC15 ?MNFINV >BC1 >E2>SQ401 >E11 >E77 >BC101 >E5"
+        "units": "CM11X4 >TAC15 >BC1 >E2 >SQ401>E77 >PR1 >BC101 >PR1B >E5"
     },
     {
         "id": "FM2300084",
@@ -52,7 +52,7 @@
         "location": "SMITH RIVER COMPLEX, 6 RIVER NTL FOREST",
         "latitude": null,
         "longitude": null,
-        "units": ">BC123 >E2118 >OES405 >OH4 >OES376>OES403"
+        "units": ">E2118 >BC123 >OES405 >OES403 >OH4>OES376"
     },
     {
         "id": "FM2300082",
@@ -63,6 +63,6 @@
         "location": "SMITH RIVER COMPLEX, 6 RIVER NATL FORES",
         "latitude": null,
         "longitude": null,
-        "units": ">BC17B >E132 >E107 >E104 >E112>E141"
+        "units": ">E104 >E107 >E112 >BC17B >E141>E132"
     }
 ]
