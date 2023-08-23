@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2307485",
+        "date": "2023-08-22",
+        "time": "6:49:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAND HILL CIR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E7"
+    },
+    {
+        "id": "FF2304842",
+        "date": "2023-08-22",
+        "time": "6:48:25 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "TAMARACK LN ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "BF2303038",
+        "date": "2023-08-22",
+        "time": "6:46:09 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2309321",
+        "date": "2023-08-22",
+        "time": "6:27:58 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SKYLINE BLVD / MANOR DR",
+        "latitude": 37.6461790304673,
+        "longitude": -122.470836748776,
+        "units": ">BC121 ?TAC35 >E64 >T95 CM31X4"
+    },
+    {
         "id": "RF2309371",
         "date": "2023-08-22",
         "time": "6:20:06 PM",
@@ -8,29 +52,7 @@
         "location": "NB 101 / SO RALSTON AVE",
         "latitude": 37.5194827250338,
         "longitude": -122.262201492139,
-        "units": "BC3 E13 T23 E16 TAC15CM11X3"
-    },
-    {
-        "id": "SF2310481",
-        "date": "2023-08-22",
-        "time": "6:16:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Trash fire",
-        "location": "11 S DELAWARE ST ,SMO",
-        "latitude": 37.5697336800066,
-        "longitude": -122.322451672255,
-        "units": ">E21"
-    },
-    {
-        "id": "BF2303037",
-        "date": "2023-08-22",
-        "time": "6:15:05 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MADISON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "units": ""
     },
     {
         "id": "RF2309370",
@@ -41,73 +63,7 @@
         "location": "BLOMQUIST ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E1 E9 >T9"
-    },
-    {
-        "id": "HF2302276",
-        "date": "2023-08-22",
-        "time": "6:08:08 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Lock out - vehicle",
-        "location": "478 VIRGINIA AVE ,MBH",
-        "latitude": 37.526236695828,
-        "longitude": -122.512907689705,
-        "units": ""
-    },
-    {
-        "id": "RF2309369",
-        "date": "2023-08-22",
-        "time": "6:04:54 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SPRING ST ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "SF2310480",
-        "date": "2023-08-22",
-        "time": "5:59:37 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL CT ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2310479",
-        "date": "2023-08-22",
-        "time": "5:59:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #215 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "RF2309368",
-        "date": "2023-08-22",
-        "time": "5:58:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOPKINS AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2307477",
-        "date": "2023-08-22",
-        "time": "5:00:55 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Grass fire",
-        "location": "NB 101 / SO MARSH RD",
-        "latitude": 37.4775715102468,
-        "longitude": -122.169821019453,
-        "units": "?VFIR22 ?CM11X2 >PR1"
+        "units": ">T9 >E1"
     },
     {
         "id": "FM2300084",
