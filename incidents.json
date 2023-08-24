@@ -1,36 +1,58 @@
 [
     {
-        "id": "DF2301813",
+        "id": "SF2310523",
         "date": "2023-08-23",
-        "time": "4:35:11 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "500 LOG CABIN RANCH RD ,LAH",
-        "latitude": 37.3022646426092,
-        "longitude": -122.261695397936,
-        "units": "E57 E58 ?TAC45"
-    },
-    {
-        "id": "RF2309419",
-        "date": "2023-08-23",
-        "time": "4:23:06 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY / WOODSIDE RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2310522",
-        "date": "2023-08-23",
-        "time": "4:13:36 PM",
+        "time": "5:07:36 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "WILLIAMS LN ,FCY",
+        "location": "N SAN MATEO DR #106 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
+        "units": ">E21"
+    },
+    {
+        "id": "CF2306064",
+        "date": "2023-08-23",
+        "time": "5:05:01 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AIRPORT BLVD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "MF2307522",
+        "date": "2023-08-23",
+        "time": "4:58:49 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RUNNYMEDE ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "RF2309422",
+        "date": "2023-08-23",
+        "time": "4:55:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KING ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
+        "id": "RF2309421",
+        "date": "2023-08-23",
+        "time": "4:51:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILDWOOD AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
     },
     {
         "id": "MF2307520",
@@ -41,7 +63,7 @@
         "location": "2422 FORDHAM ST ,EPA",
         "latitude": 37.4721971021353,
         "longitude": -122.136766484362,
-        "units": "CM11X4 >TAC15 >BC1 >E2 >SQ401>E77 >PR1 >BC101 >PR1B >E5"
+        "units": "CM11X4 >TAC15 >BC1 >E2 >SQ401>PR1 >BC101 >PR1B >E5 >T2"
     },
     {
         "id": "FM2300084",
@@ -52,7 +74,7 @@
         "location": "SMITH RIVER COMPLEX, 6 RIVER NTL FOREST",
         "latitude": null,
         "longitude": null,
-        "units": ">E2118 >BC123 >OES405 >OES403 >OH4>OES376"
+        "units": ">BC123 >E2118 >OES405 >OH4 >OES376>OES403"
     },
     {
         "id": "FM2300082",
@@ -63,6 +85,6 @@
         "location": "SMITH RIVER COMPLEX, 6 RIVER NATL FORES",
         "latitude": null,
         "longitude": null,
-        "units": ">E104 >E107 >E112 >BC17B >E141>E132"
+        "units": ">BC17B >E132 >E107 >E104 >E112>E141"
     }
 ]
