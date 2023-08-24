@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2310550",
+        "id": "MF2307545",
         "date": "2023-08-24",
-        "time": "10:20:16 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "980 S AMPHLETT BLVD ,SMO",
-        "latitude": 37.5658573840355,
-        "longitude": -122.309315928352,
-        "units": "E24"
+        "time": "10:41:30 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "2914 CALVIN AVE ,NFO",
+        "latitude": 37.4730956380619,
+        "longitude": -122.210358586322,
+        "units": "E11"
+    },
+    {
+        "id": "NF2309383",
+        "date": "2023-08-24",
+        "time": "10:36:41 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CERRO DR #B313 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2309442",
+        "date": "2023-08-24",
+        "time": "10:31:58 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "525 LAUREL ST ,SNC",
+        "latitude": 37.5075667086696,
+        "longitude": -122.262192206305,
+        "units": ""
+    },
+    {
+        "id": "FF2304880",
+        "date": "2023-08-24",
+        "time": "10:28:43 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "COMMERCIAL AVE #2 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
     },
     {
         "id": "FF2304879",
@@ -19,7 +52,7 @@
         "location": "750 COMMERCIAL AVE ,SSF",
         "latitude": 37.6568590347874,
         "longitude": -122.425887587021,
-        "units": ">E63 BC17 Q62 CM31X1 ?TAC35"
+        "units": ">Q62 >BC17 >E63 CM31X1 ?TAC35"
     },
     {
         "id": "MF2307544",
@@ -31,49 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E2"
-    },
-    {
-        "id": "FF2304878",
-        "date": "2023-08-24",
-        "time": "10:16:34 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "VALVERDE DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "SF2310549",
-        "date": "2023-08-24",
-        "time": "10:13:09 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2309379",
-        "date": "2023-08-24",
-        "time": "9:59:58 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "85 BEACHSIDE CT ,DCY",
-        "latitude": 37.6622312755416,
-        "longitude": -122.490336299523,
-        "units": ">E71"
-    },
-    {
-        "id": "NF2309378",
-        "date": "2023-08-24",
-        "time": "9:53:01 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MARTIN ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
     }
 ]
