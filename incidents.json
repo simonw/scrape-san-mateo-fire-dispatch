@@ -1,25 +1,36 @@
 [
     {
-        "id": "BF2303060",
+        "id": "NF2309367",
         "date": "2023-08-23",
-        "time": "11:02:21 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "11:18:35 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "OAKMONT DR ,SNB",
+        "location": "PEORIA ST #1 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E92"
     },
     {
-        "id": "SF2310536",
+        "id": "HF2302283",
         "date": "2023-08-23",
-        "time": "10:53:44 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:13:46 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "CONCAR DR ,SMO",
+        "location": "WINGED FOOT RD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
+        "units": ">E40"
+    },
+    {
+        "id": "SF2310538",
+        "date": "2023-08-23",
+        "time": "11:10:10 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "N GRANT ST / CYPRESS AVE",
+        "latitude": 37.5717457894093,
+        "longitude": -122.320236943741,
+        "units": ">BC5 CM21X2 >E21 ?TAC26"
     },
     {
         "id": "SF2310535",
@@ -30,29 +41,7 @@
         "location": "SB 101 / NO RALSTON AVE",
         "latitude": 37.530660034131,
         "longitude": -122.275152046971,
-        "units": ">E14 >T23 >BC5 >E26 CM21X4?TAC25"
-    },
-    {
-        "id": "FF2304865",
-        "date": "2023-08-23",
-        "time": "10:47:45 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "101 OYSTER POINT BLVD ,SSF",
-        "latitude": 37.6628023448017,
-        "longitude": -122.397202241989,
-        "units": ">E65"
-    },
-    {
-        "id": "RF2309431",
-        "date": "2023-08-23",
-        "time": "10:28:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STANDISH ST #5 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": "CM21X4 ?TAC25 >E26"
     },
     {
         "id": "MF2307528",
