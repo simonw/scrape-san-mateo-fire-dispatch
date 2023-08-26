@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2307579",
+        "id": "SF2310611",
         "date": "2023-08-25",
-        "time": "5:12:47 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "2001 MANHATTAN AVE ,EPA",
-        "latitude": 37.4607647593039,
-        "longitude": -122.143638315637,
-        "units": ">E2"
+        "time": "5:37:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S GRANT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "NF2309413",
+        "date": "2023-08-25",
+        "time": "5:30:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "LINDA MAR BLVD / CABRILLO HWY",
+        "latitude": 37.5959239894125,
+        "longitude": -122.503743986644,
+        "units": ">E72"
     },
     {
         "id": "HF2302294",
@@ -41,7 +52,7 @@
         "location": "SB 101 / NO WILLOW RD",
         "latitude": 37.4775111992726,
         "longitude": -122.170198805936,
-        "units": "?TAC17 CM11X5 >E5"
+        "units": ">E5"
     },
     {
         "id": "WF2301487",
@@ -52,17 +63,6 @@
         "location": "3015 WOODSIDE RD ,WDS",
         "latitude": 37.4292348668573,
         "longitude": -122.254693407777,
-        "units": ">E7 ?TAC15 CM11X1 >PR2B >PR2C"
-    },
-    {
-        "id": "WF2301486",
-        "date": "2023-08-25",
-        "time": "3:44:06 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "186 MOUNTAIN HOME RD ,WDS",
-        "latitude": 37.4269614815903,
-        "longitude": -122.256090054825,
-        "units": ">SQ407"
+        "units": ">PR2B >PR2C"
     }
 ]
