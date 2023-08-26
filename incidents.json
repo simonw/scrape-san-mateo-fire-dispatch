@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2307585",
+        "id": "MF2307586",
         "date": "2023-08-25",
-        "time": "7:42:47 PM",
+        "time": "8:02:24 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "HOMEWOOD PL ,MNP",
+        "location": "E O'KEEFE ST #17 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E1"
+        "units": "E2"
+    },
+    {
+        "id": "RF2309495",
+        "date": "2023-08-25",
+        "time": "7:57:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "CF2306105",
+        "date": "2023-08-25",
+        "time": "7:46:05 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "216 PARK RD ,BRM",
+        "latitude": 37.5777210183052,
+        "longitude": -122.345744233663,
+        "units": ">E34"
     },
     {
         "id": "NF2309423",
@@ -19,7 +41,7 @@
         "location": "ST FRANCIS BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E94"
+        "units": ">E95"
     },
     {
         "id": "BF2303078",
@@ -30,7 +52,7 @@
         "location": "1150 EL CAMINO REAL #300 ,SNB",
         "latitude": 37.6364709775789,
         "longitude": -122.416803771445,
-        "units": "BC16 T51 E51 TAC35 ?CM31X3"
+        "units": "TAC35 >E51 >BC16 >T51 ?CM31X3"
     },
     {
         "id": "RF2309494",
@@ -41,39 +63,6 @@
         "location": "1205 BROADWAY ,RCY",
         "latitude": 37.4868428063309,
         "longitude": -122.215141430368,
-        "units": ">E11 TAC15 T9 ?CM11X2"
-    },
-    {
-        "id": "MF2307583",
-        "date": "2023-08-25",
-        "time": "7:23:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD / 4TH AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "NF2309422",
-        "date": "2023-08-25",
-        "time": "7:19:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "7334 MISSION ST ,DCY",
-        "latitude": 37.6908376355949,
-        "longitude": -122.465863855892,
-        "units": ">T95"
-    },
-    {
-        "id": "NF2309420",
-        "date": "2023-08-25",
-        "time": "7:15:24 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "99 SCHOOL ST ,DCY",
-        "latitude": 37.693038023753,
-        "longitude": -122.465531401789,
-        "units": ">E92"
+        "units": ""
     }
 ]
