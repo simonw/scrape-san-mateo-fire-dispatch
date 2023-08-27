@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2310660",
+        "date": "2023-08-27",
+        "time": "6:04:17 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N BAYSHORE BLVD #2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E24"
+    },
+    {
+        "id": "FF2304934",
+        "date": "2023-08-27",
+        "time": "6:02:54 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "475 E GRAND AVE ,SSF",
+        "latitude": 37.6512286517641,
+        "longitude": -122.381508617,
+        "units": "?Q62"
+    },
+    {
         "id": "RF2309539",
         "date": "2023-08-27",
         "time": "5:44:57 AM",
@@ -8,7 +30,7 @@
         "location": "BROADWAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E9"
+        "units": ">E9"
     },
     {
         "id": "NF2309478",
@@ -19,7 +41,7 @@
         "location": "COPELAND ST ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
+        "units": ""
     },
     {
         "id": "CF2306138",
@@ -28,17 +50,6 @@
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
         "location": "MATEO AVE #21C ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "MF2307625",
-        "date": "2023-08-27",
-        "time": "5:19:19 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALPINE AVE ,MNP",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -52,6 +63,6 @@
         "location": "SB 280 / NO 92",
         "latitude": 37.5128003426877,
         "longitude": -122.347426465418,
-        "units": "CM11X3 >E17 TAC15 >T17 >BC11"
+        "units": "CM11X3 >E17 TAC15 >T17"
     }
 ]
