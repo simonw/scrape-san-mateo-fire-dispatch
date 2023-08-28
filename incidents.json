@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2310687",
+        "id": "MF2307638",
         "date": "2023-08-27",
-        "time": "6:53:21 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "7:06:51 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "N EL CAMINO REAL #B ,SMO",
+        "location": "LORELEI LN ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E5"
+    },
+    {
+        "id": "RF2309560",
+        "date": "2023-08-27",
+        "time": "7:05:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1400 SAN CARLOS AVE #1C ,SNC",
+        "latitude": 37.5052398308304,
+        "longitude": -122.263488835051,
+        "units": ">E13"
+    },
+    {
+        "id": "SF2310688",
+        "date": "2023-08-27",
+        "time": "7:02:27 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N DELAWARE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
+    },
+    {
+        "id": "MF2307637",
+        "date": "2023-08-27",
+        "time": "6:58:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "RF2309559",
@@ -30,7 +63,7 @@
         "location": "SAINT CHARLES AVE / NIANTIC AVE",
         "latitude": 37.7066405574026,
         "longitude": -122.468850691097,
-        "units": ">E95 >E92 >BC20 >E91 CM31X3?TAC35"
+        "units": "?TAC35 >E95 >E92 >BC20 >E91CM31X3"
     },
     {
         "id": "MF2307636",
@@ -53,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T9"
-    },
-    {
-        "id": "BF2303098",
-        "date": "2023-08-27",
-        "time": "6:31:03 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COURTLAND DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
