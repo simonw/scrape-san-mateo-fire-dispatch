@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2302327",
+        "date": "2023-08-29",
+        "time": "3:01:56 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "500 PURISSIMA ST #C ,HMB",
+        "latitude": 37.4635156985168,
+        "longitude": -122.430462037677,
+        "units": "E44"
+    },
+    {
+        "id": "MF2307688",
+        "date": "2023-08-29",
+        "time": "2:58:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST #362 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "WF2301512",
+        "date": "2023-08-29",
+        "time": "2:53:28 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Grass fire",
+        "location": "NB 280 / SO EDGEWOOD RD",
+        "latitude": 37.4503547561209,
+        "longitude": -122.278505928096,
+        "units": ">E7 ?VFIR23 >E318 >E18 >BC2>BC3 CM11X5 WT108 ?CFORD BC15"
+    },
+    {
         "id": "SF2310750",
         "date": "2023-08-29",
         "time": "2:39:37 PM",
@@ -8,7 +41,7 @@
         "location": "VAN BUREN ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E26"
     },
     {
         "id": "RF2309627",
@@ -19,7 +52,7 @@
         "location": "LENOLT ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": ""
     },
     {
         "id": "BF2303117",
@@ -33,28 +66,6 @@
         "units": ">E52"
     },
     {
-        "id": "MF2307687",
-        "date": "2023-08-29",
-        "time": "2:35:19 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PARTRIDGE AVE #C ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "CF2306195",
-        "date": "2023-08-29",
-        "time": "2:22:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROOKSIDE LN ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
         "id": "RF2309625",
         "date": "2023-08-29",
         "time": "2:09:09 PM",
@@ -63,6 +74,6 @@
         "location": "926 WOODSIDE RD ,RCY",
         "latitude": 37.4644578410727,
         "longitude": -122.225292463504,
-        "units": "TAC16 CM11X1 T9 >E10"
+        "units": "TAC16 CM11X1 >T9 >E10"
     }
 ]
