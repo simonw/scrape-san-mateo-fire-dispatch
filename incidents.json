@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2310750",
+        "date": "2023-08-29",
+        "time": "2:39:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "VAN BUREN ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
+    },
+    {
+        "id": "RF2309627",
+        "date": "2023-08-29",
+        "time": "2:36:43 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LENOLT ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "BF2303117",
+        "date": "2023-08-29",
+        "time": "2:36:25 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "COLLEGE DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2307687",
+        "date": "2023-08-29",
+        "time": "2:35:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PARTRIDGE AVE #C ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "CF2306195",
         "date": "2023-08-29",
         "time": "2:22:50 PM",
@@ -8,40 +52,7 @@
         "location": "BROOKSIDE LN ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
-    },
-    {
-        "id": "NF2309566",
-        "date": "2023-08-29",
-        "time": "2:22:34 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR #21 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "RF2309626",
-        "date": "2023-08-29",
-        "time": "2:20:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "316 EL CAMINO REAL ,RCY",
-        "latitude": 37.4903166907155,
-        "longitude": -122.240410977224,
-        "units": "CM11X3 BC3 E9 T9 ?TAC15"
-    },
-    {
-        "id": "WF2301511",
-        "date": "2023-08-29",
-        "time": "2:12:36 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHURCHILL AVE ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E38"
     },
     {
         "id": "RF2309625",
@@ -52,6 +63,6 @@
         "location": "926 WOODSIDE RD ,RCY",
         "latitude": 37.4644578410727,
         "longitude": -122.225292463504,
-        "units": "TAC16 >E10"
+        "units": "TAC16 CM11X1 T9 >E10"
     }
 ]
