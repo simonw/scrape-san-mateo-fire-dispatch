@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2310762",
+        "date": "2023-08-29",
+        "time": "6:53:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "325 CHESTERTON AVE ,BLM",
+        "latitude": 37.5291874924075,
+        "longitude": -122.282060134922,
+        "units": "E14"
+    },
+    {
         "id": "NF2309572",
         "date": "2023-08-29",
         "time": "6:35:00 PM",
@@ -8,7 +19,7 @@
         "location": "ORANGE ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     },
     {
         "id": "SF2310760",
@@ -19,18 +30,7 @@
         "location": "101 LINCOLN CENTRE DR ,FCY",
         "latitude": 37.5707945896199,
         "longitude": -122.268819909394,
-        "units": ">E29 T21 CM21X3 BC5 ?TAC25"
-    },
-    {
-        "id": "BF2303118",
-        "date": "2023-08-29",
-        "time": "6:26:06 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #209 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">BC5 >T21 >E29 CM21X3 ?TAC25"
     },
     {
         "id": "MF2307694",
@@ -42,49 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "HF2302329",
-        "date": "2023-08-29",
-        "time": "6:14:58 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DRIFTWOOD TRL ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2309637",
-        "date": "2023-08-29",
-        "time": "6:14:07 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 101 / NO HOLLY ST",
-        "latitude": 37.5194827250338,
-        "longitude": -122.262201492139,
-        "units": ">E16"
-    },
-    {
-        "id": "SF2310759",
-        "date": "2023-08-29",
-        "time": "6:13:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLSDALE MALL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2310758",
-        "date": "2023-08-29",
-        "time": "6:11:01 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MARLIN AVE ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
