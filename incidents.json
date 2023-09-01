@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2309677",
+        "date": "2023-09-01",
+        "time": "12:18:00 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "235 SANTA BARBARA AVE ,DCY",
+        "latitude": 37.7058449647995,
+        "longitude": -122.463688324087,
+        "units": "E92"
+    },
+    {
+        "id": "FF2305031",
+        "date": "2023-09-01",
+        "time": "12:16:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "911 MARINA BLVD ,SSF",
+        "latitude": 37.6619891618369,
+        "longitude": -122.377506465624,
+        "units": "E65"
+    },
+    {
+        "id": "CF2306262",
+        "date": "2023-09-01",
+        "time": "12:10:17 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "450 CHADBOURNE AVE ,MLB",
+        "latitude": 37.5973758834541,
+        "longitude": -122.392382991938,
+        "units": ">E37"
+    },
+    {
+        "id": "FF2305030",
+        "date": "2023-09-01",
+        "time": "12:07:14 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CHESTNUT AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "RF2309751",
         "date": "2023-09-01",
         "time": "11:59:14 AM",
@@ -8,7 +52,7 @@
         "location": "TRILLIUM LN ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "CF2306261",
@@ -20,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E38"
-    },
-    {
-        "id": "MF2307752",
-        "date": "2023-09-01",
-        "time": "11:42:57 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #105 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
     }
 ]
