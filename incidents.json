@@ -1,5 +1,93 @@
 [
     {
+        "id": "RF2309758",
+        "date": "2023-09-01",
+        "time": "3:41:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "EL CAMINO REAL / HULL DR",
+        "latitude": 37.5119099644473,
+        "longitude": -122.266374286446,
+        "units": "T23 T9 BC3 E13 CM11X3?TAC15"
+    },
+    {
+        "id": "SF2310882",
+        "date": "2023-09-01",
+        "time": "3:40:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "44 W HILLSDALE BLVD ,SMO",
+        "latitude": 37.5361183870952,
+        "longitude": -122.298980070961,
+        "units": "E23"
+    },
+    {
+        "id": "SF2310881",
+        "date": "2023-09-01",
+        "time": "3:40:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL / DAVEY GLEN RD",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "HF2302350",
+        "date": "2023-09-01",
+        "time": "3:37:29 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LOS BANOS AVE ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "RF2309757",
+        "date": "2023-09-01",
+        "time": "3:32:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UPLAND RD ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "CF2306273",
+        "date": "2023-09-01",
+        "time": "3:28:35 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOWARD AVE #1 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "RF2309756",
+        "date": "2023-09-01",
+        "time": "3:27:16 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAK AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2309755",
+        "date": "2023-09-01",
+        "time": "3:25:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1712 VALOTA RD ,RCY",
+        "latitude": 37.4615086924985,
+        "longitude": -122.229142349532,
+        "units": ""
+    },
+    {
         "id": "DF2301861",
         "date": "2023-09-01",
         "time": "3:21:54 PM",
@@ -8,29 +96,7 @@
         "location": "2851 TUNITAS CREEK RD ,SOS",
         "latitude": 37.3888198604165,
         "longitude": -122.372757871541,
-        "units": "TO11 R57 TAC45 E40 R56BC10 E59"
-    },
-    {
-        "id": "NF2309691",
-        "date": "2023-09-01",
-        "time": "3:14:25 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "1360 ADOBE DR ,PCF",
-        "latitude": 37.5878311888729,
-        "longitude": -122.495182621558,
-        "units": ">E72"
-    },
-    {
-        "id": "NF2309690",
-        "date": "2023-09-01",
-        "time": "3:10:10 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BRYANT ST #221 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
+        "units": ">E40 TAC45 >E1765 >BC10 >E59R56"
     },
     {
         "id": "CF2306272",
@@ -44,17 +110,6 @@
         "units": ">T34"
     },
     {
-        "id": "SF2310880",
-        "date": "2023-09-01",
-        "time": "3:04:00 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #328 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
         "id": "NF2309688",
         "date": "2023-09-01",
         "time": "2:53:14 PM",
@@ -63,6 +118,6 @@
         "location": "STATION AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": "E91"
     }
 ]
