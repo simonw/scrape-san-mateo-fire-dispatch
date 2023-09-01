@@ -1,14 +1,58 @@
 [
     {
-        "id": "NF2309671",
+        "id": "BF2303145",
         "date": "2023-09-01",
-        "time": "10:04:13 AM",
+        "time": "10:23:04 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "3800 ELSTON DR ,SNB",
+        "latitude": 37.6345537198328,
+        "longitude": -122.463606669587,
+        "units": "E52"
+    },
+    {
+        "id": "MF2307751",
+        "date": "2023-09-01",
+        "time": "10:15:06 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CONSTITUTION DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "NF2309672",
+        "date": "2023-09-01",
+        "time": "10:14:58 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / PACIFICA EXIT",
-        "latitude": 37.6748269958916,
-        "longitude": -122.46905914772,
-        "units": "?TAC35 ?CM31X5 ?E92 ?BC20 ?E94?T51"
+        "category": "Medical aid",
+        "location": "ESCUELA DR #210D ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "CF2306259",
+        "date": "2023-09-01",
+        "time": "10:10:10 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BURLINGAME AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "HF2302348",
+        "date": "2023-09-01",
+        "time": "10:05:58 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "N CABRILLO HWY ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
     },
     {
         "id": "NF2309670",
@@ -30,7 +74,7 @@
         "location": "OAKRIDGE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E91"
     },
     {
         "id": "SF2310872",
@@ -55,25 +99,14 @@
         "units": ">E29"
     },
     {
-        "id": "LF2300901",
+        "id": "NF2309657",
         "date": "2023-09-01",
-        "time": "9:40:44 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HILLSIDE BLVD ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "RF2309746",
-        "date": "2023-09-01",
-        "time": "9:40:16 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY #5 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
+        "time": "2:07:48 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Structure fire",
+        "location": "2634 BAYSHORE BLVD ,DCY",
+        "latitude": 37.7081253540286,
+        "longitude": -122.406484148514,
+        "units": ">E93"
     }
 ]
