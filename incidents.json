@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2305048",
+        "date": "2023-09-02",
+        "time": "2:03:10 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
+        "id": "MF2307787",
+        "date": "2023-09-02",
+        "time": "1:56:31 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E SELBY LN #216 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "RF2309783",
+        "date": "2023-09-02",
+        "time": "1:56:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROLISON RD #12 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
         "id": "HF2302359",
         "date": "2023-09-02",
         "time": "1:43:13 PM",
@@ -8,40 +41,7 @@
         "location": "MIRAMONTES POINT RD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "?E41"
-    },
-    {
-        "id": "FF2305047",
-        "date": "2023-09-02",
-        "time": "1:36:48 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "101 OYSTER POINT BLVD ,SSF",
-        "latitude": 37.6628023448017,
-        "longitude": -122.397202241989,
-        "units": ">Q62"
-    },
-    {
-        "id": "SF2310918",
-        "date": "2023-09-02",
-        "time": "1:31:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "DF2301867",
-        "date": "2023-09-02",
-        "time": "1:19:08 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Hazardous material - investiga",
-        "location": "2851 TUNITAS CREEK RD ,SOS",
-        "latitude": 37.3888198604165,
-        "longitude": -122.372757871541,
-        "units": "E40"
+        "units": "*>E41"
     },
     {
         "id": "FF2305045",
@@ -64,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E14"
-    },
-    {
-        "id": "BF2303156",
-        "date": "2023-09-02",
-        "time": "10:57:56 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Structure fire",
-        "location": "2465 CRESTMOOR DR ,SNB",
-        "latitude": 37.6212922560574,
-        "longitude": -122.434526667447,
-        "units": ">PR16A"
     }
 ]
