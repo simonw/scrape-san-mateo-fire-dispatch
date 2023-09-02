@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2310923",
+        "date": "2023-09-02",
+        "time": "2:54:23 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOWE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "FF2305053",
+        "date": "2023-09-02",
+        "time": "2:54:02 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD #308 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "NF2309736",
+        "date": "2023-09-02",
+        "time": "2:45:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
         "id": "HF2302360",
         "date": "2023-09-02",
         "time": "2:38:14 PM",
@@ -8,7 +41,7 @@
         "location": "1 COWELL BEACH RD ,SOS",
         "latitude": 37.4222409916639,
         "longitude": -122.426311684568,
-        "units": "E41 CM41X5 TAC45 ?CG22A E40E44 BC10"
+        "units": "U40 >E41 CM41X5 TAC45 >E40>BC10"
     },
     {
         "id": "NF2309735",
@@ -19,51 +52,7 @@
         "location": "FRANKFORT ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "RF2309785",
-        "date": "2023-09-02",
-        "time": "2:32:12 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WHIPPLE AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2306290",
-        "date": "2023-09-02",
-        "time": "2:30:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CADILLAC WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "CF2306289",
-        "date": "2023-09-02",
-        "time": "2:30:17 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROLLINS RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "CF2306288",
-        "date": "2023-09-02",
-        "time": "2:29:41 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MATEO AVE #31B ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "FF2305052",
@@ -75,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E63"
-    },
-    {
-        "id": "FF2305051",
-        "date": "2023-09-02",
-        "time": "2:22:16 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "RF2309784",
-        "date": "2023-09-02",
-        "time": "2:20:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "275 LINDEN ST ,RCY",
-        "latitude": 37.4736077413696,
-        "longitude": -122.219117670807,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2310922",
-        "date": "2023-09-02",
-        "time": "2:10:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BAYWOOD AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
