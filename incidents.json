@@ -1,5 +1,27 @@
 [
     {
+        "id": "HF2302387",
+        "date": "2023-09-04",
+        "time": "2:58:49 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIRAMONTES POINT RD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "SF2311009",
+        "date": "2023-09-04",
+        "time": "2:56:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLYING MIST ISLE ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
         "id": "SF2311007",
         "date": "2023-09-04",
         "time": "2:39:00 PM",
@@ -8,29 +30,7 @@
         "location": "BEACH PARK BLVD / EGRET ST",
         "latitude": 37.5706712229326,
         "longitude": -122.283349484716,
-        "units": "JS28 E29 BC5 CM51X4 E28?CG22A ?TAC25"
-    },
-    {
-        "id": "MF2307837",
-        "date": "2023-09-04",
-        "time": "2:32:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "219 VERBENA DR ,EPA",
-        "latitude": 37.4564844157132,
-        "longitude": -122.129306347912,
-        "units": ""
-    },
-    {
-        "id": "SF2311006",
-        "date": "2023-09-04",
-        "time": "2:31:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST #331 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": "JS28"
     },
     {
         "id": "WF2301557",
@@ -41,7 +41,7 @@
         "location": "SKYLINE BLVD / OLD LA HONDA RD",
         "latitude": 37.3719491635442,
         "longitude": -122.252734773846,
-        "units": ">E1781 >E58 >BC15 CM11X5 ?TAC15"
+        "units": ">E1781 ?TAC15 >E58 CM11X5 >BC15"
     },
     {
         "id": "NF2309809",
@@ -53,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E72"
-    },
-    {
-        "id": "RF2309854",
-        "date": "2023-09-04",
-        "time": "2:20:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2305097",
-        "date": "2023-09-04",
-        "time": "2:19:36 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HAZELWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2311005",
-        "date": "2023-09-04",
-        "time": "2:07:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KEHOE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
