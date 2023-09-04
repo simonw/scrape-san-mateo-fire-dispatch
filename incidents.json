@@ -1,14 +1,36 @@
 [
     {
-        "id": "BF2303173",
+        "id": "RF2309849",
         "date": "2023-09-04",
-        "time": "12:56:02 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "1:22:57 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "NATIONAL AVE #1204 ,SNB",
+        "location": "WOODSIDE RD / MIDDLEFIELD RD",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": "E9"
+    },
+    {
+        "id": "WF2301556",
+        "date": "2023-09-04",
+        "time": "1:16:00 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ELEANOR DR ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T4"
+    },
+    {
+        "id": "WF2301555",
+        "date": "2023-09-04",
+        "time": "1:12:17 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SAND HILL RD / PORTOLA RD",
+        "latitude": 37.4024369970635,
+        "longitude": -122.245031769094,
+        "units": ">E7 CM11X1 ?TAC15 >BC2 >SQ407"
     },
     {
         "id": "FF2305096",
@@ -19,40 +41,7 @@
         "location": "EL CAMINO REAL / ARROYO DR",
         "latitude": 37.6565101619876,
         "longitude": -122.436268271262,
-        "units": "E94 CM31X1 >E61"
-    },
-    {
-        "id": "FF2305095",
-        "date": "2023-09-04",
-        "time": "12:48:28 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "PARK WAY #4 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "SF2311002",
-        "date": "2023-09-04",
-        "time": "12:46:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HASTINGS DR #309 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "DF2301877",
-        "date": "2023-09-04",
-        "time": "12:45:01 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "RALSTON AVE / WB RALSTON AVE ON RAMP",
-        "latitude": 37.5128833324495,
-        "longitude": -122.330720775526,
-        "units": ">E1771 ?TAC15 CM11X2 >T17 >BC11>E27"
+        "units": ">TAC35 >CM31X1 >Q62 >E61"
     },
     {
         "id": "HF2302384",
@@ -63,6 +52,6 @@
         "location": "1 DUNES BEACH RD ,HMB",
         "latitude": 37.4655981266622,
         "longitude": -122.445759094135,
-        "units": "TAC45 >E41 CM41X5 >E40 >E44>BC10"
+        "units": "*>E41 *>E44"
     }
 ]
