@@ -1,24 +1,35 @@
 [
     {
-        "id": "FF2305104",
+        "id": "FF2305105",
         "date": "2023-09-05",
-        "time": "1:40:33 AM",
+        "time": "2:13:28 AM",
         "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE #5 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
+        "category": "Fire alarm",
+        "location": "745 GRAND AVE ,SSF",
+        "latitude": 37.6582501551173,
+        "longitude": -122.425481329,
+        "units": ">E63"
     },
     {
-        "id": "NF2309827",
+        "id": "NF2309828",
         "date": "2023-09-05",
-        "time": "1:27:20 AM",
+        "time": "2:09:16 AM",
         "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "JOHN DALY BLVD / PARK PLAZA DR",
+        "latitude": 37.7021813283689,
+        "longitude": -122.482167796514,
+        "units": ">BC20 >T95 >E91 TAC35 ?CM31X3"
+    },
+    {
+        "id": "HF2302391",
+        "date": "2023-09-05",
+        "time": "1:59:15 AM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "GENEVA AVE ,DCY",
+        "location": "ACACIA ST #206 ,MON",
         "latitude": null,
         "longitude": null,
-        "units": ">E93"
+        "units": ">E44"
     }
 ]
