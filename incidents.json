@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2309885",
+        "date": "2023-09-05",
+        "time": "1:21:37 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1 FRANKLIN ST ,RCY",
+        "latitude": 37.4835164849255,
+        "longitude": -122.229549265436,
+        "units": "E9"
+    },
+    {
+        "id": "SF2311051",
+        "date": "2023-09-05",
+        "time": "1:15:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "2212 S EL CAMINO REAL ,SMO",
+        "latitude": 37.5461552963457,
+        "longitude": -122.307598935057,
+        "units": ">E25"
+    },
+    {
+        "id": "SF2311050",
+        "date": "2023-09-05",
+        "time": "1:12:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GILLIS DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "RF2309884",
         "date": "2023-09-05",
         "time": "1:03:25 PM",
@@ -8,29 +41,7 @@
         "location": "EL CAMINO REAL #212 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E3"
-    },
-    {
-        "id": "NF2309848",
-        "date": "2023-09-05",
-        "time": "1:03:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "T95"
-    },
-    {
-        "id": "NF2309847",
-        "date": "2023-09-05",
-        "time": "12:56:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #112A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">E3"
     },
     {
         "id": "NF2309846",
@@ -42,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E92"
-    },
-    {
-        "id": "FF2305110",
-        "date": "2023-09-05",
-        "time": "12:48:42 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
