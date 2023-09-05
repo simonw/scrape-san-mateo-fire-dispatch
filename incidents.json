@@ -1,57 +1,46 @@
 [
     {
-        "id": "RF2309885",
+        "id": "RF2309887",
         "date": "2023-09-05",
-        "time": "1:21:37 PM",
+        "time": "1:40:09 PM",
         "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "PALM AVE / VALOTA RD",
+        "latitude": 37.463978248264,
+        "longitude": -122.23211845855,
+        "units": "E10"
+    },
+    {
+        "id": "FF2305111",
+        "date": "2023-09-05",
+        "time": "1:31:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SCHOOL ST / OLIVE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "CF2306346",
+        "date": "2023-09-05",
+        "time": "1:28:19 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Fire alarm",
-        "location": "1 FRANKLIN ST ,RCY",
-        "latitude": 37.4835164849255,
-        "longitude": -122.229549265436,
-        "units": "E9"
+        "location": "835 AIRPORT BLVD ,BRM",
+        "latitude": 37.5906488666974,
+        "longitude": -122.350942454073,
+        "units": "CM21X3 >BC8 ?TAC25 >E34"
     },
     {
-        "id": "SF2311051",
+        "id": "RF2309886",
         "date": "2023-09-05",
-        "time": "1:15:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "2212 S EL CAMINO REAL ,SMO",
-        "latitude": 37.5461552963457,
-        "longitude": -122.307598935057,
-        "units": ">E25"
-    },
-    {
-        "id": "SF2311050",
-        "date": "2023-09-05",
-        "time": "1:12:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GILLIS DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2309884",
-        "date": "2023-09-05",
-        "time": "1:03:25 PM",
+        "time": "1:28:02 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL #212 ,RCY",
+        "location": "ALLERTON ST #1 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "NF2309846",
-        "date": "2023-09-05",
-        "time": "12:50:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BALTIMORE WAY ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">T9"
     }
 ]
