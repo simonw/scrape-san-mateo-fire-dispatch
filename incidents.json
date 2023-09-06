@@ -1,14 +1,91 @@
 [
     {
-        "id": "SF2311063",
+        "id": "NF2309861",
         "date": "2023-09-05",
-        "time": "5:18:04 PM",
+        "time": "6:00:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E95"
+    },
+    {
+        "id": "RF2309899",
+        "date": "2023-09-05",
+        "time": "5:55:58 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BLOMQUIST ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2309898",
+        "date": "2023-09-05",
+        "time": "5:54:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "475 REDWOOD AVE ,RCY",
+        "latitude": 37.4728069558383,
+        "longitude": -122.226516116733,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2305115",
+        "date": "2023-09-05",
+        "time": "5:48:56 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "DERRY WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2311066",
+        "date": "2023-09-05",
+        "time": "5:48:50 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "244 W 25TH AVE ,SMO",
-        "latitude": 37.5433701768304,
-        "longitude": -122.310970857991,
-        "units": "E23"
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "CF2306354",
+        "date": "2023-09-05",
+        "time": "5:47:55 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1033B ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "NF2309860",
+        "date": "2023-09-05",
+        "time": "5:44:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SKYLINE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "DF2301882",
+        "date": "2023-09-05",
+        "time": "5:43:18 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SB 280 / SO TROUSDALE DR",
+        "latitude": null,
+        "longitude": null,
+        "units": "CM21X4 >BC8 >E38 ?TAC26"
     },
     {
         "id": "SF2311062",
@@ -19,72 +96,6 @@
         "location": "EB 92 / EO HIGH RI",
         "latitude": 37.5968493998132,
         "longitude": -122.222529393744,
-        "units": ">E28 T23 BC5 ?TAC25 ?CM21X1"
-    },
-    {
-        "id": "RF2309897",
-        "date": "2023-09-05",
-        "time": "5:14:02 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2306351",
-        "date": "2023-09-05",
-        "time": "5:11:28 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR #215 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "HF2302394",
-        "date": "2023-09-05",
-        "time": "5:09:44 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BALBOA BLVD ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "SF2311061",
-        "date": "2023-09-05",
-        "time": "5:05:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CAMBRIDGE ST ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">MED5 >E14 CM11X1"
-    },
-    {
-        "id": "FF2305113",
-        "date": "2023-09-05",
-        "time": "5:05:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HILLSIDE BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "BF2303185",
-        "date": "2023-09-05",
-        "time": "5:05:09 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #J ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": "HABC2 HAE2 >E28"
     }
 ]
