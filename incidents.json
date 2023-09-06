@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2311073",
+        "date": "2023-09-05",
+        "time": "9:16:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2309906",
+        "date": "2023-09-05",
+        "time": "9:14:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "704 HUDSON ST ,RCY",
+        "latitude": 37.4762531516708,
+        "longitude": -122.235167796937,
+        "units": ">E10"
+    },
+    {
+        "id": "DF2301884",
+        "date": "2023-09-05",
+        "time": "9:08:01 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HILLSIDE DR ,BRH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
         "id": "CF2306358",
         "date": "2023-09-05",
         "time": "9:03:52 PM",
@@ -8,18 +41,7 @@
         "location": "LORTON AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "FF2305117",
-        "date": "2023-09-05",
-        "time": "8:52:47 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #111 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E34"
     },
     {
         "id": "SF2311072",
@@ -30,7 +52,7 @@
         "location": "115 HILLSDALE MALL ,SMO",
         "latitude": 37.5389350979686,
         "longitude": -122.301956113109,
-        "units": ">T23 TAC25 CM21X1 >E23"
+        "units": ">E23 CM21X1 TAC25 >T23"
     },
     {
         "id": "DF2301883",
@@ -41,6 +63,6 @@
         "location": "SKYLINE BLVD / ALPINE RD",
         "latitude": null,
         "longitude": null,
-        "units": ">E1762 >E58 VFIR22 CO57"
+        "units": "VFIR22 >E1762 CO57 >E58"
     }
 ]
