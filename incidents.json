@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2307872",
+        "date": "2023-09-06",
+        "time": "9:02:41 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BELL ST #PARK ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "NF2309876",
+        "date": "2023-09-06",
+        "time": "9:00:47 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "131 WESTMOOR AVE ,DCY",
+        "latitude": 37.6824576838231,
+        "longitude": -122.48365025663,
+        "units": ">T95"
+    },
+    {
         "id": "CF2306369",
         "date": "2023-09-06",
         "time": "8:40:57 AM",
@@ -8,7 +30,7 @@
         "location": "TROUSDALE DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "SF2311092",
@@ -19,7 +41,7 @@
         "location": "NB 101 / NO RALSTON AVE",
         "latitude": 37.5307485960734,
         "longitude": -122.274926507252,
-        "units": "CM11X4 E14 T9 BC5 ?TAC15E26"
+        "units": "CM11X4 >E14 ?TAC15 >E26"
     },
     {
         "id": "RF2309917",
@@ -30,17 +52,6 @@
         "location": "WOODSIDE RD #3112 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "MF2307871",
-        "date": "2023-09-06",
-        "time": "8:20:32 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ""
     }
 ]
