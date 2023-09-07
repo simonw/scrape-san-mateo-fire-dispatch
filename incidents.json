@@ -1,36 +1,47 @@
 [
     {
-        "id": "FF2305141",
+        "id": "SF2311133",
         "date": "2023-09-07",
-        "time": "8:35:19 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "9:04:31 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MANDALAY PL ,SSF",
+        "location": "MARLIN AVE ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": "?E28"
     },
     {
-        "id": "CF2306390",
+        "id": "MF2307904",
         "date": "2023-09-07",
-        "time": "8:34:24 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #300 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "time": "8:56:10 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "101 DONOHOE ST ,MNP",
+        "latitude": 37.4638836845067,
+        "longitude": -122.151184982258,
+        "units": ">E1"
     },
     {
-        "id": "FF2305140",
+        "id": "FF2305142",
         "date": "2023-09-07",
-        "time": "8:28:48 AM",
+        "time": "8:48:29 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "S AIRPORT BLVD #116 ,SSF",
+        "location": "GATEWAY BLVD ,SSF",
         "latitude": null,
         "longitude": null,
         "units": ">Q62"
+    },
+    {
+        "id": "SF2311131",
+        "date": "2023-09-07",
+        "time": "8:46:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO HOLLY ST",
+        "latitude": 37.5193594727245,
+        "longitude": -122.262360666777,
+        "units": ">T23 >BC5 >E16 >E14 CM11X4?TAC16"
     },
     {
         "id": "DF2301890",
@@ -42,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E19"
-    },
-    {
-        "id": "NF2309912",
-        "date": "2023-09-07",
-        "time": "8:05:30 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / HICKEY BLVD OFF RAMP",
-        "latitude": 37.6681080759967,
-        "longitude": -122.465923162688,
-        "units": ">E94"
     }
 ]
