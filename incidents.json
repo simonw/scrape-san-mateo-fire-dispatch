@@ -1,90 +1,35 @@
 [
     {
-        "id": "RF2310011",
+        "id": "RF2310013",
         "date": "2023-09-08",
-        "time": "7:36:01 PM",
+        "time": "8:00:27 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "133 COVENTRY CT ,SNC",
+        "latitude": 37.4878640878883,
+        "longitude": -122.287022479284,
+        "units": "E18"
+    },
+    {
+        "id": "NF2309986",
+        "date": "2023-09-08",
+        "time": "7:52:34 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PALMCREST DR #35 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "RF2310012",
+        "date": "2023-09-08",
+        "time": "7:48:48 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "AVE ,RCY",
+        "location": "CASSIA ST / MIDDLEFIELD RD",
         "latitude": null,
         "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "NF2309985",
-        "date": "2023-09-08",
-        "time": "7:35:51 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c2",
-        "location": "CABRILLO HWY / SAN PEDRO AVE",
-        "latitude": 37.5959884181887,
-        "longitude": -122.503832031229,
-        "units": ">E72"
-    },
-    {
-        "id": "FF2305171",
-        "date": "2023-09-08",
-        "time": "7:29:34 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LN ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "RF2310010",
-        "date": "2023-09-08",
-        "time": "7:29:00 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE / BROADWAY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2309984",
-        "date": "2023-09-08",
-        "time": "7:27:24 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "3300 SAN JOSE AVE ,DCY",
-        "latitude": 37.7074175673576,
-        "longitude": -122.460310331109,
-        "units": "?TAC35 >BC20 >E92 >T95 CM31X4"
-    },
-    {
-        "id": "FF2305170",
-        "date": "2023-09-08",
-        "time": "7:26:35 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Smoke investigation",
-        "location": "116 ROMNEY AVE ,SSF",
-        "latitude": 37.6611560882926,
-        "longitude": -122.450196986889,
-        "units": ""
-    },
-    {
-        "id": "SF2311215",
-        "date": "2023-09-08",
-        "time": "7:23:45 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NORTON ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "SF2311214",
-        "date": "2023-09-08",
-        "time": "7:03:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "3701 HACIENDA ST ,SMO",
-        "latitude": 37.5309086826939,
-        "longitude": -122.300154674965,
-        "units": ">CM21X1 >TAC25"
+        "units": ">E9"
     }
 ]
