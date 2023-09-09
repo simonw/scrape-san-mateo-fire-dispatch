@@ -1,58 +1,25 @@
 [
     {
-        "id": "RF2310030",
+        "id": "RF2310032",
         "date": "2023-09-09",
-        "time": "11:58:52 AM",
+        "time": "12:20:10 PM",
         "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "109 KINGS CT ,SNC",
+        "latitude": 37.4925022286149,
+        "longitude": -122.283865442941,
+        "units": "E13"
+    },
+    {
+        "id": "FF2305187",
+        "date": "2023-09-09",
+        "time": "12:14:00 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "FERNSIDE ST ,RCY",
+        "location": "C ST #2 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2310029",
-        "date": "2023-09-09",
-        "time": "11:55:06 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HURLINGAME AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2311237",
-        "date": "2023-09-09",
-        "time": "11:50:51 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MASONIC WAY / HILLER ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2310005",
-        "date": "2023-09-09",
-        "time": "11:44:18 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Lock out - vehicle",
-        "location": "757 HICKEY BLVD ,PCF",
-        "latitude": 37.6614427374004,
-        "longitude": -122.478777463605,
-        "units": ">E71"
-    },
-    {
-        "id": "NF2310004",
-        "date": "2023-09-09",
-        "time": "11:40:00 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "60 KENT CT #26 ,DCY",
-        "latitude": 37.6698841375223,
-        "longitude": -122.478621898049,
-        "units": "?TAC35 CM31X5 >E94 >T95"
+        "units": ">E63"
     },
     {
         "id": "CF2306431",
@@ -63,7 +30,7 @@
         "location": "10 SANTA MARIA LN ,HIL",
         "latitude": 37.565573014827,
         "longitude": -122.340725834764,
-        "units": ">E21"
+        "units": ">E32"
     },
     {
         "id": "SF2311236",
@@ -75,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E24"
-    },
-    {
-        "id": "SF2311235",
-        "date": "2023-09-09",
-        "time": "11:29:54 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LYONRIDGE LN ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
     }
 ]
