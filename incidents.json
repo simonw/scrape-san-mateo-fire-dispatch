@@ -1,35 +1,79 @@
 [
     {
-        "id": "CF2306430",
+        "id": "RF2310028",
         "date": "2023-09-09",
-        "time": "11:19:00 AM",
+        "time": "11:43:11 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FERNSIDE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "BF2303226",
+        "date": "2023-09-09",
+        "time": "11:41:15 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JENEVEIN AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "NF2310004",
+        "date": "2023-09-09",
+        "time": "11:40:00 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "60 KENT CT ,DCY",
+        "latitude": 37.6698841375223,
+        "longitude": -122.478621898049,
+        "units": "BC121 E94 T95 E64 E71?TAC35 ?CM31X5"
+    },
+    {
+        "id": "CF2306431",
+        "date": "2023-09-09",
+        "time": "11:39:20 AM",
         "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "SB 101 / NO E POPLAR AVE",
-        "latitude": 37.5866627903477,
-        "longitude": -122.334833597726,
-        "units": "CM21X5 T34 BC8 ?TAC25 E34E24"
+        "category": "Wires down (not sparking)",
+        "location": "10 SANTA MARIA LN ,HIL",
+        "latitude": 37.565573014827,
+        "longitude": -122.340725834764,
+        "units": "E21"
     },
     {
-        "id": "HF2302416",
+        "id": "NF2310003",
         "date": "2023-09-09",
-        "time": "11:04:33 AM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "11:36:52 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BEACH AVE ,HMB",
+        "location": "RIDGEFIELD AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E41"
+        "units": ">E95"
     },
     {
-        "id": "DF2301902",
+        "id": "SF2311236",
         "date": "2023-09-09",
-        "time": "11:02:42 AM",
-        "summary": "County Fire on Control-1",
+        "time": "11:35:44 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "SEQUOIA DR ,LAH",
+        "location": "NB 101 / SO E 3RD AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E1781 VFIR23 >E58 >R57"
+        "units": ">E24"
+    },
+    {
+        "id": "SF2311235",
+        "date": "2023-09-09",
+        "time": "11:29:54 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LYONRIDGE LN ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
     }
 ]
