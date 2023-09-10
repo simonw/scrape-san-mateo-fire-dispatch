@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2307982",
+        "id": "SF2311284",
         "date": "2023-09-10",
-        "time": "11:42:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "12:01:30 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "BELL ST ,EPA",
+        "location": "ALAMEDA DE LAS PULGAS ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "E15"
+    },
+    {
+        "id": "RF2310064",
+        "date": "2023-09-10",
+        "time": "12:00:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ARGUELLO ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "WF2301586",
@@ -19,28 +30,6 @@
         "location": "1 ENTRANCE WAY ,WDS",
         "latitude": 37.4300143908922,
         "longitude": -122.281169493681,
-        "units": "TAC15 >BC2 CM11X2 >E19 >E4"
-    },
-    {
-        "id": "WF2301585",
-        "date": "2023-09-10",
-        "time": "11:08:34 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FARM HILL BLVD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": "SQ407"
-    },
-    {
-        "id": "SF2311283",
-        "date": "2023-09-10",
-        "time": "11:01:04 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E19"
     }
 ]
