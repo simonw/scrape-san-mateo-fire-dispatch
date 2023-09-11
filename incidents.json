@@ -1,14 +1,25 @@
 [
     {
-        "id": "BF2303244",
+        "id": "RF2310083",
         "date": "2023-09-11",
-        "time": "7:40:51 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "100 EL CAMINO REAL ,SNB",
-        "latitude": 37.6159260731552,
-        "longitude": -122.40650883155,
-        "units": "E51 ?TAC35 BC16 T51 ?CM31X3"
+        "time": "7:58:58 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHELL PKWY #1112 ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "MF2308001",
+        "date": "2023-09-11",
+        "time": "7:57:51 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CARLTON AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
     },
     {
         "id": "DF2301919",
@@ -19,7 +30,7 @@
         "location": "S PALOMAR DR ,PAL",
         "latitude": null,
         "longitude": null,
-        "units": "E18"
+        "units": ">E18"
     },
     {
         "id": "CF2306465",
@@ -30,28 +41,6 @@
         "location": "NB 101 / SO BROADWAY",
         "latitude": 37.587789108553,
         "longitude": -122.356007840522,
-        "units": ">T34 >BC8 CM21X1 TAC25 >E34>E24"
-    },
-    {
-        "id": "FF2305224",
-        "date": "2023-09-11",
-        "time": "7:15:14 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "600 E GRAND AVE ,SSF",
-        "latitude": 37.651128837138,
-        "longitude": -122.380535268908,
-        "units": ">Q62 ?CM31X4"
-    },
-    {
-        "id": "RF2310081",
-        "date": "2023-09-11",
-        "time": "7:00:12 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GORDON ST #15 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">T34 >CM21X1 >TAC25 >E24"
     }
 ]
