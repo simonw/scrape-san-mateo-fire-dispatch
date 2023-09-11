@@ -1,57 +1,79 @@
 [
     {
-        "id": "MF2308015",
+        "id": "SF2311336",
         "date": "2023-09-11",
-        "time": "3:41:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "4:05:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c2",
+        "location": "MARINERS ISLAND BLVD / 3RD AVE",
+        "latitude": 37.5706212061433,
+        "longitude": -122.2844733408,
+        "units": "?E28"
+    },
+    {
+        "id": "NF2310066",
+        "date": "2023-09-11",
+        "time": "4:04:10 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BOHANNON DR ,MNP",
+        "location": "SAN PEDRO TERRACE RD #116C ,PCF",
         "latitude": null,
         "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "MF2308016",
+        "date": "2023-09-11",
+        "time": "4:03:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "224 HEDGE RD ,MNP",
+        "latitude": 37.4781590813653,
+        "longitude": -122.17369796042,
         "units": "E5"
     },
     {
-        "id": "NF2310065",
+        "id": "DF2301922",
         "date": "2023-09-11",
-        "time": "3:35:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "time": "3:54:30 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "PESCADERO CREEK RD / ALPINE RD",
+        "latitude": 37.2995162281623,
+        "longitude": -122.264529329472,
+        "units": ">R57 E1781 E1761 E58 BC15VFIR22 E59"
     },
     {
-        "id": "RF2310100",
+        "id": "BF2303250",
         "date": "2023-09-11",
-        "time": "3:34:31 PM",
+        "time": "3:52:40 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Lock out - vehicle",
+        "location": "1900 MONTEREY DR ,SNB",
+        "latitude": 37.623127895038,
+        "longitude": -122.447473705721,
+        "units": ">E38"
+    },
+    {
+        "id": "RF2310102",
+        "date": "2023-09-11",
+        "time": "3:45:23 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
+        "location": "BROADWAY #D35 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E16"
+        "units": ">E77"
     },
     {
-        "id": "BF2303249",
+        "id": "RF2310101",
         "date": "2023-09-11",
-        "time": "3:34:14 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "3:44:59 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "LASSEN DR ,SNB",
+        "location": "COUNTY CN ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "CF2306478",
-        "date": "2023-09-11",
-        "time": "3:09:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BELLEVUE AVE #11 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E9"
     }
 ]
