@@ -1,5 +1,49 @@
 [
     {
+        "id": "HF2302430",
+        "date": "2023-09-11",
+        "time": "11:15:58 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "82 AMESPORT LANDING ,HMB",
+        "latitude": 37.4607511437141,
+        "longitude": -122.4323616631,
+        "units": "*>E40"
+    },
+    {
+        "id": "SF2311325",
+        "date": "2023-09-11",
+        "time": "11:12:24 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1700 W HILLSDALE BLVD ,SMO",
+        "latitude": 37.5349190302448,
+        "longitude": -122.334973775451,
+        "units": ">T17"
+    },
+    {
+        "id": "CF2306475",
+        "date": "2023-09-11",
+        "time": "11:10:02 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ANITA DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "SF2311324",
+        "date": "2023-09-11",
+        "time": "11:09:07 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #114B ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "CF2306474",
         "date": "2023-09-11",
         "time": "11:03:09 AM",
@@ -8,29 +52,7 @@
         "location": "2229 ADELINE DR ,BRM",
         "latitude": 37.5837048151608,
         "longitude": -122.380358253396,
-        "units": "E35 BC8 T34 E34 E33CM21X3 ?TAC25"
-    },
-    {
-        "id": "MF2308004",
-        "date": "2023-09-11",
-        "time": "10:39:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLOUD AVE ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "RF2310089",
-        "date": "2023-09-11",
-        "time": "10:35:38 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #1265 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": "CM21X3 >T34 ?TAC25 >E35"
     },
     {
         "id": "RF2310088",
@@ -41,6 +63,6 @@
         "location": "BLOMQUIST ST / SEAPORT BLVD",
         "latitude": 37.4929867127668,
         "longitude": -122.213510776097,
-        "units": ">T9 >E9 >E11 >TAC15 >BC3>CM11X5"
+        "units": ">E9 >E11 >TAC15 >BC3 >CM11X5"
     }
 ]
