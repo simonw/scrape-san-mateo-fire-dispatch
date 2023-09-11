@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2310084",
+        "date": "2023-09-11",
+        "time": "8:36:43 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HUDSON ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10 >E12 CM11X1"
+    },
+    {
+        "id": "SF2311317",
+        "date": "2023-09-11",
+        "time": "8:30:23 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #413 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
         "id": "SF2311316",
         "date": "2023-09-11",
         "time": "8:24:08 AM",
@@ -8,29 +30,7 @@
         "location": "CARLMONT DR ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E15"
-    },
-    {
-        "id": "SF2311315",
-        "date": "2023-09-11",
-        "time": "8:22:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "S EL CAMINO REAL / BAYWOOD AVE",
-        "latitude": 37.5653801713285,
-        "longitude": -122.32808740442,
-        "units": "T21 BC5 E21 CM21X2 ?TAC26"
-    },
-    {
-        "id": "FF2305226",
-        "date": "2023-09-11",
-        "time": "8:14:23 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "C ST #1 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E15"
     },
     {
         "id": "BF2303245",
@@ -42,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E52"
-    },
-    {
-        "id": "SF2311314",
-        "date": "2023-09-11",
-        "time": "8:11:53 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "1325 OLD COUNTY RD ,BLM",
-        "latitude": 37.5192727973458,
-        "longitude": -122.272321900028,
-        "units": ">E14"
-    },
-    {
-        "id": "NF2310050",
-        "date": "2023-09-11",
-        "time": "8:10:25 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SKYLINE BLVD / WESTMOOR AVE",
-        "latitude": 37.6833409160063,
-        "longitude": -122.489100467712,
-        "units": ">E95"
-    },
-    {
-        "id": "CF2306465",
-        "date": "2023-09-11",
-        "time": "7:29:50 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "NB 101 / SO BROADWAY",
-        "latitude": 37.587789108553,
-        "longitude": -122.356007840522,
-        "units": ">T34 >CM21X1 >TAC25 >E24"
     }
 ]
