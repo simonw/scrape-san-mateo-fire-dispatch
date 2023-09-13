@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2311425",
+        "date": "2023-09-13",
+        "time": "4:22:38 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DALE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "HF2302445",
+        "date": "2023-09-13",
+        "time": "4:16:55 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S #100A ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "WF2301598",
+        "date": "2023-09-13",
+        "time": "4:16:06 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PATROL RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E7"
+    },
+    {
+        "id": "FF2305266",
+        "date": "2023-09-13",
+        "time": "4:05:48 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "KEONCREST DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "SF2311424",
+        "date": "2023-09-13",
+        "time": "4:05:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "OAK KNOLL DR / PINE KNOLL DR",
+        "latitude": 37.5221327444564,
+        "longitude": -122.293113983841,
+        "units": ">E14 ?TAC15 CM11X3"
+    },
+    {
         "id": "NF2310125",
         "date": "2023-09-13",
         "time": "4:04:05 PM",
@@ -8,7 +63,7 @@
         "location": "MANOR DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": ""
     },
     {
         "id": "NF2310124",
@@ -19,73 +74,7 @@
         "location": "480 90TH ST ,DCY",
         "latitude": 37.6913180873613,
         "longitude": -122.475400108899,
-        "units": "BC20 T95 E92 E91 CM31X3E95 ?TAC35"
-    },
-    {
-        "id": "HF2302444",
-        "date": "2023-09-13",
-        "time": "3:54:53 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KELLY AVE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2310195",
-        "date": "2023-09-13",
-        "time": "3:54:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WHIPPLE AVE #245 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "RF2310194",
-        "date": "2023-09-13",
-        "time": "3:47:32 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #31 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "CF2306517",
-        "date": "2023-09-13",
-        "time": "3:39:03 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TERRIER PL ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "SF2311421",
-        "date": "2023-09-13",
-        "time": "3:11:13 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "1540 RALSTON AVE ,BLM",
-        "latitude": 37.5153312893091,
-        "longitude": -122.286625759087,
-        "units": ">E15"
-    },
-    {
-        "id": "CF2306516",
-        "date": "2023-09-13",
-        "time": "3:00:02 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "SB 101 / BROADWAY OFF RAMP",
-        "latitude": 37.5922274132807,
-        "longitude": -122.36473846981,
-        "units": ""
+        "units": "TAC35 >E92 >T95 CM31X3"
     },
     {
         "id": "DF2301925",
