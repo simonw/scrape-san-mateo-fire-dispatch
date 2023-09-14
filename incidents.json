@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2311476",
+        "id": "RF2310235",
         "date": "2023-09-14",
-        "time": "3:18:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "120 W 3RD AVE ,SMO",
-        "latitude": 37.5613194265927,
-        "longitude": -122.328136127201,
-        "units": "E21"
+        "time": "3:40:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ORACLE PKWY ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "MF2308103",
+        "date": "2023-09-14",
+        "time": "3:39:51 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BUENA VISTA AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "MF2308102",
+        "date": "2023-09-14",
+        "time": "3:39:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALPARAISO AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E6"
+    },
+    {
+        "id": "RF2310234",
+        "date": "2023-09-14",
+        "time": "3:38:54 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NUEVA AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "NF2310164",
+        "date": "2023-09-14",
+        "time": "3:33:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "NB 280 / NO HICKEY BLVD",
+        "latitude": 37.6682462185452,
+        "longitude": -122.465546681579,
+        "units": "E92 E94 ?TAC35 ?CM31X2"
+    },
+    {
+        "id": "WF2301609",
+        "date": "2023-09-14",
+        "time": "3:27:03 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "STOCKBRIDGE AVE ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
     },
     {
         "id": "FF2305284",
@@ -22,50 +77,6 @@
         "units": ">E65"
     },
     {
-        "id": "NF2310163",
-        "date": "2023-09-14",
-        "time": "3:11:27 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SHELTER LN ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "DF2301937",
-        "date": "2023-09-14",
-        "time": "3:03:20 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ADELINE DR ,BRH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "BF2303283",
-        "date": "2023-09-14",
-        "time": "2:58:38 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TRAEGER AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2305283",
-        "date": "2023-09-14",
-        "time": "2:49:06 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "ORANGE AVE / MILLER AVE",
-        "latitude": 37.659020330878,
-        "longitude": -122.42273012306,
-        "units": ">Q62 >E61"
-    },
-    {
         "id": "SF2311468",
         "date": "2023-09-14",
         "time": "1:11:47 PM",
@@ -74,7 +85,7 @@
         "location": "WB 92 / EO RALSTON AVE",
         "latitude": 37.5173775278308,
         "longitude": -122.329475842437,
-        "units": "?VFIR22 >E17 >CM21X1 >BC11 >E27>PR5C"
+        "units": ">E17 >BC11 >PR5C"
     },
     {
         "id": "DF2301925",
