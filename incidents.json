@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2310232",
+        "id": "SF2311475",
         "date": "2023-09-14",
-        "time": "2:21:00 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "2:40:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "120 W 3RD AVE ,SMO",
+        "latitude": 37.5613194265927,
+        "longitude": -122.328136127201,
+        "units": "T21 BC8 E21 E24 E23>CM21X3 ?TAC25"
+    },
+    {
+        "id": "NF2310162",
+        "date": "2023-09-14",
+        "time": "2:34:13 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "COUNTY CN #1ST FLOOR ,RCY",
+        "location": "KING DR #134 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
+        "units": ">E64"
+    },
+    {
+        "id": "RF2310233",
+        "date": "2023-09-14",
+        "time": "2:31:42 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "REDWOOD SHORES PKWY ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "MF2308101",
+        "date": "2023-09-14",
+        "time": "2:23:57 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
     },
     {
         "id": "RF2310231",
@@ -19,40 +52,7 @@
         "location": "ALAMEDA DE LAS PULGAS ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
-    },
-    {
-        "id": "RF2310230",
-        "date": "2023-09-14",
-        "time": "2:03:14 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR #304 ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "WF2301608",
-        "date": "2023-09-14",
-        "time": "2:00:53 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OAKHILL DR ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ407"
-    },
-    {
-        "id": "RF2310229",
-        "date": "2023-09-14",
-        "time": "1:52:25 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Trash fire",
-        "location": "619 BUCKEYE ST ,RCY",
-        "latitude": 37.4828545955591,
-        "longitude": -122.219441149097,
-        "units": ">E9"
+        "units": ">E13"
     },
     {
         "id": "SF2311468",
@@ -63,7 +63,7 @@
         "location": "WB 92 / EO RALSTON AVE",
         "latitude": 37.5173775278308,
         "longitude": -122.329475842437,
-        "units": "?VFIR22 >E25 >E17 >CM21X1 ?PR5B>BC11 >E27"
+        "units": "?VFIR22 >E25 >E17 >CM21X1 >BC11>E27 PR5C"
     },
     {
         "id": "DF2301925",
