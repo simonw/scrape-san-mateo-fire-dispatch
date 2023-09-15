@@ -1,14 +1,58 @@
 [
     {
-        "id": "CF2306574",
+        "id": "NF2310204",
         "date": "2023-09-15",
-        "time": "3:22:14 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "3:39:57 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL / SILVA AVE",
+        "location": "FLOURNOY ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": ">E92"
+    },
+    {
+        "id": "HF2302461",
+        "date": "2023-09-15",
+        "time": "3:37:03 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ST ,MON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "SF2311520",
+        "date": "2023-09-15",
+        "time": "3:35:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ELM ST #101 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "FF2305310",
+        "date": "2023-09-15",
+        "time": "3:29:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "2654 FARNEE CT ,SSF",
+        "latitude": 37.6467552310927,
+        "longitude": -122.466771948907,
+        "units": ">E64"
+    },
+    {
+        "id": "MF2308132",
+        "date": "2023-09-15",
+        "time": "3:27:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "DF2301948",
@@ -19,40 +63,7 @@
         "location": "90 BENNINGTON DR ,EIC",
         "latitude": 37.5252821311279,
         "longitude": -122.342907235928,
-        "units": "E33 E27 BC5 E17 BC11T17 CM11X5 ?TAC15"
-    },
-    {
-        "id": "SF2311519",
-        "date": "2023-09-15",
-        "time": "3:09:35 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2310203",
-        "date": "2023-09-15",
-        "time": "3:00:26 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EUREKA SQ #E ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "MF2308129",
-        "date": "2023-09-15",
-        "time": "2:43:29 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ARBOR RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E4"
+        "units": ">E17 ?TAC15 CM11X5 >E27"
     },
     {
         "id": "FF2305309",
@@ -63,6 +74,6 @@
         "location": "S AIRPORT BLVD #225 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
+        "units": ""
     }
 ]
