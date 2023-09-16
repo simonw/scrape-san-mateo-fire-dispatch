@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2310234",
+        "date": "2023-09-16",
+        "time": "9:19:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Landscape fire",
+        "location": "130 BELCREST AVE ,DCY",
+        "latitude": 37.6646489521176,
+        "longitude": -122.490480469816,
+        "units": "E71"
+    },
+    {
+        "id": "HF2302468",
+        "date": "2023-09-16",
+        "time": "9:18:52 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ARNOLD WAY #201A ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "RF2310302",
+        "date": "2023-09-16",
+        "time": "9:16:29 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PROSPECT ST #1 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "SF2311552",
+        "date": "2023-09-16",
+        "time": "9:14:54 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "101 S ELLSWORTH AVE ,SMO",
+        "latitude": 37.5664107777668,
+        "longitude": -122.324164846436,
+        "units": "*>E21"
+    },
+    {
+        "id": "CF2306587",
+        "date": "2023-09-16",
+        "time": "9:05:50 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROLLINS RD #210 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "FF2305324",
         "date": "2023-09-16",
         "time": "9:03:32 AM",
@@ -8,7 +63,7 @@
         "location": "CARTER DR #108 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E64"
+        "units": ">E64"
     },
     {
         "id": "LF2300940",
@@ -19,7 +74,7 @@
         "location": "FOOTHILL DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "CM31X1 MED19 E86"
+        "units": ">E86 >MED19 CM31X1"
     },
     {
         "id": "MF2308150",
@@ -31,27 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E2"
-    },
-    {
-        "id": "WF2301619",
-        "date": "2023-09-16",
-        "time": "8:51:32 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BARRETT DR ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "MF2308149",
-        "date": "2023-09-16",
-        "time": "8:51:20 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELENA AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
     }
 ]
