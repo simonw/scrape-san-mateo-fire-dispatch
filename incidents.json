@@ -1,35 +1,57 @@
 [
     {
+        "id": "FF2305317",
+        "date": "2023-09-16",
+        "time": "9/15/2023 11:56:19 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "700 FORBES BLVD ,SSF",
+        "latitude": 37.6582779007951,
+        "longitude": -122.379924744292,
+        "units": ">Q62"
+    },
+    {
+        "id": "SF2311539",
+        "date": "2023-09-16",
+        "time": "9/15/2023 11:55:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL / 31ST AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "BF2303293",
+        "date": "2023-09-16",
+        "time": "9/15/2023 11:54:25 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EVERGREEN DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
         "id": "RF2310289",
-        "date": "2023-09-15",
-        "time": "11:39:32 PM",
+        "date": "2023-09-16",
+        "time": "9/15/2023 11:39:32 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
         "location": "PORTOFINO CT ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": ">E13"
     },
     {
         "id": "SF2311537",
-        "date": "2023-09-15",
-        "time": "11:16:32 PM",
+        "date": "2023-09-16",
+        "time": "9/15/2023 11:16:32 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Traffic accident pd request c3",
         "location": "42ND AVE / OLYMPIC AVE",
         "latitude": 37.5295513636431,
         "longitude": -122.29100912385,
-        "units": ">E23 >T23 >BC5 CM21X2 ?TAC25"
-    },
-    {
-        "id": "CF2306583",
-        "date": "2023-09-15",
-        "time": "11:08:34 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HIGHLAND AVE #7 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
+        "units": "CM21X2 >BC5 >E23 ?TAC25 >T23"
     }
 ]
