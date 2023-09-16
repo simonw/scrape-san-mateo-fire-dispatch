@@ -1,69 +1,47 @@
 [
     {
-        "id": "MF2308135",
+        "id": "MF2308136",
         "date": "2023-09-15",
-        "time": "4:39:02 PM",
+        "time": "5:04:10 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #154 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "category": "Wires down (not sparking)",
+        "location": "323 WALSH RD ,ATN",
+        "latitude": 37.4354928157122,
+        "longitude": -122.213961108989,
+        "units": ""
     },
     {
-        "id": "MF2308134",
+        "id": "WF2301616",
         "date": "2023-09-15",
-        "time": "4:34:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #219B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "time": "5:00:51 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "WOODSIDE RD / WHISKEY HILL RD",
+        "latitude": 37.4293184057665,
+        "longitude": -122.249835141953,
+        "units": ">E7 >BC2 TAC16 ?CM11X2 >SQ407>E19"
     },
     {
-        "id": "NF2310209",
+        "id": "NF2310213",
         "date": "2023-09-15",
-        "time": "4:26:39 PM",
+        "time": "4:57:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "405 WESTLAKE CTR ,DCY",
+        "latitude": 37.6999232119413,
+        "longitude": -122.482173281097,
+        "units": ">E91"
+    },
+    {
+        "id": "NF2310212",
+        "date": "2023-09-15",
+        "time": "4:53:24 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "ESPLANADE AVE #208A ,PCF",
+        "location": "CABRILLO HWY ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2301614",
-        "date": "2023-09-15",
-        "time": "4:26:33 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "902 FALLEN LEAF WAY ,EML",
-        "latitude": 37.4570675730486,
-        "longitude": -122.263624957825,
-        "units": "E19"
-    },
-    {
-        "id": "MF2308133",
-        "date": "2023-09-15",
-        "time": "4:15:58 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COOLEY AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2311523",
-        "date": "2023-09-15",
-        "time": "4:15:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E BELLEVUE AVE #2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E72 R72"
     },
     {
         "id": "DF2301949",
@@ -74,7 +52,7 @@
         "location": "8865 LA HONDA RD ,LAH",
         "latitude": 37.320074862341,
         "longitude": -122.27469007349,
-        "units": "TAC45 >E58 E1761 >R57"
+        "units": ">TAC45"
     },
     {
         "id": "DF2301948",
@@ -85,6 +63,6 @@
         "location": "90 BENNINGTON DR ,EIC",
         "latitude": 37.5252821311279,
         "longitude": -122.342907235928,
-        "units": ">E17 ?TAC15 CM11X5 >E27"
+        "units": ">TAC15 >CM11X5"
     }
 ]
