@@ -1,5 +1,16 @@
 [
     {
+        "id": "RF2310345",
+        "date": "2023-09-17",
+        "time": "4:35:42 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "SF2311607",
         "date": "2023-09-17",
         "time": "4:19:54 PM",
@@ -8,7 +19,7 @@
         "location": "TRITON PARK LN #157 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
+        "units": ">E28"
     },
     {
         "id": "MF2308194",
@@ -19,18 +30,7 @@
         "location": "EUCLID AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "SF2311606",
-        "date": "2023-09-17",
-        "time": "4:17:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 16TH AVE / S DELAWARE ST",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23 E21 E24 BC5 T21CM21X2 ?TAC26"
+        "units": ">E2"
     },
     {
         "id": "CF2306615",
@@ -41,7 +41,7 @@
         "location": "851 CALIFORNIA DR ,BRM",
         "latitude": 37.5841154543302,
         "longitude": -122.355895567447,
-        "units": ">T34 >E34 CM21X4 ?TAC25"
+        "units": ">T34"
     },
     {
         "id": "CF2306614",
@@ -52,7 +52,7 @@
         "location": "SEBASTIAN DR / ARGUELLO DR",
         "latitude": null,
         "longitude": null,
-        "units": "TAC27 CM21X1 >E38"
+        "units": ">E38"
     },
     {
         "id": "DF2301955",
@@ -63,7 +63,7 @@
         "location": "SAN MATEO RD / SKYLINE UPPER",
         "latitude": 37.4955750561378,
         "longitude": -122.368892307841,
-        "units": ">T17 >BC11 >E17 E1771 TAC15CM11X2"
+        "units": ">E1771 >E17 >TAC15 >CM11X2 >T17"
     },
     {
         "id": "RF2310344",
@@ -74,18 +74,7 @@
         "location": "MELENDY DR ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E13 >E16 CM11X1"
-    },
-    {
-        "id": "BF2303315",
-        "date": "2023-09-17",
-        "time": "4:04:29 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EUCLID AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">CM11X1 E16"
     },
     {
         "id": "DF2301954",
@@ -96,7 +85,7 @@
         "location": "PESCADERO CREEK RD / WURR RD",
         "latitude": 37.2767620251854,
         "longitude": -122.287422514422,
-        "units": ">E58 TAC45 BC10 >E655 >E59"
+        "units": "TAC45 >E58 >BC10 >E655 >E59"
     },
     {
         "id": "NF2310282",
@@ -107,6 +96,6 @@
         "location": "20 PONCETTA DR #204 ,DCY",
         "latitude": 37.7036914148624,
         "longitude": -122.474363205541,
-        "units": ">PR20A CM31X1 TAC35 >E92 >BC20>T95"
+        "units": ""
     }
 ]
