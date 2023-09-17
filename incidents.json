@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2310278",
+        "date": "2023-09-17",
+        "time": "12:03:43 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "STANDISH RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "DF2301953",
+        "date": "2023-09-17",
+        "time": "11:59:18 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "NB 280 / NO EDGEWOOD RD",
+        "latitude": 37.485892737192,
+        "longitude": -122.29811648812,
+        "units": "CM11X4 E1771 E17 ?TAC15 E19"
+    },
+    {
+        "id": "SF2311597",
+        "date": "2023-09-17",
+        "time": "11:55:04 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "100 S SAN MATEO DR ,SMO",
+        "latitude": 37.5649003297418,
+        "longitude": -122.326263931242,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2310339",
+        "date": "2023-09-17",
+        "time": "11:49:03 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ORACLE PKWY ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "RF2310338",
+        "date": "2023-09-17",
+        "time": "11:48:54 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WHEELER AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "HF2302484",
         "date": "2023-09-17",
         "time": "11:24:12 AM",
@@ -8,7 +63,7 @@
         "location": "WIENKE WAY ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": ">E41 >CM41X1 >E44"
+        "units": "*>E41 BC10"
     },
     {
         "id": "RF2310334",
@@ -20,16 +75,5 @@
         "latitude": 37.4557409229367,
         "longitude": -122.232816190091,
         "units": ">CM11X1"
-    },
-    {
-        "id": "FF2305341",
-        "date": "2023-09-17",
-        "time": "10:25:10 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "218 SHAW RD ,SSF",
-        "latitude": 37.6409380924538,
-        "longitude": -122.409336351152,
-        "units": ">Q62"
     }
 ]
