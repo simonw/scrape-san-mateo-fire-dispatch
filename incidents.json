@@ -1,5 +1,82 @@
 [
     {
+        "id": "SF2311607",
+        "date": "2023-09-17",
+        "time": "4:19:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TRITON PARK LN #157 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E28"
+    },
+    {
+        "id": "MF2308194",
+        "date": "2023-09-17",
+        "time": "4:19:37 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EUCLID AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "SF2311606",
+        "date": "2023-09-17",
+        "time": "4:17:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 16TH AVE / S DELAWARE ST",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23 E21 E24 BC5 T21CM21X2 ?TAC26"
+    },
+    {
+        "id": "CF2306615",
+        "date": "2023-09-17",
+        "time": "4:13:37 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "851 CALIFORNIA DR ,BRM",
+        "latitude": 37.5841154543302,
+        "longitude": -122.355895567447,
+        "units": ">T34 >E34 CM21X4 ?TAC25"
+    },
+    {
+        "id": "CF2306614",
+        "date": "2023-09-17",
+        "time": "4:11:29 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SEBASTIAN DR / ARGUELLO DR",
+        "latitude": null,
+        "longitude": null,
+        "units": "TAC27 CM21X1 >E38"
+    },
+    {
+        "id": "DF2301955",
+        "date": "2023-09-17",
+        "time": "4:10:55 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SAN MATEO RD / SKYLINE UPPER",
+        "latitude": 37.4955750561378,
+        "longitude": -122.368892307841,
+        "units": ">T17 >BC11 >E17 E1771 TAC15CM11X2"
+    },
+    {
+        "id": "RF2310344",
+        "date": "2023-09-17",
+        "time": "4:09:18 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MELENDY DR ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13 >E16 CM11X1"
+    },
+    {
         "id": "BF2303315",
         "date": "2023-09-17",
         "time": "4:04:29 PM",
@@ -8,18 +85,7 @@
         "location": "EUCLID AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E51"
-    },
-    {
-        "id": "RF2310343",
-        "date": "2023-09-17",
-        "time": "4:03:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JOHNSON ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
+        "units": ">E51"
     },
     {
         "id": "DF2301954",
@@ -30,29 +96,7 @@
         "location": "PESCADERO CREEK RD / WURR RD",
         "latitude": 37.2767620251854,
         "longitude": -122.287422514422,
-        "units": "E655 E55 E58 E59 BC10TAC45"
-    },
-    {
-        "id": "NF2310292",
-        "date": "2023-09-17",
-        "time": "3:54:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAKE MERCED BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2310291",
-        "date": "2023-09-17",
-        "time": "3:53:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SANTA ANA AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">E58 TAC45 BC10 >E655 >E59"
     },
     {
         "id": "NF2310282",
@@ -63,6 +107,6 @@
         "location": "20 PONCETTA DR #204 ,DCY",
         "latitude": 37.7036914148624,
         "longitude": -122.474363205541,
-        "units": ">PR20A CM31X1 TAC35 >E92 >BC20>T95 >E91"
+        "units": ">PR20A CM31X1 TAC35 >E92 >BC20>T95"
     }
 ]
