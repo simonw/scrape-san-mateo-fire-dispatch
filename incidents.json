@@ -1,14 +1,80 @@
 [
     {
-        "id": "CF2306602",
+        "id": "HF2302479",
         "date": "2023-09-16",
-        "time": "10:33:39 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "11:04:29 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "CABRILLO HWY S / MIRAMONTES POINT RD",
+        "latitude": 37.4313221983695,
+        "longitude": -122.426677017263,
+        "units": "E41 ?TAC45 ?CM41X2 ?BC10 ?E40"
+    },
+    {
+        "id": "NF2310264",
+        "date": "2023-09-16",
+        "time": "11:02:39 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL / CENTER ST",
+        "location": "SHARP PARK RD ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": "E64"
+    },
+    {
+        "id": "NF2310263",
+        "date": "2023-09-16",
+        "time": "11:01:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FLOURNOY ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2310323",
+        "date": "2023-09-16",
+        "time": "11:00:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHESTNUT ST #4 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "MF2308175",
+        "date": "2023-09-16",
+        "time": "10:53:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SEVIER AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "SF2311582",
+        "date": "2023-09-16",
+        "time": "10:50:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #405 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2311581",
+        "date": "2023-09-16",
+        "time": "10:42:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "101 HILLSDALE MALL #100 ,SMO",
+        "latitude": 37.5370904433898,
+        "longitude": -122.300079796494,
+        "units": ""
     },
     {
         "id": "BF2303307",
@@ -33,50 +99,6 @@
         "units": ">T9"
     },
     {
-        "id": "SF2311580",
-        "date": "2023-09-16",
-        "time": "10:27:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HACIENDA ST #133 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "HF2302478",
-        "date": "2023-09-16",
-        "time": "10:27:22 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "PRINCETON AVE / COLUMBIA AVE",
-        "latitude": 37.5037693988025,
-        "longitude": -122.489470804201,
-        "units": ">E41"
-    },
-    {
-        "id": "NF2310261",
-        "date": "2023-09-16",
-        "time": "10:26:25 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SYLVAN ST #4 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2311579",
-        "date": "2023-09-16",
-        "time": "10:26:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "N HUMBOLDT ST / TILTON AVE",
-        "latitude": 37.5735266179677,
-        "longitude": -122.320539310769,
-        "units": ""
-    },
-    {
         "id": "MF2308174",
         "date": "2023-09-16",
         "time": "10:21:28 PM",
@@ -85,6 +107,6 @@
         "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E1"
+        "units": "E1"
     }
 ]
