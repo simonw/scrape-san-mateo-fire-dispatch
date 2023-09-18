@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2311616",
+        "date": "2023-09-17",
+        "time": "7:35:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "845 N HUMBOLDT ST ,SMO",
+        "latitude": 37.5819504190606,
+        "longitude": -122.329809251626,
+        "units": "E24"
+    },
+    {
+        "id": "NF2310298",
+        "date": "2023-09-17",
+        "time": "7:31:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HILLSIDE BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "SF2311615",
         "date": "2023-09-17",
         "time": "7:25:19 PM",
@@ -8,7 +30,7 @@
         "location": "PALM AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "CF2306620",
@@ -20,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "CF2306619",
-        "date": "2023-09-17",
-        "time": "7:00:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "LORTON AVE / DONNELLY AVE",
-        "latitude": 37.5799146585406,
-        "longitude": -122.346868586272,
-        "units": "E34"
     }
 ]
