@@ -1,5 +1,16 @@
 [
     {
+        "id": "HF2302493",
+        "date": "2023-09-18",
+        "time": "3:25:59 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S #122 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E40"
+    },
+    {
         "id": "CF2306639",
         "date": "2023-09-18",
         "time": "3:23:48 PM",
@@ -8,28 +19,17 @@
         "location": "1450 HOWARD AVE ,BRM",
         "latitude": 37.576415728907,
         "longitude": -122.34804848057,
-        "units": "E32 T21 BC8 ?TAC25 ?CM21X2"
-    },
-    {
-        "id": "NF2310331",
-        "date": "2023-09-18",
-        "time": "3:21:02 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MANOR CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
+        "units": ">E32"
     },
     {
         "id": "CF2306638",
         "date": "2023-09-18",
         "time": "3:20:52 PM",
         "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
-        "latitude": null,
-        "longitude": null,
+        "category": "Elevator rescue",
+        "location": "1201 BROADWAY ,MLB",
+        "latitude": 37.6074088658413,
+        "longitude": -122.400665964601,
         "units": ">E37"
     },
     {
@@ -55,50 +55,6 @@
         "units": ">E52"
     },
     {
-        "id": "SF2311644",
-        "date": "2023-09-18",
-        "time": "3:17:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "1528 YORK AVE ,SMO",
-        "latitude": 37.5761990101008,
-        "longitude": -122.313988366929,
-        "units": ">E24"
-    },
-    {
-        "id": "CF2306637",
-        "date": "2023-09-18",
-        "time": "3:12:37 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MATEO AVE #44C ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "CF2306636",
-        "date": "2023-09-18",
-        "time": "3:05:15 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "2401 HILLSIDE DR ,BRM",
-        "latitude": 37.5810390509769,
-        "longitude": -122.377167211886,
-        "units": ">T34 >E35"
-    },
-    {
-        "id": "SF2311642",
-        "date": "2023-09-18",
-        "time": "2:56:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDISON ST #320 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
         "id": "SF2311641",
         "date": "2023-09-18",
         "time": "2:52:29 PM",
@@ -110,17 +66,6 @@
         "units": ">E26"
     },
     {
-        "id": "CF2306635",
-        "date": "2023-09-18",
-        "time": "2:46:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DARRELL RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
-    },
-    {
         "id": "FF2305359",
         "date": "2023-09-18",
         "time": "2:03:03 PM",
@@ -129,7 +74,7 @@
         "location": "657 FORBES BLVD ,SSF",
         "latitude": 37.6600078196047,
         "longitude": -122.381512981289,
-        "units": "?VFIR23 CM31X5 >Q62 >TO17 >BC17>E65"
+        "units": "?VFIR23 CM31X5"
     },
     {
         "id": "RF2310367",
@@ -140,6 +85,6 @@
         "location": "3234 PAGE ST ,RCY",
         "latitude": 37.4826243844866,
         "longitude": -122.195603556847,
-        "units": ">E11 CM11X4 >PR3B >E9 >T9?TAC15 >BC3"
+        "units": ">E11 CM11X4 >PR3B >T9 ?TAC15>BC3"
     }
 ]
