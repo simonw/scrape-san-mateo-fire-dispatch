@@ -1,14 +1,91 @@
 [
     {
-        "id": "SF2311643",
+        "id": "CF2306639",
         "date": "2023-09-18",
-        "time": "2:57:29 PM",
+        "time": "3:23:48 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "1450 HOWARD AVE ,BRM",
+        "latitude": 37.576415728907,
+        "longitude": -122.34804848057,
+        "units": "E32 T21 BC8 ?TAC25 ?CM21X2"
+    },
+    {
+        "id": "NF2310331",
+        "date": "2023-09-18",
+        "time": "3:21:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MANOR CT ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "CF2306638",
+        "date": "2023-09-18",
+        "time": "3:20:52 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "FF2305360",
+        "date": "2023-09-18",
+        "time": "3:20:18 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LA CROSSE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "BF2303326",
+        "date": "2023-09-18",
+        "time": "3:18:59 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MONTEREY DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "SF2311644",
+        "date": "2023-09-18",
+        "time": "3:17:07 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "363 E 40TH AVE ,SMO",
-        "latitude": 37.5344754524857,
-        "longitude": -122.283138632282,
-        "units": "E14"
+        "category": "Wires down (not sparking)",
+        "location": "1528 YORK AVE ,SMO",
+        "latitude": 37.5761990101008,
+        "longitude": -122.313988366929,
+        "units": ">E24"
+    },
+    {
+        "id": "CF2306637",
+        "date": "2023-09-18",
+        "time": "3:12:37 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #44C ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "CF2306636",
+        "date": "2023-09-18",
+        "time": "3:05:15 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "2401 HILLSIDE DR ,BRM",
+        "latitude": 37.5810390509769,
+        "longitude": -122.377167211886,
+        "units": ">T34 >E35"
     },
     {
         "id": "SF2311642",
@@ -63,6 +140,6 @@
         "location": "3234 PAGE ST ,RCY",
         "latitude": 37.4826243844866,
         "longitude": -122.195603556847,
-        "units": ">TO3 >E11 CM11X4 >PR3B >E9>T9 ?TAC15 >BC3"
+        "units": ">E11 CM11X4 >PR3B >E9 >T9?TAC15 >BC3"
     }
 ]
