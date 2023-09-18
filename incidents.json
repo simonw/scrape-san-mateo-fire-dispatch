@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2308220",
+        "date": "2023-09-18",
+        "time": "2:21:42 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #406 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "SF2311640",
+        "date": "2023-09-18",
+        "time": "2:06:07 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "512 ST THOMAS LN ,FCY",
+        "latitude": 37.5374881325922,
+        "longitude": -122.264807411185,
+        "units": ">E29"
+    },
+    {
         "id": "RF2310370",
         "date": "2023-09-18",
         "time": "2:04:35 PM",
@@ -8,18 +30,18 @@
         "location": "MAPLE ST / VETERANS BLVD",
         "latitude": null,
         "longitude": null,
-        "units": "?E14"
+        "units": ">E10"
     },
     {
-        "id": "RF2310369",
+        "id": "FF2305359",
         "date": "2023-09-18",
-        "time": "2:02:28 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARSHALL ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
+        "time": "2:03:03 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Grass fire",
+        "location": "657 FORBES BLVD ,SSF",
+        "latitude": 37.6600078196047,
+        "longitude": -122.381512981289,
+        "units": "?VFIR23 CM31X5 >Q62 >TO17 >BC17>E65 >E81"
     },
     {
         "id": "NF2310328",
@@ -41,51 +63,7 @@
         "location": "3234 PAGE ST ,RCY",
         "latitude": 37.4826243844866,
         "longitude": -122.195603556847,
-        "units": "TO3 >E11 CM11X4 >E9 >T9>BC1 ?TAC15 >BC3 >E77 E16"
-    },
-    {
-        "id": "CF2306633",
-        "date": "2023-09-18",
-        "time": "1:53:25 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2310327",
-        "date": "2023-09-18",
-        "time": "1:46:07 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY DR #122 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "FF2305358",
-        "date": "2023-09-18",
-        "time": "1:44:26 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COUNTRY CLUB DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "SF2311639",
-        "date": "2023-09-18",
-        "time": "1:42:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "85 N B ST ,SMO",
-        "latitude": 37.5691377332798,
-        "longitude": -122.326336771179,
-        "units": ">E21"
+        "units": ">TO3 >E11 CM11X4 >PR3B >E9>T9 >BC1 ?TAC15 >BC3 >E77"
     },
     {
         "id": "FF2305357",
