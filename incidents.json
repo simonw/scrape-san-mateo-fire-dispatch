@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2306640",
+        "id": "FF2305362",
         "date": "2023-09-18",
-        "time": "4:15:27 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "4:38:46 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "BAYSWATER AVE ,BRM",
+        "location": "ALIDA WAY #105 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": "E63"
+    },
+    {
+        "id": "FF2305361",
+        "date": "2023-09-18",
+        "time": "4:31:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GRAND AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "MF2308225",
+        "date": "2023-09-18",
+        "time": "4:29:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROBLE AVE #113 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
     },
     {
         "id": "SF2311650",
@@ -19,7 +41,7 @@
         "location": "1149 CHESS DR ,FCY",
         "latitude": 37.5683078238528,
         "longitude": -122.273067662788,
-        "units": ">E28 BC5 T23 TAC25 CM21X3"
+        "units": "*>BC5 >E28"
     },
     {
         "id": "HF2302494",
@@ -30,18 +52,7 @@
         "location": "331 MAIN ST ,HMB",
         "latitude": 37.4652318399484,
         "longitude": -122.428669569615,
-        "units": ">E40"
-    },
-    {
-        "id": "NF2310334",
-        "date": "2023-09-18",
-        "time": "4:04:10 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HIGATE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": "*>E40"
     },
     {
         "id": "NF2310333",
@@ -63,6 +74,6 @@
         "location": "3234 PAGE ST ,RCY",
         "latitude": 37.4826243844866,
         "longitude": -122.195603556847,
-        "units": ">E11 CM11X4 >PR3B ?TAC15 >BC3"
+        "units": ">E11"
     }
 ]
