@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2308280",
+        "date": "2023-09-20",
+        "time": "10:39:05 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRANE ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
         "id": "BF2303348",
         "date": "2023-09-20",
         "time": "10:23:48 AM",
@@ -8,40 +19,18 @@
         "location": "1138 MONTGOMERY AVE ,SNB",
         "latitude": 37.6373734771917,
         "longitude": -122.412322643854,
-        "units": "CM31X4 E51 BC16 T51 ?TAC36"
+        "units": ""
     },
     {
-        "id": "NF2310401",
+        "id": "NF2310402",
         "date": "2023-09-20",
-        "time": "10:20:18 AM",
+        "time": "10:23:20 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GREEN RIDGE DR #1 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "HF2302517",
-        "date": "2023-09-20",
-        "time": "10:19:03 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "1001 MAIN ST #110N ,HMB",
-        "latitude": 37.4552652521776,
-        "longitude": -122.429025244892,
-        "units": ">E40"
-    },
-    {
-        "id": "DF2301974",
-        "date": "2023-09-20",
-        "time": "10:17:49 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TOWER RD ,SON",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T17"
+        "category": "Wires down (not sparking)",
+        "location": "N PARKVIEW AVE / MIRIAM ST",
+        "latitude": 37.7012968862847,
+        "longitude": -122.464951111142,
+        "units": ">E91"
     },
     {
         "id": "NF2310399",
@@ -52,6 +41,6 @@
         "location": "SHARP PARK RD #TRAIL ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">CM31X1 >TAC35 >BC20 >E64 ERV72E72"
+        "units": ">CM31X1 >TAC35 >BC20 >E64 >ERV72>E72"
     }
 ]
