@@ -1,14 +1,36 @@
 [
     {
+        "id": "BF2303349",
+        "date": "2023-09-20",
+        "time": "11:30:13 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SHELTER CREEK LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2311742",
+        "date": "2023-09-20",
+        "time": "11:29:21 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "1933 S EL CAMINO REAL ,SMO",
+        "latitude": 37.5492036281491,
+        "longitude": -122.310326029924,
+        "units": ">E23"
+    },
+    {
         "id": "NF2310404",
         "date": "2023-09-20",
         "time": "11:25:14 AM",
         "summary": "North County Fire on Control-3",
         "category": "Full assignment response",
-        "location": "204 GATEWAY DR ,PCF",
+        "location": "198 GATEWAY DR ,PCF",
         "latitude": 37.6644496857451,
         "longitude": -122.481124317502,
-        "units": "?TAC35 ?CM31X2 ?BC20 ?E95 ?E64?E71 ?T95"
+        "units": "?TAC35 CM31X2 >BC20 >E71 >T95"
     },
     {
         "id": "MF2308282",
@@ -19,7 +41,7 @@
         "location": "PARTRIDGE AVE #5 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?T4"
+        "units": ">T4"
     },
     {
         "id": "FF2305384",
@@ -30,29 +52,7 @@
         "location": "DNA WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
-    },
-    {
-        "id": "RF2310442",
-        "date": "2023-09-20",
-        "time": "11:18:42 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "MF2308281",
-        "date": "2023-09-20",
-        "time": "11:15:38 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "198 SANTA MARGARITA AVE ,MNP",
-        "latitude": 37.456901253484,
-        "longitude": -122.164013970843,
-        "units": ">E1 CM11X1"
+        "units": ">Q62"
     },
     {
         "id": "SF2311741",
@@ -64,17 +64,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "NF2310403",
-        "date": "2023-09-20",
-        "time": "10:56:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "WASHINGTON ST / BRYANT ST",
-        "latitude": 37.6878980381928,
-        "longitude": -122.473273276923,
-        "units": ">E94"
     },
     {
         "id": "NF2310399",
