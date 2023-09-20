@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2310430",
+        "date": "2023-09-20",
+        "time": "12:31:45 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9 >BC3 ?TAC15 ?CM11X4"
+    },
+    {
+        "id": "BF2303345",
+        "date": "2023-09-20",
+        "time": "12:27:17 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL / W ANGUS AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "SF2311720",
         "date": "2023-09-20",
         "time": "12:22:23 AM",
@@ -8,29 +30,7 @@
         "location": "STATE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E21"
-    },
-    {
-        "id": "RF2310428",
-        "date": "2023-09-20",
-        "time": "12:10:54 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Lock out - residential",
-        "location": "1321 MARSHALL ST #509 ,RCY",
-        "latitude": 37.4882595441525,
-        "longitude": -122.22044482963,
-        "units": ">T9"
-    },
-    {
-        "id": "LF2300956",
-        "date": "2023-09-20",
-        "time": "12:03:23 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "507 MIDWAY AVE ,BRD",
-        "latitude": 37.6922509582825,
-        "longitude": -122.479064979295,
-        "units": ""
+        "units": ">E21"
     },
     {
         "id": "HF2302512",
@@ -42,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E44"
-    },
-    {
-        "id": "SF2311719",
-        "date": "2023-09-20",
-        "time": "9/19/2023 11:52:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KEHOE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
