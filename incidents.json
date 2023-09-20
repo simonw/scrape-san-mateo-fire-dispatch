@@ -1,36 +1,58 @@
 [
     {
-        "id": "RF2310418",
+        "id": "CF2306670",
         "date": "2023-09-19",
-        "time": "7:15:07 PM",
+        "time": "7:41:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S ASHTON AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "RF2310420",
+        "date": "2023-09-19",
+        "time": "7:39:56 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "TRAIN TRACK ,RCY",
+        "location": "CLIFFORD AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "E10"
     },
     {
-        "id": "SF2311715",
+        "id": "RF2310419",
         "date": "2023-09-19",
-        "time": "7:14:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E BELLEVUE AVE #2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "time": "7:34:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "3112 GOODWIN AVE ,RCY",
+        "latitude": 37.4563067156304,
+        "longitude": -122.245613124545,
+        "units": "E12"
     },
     {
-        "id": "FF2305376",
+        "id": "FF2305378",
         "date": "2023-09-19",
-        "time": "7:10:00 PM",
+        "time": "7:31:29 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "LINDEN AVE ,SSF",
+        "location": "CARNELIAN RD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": ">E63"
+    },
+    {
+        "id": "FF2305377",
+        "date": "2023-09-19",
+        "time": "7:28:07 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S AIRPORT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     },
     {
         "id": "SF2311714",
@@ -42,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "CF2306669",
-        "date": "2023-09-19",
-        "time": "7:02:26 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "811 CHILTERN RD ,HIL",
-        "latitude": 37.5565823037275,
-        "longitude": -122.347025079991,
-        "units": ""
-    },
-    {
-        "id": "HF2302508",
-        "date": "2023-09-19",
-        "time": "6:27:13 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "8450 N CABRILLO HWY ,MON",
-        "latitude": 37.5413373173313,
-        "longitude": -122.516593055115,
-        "units": ">E44"
     }
 ]
