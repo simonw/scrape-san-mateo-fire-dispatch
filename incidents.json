@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2311795",
+        "id": "SF2311798",
         "date": "2023-09-21",
-        "time": "12:43:26 PM",
+        "time": "1:01:11 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "115 16TH AVE ,SMO",
+        "latitude": 37.5549139175302,
+        "longitude": -122.313394165101,
+        "units": "E25"
+    },
+    {
+        "id": "RF2310482",
+        "date": "2023-09-21",
+        "time": "12:59:38 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ANNAPOLIS DR ,SMO",
+        "location": "BROADWAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E26"
+        "units": "E9"
+    },
+    {
+        "id": "DF2301979",
+        "date": "2023-09-21",
+        "time": "12:52:25 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PAUL SCANNELL DR ,SON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17"
+    },
+    {
+        "id": "SF2311796",
+        "date": "2023-09-21",
+        "time": "12:49:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "CF2306726",
@@ -19,7 +52,7 @@
         "location": "ENCINA DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E38"
+        "units": ">E38"
     },
     {
         "id": "CF2306725",
@@ -30,17 +63,6 @@
         "location": "735 EL CAMINO REAL ,BRM",
         "latitude": 37.5786011804107,
         "longitude": -122.357011044638,
-        "units": "E34"
-    },
-    {
-        "id": "NF2310433",
-        "date": "2023-09-21",
-        "time": "12:33:09 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E34"
     }
 ]
