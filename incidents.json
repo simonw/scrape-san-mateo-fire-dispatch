@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2311790",
+        "id": "MF2308311",
         "date": "2023-09-21",
-        "time": "10:04:01 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:19:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "CROCKER AVE / 1ST AVE",
+        "latitude": 37.4749033439691,
+        "longitude": -122.207322226193,
+        "units": "E5"
+    },
+    {
+        "id": "CF2306721",
+        "date": "2023-09-21",
+        "time": "10:18:16 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1409 CHAPIN AVE ,BRM",
+        "latitude": 37.5781809682352,
+        "longitude": -122.349338270141,
+        "units": ">E34"
+    },
+    {
+        "id": "WF2301645",
+        "date": "2023-09-21",
+        "time": "10:15:38 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "4200 FARM HILL BLVD ,WDS",
+        "latitude": 37.4478922871236,
+        "longitude": -122.266398660236,
+        "units": ">E19 >SQ407 E18 BC2 CM11X4E10 ?TAC15"
+    },
+    {
+        "id": "CF2306720",
+        "date": "2023-09-21",
+        "time": "10:09:28 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "NEWLANDS AVE ,BLM",
+        "location": "ALTO LOMA ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E38"
     },
     {
         "id": "MF2308309",
@@ -20,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E77"
-    },
-    {
-        "id": "SF2311789",
-        "date": "2023-09-21",
-        "time": "9:52:10 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ELDORADO ST #6 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2308308",
-        "date": "2023-09-21",
-        "time": "9:36:04 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "BAY RD / MARSH RD",
-        "latitude": 37.4767742091013,
-        "longitude": -122.186781466311,
-        "units": ">E5"
     }
 ]
