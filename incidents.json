@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2311804",
+        "id": "SF2311805",
         "date": "2023-09-21",
-        "time": "2:39:26 PM",
+        "time": "3:03:25 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "NB 101 / SO E HILLSDALE BLVD",
+        "latitude": 37.5367073346711,
+        "longitude": -122.280511769518,
+        "units": "T23 E20 E26 ?TAC15 ?CM11X3?BC5"
+    },
+    {
+        "id": "MF2308319",
+        "date": "2023-09-21",
+        "time": "3:01:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "DE SABLA RD #7 ,SMO",
+        "location": "UNIVERSITY AVE / BAY RD",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">T2"
+    },
+    {
+        "id": "NF2310443",
+        "date": "2023-09-21",
+        "time": "2:54:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2308318",
+        "date": "2023-09-21",
+        "time": "2:53:36 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #126 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2310442",
+        "date": "2023-09-21",
+        "time": "2:53:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVALON DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "BF2303367",
+        "date": "2023-09-21",
+        "time": "2:47:46 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Hazardous material - investiga",
+        "location": "SAN MARCO AVE / SAN ANTONIO AVE",
+        "latitude": 37.6180076095638,
+        "longitude": -122.404175869756,
+        "units": ">E51"
     },
     {
         "id": "SF2311803",
@@ -19,40 +74,7 @@
         "location": "HARBOR BLVD #7 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "NF2310441",
-        "date": "2023-09-21",
-        "time": "2:29:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHGATE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "HF2302526",
-        "date": "2023-09-21",
-        "time": "2:28:58 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "1101 MAIN ST ,HMB",
-        "latitude": 37.4543129460157,
-        "longitude": -122.429303850091,
-        "units": ">E40"
-    },
-    {
-        "id": "NF2310440",
-        "date": "2023-09-21",
-        "time": "2:28:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "RIO VISTA DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": "E14"
     },
     {
         "id": "RF2310484",
@@ -63,29 +85,7 @@
         "location": "GORDON ST #1 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "NF2310439",
-        "date": "2023-09-21",
-        "time": "2:20:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "355 PARK PLAZA DR ,DCY",
-        "latitude": 37.6963397210003,
-        "longitude": -122.480134876297,
-        "units": ">E91"
-    },
-    {
-        "id": "RF2310483",
-        "date": "2023-09-21",
-        "time": "2:19:05 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": "E9"
     },
     {
         "id": "DF2301980",
@@ -96,6 +96,6 @@
         "location": "TOWNE FIRE RD / UNNAMED",
         "latitude": 37.279099572141,
         "longitude": -122.250884912634,
-        "units": ">E1769 TAC45 >BC2 >E58 >E8SQ407 >BC10 ?R57"
+        "units": ">E1769 TAC45 >BC2 >E58 >E8>SQ407 >BC10"
     }
 ]
