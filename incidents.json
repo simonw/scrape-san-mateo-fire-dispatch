@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2310457",
+        "id": "SF2311772",
         "date": "2023-09-20",
-        "time": "10:04:35 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:20:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "JEFFERSON AVE / HUDSON ST",
+        "location": "CASTILIAN WAY ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "E25"
+    },
+    {
+        "id": "SF2311771",
+        "date": "2023-09-20",
+        "time": "10:19:34 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "NB 101 / EB RALSTON AVE ON RAMP",
+        "latitude": 37.5261373664183,
+        "longitude": -122.269770772837,
+        "units": "CM11X2 T9 E14 BC3 ?TAC15"
+    },
+    {
+        "id": "SF2311770",
+        "date": "2023-09-20",
+        "time": "10:06:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "EB 92 / WO S DELAWARE ST",
+        "latitude": 37.5518635184163,
+        "longitude": -122.309200334026,
+        "units": "CM21X5 >BC5 >E23 ?TAC25 T23"
     },
     {
         "id": "FF2305399",
@@ -19,17 +41,6 @@
         "location": "1416 SAN MATEO AVE ,SSF",
         "latitude": 37.6464191474927,
         "longitude": -122.409283543756,
-        "units": "BC17 E61 Q62 CM31X4 ?TAC35"
-    },
-    {
-        "id": "NF2310420",
-        "date": "2023-09-20",
-        "time": "9:50:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EVERGREEN AVE / HANOVER ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": "?TAC35 >Q62 >BC17 >E61 CM31X4"
     }
 ]
