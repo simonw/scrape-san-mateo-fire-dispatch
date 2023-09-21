@@ -1,14 +1,69 @@
 [
     {
-        "id": "FF2305409",
+        "id": "CF2306729",
         "date": "2023-09-21",
-        "time": "1:53:45 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "2:20:24 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "2704 ARGUELLO DR ,BRM",
+        "latitude": 37.5839735569231,
+        "longitude": -122.390323415963,
+        "units": "E38"
+    },
+    {
+        "id": "NF2310439",
+        "date": "2023-09-21",
+        "time": "2:20:17 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "355 PARK PLAZA DR ,DCY",
+        "latitude": 37.6963397210003,
+        "longitude": -122.480134876297,
+        "units": "E91"
+    },
+    {
+        "id": "RF2310483",
+        "date": "2023-09-21",
+        "time": "2:19:05 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD #303 ,SSF",
+        "location": "WOODSIDE RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": ">E10"
+    },
+    {
+        "id": "FF2305410",
+        "date": "2023-09-21",
+        "time": "2:09:56 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GREENWOOD DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2310438",
+        "date": "2023-09-21",
+        "time": "2:07:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "CF2306728",
+        "date": "2023-09-21",
+        "time": "2:06:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "80 NEW PLACE RD ,HIL",
+        "latitude": 37.5686162500712,
+        "longitude": -122.367225674751,
+        "units": ">CM21X3 >T34 ?TAC25"
     },
     {
         "id": "DF2301980",
@@ -19,50 +74,6 @@
         "location": "TOWNE FIRE RD / UNNAMED",
         "latitude": 37.279099572141,
         "longitude": -122.250884912634,
-        "units": "SQ407 TAC45 CM11X1 E1769 E58E8 BC2 ?CO57"
-    },
-    {
-        "id": "FF2305408",
-        "date": "2023-09-21",
-        "time": "1:47:18 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "OLYMPIC DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "NF2310437",
-        "date": "2023-09-21",
-        "time": "1:43:25 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #301C ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "NF2310436",
-        "date": "2023-09-21",
-        "time": "1:39:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "RIDGEFIELD AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "CF2306727",
-        "date": "2023-09-21",
-        "time": "1:38:05 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #104 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": "E1769 TAC45 CM11X1 BC2 >E58E8 SQ407 BC10"
     }
 ]
