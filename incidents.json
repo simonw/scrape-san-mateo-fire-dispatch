@@ -1,46 +1,90 @@
 [
     {
-        "id": "FF2305393",
+        "id": "BF2303353",
         "date": "2023-09-20",
-        "time": "4:40:21 PM",
+        "time": "5:16:52 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1620 CRESTWOOD DR ,SNB",
+        "latitude": 37.6336467241469,
+        "longitude": -122.43878898747,
+        "units": "E52"
+    },
+    {
+        "id": "NF2310412",
+        "date": "2023-09-20",
+        "time": "5:15:19 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MANOR PLZ ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "SF2311760",
+        "date": "2023-09-20",
+        "time": "5:12:25 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PALM AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "HF2302521",
+        "date": "2023-09-20",
+        "time": "5:11:08 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Water rescue investigation",
+        "location": "1 SURFERS BEACH RD ,HMB",
+        "latitude": 37.5007274302086,
+        "longitude": -122.470136020389,
+        "units": ">BC10 >E41 >TO10 ?CG22A ?TAC45?CM41X5"
+    },
+    {
+        "id": "NF2310411",
+        "date": "2023-09-20",
+        "time": "5:09:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BOWER RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "RF2310451",
+        "date": "2023-09-20",
+        "time": "5:05:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "505 SKYWAY RD ,SNC",
+        "latitude": 37.5138123076424,
+        "longitude": -122.254177410703,
+        "units": ">T9 >BC3 >E13 CM11X3 ?TAC15"
+    },
+    {
+        "id": "SF2311759",
+        "date": "2023-09-20",
+        "time": "4:58:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HALIBUT ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "FF2305394",
+        "date": "2023-09-20",
+        "time": "4:49:40 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "A ST ,SSF",
+        "location": "ALIDA WAY #209 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "DF2301977",
-        "date": "2023-09-20",
-        "time": "4:32:42 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EDMONDS RD #2ND FLR ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "SF2311757",
-        "date": "2023-09-20",
-        "time": "4:30:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "S DELAWARE ST / SARATOGA DR",
-        "latitude": 37.5486075098928,
-        "longitude": -122.304791413721,
-        "units": ""
-    },
-    {
-        "id": "SF2311758",
-        "date": "2023-09-20",
-        "time": "4:29:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1045 FIESTA DR ,SMO",
-        "latitude": 37.5497983967966,
-        "longitude": -122.297885495953,
-        "units": "T23"
+        "units": ">E61"
     }
 ]
