@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2311828",
+        "id": "SF2311831",
         "date": "2023-09-22",
-        "time": "9:03:54 AM",
+        "time": "9:26:54 AM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "HALSEY BLVD / BEACH PARK BLVD",
+        "latitude": 37.5486543605867,
+        "longitude": -122.264074847676,
+        "units": "BC11 E29 ?TAC26 ?CM21X1 ?T21"
+    },
+    {
+        "id": "MF2308338",
+        "date": "2023-09-22",
+        "time": "9:26:45 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "740 MONTE ROSA DR ,MNP",
+        "latitude": 37.426655952937,
+        "longitude": -122.202453709139,
+        "units": "?E4"
+    },
+    {
+        "id": "SF2311830",
+        "date": "2023-09-22",
+        "time": "9:25:31 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "E HILLSDALE BLVD / S EL CAMINO REAL",
+        "latitude": 37.5370823496158,
+        "longitude": -122.297557985572,
+        "units": ">E23 BC5 T23 ?TAC25 ?CM21X2"
+    },
+    {
+        "id": "FF2305421",
+        "date": "2023-09-22",
+        "time": "9:21:30 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "FLORES ST #208A ,SMO",
+        "location": "CHESTNUT AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E63"
+    },
+    {
+        "id": "RF2310511",
+        "date": "2023-09-22",
+        "time": "9:09:47 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Grass fire",
+        "location": "NB 101 / HOLLY ST OFF RAMP",
+        "latitude": 37.5169981626591,
+        "longitude": -122.25403168028,
+        "units": "CM11X4 >E14 >E20 ?VFIR22 >BC3>E16"
+    },
+    {
+        "id": "NF2310471",
+        "date": "2023-09-22",
+        "time": "9:05:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "DEL PRADO DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "MF2308337",
@@ -19,7 +74,7 @@
         "location": "MICHAELS WAY / VALPARAISO AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E6"
     },
     {
         "id": "WF2301648",
@@ -30,7 +85,7 @@
         "location": "ALPINE RD ,LAD",
         "latitude": null,
         "longitude": null,
-        "units": ">E8"
+        "units": ""
     },
     {
         "id": "RF2310510",
@@ -42,27 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E13"
-    },
-    {
-        "id": "NF2310470",
-        "date": "2023-09-22",
-        "time": "8:57:42 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESPI DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "NF2310469",
-        "date": "2023-09-22",
-        "time": "8:49:59 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HAMPSHIRE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
     }
 ]
