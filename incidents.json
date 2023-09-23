@@ -1,5 +1,82 @@
 [
     {
+        "id": "SF2311884",
+        "date": "2023-09-23",
+        "time": "11:24:14 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BEACON AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E25"
+    },
+    {
+        "id": "CF2306766",
+        "date": "2023-09-23",
+        "time": "11:21:56 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ANSEL AVE #106 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "BF2303380",
+        "date": "2023-09-23",
+        "time": "11:20:31 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "559 REDWOOD AVE ,SNB",
+        "latitude": 37.6200737180168,
+        "longitude": -122.423737393674,
+        "units": "E52"
+    },
+    {
+        "id": "BF2303379",
+        "date": "2023-09-23",
+        "time": "11:19:52 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / SNEATH LN",
+        "latitude": 37.6368636007923,
+        "longitude": -122.421363139369,
+        "units": ">T51 >BC16 E61 CM31X2 ?TAC35"
+    },
+    {
+        "id": "FF2305440",
+        "date": "2023-09-23",
+        "time": "11:10:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "AIRPORT BLVD / BAYSHORE BLVD",
+        "latitude": 37.6676877720762,
+        "longitude": -122.395754521614,
+        "units": ">E81"
+    },
+    {
+        "id": "NF2310520",
+        "date": "2023-09-23",
+        "time": "11:08:32 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PALMETTO AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "BF2303378",
+        "date": "2023-09-23",
+        "time": "11:05:42 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ACACIA AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "WF2301654",
         "date": "2023-09-23",
         "time": "11:00:52 AM",
@@ -8,40 +85,7 @@
         "location": "OLD LA HONDA RD / SKYLINE BLVD",
         "latitude": 37.3719491635442,
         "longitude": -122.252734773846,
-        "units": "R56 E1765 E1781 TAC15 BC15CM11X1 E58 SQ407"
-    },
-    {
-        "id": "CF2306765",
-        "date": "2023-09-23",
-        "time": "10:53:52 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "N ROLLINS RD / E MILLBRAE AVE",
-        "latitude": 37.6004624850534,
-        "longitude": -122.384061409794,
-        "units": ">E37"
-    },
-    {
-        "id": "MF2308356",
-        "date": "2023-09-23",
-        "time": "10:50:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "26 COWELL LN ,ATN",
-        "latitude": 37.441064476677,
-        "longitude": -122.208246306371,
-        "units": ""
-    },
-    {
-        "id": "RF2310559",
-        "date": "2023-09-23",
-        "time": "10:44:49 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E1781 >CM11X1 >E58 >TAC15 E1765>BC15 >SQ407"
     },
     {
         "id": "NF2310518",
@@ -52,17 +96,6 @@
         "location": "GAMBETTA ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "HF2302539",
-        "date": "2023-09-23",
-        "time": "10:38:34 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLUMBUS ST ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E41"
+        "units": "E92"
     }
 ]
