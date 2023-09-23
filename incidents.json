@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2310560",
+        "date": "2023-09-23",
+        "time": "11:39:52 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "SF2311886",
+        "date": "2023-09-23",
+        "time": "11:37:38 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W HILLSDALE BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "FF2305442",
+        "date": "2023-09-23",
+        "time": "11:32:49 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S AIRPORT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "SF2311885",
+        "date": "2023-09-23",
+        "time": "11:32:17 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARINA VISTA #404 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "FF2305441",
+        "date": "2023-09-23",
+        "time": "11:26:09 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ORANGE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "SF2311884",
         "date": "2023-09-23",
         "time": "11:24:14 AM",
@@ -8,7 +63,7 @@
         "location": "BEACON AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
+        "units": ">E24 >E25"
     },
     {
         "id": "CF2306766",
@@ -19,7 +74,7 @@
         "location": "ANSEL AVE #106 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "BF2303380",
@@ -30,51 +85,7 @@
         "location": "559 REDWOOD AVE ,SNB",
         "latitude": 37.6200737180168,
         "longitude": -122.423737393674,
-        "units": "E52"
-    },
-    {
-        "id": "BF2303379",
-        "date": "2023-09-23",
-        "time": "11:19:52 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / SNEATH LN",
-        "latitude": 37.6368636007923,
-        "longitude": -122.421363139369,
-        "units": ">T51 >BC16 E61 CM31X2 ?TAC35"
-    },
-    {
-        "id": "FF2305440",
-        "date": "2023-09-23",
-        "time": "11:10:42 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "AIRPORT BLVD / BAYSHORE BLVD",
-        "latitude": 37.6676877720762,
-        "longitude": -122.395754521614,
-        "units": ">E81"
-    },
-    {
-        "id": "NF2310520",
-        "date": "2023-09-23",
-        "time": "11:08:32 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALMETTO AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "BF2303378",
-        "date": "2023-09-23",
-        "time": "11:05:42 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ACACIA AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">E52"
     },
     {
         "id": "WF2301654",
@@ -85,17 +96,6 @@
         "location": "OLD LA HONDA RD / SKYLINE BLVD",
         "latitude": 37.3719491635442,
         "longitude": -122.252734773846,
-        "units": ">E1781 >CM11X1 >E58 >TAC15 E1765>BC15 >SQ407"
-    },
-    {
-        "id": "NF2310518",
-        "date": "2023-09-23",
-        "time": "10:39:29 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GAMBETTA ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
+        "units": ">E1781 >CM11X1 >E58 >TAC15 >E1765>BC15 SQ407"
     }
 ]
