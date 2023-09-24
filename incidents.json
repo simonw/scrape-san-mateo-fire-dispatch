@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2310595",
+        "id": "RF2310597",
         "date": "2023-09-24",
-        "time": "12:40:07 PM",
+        "time": "1:02:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "5 BARCELONA CIR ,RWS",
+        "latitude": 37.532336085304,
+        "longitude": -122.242458167136,
+        "units": "E20"
+    },
+    {
+        "id": "RF2310596",
+        "date": "2023-09-24",
+        "time": "1:00:00 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "JAMES AVE ,RCY",
+        "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E9"
+    },
+    {
+        "id": "BF2303392",
+        "date": "2023-09-24",
+        "time": "12:57:26 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VERMONT WAY ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2311941",
+        "date": "2023-09-24",
+        "time": "12:55:11 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ONEILL AVE / EL CAMINO REAL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
     },
     {
         "id": "BF2303390",
@@ -19,39 +52,17 @@
         "location": "580 1ST AVE ,SNB",
         "latitude": 37.6261138171234,
         "longitude": -122.408589936214,
-        "units": "BC16 E52 ?VFIR23 ?CM31X4 ?Q62?E51"
+        "units": "?SBFINV ?VFIR23 >E51 >Q62 >E52>BC16 CM31X4"
     },
     {
         "id": "FF2305461",
         "date": "2023-09-24",
         "time": "12:37:41 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Landscape fire",
+        "category": "Grass fire",
         "location": "220 S LINDEN AVE ,SSF",
         "latitude": 37.6414361168118,
         "longitude": -122.412499599448,
-        "units": "E61"
-    },
-    {
-        "id": "CF2306790",
-        "date": "2023-09-24",
-        "time": "12:34:32 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #401 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2310594",
-        "date": "2023-09-24",
-        "time": "12:09:14 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RUTHERDALE AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "?VFIR22 CM31X5 >E65 >BC17 >E63>E61 >R61"
     }
 ]
