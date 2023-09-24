@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2308384",
+        "date": "2023-09-24",
+        "time": "3:01:47 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GARDEN ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "RF2310604",
+        "date": "2023-09-24",
+        "time": "3:00:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "NF2310572",
+        "date": "2023-09-24",
+        "time": "2:56:11 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Pole fire",
+        "location": "676 ROCKAWAY BEACH AVE ,PCF",
+        "latitude": 37.6045967695565,
+        "longitude": -122.490131621263,
+        "units": "E71"
+    },
+    {
+        "id": "SF2311948",
+        "date": "2023-09-24",
+        "time": "2:52:34 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "NF2310570",
+        "date": "2023-09-24",
+        "time": "2:52:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "RIO VISTA DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "NF2310569",
+        "date": "2023-09-24",
+        "time": "2:52:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
         "id": "RF2310603",
         "date": "2023-09-24",
         "time": "2:39:48 PM",
@@ -8,7 +74,7 @@
         "location": "OLIVER ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10 CM11X1 E12"
+        "units": "CM11X1 >E10 E12"
     },
     {
         "id": "MF2308383",
@@ -19,29 +85,7 @@
         "location": "SAND HILL CIR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E7"
-    },
-    {
-        "id": "RF2310602",
-        "date": "2023-09-24",
-        "time": "2:32:42 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "NF2310568",
-        "date": "2023-09-24",
-        "time": "2:31:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "236 FRANKFORT ST ,DCY",
-        "latitude": 37.705810426772,
-        "longitude": -122.445909020191,
-        "units": ">E92"
+        "units": "E7"
     },
     {
         "id": "RF2310600",
@@ -53,27 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E15"
-    },
-    {
-        "id": "BF2303390",
-        "date": "2023-09-24",
-        "time": "12:39:45 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Grass fire",
-        "location": "580 1ST AVE ,SNB",
-        "latitude": 37.6261138171234,
-        "longitude": -122.408589936214,
-        "units": ">PR16A"
-    },
-    {
-        "id": "FF2305461",
-        "date": "2023-09-24",
-        "time": "12:37:41 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Grass fire",
-        "location": "220 S LINDEN AVE ,SSF",
-        "latitude": 37.6414361168118,
-        "longitude": -122.412499599448,
-        "units": ">PR17C"
     }
 ]
