@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2308415",
+        "date": "2023-09-25",
+        "time": "4:21:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KAVANAUGH DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "SF2312012",
+        "date": "2023-09-25",
+        "time": "4:13:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "1608 KEHOE AVE ,SMO",
+        "latitude": 37.5650705525799,
+        "longitude": -122.300987186336,
+        "units": ">E26"
+    },
+    {
+        "id": "NF2310616",
+        "date": "2023-09-25",
+        "time": "4:09:47 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "88 HILLSIDE BLVD ,DCY",
+        "latitude": 37.7039228514341,
+        "longitude": -122.462323740801,
+        "units": ">E92"
+    },
+    {
         "id": "FF2305487",
         "date": "2023-09-25",
         "time": "4:02:59 PM",
@@ -8,7 +41,7 @@
         "location": "ROCCA AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E61"
     },
     {
         "id": "SF2312011",
@@ -19,39 +52,6 @@
         "location": "BEACON AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "SF2312010",
-        "date": "2023-09-25",
-        "time": "3:46:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FRANKLIN PKWY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2312009",
-        "date": "2023-09-25",
-        "time": "3:43:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MELISSA CT ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2308413",
-        "date": "2023-09-25",
-        "time": "3:39:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "971 RUNNYMEDE ST ,EPA",
-        "latitude": 37.4688452451472,
-        "longitude": -122.133067445452,
         "units": ""
     },
     {
@@ -63,6 +63,6 @@
         "location": "2215 SEMERIA AVE ,BLM",
         "latitude": 37.5202369524593,
         "longitude": -122.300862574711,
-        "units": ">PR5A >E15 >BC5 ?TAC15 CM11X3>T23"
+        "units": ">E15 >T23"
     }
 ]
