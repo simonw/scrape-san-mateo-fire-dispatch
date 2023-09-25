@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2310591",
+        "id": "BF2303395",
         "date": "2023-09-24",
-        "time": "8:04:45 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:19:08 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "ACCACIA ST ,DCY",
+        "location": "PICCADILLY PL #3 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E93"
+        "units": "E52"
+    },
+    {
+        "id": "FF2305466",
+        "date": "2023-09-24",
+        "time": "8:18:22 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "VALLEYVIEW WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "MF2308389",
+        "date": "2023-09-24",
+        "time": "8:13:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "2905 FLOOD AVE ,NFO",
+        "latitude": 37.4761853604518,
+        "longitude": -122.207565269145,
+        "units": ">E11"
     },
     {
         "id": "RF2310613",
@@ -19,18 +41,7 @@
         "location": "QUEENS CT ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
-    },
-    {
-        "id": "SF2311960",
-        "date": "2023-09-24",
-        "time": "8:00:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NASH DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E24"
+        "units": ">E16"
     },
     {
         "id": "FF2305465",
@@ -41,18 +52,7 @@
         "location": "399 EL CAMINO REAL ,SSF",
         "latitude": 37.6452438804561,
         "longitude": -122.427791004539,
-        "units": "E63"
-    },
-    {
-        "id": "RF2310612",
-        "date": "2023-09-24",
-        "time": "7:56:41 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BARCELONA CIR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
+        "units": ">E63"
     },
     {
         "id": "MF2308388",
@@ -64,27 +64,5 @@
         "latitude": 37.48645840738,
         "longitude": -122.142501801018,
         "units": ">E2 TAC15 CM11X5 >BC101 >T2"
-    },
-    {
-        "id": "CF2306796",
-        "date": "2023-09-24",
-        "time": "7:41:46 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2310588",
-        "date": "2023-09-24",
-        "time": "7:40:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / NO EASTMOOR AVE",
-        "latitude": 37.6870119736043,
-        "longitude": -122.471397012826,
-        "units": ">T95 >E91"
     }
 ]
