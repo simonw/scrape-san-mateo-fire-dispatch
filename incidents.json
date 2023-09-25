@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2305485",
+        "date": "2023-09-25",
+        "time": "2:42:30 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Lock out - vehicle",
+        "location": "228 CAMARITAS AVE ,SSF",
+        "latitude": 37.6575393153616,
+        "longitude": -122.443160602095,
+        "units": "?E63"
+    },
+    {
+        "id": "NF2310612",
+        "date": "2023-09-25",
+        "time": "2:37:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "FF2305484",
+        "date": "2023-09-25",
+        "time": "2:35:56 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "WESTBOROUGH BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "BF2303402",
+        "date": "2023-09-25",
+        "time": "2:26:38 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "701 SHELTER CREEK LN ,SNB",
+        "latitude": 37.6196118935287,
+        "longitude": -122.427952492168,
+        "units": ">E51 >BC16 TAC36 CM31X1"
+    },
+    {
         "id": "SF2312006",
         "date": "2023-09-25",
         "time": "2:19:51 PM",
@@ -8,28 +52,6 @@
         "location": "2215 SEMERIA AVE ,BLM",
         "latitude": 37.5202369524593,
         "longitude": -122.300862574711,
-        "units": "BC3 T23 >E14 E23 E17BC5 CM11X3 E15 ?TAC15 ?E27"
-    },
-    {
-        "id": "FF2305483",
-        "date": "2023-09-25",
-        "time": "2:12:52 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Gas main break",
-        "location": "143 APPIAN WAY ,SSF",
-        "latitude": 37.6399339187916,
-        "longitude": -122.443657718025,
-        "units": ">T51 >E52 >E63 TO17 >E64BC17 CM31X4 ?TAC35"
-    },
-    {
-        "id": "RF2310642",
-        "date": "2023-09-25",
-        "time": "2:03:37 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FAIRMONT AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">E14 >E17 >E15 >BC5 ?TAC15CM11X3 >E23 >BC3 ?BFSINV >T23"
     }
 ]
