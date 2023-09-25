@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2305487",
+        "date": "2023-09-25",
+        "time": "4:02:59 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ROCCA AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "SF2312011",
+        "date": "2023-09-25",
+        "time": "4:02:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BEACON AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "SF2312010",
+        "date": "2023-09-25",
+        "time": "3:46:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FRANKLIN PKWY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
         "id": "SF2312009",
         "date": "2023-09-25",
         "time": "3:43:29 PM",
@@ -8,18 +41,7 @@
         "location": "MELISSA CT ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E25"
-    },
-    {
-        "id": "MF2308414",
-        "date": "2023-09-25",
-        "time": "3:41:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD / GILBERT AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
+        "units": ""
     },
     {
         "id": "MF2308413",
@@ -30,40 +52,7 @@
         "location": "971 RUNNYMEDE ST ,EPA",
         "latitude": 37.4688452451472,
         "longitude": -122.133067445452,
-        "units": "T2"
-    },
-    {
-        "id": "FF2305486",
-        "date": "2023-09-25",
-        "time": "3:21:59 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HEMLOCK AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
         "units": ""
-    },
-    {
-        "id": "RF2310644",
-        "date": "2023-09-25",
-        "time": "3:08:25 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "240 LINDEN ST ,RCY",
-        "latitude": 37.4734267426477,
-        "longitude": -122.21984761237,
-        "units": ""
-    },
-    {
-        "id": "BF2303402",
-        "date": "2023-09-25",
-        "time": "2:26:38 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Vehicle fire",
-        "location": "701 SHELTER CREEK LN ,SNB",
-        "latitude": 37.6196118935287,
-        "longitude": -122.427952492168,
-        "units": ">E51 >PR16"
     },
     {
         "id": "SF2312006",
@@ -74,6 +63,6 @@
         "location": "2215 SEMERIA AVE ,BLM",
         "latitude": 37.5202369524593,
         "longitude": -122.300862574711,
-        "units": ">PR5A >E15 >BC5 ?TAC15 CM11X3>E23 >T23"
+        "units": ">PR5A >E15 >BC5 ?TAC15 CM11X3>T23"
     }
 ]
