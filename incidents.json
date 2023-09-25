@@ -1,25 +1,36 @@
 [
     {
+        "id": "FF2305467",
+        "date": "2023-09-24",
+        "time": "8:40:53 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MORNINGSIDE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
+        "id": "BF2303396",
+        "date": "2023-09-24",
+        "time": "8:34:59 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "OAKMONT DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "BF2303395",
         "date": "2023-09-24",
         "time": "8:19:08 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "PICCADILLY PL #3 ,SNB",
+        "location": "PICCADILLY PL #B ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
-    },
-    {
-        "id": "FF2305466",
-        "date": "2023-09-24",
-        "time": "8:18:22 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "VALLEYVIEW WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
+        "units": ">E52"
     },
     {
         "id": "MF2308389",
@@ -31,17 +42,6 @@
         "latitude": 37.4761853604518,
         "longitude": -122.207565269145,
         "units": ">E11"
-    },
-    {
-        "id": "RF2310613",
-        "date": "2023-09-24",
-        "time": "8:02:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "QUEENS CT ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
     },
     {
         "id": "FF2305465",
@@ -63,6 +63,6 @@
         "location": "UNIVERSITY AVE / EB 84",
         "latitude": 37.48645840738,
         "longitude": -122.142501801018,
-        "units": ">E2 TAC15 CM11X5 >BC101 >T2"
+        "units": ">E2"
     }
 ]
