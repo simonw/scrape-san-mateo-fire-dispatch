@@ -1,14 +1,69 @@
 [
     {
-        "id": "MF2308401",
+        "id": "LF2300969",
         "date": "2023-09-25",
-        "time": "11:02:42 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:20:59 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "7801 EL CAMINO REAL ,CLM",
+        "latitude": 37.6830935704168,
+        "longitude": -122.463084093945,
+        "units": "T85 E86 ?TAC35 ?CM31X1"
+    },
+    {
+        "id": "FF2305478",
+        "date": "2023-09-25",
+        "time": "11:11:38 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "CRANE ST #117 ,MNP",
+        "location": "OAK AVE #105 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
+        "units": ">E63"
+    },
+    {
+        "id": "RF2310638",
+        "date": "2023-09-25",
+        "time": "11:09:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BIRCH ST #5 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2310605",
+        "date": "2023-09-25",
+        "time": "11:08:32 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #303B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "NF2310604",
+        "date": "2023-09-25",
+        "time": "11:07:32 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MIRA VISTA CT ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "HF2302553",
+        "date": "2023-09-25",
+        "time": "11:07:11 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BEACH AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
     },
     {
         "id": "MF2308402",
@@ -19,7 +74,7 @@
         "location": "106 CLOVER LN ,MNP",
         "latitude": 37.45524182525,
         "longitude": -122.162484981707,
-        "units": "E1"
+        "units": ">E1"
     },
     {
         "id": "SF2311990",
@@ -30,7 +85,7 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T21"
+        "units": ">T21"
     },
     {
         "id": "SF2311989",
@@ -42,16 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "SF2311988",
-        "date": "2023-09-25",
-        "time": "10:53:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #204B ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
     }
 ]
