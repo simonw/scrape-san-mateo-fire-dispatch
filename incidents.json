@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2312064",
+        "date": "2023-09-26",
+        "time": "3:38:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD #1304 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "RF2310682",
+        "date": "2023-09-26",
+        "time": "3:34:28 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CEDAR ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "FF2305512",
+        "date": "2023-09-26",
+        "time": "3:33:23 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD #115 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "CF2306843",
         "date": "2023-09-26",
         "time": "3:23:09 PM",
@@ -8,7 +41,7 @@
         "location": "LASUEN DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E33"
+        "units": ">E33"
     },
     {
         "id": "SF2312063",
@@ -22,17 +55,6 @@
         "units": ">E24"
     },
     {
-        "id": "FF2305511",
-        "date": "2023-09-26",
-        "time": "3:15:57 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1350 VETERANS BLVD ,SSF",
-        "latitude": 37.6664290480448,
-        "longitude": -122.393403727132,
-        "units": ">Q62"
-    },
-    {
         "id": "MF2308444",
         "date": "2023-09-26",
         "time": "3:13:00 PM",
@@ -41,62 +63,7 @@
         "location": "EL CAMINO REAL #STE 201 ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
-    },
-    {
-        "id": "CF2306842",
-        "date": "2023-09-26",
-        "time": "3:08:02 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROBERT PL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2310653",
-        "date": "2023-09-26",
-        "time": "3:06:02 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WESTDALE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
         "units": ""
-    },
-    {
-        "id": "RF2310681",
-        "date": "2023-09-26",
-        "time": "3:04:55 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALDEN ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2312062",
-        "date": "2023-09-26",
-        "time": "3:01:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "695 COMET DR ,FCY",
-        "latitude": 37.5611350630592,
-        "longitude": -122.264891459185,
-        "units": ""
-    },
-    {
-        "id": "FF2305510",
-        "date": "2023-09-26",
-        "time": "3:01:09 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DNA WAY #BLDG 5 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
     },
     {
         "id": "FF2305509",
@@ -110,28 +77,6 @@
         "units": "E61"
     },
     {
-        "id": "CF2306841",
-        "date": "2023-09-26",
-        "time": "2:54:08 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1761 ADRIAN RD ,BRM",
-        "latitude": 37.598745877982,
-        "longitude": -122.37700257445,
-        "units": ">E32"
-    },
-    {
-        "id": "DF2302006",
-        "date": "2023-09-26",
-        "time": "2:50:48 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MORELAND DR ,SON",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
         "id": "MF2308443",
         "date": "2023-09-26",
         "time": "2:46:21 PM",
@@ -140,6 +85,6 @@
         "location": "137 5TH AVE ,NFO",
         "latitude": 37.4692873834001,
         "longitude": -122.207410788715,
-        "units": "CM11X1 >T9 >E11 >E6 >E9>E3 >BC1 ?TAC15 >BC3 >PR1D"
+        "units": "?BLDSMC CM11X1 >T9 >E11 >E6>E9 >E3 >BC1 ?TAC15 >BC3"
     }
 ]
