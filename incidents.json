@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2312067",
+        "date": "2023-09-26",
+        "time": "4:23:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HILLSDALE MALL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E23"
+    },
+    {
+        "id": "NF2310654",
+        "date": "2023-09-26",
+        "time": "4:14:50 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALDEZ WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "DF2302007",
+        "date": "2023-09-26",
+        "time": "4:09:28 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDMONDS RD ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
+        "id": "SF2312066",
+        "date": "2023-09-26",
+        "time": "4:07:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST #102 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "WF2301665",
         "date": "2023-09-26",
         "time": "4:00:13 PM",
@@ -8,7 +52,7 @@
         "location": "ESPINOSA RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X4 R56 E58 ?TAC16"
+        "units": "*>E58"
     },
     {
         "id": "BF2303406",
@@ -19,84 +63,7 @@
         "location": "EL CAMINO REAL / SNEATH LN",
         "latitude": 37.6368636007923,
         "longitude": -122.421363139369,
-        "units": ">T51 >E51 >BC16 >CM31X1 ?TAC35"
-    },
-    {
-        "id": "RF2310684",
-        "date": "2023-09-26",
-        "time": "3:55:13 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLOMQUIST ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "SF2312065",
-        "date": "2023-09-26",
-        "time": "3:43:37 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROBERTA DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "RF2310683",
-        "date": "2023-09-26",
-        "time": "3:41:07 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NUEVA AVE #3 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E10"
-    },
-    {
-        "id": "SF2312064",
-        "date": "2023-09-26",
-        "time": "3:38:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRYSTAL SPRINGS RD #1304 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2310682",
-        "date": "2023-09-26",
-        "time": "3:34:28 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CEDAR ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2306843",
-        "date": "2023-09-26",
-        "time": "3:23:09 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LASUEN DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2312063",
-        "date": "2023-09-26",
-        "time": "3:22:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARAVEL LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E51 >CM31X1"
     },
     {
         "id": "MF2308443",
@@ -107,6 +74,6 @@
         "location": "137 5TH AVE ,NFO",
         "latitude": 37.4692873834001,
         "longitude": -122.207410788715,
-        "units": "?BLDSMC CM11X1 >T9 >E11 >E6>E9 >E3 >BC1 ?TAC15 >BC3"
+        "units": "BLDSMC CM11X1 >T9 >E9 >E3>BC1 ?TAC15 >BC3 >PR1D >PR1B"
     }
 ]
