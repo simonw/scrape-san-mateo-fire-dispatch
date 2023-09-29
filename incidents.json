@@ -1,14 +1,58 @@
 [
     {
-        "id": "DF2302034",
+        "id": "CF2306914",
         "date": "2023-09-29",
-        "time": "11:03:32 AM",
-        "summary": "County Fire on Control-1",
+        "time": "11:26:29 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,EML",
+        "location": "TERRACE DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": "?E38"
+    },
+    {
+        "id": "NF2310756",
+        "date": "2023-09-29",
+        "time": "11:25:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident - structure",
+        "location": "1306 ASPEN DR ,PCF",
+        "latitude": 37.5881924113277,
+        "longitude": -122.474597379481,
+        "units": "?TAC35 ?CM31X1 ?BC124 ?E71 ?E72?T51 ?E81"
+    },
+    {
+        "id": "SF2312211",
+        "date": "2023-09-29",
+        "time": "11:21:58 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1031 S DELAWARE ST ,SMO",
+        "latitude": 37.561636676561,
+        "longitude": -122.312795223402,
+        "units": "E25"
+    },
+    {
+        "id": "FF2305568",
+        "date": "2023-09-29",
+        "time": "11:20:07 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE #102 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "NF2310755",
+        "date": "2023-09-29",
+        "time": "11:16:27 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1500 SOUTHGATE AVE ,DCY",
+        "latitude": 37.6751471608187,
+        "longitude": -122.475036263681,
+        "units": ">T95"
     },
     {
         "id": "MF2308520",
@@ -19,7 +63,7 @@
         "location": "SB 101 / UNIVERSITY AVE ON RAMP",
         "latitude": 37.4577422937233,
         "longitude": -122.136428645439,
-        "units": ">T2 E1 E2 BC101 CM11X5?TAC15"
+        "units": ">BC101 >T2"
     },
     {
         "id": "WF2301677",
@@ -30,7 +74,7 @@
         "location": "RAMONA RD ,LTW",
         "latitude": null,
         "longitude": null,
-        "units": "E19"
+        "units": ">E19"
     },
     {
         "id": "CF2306913",
@@ -41,28 +85,6 @@
         "location": "ARC WAY #103 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E32"
-    },
-    {
-        "id": "SF2312210",
-        "date": "2023-09-29",
-        "time": "10:55:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDISON ST #320 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "MF2308519",
-        "date": "2023-09-29",
-        "time": "10:53:26 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "O'BRIEN DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "units": ">E32"
     }
 ]
