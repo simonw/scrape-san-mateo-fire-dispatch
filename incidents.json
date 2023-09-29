@@ -1,5 +1,60 @@
 [
     {
+        "id": "FF2305562",
+        "date": "2023-09-29",
+        "time": "9:01:56 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "316 SUSIE WAY ,SSF",
+        "latitude": 37.6616452006517,
+        "longitude": -122.431529795687,
+        "units": "E65"
+    },
+    {
+        "id": "SF2312203",
+        "date": "2023-09-29",
+        "time": "9:01:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL / BROADWAY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "NF2310749",
+        "date": "2023-09-29",
+        "time": "8:49:13 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "359 HALF MOON LN ,DCY",
+        "latitude": 37.6670169905253,
+        "longitude": -122.464474036106,
+        "units": "*>E94 ?TAC35 >E95 >BC20 CM31X3"
+    },
+    {
+        "id": "NF2310748",
+        "date": "2023-09-29",
+        "time": "8:47:24 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FAIRLAWN AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "RF2310774",
+        "date": "2023-09-29",
+        "time": "8:47:15 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWPORT CIR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "MF2308516",
         "date": "2023-09-29",
         "time": "8:42:49 AM",
@@ -8,18 +63,7 @@
         "location": "WILLOW RD #BLDG 360E ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
-    },
-    {
-        "id": "RF2310773",
-        "date": "2023-09-29",
-        "time": "8:37:25 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRIDGE PKWY ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": "E14"
+        "units": ">E1"
     },
     {
         "id": "FF2305561",
@@ -30,39 +74,6 @@
         "location": "N ACCESS RD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "FF2305560",
-        "date": "2023-09-29",
-        "time": "8:30:45 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD #221 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "SF2312202",
-        "date": "2023-09-29",
-        "time": "8:29:38 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEQUOIA AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2310747",
-        "date": "2023-09-29",
-        "time": "8:22:44 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KING DR #257 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
+        "units": "E51"
     }
 ]
