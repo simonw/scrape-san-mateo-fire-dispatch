@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2303437",
+        "date": "2023-09-29",
+        "time": "1:42:45 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL / NB EL CAMINO REAL ON R",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "RF2310788",
+        "date": "2023-09-29",
+        "time": "1:33:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "RF2310786",
         "date": "2023-09-29",
         "time": "1:21:58 PM",
@@ -8,40 +30,7 @@
         "location": "FAIRMONT AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
-    },
-    {
-        "id": "RF2310785",
-        "date": "2023-09-29",
-        "time": "1:16:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "T9"
-    },
-    {
-        "id": "RF2310784",
-        "date": "2023-09-29",
-        "time": "1:13:59 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR #LOBBY ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "MF2308522",
-        "date": "2023-09-29",
-        "time": "1:08:56 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "2100 UNIVERSITY AVE ,EPA",
-        "latitude": 37.4630386305632,
-        "longitude": -122.141517433575,
-        "units": "CM11X1 ?TAC15"
+        "units": ">E16"
     },
     {
         "id": "SF2312213",
@@ -55,17 +44,6 @@
         "units": ">BC8 CM21X2 ?TAC25 >E24 >T21"
     },
     {
-        "id": "FF2305571",
-        "date": "2023-09-29",
-        "time": "1:01:00 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "WESTBOROUGH BLVD / JUNIPERO SERRA BLVD",
-        "latitude": 37.6459959212589,
-        "longitude": -122.448345189396,
-        "units": ">E64"
-    },
-    {
         "id": "HF2302581",
         "date": "2023-09-29",
         "time": "12:57:58 PM",
@@ -74,6 +52,6 @@
         "location": "1452 ALAMO ST ,MON",
         "latitude": 37.534928611915,
         "longitude": -122.494531919371,
-        "units": "?TAC45 >E44 E94 CM41X5 >E41>TO10 E52 >E40 E95 BC20"
+        "units": "?TAC45 >E94 >E44 CM41X5 >TO10>E41 >E52 >E40 >E95 >BC20"
     }
 ]
