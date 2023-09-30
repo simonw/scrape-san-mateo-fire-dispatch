@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2302590",
+        "date": "2023-09-30",
+        "time": "10:21:51 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN MATEO RD ,SON",
+        "latitude": null,
+        "longitude": null,
+        "units": "E44"
+    },
+    {
+        "id": "MF2308542",
+        "date": "2023-09-30",
+        "time": "10:15:04 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALEXANDER AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "RF2310824",
+        "date": "2023-09-30",
+        "time": "10:14:16 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
         "id": "SF2312253",
         "date": "2023-09-30",
         "time": "10:02:32 AM",
@@ -8,7 +41,7 @@
         "location": "MARINERS ISLAND BLVD #120 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
+        "units": ">E28"
     },
     {
         "id": "CF2306935",
@@ -19,18 +52,7 @@
         "location": "30 CALAVERAS CT ,HIL",
         "latitude": 37.5320875881485,
         "longitude": -122.356614229508,
-        "units": "E26 T21 E27 ?TAC25 ?CM21X2?BC8 ?E17"
-    },
-    {
-        "id": "NF2310781",
-        "date": "2023-09-30",
-        "time": "9:52:59 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SALADA AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ">BC8 >E27"
     },
     {
         "id": "NF2310780",
@@ -52,6 +74,6 @@
         "location": "MORI POINT RD ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "TAC35 >ERV72 CM31X1 >E71"
+        "units": "CM31X1 TAC35 >E71 >ERV72"
     }
 ]
