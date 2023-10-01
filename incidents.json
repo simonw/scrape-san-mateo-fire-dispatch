@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2310846",
+        "date": "2023-10-01",
+        "time": "12:22:22 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD #11 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "MF2308563",
+        "date": "2023-10-01",
+        "time": "12:20:51 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "FF2305598",
+        "date": "2023-10-01",
+        "time": "12:14:08 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BART / MISSION RD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "RF2310845",
         "date": "2023-10-01",
         "time": "9/30/2023 11:55:20 PM",
@@ -11,50 +44,6 @@
         "units": ">E20"
     },
     {
-        "id": "RF2310844",
-        "date": "2023-10-01",
-        "time": "9/30/2023 11:52:06 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD / BROADWAY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2310806",
-        "date": "2023-10-01",
-        "time": "9/30/2023 11:44:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CALLAN BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "MF2308562",
-        "date": "2023-10-01",
-        "time": "9/30/2023 11:33:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TATE ST #B301 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2310804",
-        "date": "2023-10-01",
-        "time": "9/30/2023 11:00:09 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "PIERCE ST / SULLIVAN AVE",
-        "latitude": 37.6860257377868,
-        "longitude": -122.47222118547,
-        "units": "?TAC35 ?CM31X4"
-    },
-    {
         "id": "MF2308558",
         "date": "2023-10-01",
         "time": "9/30/2023 10:30:44 PM",
@@ -63,6 +52,6 @@
         "location": "336 WALSH RD ,ATN",
         "latitude": 37.4354810824309,
         "longitude": -122.215703902073,
-        "units": ">PR1C >E6 >T4 >SQ401 >E3?TAC15 CM11X5 >E4"
+        "units": ">PR1C >T4 ?TAC15 CM11X5 >E4"
     }
 ]
