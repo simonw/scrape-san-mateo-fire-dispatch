@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2310842",
+        "id": "MF2308561",
         "date": "2023-09-30",
-        "time": "10:41:07 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:01:41 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL #301 ,RCY",
+        "location": "SHARON OAKS DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": "E7"
+    },
+    {
+        "id": "NF2310804",
+        "date": "2023-09-30",
+        "time": "11:00:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "PIERCE ST / SULLIVAN AVE",
+        "latitude": 37.6860257377868,
+        "longitude": -122.47222118547,
+        "units": "E92 ?TAC35 BC20 T95 ?CM31X4"
+    },
+    {
+        "id": "RF2310843",
+        "date": "2023-09-30",
+        "time": "10:52:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BARRON AVE #SPACE 88 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "SF2312287",
+        "date": "2023-09-30",
+        "time": "10:44:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #216 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
     },
     {
         "id": "MF2308559",
@@ -19,7 +52,7 @@
         "location": "1928 PULGAS AVE ,EPA",
         "latitude": 37.4564768878727,
         "longitude": -122.129650753597,
-        "units": "T2 CM11X3 E2 BC101 ?TAC16"
+        "units": ">E2"
     },
     {
         "id": "MF2308558",
@@ -30,7 +63,7 @@
         "location": "336 WALSH RD ,ATN",
         "latitude": 37.4354810824309,
         "longitude": -122.215703902073,
-        "units": ">E6 >T4 >SQ401 >BC1 >E3>BC2 ?TAC15 CM11X5 E10 >E5"
+        "units": ">E6 ?MNFINV >T4 >SQ401 >BC1>E3 >BC2 ?TAC15 CM11X5 >E10"
     },
     {
         "id": "SF2312286",
@@ -41,18 +74,7 @@
         "location": "N ELDORADO ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">BC5 CM21X4 ?TAC25 >E21"
-    },
-    {
-        "id": "CF2306951",
-        "date": "2023-09-30",
-        "time": "10:22:39 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CADILLAC WAY #308 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "units": "E21"
     },
     {
         "id": "CF2306950",
@@ -64,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "SF2312284",
-        "date": "2023-09-30",
-        "time": "9:50:00 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PENINSULA AVE / CALIFORNIA DR",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
     }
 ]
