@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2308561",
+        "id": "BF2303459",
         "date": "2023-09-30",
-        "time": "11:01:41 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:14:38 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "SHARON OAKS DR ,MNP",
+        "location": "MASSON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
+        "units": ">E51"
+    },
+    {
+        "id": "HF2302596",
+        "date": "2023-09-30",
+        "time": "11:08:27 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ST JOHN AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E40"
     },
     {
         "id": "NF2310804",
@@ -19,40 +30,7 @@
         "location": "PIERCE ST / SULLIVAN AVE",
         "latitude": 37.6860257377868,
         "longitude": -122.47222118547,
-        "units": "E92 ?TAC35 BC20 T95 ?CM31X4"
-    },
-    {
-        "id": "RF2310843",
-        "date": "2023-09-30",
-        "time": "10:52:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BARRON AVE #SPACE 88 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "SF2312287",
-        "date": "2023-09-30",
-        "time": "10:44:14 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #216 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "MF2308559",
-        "date": "2023-09-30",
-        "time": "10:40:51 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "1928 PULGAS AVE ,EPA",
-        "latitude": 37.4564768878727,
-        "longitude": -122.129650753597,
-        "units": ">E2"
+        "units": ">E92 ?TAC35 >BC20 ?CM31X4"
     },
     {
         "id": "MF2308558",
@@ -63,7 +41,7 @@
         "location": "336 WALSH RD ,ATN",
         "latitude": 37.4354810824309,
         "longitude": -122.215703902073,
-        "units": ">E6 ?MNFINV >T4 >SQ401 >BC1>E3 >BC2 ?TAC15 CM11X5 >E10"
+        "units": "PR1C >E6 >T4 >SQ401 >BC1>E3 >BC2 ?TAC15 CM11X5 >E10"
     },
     {
         "id": "SF2312286",
@@ -75,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E21"
-    },
-    {
-        "id": "CF2306950",
-        "date": "2023-09-30",
-        "time": "10:21:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #1303 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
