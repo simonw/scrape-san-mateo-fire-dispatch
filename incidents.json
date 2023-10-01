@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2312293",
+        "id": "MF2308570",
         "date": "2023-10-01",
-        "time": "5:30:24 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "5:45:38 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "5 NEWELL CT ,EPA",
+        "latitude": 37.4570617285856,
+        "longitude": -122.13815381105,
+        "units": "?E2"
+    },
+    {
+        "id": "RF2310851",
+        "date": "2023-10-01",
+        "time": "5:37:29 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CIPRIANI BLVD ,BLM",
+        "location": "BROADWAY / WALNUT ST",
         "latitude": null,
         "longitude": null,
-        "units": "?E15"
+        "units": ">E9"
+    },
+    {
+        "id": "BF2303460",
+        "date": "2023-10-01",
+        "time": "5:32:58 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FLEETWOOD DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "NF2310819",
@@ -30,18 +52,7 @@
         "location": "SB 101 / NO BROADWAY",
         "latitude": 37.5968398858127,
         "longitude": -122.371807046932,
-        "units": ">E37 T34 BC16 E24 ?TAC25?CM21X3"
-    },
-    {
-        "id": "CF2306955",
-        "date": "2023-10-01",
-        "time": "5:22:13 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MYRTLE RD #201 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "?CM21X3 >T34 >E37 ?TAC25 >BC16>E24"
     },
     {
         "id": "LF2300983",
@@ -53,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E86"
-    },
-    {
-        "id": "MF2308569",
-        "date": "2023-10-01",
-        "time": "5:13:21 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "O'KEEFE ST / WILLOW RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2308568",
-        "date": "2023-10-01",
-        "time": "5:08:46 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD #2 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
     }
 ]
