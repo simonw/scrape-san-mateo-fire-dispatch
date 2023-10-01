@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2310814",
+        "id": "NF2310815",
         "date": "2023-10-01",
-        "time": "3:23:02 AM",
+        "time": "3:42:11 AM",
         "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 280 / SO 1",
+        "latitude": 37.6738400118365,
+        "longitude": -122.468286519171,
+        "units": "?TAC35 ?CM31X5 ?E92 ?BC124 ?E94?T95"
+    },
+    {
+        "id": "SF2312289",
+        "date": "2023-10-01",
+        "time": "3:38:35 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "SAN PEDRO RD / JUNIPERO SERRA BLVD",
+        "location": "RUTH AVE / NORTH RD",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": "E14"
     },
     {
         "id": "SF2312288",
@@ -20,27 +31,5 @@
         "latitude": 37.5753810013961,
         "longitude": -122.330962805697,
         "units": ">E21"
-    },
-    {
-        "id": "MF2308565",
-        "date": "2023-10-01",
-        "time": "3:09:46 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KAVANAUGH DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2306953",
-        "date": "2023-10-01",
-        "time": "2:56:07 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "NB 101 / SO SFO",
-        "latitude": 37.605374335711,
-        "longitude": -122.38455861888,
-        "units": ">T34 >BC8 >E34 ?TAC25 ?CM21X2"
     }
 ]
