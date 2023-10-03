@@ -1,14 +1,25 @@
 [
     {
-        "id": "CF2306999",
+        "id": "CF2307000",
         "date": "2023-10-03",
-        "time": "8:03:48 AM",
+        "time": "8:21:54 AM",
         "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "60 EDWARDS CT ,BRM",
-        "latitude": 37.5926751443277,
-        "longitude": -122.366817530244,
-        "units": "E34"
+        "category": "Wires down (not sparking)",
+        "location": "CARDIGAN RD / AVONDALE RD",
+        "latitude": 37.5516279774222,
+        "longitude": -122.355320867734,
+        "units": "E32"
+    },
+    {
+        "id": "SF2312385",
+        "date": "2023-10-03",
+        "time": "8:10:10 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "ALAMEDA DE LAS PULGAS / SONORA DR",
+        "latitude": 37.5522016301032,
+        "longitude": -122.32994458991,
+        "units": ">E25"
     },
     {
         "id": "NF2310884",
@@ -19,50 +30,6 @@
         "location": "SOUTHGATE AVE #221 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "CF2306998",
-        "date": "2023-10-03",
-        "time": "7:52:35 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1064B ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2305640",
-        "date": "2023-10-03",
-        "time": "7:47:00 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "SPRUCE AVE / GRAND AVE",
-        "latitude": 37.6564924355198,
-        "longitude": -122.41603432267,
-        "units": "?TAC35 >E61 CM31X3"
-    },
-    {
-        "id": "MF2308631",
-        "date": "2023-10-03",
-        "time": "7:45:41 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #40 ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "RF2310919",
-        "date": "2023-10-03",
-        "time": "6:38:33 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Grass fire",
-        "location": "WOODSIDE RD / OVER EL CAMINO REAL",
-        "latitude": 37.4765691962738,
-        "longitude": -122.221722701056,
-        "units": ">PR3A"
+        "units": ""
     }
 ]
