@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2308635",
+        "id": "NF2310891",
         "date": "2023-10-03",
-        "time": "9:40:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:59:09 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Public assist",
-        "location": "1952 PULGAS AVE ,EPA",
-        "latitude": 37.4582996328862,
-        "longitude": -122.129735369458,
-        "units": "E77"
+        "location": "1020 GLACIER AVE ,PCF",
+        "latitude": 37.5895714891846,
+        "longitude": -122.462285791137,
+        "units": "?E72"
+    },
+    {
+        "id": "SF2312389",
+        "date": "2023-10-03",
+        "time": "9:48:44 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BEACH PARK BLVD / SHELL BLVD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "MF2308636",
+        "date": "2023-10-03",
+        "time": "9:46:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EASTRIDGE AVE #621 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T4"
+    },
+    {
+        "id": "SF2312388",
+        "date": "2023-10-03",
+        "time": "9:45:18 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "127 W 25TH AVE ,SMO",
+        "latitude": 37.5434645231413,
+        "longitude": -122.307340464305,
+        "units": ""
     },
     {
         "id": "NF2310890",
@@ -19,7 +52,7 @@
         "location": "JUNIPERO SERRA BLVD #100 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ""
     },
     {
         "id": "RF2310922",
@@ -28,28 +61,6 @@
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
         "location": "LOWELL ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2308634",
-        "date": "2023-10-03",
-        "time": "9:33:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODLAND AVE #16 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2305643",
-        "date": "2023-10-03",
-        "time": "9:20:52 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HERMOSA LN ,SSF",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -64,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "*>T23"
-    },
-    {
-        "id": "FF2305642",
-        "date": "2023-10-03",
-        "time": "9:12:05 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD #134 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
