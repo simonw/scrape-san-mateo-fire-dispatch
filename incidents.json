@@ -1,36 +1,58 @@
 [
     {
-        "id": "NF2310919",
+        "id": "SF2312442",
         "date": "2023-10-04",
-        "time": "10:43:20 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "11:04:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "CRESPI DR ,PCF",
+        "location": "WHARFSIDE RD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": "E28"
     },
     {
-        "id": "RF2310970",
+        "id": "MF2308665",
         "date": "2023-10-04",
-        "time": "10:27:00 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VALOTA RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
+        "time": "10:54:05 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "PEGGY LN / BAY RD",
+        "latitude": 37.4764338915549,
+        "longitude": -122.179863219442,
+        "units": ""
     },
     {
-        "id": "CF2307024",
+        "id": "MF2308664",
         "date": "2023-10-04",
-        "time": "10:24:34 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "10:53:53 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
+        "location": "DEXTER AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": ">E5"
+    },
+    {
+        "id": "WF2301704",
+        "date": "2023-10-04",
+        "time": "10:51:31 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "4200 FARM HILL BLVD ,WDS",
+        "latitude": 37.4478922871236,
+        "longitude": -122.266398660236,
+        "units": ">E7 CM11X3 ?TAC16 >E19"
+    },
+    {
+        "id": "SF2312440",
+        "date": "2023-10-04",
+        "time": "10:49:24 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S DELAWARE ST / E 28TH AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
     },
     {
         "id": "RF2310969",
@@ -41,7 +63,7 @@
         "location": "429 HARRISON AVE #1 ,RCY",
         "latitude": 37.4807855034089,
         "longitude": -122.233870371873,
-        "units": ">T9 PR3A ?TAC15 >E13 CM11X2>BC3 >E12"
+        "units": ">T9 >PR3A ?TAC15 CM11X2 >E12"
     },
     {
         "id": "MF2308663",
@@ -53,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "MF2308662",
-        "date": "2023-10-04",
-        "time": "10:02:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #116 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
     }
 ]
