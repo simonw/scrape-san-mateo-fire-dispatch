@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2310919",
+        "date": "2023-10-04",
+        "time": "10:43:20 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESPI DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "RF2310970",
+        "date": "2023-10-04",
+        "time": "10:27:00 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALOTA RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
         "id": "CF2307024",
         "date": "2023-10-04",
         "time": "10:24:34 AM",
@@ -8,18 +30,18 @@
         "location": "BROADWAY ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "RF2310969",
         "date": "2023-10-04",
         "time": "10:20:51 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
+        "category": "Structure fire",
         "location": "429 HARRISON AVE #1 ,RCY",
         "latitude": 37.4807855034089,
         "longitude": -122.233870371873,
-        "units": "T9 BC3 E12 E13 E16CM11X2 ?TAC15"
+        "units": ">T9 PR3A ?TAC15 >E13 CM11X2>BC3 >E12"
     },
     {
         "id": "MF2308663",
@@ -41,17 +63,6 @@
         "location": "WILLOW RD #116 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2305665",
-        "date": "2023-10-04",
-        "time": "9:28:29 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD #215 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
+        "units": "E2"
     }
 ]
