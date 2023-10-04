@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2312420",
+        "date": "2023-10-03",
+        "time": "8:18:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "27 N DELAWARE ST ,SMO",
+        "latitude": 37.5702021204154,
+        "longitude": -122.323774549871,
+        "units": ">T21 >E21 BC5 ?TAC26 ?CM21X5"
+    },
+    {
+        "id": "FF2305657",
+        "date": "2023-10-03",
+        "time": "8:17:22 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FRANCISCO DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "CF2307013",
+        "date": "2023-10-03",
+        "time": "8:15:44 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "980 HAYNE RD ,HIL",
+        "latitude": 37.5557526999217,
+        "longitude": -122.354005461456,
+        "units": ">E32"
+    },
+    {
+        "id": "MF2308653",
+        "date": "2023-10-03",
+        "time": "8:11:23 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "KLAMATH DR / SHARON PARK DR",
+        "latitude": 37.424617382612,
+        "longitude": -122.211541437895,
+        "units": ">T4"
+    },
+    {
+        "id": "MF2308652",
+        "date": "2023-10-03",
+        "time": "8:10:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "965 SAN MATEO DR ,MNP",
+        "latitude": 37.4428391579262,
+        "longitude": -122.189638521661,
+        "units": ">E6"
+    },
+    {
         "id": "MF2308651",
         "date": "2023-10-03",
         "time": "8:02:30 PM",
@@ -8,7 +63,7 @@
         "location": "HAWTHORNE DR ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": ">E5"
     },
     {
         "id": "SF2312419",
@@ -19,7 +74,7 @@
         "location": "N HUMBOLDT ST #3 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "HF2302619",
@@ -30,7 +85,7 @@
         "location": "CULEBRA LN ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
+        "units": "*>E44"
     },
     {
         "id": "SF2312418",
@@ -42,60 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E23"
-    },
-    {
-        "id": "NF2310908",
-        "date": "2023-10-03",
-        "time": "7:52:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #219 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "WF2301699",
-        "date": "2023-10-03",
-        "time": "7:46:35 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAS PULGAS DR ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "RF2310951",
-        "date": "2023-10-03",
-        "time": "7:45:22 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "WF2301698",
-        "date": "2023-10-03",
-        "time": "7:42:24 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HIGH RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T4"
-    },
-    {
-        "id": "SF2312417",
-        "date": "2023-10-03",
-        "time": "7:38:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CAVANAUGH ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
     }
 ]
