@@ -1,5 +1,27 @@
 [
     {
+        "id": "HF2302622",
+        "date": "2023-10-04",
+        "time": "5:25:27 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "230 CABRILLO HWY S ,HMB",
+        "latitude": 37.4655814799176,
+        "longitude": -122.434299580299,
+        "units": ">E40"
+    },
+    {
+        "id": "BF2303490",
+        "date": "2023-10-04",
+        "time": "5:22:39 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINDEN AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "CF2307018",
         "date": "2023-10-04",
         "time": "5:05:58 AM",
@@ -8,7 +30,7 @@
         "location": "HILLSBOROUGH BLVD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E32"
+        "units": ">E32"
     },
     {
         "id": "SF2312432",
@@ -19,17 +41,6 @@
         "location": "S EL CAMINO REAL #105 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "BF2303489",
-        "date": "2023-10-04",
-        "time": "5:05:21 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LINDEN AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
+        "units": ">E23"
     }
 ]
