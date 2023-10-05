@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2311008",
+        "date": "2023-10-05",
+        "time": "7:23:15 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "SF2312485",
+        "date": "2023-10-05",
+        "time": "7:20:04 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SOUTH RD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "NF2310966",
+        "date": "2023-10-05",
+        "time": "7:17:49 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "1447 GRAND AVE ,PCF",
+        "latitude": 37.5922948767396,
+        "longitude": -122.50939432708,
+        "units": "E72"
+    },
+    {
+        "id": "RF2311007",
+        "date": "2023-10-05",
+        "time": "7:17:33 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "2913 ROOSEVELT AVE ,RCY",
+        "latitude": 37.4606485994574,
+        "longitude": -122.245311555456,
+        "units": ">BC3 >E12 T9 E9 CM11X1?TAC15"
+    },
+    {
+        "id": "RF2311006",
+        "date": "2023-10-05",
+        "time": "7:08:10 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HUDSON ST #302 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2305679",
+        "date": "2023-10-05",
+        "time": "7:06:55 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / AIRPORT BLVD OFF RAMP",
+        "latitude": 37.6697832939363,
+        "longitude": -122.392877442414,
+        "units": ">E81"
+    },
+    {
         "id": "MF2308688",
         "date": "2023-10-05",
         "time": "7:01:55 AM",
@@ -8,7 +74,7 @@
         "location": "KAVANAUGH DR ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?T2"
+        "units": ">T2"
     },
     {
         "id": "MF2308685",
@@ -19,50 +85,6 @@
         "location": "UNIVERSITY AVE / EB 84",
         "latitude": 37.4865607316772,
         "longitude": -122.142648833119,
-        "units": ">E2 >BC101 >E77 SQ401 CM11X3E5 ?VFIR22"
-    },
-    {
-        "id": "SF2312484",
-        "date": "2023-10-05",
-        "time": "6:54:30 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "3090 LOS PRADOS ST ,SMO",
-        "latitude": 37.5444842683644,
-        "longitude": -122.281573883896,
-        "units": ">E26"
-    },
-    {
-        "id": "NF2310964",
-        "date": "2023-10-05",
-        "time": "6:28:24 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN PEDRO TERRACE RD #118B ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "FF2305678",
-        "date": "2023-10-05",
-        "time": "6:28:10 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 101 / NO S AIRPORT BLVD",
-        "latitude": 37.6532145791878,
-        "longitude": -122.407115445744,
-        "units": ">Q62"
-    },
-    {
-        "id": "FF2305677",
-        "date": "2023-10-05",
-        "time": "6:22:24 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "SB 101 / NO GRAND AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": "?TAC35 >E65 >BC17 >E61 CM31X4"
+        "units": ">E2 ?VFIR22 >SQ401 CM11X3 >E77>BC101 >E5"
     }
 ]
