@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2311027",
+        "id": "WF2301715",
         "date": "2023-10-05",
-        "time": "2:00:54 PM",
+        "time": "2:17:57 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "3674 SAND HILL RD ,WDS",
+        "latitude": 37.4197934450254,
+        "longitude": -122.231781811867,
+        "units": "E7 CM11X4 ?TAC15 BC2 SQ407E19"
+    },
+    {
+        "id": "RF2311028",
+        "date": "2023-10-05",
+        "time": "2:11:48 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "LOWELL ST ,RCY",
+        "location": "WOODSIDE RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">T9"
+    },
+    {
+        "id": "CF2307057",
+        "date": "2023-10-05",
+        "time": "2:06:14 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MYRTLE RD #319 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "SF2312513",
+        "date": "2023-10-05",
+        "time": "2:05:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROXBURY WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
     },
     {
         "id": "LF2300994",
@@ -22,39 +55,6 @@
         "units": ">E86"
     },
     {
-        "id": "MF2308704",
-        "date": "2023-10-05",
-        "time": "1:59:46 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VERBENA DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "BF2303508",
-        "date": "2023-10-05",
-        "time": "1:55:48 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PARKVIEW DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "CF2307056",
-        "date": "2023-10-05",
-        "time": "1:44:57 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
         "id": "DF2302065",
         "date": "2023-10-05",
         "time": "1:25:43 PM",
@@ -63,6 +63,6 @@
         "location": "12585 SKYLINE BLVD ,KMT",
         "latitude": 37.4613630812335,
         "longitude": -122.344112404569,
-        "units": "?WTG VFIR23 >E356 >E1765 >CH11A>BC15 >BC11"
+        "units": "VFIR23 >E356 >E1765 >BC15"
     }
 ]
