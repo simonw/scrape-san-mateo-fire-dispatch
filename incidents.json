@@ -1,14 +1,69 @@
 [
     {
-        "id": "LF2300990",
+        "id": "SF2312463",
         "date": "2023-10-04",
-        "time": "6:02:32 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "6:38:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ST ,BRD",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E86"
+        "units": "E23"
+    },
+    {
+        "id": "NF2310945",
+        "date": "2023-10-04",
+        "time": "6:35:02 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "6543 MISSION ST ,DCY",
+        "latitude": 37.7034623133302,
+        "longitude": -122.462761044657,
+        "units": ">E92"
+    },
+    {
+        "id": "NF2310944",
+        "date": "2023-10-04",
+        "time": "6:33:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SKYLINE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "RF2310989",
+        "date": "2023-10-04",
+        "time": "6:33:26 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "450 BROADWAY ,RCY",
+        "latitude": 37.485506485559,
+        "longitude": -122.2041006719,
+        "units": ">E11"
+    },
+    {
+        "id": "FF2305672",
+        "date": "2023-10-04",
+        "time": "6:14:21 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO S AIRPORT BLVD",
+        "latitude": 37.6433298173213,
+        "longitude": -122.406001905655,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2310941",
+        "date": "2023-10-04",
+        "time": "6:08:35 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SURREY CT ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "DF2302062",
@@ -19,50 +74,6 @@
         "location": "3240 BEAR GULCH RD ,SKY",
         "latitude": 37.3643858634586,
         "longitude": -122.320039359294,
-        "units": "E58 ?TAC45 ?CO56"
-    },
-    {
-        "id": "HF2302635",
-        "date": "2023-10-04",
-        "time": "5:48:12 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "160 CREEKSIDE DR ,HMB",
-        "latitude": 37.4287963515715,
-        "longitude": -122.432436676622,
-        "units": ">E40"
-    },
-    {
-        "id": "WF2301711",
-        "date": "2023-10-04",
-        "time": "5:38:17 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LOS TRANCOS RD ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "SF2312462",
-        "date": "2023-10-04",
-        "time": "5:37:38 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TILTON TE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "NF2310937",
-        "date": "2023-10-04",
-        "time": "5:18:32 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PONCETTA DR #223 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E91"
+        "units": "TAC45 >E56 >E58"
     }
 ]
