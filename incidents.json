@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2305684",
+        "date": "2023-10-05",
+        "time": "11:17:39 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Tree down",
+        "location": "B ST / W ORANGE AVE",
+        "latitude": 37.6509560227313,
+        "longitude": -122.428892573375,
+        "units": ">E63"
+    },
+    {
+        "id": "CF2307053",
+        "date": "2023-10-05",
+        "time": "11:06:25 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #A ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
         "id": "RF2311016",
         "date": "2023-10-05",
         "time": "11:04:54 AM",
@@ -8,7 +30,18 @@
         "location": "BREWSTER AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
+        "units": ">T9"
+    },
+    {
+        "id": "SF2312501",
+        "date": "2023-10-05",
+        "time": "11:03:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR #UC ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
     },
     {
         "id": "MF2308700",
@@ -19,29 +52,7 @@
         "location": "O'CONNOR ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
-    },
-    {
-        "id": "BF2303506",
-        "date": "2023-10-05",
-        "time": "11:01:26 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLEGE DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "LF2300993",
-        "date": "2023-10-05",
-        "time": "10:59:03 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MADDUX DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86 MED19"
+        "units": ">E77"
     },
     {
         "id": "SF2312500",
@@ -52,7 +63,7 @@
         "location": "ROYAL AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": "E26"
     },
     {
         "id": "SF2312497",
@@ -63,7 +74,7 @@
         "location": "S SAN MATEO DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": ""
     },
     {
         "id": "CF2307052",
@@ -75,60 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E35"
-    },
-    {
-        "id": "MF2308699",
-        "date": "2023-10-05",
-        "time": "10:47:18 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "WATKINS AVE / EL CAMINO REAL",
-        "latitude": 37.4598661390598,
-        "longitude": -122.195616899664,
-        "units": "CM11X1 >SQ401 >E3 >BC1 ?TAC16"
-    },
-    {
-        "id": "CF2307051",
-        "date": "2023-10-05",
-        "time": "10:46:32 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "55 SOUTHDOWN CT ,HIL",
-        "latitude": 37.5438867970628,
-        "longitude": -122.352723524078,
-        "units": ""
-    },
-    {
-        "id": "SF2312496",
-        "date": "2023-10-05",
-        "time": "10:42:42 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #123 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "FF2305683",
-        "date": "2023-10-05",
-        "time": "10:39:43 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "SB 101 / GRAND AVE OFF RAMP",
-        "latitude": 37.6564712180285,
-        "longitude": -122.406514811106,
-        "units": ">E61"
-    },
-    {
-        "id": "CF2307050",
-        "date": "2023-10-05",
-        "time": "10:36:03 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MANGINI WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
     }
 ]
