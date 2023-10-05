@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2312493",
+        "date": "2023-10-05",
+        "time": "10:01:47 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "2156 CARLMONT DR ,BLM",
+        "latitude": 37.5096964928001,
+        "longitude": -122.295687239415,
+        "units": "?E13"
+    },
+    {
+        "id": "RF2311014",
+        "date": "2023-10-05",
+        "time": "9:46:06 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1645 JAMES AVE ,RCY",
+        "latitude": 37.4739176731723,
+        "longitude": -122.245770285453,
+        "units": ">E10"
+    },
+    {
         "id": "HF2302640",
         "date": "2023-10-05",
         "time": "9:42:44 AM",
@@ -8,7 +30,7 @@
         "location": "ACACIA ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": "?E44"
+        "units": ">E44"
     },
     {
         "id": "NF2310973",
@@ -19,7 +41,7 @@
         "location": "CRESPI DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E172"
+        "units": ">E172"
     },
     {
         "id": "SF2312492",
@@ -30,7 +52,7 @@
         "location": "COVINGTON RD ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "NF2310972",
@@ -41,29 +63,7 @@
         "location": "HARBOR DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "T95"
-    },
-    {
-        "id": "SF2312491",
-        "date": "2023-10-05",
-        "time": "9:37:44 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "640 CONCAR DR ,SMO",
-        "latitude": 37.5534480453507,
-        "longitude": -122.30458435228,
-        "units": "E23"
-    },
-    {
-        "id": "NF2310971",
-        "date": "2023-10-05",
-        "time": "9:28:42 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HARBOR DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">T95"
     },
     {
         "id": "CF2307047",
@@ -75,27 +75,5 @@
         "latitude": 37.5860877686021,
         "longitude": -122.339814241067,
         "units": ">T34"
-    },
-    {
-        "id": "RF2311013",
-        "date": "2023-10-05",
-        "time": "9:27:08 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "299 FRANKLIN ST ,RCY",
-        "latitude": 37.4828959364743,
-        "longitude": -122.227852742834,
-        "units": ">T9 CM11X2 >E10 ?TAC16"
-    },
-    {
-        "id": "RF2311012",
-        "date": "2023-10-05",
-        "time": "9:12:51 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Gas main break",
-        "location": "2525 EL CAMINO REAL ,RCY",
-        "latitude": 37.4738663872634,
-        "longitude": -122.217210790496,
-        "units": ">E3"
     }
 ]
