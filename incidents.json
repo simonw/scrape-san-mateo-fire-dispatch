@@ -1,5 +1,104 @@
 [
     {
+        "id": "RF2311016",
+        "date": "2023-10-05",
+        "time": "11:04:54 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BREWSTER AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T9"
+    },
+    {
+        "id": "MF2308700",
+        "date": "2023-10-05",
+        "time": "11:01:42 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "O'CONNOR ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "BF2303506",
+        "date": "2023-10-05",
+        "time": "11:01:26 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "COLLEGE DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "LF2300993",
+        "date": "2023-10-05",
+        "time": "10:59:03 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MADDUX DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86 MED19"
+    },
+    {
+        "id": "SF2312500",
+        "date": "2023-10-05",
+        "time": "10:56:31 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROYAL AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "SF2312497",
+        "date": "2023-10-05",
+        "time": "10:51:38 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "CF2307052",
+        "date": "2023-10-05",
+        "time": "10:48:33 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "MF2308699",
+        "date": "2023-10-05",
+        "time": "10:47:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WATKINS AVE / EL CAMINO REAL",
+        "latitude": 37.4598661390598,
+        "longitude": -122.195616899664,
+        "units": "CM11X1 >SQ401 >E3 >BC1 ?TAC16"
+    },
+    {
+        "id": "CF2307051",
+        "date": "2023-10-05",
+        "time": "10:46:32 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "55 SOUTHDOWN CT ,HIL",
+        "latitude": 37.5438867970628,
+        "longitude": -122.352723524078,
+        "units": ""
+    },
+    {
         "id": "SF2312496",
         "date": "2023-10-05",
         "time": "10:42:42 AM",
@@ -8,18 +107,7 @@
         "location": "BALDWIN AVE #123 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E21"
-    },
-    {
-        "id": "NF2310974",
-        "date": "2023-10-05",
-        "time": "10:41:46 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
+        "units": ">E21"
     },
     {
         "id": "FF2305683",
@@ -30,18 +118,7 @@
         "location": "SB 101 / GRAND AVE OFF RAMP",
         "latitude": 37.6564712180285,
         "longitude": -122.406514811106,
-        "units": "E61"
-    },
-    {
-        "id": "RF2311015",
-        "date": "2023-10-05",
-        "time": "10:36:04 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "CARMELITA DR / ALAMEDA DE LAS PULGAS",
-        "latitude": 37.5017784940647,
-        "longitude": -122.270623383718,
-        "units": ">E16 BC3 T9 CM11X5 ?TAC15"
+        "units": ">E61"
     },
     {
         "id": "CF2307050",
@@ -52,39 +129,6 @@
         "location": "MANGINI WAY ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2312495",
-        "date": "2023-10-05",
-        "time": "10:33:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HARBOR BLVD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "MF2308698",
-        "date": "2023-10-05",
-        "time": "10:31:50 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "771 18TH AVE ,NFO",
-        "latitude": 37.4748749518318,
-        "longitude": -122.189154568616,
-        "units": ">E5"
-    },
-    {
-        "id": "FF2305682",
-        "date": "2023-10-05",
-        "time": "10:27:17 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "62 OAK AVE ,SSF",
-        "latitude": 37.6578387480354,
-        "longitude": -122.433652681951,
-        "units": ">E63"
+        "units": "E34"
     }
 ]
