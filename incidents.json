@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2311005",
+        "id": "MF2308688",
         "date": "2023-10-05",
-        "time": "6:41:09 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "7:01:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "POPLAR AVE ,RCY",
+        "location": "KAVANAUGH DR ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": "?T2"
+    },
+    {
+        "id": "MF2308685",
+        "date": "2023-10-05",
+        "time": "6:54:48 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Grass fire",
+        "location": "UNIVERSITY AVE / EB 84",
+        "latitude": 37.4865607316772,
+        "longitude": -122.142648833119,
+        "units": ">E2 >BC101 >E77 SQ401 CM11X3E5 ?VFIR22"
+    },
+    {
+        "id": "SF2312484",
+        "date": "2023-10-05",
+        "time": "6:54:30 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "3090 LOS PRADOS ST ,SMO",
+        "latitude": 37.5444842683644,
+        "longitude": -122.281573883896,
+        "units": ">E26"
     },
     {
         "id": "NF2310964",
@@ -30,29 +52,7 @@
         "location": "SB 101 / NO S AIRPORT BLVD",
         "latitude": 37.6532145791878,
         "longitude": -122.407115445744,
-        "units": "CM31X5 >Q62 BC17 ?TAC36"
-    },
-    {
-        "id": "CF2307042",
-        "date": "2023-10-05",
-        "time": "6:25:54 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #320 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "LF2300991",
-        "date": "2023-10-05",
-        "time": "6:24:09 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HILLSIDE BLVD #SOUTH END ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
+        "units": ">Q62"
     },
     {
         "id": "FF2305677",
@@ -63,6 +63,6 @@
         "location": "SB 101 / NO GRAND AVE",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC35 >E65 >E61 CM31X4"
+        "units": "?TAC35 >E65 >BC17 >E61 CM31X4"
     }
 ]
