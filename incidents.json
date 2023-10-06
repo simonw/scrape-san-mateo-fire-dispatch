@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2308717",
+        "date": "2023-10-05",
+        "time": "7:35:37 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "SF2312538",
+        "date": "2023-10-05",
+        "time": "7:34:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "NF2311004",
+        "date": "2023-10-05",
+        "time": "7:33:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROCKRIDGE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "BF2303513",
+        "date": "2023-10-05",
+        "time": "7:32:47 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GOODWIN DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "FF2305692",
+        "date": "2023-10-05",
+        "time": "7:30:37 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GREENDALE DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "NF2311003",
         "date": "2023-10-05",
         "time": "7:23:19 PM",
@@ -8,18 +63,7 @@
         "location": "CORDOVA ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
-    },
-    {
-        "id": "MF2308715",
-        "date": "2023-10-05",
-        "time": "7:21:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1805 E BAYSHORE RD ,EPA",
-        "latitude": 37.456882075852,
-        "longitude": -122.133305178237,
-        "units": "T2"
+        "units": ">E93"
     },
     {
         "id": "SF2312537",
@@ -30,18 +74,7 @@
         "location": "688 MARINERS ISLAND BLVD #204 ,SMO",
         "latitude": 37.5640052922603,
         "longitude": -122.285284514192,
-        "units": "E28"
-    },
-    {
-        "id": "SF2312536",
-        "date": "2023-10-05",
-        "time": "7:18:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "3409 LEAFWOOD CT ,SMO",
-        "latitude": 37.5219443892561,
-        "longitude": -122.328149769417,
-        "units": ">E27"
+        "units": ">E28"
     },
     {
         "id": "RF2311048",
@@ -55,17 +88,6 @@
         "units": ">E11"
     },
     {
-        "id": "SF2312535",
-        "date": "2023-10-05",
-        "time": "7:16:32 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1644 CELESTE DR ,SMO",
-        "latitude": 37.5569919450366,
-        "longitude": -122.305098059393,
-        "units": ">E24"
-    },
-    {
         "id": "CF2307066",
         "date": "2023-10-05",
         "time": "7:15:50 PM",
@@ -74,18 +96,7 @@
         "location": "TROUSDALE DR #417 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "CF2307065",
-        "date": "2023-10-05",
-        "time": "7:06:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1062A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ""
     },
     {
         "id": "SF2312534",
@@ -96,7 +107,7 @@
         "location": "BRIAR LN ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
+        "units": ""
     },
     {
         "id": "CF2307064",
@@ -108,16 +119,5 @@
         "latitude": 37.5848991361522,
         "longitude": -122.365738926833,
         "units": "CM21X3 >T34 ?TAC25 >E34"
-    },
-    {
-        "id": "RF2311047",
-        "date": "2023-10-05",
-        "time": "6:45:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "REDWOOD SHORES PKWY ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
     }
 ]
