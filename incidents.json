@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2312569",
+        "id": "MF2308748",
         "date": "2023-10-06",
-        "time": "2:39:52 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:03:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MONTE DIABLO AVE ,SMO",
+        "location": "GREEN ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
+        "units": "T2"
+    },
+    {
+        "id": "MF2308747",
+        "date": "2023-10-06",
+        "time": "2:57:49 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL CT #4208 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2307080",
+        "date": "2023-10-06",
+        "time": "2:51:02 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "1742 ESCALANTE WAY ,BRM",
+        "latitude": 37.5801580240241,
+        "longitude": -122.400715999439,
+        "units": ">E38"
     },
     {
         "id": "CF2307079",
@@ -19,18 +41,7 @@
         "location": "HOWARD AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E33"
-    },
-    {
-        "id": "NF2311030",
-        "date": "2023-10-06",
-        "time": "2:37:34 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HIGATE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">E34"
     },
     {
         "id": "CF2307078",
@@ -41,18 +52,7 @@
         "location": "400 UPLANDS DR ,HIL",
         "latitude": 37.5579499528827,
         "longitude": -122.338812199499,
-        "units": "BC8 CM21X2 >E32 ?TAC25 >E21>T21"
-    },
-    {
-        "id": "SF2312568",
-        "date": "2023-10-06",
-        "time": "2:32:18 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": ">BC8 CM21X2 >E32 ?TAC25 >E21>T21"
     },
     {
         "id": "FF2305713",
@@ -75,16 +75,5 @@
         "latitude": 37.6250379756633,
         "longitude": -122.433094033756,
         "units": ">E52"
-    },
-    {
-        "id": "DF2302077",
-        "date": "2023-10-06",
-        "time": "11:41:07 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SKYLINE BLVD / CRYSTAL SPRINGS RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
     }
 ]
