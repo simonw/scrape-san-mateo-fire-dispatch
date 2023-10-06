@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2305706",
+        "date": "2023-10-06",
+        "time": "10:56:00 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HILLSIDE BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "MF2308739",
+        "date": "2023-10-06",
+        "time": "10:55:08 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SARATOGA AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "MF2308740",
+        "date": "2023-10-06",
+        "time": "10:53:23 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2900 SAND HILL RD ,MNP",
+        "latitude": 37.4211482055911,
+        "longitude": -122.217544205533,
+        "units": ">E4"
+    },
+    {
         "id": "BF2303524",
         "date": "2023-10-06",
         "time": "10:42:00 AM",
@@ -8,18 +41,7 @@
         "location": "ROSEWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "RF2311060",
-        "date": "2023-10-06",
-        "time": "10:39:17 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NB 101 / SO HOLLY ST",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9 ?TAC15 CM11X3 E13"
+        "units": ">E61"
     },
     {
         "id": "BF2303523",
@@ -30,7 +52,7 @@
         "location": "773 JENEVEIN AVE ,SNB",
         "latitude": 37.6222146712259,
         "longitude": -122.413735920022,
-        "units": "?TAC35 >E51 >CM31X2 >E52 >BC16E61 >T51"
+        "units": "?TAC35 >CM31X2 >BC16"
     },
     {
         "id": "DF2302076",
@@ -42,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "HF2302649",
-        "date": "2023-10-06",
-        "time": "10:31:09 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "2400 CABRILLO HWY S ,HMB",
-        "latitude": 37.4332386139309,
-        "longitude": -122.428076876315,
-        "units": ">E17 >E40"
-    },
-    {
-        "id": "DF2302075",
-        "date": "2023-10-06",
-        "time": "10:30:13 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "6 BLACKHAWK LN ,BRH",
-        "latitude": 37.5823438510736,
-        "longitude": -122.38677856746,
-        "units": ">E35"
     }
 ]
