@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2311120",
+        "id": "SF2312617",
         "date": "2023-10-07",
-        "time": "4:02:14 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "4:23:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E HILLSDALE BLVD #100 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "NF2311082",
+        "date": "2023-10-07",
+        "time": "4:22:57 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ODDSTAD BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E72"
+    },
+    {
+        "id": "SF2312616",
+        "date": "2023-10-07",
+        "time": "4:17:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1923 HILLMAN AVE ,BLM",
+        "latitude": 37.5212973807901,
+        "longitude": -122.294932100831,
+        "units": "BC5 E15 T23 CM11X3 ?TAC17"
+    },
+    {
+        "id": "WF2301727",
+        "date": "2023-10-07",
+        "time": "4:10:58 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Traffic accident pd request c3",
-        "location": "SB 101 / NO WHIPPLE AVE",
-        "latitude": 37.501502985081,
-        "longitude": -122.242206420289,
-        "units": "T9 E13 E9 BC5 CM11X5?TAC16"
+        "location": "PORTOLA RD / FAMILY FARM DR  ,WDS",
+        "latitude": 37.3911471145759,
+        "longitude": -122.240777735871,
+        "units": ">E7 >BC2 ?TAC16 CM11X2 >E8"
     },
     {
         "id": "NF2311081",
@@ -19,7 +52,7 @@
         "location": "FRANCISCAN DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     },
     {
         "id": "BF2303549",
@@ -30,40 +63,7 @@
         "location": "3300 COLLEGE DR ,SNB",
         "latitude": 37.6297229529346,
         "longitude": -122.466494512477,
-        "units": "E52"
-    },
-    {
-        "id": "SF2312614",
-        "date": "2023-10-07",
-        "time": "3:53:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAURIE MEADOWS DR #504 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2312613",
-        "date": "2023-10-07",
-        "time": "3:52:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE #527 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "HF2302667",
-        "date": "2023-10-07",
-        "time": "3:36:25 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TROON WAY ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
+        "units": ""
     },
     {
         "id": "FF2305738",
@@ -74,7 +74,7 @@
         "location": "FRANKLIN AVE / HILLSIDE BLVD",
         "latitude": 37.6663392427151,
         "longitude": -122.412383116532,
-        "units": ">TAC35 >Q62 >E65 >BC17 >CM31X4"
+        "units": ">E65"
     },
     {
         "id": "MF2308788",
