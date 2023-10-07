@@ -1,5 +1,104 @@
 [
     {
+        "id": "RF2311112",
+        "date": "2023-10-07",
+        "time": "11:42:55 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BEECH ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "MF2308777",
+        "date": "2023-10-07",
+        "time": "11:39:49 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BURGESS DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "DF2302083",
+        "date": "2023-10-07",
+        "time": "11:38:31 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "12585 SKYLINE BLVD ,KMT",
+        "latitude": 37.4613630812335,
+        "longitude": -122.344112404569,
+        "units": "WT156"
+    },
+    {
+        "id": "HF2302663",
+        "date": "2023-10-07",
+        "time": "11:37:37 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LEWIS FOSTER DR ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "CF2307093",
+        "date": "2023-10-07",
+        "time": "11:35:57 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Tree down",
+        "location": "MARLBOROUGH RD / KENILWORTH RD",
+        "latitude": 37.5521289926508,
+        "longitude": -122.354557032215,
+        "units": "E32"
+    },
+    {
+        "id": "SF2312604",
+        "date": "2023-10-07",
+        "time": "11:35:07 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2312603",
+        "date": "2023-10-07",
+        "time": "11:34:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #616 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "FF2305735",
+        "date": "2023-10-07",
+        "time": "11:28:17 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "DEL MONTE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "MF2308775",
+        "date": "2023-10-07",
+        "time": "11:25:50 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL RD / W BAYSHORE RD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
         "id": "RF2311111",
         "date": "2023-10-07",
         "time": "11:23:23 AM",
@@ -8,18 +107,7 @@
         "location": "FLORENCE ST / 17TH AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
-    },
-    {
-        "id": "SF2312601",
-        "date": "2023-10-07",
-        "time": "11:21:25 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #103 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E14"
+        "units": ">E5"
     },
     {
         "id": "FF2305734",
@@ -30,72 +118,6 @@
         "location": "200 LINDEN AVE ,SSF",
         "latitude": 37.6543916091127,
         "longitude": -122.410082420916,
-        "units": "Q62"
-    },
-    {
-        "id": "RF2311110",
-        "date": "2023-10-07",
-        "time": "11:18:25 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARSHALL ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2312600",
-        "date": "2023-10-07",
-        "time": "11:18:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE / S EL CAMINO REAL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "MF2308774",
-        "date": "2023-10-07",
-        "time": "11:05:40 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SANTA RITA AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "SF2312599",
-        "date": "2023-10-07",
-        "time": "11:03:24 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "NF2311071",
-        "date": "2023-10-07",
-        "time": "10:59:57 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "GENEVA AVE / BAYSHORE BLVD",
-        "latitude": 37.7046537247872,
-        "longitude": -122.406962134702,
-        "units": ">E93"
-    },
-    {
-        "id": "CF2307092",
-        "date": "2023-10-07",
-        "time": "10:58:52 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">Q62"
     }
 ]
