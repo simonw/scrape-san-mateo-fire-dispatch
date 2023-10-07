@@ -1,14 +1,80 @@
 [
     {
-        "id": "HF2302666",
+        "id": "FF2305738",
         "date": "2023-10-07",
-        "time": "2:34:21 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "3:23:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "FRANKLIN AVE / HILLSIDE BLVD",
+        "latitude": 37.6663392427151,
+        "longitude": -122.412383116532,
+        "units": "?TAC35 Q62 BC17 ?E65 CM31X4"
+    },
+    {
+        "id": "MF2308788",
+        "date": "2023-10-07",
+        "time": "3:16:25 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "92 JENNINGS LN ,ATN",
+        "latitude": 37.4666020064264,
+        "longitude": -122.201090984282,
+        "units": "CM11X1 E5 ?TAC15 >E3"
+    },
+    {
+        "id": "SF2312612",
+        "date": "2023-10-07",
+        "time": "3:15:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "LEWIS FOSTER DR ,HMB",
+        "location": "N EL CAMINO REAL #12 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": ">E21"
+    },
+    {
+        "id": "RF2311118",
+        "date": "2023-10-07",
+        "time": "3:15:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MELENDY DR ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
+        "id": "FF2305737",
+        "date": "2023-10-07",
+        "time": "3:13:32 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Odor investigation",
+        "location": "619 LINDEN AVE #7 ,SSF",
+        "latitude": 37.6588091823216,
+        "longitude": -122.40920764208,
+        "units": ">E61"
+    },
+    {
+        "id": "BF2303548",
+        "date": "2023-10-07",
+        "time": "3:13:23 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WHITMAN WAY ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "MF2308787",
+        "date": "2023-10-07",
+        "time": "3:11:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1805 E BAYSHORE RD ,EPA",
+        "latitude": 37.456882075852,
+        "longitude": -122.133305178237,
+        "units": ">E2"
     },
     {
         "id": "RF2311115",
@@ -19,6 +85,6 @@
         "location": "TRUE WIND WAY #613 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9 E9"
+        "units": ""
     }
 ]
