@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2311111",
+        "date": "2023-10-07",
+        "time": "11:23:23 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FLORENCE ST / 17TH AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "SF2312601",
+        "date": "2023-10-07",
+        "time": "11:21:25 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #103 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "FF2305734",
+        "date": "2023-10-07",
+        "time": "11:20:18 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "200 LINDEN AVE ,SSF",
+        "latitude": 37.6543916091127,
+        "longitude": -122.410082420916,
+        "units": "Q62"
+    },
+    {
+        "id": "RF2311110",
+        "date": "2023-10-07",
+        "time": "11:18:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARSHALL ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2312600",
+        "date": "2023-10-07",
+        "time": "11:18:00 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE / S EL CAMINO REAL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "MF2308774",
+        "date": "2023-10-07",
+        "time": "11:05:40 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SANTA RITA AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "SF2312599",
         "date": "2023-10-07",
         "time": "11:03:24 AM",
@@ -8,7 +74,7 @@
         "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "NF2311071",
@@ -31,93 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "RF2311106",
-        "date": "2023-10-07",
-        "time": "10:55:31 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "296 LAUREL ST ,SNC",
-        "latitude": 37.5101284681366,
-        "longitude": -122.26574241689,
-        "units": ">E16"
-    },
-    {
-        "id": "SF2312598",
-        "date": "2023-10-07",
-        "time": "10:50:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2311070",
-        "date": "2023-10-07",
-        "time": "10:50:28 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, ladder request",
-        "location": "163 MONTEREY ST ,BRS",
-        "latitude": 37.6833352080287,
-        "longitude": -122.400473907573,
-        "units": ">E81"
-    },
-    {
-        "id": "RF2311105",
-        "date": "2023-10-07",
-        "time": "10:46:14 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VETERANS BLVD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
-    },
-    {
-        "id": "NF2311069",
-        "date": "2023-10-07",
-        "time": "10:46:08 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "STATION AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "RF2311104",
-        "date": "2023-10-07",
-        "time": "10:45:22 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2312597",
-        "date": "2023-10-07",
-        "time": "10:31:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEXTANT CT ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "NF2311065",
-        "date": "2023-10-07",
-        "time": "7:47:22 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "245 LAKE MERCED BLVD ,DCY",
-        "latitude": 37.6997398109049,
-        "longitude": -122.483603140001,
-        "units": ">PR20A"
     }
 ]
