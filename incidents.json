@@ -1,5 +1,71 @@
 [
     {
+        "id": "HF2302667",
+        "date": "2023-10-07",
+        "time": "3:36:25 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TROON WAY ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "FF2305739",
+        "date": "2023-10-07",
+        "time": "3:35:21 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CIRCLE CT ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "NF2311080",
+        "date": "2023-10-07",
+        "time": "3:33:43 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2311119",
+        "date": "2023-10-07",
+        "time": "3:32:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MADRONE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2311079",
+        "date": "2023-10-07",
+        "time": "3:31:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "249 CALAVERAS AVE ,PCF",
+        "latitude": 37.6101676331381,
+        "longitude": -122.472034566662,
+        "units": "E71"
+    },
+    {
+        "id": "NF2311078",
+        "date": "2023-10-07",
+        "time": "3:30:52 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "FF2305738",
         "date": "2023-10-07",
         "time": "3:23:20 PM",
@@ -8,7 +74,7 @@
         "location": "FRANKLIN AVE / HILLSIDE BLVD",
         "latitude": 37.6663392427151,
         "longitude": -122.412383116532,
-        "units": "?TAC35 Q62 BC17 ?E65 CM31X4"
+        "units": ">TAC35 >Q62 >E65 >BC17 >CM31X4"
     },
     {
         "id": "MF2308788",
@@ -19,7 +85,7 @@
         "location": "92 JENNINGS LN ,ATN",
         "latitude": 37.4666020064264,
         "longitude": -122.201090984282,
-        "units": "CM11X1 E5 ?TAC15 >E3"
+        "units": "E77 >BC3 PR1C >E5 CM11X1?TAC15 >E3"
     },
     {
         "id": "SF2312612",
@@ -31,60 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "RF2311118",
-        "date": "2023-10-07",
-        "time": "3:15:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MELENDY DR ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "FF2305737",
-        "date": "2023-10-07",
-        "time": "3:13:32 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "619 LINDEN AVE #7 ,SSF",
-        "latitude": 37.6588091823216,
-        "longitude": -122.40920764208,
-        "units": ">E61"
-    },
-    {
-        "id": "BF2303548",
-        "date": "2023-10-07",
-        "time": "3:13:23 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WHITMAN WAY ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E52"
-    },
-    {
-        "id": "MF2308787",
-        "date": "2023-10-07",
-        "time": "3:11:44 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1805 E BAYSHORE RD ,EPA",
-        "latitude": 37.456882075852,
-        "longitude": -122.133305178237,
-        "units": ">E2"
-    },
-    {
-        "id": "RF2311115",
-        "date": "2023-10-07",
-        "time": "1:54:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TRUE WIND WAY #613 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
