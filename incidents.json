@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2308800",
+        "date": "2023-10-07",
+        "time": "11:00:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RUNNYMEDE ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "FF2305745",
+        "date": "2023-10-07",
+        "time": "10:57:39 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "670 GATEWAY BLVD ,SSF",
+        "latitude": 37.6577318453578,
+        "longitude": -122.397349346191,
+        "units": ">E61 >Q62 >BC17 E51 CM31X5E81 ?TAC35"
+    },
+    {
         "id": "FF2305744",
         "date": "2023-10-07",
         "time": "10:41:07 PM",
@@ -8,7 +30,7 @@
         "location": "MADRONE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E81"
+        "units": ">E65"
     },
     {
         "id": "NF2311095",
@@ -20,27 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T95 >E95 CM31X2"
-    },
-    {
-        "id": "FF2305743",
-        "date": "2023-10-07",
-        "time": "10:30:35 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "329 MILLER AVE ,SSF",
-        "latitude": 37.6561781748417,
-        "longitude": -122.411202842242,
-        "units": "?TAC35 CM31X1 >Q62"
-    },
-    {
-        "id": "MF2308799",
-        "date": "2023-10-07",
-        "time": "10:29:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "105 5TH AVE #3 ,NFO",
-        "latitude": 37.469072634978,
-        "longitude": -122.207633330638,
-        "units": ">E3"
     }
 ]
