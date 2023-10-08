@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2312644",
+        "id": "NF2311105",
         "date": "2023-10-08",
-        "time": "10:23:33 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:39:50 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "4475 CABRILLO HWY ,PCF",
+        "latitude": 37.6087904063929,
+        "longitude": -122.494573810567,
+        "units": "E72"
+    },
+    {
+        "id": "CF2307113",
+        "date": "2023-10-08",
+        "time": "10:36:26 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "1552 CAROL AVE ,BRM",
+        "latitude": 37.5732231831304,
+        "longitude": -122.345287640783,
+        "units": "T34"
+    },
+    {
+        "id": "LF2301003",
+        "date": "2023-10-08",
+        "time": "10:29:57 AM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "S FREMONT ST #408 ,SMO",
+        "location": "COLLINS AVE #23 ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">MED19 >E86 CM31X1"
     },
     {
         "id": "HF2302676",
@@ -19,17 +41,6 @@
         "location": "MARINE BLVD #NURSE ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
-    },
-    {
-        "id": "BF2303555",
-        "date": "2023-10-08",
-        "time": "10:08:20 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": "*>E41"
     }
 ]
