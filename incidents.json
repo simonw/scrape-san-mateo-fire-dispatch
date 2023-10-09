@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2312695",
+        "id": "NF2311152",
         "date": "2023-10-09",
-        "time": "10:23:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "11 S DELAWARE ST ,SMO",
-        "latitude": 37.5697336800066,
-        "longitude": -122.322451672255,
-        "units": "E21"
+        "time": "10:37:59 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "1518 CRESPI DR ,PCF",
+        "latitude": 37.597844380559,
+        "longitude": -122.482172649658,
+        "units": "E72"
+    },
+    {
+        "id": "DF2302105",
+        "date": "2023-10-09",
+        "time": "10:37:40 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HILLSIDE DR ,BRH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "RF2311185",
+        "date": "2023-10-09",
+        "time": "10:34:49 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "299 FRANKLIN ST ,RCY",
+        "latitude": 37.4828959364743,
+        "longitude": -122.227852742834,
+        "units": "CM11X4 >E11 T4 >E9 ?TAC15>BC3 >E10"
     },
     {
         "id": "SF2312694",
@@ -42,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E20"
-    },
-    {
-        "id": "MF2308832",
-        "date": "2023-10-09",
-        "time": "10:04:14 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #P15B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "DF2302104",
-        "date": "2023-10-09",
-        "time": "10:01:35 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MORELAND DR ,SON",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "WF2301735",
-        "date": "2023-10-09",
-        "time": "9:43:20 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "4200 FARM HILL BLVD ,WDS",
-        "latitude": 37.4478922871236,
-        "longitude": -122.266398660236,
-        "units": "?TAC15 CM11X5"
     }
 ]
