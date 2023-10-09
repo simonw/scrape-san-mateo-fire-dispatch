@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2312704",
+        "date": "2023-10-09",
+        "time": "1:20:18 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "720 MARLIN AVE ,FCY",
+        "latitude": 37.5535997092451,
+        "longitude": -122.253551290346,
+        "units": "E26"
+    },
+    {
+        "id": "BF2303563",
+        "date": "2023-10-09",
+        "time": "1:16:50 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1000 NATIONAL AVE ,SNB",
+        "latitude": 37.6330851842369,
+        "longitude": -122.421275946215,
+        "units": ">E51"
+    },
+    {
+        "id": "FF2305772",
+        "date": "2023-10-09",
+        "time": "1:09:38 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "264 S AIRPORT BLVD ,SSF",
+        "latitude": 37.6473532841139,
+        "longitude": -122.405883874304,
+        "units": ">Q62"
+    },
+    {
+        "id": "SF2312703",
+        "date": "2023-10-09",
+        "time": "1:09:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "1151 COMPASS LN #110 ,FCY",
+        "latitude": 37.5496783505199,
+        "longitude": -122.254021358975,
+        "units": "BC5 CM21X2 TAC25 >E28 >T23"
+    },
+    {
         "id": "RF2311192",
         "date": "2023-10-09",
         "time": "1:02:50 PM",
@@ -8,18 +52,7 @@
         "location": "WOODSIDE RD #2322 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "FF2305771",
-        "date": "2023-10-09",
-        "time": "1:02:07 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "450 CABOT RD ,SSF",
-        "latitude": 37.6541977625154,
-        "longitude": -122.392494711469,
-        "units": "Q62"
+        "units": ""
     },
     {
         "id": "RF2311191",
@@ -30,7 +63,7 @@
         "location": "WALNUT ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
+        "units": ">T9"
     },
     {
         "id": "SF2312702",
@@ -41,50 +74,6 @@
         "location": "PITCAIRN DR ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "MF2308837",
-        "date": "2023-10-09",
-        "time": "12:56:23 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "BF2303561",
-        "date": "2023-10-09",
-        "time": "12:55:00 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHAPMAN AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "DF2302107",
-        "date": "2023-10-09",
-        "time": "12:47:29 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CREST DR ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "MF2308836",
-        "date": "2023-10-09",
-        "time": "12:42:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VALPARAISO AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "units": ">E29"
     }
 ]
