@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2308876",
+        "date": "2023-10-10",
+        "time": "8:01:57 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1243 LAUREL ST #B ,MNP",
+        "latitude": 37.4573267407411,
+        "longitude": -122.183299094016,
+        "units": "E6"
+    },
+    {
+        "id": "RF2311239",
+        "date": "2023-10-10",
+        "time": "8:01:12 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PASSAGE LN ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14 >E20 ?CM11X1"
+    },
+    {
+        "id": "SF2312767",
+        "date": "2023-10-10",
+        "time": "7:55:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S B ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2312766",
+        "date": "2023-10-10",
+        "time": "7:53:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "128 N EL CAMINO REAL ,SMO",
+        "latitude": 37.5678257507474,
+        "longitude": -122.330683903845,
+        "units": ">T21"
+    },
+    {
+        "id": "FF2305804",
+        "date": "2023-10-10",
+        "time": "7:53:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE #116 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "NF2311196",
+        "date": "2023-10-10",
+        "time": "7:52:24 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "FF2305803",
         "date": "2023-10-10",
         "time": "7:42:19 PM",
@@ -8,61 +74,6 @@
         "location": "CYPRESS AVE / CALIFORNIA AVE",
         "latitude": 37.6576282873546,
         "longitude": -122.40715603675,
-        "units": "E61 Q62 BC17 TAC35 CM31X3"
-    },
-    {
-        "id": "RF2311238",
-        "date": "2023-10-10",
-        "time": "7:34:22 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CANYON RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "CF2307167",
-        "date": "2023-10-10",
-        "time": "7:27:27 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CADILLAC WAY #308 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2311195",
-        "date": "2023-10-10",
-        "time": "7:18:19 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SCHWERIN ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "RF2311237",
-        "date": "2023-10-10",
-        "time": "7:01:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SHEPARD WAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "CF2307163",
-        "date": "2023-10-10",
-        "time": "6:48:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "EL CAMINO REAL / LINCOLN AVE",
-        "latitude": 37.5856848932972,
-        "longitude": -122.368844561822,
-        "units": ">T34"
+        "units": ">TAC35 >Q62 >E61 >CM31X3"
     }
 ]
