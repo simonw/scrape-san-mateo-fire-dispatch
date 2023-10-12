@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2311245",
+        "id": "MF2308924",
         "date": "2023-10-12",
-        "time": "9:57:27 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "10:18:57 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "BELLEVUE AVE ,DCY",
+        "location": "SCHEMBRI LN ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ">E2"
+    },
+    {
+        "id": "RF2311286",
+        "date": "2023-10-12",
+        "time": "10:16:19 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROLISON RD #23 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "HF2302710",
+        "date": "2023-10-12",
+        "time": "10:13:12 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "335 13TH ST ,MON",
+        "latitude": 37.537620778375,
+        "longitude": -122.51577837584,
+        "units": "*>E44"
+    },
+    {
+        "id": "HF2302708",
+        "date": "2023-10-12",
+        "time": "10:07:49 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "N CABRILLO HWY ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "SF2312856",
@@ -16,64 +49,9 @@
         "time": "9:52:08 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Gas main break",
-        "location": "PACIFIC BLVD / OTAY AVE",
+        "location": "3425 PACIFIC BLVD ,SMO",
         "latitude": 37.5358814232286,
         "longitude": -122.295255804765,
-        "units": ">E25 >E29 >BC5 >E26 CM21X3T21 ?TAC26"
-    },
-    {
-        "id": "CF2307199",
-        "date": "2023-10-12",
-        "time": "9:48:50 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "CALIFORNIA DR / IRWIN PL",
-        "latitude": 37.5985098325893,
-        "longitude": -122.386090371508,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2312855",
-        "date": "2023-10-12",
-        "time": "9:47:34 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "102 43RD AVE ,SMO",
-        "latitude": 37.5289594084866,
-        "longitude": -122.291819246848,
-        "units": ">T23"
-    },
-    {
-        "id": "MF2308923",
-        "date": "2023-10-12",
-        "time": "9:47:14 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MONTE ROSA DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "HF2302707",
-        "date": "2023-10-12",
-        "time": "9:36:31 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRESCENT AVE ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "CF2307198",
-        "date": "2023-10-12",
-        "time": "9:36:22 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BRAEMAR DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
+        "units": "CM21X3 >BC5 >E25 >E29 >E26?TAC26"
     }
 ]
