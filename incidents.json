@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2307226",
+        "id": "NF2311306",
         "date": "2023-10-13",
-        "time": "1:01:18 PM",
+        "time": "1:22:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "TEMPLETON AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "CF2307228",
+        "date": "2023-10-13",
+        "time": "1:17:32 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Fire alarm - water flow",
-        "location": "310 BRIDGE RD ,HIL",
-        "latitude": 37.5600629018286,
-        "longitude": -122.341058962164,
-        "units": ">E32"
+        "location": "261 CALIFORNIA DR ,BRM",
+        "latitude": 37.57920396755,
+        "longitude": -122.345069973455,
+        "units": ">T34"
+    },
+    {
+        "id": "SF2312911",
+        "date": "2023-10-13",
+        "time": "1:09:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Hazardous material - consult",
+        "location": "2443 HASTINGS DR ,BLM",
+        "latitude": 37.5039930842892,
+        "longitude": -122.295556753241,
+        "units": ">BC5 HM14 CM11X1 >E15"
     },
     {
         "id": "MF2308951",
@@ -19,7 +41,7 @@
         "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E1"
+        "units": "E1"
     },
     {
         "id": "DF2302139",
@@ -30,39 +52,6 @@
         "location": "PESCADERO CREEK RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 E655 >E59"
-    },
-    {
-        "id": "CF2307225",
-        "date": "2023-10-13",
-        "time": "12:52:58 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "855 BROADWAY ,MLB",
-        "latitude": 37.6034682525234,
-        "longitude": -122.395990543396,
-        "units": ">E34"
-    },
-    {
-        "id": "LF2301019",
-        "date": "2023-10-13",
-        "time": "12:48:44 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Public assist",
-        "location": "1180 EL CAMINO REAL #S ,CLM",
-        "latitude": 37.6771964370186,
-        "longitude": -122.45958287123,
-        "units": ">E86"
-    },
-    {
-        "id": "WF2301749",
-        "date": "2023-10-13",
-        "time": "12:43:09 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAND HILL RD / LAWLER RANCH RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E59"
     }
 ]
