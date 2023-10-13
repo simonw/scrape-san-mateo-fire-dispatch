@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2312913",
+        "date": "2023-10-13",
+        "time": "1:36:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PROMONTORY POINT LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "NF2311307",
+        "date": "2023-10-13",
+        "time": "1:31:15 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GLENWOOD AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "SF2312912",
+        "date": "2023-10-13",
+        "time": "1:31:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W 38TH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "RF2311328",
+        "date": "2023-10-13",
+        "time": "1:24:56 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COUNTY CN ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "HF2302719",
+        "date": "2023-10-13",
+        "time": "1:24:09 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1080 DRAKE ST ,MON",
+        "latitude": 37.5434787888409,
+        "longitude": -122.498817992568,
+        "units": ">E44"
+    },
+    {
         "id": "NF2311306",
         "date": "2023-10-13",
         "time": "1:22:21 PM",
@@ -8,29 +63,18 @@
         "location": "TEMPLETON AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "CF2307228",
-        "date": "2023-10-13",
-        "time": "1:17:32 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - water flow",
-        "location": "261 CALIFORNIA DR ,BRM",
-        "latitude": 37.57920396755,
-        "longitude": -122.345069973455,
-        "units": ">T34"
+        "units": ">E92"
     },
     {
         "id": "SF2312911",
         "date": "2023-10-13",
         "time": "1:09:03 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Hazardous material - consult",
+        "category": "Hazardous material - response",
         "location": "2443 HASTINGS DR ,BLM",
         "latitude": 37.5039930842892,
         "longitude": -122.295556753241,
-        "units": ">BC5 HM14 CM11X1 >E15"
+        "units": "CM11X1 >E15 >BC5 ?TAC15 HM31MED5 HM14 T23 E16"
     },
     {
         "id": "MF2308951",
@@ -42,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E1"
-    },
-    {
-        "id": "DF2302139",
-        "date": "2023-10-13",
-        "time": "12:55:59 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PESCADERO CREEK RD ,PES",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E59"
     }
 ]
