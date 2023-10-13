@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2311279",
+        "id": "FF2305847",
         "date": "2023-10-12",
-        "time": "8:01:54 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:23:14 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALIDA WAY #309 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "RF2311306",
+        "date": "2023-10-12",
+        "time": "8:10:08 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Fire alarm",
-        "location": "1700 SADDLEBACK DR ,DCY",
-        "latitude": 37.7078032743271,
-        "longitude": -122.426446692334,
-        "units": "E93"
+        "location": "815 CHERRY LN ,SNC",
+        "latitude": 37.5101815288553,
+        "longitude": -122.253029902616,
+        "units": ">E13"
+    },
+    {
+        "id": "NF2311280",
+        "date": "2023-10-12",
+        "time": "8:09:34 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #115B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "BF2303595",
+        "date": "2023-10-12",
+        "time": "8:06:37 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Structure fire",
+        "location": "220 EMARON DR ,SNB",
+        "latitude": 37.6309923641712,
+        "longitude": -122.456590854489,
+        "units": ">E94 >TAC35 >CM31X2 >BC17 >E38>E63 >T51 >BC16 >E64 >E52"
     },
     {
         "id": "CF2307211",
@@ -30,17 +63,6 @@
         "location": "TROUSDALE DR #1051A ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2312893",
-        "date": "2023-10-12",
-        "time": "7:44:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": ""
     }
 ]
