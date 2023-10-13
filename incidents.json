@@ -1,5 +1,38 @@
 [
     {
+        "id": "DF2302136",
+        "date": "2023-10-13",
+        "time": "11:40:20 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SYLVAN WAY ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18"
+    },
+    {
+        "id": "RF2311324",
+        "date": "2023-10-13",
+        "time": "11:36:56 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN CARLOS AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "NF2311301",
+        "date": "2023-10-13",
+        "time": "11:28:56 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MORI POINT RD / BRADFORD WAY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "WF2301748",
         "date": "2023-10-13",
         "time": "11:24:35 AM",
@@ -8,18 +41,7 @@
         "location": "ALPINE RD ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
-    },
-    {
-        "id": "MF2308949",
-        "date": "2023-10-13",
-        "time": "11:14:31 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1055 VALPARAISO AVE ,MNP",
-        "latitude": 37.4498389805423,
-        "longitude": -122.191495654831,
-        "units": ">T4"
+        "units": "*>E8"
     },
     {
         "id": "SF2312907",
@@ -41,17 +63,6 @@
         "location": "1818 EL CAMINO REAL #220 ,RCY",
         "latitude": 37.4777037963827,
         "longitude": -122.224895772642,
-        "units": ">BC3 TAC15 >T9 CM11X1"
-    },
-    {
-        "id": "FF2305857",
-        "date": "2023-10-13",
-        "time": "11:08:25 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE #3 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": "CM11X1 TAC15 >BC3"
     }
 ]
