@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2303618",
+        "date": "2023-10-14",
+        "time": "1:20:55 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #1412 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "NF2311335",
+        "date": "2023-10-14",
+        "time": "1:01:52 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Cliff rescue",
+        "location": "2001 CABRILLO HWY ,PCF",
+        "latitude": 37.6190366504984,
+        "longitude": -122.485002511012,
+        "units": "H30 >BC121 >R95 >E71 ?TAC36CM31X4 >E72"
+    },
+    {
         "id": "SF2312949",
         "date": "2023-10-14",
         "time": "12:59:43 PM",
@@ -8,50 +30,6 @@
         "location": "N EL CAMINO REAL / EL CERRITO AVE",
         "latitude": 37.566990273654,
         "longitude": -122.330004237897,
-        "units": ">T21 >E21 BC5 CM21X2 ?TAC25"
-    },
-    {
-        "id": "FF2305881",
-        "date": "2023-10-14",
-        "time": "12:58:20 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / SO WESTBOROUGH BLVD",
-        "latitude": 37.6414170599916,
-        "longitude": -122.443838094168,
-        "units": "BC20 T51 E51 CM31X5 ?TAC35"
-    },
-    {
-        "id": "MF2308981",
-        "date": "2023-10-14",
-        "time": "12:49:17 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "771 16TH AVE ,NFO",
-        "latitude": 37.4755622117647,
-        "longitude": -122.190834853379,
-        "units": ""
-    },
-    {
-        "id": "HF2302733",
-        "date": "2023-10-14",
-        "time": "12:46:29 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARINE BLVD #102C ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "HF2302732",
-        "date": "2023-10-14",
-        "time": "12:34:27 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PURISSIMA ST / MIRAMONTES ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E140"
+        "units": "CM21X2 >BC5 ?TAC25 >E21 >T21"
     }
 ]
