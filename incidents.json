@@ -1,14 +1,58 @@
 [
     {
-        "id": "HF2302751",
+        "id": "SF2312988",
         "date": "2023-10-15",
-        "time": "11:55:43 AM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "12:18:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "VERMONT AVE ,MBH",
+        "location": "S HUMBOLDT ST #4 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
+        "units": ">E21"
+    },
+    {
+        "id": "SF2312987",
+        "date": "2023-10-15",
+        "time": "12:15:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SB 101 / SO 92",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24 >E14"
+    },
+    {
+        "id": "RF2311381",
+        "date": "2023-10-15",
+        "time": "12:11:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODLAND AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "NF2311361",
+        "date": "2023-10-15",
+        "time": "12:06:00 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PERRY AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "NF2311362",
+        "date": "2023-10-15",
+        "time": "12:05:42 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "572 GELLERT BLVD ,DCY",
+        "latitude": 37.6590458972962,
+        "longitude": -122.46772231256,
+        "units": ">E94"
     },
     {
         "id": "DF2302157",
@@ -19,7 +63,7 @@
         "location": "7940 LA HONDA RD ,LAH",
         "latitude": 37.3103059277765,
         "longitude": -122.27998813148,
-        "units": ">BC15 >R57 TAC45 E58"
+        "units": "TAC45 >E58 >BC15 >R57"
     },
     {
         "id": "CF2307270",
@@ -30,28 +74,6 @@
         "location": "151 EL CAMINO REAL #229 ,MLB",
         "latitude": 37.5998288023794,
         "longitude": -122.38948653415,
-        "units": ">BC8 ?CCFINV >CM21X3 >E37 >TAC25>T51"
-    },
-    {
-        "id": "CF2307269",
-        "date": "2023-10-15",
-        "time": "11:25:05 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ROLLINS RD ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2311379",
-        "date": "2023-10-15",
-        "time": "11:15:03 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #A ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ">E37"
     }
 ]
