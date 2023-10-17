@@ -1,36 +1,47 @@
 [
     {
-        "id": "RF2311449",
+        "id": "BF2303642",
         "date": "2023-10-16",
-        "time": "6:58:24 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DUMBARTON AVE / OAKWOOD DR",
-        "latitude": null,
-        "longitude": null,
-        "units": "E3"
+        "time": "7:21:28 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "729 SYCAMORE AVE ,SNB",
+        "latitude": 37.6249869583399,
+        "longitude": -122.422292955221,
+        "units": ">E51"
     },
     {
-        "id": "SF2313069",
+        "id": "SF2313071",
         "date": "2023-10-16",
-        "time": "6:56:47 PM",
+        "time": "7:20:31 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "W 25TH AVE ,SMO",
+        "location": "SHOREVIEW AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E24"
     },
     {
-        "id": "BF2303640",
+        "id": "SF2313070",
         "date": "2023-10-16",
-        "time": "6:55:40 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "7:18:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "HUNTINGTON AVE / SAN BRUNO AVE W",
+        "location": "BYRD LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E28"
+    },
+    {
+        "id": "BF2303641",
+        "date": "2023-10-16",
+        "time": "7:06:37 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MILLS AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
     },
     {
         "id": "SF2313068",
@@ -41,18 +52,7 @@
         "location": "REGULUS ST ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "RF2311448",
-        "date": "2023-10-16",
-        "time": "6:49:52 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": "E29"
     },
     {
         "id": "NF2311407",
@@ -63,29 +63,7 @@
         "location": "817 GELLERT BLVD ,DCY",
         "latitude": 37.654193366754,
         "longitude": -122.461219314312,
-        "units": "?TAC35 >E94 BC122 ?CM31X5 BC20E52 E95 >BC124 E63 E71"
-    },
-    {
-        "id": "CF2307304",
-        "date": "2023-10-16",
-        "time": "6:47:41 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "2600 RALSTON AVE ,HIL",
-        "latitude": 37.5663241747693,
-        "longitude": -122.363313510544,
-        "units": ">E33"
-    },
-    {
-        "id": "SF2313067",
-        "date": "2023-10-16",
-        "time": "6:38:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DAVEY GLEN RD #514 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": "?TAC35 >E94 >BC122 >BC20 ?CM31X5?NFAINV >E52 >E95 >BC124 >E63"
     },
     {
         "id": "DF2302163",
@@ -96,6 +74,6 @@
         "location": "7000 BLOCK PESCADERO CREEK RD ,LMR",
         "latitude": 37.2767620251854,
         "longitude": -122.287422514422,
-        "units": "TAC45 ?VF22X5 >E357 >E58 >WT156>BC15 >E55 >WT158 >E655 >E59"
+        "units": "TAC45 ?VF22X5 >E357 >E58 >WT156>BC15 >E55 >WT158 >E655"
     }
 ]
