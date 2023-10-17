@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2309071",
+        "date": "2023-10-17",
+        "time": "3:29:31 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TINSLEY ST #D304 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "DF2302168",
         "date": "2023-10-17",
         "time": "3:23:28 PM",
@@ -8,7 +19,7 @@
         "location": "MONTALVO RD ,PAL",
         "latitude": null,
         "longitude": null,
-        "units": "E18"
+        "units": ">E18"
     },
     {
         "id": "NF2311462",
@@ -17,17 +28,6 @@
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
         "location": "ESCUELA DR #123B ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "FF2305939",
-        "date": "2023-10-17",
-        "time": "3:17:10 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "A ST ,SSF",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -52,18 +52,7 @@
         "location": "1950 BEACH PARK BLVD ,FCY",
         "latitude": 37.570794522308,
         "longitude": -122.264071220753,
-        "units": "CM21X4 ?TAC25 >E28 >T23"
-    },
-    {
-        "id": "SF2313112",
-        "date": "2023-10-17",
-        "time": "3:07:36 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E28"
     },
     {
         "id": "NF2311455",
@@ -74,6 +63,6 @@
         "location": "NB 101 / SO CANDLESTICK PARK",
         "latitude": 37.6927809446673,
         "longitude": -122.391323110023,
-        "units": "?VF22X1 >E93 >Q62 BC20 >BC17>TO17 >E65 >CH17A >E63 >E61"
+        "units": "?VF22X1 >E93 >Q62 >BC20 ?NFAINV>BC17 >E65 >E63 PR20D >E81"
     }
 ]
