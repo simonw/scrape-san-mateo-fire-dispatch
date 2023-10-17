@@ -1,14 +1,25 @@
 [
     {
-        "id": "BF2303642",
+        "id": "RF2311450",
         "date": "2023-10-16",
-        "time": "7:21:28 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "729 SYCAMORE AVE ,SNB",
-        "latitude": 37.6249869583399,
-        "longitude": -122.422292955221,
-        "units": ">E51"
+        "time": "7:34:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / NO WOODSIDE RD",
+        "latitude": 37.4926029176342,
+        "longitude": -122.221534463968,
+        "units": ">T9 >E9 TAC15 >BC3 ?CM11X5"
+    },
+    {
+        "id": "MF2309048",
+        "date": "2023-10-16",
+        "time": "7:29:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ADDISON AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
     },
     {
         "id": "SF2313071",
@@ -19,7 +30,7 @@
         "location": "SHOREVIEW AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": ""
     },
     {
         "id": "SF2313070",
@@ -30,18 +41,7 @@
         "location": "BYRD LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "BF2303641",
-        "date": "2023-10-16",
-        "time": "7:06:37 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MILLS AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
+        "units": ""
     },
     {
         "id": "SF2313068",
@@ -63,7 +63,7 @@
         "location": "817 GELLERT BLVD ,DCY",
         "latitude": 37.654193366754,
         "longitude": -122.461219314312,
-        "units": "?TAC35 >E94 >BC122 >BC20 ?CM31X5?NFAINV >E52 >E95 >BC124 >E63"
+        "units": "?TAC35 >E94 >BC122 >BC20 ?CM31X5>E52 >E95 >BC124 >E63 >E71"
     },
     {
         "id": "DF2302163",
@@ -74,6 +74,6 @@
         "location": "7000 BLOCK PESCADERO CREEK RD ,LMR",
         "latitude": 37.2767620251854,
         "longitude": -122.287422514422,
-        "units": "TAC45 ?VF22X5 >E357 >E58 >WT156>BC15 >E55 >WT158 >E655"
+        "units": "TAC45 ?VF22X5 >E357 >WT156 >BC15>E55"
     }
 ]
