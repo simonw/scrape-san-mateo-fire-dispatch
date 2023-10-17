@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2303646",
+        "date": "2023-10-16",
+        "time": "10:15:29 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / SAN FELIPE AVE",
+        "latitude": 37.6177403227847,
+        "longitude": -122.408803438901,
+        "units": ">T51 >E51 >BC16 ?TAC36 ?CM31X1"
+    },
+    {
+        "id": "FF2305928",
+        "date": "2023-10-16",
+        "time": "10:14:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "BF2303645",
+        "date": "2023-10-16",
+        "time": "10:07:59 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MUIRFIELD CIR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "RF2311453",
         "date": "2023-10-16",
         "time": "10:04:22 PM",
@@ -8,40 +41,7 @@
         "location": "AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
-    },
-    {
-        "id": "FF2305927",
-        "date": "2023-10-16",
-        "time": "9:59:41 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "AIRPORT BLVD / LINDEN AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": "Q62"
-    },
-    {
-        "id": "MF2309054",
-        "date": "2023-10-16",
-        "time": "9:50:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SEVIER AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "RF2311452",
-        "date": "2023-10-16",
-        "time": "9:50:33 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EATON AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">E11"
     },
     {
         "id": "NF2311407",
@@ -52,7 +52,7 @@
         "location": "817 GELLERT BLVD ,DCY",
         "latitude": 37.654193366754,
         "longitude": -122.461219314312,
-        "units": "?TAC35 >E94 ?CM31X5 >E52 >E95>BC124 >T95"
+        "units": "?TAC35 >E94 ?CM31X5 >E95 >BC124>T95"
     },
     {
         "id": "DF2302163",
@@ -63,6 +63,6 @@
         "location": "7000 BLOCK PESCADERO CREEK RD ,LMR",
         "latitude": 37.2767620251854,
         "longitude": -122.287422514422,
-        "units": "?VF22X5 >WT156 >BC15 >E55"
+        "units": ""
     }
 ]
