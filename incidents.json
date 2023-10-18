@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2311508",
+        "date": "2023-10-18",
+        "time": "10:37:24 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Gas main break",
+        "location": "107 CIRCLE RD ,RCY",
+        "latitude": 37.4779802050769,
+        "longitude": -122.254075605429,
+        "units": "E18 E13 BC3 T9 E10CM11X2 ?TAC15"
+    },
+    {
+        "id": "MF2309095",
+        "date": "2023-10-18",
+        "time": "10:31:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "SF2313135",
+        "date": "2023-10-18",
+        "time": "10:31:04 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MEZES AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "FF2305951",
+        "date": "2023-10-18",
+        "time": "10:27:13 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "322 GRAND AVE ,SSF",
+        "latitude": 37.655448465773,
+        "longitude": -122.410634732961,
+        "units": "?TAC35 CM31X4"
+    },
+    {
         "id": "MF2309094",
         "date": "2023-10-18",
         "time": "10:20:57 AM",
@@ -8,29 +52,7 @@
         "location": "1355 ADAMS CT ,MNP",
         "latitude": 37.4793536976003,
         "longitude": -122.144361677682,
-        "units": "E2"
-    },
-    {
-        "id": "CF2307338",
-        "date": "2023-10-18",
-        "time": "10:12:26 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EUCALYPTUS AVE ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
-    },
-    {
-        "id": "BF2303662",
-        "date": "2023-10-18",
-        "time": "10:00:52 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE #CONCOURSE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ">E2"
     },
     {
         "id": "RF2311505",
@@ -42,16 +64,5 @@
         "latitude": 37.4867189633275,
         "longitude": -122.246097573066,
         "units": ">E12"
-    },
-    {
-        "id": "SF2313134",
-        "date": "2023-10-18",
-        "time": "9:41:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
     }
 ]
