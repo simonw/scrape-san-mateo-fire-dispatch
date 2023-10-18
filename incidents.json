@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2303662",
+        "date": "2023-10-18",
+        "time": "10:00:52 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE #CONCOURSE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "RF2311505",
+        "date": "2023-10-18",
+        "time": "9:56:19 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "535 ARLINGTON RD ,RCY",
+        "latitude": 37.4867189633275,
+        "longitude": -122.246097573066,
+        "units": "E12"
+    },
+    {
+        "id": "FF2305950",
+        "date": "2023-10-18",
+        "time": "9:50:31 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ROMNEY AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "SF2313134",
         "date": "2023-10-18",
         "time": "9:41:40 AM",
@@ -8,7 +41,7 @@
         "location": "N HUMBOLDT ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E34"
+        "units": ">E34"
     },
     {
         "id": "SF2313133",
@@ -19,40 +52,7 @@
         "location": "S SAN MATEO DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "BF2303661",
-        "date": "2023-10-18",
-        "time": "9:28:29 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CLAREMONT DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "CF2307336",
-        "date": "2023-10-18",
-        "time": "9:26:20 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "157 CAPUCHINO DR ,MLB",
-        "latitude": 37.6102177373392,
-        "longitude": -122.40312371071,
-        "units": ">E38"
-    },
-    {
-        "id": "FF2305949",
-        "date": "2023-10-18",
-        "time": "9:22:50 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #124 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ""
     },
     {
         "id": "NF2311488",
@@ -64,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E95"
-    },
-    {
-        "id": "NF2311485",
-        "date": "2023-10-18",
-        "time": "9:14:15 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KING DR #131 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
     }
 ]
