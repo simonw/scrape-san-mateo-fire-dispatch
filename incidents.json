@@ -1,47 +1,69 @@
 [
     {
-        "id": "SF2313137",
+        "id": "CF2307341",
         "date": "2023-10-18",
-        "time": "11:26:08 AM",
+        "time": "12:03:40 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROLLINS RD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "CF2307340",
+        "date": "2023-10-18",
+        "time": "12:03:24 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ROLLINS RD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "SF2313139",
+        "date": "2023-10-18",
+        "time": "11:59:47 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "HASTINGS DR #105 ,BLM",
+        "location": "SPYGLASS DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
+        "units": "E27"
     },
     {
-        "id": "NF2311491",
+        "id": "NF2311492",
         "date": "2023-10-18",
-        "time": "11:15:50 AM",
+        "time": "11:52:32 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
+        "location": "CUTTY CT / BALLY WAY",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
+        "units": ">E71"
     },
     {
-        "id": "RF2311510",
+        "id": "FF2305955",
         "date": "2023-10-18",
-        "time": "11:15:29 AM",
+        "time": "11:51:16 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Trash fire",
+        "location": "101 BRENTWOOD DR ,SSF",
+        "latitude": 37.6410066045431,
+        "longitude": -122.426033449544,
+        "units": ">E61"
+    },
+    {
+        "id": "RF2311511",
+        "date": "2023-10-18",
+        "time": "11:45:04 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "MF2309096",
-        "date": "2023-10-18",
-        "time": "11:01:58 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "1355 ADAMS CT ,MNP",
-        "latitude": 37.4793536976003,
-        "longitude": -122.144361677682,
-        "units": ">PR1B"
+        "category": "Traffic accident",
+        "location": "MAPLE ST / BROADWAY",
+        "latitude": 37.4867547366999,
+        "longitude": -122.223595286309,
+        "units": ""
     },
     {
         "id": "RF2311508",
@@ -53,16 +75,5 @@
         "latitude": 37.4779802050769,
         "longitude": -122.254075605429,
         "units": ">E10"
-    },
-    {
-        "id": "RF2311505",
-        "date": "2023-10-18",
-        "time": "9:56:19 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "535 ARLINGTON RD ,RCY",
-        "latitude": 37.4867189633275,
-        "longitude": -122.246097573066,
-        "units": ">E12"
     }
 ]
