@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2309094",
+        "date": "2023-10-18",
+        "time": "10:20:57 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1355 ADAMS CT ,MNP",
+        "latitude": 37.4793536976003,
+        "longitude": -122.144361677682,
+        "units": "E2"
+    },
+    {
+        "id": "CF2307338",
+        "date": "2023-10-18",
+        "time": "10:12:26 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EUCALYPTUS AVE ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
         "id": "BF2303662",
         "date": "2023-10-18",
         "time": "10:00:52 AM",
@@ -8,7 +30,7 @@
         "location": "HUNTINGTON AVE #CONCOURSE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E61"
     },
     {
         "id": "RF2311505",
@@ -19,18 +41,7 @@
         "location": "535 ARLINGTON RD ,RCY",
         "latitude": 37.4867189633275,
         "longitude": -122.246097573066,
-        "units": "E12"
-    },
-    {
-        "id": "FF2305950",
-        "date": "2023-10-18",
-        "time": "9:50:31 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ROMNEY AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E12"
     },
     {
         "id": "SF2313134",
@@ -42,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E34"
-    },
-    {
-        "id": "SF2313133",
-        "date": "2023-10-18",
-        "time": "9:28:45 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S SAN MATEO DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2311488",
-        "date": "2023-10-18",
-        "time": "9:21:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHGATE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
     }
 ]
