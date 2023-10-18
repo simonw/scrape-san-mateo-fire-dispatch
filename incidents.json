@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2309082",
+        "id": "BF2303655",
         "date": "2023-10-17",
-        "time": "9:41:48 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:50:30 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "HOLLAND ST ,EPA",
+        "location": "GLEN AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E51"
+    },
+    {
+        "id": "RF2311487",
+        "date": "2023-10-17",
+        "time": "9:47:01 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "1331 HANCOCK ST ,RCY",
+        "latitude": 37.4765370112568,
+        "longitude": -122.218482071738,
+        "units": ">E3 ?TAC15 CM11X3"
     },
     {
         "id": "FF2305942",
@@ -19,7 +30,7 @@
         "location": "MAGNOLIA AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E61"
     },
     {
         "id": "HF2302773",
@@ -30,39 +41,6 @@
         "location": "MIRAMONTES POINT RD #551 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
-    },
-    {
-        "id": "LF2301029",
-        "date": "2023-10-17",
-        "time": "9:33:16 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "F ST #212 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "DF2302170",
-        "date": "2023-10-17",
-        "time": "9:15:21 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROSSI RD ,SOS",
-        "latitude": null,
-        "longitude": null,
-        "units": "?VFIR23 >E1761 >E59"
-    },
-    {
-        "id": "MF2309081",
-        "date": "2023-10-17",
-        "time": "8:56:34 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LUCKY AVE ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": ">E41"
     }
 ]
