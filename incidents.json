@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2313202",
+        "date": "2023-10-19",
+        "time": "11:39:44 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS #223 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E15"
+    },
+    {
+        "id": "RF2311553",
+        "date": "2023-10-19",
+        "time": "11:28:50 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "E BAYSHORE RD / BAIR ISLAND RD",
+        "latitude": 37.495051727453,
+        "longitude": -122.227431150476,
+        "units": ">T9"
+    },
+    {
         "id": "NF2311527",
         "date": "2023-10-19",
         "time": "11:24:32 AM",
@@ -8,18 +30,7 @@
         "location": "221 2ND AVE ,DCY",
         "latitude": 37.6893142265972,
         "longitude": -122.462830055935,
-        "units": "E92"
-    },
-    {
-        "id": "RF2311552",
-        "date": "2023-10-19",
-        "time": "11:24:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "SEAPORT BLVD / SEAPORT CT",
-        "latitude": 37.5026077043153,
-        "longitude": -122.21078052011,
-        "units": "E9"
+        "units": ">E92"
     },
     {
         "id": "SF2313200",
@@ -33,17 +44,6 @@
         "units": ">E25"
     },
     {
-        "id": "FF2305971",
-        "date": "2023-10-19",
-        "time": "11:19:47 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BRENTWOOD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
         "id": "RF2311551",
         "date": "2023-10-19",
         "time": "11:01:47 AM",
@@ -52,7 +52,7 @@
         "location": "3698 HAVEN AVE ,RCY",
         "latitude": 37.4849396622206,
         "longitude": -122.183026193657,
-        "units": "PR3B >E77"
+        "units": "PR3B >BC1 >E77 T2"
     },
     {
         "id": "NF2311526",
@@ -63,6 +63,6 @@
         "location": "NB 101 / SO CANDLESTICK PARK",
         "latitude": 37.6927809446673,
         "longitude": -122.391323110023,
-        "units": "?VF22X3 >Q62 >BC20 >BC17 >E61PR20D CM31X3"
+        "units": "?VF22X3 >BC20 >BC17 PR20D CM31X3"
     }
 ]
