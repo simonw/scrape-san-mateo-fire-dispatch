@@ -1,5 +1,49 @@
 [
     {
+        "id": "LF2301031",
+        "date": "2023-10-18",
+        "time": "6:50:15 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "4935 JUNIPERO SERRA BLVD ,CLM",
+        "latitude": 37.6744324673221,
+        "longitude": -122.465215957741,
+        "units": ">E86 TAC36 CM31X4 T85"
+    },
+    {
+        "id": "HF2302778",
+        "date": "2023-10-18",
+        "time": "6:48:21 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "1380 AUDUBON AVE ,MON",
+        "latitude": 37.5385815359422,
+        "longitude": -122.508601244172,
+        "units": ">E44"
+    },
+    {
+        "id": "FF2305963",
+        "date": "2023-10-18",
+        "time": "6:48:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LIBERTY CT ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "BF2303672",
+        "date": "2023-10-18",
+        "time": "6:47:42 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "JENEVEIN AVE / BEECH AVE",
+        "latitude": 37.6202739867041,
+        "longitude": -122.41870738567,
+        "units": "TAC35 CM31X5 >BC16 >T51"
+    },
+    {
         "id": "CF2307350",
         "date": "2023-10-18",
         "time": "6:37:49 PM",
@@ -8,7 +52,7 @@
         "location": "N ROLLINS RD #511 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "?E37"
+        "units": ">E37"
     },
     {
         "id": "CF2307349",
@@ -22,50 +66,6 @@
         "units": ">T34"
     },
     {
-        "id": "CF2307348",
-        "date": "2023-10-18",
-        "time": "6:32:44 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TOURNAMENT DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "SF2313164",
-        "date": "2023-10-18",
-        "time": "6:27:18 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GEORGETOWN AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2309106",
-        "date": "2023-10-18",
-        "time": "6:27:08 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Structure fire",
-        "location": "WOODLAND AVE / LAUREL AVE",
-        "latitude": 37.4559601857039,
-        "longitude": -122.155582032975,
-        "units": ">E11 >E2 >SQ401 >BC1 ?TAC15CM11X2 >E77 >BC101 E5 >E1"
-    },
-    {
-        "id": "NF2311508",
-        "date": "2023-10-18",
-        "time": "6:26:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GLENWOOD AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
         "id": "RF2311528",
         "date": "2023-10-18",
         "time": "6:24:23 PM",
@@ -75,16 +75,5 @@
         "latitude": 37.4719767613448,
         "longitude": -122.228985258027,
         "units": ">E10"
-    },
-    {
-        "id": "MF2309105",
-        "date": "2023-10-18",
-        "time": "6:19:44 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL / MIDDLE AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
     }
 ]
