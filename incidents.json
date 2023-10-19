@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2311543",
+        "date": "2023-10-19",
+        "time": "2:42:05 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ARGUELLO BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?TAC36 ?CM31X4 ?BC17 E72"
+    },
+    {
+        "id": "NF2311542",
+        "date": "2023-10-19",
+        "time": "2:39:24 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARK PL ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": "Q62"
+    },
+    {
+        "id": "RF2311566",
+        "date": "2023-10-19",
+        "time": "2:37:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "RF2311565",
+        "date": "2023-10-19",
+        "time": "2:30:29 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "REDWOOD AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "SF2313210",
         "date": "2023-10-19",
         "time": "2:21:38 PM",
@@ -8,7 +52,7 @@
         "location": "FLORES ST #115 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "SF2313209",
@@ -19,7 +63,7 @@
         "location": "S NORFOLK ST #343 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E26"
     },
     {
         "id": "NF2311541",
@@ -30,18 +74,7 @@
         "location": "HICKEY BLVD #2ND FLR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "CF2307374",
-        "date": "2023-10-19",
-        "time": "2:10:19 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">E94"
     },
     {
         "id": "SF2313208",
@@ -52,51 +85,7 @@
         "location": "BLOCK EL CAMINO REAL ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "MF2309135",
-        "date": "2023-10-19",
-        "time": "2:06:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "2061 EUCLID AVE ,EPA",
-        "latitude": 37.4618722075808,
-        "longitude": -122.14458623561,
-        "units": ">T2"
-    },
-    {
-        "id": "RF2311564",
-        "date": "2023-10-19",
-        "time": "2:03:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROLISON RD #4 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "WF2301777",
-        "date": "2023-10-19",
-        "time": "2:03:05 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "165 WOODSIDE DR ,WDS",
-        "latitude": 37.4517131994827,
-        "longitude": -122.238438804594,
         "units": ""
-    },
-    {
-        "id": "LF2301033",
-        "date": "2023-10-19",
-        "time": "1:51:54 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLMA BLVD ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
     },
     {
         "id": "NF2311535",
@@ -107,7 +96,7 @@
         "location": "3500 MARINA BLVD ,BRS",
         "latitude": 37.6751936812842,
         "longitude": -122.386099658654,
-        "units": ">BC20 ?TAC35 CM31X5 >Q62 >E61>PR20D >E81 >E181"
+        "units": ">BC20 ?TAC35 CM31X5 >PR20D >E81>E181"
     },
     {
         "id": "DF2302175",
@@ -118,6 +107,6 @@
         "location": "PESCADERO CREEK RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 >E17 >E655"
+        "units": "*>E17"
     }
 ]
