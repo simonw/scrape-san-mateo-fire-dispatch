@@ -1,5 +1,93 @@
 [
     {
+        "id": "NF2311537",
+        "date": "2023-10-19",
+        "time": "1:39:36 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "137 SANTA ROSA AVE ,PCF",
+        "latitude": 37.6335627313426,
+        "longitude": -122.491189516856,
+        "units": "E71"
+    },
+    {
+        "id": "SF2313207",
+        "date": "2023-10-19",
+        "time": "1:39:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR #UC ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "T21"
+    },
+    {
+        "id": "BF2303686",
+        "date": "2023-10-19",
+        "time": "1:38:50 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1150 EL CAMINO REAL #300 ,SNB",
+        "latitude": 37.6364709775789,
+        "longitude": -122.416803771445,
+        "units": "E51"
+    },
+    {
+        "id": "CF2307373",
+        "date": "2023-10-19",
+        "time": "1:37:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #220 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "RF2311561",
+        "date": "2023-10-19",
+        "time": "1:34:18 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KENTON AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "NF2311535",
+        "date": "2023-10-19",
+        "time": "1:33:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "3500 MARINA BLVD ,BRS",
+        "latitude": 37.6751936812842,
+        "longitude": -122.386099658654,
+        "units": "BC20 ?TAC35 CM31X5 >Q62 >E61>E81 E181"
+    },
+    {
+        "id": "CF2307372",
+        "date": "2023-10-19",
+        "time": "1:32:15 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "BF2303685",
+        "date": "2023-10-19",
+        "time": "1:26:53 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "1122 EL CAMINO REAL ,SNB",
+        "latitude": 37.635194552319,
+        "longitude": -122.419275170931,
+        "units": ">E65"
+    },
+    {
         "id": "MF2309133",
         "date": "2023-10-19",
         "time": "1:23:45 PM",
@@ -8,29 +96,7 @@
         "location": "WILLOW RD #230 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
-    },
-    {
-        "id": "SF2313206",
-        "date": "2023-10-19",
-        "time": "1:22:36 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "WB 92 / TOLL PLZ",
-        "latitude": 37.6180741918838,
-        "longitude": -122.152661235073,
-        "units": "CM21X1 BC5 ?TAC25 E28 T23"
-    },
-    {
-        "id": "BF2303684",
-        "date": "2023-10-19",
-        "time": "1:20:51 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
+        "units": ">T2"
     },
     {
         "id": "DF2302176",
@@ -41,18 +107,7 @@
         "location": "LA HONDA RD / WILLIAMS RANCH RD",
         "latitude": 37.3616314166728,
         "longitude": -122.26081398481,
-        "units": "E1781 E1765"
-    },
-    {
-        "id": "NF2311534",
-        "date": "2023-10-19",
-        "time": "1:13:07 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">E1781 >E1765"
     },
     {
         "id": "RF2311560",
@@ -66,28 +121,6 @@
         "units": ">E10"
     },
     {
-        "id": "HF2302782",
-        "date": "2023-10-19",
-        "time": "1:09:17 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CORONADO AVE ,MIR",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E41"
-    },
-    {
-        "id": "MF2309131",
-        "date": "2023-10-19",
-        "time": "1:02:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "999 E BAYSHORE RD ,EPA",
-        "latitude": 37.4674460970421,
-        "longitude": -122.151791118899,
-        "units": ">E2"
-    },
-    {
         "id": "DF2302175",
         "date": "2023-10-19",
         "time": "1:01:08 PM",
@@ -96,7 +129,7 @@
         "location": "PESCADERO CREEK RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 >E1761 >E59 >E655"
+        "units": "?VFIR23 >E59 >E655"
     },
     {
         "id": "NF2311533",
@@ -118,6 +151,6 @@
         "location": "3698 HAVEN AVE ,RCY",
         "latitude": 37.4849396622206,
         "longitude": -122.183026193657,
-        "units": ">CM11X1 >PR3B >BC1 >TAC15 >E77"
+        "units": ">PR3B"
     }
 ]
