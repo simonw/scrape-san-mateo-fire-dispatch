@@ -1,14 +1,80 @@
 [
     {
-        "id": "RF2311559",
+        "id": "MF2309133",
         "date": "2023-10-19",
-        "time": "1:04:30 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "1:23:45 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WHIPPLE AVE / ARGUELLO ST",
+        "location": "WILLOW RD #230 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">T9"
+        "units": "T2"
+    },
+    {
+        "id": "SF2313206",
+        "date": "2023-10-19",
+        "time": "1:22:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "WB 92 / TOLL PLZ",
+        "latitude": 37.6180741918838,
+        "longitude": -122.152661235073,
+        "units": "CM21X1 BC5 ?TAC25 E28 T23"
+    },
+    {
+        "id": "BF2303684",
+        "date": "2023-10-19",
+        "time": "1:20:51 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "DF2302176",
+        "date": "2023-10-19",
+        "time": "1:15:22 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LA HONDA RD / WILLIAMS RANCH RD",
+        "latitude": 37.3616314166728,
+        "longitude": -122.26081398481,
+        "units": "E1781 E1765"
+    },
+    {
+        "id": "NF2311534",
+        "date": "2023-10-19",
+        "time": "1:13:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2311560",
+        "date": "2023-10-19",
+        "time": "1:12:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LYONS ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "HF2302782",
+        "date": "2023-10-19",
+        "time": "1:09:17 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CORONADO AVE ,MIR",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E41"
     },
     {
         "id": "MF2309131",
@@ -19,18 +85,7 @@
         "location": "999 E BAYSHORE RD ,EPA",
         "latitude": 37.4674460970421,
         "longitude": -122.151791118899,
-        "units": "E2"
-    },
-    {
-        "id": "SF2313205",
-        "date": "2023-10-19",
-        "time": "1:02:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": ">E2"
     },
     {
         "id": "DF2302175",
@@ -41,7 +96,7 @@
         "location": "PESCADERO CREEK RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 ?CO55 E1761 E59"
+        "units": "?VFIR23 >E1761 >E59 >E655"
     },
     {
         "id": "NF2311533",
@@ -52,29 +107,7 @@
         "location": "200 EDGEWOOD DR ,PCF",
         "latitude": 37.6635452396572,
         "longitude": -122.482959310934,
-        "units": "E94"
-    },
-    {
-        "id": "FF2305973",
-        "date": "2023-10-19",
-        "time": "12:49:13 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FRANCISCO DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "HF2302781",
-        "date": "2023-10-19",
-        "time": "12:45:30 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Water rescue investigation",
-        "location": "1 VENICE BEACH RD ,HMB",
-        "latitude": 37.4797544195467,
-        "longitude": -122.449685776514,
-        "units": ""
+        "units": ">E94"
     },
     {
         "id": "RF2311551",
@@ -85,6 +118,6 @@
         "location": "3698 HAVEN AVE ,RCY",
         "latitude": 37.4849396622206,
         "longitude": -122.183026193657,
-        "units": ">CM11X1 >PR3B >BC1 >TAC15 >E77>T2"
+        "units": ">CM11X1 >PR3B >BC1 >TAC15 >E77"
     }
 ]
