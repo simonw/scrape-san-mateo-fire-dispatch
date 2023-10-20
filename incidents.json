@@ -1,14 +1,47 @@
 [
     {
-        "id": "BF2303699",
+        "id": "MF2309161",
         "date": "2023-10-20",
-        "time": "12:37:23 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "EL CAMINO REAL / JENEVEIN AVE",
-        "latitude": 37.6230070164296,
-        "longitude": -122.412647685527,
-        "units": ">E51 >BC16 Q62 CM31X4 ?TAC35"
+        "time": "1:00:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO WILLOW RD",
+        "latitude": 37.4775111992726,
+        "longitude": -122.170198805936,
+        "units": ">E5 CM11X4 E2 BC3 T9?TAC15"
+    },
+    {
+        "id": "SF2313254",
+        "date": "2023-10-20",
+        "time": "12:53:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "RF2311611",
+        "date": "2023-10-20",
+        "time": "12:48:23 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "2610 EL CAMINO REAL ,RCY",
+        "latitude": 37.4717558333131,
+        "longitude": -122.216710708641,
+        "units": ">E3"
+    },
+    {
+        "id": "CF2307396",
+        "date": "2023-10-20",
+        "time": "12:46:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CHADBOURNE AVE #242 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "FF2305995",
@@ -19,39 +52,6 @@
         "location": "EL CAMINO REAL / ARLINGTON DR",
         "latitude": 37.6704896574967,
         "longitude": -122.453220209782,
-        "units": "E64 CM31X5 E63 BC17 E65?VF22X4"
-    },
-    {
-        "id": "NF2311571",
-        "date": "2023-10-20",
-        "time": "12:32:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VALE ST #14 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2313253",
-        "date": "2023-10-20",
-        "time": "12:23:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S SAN MATEO DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "BF2303698",
-        "date": "2023-10-20",
-        "time": "12:22:36 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SHELTER CREEK LN ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
+        "units": "?VF22X4 CM31X5 >MED17 >BC17 PR17A>E65 >E63 >E64"
     }
 ]
