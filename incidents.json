@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2313253",
+        "date": "2023-10-20",
+        "time": "12:23:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E24 ?T21"
+    },
+    {
+        "id": "BF2303698",
+        "date": "2023-10-20",
+        "time": "12:22:36 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SHELTER CREEK LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T51"
+    },
+    {
         "id": "WF2301784",
         "date": "2023-10-20",
         "time": "12:03:37 PM",
@@ -8,18 +30,7 @@
         "location": "LA QUESTA WAY ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
-    },
-    {
-        "id": "NF2311570",
-        "date": "2023-10-20",
-        "time": "12:02:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ARCADIA CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
+        "units": ">E7"
     },
     {
         "id": "MF2309159",
@@ -30,6 +41,6 @@
         "location": "WESTMINSTER AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
+        "units": ">T2"
     }
 ]
