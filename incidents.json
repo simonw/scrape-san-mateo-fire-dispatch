@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2311609",
+        "id": "SF2313313",
         "date": "2023-10-21",
-        "time": "1:20:47 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "1:40:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ESCUELA DR #111A ,DCY",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": "E21"
+    },
+    {
+        "id": "SF2313312",
+        "date": "2023-10-21",
+        "time": "1:37:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "1608 KEHOE AVE ,SMO",
+        "latitude": 37.5650705525799,
+        "longitude": -122.300987186336,
+        "units": "E24"
+    },
+    {
+        "id": "NF2311610",
+        "date": "2023-10-21",
+        "time": "1:37:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "TEMPLETON AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2309192",
+        "date": "2023-10-21",
+        "time": "1:31:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1990 CAMINO DE LOS ROBLES ,WMP",
+        "latitude": 37.43634018727,
+        "longitude": -122.206708549035,
+        "units": ">E6"
     },
     {
         "id": "SF2313309",
@@ -19,18 +52,7 @@
         "location": "E 41ST PL #3 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2313310",
-        "date": "2023-10-21",
-        "time": "1:16:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "1203 ADMIRALTY LN ,FCY",
-        "latitude": 37.5615017968795,
-        "longitude": -122.268271433553,
-        "units": ">E28"
+        "units": ""
     },
     {
         "id": "CF2307415",
@@ -55,17 +77,6 @@
         "units": ">E77"
     },
     {
-        "id": "CF2307414",
-        "date": "2023-10-21",
-        "time": "1:10:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "705 W SANTA INEZ AVE ,HIL",
-        "latitude": 37.5598065808119,
-        "longitude": -122.34846457486,
-        "units": ">E21"
-    },
-    {
         "id": "RF2311650",
         "date": "2023-10-21",
         "time": "1:06:27 PM",
@@ -75,49 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E11"
-    },
-    {
-        "id": "NF2311608",
-        "date": "2023-10-21",
-        "time": "1:04:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMELOT CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2313307",
-        "date": "2023-10-21",
-        "time": "1:00:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "IVY ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "SF2313306",
-        "date": "2023-10-21",
-        "time": "12:52:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "WB 92 / WO S EL CAMINO REAL",
-        "latitude": 37.5483872916973,
-        "longitude": -122.317654856764,
-        "units": ">BC5 >E25 CM21X3 >T23 ?TAC26"
-    },
-    {
-        "id": "HF2302798",
-        "date": "2023-10-21",
-        "time": "11:37:45 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "11830 SAN MATEO RD ,SON",
-        "latitude": 37.4894177846935,
-        "longitude": -122.395365675427,
-        "units": ">BC10"
     }
 ]
