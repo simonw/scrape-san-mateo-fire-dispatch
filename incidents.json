@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2303710",
+        "date": "2023-10-20",
+        "time": "9:53:48 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROLLINGWOOD DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "FF2306005",
+        "date": "2023-10-20",
+        "time": "9:51:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MAGNOLIA AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
         "id": "NF2311587",
         "date": "2023-10-20",
         "time": "9:39:25 PM",
@@ -8,51 +30,7 @@
         "location": "NB 280 / NO JOHN DALY BLVD",
         "latitude": 37.7066818640522,
         "longitude": -122.470158734286,
-        "units": ">E92 BC121 E94 T95 CM31X5?TAC35"
-    },
-    {
-        "id": "SF2313285",
-        "date": "2023-10-20",
-        "time": "9:30:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "142 ELM ST ,SMO",
-        "latitude": 37.5689049219614,
-        "longitude": -122.330178968717,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2311628",
-        "date": "2023-10-20",
-        "time": "9:30:25 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROLISON RD #1 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "CF2307404",
-        "date": "2023-10-20",
-        "time": "9:23:01 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BARCLAY AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "MF2309174",
-        "date": "2023-10-20",
-        "time": "9:11:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #307A ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E6"
+        "units": ">E94 >BC121 >T95 >E92 CM31X5?TAC35"
     },
     {
         "id": "RF2311624",
@@ -63,6 +41,6 @@
         "location": "1107 2ND AVE ,RCY",
         "latitude": 37.4856958347054,
         "longitude": -122.200133941431,
-        "units": ">E11 PR3B ?TAC16 >BC3 CM11X5"
+        "units": ">E11 >PR3B"
     }
 ]
