@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2311605",
+        "id": "HF2302798",
         "date": "2023-10-21",
-        "time": "11:03:55 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "11:37:45 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "11830 SAN MATEO RD ,SON",
+        "latitude": 37.4894177846935,
+        "longitude": -122.395365675427,
+        "units": "T17 E40 BC10 CM41X2 ?TAC45"
+    },
+    {
+        "id": "RF2311649",
+        "date": "2023-10-21",
+        "time": "11:37:23 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1400 VETERANS BLVD ,RCY",
+        "latitude": 37.4884312422073,
+        "longitude": -122.218849273327,
+        "units": ">E12"
+    },
+    {
+        "id": "MF2309186",
+        "date": "2023-10-21",
+        "time": "11:37:17 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "SYLVAN ST #4 ,DCY",
+        "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E93"
+        "units": ">E1"
+    },
+    {
+        "id": "FF2306017",
+        "date": "2023-10-21",
+        "time": "11:30:05 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "WF2301789",
@@ -19,6 +52,6 @@
         "location": "823 GLENCRAG WAY ,WDS",
         "latitude": 37.4506859484509,
         "longitude": -122.275681595999,
-        "units": "CM11X1 >BC2 TAC15 >SQ407 >M107>E19"
+        "units": ">M107"
     }
 ]
