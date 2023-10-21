@@ -1,25 +1,36 @@
 [
     {
-        "id": "HF2302793",
+        "id": "FF2306004",
         "date": "2023-10-20",
-        "time": "8:39:05 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "8:59:24 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "MARINE BLVD #204C ,MBH",
+        "location": "S AIRPORT BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
+        "units": ">Q62"
     },
     {
-        "id": "SF2313283",
+        "id": "RF2311627",
         "date": "2023-10-20",
-        "time": "8:31:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:52:24 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "N DELAWARE ST ,SMO",
+        "location": "TRAIN TRACK ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": ">E10"
+    },
+    {
+        "id": "SF2313284",
+        "date": "2023-10-20",
+        "time": "8:50:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "1101 E HILLSDALE BLVD ,FCY",
+        "latitude": 37.5618403524546,
+        "longitude": -122.269138686537,
+        "units": ">E28"
     },
     {
         "id": "RF2311624",
@@ -30,7 +41,7 @@
         "location": "1107 2ND AVE ,RCY",
         "latitude": 37.4856958347054,
         "longitude": -122.200133941431,
-        "units": ">E9 >T9 >E11 >BC1 ?TAC16>BC3 >E77 CM11X5 >E16 >E5"
+        "units": ">E9 >T9 >E11 PR3B >BC1?TAC16 >BC3 CM11X5 >E5"
     },
     {
         "id": "MF2309171",
@@ -41,6 +52,6 @@
         "location": "1887 WOODSIDE RD #208 ,WSB",
         "latitude": 37.4517885476443,
         "longitude": -122.229619942981,
-        "units": ">T4 ?TAC15 CM11X3 *>BC2 >E4"
+        "units": "?TAC15 CM11X3"
     }
 ]
