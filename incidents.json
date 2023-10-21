@@ -1,14 +1,47 @@
 [
     {
+        "id": "RF2311632",
+        "date": "2023-10-20",
+        "time": "11:41:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "FF2306007",
+        "date": "2023-10-20",
+        "time": "11:34:36 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE / LINDEN AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "MF2309175",
+        "date": "2023-10-20",
+        "time": "11:30:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "POPLAR AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "BF2303713",
         "date": "2023-10-20",
         "time": "11:15:57 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "NATIONAL AVE #3234 ,SNB",
+        "location": "NATIONAL AVE #2234 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
+        "units": ""
     },
     {
         "id": "BF2303712",
@@ -19,39 +52,6 @@
         "location": "NB 101 / SO SAN BRUNO AVE",
         "latitude": 37.6207581925853,
         "longitude": -122.399704894092,
-        "units": ">E34 >T34 >BC8 CM31X3 ?TAC35"
-    },
-    {
-        "id": "NF2311592",
-        "date": "2023-10-20",
-        "time": "11:02:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #111 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "FF2306006",
-        "date": "2023-10-20",
-        "time": "10:11:05 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "1333 MISSION RD ,SSF",
-        "latitude": 37.6644365023715,
-        "longitude": -122.444021523015,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2311624",
-        "date": "2023-10-20",
-        "time": "8:29:30 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Structure fire",
-        "location": "1107 2ND AVE ,RCY",
-        "latitude": 37.4856958347054,
-        "longitude": -122.200133941431,
-        "units": ">PR3B"
+        "units": "?TAC35 >BC8 CM31X3"
     }
 ]
