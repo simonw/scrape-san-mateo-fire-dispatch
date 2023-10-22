@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2307434",
+        "id": "MF2309214",
         "date": "2023-10-22",
-        "time": "10:20:45 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "10:41:46 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL / OAK GROVE AVE",
+        "location": "SHARON PARK DR #T23 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": "E4"
+    },
+    {
+        "id": "NF2311638",
+        "date": "2023-10-22",
+        "time": "10:39:17 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 1 / SO 280",
+        "latitude": 37.673070457036,
+        "longitude": -122.474379776397,
+        "units": "E94 CM31X5 BC124 ?TAC36 T95E91"
+    },
+    {
+        "id": "RF2311681",
+        "date": "2023-10-22",
+        "time": "10:38:52 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Structure fire",
+        "location": "86 RENATO CT #11 ,RCY",
+        "latitude": 37.4687064742983,
+        "longitude": -122.214286682888,
+        "units": "T9 E6 E11 E9 CM11X4BC1 E3 ?TAC15 BC3 E10"
     },
     {
         "id": "NF2311637",
@@ -19,29 +41,7 @@
         "location": "CRESPI DR #S202 ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "CF2307433",
-        "date": "2023-10-22",
-        "time": "10:08:07 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #323 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "DF2302185",
-        "date": "2023-10-22",
-        "time": "10:07:42 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CANADA RD / EDGEWOOD RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
+        "units": ""
     },
     {
         "id": "FF2306036",
@@ -52,6 +52,6 @@
         "location": "95 HARBOR MASTER RD ,SSF",
         "latitude": 37.6634387941809,
         "longitude": -122.37858660283,
-        "units": ">BC17 TAC35 CM51X1 >E65"
+        "units": "TAC35 CM51X1 >BC17 >E65"
     }
 ]
