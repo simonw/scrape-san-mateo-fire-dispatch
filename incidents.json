@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2313328",
+        "id": "RF2311666",
         "date": "2023-10-21",
-        "time": "8:24:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:40:44 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "RINCONADA CIR ,BLM",
+        "location": "SKIFF CIR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "?E15"
+        "units": "E20"
+    },
+    {
+        "id": "CF2307422",
+        "date": "2023-10-21",
+        "time": "8:35:43 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #144BED3 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "FF2306028",
+        "date": "2023-10-21",
+        "time": "8:30:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "400 B ST ,SSF",
+        "latitude": 37.6478816196094,
+        "longitude": -122.426577629477,
+        "units": ">E63"
+    },
+    {
+        "id": "FF2306027",
+        "date": "2023-10-21",
+        "time": "8:28:05 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Lock out - vehicle",
+        "location": "849 W ORANGE AVE ,SSF",
+        "latitude": 37.652903937624,
+        "longitude": -122.435566331711,
+        "units": ">E61"
+    },
+    {
+        "id": "MF2309201",
+        "date": "2023-10-21",
+        "time": "8:27:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
     },
     {
         "id": "SF2313327",
@@ -19,28 +63,6 @@
         "location": "1250 BEACH PARK BLVD ,FCY",
         "latitude": 37.5554715783932,
         "longitude": -122.248305949614,
-        "units": "E28"
-    },
-    {
-        "id": "HF2302804",
-        "date": "2023-10-21",
-        "time": "8:11:46 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BEACH WAY ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "RF2311665",
-        "date": "2023-10-21",
-        "time": "7:47:06 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GRANITE CT ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">E28"
     }
 ]
