@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2306037",
+        "date": "2023-10-22",
+        "time": "12:03:37 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "101 OYSTER POINT BLVD ,SSF",
+        "latitude": 37.6628023448017,
+        "longitude": -122.397202241989,
+        "units": "E65"
+    },
+    {
+        "id": "MF2309215",
+        "date": "2023-10-22",
+        "time": "11:58:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRITTANY MEADOWS ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "DF2302187",
+        "date": "2023-10-22",
+        "time": "11:54:15 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "LA HONDA RD / HILDEBRAND RD",
+        "latitude": 37.3262653253355,
+        "longitude": -122.272773214972,
+        "units": "E40 E19 BC2 E57 >R57E1765 E4 BC15 E59 TAC46"
+    },
+    {
+        "id": "WF2301798",
+        "date": "2023-10-22",
+        "time": "11:49:31 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAND HILL RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E7"
+    },
+    {
         "id": "NF2311645",
         "date": "2023-10-22",
         "time": "11:40:17 AM",
@@ -8,29 +52,7 @@
         "location": "FRANKFORT ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "BF2303729",
-        "date": "2023-10-22",
-        "time": "11:38:00 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SYCAMORE AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "HF2302810",
-        "date": "2023-10-22",
-        "time": "11:36:49 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "521 CYPRESS AVE ,MBH",
-        "latitude": 37.5253075928281,
-        "longitude": -122.510054285796,
-        "units": "E44"
+        "units": ">E92"
     },
     {
         "id": "DF2302186",
@@ -38,86 +60,9 @@
         "time": "11:36:03 AM",
         "summary": "County Fire on Control-1",
         "category": "Traffic accident pd request c3",
-        "location": "LONG RIDGE TRL / LONG RIDGE RD",
+        "location": "SKYLINE BLVD / PORTOLA HEIGHTS RD",
         "latitude": 37.2788996324631,
         "longitude": -122.160705919512,
-        "units": "R57 >E1762 E7 BC2 TAC45E1765 E58"
-    },
-    {
-        "id": "RF2311687",
-        "date": "2023-10-22",
-        "time": "11:30:27 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOPKINS AVE / WARREN ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
-    },
-    {
-        "id": "RF2311685",
-        "date": "2023-10-22",
-        "time": "11:21:40 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MADDUX DR ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2311684",
-        "date": "2023-10-22",
-        "time": "11:13:59 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "RF2311683",
-        "date": "2023-10-22",
-        "time": "11:13:41 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHART LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "HF2302809",
-        "date": "2023-10-22",
-        "time": "11:11:36 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROOSEVELT BLVD ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "SF2313354",
-        "date": "2023-10-22",
-        "time": "10:59:52 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DOMINICA LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2311638",
-        "date": "2023-10-22",
-        "time": "10:39:17 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 1 / SO 280",
-        "latitude": 37.673070457036,
-        "longitude": -122.474379776397,
-        "units": ">E94"
+        "units": ">E1762 TAC45 >E58"
     }
 ]
