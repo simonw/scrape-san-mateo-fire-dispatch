@@ -1,25 +1,36 @@
 [
     {
-        "id": "RF2311690",
+        "id": "LF2301043",
         "date": "2023-10-22",
-        "time": "1:56:40 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WHIPPLE AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "time": "2:17:31 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "4935 JUNIPERO SERRA BLVD ,CLM",
+        "latitude": 37.6744324673221,
+        "longitude": -122.465215957741,
+        "units": "T85 >TAC35 >E86 CM31X2"
     },
     {
-        "id": "LF2301042",
+        "id": "SF2313363",
         "date": "2023-10-22",
-        "time": "1:52:17 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "2:14:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MISSION RD #114 ,CLM",
+        "location": "THAYER LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E86"
+        "units": ">E28"
+    },
+    {
+        "id": "FF2306038",
+        "date": "2023-10-22",
+        "time": "2:04:36 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1 CORPORATE DR ,SSF",
+        "latitude": 37.6572483208058,
+        "longitude": -122.402288297319,
+        "units": ">E61"
     },
     {
         "id": "HF2302812",
@@ -30,28 +41,6 @@
         "location": "SONORA AVE ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "HF2302811",
-        "date": "2023-10-22",
-        "time": "1:42:36 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PELICAN CIR ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "NF2311651",
-        "date": "2023-10-22",
-        "time": "1:42:13 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": "*>E41"
     }
 ]
