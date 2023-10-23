@@ -1,5 +1,60 @@
 [
     {
+        "id": "HF2302819",
+        "date": "2023-10-22",
+        "time": "10:03:03 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHESTERFIELD AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "SF2313378",
+        "date": "2023-10-22",
+        "time": "10:02:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "429 COLGATE WAY ,SMO",
+        "latitude": 37.5523338551164,
+        "longitude": -122.334678161177,
+        "units": "E25"
+    },
+    {
+        "id": "BF2303737",
+        "date": "2023-10-22",
+        "time": "9:49:11 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MASSON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "WF2301802",
+        "date": "2023-10-22",
+        "time": "9:47:04 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "139 ALBION AVE ,WDS",
+        "latitude": 37.4287748838425,
+        "longitude": -122.260827593231,
+        "units": ">E7"
+    },
+    {
+        "id": "HF2302818",
+        "date": "2023-10-22",
+        "time": "9:43:37 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CULEBRA LN ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
         "id": "SF2313377",
         "date": "2023-10-22",
         "time": "9:39:18 PM",
@@ -8,18 +63,7 @@
         "location": "S NORFOLK ST / FASHION ISLAND BLVD",
         "latitude": 37.5542165431378,
         "longitude": -122.291698714802,
-        "units": "E26"
-    },
-    {
-        "id": "RF2311701",
-        "date": "2023-10-22",
-        "time": "9:24:02 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #312 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ">E26"
     },
     {
         "id": "CF2307442",
@@ -30,6 +74,6 @@
         "location": "835 AIRPORT BLVD ,BRM",
         "latitude": 37.5906488666974,
         "longitude": -122.350942454073,
-        "units": ">CM21X4 >BC8 >T34 >TAC25 >BC16>E34 >PR8B >E35"
+        "units": ">CM21X4 >BC8 >T34 >TAC25 >E34>PR8B"
     }
 ]
