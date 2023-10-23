@@ -1,47 +1,80 @@
 [
     {
-        "id": "RF2311699",
+        "id": "FF2306050",
         "date": "2023-10-22",
-        "time": "8:16:24 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "8:43:15 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "400 CYPRESS AVE ,SSF",
+        "latitude": 37.6561807464064,
+        "longitude": -122.407657929677,
+        "units": "?Q62"
+    },
+    {
+        "id": "BF2303736",
+        "date": "2023-10-22",
+        "time": "8:42:25 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "WALNUT ST ,RCY",
+        "location": "MAYWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "E52"
     },
     {
-        "id": "MF2309224",
+        "id": "RF2311700",
         "date": "2023-10-22",
-        "time": "8:13:19 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "1360 MADERA AVE ,MNP",
-        "latitude": 37.4780870233879,
-        "longitude": -122.153970754999,
-        "units": ">E77"
+        "time": "8:39:42 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "REDWOOD SHORES PKWY ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
     },
     {
-        "id": "FF2306048",
+        "id": "NF2311663",
         "date": "2023-10-22",
-        "time": "8:01:38 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "COMMERCIAL AVE / SPRUCE AVE",
-        "latitude": 37.6545558664628,
-        "longitude": -122.416706556937,
-        "units": "?TAC35 >BC17 >E61 CM31X4"
-    },
-    {
-        "id": "NF2311661",
-        "date": "2023-10-22",
-        "time": "7:34:29 PM",
+        "time": "8:35:23 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "GLEN PKWY / HUMBOLDT RD",
-        "latitude": 37.6774569081165,
-        "longitude": -122.400123239729,
-        "units": "*>E81"
+        "category": "Medical aid",
+        "location": "BRUNSWICK ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "SF2313375",
+        "date": "2023-10-22",
+        "time": "8:35:07 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HANBURY LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E29"
+    },
+    {
+        "id": "WF2301801",
+        "date": "2023-10-22",
+        "time": "8:30:37 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "HUDDART PARK RD / KINGS MOUNTAIN RD",
+        "latitude": 37.4355892866856,
+        "longitude": -122.291368399681,
+        "units": "E356"
+    },
+    {
+        "id": "BF2303735",
+        "date": "2023-10-22",
+        "time": "8:27:38 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "POPLAR AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     },
     {
         "id": "CF2307442",
@@ -52,6 +85,6 @@
         "location": "835 AIRPORT BLVD ,BRM",
         "latitude": 37.5906488666974,
         "longitude": -122.350942454073,
-        "units": ">CM21X4 >BC5 >BC8 >T34 >E37>TAC25 >BC16 >E34 >T51 >E21"
+        "units": ">CM21X4 >BC5 >BC8 >T34 >TAC25>BC16 >E34 >T51 >PR8B >E24"
     }
 ]
