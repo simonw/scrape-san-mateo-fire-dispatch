@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2309250",
+        "date": "2023-10-24",
+        "time": "10:40:44 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "DAISY LN / HIBISCUS CT",
+        "latitude": 37.4617271346511,
+        "longitude": -122.126608975021,
+        "units": "E2"
+    },
+    {
         "id": "SF2313436",
         "date": "2023-10-24",
         "time": "10:22:58 AM",
@@ -8,7 +19,7 @@
         "location": "ALAMEDA DE LAS PULGAS ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "RF2311758",
@@ -19,18 +30,7 @@
         "location": "BROADWAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "RF2311757",
-        "date": "2023-10-24",
-        "time": "10:16:41 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "707 BRADFORD ST ,RCY",
-        "latitude": 37.4889857851204,
-        "longitude": -122.227669818892,
-        "units": ">T9"
+        "units": ">E12"
     },
     {
         "id": "DF2302198",
@@ -41,7 +41,7 @@
         "location": "REDWOOD TE ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": "E1781 TAC45 E58 >R56"
+        "units": "TAC45 >E58 >R56"
     },
     {
         "id": "CF2307480",
@@ -52,7 +52,7 @@
         "location": "EL CAMINO REAL / SANCHEZ AVE",
         "latitude": 37.5819173922423,
         "longitude": -122.362181491215,
-        "units": "CM21X5 >BC8 >T34 ?TAC25 >E34"
+        "units": ">T34 >E34"
     },
     {
         "id": "CF2307479",
@@ -64,28 +64,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "FF2306077",
-        "date": "2023-10-24",
-        "time": "10:09:56 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WICKLOW DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "MF2309249",
-        "date": "2023-10-24",
-        "time": "9:48:25 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #205 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
     },
     {
         "id": "NF2311703",
