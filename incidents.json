@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2311742",
+        "id": "CF2307473",
         "date": "2023-10-23",
-        "time": "9:55:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1039 CLEVELAND ST ,RCY",
-        "latitude": 37.4766191503492,
-        "longitude": -122.229351390379,
-        "units": ">E10"
+        "time": "10:20:40 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CALIFORNIA DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "WF2301809",
+        "date": "2023-10-23",
+        "time": "10:06:55 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CHEROKEE WAY ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E8"
     },
     {
         "id": "WF2301808",
@@ -19,7 +30,7 @@
         "location": "WOODSIDE RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": ">E7"
+        "units": "E7"
     },
     {
         "id": "NF2311695",
@@ -30,29 +41,7 @@
         "location": "CORONADO AVE #130 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "CF2307472",
-        "date": "2023-10-23",
-        "time": "9:53:57 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEQUOIA AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2306068",
-        "date": "2023-10-23",
-        "time": "9:52:53 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALHAMBRA RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": "E91"
     },
     {
         "id": "NF2311694",
@@ -63,28 +52,6 @@
         "location": "NB 101 / SO CANDLESTICK PARK",
         "latitude": 37.6927809446673,
         "longitude": -122.391323110023,
-        "units": ">BC17 ?TAC35 >Q62 >E65 >E81CM31X4"
-    },
-    {
-        "id": "LF2301049",
-        "date": "2023-10-23",
-        "time": "9:51:40 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "D ST ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "RF2311741",
-        "date": "2023-10-23",
-        "time": "9:47:10 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST #7 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": ">BC17 ?TAC35 >E65 CM31X4"
     }
 ]
