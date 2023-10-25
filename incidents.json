@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2311743",
+        "date": "2023-10-25",
+        "time": "12:16:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "443 GREEN RIDGE DR #10 ,DCY",
+        "latitude": 37.7009655542462,
+        "longitude": -122.458456523635,
+        "units": "E92"
+    },
+    {
+        "id": "RF2311804",
+        "date": "2023-10-25",
+        "time": "12:15:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SEAPORT BLVD / LYNGSO LN",
+        "latitude": null,
+        "longitude": null,
+        "units": "T9"
+    },
+    {
+        "id": "SF2313483",
+        "date": "2023-10-25",
+        "time": "12:11:17 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "CF2307510",
+        "date": "2023-10-25",
+        "time": "12:09:05 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Vehicle fire",
+        "location": "NB 101 / SO MILLBRAE AVE",
+        "latitude": 37.5969854169125,
+        "longitude": -122.371638087183,
+        "units": ""
+    },
+    {
+        "id": "NF2311742",
+        "date": "2023-10-25",
+        "time": "12:06:16 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MONTEREY ST ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
         "id": "CF2307509",
         "date": "2023-10-25",
         "time": "12:03:31 PM",
@@ -8,7 +63,7 @@
         "location": "DEVEREUX DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E34"
+        "units": ">E34"
     },
     {
         "id": "CF2307508",
@@ -19,29 +74,7 @@
         "location": "HAYNE RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "E33"
-    },
-    {
-        "id": "MF2309299",
-        "date": "2023-10-25",
-        "time": "11:59:55 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BEECH ST / PULGAS AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "SF2313482",
-        "date": "2023-10-25",
-        "time": "11:50:27 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / EMMETT AVE",
-        "latitude": 37.519768476618,
-        "longitude": -122.27515129394,
-        "units": ">E14"
+        "units": ">E33"
     },
     {
         "id": "SF2313481",
@@ -52,7 +85,7 @@
         "location": "25 MCAKER CT ,SMO",
         "latitude": 37.5475374594644,
         "longitude": -122.31006819245,
-        "units": ">E23"
+        "units": ""
     },
     {
         "id": "MF2309295",
@@ -63,6 +96,6 @@
         "location": "NB 101 / NO MARSH RD",
         "latitude": 37.4860898454352,
         "longitude": -122.193396924125,
-        "units": ">T9 >E2 >PR3A >E9 >TAC15>BC3 >CM11X2 >E77"
+        "units": ">PR3C >E2 >PR3A >E9 >TAC15>BC3 >CM11X2 >E77 >PR3D"
     }
 ]
