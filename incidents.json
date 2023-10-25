@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2307506",
+        "id": "CF2307509",
         "date": "2023-10-25",
-        "time": "11:40:46 AM",
+        "time": "12:03:31 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
+        "location": "DEVEREUX DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": "?E34"
+    },
+    {
+        "id": "CF2307508",
+        "date": "2023-10-25",
+        "time": "12:00:38 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HAYNE RD ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "E33"
+    },
+    {
+        "id": "MF2309299",
+        "date": "2023-10-25",
+        "time": "11:59:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BEECH ST / PULGAS AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2313482",
+        "date": "2023-10-25",
+        "time": "11:50:27 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / EMMETT AVE",
+        "latitude": 37.519768476618,
+        "longitude": -122.27515129394,
+        "units": ">E14"
     },
     {
         "id": "SF2313481",
@@ -22,17 +55,6 @@
         "units": ">E23"
     },
     {
-        "id": "WF2301816",
-        "date": "2023-10-25",
-        "time": "11:34:42 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "139 ALBION AVE ,WDS",
-        "latitude": 37.4287748838425,
-        "longitude": -122.260827593231,
-        "units": ">E7"
-    },
-    {
         "id": "MF2309295",
         "date": "2023-10-25",
         "time": "11:33:42 AM",
@@ -41,28 +63,6 @@
         "location": "NB 101 / NO MARSH RD",
         "latitude": 37.4860898454352,
         "longitude": -122.193396924125,
-        "units": "T9 E2 >E9 >TAC15 >BC3>CM11X2 >E77 E1"
-    },
-    {
-        "id": "CF2307505",
-        "date": "2023-10-25",
-        "time": "11:32:58 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VIA DELIZIA ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "RF2311803",
-        "date": "2023-10-25",
-        "time": "11:10:32 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FLORENCE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E11"
+        "units": ">T9 >E2 >PR3A >E9 >TAC15>BC3 >CM11X2 >E77"
     }
 ]
