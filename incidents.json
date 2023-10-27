@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2309343",
+        "date": "2023-10-26",
+        "time": "7:08:16 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "105 5TH AVE #3 ,NFO",
+        "latitude": 37.469072634978,
+        "longitude": -122.207633330638,
+        "units": "E3"
+    },
+    {
+        "id": "SF2313546",
+        "date": "2023-10-26",
+        "time": "7:05:23 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S HUMBOLDT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "SF2313545",
         "date": "2023-10-26",
         "time": "6:51:49 PM",
@@ -11,17 +33,6 @@
         "units": ">E15"
     },
     {
-        "id": "SF2313544",
-        "date": "2023-10-26",
-        "time": "6:50:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "900 ALAMEDA DE LAS PULGAS ,SMO",
-        "latitude": 37.5503294393049,
-        "longitude": -122.329336224786,
-        "units": ">E25"
-    },
-    {
         "id": "NF2311785",
         "date": "2023-10-26",
         "time": "6:47:57 PM",
@@ -31,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "LF2301060",
-        "date": "2023-10-26",
-        "time": "6:47:25 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLMA BLVD ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2303770",
-        "date": "2023-10-26",
-        "time": "6:30:16 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MASSON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2307535",
-        "date": "2023-10-26",
-        "time": "6:29:19 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #191 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
     }
 ]
