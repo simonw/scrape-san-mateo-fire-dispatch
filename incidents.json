@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2311859",
+        "date": "2023-10-28",
+        "time": "11:56:00 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "W MANOR DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E172"
+    },
+    {
+        "id": "FF2306148",
+        "date": "2023-10-28",
+        "time": "11:55:56 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CHESTNUT AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "RF2311916",
+        "date": "2023-10-28",
+        "time": "11:54:04 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "485 VETERANS BLVD ,RCY",
+        "latitude": 37.4960960017186,
+        "longitude": -122.235598575461,
+        "units": ">E13"
+    },
+    {
         "id": "RF2311915",
         "date": "2023-10-28",
         "time": "11:39:26 AM",
@@ -8,7 +41,18 @@
         "location": "620 VETERANS BLVD ,RCY",
         "latitude": 37.4924155678734,
         "longitude": -122.23296525127,
-        "units": "E10"
+        "units": ">E10"
+    },
+    {
+        "id": "RF2311914",
+        "date": "2023-10-28",
+        "time": "11:38:58 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "REGENT ST #3 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "MF2309389",
@@ -19,51 +63,7 @@
         "location": "E BAYSHORE RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X3 BC101 >E2 ?TAC15"
-    },
-    {
-        "id": "CF2307583",
-        "date": "2023-10-28",
-        "time": "11:36:06 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #179 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "SF2313617",
-        "date": "2023-10-28",
-        "time": "11:33:23 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "888 N SAN MATEO DR ,SMO",
-        "latitude": 37.5764866622741,
-        "longitude": -122.337212849085,
-        "units": "T21"
-    },
-    {
-        "id": "NF2311858",
-        "date": "2023-10-28",
-        "time": "11:30:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SUNSHINE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "FF2306147",
-        "date": "2023-10-28",
-        "time": "11:25:03 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CHESTNUT AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": "E2 BC101"
     },
     {
         "id": "FF2306146",
@@ -75,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "NF2311857",
-        "date": "2023-10-28",
-        "time": "11:21:02 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SPRUCE CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
     }
 ]
