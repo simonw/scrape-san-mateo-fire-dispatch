@@ -1,14 +1,69 @@
 [
     {
-        "id": "NF2311836",
+        "id": "WF2301828",
         "date": "2023-10-27",
-        "time": "7:07:33 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "7:24:47 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "ACTON ST ,DCY",
+        "location": "SUNRISE DR ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": "E7 ?TAC15 ?CM11X4 ?CO56"
+    },
+    {
+        "id": "MF2309369",
+        "date": "2023-10-27",
+        "time": "7:22:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAZELWOOD WAY ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "HF2302852",
+        "date": "2023-10-27",
+        "time": "7:20:22 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Structure fire",
+        "location": "611 SAN BENITO ST ,HMB",
+        "latitude": 37.461970784295,
+        "longitude": -122.427351520571,
+        "units": ">E40 TO10 E44 BC11 BC10E72 E71 E41 ?TAC45 ?CM41X2"
+    },
+    {
+        "id": "RF2311883",
+        "date": "2023-10-27",
+        "time": "7:20:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLINTON ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "MF2309368",
+        "date": "2023-10-27",
+        "time": "7:14:10 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "3705 HAVEN AVE ,MNP",
+        "latitude": 37.4855525412497,
+        "longitude": -122.182236857219,
+        "units": "E11"
+    },
+    {
+        "id": "SF2313590",
+        "date": "2023-10-27",
+        "time": "7:13:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "235 36TH AVE ,SMO",
+        "latitude": 37.5325831104591,
+        "longitude": -122.300771163096,
+        "units": ">T23 >BC5 >E23 TAC25 ?CM21X5"
     },
     {
         "id": "NF2311835",
@@ -19,18 +74,7 @@
         "location": "RIO VERDE ST / GENEVA AVE",
         "latitude": 37.7071174722072,
         "longitude": -122.415779756977,
-        "units": "E93 ?TAC35 BC20 Q62 CM31X3"
-    },
-    {
-        "id": "RF2311882",
-        "date": "2023-10-27",
-        "time": "7:04:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WALNUT ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "T9"
+        "units": ">E93"
     },
     {
         "id": "WF2301827",
@@ -41,7 +85,7 @@
         "location": "19001 SKYLINE BLVD ,PVY",
         "latitude": 37.3614969771556,
         "longitude": -122.247217274884,
-        "units": "?CO56 ?TAC15 >E58 ?CM11X5 >BC15"
+        "units": ">E58"
     },
     {
         "id": "SF2313589",
@@ -53,27 +97,5 @@
         "latitude": 37.5689808309991,
         "longitude": -122.342552834996,
         "units": ">E32"
-    },
-    {
-        "id": "CF2307565",
-        "date": "2023-10-27",
-        "time": "6:53:04 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PEPPER AVE ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "RF2311881",
-        "date": "2023-10-27",
-        "time": "6:49:13 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RENATO CT #6 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
     }
 ]
