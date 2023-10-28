@@ -1,46 +1,68 @@
 [
     {
-        "id": "NF2311828",
+        "id": "CF2307562",
         "date": "2023-10-27",
-        "time": "4:36:43 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO 1",
-        "latitude": 37.6738400118365,
-        "longitude": -122.468286519171,
-        "units": "?TAC35 >E92 CM31X1 >BC20 T95E91"
-    },
-    {
-        "id": "CF2307560",
-        "date": "2023-10-27",
-        "time": "4:33:23 PM",
+        "time": "5:17:28 PM",
         "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "CENTER ST / EL CAMINO REAL",
-        "latitude": 37.607772847602,
-        "longitude": -122.398879754454,
-        "units": "CM21X4 >E37 ?TAC25 >BC16 >T51"
-    },
-    {
-        "id": "NF2311827",
-        "date": "2023-10-27",
-        "time": "4:31:10 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "143 MONTECITO AVE ,PCF",
-        "latitude": 37.6329265874818,
-        "longitude": -122.491120683212,
-        "units": ">E71"
-    },
-    {
-        "id": "NF2311826",
-        "date": "2023-10-27",
-        "time": "4:30:27 PM",
-        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "GELLERT BLVD / WARWICK ST",
+        "location": "BROADWAY ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": "E38"
+    },
+    {
+        "id": "CF2307561",
+        "date": "2023-10-27",
+        "time": "5:15:08 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "LINDEN AVE / SERRA AVE",
+        "latitude": 37.5993887684591,
+        "longitude": -122.387466015067,
+        "units": ">E37 T51 BC8 CM21X3 ?TAC25"
+    },
+    {
+        "id": "NF2311831",
+        "date": "2023-10-27",
+        "time": "5:14:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WINCHESTER ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "LF2301067",
+        "date": "2023-10-27",
+        "time": "5:09:22 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1700 HILLSIDE BLVD ,CLM",
+        "latitude": 37.6798977716546,
+        "longitude": -122.452575584371,
+        "units": "?TAC35 CM31X4"
+    },
+    {
+        "id": "SF2313585",
+        "date": "2023-10-27",
+        "time": "4:58:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W 5TH AVE #228 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2313584",
+        "date": "2023-10-27",
+        "time": "4:49:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W 20TH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
     }
 ]
