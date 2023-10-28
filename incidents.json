@@ -1,25 +1,91 @@
 [
     {
-        "id": "WF2301828",
+        "id": "SF2313592",
         "date": "2023-10-27",
-        "time": "7:24:47 PM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "7:43:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "SUNRISE DR ,WDS",
+        "location": "N DELAWARE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E7 ?TAC15 ?CM11X4 ?CO56"
+        "units": "?E32"
     },
     {
-        "id": "MF2309369",
+        "id": "MF2309370",
         "date": "2023-10-27",
-        "time": "7:22:59 PM",
+        "time": "7:40:45 PM",
         "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1012 LAUREL AVE ,EPA",
+        "latitude": 37.4687726327293,
+        "longitude": -122.152196141963,
+        "units": "E2"
+    },
+    {
+        "id": "CF2307566",
+        "date": "2023-10-27",
+        "time": "7:40:28 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "HAZELWOOD WAY ,EPA",
+        "location": "RHINETTE AVE #110 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "E34"
+    },
+    {
+        "id": "RF2311885",
+        "date": "2023-10-27",
+        "time": "7:35:00 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KING ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "BF2303782",
+        "date": "2023-10-27",
+        "time": "7:33:21 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SHELTER CREEK LN #1247 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2311884",
+        "date": "2023-10-27",
+        "time": "7:30:01 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "3786 ROLISON RD ,RCY",
+        "latitude": 37.4836668117228,
+        "longitude": -122.183290459844,
+        "units": ">T9 ?CM11X3 ?TAC16 >E5"
+    },
+    {
+        "id": "BF2303781",
+        "date": "2023-10-27",
+        "time": "7:27:57 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LAKE DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "FF2306135",
+        "date": "2023-10-27",
+        "time": "7:26:03 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Odor investigation",
+        "location": "1031 GRAND AVE ,SSF",
+        "latitude": 37.6598417229475,
+        "longitude": -122.434796632222,
+        "units": ">E63"
     },
     {
         "id": "HF2302852",
@@ -30,18 +96,7 @@
         "location": "611 SAN BENITO ST ,HMB",
         "latitude": 37.461970784295,
         "longitude": -122.427351520571,
-        "units": ">E40 TO10 E44 BC11 BC10E72 E71 E41 ?TAC45 ?CM41X2"
-    },
-    {
-        "id": "RF2311883",
-        "date": "2023-10-27",
-        "time": "7:20:21 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLINTON ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": "?CM41X2 ?TAC45 >E40 *>E41 >BC10"
     },
     {
         "id": "MF2309368",
@@ -52,29 +107,7 @@
         "location": "3705 HAVEN AVE ,MNP",
         "latitude": 37.4855525412497,
         "longitude": -122.182236857219,
-        "units": "E11"
-    },
-    {
-        "id": "SF2313590",
-        "date": "2023-10-27",
-        "time": "7:13:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "235 36TH AVE ,SMO",
-        "latitude": 37.5325831104591,
-        "longitude": -122.300771163096,
-        "units": ">T23 >BC5 >E23 TAC25 ?CM21X5"
-    },
-    {
-        "id": "NF2311835",
-        "date": "2023-10-27",
-        "time": "7:07:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "RIO VERDE ST / GENEVA AVE",
-        "latitude": 37.7071174722072,
-        "longitude": -122.415779756977,
-        "units": ">E93"
+        "units": ">E11"
     },
     {
         "id": "WF2301827",
@@ -85,17 +118,6 @@
         "location": "19001 SKYLINE BLVD ,PVY",
         "latitude": 37.3614969771556,
         "longitude": -122.247217274884,
-        "units": ">E58"
-    },
-    {
-        "id": "SF2313589",
-        "date": "2023-10-27",
-        "time": "6:54:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "161 CLARK DR ,SMO",
-        "latitude": 37.5689808309991,
-        "longitude": -122.342552834996,
-        "units": ">E32"
+        "units": ""
     }
 ]
