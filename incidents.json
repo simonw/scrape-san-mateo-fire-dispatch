@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2307591",
+        "id": "RF2311925",
         "date": "2023-10-28",
-        "time": "4:33:25 PM",
+        "time": "5:19:29 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FRANCES LN ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "CF2307592",
+        "date": "2023-10-28",
+        "time": "5:15:03 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "TROUSDALE DR #319 ,BRM",
+        "location": "TROUSDALE DR #299 ,BRM",
         "latitude": null,
         "longitude": null,
         "units": ">T34"
+    },
+    {
+        "id": "SF2313627",
+        "date": "2023-10-28",
+        "time": "5:14:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "RINCONADA CIR ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "MF2309397",
+        "date": "2023-10-28",
+        "time": "5:05:38 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALPARAISO AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
     },
     {
         "id": "CF2307588",
@@ -19,28 +52,6 @@
         "location": "1250 TUOLUMNE RD ,MLB",
         "latitude": 37.5965506315704,
         "longitude": -122.413842682836,
-        "units": ">T51 ?CCFINV >BC16 >E37 TAC25>E38 CM21X4"
-    },
-    {
-        "id": "NF2311870",
-        "date": "2023-10-28",
-        "time": "4:00:48 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "5 SERRAMONTE CTR #L ,DCY",
-        "latitude": 37.6729567789084,
-        "longitude": -122.470343639023,
-        "units": ""
-    },
-    {
-        "id": "SF2313623",
-        "date": "2023-10-28",
-        "time": "3:14:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MONTE DIABLO AVE / N ROCHESTER ST",
-        "latitude": null,
-        "longitude": null,
-        "units": "E24"
+        "units": "CM21X4 >E37 TAC25 >BC16 >T51>E38"
     }
 ]
