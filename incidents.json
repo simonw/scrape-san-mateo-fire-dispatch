@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2311966",
+        "date": "2023-10-29",
+        "time": "9:35:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALOTA RD #24 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "MF2309440",
+        "date": "2023-10-29",
+        "time": "9:33:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "906 TINSLEY ST ,EPA",
+        "latitude": 37.4584236601588,
+        "longitude": -122.134052211385,
+        "units": ">E2"
+    },
+    {
         "id": "SF2313679",
         "date": "2023-10-29",
         "time": "9:24:36 PM",
@@ -8,29 +30,7 @@
         "location": "1730 S EL CAMINO REAL ,SMO",
         "latitude": 37.5515333495706,
         "longitude": -122.314046776108,
-        "units": "E25"
-    },
-    {
-        "id": "MF2309439",
-        "date": "2023-10-29",
-        "time": "9:21:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "2395 UNIVERSITY AVE ,EPA",
-        "latitude": 37.4714208842682,
-        "longitude": -122.139833974979,
-        "units": ">T2"
-    },
-    {
-        "id": "FF2306176",
-        "date": "2023-10-29",
-        "time": "9:00:55 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "470 BADEN AVE ,SSF",
-        "latitude": 37.6556376618312,
-        "longitude": -122.415725532321,
-        "units": ">E61"
+        "units": ">E25"
     },
     {
         "id": "CF2307618",
@@ -42,16 +42,5 @@
         "latitude": 37.5902385190885,
         "longitude": -122.359714256636,
         "units": ">E35"
-    },
-    {
-        "id": "CF2307616",
-        "date": "2023-10-29",
-        "time": "8:44:46 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "765 AIRPORT BLVD ,BRM",
-        "latitude": 37.5892816592154,
-        "longitude": -122.349496601494,
-        "units": ">E34"
     }
 ]
