@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2313710",
+        "id": "MF2309462",
         "date": "2023-10-30",
-        "time": "3:41:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:59:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "FLORES ST ,SMO",
+        "location": "ALMA ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
+        "units": ">T4"
+    },
+    {
+        "id": "SF2313711",
+        "date": "2023-10-30",
+        "time": "3:58:27 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "POLYNESIA DR #115 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "RF2311996",
+        "date": "2023-10-30",
+        "time": "3:51:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALOTA RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "CF2307634",
+        "date": "2023-10-30",
+        "time": "3:51:31 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
     },
     {
         "id": "WF2301839",
@@ -19,40 +52,7 @@
         "location": "141 DRY CREEK LN ,WDS",
         "latitude": 37.4368552702507,
         "longitude": -122.264924777704,
-        "units": "CM11X1 SQ407 >E19"
-    },
-    {
-        "id": "FF2306195",
-        "date": "2023-10-30",
-        "time": "3:28:58 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "MF2309461",
-        "date": "2023-10-30",
-        "time": "3:16:32 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "UNIVERSITY AVE / BELL ST",
-        "latitude": 37.4656442725849,
-        "longitude": -122.141598901004,
-        "units": ""
-    },
-    {
-        "id": "RF2311995",
-        "date": "2023-10-30",
-        "time": "3:15:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LEAHY ST #103 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">CM11X1 >SQ407 >E19"
     },
     {
         "id": "NF2311932",
@@ -63,6 +63,6 @@
         "location": "NB 280 / SO JOHN DALY BLVD",
         "latitude": 37.7034101220142,
         "longitude": -122.471313233753,
-        "units": ">E92 *>E94 VF22X3 CM31X2 >E95>BC124"
+        "units": "*>E94"
     }
 ]
