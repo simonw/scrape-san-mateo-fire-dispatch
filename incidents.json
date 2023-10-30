@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2311926",
+        "date": "2023-10-30",
+        "time": "8:46:58 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BAY RIDGE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "FF2306186",
+        "date": "2023-10-30",
+        "time": "8:41:28 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "3875 CARTER DR #204 ,SSF",
+        "latitude": 37.6493080712991,
+        "longitude": -122.469347670092,
+        "units": ">E64"
+    },
+    {
         "id": "FF2306185",
         "date": "2023-10-30",
         "time": "8:27:41 AM",
@@ -8,7 +30,7 @@
         "location": "SB 101 / NO 380",
         "latitude": 37.6426283504007,
         "longitude": -122.406232661856,
-        "units": ">E61 >BC17 E51 CM31X3 Q62?TAC35"
+        "units": ">BC17 ?TAC35 >Q62 >E61 CM31X3"
     },
     {
         "id": "CF2307625",
@@ -19,7 +41,7 @@
         "location": "7 BELVEDERE CT ,BRM",
         "latitude": 37.5762603329118,
         "longitude": -122.382258398343,
-        "units": "CM21X4 >E35 E38 >E21 E32BC8 E34 T21 BC11 ?TAC25"
+        "units": "CM21X4 >BC8 >E32 ?TAC25 >E34>E38 >E21 >PR8B >BC11 >T21"
     },
     {
         "id": "MF2309450",
@@ -33,28 +55,6 @@
         "units": ">E5"
     },
     {
-        "id": "MF2309451",
-        "date": "2023-10-30",
-        "time": "8:23:04 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "745 SHARON PARK DR ,MNP",
-        "latitude": 37.4240686360401,
-        "longitude": -122.204326912885,
-        "units": ">E6"
-    },
-    {
-        "id": "LF2301075",
-        "date": "2023-10-30",
-        "time": "8:20:22 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #3124 ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
         "id": "WF2301837",
         "date": "2023-10-30",
         "time": "8:20:06 AM",
@@ -63,39 +63,6 @@
         "location": "SB 280 / NO SAND HILL RD",
         "latitude": 37.4282029747085,
         "longitude": -122.23430542581,
-        "units": ">E7 >CM11X3 >BC2 >TAC15 >SQ407>E4"
-    },
-    {
-        "id": "CF2307624",
-        "date": "2023-10-30",
-        "time": "8:15:48 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR #211 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "RF2311976",
-        "date": "2023-10-30",
-        "time": "7:57:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Landscape fire",
-        "location": "35 BUCKLAND CT ,SNC",
-        "latitude": 37.5094754609416,
-        "longitude": -122.27589582373,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2313691",
-        "date": "2023-10-30",
-        "time": "7:55:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALOS VERDES DR #303 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
+        "units": ">E7"
     }
 ]
