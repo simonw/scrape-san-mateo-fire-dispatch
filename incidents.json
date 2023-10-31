@@ -1,25 +1,58 @@
 [
     {
-        "id": "NF2311962",
+        "id": "NF2311963",
         "date": "2023-10-31",
-        "time": "8:23:25 AM",
+        "time": "8:42:11 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "RIDGEWAY DR ,PCF",
+        "location": "MISSION ST / SAN JOSE AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": "E92"
     },
     {
-        "id": "FF2306205",
+        "id": "FF2306206",
         "date": "2023-10-31",
-        "time": "8:22:09 AM",
+        "time": "8:37:05 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL #10 6 ,SSF",
+        "location": "ESCANYO DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E63"
+    },
+    {
+        "id": "RF2312022",
+        "date": "2023-10-31",
+        "time": "8:36:14 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1090 MAIN ST ,RCY",
+        "latitude": 37.4832162309969,
+        "longitude": -122.226433105992,
+        "units": "E11"
+    },
+    {
+        "id": "RF2312021",
+        "date": "2023-10-31",
+        "time": "8:30:30 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FRANKLIN ST #721 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2313744",
+        "date": "2023-10-31",
+        "time": "8:28:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TURNER TE #3 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
     },
     {
         "id": "RF2312020",
@@ -30,29 +63,7 @@
         "location": "VIRGINIA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "SF2313743",
-        "date": "2023-10-31",
-        "time": "8:19:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "321 N SAN MATEO DR ,SMO",
-        "latitude": 37.5711616681587,
-        "longitude": -122.331846107378,
-        "units": "E21"
-    },
-    {
-        "id": "CF2307645",
-        "date": "2023-10-31",
-        "time": "8:17:44 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ANITA RD #2 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ">E10"
     },
     {
         "id": "CF2307644",
@@ -64,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "SF2313742",
-        "date": "2023-10-31",
-        "time": "8:06:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HACIENDA ST #133 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
