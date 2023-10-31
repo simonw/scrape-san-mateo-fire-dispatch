@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2307647",
+        "id": "MF2309476",
         "date": "2023-10-31",
-        "time": "9:26:02 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "850 TAYLOR BLVD ,MLB",
-        "latitude": 37.5980060017428,
-        "longitude": -122.401513439284,
-        "units": "?E38"
+        "time": "9:42:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLARKE AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "T2"
+    },
+    {
+        "id": "FF2306210",
+        "date": "2023-10-31",
+        "time": "9:35:34 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "N ACCESS RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2311964",
+        "date": "2023-10-31",
+        "time": "9:26:03 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "60 PARK LN ,BRS",
+        "latitude": 37.6862852819483,
+        "longitude": -122.40320392297,
+        "units": ">E81"
     },
     {
         "id": "FF2306209",
@@ -19,7 +41,7 @@
         "location": "400 B ST ,SSF",
         "latitude": 37.6478816196094,
         "longitude": -122.426577629477,
-        "units": "?FECC ?E63"
+        "units": ">E63"
     },
     {
         "id": "MF2309475",
@@ -30,7 +52,7 @@
         "location": "SANTA CRUZ AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "HF2302881",
@@ -41,7 +63,7 @@
         "location": "PATRICK WAY ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": "*>E40"
     },
     {
         "id": "FF2306208",
@@ -52,7 +74,7 @@
         "location": "601 GRAND AVE ,SSF",
         "latitude": 37.6570635699736,
         "longitude": -122.41992575852,
-        "units": ">E61"
+        "units": ""
     },
     {
         "id": "SF2313747",
@@ -66,28 +88,6 @@
         "units": ">E23"
     },
     {
-        "id": "MF2309474",
-        "date": "2023-10-31",
-        "time": "9:18:22 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SANTA CRUZ AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2313746",
-        "date": "2023-10-31",
-        "time": "9:17:10 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E HILLSDALE BLVD ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
         "id": "CF2307646",
         "date": "2023-10-31",
         "time": "9:15:44 AM",
@@ -97,39 +97,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "FF2306207",
-        "date": "2023-10-31",
-        "time": "9:12:25 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ERIN PL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "MF2309473",
-        "date": "2023-10-31",
-        "time": "9:10:07 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2312024",
-        "date": "2023-10-31",
-        "time": "8:55:52 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WALNUT ST #214 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "RF2312021",
