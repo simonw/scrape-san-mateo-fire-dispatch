@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2312008",
+        "id": "SF2313727",
         "date": "2023-10-30",
-        "time": "9:29:35 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:00:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Trash fire",
+        "location": "2220 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5592557153616,
+        "longitude": -122.282217007693,
+        "units": "E26"
+    },
+    {
+        "id": "BF2303812",
+        "date": "2023-10-30",
+        "time": "9:58:24 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "MEADOWSWEET LN ,SNC",
+        "location": "CRYSTAL SPRINGS RD ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E18"
+        "units": "E52"
+    },
+    {
+        "id": "BF2303811",
+        "date": "2023-10-30",
+        "time": "9:55:39 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2311954",
+        "date": "2023-10-30",
+        "time": "9:53:04 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LIVINGSTON AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
     },
     {
         "id": "BF2303810",
@@ -19,17 +52,6 @@
         "location": "1450 BAYHILL DR #BLDG 3 ,SNB",
         "latitude": 37.6267269344667,
         "longitude": -122.428098818736,
-        "units": "?PR16 T51 BC16 CM31X1 >E51"
-    },
-    {
-        "id": "RF2312007",
-        "date": "2023-10-30",
-        "time": "9:23:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PAGE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM31X1 >E51 >TAC35 >BC16 >T51>PR16"
     }
 ]
