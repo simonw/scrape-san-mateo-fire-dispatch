@@ -1,14 +1,124 @@
 [
     {
-        "id": "RF2312025",
+        "id": "CF2307647",
         "date": "2023-10-31",
-        "time": "8:56:18 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "9:26:02 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "850 TAYLOR BLVD ,MLB",
+        "latitude": 37.5980060017428,
+        "longitude": -122.401513439284,
+        "units": "?E38"
+    },
+    {
+        "id": "FF2306209",
+        "date": "2023-10-31",
+        "time": "9:25:55 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Landscape fire",
+        "location": "400 B ST ,SSF",
+        "latitude": 37.6478816196094,
+        "longitude": -122.426577629477,
+        "units": "?FECC ?E63"
+    },
+    {
+        "id": "MF2309475",
+        "date": "2023-10-31",
+        "time": "9:23:24 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "REGENT ST #7 ,RCY",
+        "location": "SANTA CRUZ AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": "E4"
+    },
+    {
+        "id": "HF2302881",
+        "date": "2023-10-31",
+        "time": "9:22:46 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PATRICK WAY ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "FF2306208",
+        "date": "2023-10-31",
+        "time": "9:20:52 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "601 GRAND AVE ,SSF",
+        "latitude": 37.6570635699736,
+        "longitude": -122.41992575852,
+        "units": ">E61"
+    },
+    {
+        "id": "SF2313747",
+        "date": "2023-10-31",
+        "time": "9:20:50 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #208 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "MF2309474",
+        "date": "2023-10-31",
+        "time": "9:18:22 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SANTA CRUZ AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2313746",
+        "date": "2023-10-31",
+        "time": "9:17:10 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E HILLSDALE BLVD ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "CF2307646",
+        "date": "2023-10-31",
+        "time": "9:15:44 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #206 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "FF2306207",
+        "date": "2023-10-31",
+        "time": "9:12:25 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ERIN PL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "MF2309473",
+        "date": "2023-10-31",
+        "time": "9:10:07 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
     },
     {
         "id": "RF2312024",
@@ -19,18 +129,7 @@
         "location": "WALNUT ST #214 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T9"
-    },
-    {
-        "id": "SF2313745",
-        "date": "2023-10-31",
-        "time": "8:45:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "2121 S EL CAMINO REAL #C200 ,SMO",
-        "latitude": 37.5475765664353,
-        "longitude": -122.30770586841,
-        "units": ">E23"
+        "units": ""
     },
     {
         "id": "RF2312021",
@@ -42,16 +141,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E9"
-    },
-    {
-        "id": "SF2313744",
-        "date": "2023-10-31",
-        "time": "8:28:59 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TURNER TE #3 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
     }
 ]
