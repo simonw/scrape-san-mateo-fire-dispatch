@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2311948",
+        "date": "2023-10-30",
+        "time": "7:38:30 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "OUTLOOK CIR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "NF2311947",
+        "date": "2023-10-30",
+        "time": "7:37:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST FRANCIS BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "NF2311945",
         "date": "2023-10-30",
         "time": "7:27:01 PM",
@@ -8,18 +30,18 @@
         "location": "ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E95"
+        "units": "T95"
     },
     {
-        "id": "SF2313723",
+        "id": "RF2312001",
         "date": "2023-10-30",
-        "time": "7:25:36 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
+        "time": "7:26:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Trash fire",
+        "location": "818 WINSLOW ST ,RCY",
+        "latitude": 37.4866338205612,
+        "longitude": -122.232372406641,
+        "units": ">E9"
     },
     {
         "id": "BF2303809",
@@ -30,18 +52,7 @@
         "location": "HUNTINGTON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "MF2309466",
-        "date": "2023-10-30",
-        "time": "7:19:36 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAZELWOOD WAY ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E61"
     },
     {
         "id": "LF2301079",
@@ -55,17 +66,6 @@
         "units": ">E85"
     },
     {
-        "id": "RF2311999",
-        "date": "2023-10-30",
-        "time": "7:01:03 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
         "id": "LF2301077",
         "date": "2023-10-30",
         "time": "7:00:58 PM",
@@ -75,38 +75,5 @@
         "latitude": 37.6847983614674,
         "longitude": -122.46446676944,
         "units": ">PR19 >CM31X1 >TAC35 >E86"
-    },
-    {
-        "id": "SF2313722",
-        "date": "2023-10-30",
-        "time": "7:00:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2307635",
-        "date": "2023-10-30",
-        "time": "6:50:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1504 ARC WAY ,BRM",
-        "latitude": 37.5799316193978,
-        "longitude": -122.359560414965,
-        "units": ">E34"
-    },
-    {
-        "id": "DF2302227",
-        "date": "2023-10-30",
-        "time": "6:22:20 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "CRYSTAL SPRINGS RD / UNDER 280",
-        "latitude": 37.5313832491588,
-        "longitude": -122.361025610358,
-        "units": ">E1771 CM11X1 >E17 TAC15 >T17>BC11"
     }
 ]
