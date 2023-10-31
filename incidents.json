@@ -1,36 +1,58 @@
 [
     {
-        "id": "NF2311975",
+        "id": "NF2311978",
         "date": "2023-10-31",
-        "time": "2:04:40 PM",
+        "time": "2:22:30 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "MORNINGSIDE DR ,DCY",
+        "location": "PONCETTA DR #216 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E95"
+        "units": "E95"
     },
     {
-        "id": "CF2307659",
+        "id": "SF2313758",
         "date": "2023-10-31",
-        "time": "2:02:59 PM",
+        "time": "2:20:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #209A ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "NF2311977",
+        "date": "2023-10-31",
+        "time": "2:13:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "E MARKET ST #203A ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "CF2307660",
+        "date": "2023-10-31",
+        "time": "2:12:29 PM",
         "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1049A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E37"
+        "category": "Fire alarm - smoke detector",
+        "location": "400 MURCHISON DR ,MLB",
+        "latitude": 37.5938516139867,
+        "longitude": -122.390156482832,
+        "units": ">E37"
     },
     {
-        "id": "NF2311974",
+        "id": "NF2311976",
         "date": "2023-10-31",
-        "time": "2:02:39 PM",
+        "time": "2:09:58 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ORANGE CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
+        "category": "Traffic accident",
+        "location": "2 FRANCISCAN DR #8 ,DCY",
+        "latitude": 37.6888240514842,
+        "longitude": -122.454977323273,
+        "units": ">E91 CM31X3 >BC20 ?TAC35"
     },
     {
         "id": "MF2309480",
@@ -41,7 +63,7 @@
         "location": "LENNOX AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E6"
     },
     {
         "id": "SF2313756",
@@ -52,28 +74,6 @@
         "location": "EL CAMINO REAL ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "WF2301843",
-        "date": "2023-10-31",
-        "time": "1:58:40 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Gas main break",
-        "location": "61 OAK HAVEN WAY ,WDS",
-        "latitude": 37.4395266391296,
-        "longitude": -122.240928083733,
-        "units": "E7 T4 E9 ?TAC15 CM11X2BC3 E12"
-    },
-    {
-        "id": "BF2303819",
-        "date": "2023-10-31",
-        "time": "1:42:48 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SHELTER CREEK LN ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": "*>E14"
     }
 ]
