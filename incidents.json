@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2312091",
+        "date": "2023-11-01",
+        "time": "12:13:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARSHALL ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "MF2309516",
+        "date": "2023-11-01",
+        "time": "12:07:49 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BARRY LN ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "NF2312013",
+        "date": "2023-11-01",
+        "time": "12:06:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Lock out - residential",
+        "location": "49 GARWOOD DR ,DCY",
+        "latitude": 37.7002801851308,
+        "longitude": -122.461180055142,
+        "units": ">E92"
+    },
+    {
         "id": "RF2312090",
         "date": "2023-11-01",
         "time": "11:56:47 AM",
@@ -11,39 +44,6 @@
         "units": ">E19"
     },
     {
-        "id": "NF2312012",
-        "date": "2023-11-01",
-        "time": "11:45:10 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "64 SERRAMONTE CTR ,DCY",
-        "latitude": 37.6717029388744,
-        "longitude": -122.472712282847,
-        "units": ">T95"
-    },
-    {
-        "id": "MF2309515",
-        "date": "2023-11-01",
-        "time": "11:41:56 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BELL CT ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "CF2307675",
-        "date": "2023-11-01",
-        "time": "11:16:06 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO MILLBRAE AVE",
-        "latitude": 37.5969854169125,
-        "longitude": -122.371638087183,
-        "units": "CM21X1 ?TAC25"
-    },
-    {
         "id": "FF2306235",
         "date": "2023-11-01",
         "time": "7:18:51 AM",
@@ -52,6 +52,6 @@
         "location": "385 OYSTER POINT BLVD ,SSF",
         "latitude": 37.6638003153385,
         "longitude": -122.384839781686,
-        "units": ">BC17 >BOAT9 ?TAC35 >E65 >Q62CM31X5 >BOAT62"
+        "units": ">Q62"
     }
 ]
