@@ -1,69 +1,58 @@
 [
     {
-        "id": "FF2306247",
+        "id": "MF2309518",
         "date": "2023-11-01",
-        "time": "1:04:01 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "1:23:34 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "GELLERT BLVD #1208 ,SSF",
+        "location": "IRIS LN ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E64"
+        "units": "E5"
     },
     {
-        "id": "SF2313802",
+        "id": "MF2309517",
         "date": "2023-11-01",
-        "time": "1:01:49 PM",
+        "time": "1:10:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CAPITOL AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "SF2313804",
+        "date": "2023-11-01",
+        "time": "1:07:09 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "TILTON AVE / N ELDORADO ST",
+        "location": "S DELAWARE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T21"
+        "units": ">T21"
     },
     {
-        "id": "SF2313801",
+        "id": "SF2313803",
         "date": "2023-11-01",
-        "time": "1:00:42 PM",
+        "time": "1:06:25 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "TILTON AVE ,SMO",
+        "location": "WOLFE DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": ">E24"
     },
     {
-        "id": "FF2306245",
+        "id": "WF2301850",
         "date": "2023-11-01",
-        "time": "1:00:32 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "1:06:05 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "DEL MONTE AVE ,SSF",
+        "location": "ECHO LN ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "RF2312093",
-        "date": "2023-11-01",
-        "time": "1:00:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
-    },
-    {
-        "id": "FF2306244",
-        "date": "2023-11-01",
-        "time": "12:59:43 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DNA WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E8"
     },
     {
         "id": "NF2312014",
@@ -74,39 +63,6 @@
         "location": "524 HANOVER ST ,DCY",
         "latitude": 37.7078210025326,
         "longitude": -122.447749213552,
-        "units": ">E92 ?TAC36 T95 CM31X4"
-    },
-    {
-        "id": "LF2301082",
-        "date": "2023-11-01",
-        "time": "12:47:05 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "255 D ST ,BRD",
-        "latitude": 37.6843218839332,
-        "longitude": -122.467502811355,
-        "units": ""
-    },
-    {
-        "id": "BF2303829",
-        "date": "2023-11-01",
-        "time": "12:44:06 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "1150 EL CAMINO REAL ,SNB",
-        "latitude": 37.6369388775055,
-        "longitude": -122.418601675439,
-        "units": ">T51"
-    },
-    {
-        "id": "FF2306235",
-        "date": "2023-11-01",
-        "time": "7:18:51 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Boat/marine fire",
-        "location": "385 OYSTER POINT BLVD ,SSF",
-        "latitude": 37.6638003153385,
-        "longitude": -122.384839781686,
-        "units": ">Q62"
+        "units": ">E92"
     }
 ]
