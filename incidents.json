@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2312007",
+        "date": "2023-11-01",
+        "time": "8:20:54 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "1200 SKYLINE DR ,DCY",
+        "latitude": 37.6629034772288,
+        "longitude": -122.48762097072,
+        "units": "E71"
+    },
+    {
+        "id": "RF2312076",
+        "date": "2023-11-01",
+        "time": "8:12:26 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "9 ROBIN WAY ,SNC",
+        "latitude": 37.4861574932743,
+        "longitude": -122.26454739416,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2306238",
+        "date": "2023-11-01",
+        "time": "8:11:05 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BRENTWOOD DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2312006",
+        "date": "2023-11-01",
+        "time": "8:10:06 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "131 WESTMOOR AVE ,DCY",
+        "latitude": 37.6824576838231,
+        "longitude": -122.48365025663,
+        "units": ">E95"
+    },
+    {
         "id": "MF2309510",
         "date": "2023-11-01",
         "time": "8:04:08 AM",
@@ -8,7 +52,7 @@
         "location": "HILLVIEW DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "NF2312005",
@@ -19,7 +63,7 @@
         "location": "ALEXIS CIR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E93"
+        "units": ""
     },
     {
         "id": "LF2301081",
@@ -30,29 +74,7 @@
         "location": "GARDEN LN ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "SF2313791",
-        "date": "2023-11-01",
-        "time": "7:55:16 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "800 N HUMBOLDT ST ,SMO",
-        "latitude": 37.5815847183301,
-        "longitude": -122.328419615837,
-        "units": ">E24"
-    },
-    {
-        "id": "SF2313790",
-        "date": "2023-11-01",
-        "time": "7:41:09 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAURIE MEADOWS DR #363 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": "E86"
     },
     {
         "id": "RF2312075",
@@ -63,7 +85,7 @@
         "location": "SB 101 / SO WOODSIDE RD",
         "latitude": 37.4859579510142,
         "longitude": -122.193590413825,
-        "units": ">T9 >BC3"
+        "units": ">BC3"
     },
     {
         "id": "FF2306237",
@@ -85,6 +107,6 @@
         "location": "385 OYSTER POINT BLVD ,SSF",
         "latitude": 37.6638003153385,
         "longitude": -122.384839781686,
-        "units": ">BC17 >BC117 BOAT9 ?TAC35 >E65>Q62 CM31X5 >E61 PR17C PR17B"
+        "units": ">BC17 >BC117 >BOAT9 ?TAC35 >E65>Q62 CM31X5 >E61 >BOAT62 >PR17C"
     }
 ]
