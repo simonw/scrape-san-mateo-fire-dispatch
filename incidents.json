@@ -1,14 +1,58 @@
 [
     {
-        "id": "NF2312003",
+        "id": "SF2313790",
         "date": "2023-11-01",
-        "time": "7:23:37 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "1444 MADEIRA DR ,PCF",
-        "latitude": 37.58124854577,
-        "longitude": -122.48255931855,
-        "units": "?E72"
+        "time": "7:41:09 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAURIE MEADOWS DR #363 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E14"
+    },
+    {
+        "id": "HF2302895",
+        "date": "2023-11-01",
+        "time": "7:40:00 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SPRUCE ST ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "RF2312075",
+        "date": "2023-11-01",
+        "time": "7:39:06 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / SO WOODSIDE RD",
+        "latitude": 37.4859579510142,
+        "longitude": -122.193590413825,
+        "units": "CM11X4 T9 ?TAC15 E13 BC3>E5"
+    },
+    {
+        "id": "SF2313789",
+        "date": "2023-11-01",
+        "time": "7:37:08 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "WB 92 / WO TOLL PLZ",
+        "latitude": 37.6050641685379,
+        "longitude": -122.195574888902,
+        "units": "?CM21X2 BC5 HABC2 HAE2 ?TAC25E28 T23 HAT7"
+    },
+    {
+        "id": "FF2306237",
+        "date": "2023-11-01",
+        "time": "7:33:17 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ARROYO DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
     },
     {
         "id": "FF2306235",
@@ -19,7 +63,7 @@
         "location": "385 OYSTER POINT BLVD ,SSF",
         "latitude": 37.6638003153385,
         "longitude": -122.384839781686,
-        "units": "BC17 ?TAC35 E65 Q62 CM31X5E61 E81"
+        "units": ">BC17 BC117 ?TAC35 >E65 >Q62CM31X5 >E61 PR17C PR17B >E81"
     },
     {
         "id": "MF2309509",
@@ -30,28 +74,6 @@
         "location": "COMMONWEALTH DR / CHRYSLER DR",
         "latitude": 37.4816562348818,
         "longitude": -122.176175489438,
-        "units": "CM11X1 ?TAC15 >E77 BC101 >E5"
-    },
-    {
-        "id": "NF2312002",
-        "date": "2023-11-01",
-        "time": "7:07:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FOREST GROVE DR #1 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "BF2303826",
-        "date": "2023-11-01",
-        "time": "6:58:59 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OLYMPIC CT ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "units": ">E77"
     }
 ]
