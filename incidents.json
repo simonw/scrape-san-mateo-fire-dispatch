@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2309510",
+        "date": "2023-11-01",
+        "time": "8:04:08 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HILLVIEW DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "NF2312005",
+        "date": "2023-11-01",
+        "time": "7:59:09 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALEXIS CIR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "LF2301081",
+        "date": "2023-11-01",
+        "time": "7:55:26 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GARDEN LN ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "SF2313791",
+        "date": "2023-11-01",
+        "time": "7:55:16 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "800 N HUMBOLDT ST ,SMO",
+        "latitude": 37.5815847183301,
+        "longitude": -122.328419615837,
+        "units": ">E24"
+    },
+    {
         "id": "SF2313790",
         "date": "2023-11-01",
         "time": "7:41:09 AM",
@@ -8,18 +52,7 @@
         "location": "LAURIE MEADOWS DR #363 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E14"
-    },
-    {
-        "id": "HF2302895",
-        "date": "2023-11-01",
-        "time": "7:40:00 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SPRUCE ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
+        "units": ">E14"
     },
     {
         "id": "RF2312075",
@@ -30,18 +63,7 @@
         "location": "SB 101 / SO WOODSIDE RD",
         "latitude": 37.4859579510142,
         "longitude": -122.193590413825,
-        "units": "CM11X4 T9 ?TAC15 E13 BC3>E5"
-    },
-    {
-        "id": "SF2313789",
-        "date": "2023-11-01",
-        "time": "7:37:08 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "WB 92 / WO TOLL PLZ",
-        "latitude": 37.6050641685379,
-        "longitude": -122.195574888902,
-        "units": "?CM21X2 BC5 HABC2 HAE2 ?TAC25E28 T23 HAT7"
+        "units": ">T9 >BC3"
     },
     {
         "id": "FF2306237",
@@ -52,7 +74,7 @@
         "location": "ARROYO DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": "E63"
     },
     {
         "id": "FF2306235",
@@ -63,17 +85,6 @@
         "location": "385 OYSTER POINT BLVD ,SSF",
         "latitude": 37.6638003153385,
         "longitude": -122.384839781686,
-        "units": ">BC17 BC117 ?TAC35 >E65 >Q62CM31X5 >E61 PR17C PR17B >E81"
-    },
-    {
-        "id": "MF2309509",
-        "date": "2023-11-01",
-        "time": "7:13:54 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "COMMONWEALTH DR / CHRYSLER DR",
-        "latitude": 37.4816562348818,
-        "longitude": -122.176175489438,
-        "units": ">E77"
+        "units": ">BC17 >BC117 BOAT9 ?TAC35 >E65>Q62 CM31X5 >E61 PR17C PR17B"
     }
 ]
