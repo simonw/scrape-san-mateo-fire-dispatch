@@ -1,5 +1,16 @@
 [
     {
+        "id": "NF2312026",
+        "date": "2023-11-01",
+        "time": "4:39:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "1052 BRUNSWICK ST ,DCY",
+        "latitude": 37.7066949985494,
+        "longitude": -122.455028918454,
+        "units": "E92"
+    },
+    {
         "id": "NF2312025",
         "date": "2023-11-01",
         "time": "4:22:04 PM",
@@ -8,18 +19,7 @@
         "location": "SAN MIGUEL AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
-    },
-    {
-        "id": "RF2312095",
-        "date": "2023-11-01",
-        "time": "4:20:47 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VETERANS BLVD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
+        "units": ">E95"
     },
     {
         "id": "SF2313812",
@@ -30,18 +30,7 @@
         "location": "FOSTER CITY BLVD #2203 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
-    },
-    {
-        "id": "MF2309524",
-        "date": "2023-11-01",
-        "time": "4:17:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "4 NEWELL CT ,EPA",
-        "latitude": 37.4573109602062,
-        "longitude": -122.138796747127,
-        "units": "E3"
+        "units": ">E28"
     },
     {
         "id": "MF2309523",
@@ -52,7 +41,7 @@
         "location": "2290 UNIVERSITY AVE ,EPA",
         "latitude": 37.4683390865786,
         "longitude": -122.141196414691,
-        "units": ">E2"
+        "units": "HM14 >E2"
     },
     {
         "id": "NF2312024",
@@ -64,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "WF2301855",
-        "date": "2023-11-01",
-        "time": "4:02:16 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO WOODSIDE RD",
-        "latitude": 37.4284489470436,
-        "longitude": -122.234018361835,
-        "units": ">E7 CM11X4 ?TAC15 >BC2 >SQ407"
-    },
-    {
-        "id": "CF2307680",
-        "date": "2023-11-01",
-        "time": "3:55:08 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
     }
 ]
