@@ -1,14 +1,80 @@
 [
     {
-        "id": "MF2309512",
+        "id": "WF2301849",
         "date": "2023-11-01",
-        "time": "8:59:58 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "1200 EL CAMINO REAL ,MNP",
-        "latitude": 37.454650224112,
-        "longitude": -122.18452048164,
-        "units": ">E3"
+        "time": "9:26:33 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "3639 ALPINE RD ,PVY",
+        "latitude": 37.3852514458598,
+        "longitude": -122.191461138078,
+        "units": "?E7"
+    },
+    {
+        "id": "RF2312079",
+        "date": "2023-11-01",
+        "time": "9:25:51 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "SB 101 / NO WOODSIDE RD",
+        "latitude": 37.4924375527393,
+        "longitude": -122.221572014907,
+        "units": "E13 CM11X5 E77 ?TAC15"
+    },
+    {
+        "id": "RF2312078",
+        "date": "2023-11-01",
+        "time": "9:24:16 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "BF2303827",
+        "date": "2023-11-01",
+        "time": "9:15:44 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AMADOR AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "NF2312009",
+        "date": "2023-11-01",
+        "time": "9:13:55 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Trash fire",
+        "location": "SOUTHGATE AVE / LAKE MERCED BLVD",
+        "latitude": 37.6976166701114,
+        "longitude": -122.483097069968,
+        "units": "?NFAINV >E92"
+    },
+    {
+        "id": "CF2307672",
+        "date": "2023-11-01",
+        "time": "9:13:00 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #24A ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2312008",
+        "date": "2023-11-01",
+        "time": "9:12:21 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LAKESHIRE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "HF2302897",
@@ -22,17 +88,6 @@
         "units": ">E41"
     },
     {
-        "id": "SF2313793",
-        "date": "2023-11-01",
-        "time": "8:37:17 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "WB 92 / EO S EL CAMINO REAL",
-        "latitude": 37.5521007138556,
-        "longitude": -122.309316502117,
-        "units": ">E26"
-    },
-    {
         "id": "FF2306235",
         "date": "2023-11-01",
         "time": "7:18:51 AM",
@@ -41,6 +96,6 @@
         "location": "385 OYSTER POINT BLVD ,SSF",
         "latitude": 37.6638003153385,
         "longitude": -122.384839781686,
-        "units": ">BC17 >BC117 >BOAT9 ?TAC35 >E65>Q62 CM31X5 >E61 >BOAT62 >PR17C"
+        "units": ">BC17 >BOAT9 ?TAC35 >E65 >Q62CM31X5 >E61 >BOAT62"
     }
 ]
