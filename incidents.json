@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2313852",
+        "id": "RF2312139",
         "date": "2023-11-02",
-        "time": "1:04:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Gas main break",
-        "location": "866 NEPTUNE CT ,SMO",
-        "latitude": 37.5624602305995,
-        "longitude": -122.289885236999,
-        "units": "?TAC25 ?CM21X4 ?BC5 ?E28 ?E29?E26 ?T23"
+        "time": "1:22:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "718 7TH AVE ,NFO",
+        "latitude": 37.4777503516563,
+        "longitude": -122.198336287393,
+        "units": "?E11"
+    },
+    {
+        "id": "NF2312065",
+        "date": "2023-11-02",
+        "time": "1:08:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MINA LN ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
     },
     {
         "id": "CF2307707",
@@ -19,29 +30,7 @@
         "location": "BURLINGAME AVE / EL CAMINO REAL",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
-    },
-    {
-        "id": "BF2303851",
-        "date": "2023-11-02",
-        "time": "1:01:46 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ROLLINGWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
-    },
-    {
-        "id": "CF2307706",
-        "date": "2023-11-02",
-        "time": "12:56:43 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1610 ROLLINS RD ,BRM",
-        "latitude": 37.5953023439282,
-        "longitude": -122.373829411745,
-        "units": ">E34"
+        "units": ">T34"
     },
     {
         "id": "NF2312062",
@@ -52,7 +41,7 @@
         "location": "375 MANDARIN DR #102 ,DCY",
         "latitude": 37.6651701943774,
         "longitude": -122.461722980192,
-        "units": "T95"
+        "units": ">T95"
     },
     {
         "id": "NF2312061",
@@ -63,7 +52,7 @@
         "location": "NB 1 / NB 280",
         "latitude": 37.7000224568024,
         "longitude": -122.471351328495,
-        "units": "?VF22X2 >E94 BC20 >E95 >E71E91 CM31X4"
+        "units": "?VF22X2 *>E94 >BC20 >E95 *>E71>E91 CM31X4"
     },
     {
         "id": "BF2303850",
@@ -74,28 +63,6 @@
         "location": "SB 101 / E MILLBRAE AVE OFF RAMP",
         "latitude": 37.6052725539121,
         "longitude": -122.384739038774,
-        "units": "CM31X2 >E51 ?TAC35 >BC16"
-    },
-    {
-        "id": "NF2312059",
-        "date": "2023-11-02",
-        "time": "12:48:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ACTON ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2306262",
-        "date": "2023-11-02",
-        "time": "12:45:23 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MAYFAIR AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": "CM31X2 ?TAC35"
     }
 ]
