@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2312058",
+        "date": "2023-11-02",
+        "time": "12:21:44 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SANTA ROSA AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "SF2313849",
+        "date": "2023-11-02",
+        "time": "12:11:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W 39TH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "CF2307705",
         "date": "2023-11-02",
         "time": "11:55:57 AM",
@@ -11,28 +33,6 @@
         "units": ">E33"
     },
     {
-        "id": "RF2312137",
-        "date": "2023-11-02",
-        "time": "11:55:23 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CENTRAL AVE / LAUREL ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "FF2306261",
-        "date": "2023-11-02",
-        "time": "11:54:38 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DUBUQUE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
         "id": "HF2302904",
         "date": "2023-11-02",
         "time": "11:17:18 AM",
@@ -41,6 +41,6 @@
         "location": "1041 CEDAR ST ,MON",
         "latitude": 37.5423492158976,
         "longitude": -122.502882764767,
-        "units": ">E44"
+        "units": "*>E44"
     }
 ]
