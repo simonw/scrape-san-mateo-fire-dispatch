@@ -1,36 +1,47 @@
 [
     {
+        "id": "SF2313877",
+        "date": "2023-11-03",
+        "time": "7:59:49 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1950 ELKHORN CT ,SMO",
+        "latitude": 37.5486413322339,
+        "longitude": -122.313479546388,
+        "units": "E25"
+    },
+    {
+        "id": "MF2309561",
+        "date": "2023-11-03",
+        "time": "7:53:24 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Tree down",
+        "location": "1015 WOODLAND AVE ,MNP",
+        "latitude": 37.4572683334038,
+        "longitude": -122.153588408404,
+        "units": ">E1"
+    },
+    {
+        "id": "DF2302247",
+        "date": "2023-11-03",
+        "time": "7:43:58 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "92 / SKYLINE LOWER",
+        "latitude": 37.5118497209983,
+        "longitude": -122.349706442818,
+        "units": ">E17 >BC11"
+    },
+    {
         "id": "MF2309560",
         "date": "2023-11-03",
         "time": "7:41:09 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Traffic accident",
-        "location": "SB 101 / NO WILLOW RD",
+        "location": "SB 101 / NO UNIVERSITY AVE",
         "latitude": 37.4775111992726,
         "longitude": -122.170198805936,
-        "units": "T9 >E77 BC3 E2 CM11X2?TAC15"
-    },
-    {
-        "id": "MF2309559",
-        "date": "2023-11-03",
-        "time": "7:34:09 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "84 / MARSH RD",
-        "latitude": 37.486397100287,
-        "longitude": -122.179077668897,
-        "units": ""
-    },
-    {
-        "id": "NF2312090",
-        "date": "2023-11-03",
-        "time": "7:31:48 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DE LONG ST / LOS OLIVOS AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">T9 ?TAC15 >BC3 >CM11X2 >E77"
     },
     {
         "id": "WF2301862",
@@ -41,17 +52,6 @@
         "location": "522 EASTVIEW WAY ,WDS",
         "latitude": 37.4581552491298,
         "longitude": -122.277110252835,
-        "units": ">BC2 >E19 CM11X1"
-    },
-    {
-        "id": "CF2307715",
-        "date": "2023-11-03",
-        "time": "7:11:41 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO BROADWAY",
-        "latitude": 37.587789108553,
-        "longitude": -122.356007840522,
-        "units": ">T34"
+        "units": "CM11X1 >E19"
     }
 ]
