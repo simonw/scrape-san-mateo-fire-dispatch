@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2307725",
+        "date": "2023-11-03",
+        "time": "3:23:05 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TOURNAMENT DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "SF2313893",
+        "date": "2023-11-03",
+        "time": "3:16:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OCCIDENTAL AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
+    },
+    {
+        "id": "NF2312112",
+        "date": "2023-11-03",
+        "time": "3:14:46 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2312111",
+        "date": "2023-11-03",
+        "time": "3:06:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "200 PARK PLAZA DR ,DCY",
+        "latitude": 37.6976338884802,
+        "longitude": -122.480604940965,
+        "units": ">T95 >BC20 >E91 CM31X3 ?TAC35"
+    },
+    {
         "id": "CF2307724",
         "date": "2023-11-03",
         "time": "3:04:41 PM",
@@ -8,18 +52,7 @@
         "location": "MARCO POLO WAY #35 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?T51"
-    },
-    {
-        "id": "NF2312110",
-        "date": "2023-11-03",
-        "time": "3:04:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E92"
+        "units": ">T51"
     },
     {
         "id": "NF2312109",
@@ -30,7 +63,7 @@
         "location": "PALOMA AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "?E95"
+        "units": ">E95"
     },
     {
         "id": "NF2312108",
@@ -41,39 +74,6 @@
         "location": "MONTECITO AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
-    },
-    {
-        "id": "FF2306278",
-        "date": "2023-11-03",
-        "time": "2:54:36 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "AMBERWOOD CIR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "SF2313891",
-        "date": "2023-11-03",
-        "time": "2:47:52 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HASTINGS DR #105 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "FF2306277",
-        "date": "2023-11-03",
-        "time": "1:54:12 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #124 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
+        "units": "*>E71"
     }
 ]
