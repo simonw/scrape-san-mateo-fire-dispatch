@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2312105",
+        "id": "CF2307722",
         "date": "2023-11-03",
-        "time": "1:23:40 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "1:34:32 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "850 TAYLOR BLVD #E3 ,MLB",
+        "latitude": 37.5980060017428,
+        "longitude": -122.401513439284,
+        "units": ">E37"
+    },
+    {
+        "id": "BF2303865",
+        "date": "2023-11-03",
+        "time": "1:34:31 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "899 EL CAMINO REAL ,SNB",
+        "latitude": 37.6301558908854,
+        "longitude": -122.417970882848,
+        "units": ">T51"
+    },
+    {
+        "id": "CF2307721",
+        "date": "2023-11-03",
+        "time": "1:31:11 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "ESPLANADE AVE #304A ,PCF",
+        "location": "OLD BAYSHORE HWY ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E71"
+        "units": ">E34"
+    },
+    {
+        "id": "HF2302914",
+        "date": "2023-11-03",
+        "time": "1:25:53 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "439 MYRTLE ST ,HMB",
+        "latitude": 37.4592028345739,
+        "longitude": -122.436467139706,
+        "units": ">E40"
     },
     {
         "id": "MF2309576",
@@ -19,7 +52,7 @@
         "location": "BURGESS DR #A ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ""
     },
     {
         "id": "FF2306276",
@@ -31,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E63"
-    },
-    {
-        "id": "SF2313887",
-        "date": "2023-11-03",
-        "time": "1:09:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHULA VISTA DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "BF2303864",
-        "date": "2023-11-03",
-        "time": "12:54:36 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "1555 CRYSTAL SPRINGS RD ,SNB",
-        "latitude": 37.6145047188277,
-        "longitude": -122.416048183234,
-        "units": "?TAC35 >BC16 >E51 CM31X4"
-    },
-    {
-        "id": "HF2302913",
-        "date": "2023-11-03",
-        "time": "12:52:16 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "7 TURNBERRY RD ,HMB",
-        "latitude": 37.4380125416247,
-        "longitude": -122.435944735708,
-        "units": ">E40"
     }
 ]
