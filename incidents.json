@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2313877",
+        "id": "RF2312164",
         "date": "2023-11-03",
-        "time": "7:59:49 AM",
+        "time": "8:23:02 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1351 WOODLAND AVE ,SNC",
+        "latitude": 37.4957224914389,
+        "longitude": -122.253531144283,
+        "units": "?E13"
+    },
+    {
+        "id": "SF2313878",
+        "date": "2023-11-03",
+        "time": "8:21:33 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1950 ELKHORN CT ,SMO",
-        "latitude": 37.5486413322339,
-        "longitude": -122.313479546388,
-        "units": "E25"
+        "category": "Medical aid",
+        "location": "DAY AVE #A ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
     },
     {
         "id": "MF2309561",
@@ -22,17 +33,6 @@
         "units": ">E1"
     },
     {
-        "id": "DF2302247",
-        "date": "2023-11-03",
-        "time": "7:43:58 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "92 / SKYLINE LOWER",
-        "latitude": 37.5118497209983,
-        "longitude": -122.349706442818,
-        "units": ">E17 >BC11"
-    },
-    {
         "id": "MF2309560",
         "date": "2023-11-03",
         "time": "7:41:09 AM",
@@ -41,17 +41,6 @@
         "location": "SB 101 / NO UNIVERSITY AVE",
         "latitude": 37.4775111992726,
         "longitude": -122.170198805936,
-        "units": ">T9 ?TAC15 >BC3 >CM11X2 >E77"
-    },
-    {
-        "id": "WF2301862",
-        "date": "2023-11-03",
-        "time": "7:30:50 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Landscape fire",
-        "location": "522 EASTVIEW WAY ,WDS",
-        "latitude": 37.4581552491298,
-        "longitude": -122.277110252835,
-        "units": "CM11X1 >E19"
+        "units": ">E77"
     }
 ]
