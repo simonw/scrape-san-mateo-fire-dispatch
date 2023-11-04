@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2312193",
+        "date": "2023-11-04",
+        "time": "7:41:05 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST #430 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2312133",
+        "date": "2023-11-04",
+        "time": "7:36:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "3000 MARINA BLVD ,BRS",
+        "latitude": 37.6749042410133,
+        "longitude": -122.386334238391,
+        "units": "E81"
+    },
+    {
+        "id": "DF2302257",
+        "date": "2023-11-04",
+        "time": "7:29:09 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO EDGEWOOD RD",
+        "latitude": 37.4913015493745,
+        "longitude": -122.300263671528,
+        "units": "?TAC15 CM11X2 >T17 >BC11"
+    },
+    {
         "id": "SF2313916",
         "date": "2023-11-04",
         "time": "7:20:40 AM",
@@ -8,39 +41,6 @@
         "location": "S EL CAMINO REAL / 16TH AVE",
         "latitude": 37.553286089511,
         "longitude": -122.315279810629,
-        "units": "E25 T23 BC5 ?TAC25 ?CM21X2"
-    },
-    {
-        "id": "NF2312132",
-        "date": "2023-11-04",
-        "time": "7:17:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #104A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "BF2303876",
-        "date": "2023-11-04",
-        "time": "7:12:36 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE / SNEATH LN",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2302919",
-        "date": "2023-11-04",
-        "time": "7:04:36 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "50 PATRICK WAY ,HMB",
-        "latitude": 37.4676052901406,
-        "longitude": -122.426828519533,
-        "units": "*>E41"
+        "units": ">E25 ?TAC25 CM21X2 >T23"
     }
 ]
