@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2309591",
+        "date": "2023-11-03",
+        "time": "9:13:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "FF2306286",
+        "date": "2023-11-03",
+        "time": "9:13:07 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "AIRPORT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "CF2307735",
+        "date": "2023-11-03",
+        "time": "9:07:13 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LOHOMA CT ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "SF2313902",
         "date": "2023-11-03",
         "time": "9:03:57 PM",
@@ -8,7 +41,7 @@
         "location": "W 20TH AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
+        "units": ">E25"
     },
     {
         "id": "CF2307734",
@@ -19,18 +52,7 @@
         "location": "NB 101 / SO MILLBRAE AVE",
         "latitude": 37.5969854169125,
         "longitude": -122.371638087183,
-        "units": "T34 CM21X1 E37 E34 BC8?TAC25"
-    },
-    {
-        "id": "CF2307733",
-        "date": "2023-11-03",
-        "time": "9:02:42 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DUMONT CT ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E38"
+        "units": ">T34 CM21X1 >E34 >BC8 ?TAC25"
     },
     {
         "id": "FF2306285",
@@ -41,28 +63,6 @@
         "location": "2 ARLINGTON DR ,SSF",
         "latitude": 37.6704983422436,
         "longitude": -122.453524552065,
-        "units": "?CM31X2 TAC35 E94 BC17 T95"
-    },
-    {
-        "id": "DF2302253",
-        "date": "2023-11-03",
-        "time": "7:43:06 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Grass fire",
-        "location": "86 CANADA RD ,SOS",
-        "latitude": 37.4695975176945,
-        "longitude": -122.310468504434,
-        "units": ">E17 >BC11"
-    },
-    {
-        "id": "DF2302250",
-        "date": "2023-11-03",
-        "time": "6:17:10 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SKYLINE BLVD #PLOT ,KMT",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ407"
+        "units": "?CM31X2 TAC35 >E94 >T95"
     }
 ]
