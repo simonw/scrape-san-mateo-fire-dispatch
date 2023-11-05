@@ -1,25 +1,36 @@
 [
     {
-        "id": "MF2309615",
+        "id": "NF2312168",
         "date": "2023-11-04",
-        "time": "6:37:09 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "541 MENLO OAKS DR ,MOK",
-        "latitude": 37.4655295176651,
-        "longitude": -122.169410139258,
-        "units": ">E1"
+        "time": "7:10:11 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
     },
     {
-        "id": "FF2306300",
+        "id": "LF2301096",
         "date": "2023-11-04",
-        "time": "6:36:33 PM",
+        "time": "7:08:45 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD / COLMA BLVD",
+        "latitude": null,
+        "longitude": null,
+        "units": "CM31X1 BC19 E86"
+    },
+    {
+        "id": "FF2306302",
+        "date": "2023-11-04",
+        "time": "6:59:14 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "1600 EL CAMINO REAL ,SSF",
-        "latitude": 37.663872266813,
-        "longitude": -122.444587305742,
-        "units": "CM31X5 >E63 BC17 T95 ?TAC36"
+        "category": "Traffic accident",
+        "location": "BIRCH AVE / HOLLY AVE",
+        "latitude": 37.6672452860513,
+        "longitude": -122.433430701168,
+        "units": "CM31X2 >E65 ?TAC36"
     },
     {
         "id": "MF2309614",
@@ -31,49 +42,5 @@
         "latitude": 37.4292124584963,
         "longitude": -122.220592193184,
         "units": ">E4"
-    },
-    {
-        "id": "MF2309613",
-        "date": "2023-11-04",
-        "time": "6:33:55 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2312167",
-        "date": "2023-11-04",
-        "time": "6:32:26 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #115C ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "BF2303881",
-        "date": "2023-11-04",
-        "time": "6:31:29 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO 380",
-        "latitude": 37.6303140014453,
-        "longitude": -122.434989149881,
-        "units": ">T51 >BC124 >E51 >E64 CM31X3?TAC35"
-    },
-    {
-        "id": "SF2313944",
-        "date": "2023-11-04",
-        "time": "6:25:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 41ST PL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
     }
 ]
