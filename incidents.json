@@ -1,57 +1,68 @@
 [
     {
-        "id": "DF2302263",
+        "id": "SF2313939",
         "date": "2023-11-04",
-        "time": "4:39:28 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1351 PARROTT DR ,EIC",
-        "latitude": 37.5336108398022,
-        "longitude": -122.343613379821,
-        "units": "E27"
+        "time": "5:12:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
     },
     {
-        "id": "SF2313936",
+        "id": "RF2312207",
         "date": "2023-11-04",
-        "time": "4:32:50 PM",
+        "time": "5:06:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "1115 17TH AVE ,RCY",
+        "latitude": 37.4816576357091,
+        "longitude": -122.186819542966,
+        "units": ">E5"
+    },
+    {
+        "id": "SF2313938",
+        "date": "2023-11-04",
+        "time": "4:59:50 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MISSION DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2309607",
+        "date": "2023-11-04",
+        "time": "4:57:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Fire alarm",
-        "location": "2311 HASTINGS DR ,BLM",
-        "latitude": 37.5071306883638,
-        "longitude": -122.298390852813,
-        "units": ">E15"
+        "location": "105 5TH AVE #3 ,NFO",
+        "latitude": 37.469072634978,
+        "longitude": -122.207633330638,
+        "units": ">E3"
+    },
+    {
+        "id": "CF2307756",
+        "date": "2023-11-04",
+        "time": "4:50:54 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BURLINGAME AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
     },
     {
         "id": "FF2306298",
         "date": "2023-11-04",
         "time": "4:25:56 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
+        "category": "Gas main break",
         "location": "200 LINDEN AVE ,SSF",
         "latitude": 37.6543916091127,
         "longitude": -122.410082420916,
-        "units": ">E61"
-    },
-    {
-        "id": "HF2302926",
-        "date": "2023-11-04",
-        "time": "4:23:37 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SEA BREEZE DR ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2312161",
-        "date": "2023-11-04",
-        "time": "4:10:51 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ODDSTAD BLVD #354B ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E61"
     }
 ]
