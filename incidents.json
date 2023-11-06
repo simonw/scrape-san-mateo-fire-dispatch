@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2309646",
+        "date": "2023-11-05",
+        "time": "7:59:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2313993",
+        "date": "2023-11-05",
+        "time": "7:55:34 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "2205 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5627573436112,
+        "longitude": -122.282987480842,
+        "units": ">E29"
+    },
+    {
+        "id": "RF2312248",
+        "date": "2023-11-05",
+        "time": "7:55:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "3748 BRET HARTE DR ,RCY",
+        "latitude": 37.4590790905463,
+        "longitude": -122.254592549824,
+        "units": ">E19"
+    },
+    {
+        "id": "NF2312205",
+        "date": "2023-11-05",
+        "time": "7:53:15 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARK PLAZA DR #18 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
         "id": "RF2312247",
         "date": "2023-11-05",
         "time": "7:40:53 PM",
@@ -8,18 +52,7 @@
         "location": "DOUGLAS CT / E BAYSHORE RD",
         "latitude": null,
         "longitude": null,
-        "units": "E9 BC3 ?TAC15 ?CM11X1"
-    },
-    {
-        "id": "RF2312246",
-        "date": "2023-11-05",
-        "time": "7:40:46 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JEFFERSON AVE #19A ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": "CM11X1 ?TAC15 >BC3 >E9 >E11"
     },
     {
         "id": "SF2313992",
@@ -30,7 +63,7 @@
         "location": "704 FATHOM DR ,SMO",
         "latitude": 37.5641828737105,
         "longitude": -122.286613873018,
-        "units": ">E29"
+        "units": ""
     },
     {
         "id": "SF2313987",
@@ -41,6 +74,6 @@
         "location": "269 W 3RD AVE ,SMO",
         "latitude": 37.5592489945493,
         "longitude": -122.331263309821,
-        "units": "CM21X1 >T21 >E21"
+        "units": ""
     }
 ]
