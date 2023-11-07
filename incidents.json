@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2312319",
+        "date": "2023-11-07",
+        "time": "3:21:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BLOCK EL CAMINO REAL ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "SF2314088",
+        "date": "2023-11-07",
+        "time": "3:18:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GLENDORA DR #C ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
+        "id": "FF2306362",
+        "date": "2023-11-07",
+        "time": "3:17:19 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "176 GATEWAY BLVD ,SSF",
+        "latitude": 37.6521649537508,
+        "longitude": -122.402040850533,
+        "units": "?TAC35 >BC17 E65 Q62 CM31X3"
+    },
+    {
+        "id": "SF2314087",
+        "date": "2023-11-07",
+        "time": "3:13:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "COLEGROVE ST / W 38TH AVE",
+        "latitude": 37.5328759233707,
+        "longitude": -122.295818077751,
+        "units": ">T23"
+    },
+    {
         "id": "RF2312318",
         "date": "2023-11-07",
         "time": "3:01:09 PM",
@@ -8,18 +52,7 @@
         "location": "MAIN ST #324 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
-    },
-    {
-        "id": "MF2309700",
-        "date": "2023-11-07",
-        "time": "2:58:42 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1805 E BAYSHORE RD ,EPA",
-        "latitude": 37.456882075852,
-        "longitude": -122.133305178237,
-        "units": "E2"
+        "units": ">T9"
     },
     {
         "id": "RF2312317",
@@ -33,28 +66,6 @@
         "units": ">E5"
     },
     {
-        "id": "RF2312316",
-        "date": "2023-11-07",
-        "time": "2:47:05 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARSHALL ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2314086",
-        "date": "2023-11-07",
-        "time": "2:43:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #217 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
         "id": "SF2314085",
         "date": "2023-11-07",
         "time": "2:24:16 PM",
@@ -63,6 +74,6 @@
         "location": "1831 HILLMAN AVE ,BLM",
         "latitude": 37.5233650785463,
         "longitude": -122.293002228141,
-        "units": ">T23"
+        "units": ""
     }
 ]
