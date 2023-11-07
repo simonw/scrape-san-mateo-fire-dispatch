@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2312237",
+        "date": "2023-11-06",
+        "time": "5:01:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALE ST #53 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "MF2309673",
+        "date": "2023-11-06",
+        "time": "4:59:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "800 SANTA CRUZ AVE ,MNP",
+        "latitude": 37.4510567737076,
+        "longitude": -122.185321385988,
+        "units": ">E6"
+    },
+    {
+        "id": "RF2312280",
+        "date": "2023-11-06",
+        "time": "4:54:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "926 WOODSIDE RD ,RCY",
+        "latitude": 37.4644578410727,
+        "longitude": -122.225292463504,
+        "units": ">E12 BC3 T9 CM11X4 ?TAC15"
+    },
+    {
+        "id": "NF2312236",
+        "date": "2023-11-06",
+        "time": "4:50:19 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE #114 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "NF2312235",
+        "date": "2023-11-06",
+        "time": "4:33:16 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "259 CERRO DR ,DCY",
+        "latitude": 37.6729187448174,
+        "longitude": -122.475727034321,
+        "units": "*>T95"
+    },
+    {
         "id": "SF2314037",
         "date": "2023-11-06",
         "time": "4:14:45 PM",
@@ -8,51 +63,7 @@
         "location": "S EL CAMINO REAL #563 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T23"
-    },
-    {
-        "id": "SF2314036",
-        "date": "2023-11-06",
-        "time": "4:11:18 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "N EL CAMINO REAL / W POPLAR AVE",
-        "latitude": 37.5698610117517,
-        "longitude": -122.335279007391,
-        "units": ">E21"
-    },
-    {
-        "id": "FF2306345",
-        "date": "2023-11-06",
-        "time": "4:10:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "HILLSIDE BLVD / KEARNEY ST",
-        "latitude": 37.6692562601623,
-        "longitude": -122.421339413628,
-        "units": ">E65"
-    },
-    {
-        "id": "CF2307806",
-        "date": "2023-11-06",
-        "time": "4:10:16 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / BROADWAY",
-        "latitude": 37.5842041813247,
-        "longitude": -122.366256539724,
-        "units": ">T34 CM21X3 >E34 >BC8 TAC25"
-    },
-    {
-        "id": "DF2302276",
-        "date": "2023-11-06",
-        "time": "4:09:35 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY / PESCADERO CREEK RD",
-        "latitude": null,
-        "longitude": null,
-        "units": "VFIR23 >E1761 >E59"
+        "units": ">T23"
     },
     {
         "id": "WF2301874",
@@ -64,49 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E7"
-    },
-    {
-        "id": "SF2314035",
-        "date": "2023-11-06",
-        "time": "4:05:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FRANKLIN PKWY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "RF2312279",
-        "date": "2023-11-06",
-        "time": "3:57:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E11"
-    },
-    {
-        "id": "NF2312232",
-        "date": "2023-11-06",
-        "time": "3:50:48 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HILLSIDE BLVD #3 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2306342",
-        "date": "2023-11-06",
-        "time": "3:17:21 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Landscape fire",
-        "location": "TERMINAL CT / PRODUCE AVE",
-        "latitude": 37.6462347506685,
-        "longitude": -122.406763803398,
-        "units": ">TAC35 >CM31X1 >TO17 >Q62"
     }
 ]
