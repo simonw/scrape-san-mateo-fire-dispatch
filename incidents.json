@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2312308",
+        "date": "2023-11-07",
+        "time": "12:20:33 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "2648 GRACELAND AVE ,SNC",
+        "latitude": 37.486655872799,
+        "longitude": -122.268668235039,
+        "units": "E18"
+    },
+    {
+        "id": "MF2309692",
+        "date": "2023-11-07",
+        "time": "12:19:41 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "CF2307826",
+        "date": "2023-11-07",
+        "time": "12:16:50 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #1221 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "CF2307825",
         "date": "2023-11-07",
         "time": "11:55:24 AM",
@@ -8,7 +41,7 @@
         "location": "1520 KINGSWOOD DR ,HIL",
         "latitude": 37.5388560322827,
         "longitude": -122.357141643827,
-        "units": "E27"
+        "units": ">E27"
     },
     {
         "id": "SF2314077",
@@ -19,6 +52,6 @@
         "location": "NOTRE DAME AVE / HILLMAN AVE",
         "latitude": 37.5231374294182,
         "longitude": -122.292979506911,
-        "units": ">E14"
+        "units": ">BC5 >TAC15 >CM11X1 >E14"
     }
 ]
