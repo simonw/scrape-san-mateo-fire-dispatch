@@ -1,36 +1,47 @@
 [
     {
-        "id": "RF2312364",
+        "id": "CF2307857",
         "date": "2023-11-08",
-        "time": "2:22:46 PM",
+        "time": "2:43:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1030B ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E37"
+    },
+    {
+        "id": "NF2312304",
+        "date": "2023-11-08",
+        "time": "2:36:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T95"
+    },
+    {
+        "id": "SF2314121",
+        "date": "2023-11-08",
+        "time": "2:29:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "3033 LA SELVA ST ,SMO",
+        "latitude": 37.5397144844697,
+        "longitude": -122.282191165042,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2312365",
+        "date": "2023-11-08",
+        "time": "2:24:47 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "QUARRY RD ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": "E27"
-    },
-    {
-        "id": "NF2312302",
-        "date": "2023-11-08",
-        "time": "2:17:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "POINTE PACIFIC DR #5 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2312301",
-        "date": "2023-11-08",
-        "time": "2:12:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "RIO VISTA DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "category": "Carbon monoxide alarm",
+        "location": "1614 MADDUX DR ,RCY",
+        "latitude": 37.4567944094092,
+        "longitude": -122.236438061769,
+        "units": ">E12"
     },
     {
         "id": "SF2314120",
@@ -41,6 +52,6 @@
         "location": "1115 VILLAGE DR ,BLM",
         "latitude": 37.5089778981534,
         "longitude": -122.294176841403,
-        "units": ">E15 >BC5 >E14 ?TAC15 >E13CM11X5 >BC11 >T23"
+        "units": ">E15 >BC11"
     }
 ]
