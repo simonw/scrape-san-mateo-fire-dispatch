@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2309735",
+        "id": "BF2303932",
         "date": "2023-11-08",
-        "time": "8:10:16 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:42:56 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "UNIVERSITY AVE ,EPA",
+        "location": "WB 380 / EO 280",
         "latitude": null,
         "longitude": null,
+        "units": "?E51"
+    },
+    {
+        "id": "MF2309737",
+        "date": "2023-11-08",
+        "time": "8:38:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1730 BAY RD ,EPA",
+        "latitude": 37.471266014797,
+        "longitude": -122.136956280652,
         "units": ">E2"
+    },
+    {
+        "id": "FF2306392",
+        "date": "2023-11-08",
+        "time": "8:35:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident - structure",
+        "location": "3637 BASSETT CT ,SSF",
+        "latitude": 37.6456972840431,
+        "longitude": -122.459547844816,
+        "units": ">E64 USR165 BC17 CM31X5 ?TAC35"
+    },
+    {
+        "id": "RF2312376",
+        "date": "2023-11-08",
+        "time": "8:29:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "620 JEFFERSON AVE ,RCY",
+        "latitude": 37.4882853960707,
+        "longitude": -122.22859813339,
+        "units": ">E9"
     },
     {
         "id": "BF2303930",
@@ -19,6 +52,6 @@
         "location": "WB 380 / EO EL CAMINO REAL",
         "latitude": 37.6300606284361,
         "longitude": -122.425149172057,
-        "units": "?CM31X2 ?TAC35 >BC16 >T51 >E38"
+        "units": ">T51"
     }
 ]
