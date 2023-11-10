@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2312449",
+        "date": "2023-11-10",
+        "time": "9:19:19 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KENTFIELD AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2312448",
+        "date": "2023-11-10",
+        "time": "9:17:18 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BREWSTER AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
         "id": "BF2303952",
         "date": "2023-11-10",
         "time": "9:04:22 AM",
@@ -8,18 +30,7 @@
         "location": "SB 280 / NO SKYLINE BLVD",
         "latitude": 37.6131856780853,
         "longitude": -122.425330850206,
-        "units": "T51 CM31X1 BC16 E38 E52?TAC35"
-    },
-    {
-        "id": "RF2312447",
-        "date": "2023-11-10",
-        "time": "9:04:10 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RENATO CT #6 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E3"
+        "units": ">BC16 TAC35 CM31X1 >E52"
     },
     {
         "id": "NF2312368",
@@ -30,61 +41,6 @@
         "location": "WESSIX CT ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "NF2312367",
-        "date": "2023-11-10",
-        "time": "8:56:18 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERENA DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "RF2312446",
-        "date": "2023-11-10",
-        "time": "8:49:50 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #303 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "CF2307902",
-        "date": "2023-11-10",
-        "time": "8:38:35 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MYRTLE RD #304 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2314201",
-        "date": "2023-11-10",
-        "time": "8:32:25 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "42ND AVE / EDISON ST",
-        "latitude": 37.5280635456983,
-        "longitude": -122.29472256158,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2314200",
-        "date": "2023-11-10",
-        "time": "8:17:41 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Vehicle fire",
-        "location": "223 37TH AVE ,SMO",
-        "latitude": 37.5320336672355,
-        "longitude": -122.300057675874,
-        "units": ">E26"
+        "units": ">E94"
     }
 ]
