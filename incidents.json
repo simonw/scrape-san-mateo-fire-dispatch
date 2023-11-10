@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2306416",
+        "id": "MF2309772",
         "date": "2023-11-10",
-        "time": "6:23:12 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "6:33:58 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "239 POLHEMUS AVE ,ATN",
+        "latitude": 37.4471730003115,
+        "longitude": -122.214880611225,
+        "units": ">E3"
+    },
+    {
+        "id": "MF2309771",
+        "date": "2023-11-10",
+        "time": "6:28:13 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "AIRPORT BLVD ,SSF",
+        "location": "ILLINOIS ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
+        "units": ">E2"
     },
     {
         "id": "RF2312436",
@@ -20,38 +31,5 @@
         "latitude": 37.478907607726,
         "longitude": -122.206048973148,
         "units": ">E11"
-    },
-    {
-        "id": "MF2309770",
-        "date": "2023-11-10",
-        "time": "6:12:11 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SANTA CRUZ AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "NF2312364",
-        "date": "2023-11-10",
-        "time": "6:08:27 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PONCETTA DR #216 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "CF2307899",
-        "date": "2023-11-10",
-        "time": "5:42:57 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "NB 101 / SO MILLBRAE AVE",
-        "latitude": 37.5969854169125,
-        "longitude": -122.371638087183,
-        "units": ">T34"
     }
 ]
