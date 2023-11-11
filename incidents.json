@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2314253",
+        "date": "2023-11-11",
+        "time": "12:22:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HALLMARK DR ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "MF2309810",
+        "date": "2023-11-11",
+        "time": "12:09:58 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EMMETT WAY ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2307929",
+        "date": "2023-11-11",
+        "time": "12:06:57 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "10 S EL CAMINO REAL ,MLB",
+        "latitude": 37.5985398606568,
+        "longitude": -122.386615905062,
+        "units": "CM21X4 >E37 >Q62 >E34 >BC8TAC25 >E51"
+    },
+    {
         "id": "CF2307928",
         "date": "2023-11-11",
         "time": "12:02:58 PM",
@@ -8,7 +41,7 @@
         "location": "PALOMA AVE #6 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
+        "units": ">T34"
     },
     {
         "id": "MF2309809",
@@ -19,7 +52,7 @@
         "location": "FLOOD CIR ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": ">E5"
     },
     {
         "id": "CF2307927",
@@ -30,18 +63,7 @@
         "location": "VALLEJO DR #26 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "FF2306442",
-        "date": "2023-11-11",
-        "time": "11:59:34 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "3876 RADBURN DR ,SSF",
-        "latitude": 37.6494853975063,
-        "longitude": -122.456410402898,
-        "units": ">E64"
+        "units": "*>E38"
     },
     {
         "id": "SF2314252",
@@ -53,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E15"
-    },
-    {
-        "id": "WF2301893",
-        "date": "2023-11-11",
-        "time": "11:44:28 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALPINE RD #170 ,LAD",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2302984",
-        "date": "2023-11-11",
-        "time": "11:30:21 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL GRANADA BLVD ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2314251",
-        "date": "2023-11-11",
-        "time": "11:30:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
