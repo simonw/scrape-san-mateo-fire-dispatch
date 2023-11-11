@@ -1,58 +1,80 @@
 [
     {
-        "id": "SF2314227",
+        "id": "RF2312471",
         "date": "2023-11-10",
-        "time": "5:35:52 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S B ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "NF2312387",
-        "date": "2023-11-10",
-        "time": "5:35:47 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "107 VISITACION AVE ,BRS",
-        "latitude": 37.683441617681,
-        "longitude": -122.402899567175,
-        "units": "E81"
-    },
-    {
-        "id": "FF2306433",
-        "date": "2023-11-10",
-        "time": "5:33:47 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "479 S AIRPORT BLVD ,SSF",
-        "latitude": 37.640676993436,
-        "longitude": -122.401201396551,
-        "units": "Q62"
-    },
-    {
-        "id": "RF2312468",
-        "date": "2023-11-10",
-        "time": "5:33:20 PM",
+        "time": "6:04:58 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Smoke investigation",
-        "location": "3117 HOOVER ST ,RCY",
-        "latitude": 37.48565488601,
-        "longitude": -122.197458062398,
-        "units": "?E3"
+        "location": "1106 5TH AVE ,RCY",
+        "latitude": 37.4843419593597,
+        "longitude": -122.19631133673,
+        "units": "?E5"
     },
     {
-        "id": "RF2312467",
+        "id": "BF2303957",
         "date": "2023-11-10",
-        "time": "5:33:14 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "6:03:50 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SAN BRUNO AVE W / MILLS AVE",
+        "latitude": 37.6302891756131,
+        "longitude": -122.412821028364,
+        "units": ">T51 >BC16 >E51 TAC36 ?CM31X3"
+    },
+    {
+        "id": "SF2314228",
+        "date": "2023-11-10",
+        "time": "5:59:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,NFO",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": ">E23"
+    },
+    {
+        "id": "RF2312470",
+        "date": "2023-11-10",
+        "time": "5:57:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Trash fire",
+        "location": "2762 EL CAMINO REAL ,RCY",
+        "latitude": 37.4703817484237,
+        "longitude": -122.214121851719,
+        "units": ">E3"
+    },
+    {
+        "id": "NF2312389",
+        "date": "2023-11-10",
+        "time": "5:53:34 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "OCEANA BLVD #202 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "FF2306434",
+        "date": "2023-11-10",
+        "time": "5:52:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "BF2303956",
+        "date": "2023-11-10",
+        "time": "5:50:04 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTMOOR DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "NF2312386",
@@ -63,29 +85,7 @@
         "location": "SB 280 / NO 1",
         "latitude": 37.6810033840362,
         "longitude": -122.471780377841,
-        "units": "CM31X5 E91 BC20 T95 E92?TAC35"
-    },
-    {
-        "id": "SF2314225",
-        "date": "2023-11-10",
-        "time": "5:28:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GULL AVE ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "CF2307916",
-        "date": "2023-11-10",
-        "time": "5:19:58 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #221 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "?TAC35 >BC20 CM31X5 >E92 >T95"
     },
     {
         "id": "RF2312465",
@@ -96,6 +96,6 @@
         "location": "699 SEAPORT BLVD ,RCY",
         "latitude": 37.5084297973317,
         "longitude": -122.209362466591,
-        "units": ">CM11X1 PR3A >E20 >T9 ?TAC15>BC3 >E9 >E11 >E5"
+        "units": ">CM11X1 >PR3A >T9 ?TAC15 >BC3>E9 >E11"
     }
 ]
