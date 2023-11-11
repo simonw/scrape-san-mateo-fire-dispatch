@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2309811",
+        "date": "2023-11-11",
+        "time": "12:39:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FLETCHER DR ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "FF2306443",
+        "date": "2023-11-11",
+        "time": "12:32:30 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "APPIAN WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "NF2312413",
+        "date": "2023-11-11",
+        "time": "12:31:47 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "INNISFREE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "SF2314253",
         "date": "2023-11-11",
         "time": "12:22:37 PM",
@@ -8,7 +41,7 @@
         "location": "HALLMARK DR ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
+        "units": ">E27"
     },
     {
         "id": "MF2309810",
@@ -19,7 +52,7 @@
         "location": "EMMETT WAY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ""
     },
     {
         "id": "CF2307929",
@@ -30,50 +63,6 @@
         "location": "10 S EL CAMINO REAL ,MLB",
         "latitude": 37.5985398606568,
         "longitude": -122.386615905062,
-        "units": "CM21X4 >E37 >Q62 >E34 >BC8TAC25 >E51"
-    },
-    {
-        "id": "CF2307928",
-        "date": "2023-11-11",
-        "time": "12:02:58 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALOMA AVE #6 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "MF2309809",
-        "date": "2023-11-11",
-        "time": "12:02:38 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FLOOD CIR ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "CF2307927",
-        "date": "2023-11-11",
-        "time": "11:59:44 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VALLEJO DR #26 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E38"
-    },
-    {
-        "id": "SF2314252",
-        "date": "2023-11-11",
-        "time": "11:50:18 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": ">CM21X4 >E37 >Q62 *>E34 >BC8>TAC25"
     }
 ]
