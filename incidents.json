@@ -1,5 +1,60 @@
 [
     {
+        "id": "CF2307918",
+        "date": "2023-11-10",
+        "time": "7:24:43 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PEPPER AVE ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E34"
+    },
+    {
+        "id": "FF2306436",
+        "date": "2023-11-10",
+        "time": "7:20:48 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MARCIE CIR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "MF2309792",
+        "date": "2023-11-10",
+        "time": "7:14:41 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "SF2314231",
+        "date": "2023-11-10",
+        "time": "7:11:18 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "NF2312397",
+        "date": "2023-11-10",
+        "time": "7:08:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "6543 MISSION ST ,DCY",
+        "latitude": 37.7034623133302,
+        "longitude": -122.462761044657,
+        "units": ">E91"
+    },
+    {
         "id": "WF2301890",
         "date": "2023-11-10",
         "time": "7:06:45 PM",
@@ -8,7 +63,7 @@
         "location": "ELEANOR DR ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "LF2301120",
@@ -22,17 +77,6 @@
         "units": ">E86"
     },
     {
-        "id": "RF2312475",
-        "date": "2023-11-10",
-        "time": "6:59:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CONVENTION WAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
         "id": "LF2301121",
         "date": "2023-11-10",
         "time": "6:58:58 PM",
@@ -41,18 +85,7 @@
         "location": "5055 JUNIPERO SERRA BLVD ,CLM",
         "latitude": 37.6722529318109,
         "longitude": -122.465286238236,
-        "units": "E85 >BC19 ?TAC36 CM31X4 T85"
-    },
-    {
-        "id": "NF2312396",
-        "date": "2023-11-10",
-        "time": "6:55:34 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "W MOLTKE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">BC19"
     },
     {
         "id": "NF2312395",
@@ -63,7 +96,7 @@
         "location": "SB 280 / NO SERRAMONTE BLVD",
         "latitude": 37.6737538263321,
         "longitude": -122.46851233473,
-        "units": ">E94 ?TAC35 CM31X2 >BC20 E95>T95"
+        "units": ">E94 ?TAC35 CM31X2 >BC20 >T95"
     },
     {
         "id": "FF2306435",
@@ -75,27 +108,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E61"
-    },
-    {
-        "id": "NF2312394",
-        "date": "2023-11-10",
-        "time": "6:46:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "538 ALEXIS CIR ,DCY",
-        "latitude": 37.7018337667287,
-        "longitude": -122.421088810653,
-        "units": ">E93"
-    },
-    {
-        "id": "BF2303957",
-        "date": "2023-11-10",
-        "time": "6:03:50 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SAN BRUNO AVE W / MILLS AVE",
-        "latitude": 37.6302891756131,
-        "longitude": -122.412821028364,
-        "units": "E51"
     }
 ]
