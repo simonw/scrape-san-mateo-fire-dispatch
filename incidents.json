@@ -1,14 +1,69 @@
 [
     {
-        "id": "MF2309791",
+        "id": "NF2312396",
         "date": "2023-11-10",
-        "time": "6:19:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "6:55:34 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "SAND HILL RD ,MNP",
+        "location": "W MOLTKE ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
+        "units": "?E92"
+    },
+    {
+        "id": "NF2312395",
+        "date": "2023-11-10",
+        "time": "6:54:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO SERRAMONTE BLVD",
+        "latitude": 37.6737538263321,
+        "longitude": -122.46851233473,
+        "units": "E94 CM31X2 T95 ?TAC35 ?E95?BC20"
+    },
+    {
+        "id": "FF2306435",
+        "date": "2023-11-10",
+        "time": "6:47:51 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "KENWOOD WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2312394",
+        "date": "2023-11-10",
+        "time": "6:46:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "538 ALEXIS CIR ,DCY",
+        "latitude": 37.7018337667287,
+        "longitude": -122.421088810653,
+        "units": ">E93"
+    },
+    {
+        "id": "SF2314230",
+        "date": "2023-11-10",
+        "time": "6:45:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #617 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2312473",
+        "date": "2023-11-10",
+        "time": "6:34:43 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CONVENTION WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
     },
     {
         "id": "SF2314229",
@@ -19,7 +74,7 @@
         "location": "1951 OFARRELL ST ,SMO",
         "latitude": 37.5478504977753,
         "longitude": -122.313995054742,
-        "units": ">E23"
+        "units": ">E23 >T23"
     },
     {
         "id": "BF2303957",
@@ -30,39 +85,6 @@
         "location": "SAN BRUNO AVE W / MILLS AVE",
         "latitude": 37.6302891756131,
         "longitude": -122.412821028364,
-        "units": ">BC16 >TAC36 >T51 E51 ?CM31X3"
-    },
-    {
-        "id": "BF2303956",
-        "date": "2023-11-10",
-        "time": "5:50:04 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTMOOR DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "NF2312386",
-        "date": "2023-11-10",
-        "time": "5:32:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / NO 1",
-        "latitude": 37.6810033840362,
-        "longitude": -122.471780377841,
-        "units": "?TAC35 CM31X5 >E92 >T95"
-    },
-    {
-        "id": "RF2312465",
-        "date": "2023-11-10",
-        "time": "4:53:54 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "699 SEAPORT BLVD ,RCY",
-        "latitude": 37.5084297973317,
-        "longitude": -122.209362466591,
-        "units": ">CM11X1 >PR3A ?TAC15 >BC3 >E9"
+        "units": "E51"
     }
 ]
