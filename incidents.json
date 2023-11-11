@@ -1,68 +1,90 @@
 [
     {
-        "id": "SF2314221",
+        "id": "RF2312464",
         "date": "2023-11-10",
-        "time": "3:43:17 PM",
+        "time": "4:18:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "SF2314223",
+        "date": "2023-11-10",
+        "time": "4:16:39 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVE ,SMO",
+        "location": "FOSTER CITY BLVD / BEACH PARK BLVD",
         "latitude": null,
         "longitude": null,
-        "units": "?T23"
+        "units": "E29"
     },
     {
-        "id": "FF2306430",
+        "id": "HF2302977",
         "date": "2023-11-10",
-        "time": "3:43:00 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "4:11:13 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "FIR AVE ,SSF",
+        "location": "MADRONE AVE ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "?E63"
+        "units": ">E44"
     },
     {
-        "id": "MF2309784",
+        "id": "BF2303955",
         "date": "2023-11-10",
-        "time": "3:41:24 PM",
+        "time": "4:08:02 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "COLLEGE DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "DF2302291",
+        "date": "2023-11-10",
+        "time": "4:06:23 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "YORKTOWN RD ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17"
+    },
+    {
+        "id": "MF2309786",
+        "date": "2023-11-10",
+        "time": "4:04:25 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WAVERLEY ST #3 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E1"
+        "category": "Carbon monoxide alarm",
+        "location": "224 BELMONT AVE ,WSB",
+        "latitude": 37.4547736671687,
+        "longitude": -122.226687961703,
+        "units": ">E4"
     },
     {
-        "id": "MF2309783",
+        "id": "RF2312462",
         "date": "2023-11-10",
-        "time": "3:36:22 PM",
+        "time": "3:58:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "119 FRANKLIN ST ,RCY",
+        "latitude": 37.4829147171457,
+        "longitude": -122.228256475557,
+        "units": ">T9"
+    },
+    {
+        "id": "MF2309785",
+        "date": "2023-11-10",
+        "time": "3:49:58 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
         "location": "WOODLAND AVE / UNIVERSITY AVE",
         "latitude": null,
         "longitude": null,
         "units": ">E2"
-    },
-    {
-        "id": "RF2312460",
-        "date": "2023-11-10",
-        "time": "3:22:52 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "FF2306429",
-        "date": "2023-11-10",
-        "time": "3:11:00 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Smoke investigation",
-        "location": "150 ASSOCIATED RD ,SSF",
-        "latitude": 37.6643553800866,
-        "longitude": -122.399183852475,
-        "units": ">E61"
     }
 ]
