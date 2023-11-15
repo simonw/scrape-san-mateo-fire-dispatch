@@ -1,5 +1,49 @@
 [
     {
+        "id": "LF2301135",
+        "date": "2023-11-14",
+        "time": "11:05:23 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E86"
+    },
+    {
+        "id": "MF2309940",
+        "date": "2023-11-14",
+        "time": "11:03:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "RF2312638",
+        "date": "2023-11-14",
+        "time": "11:00:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1602 TACOMA WAY ,RCY",
+        "latitude": 37.495932735033,
+        "longitude": -122.236794537847,
+        "units": "E16"
+    },
+    {
+        "id": "RF2312637",
+        "date": "2023-11-14",
+        "time": "10:49:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1 MAPLE ST #1304 ,RCY",
+        "latitude": 37.4811588228896,
+        "longitude": -122.227178262439,
+        "units": ""
+    },
+    {
         "id": "SF2314398",
         "date": "2023-11-14",
         "time": "10:41:59 PM",
@@ -8,7 +52,7 @@
         "location": "N EL CAMINO REAL #247 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E21"
+        "units": ">E21"
     },
     {
         "id": "MF2309939",
@@ -19,28 +63,6 @@
         "location": "CRANE ST #321B ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
-    },
-    {
-        "id": "RF2312636",
-        "date": "2023-11-14",
-        "time": "10:34:13 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOPKINS AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "RF2312635",
-        "date": "2023-11-14",
-        "time": "10:29:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "483 LINCOLN AVE ,RCY",
-        "latitude": 37.4769011335907,
-        "longitude": -122.229788768191,
-        "units": ">E3 >T9 CM11X4 >E9 >BC3>E10 ?TAC15"
+        "units": ">E6"
     }
 ]
