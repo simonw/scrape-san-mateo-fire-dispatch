@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2309982",
+        "date": "2023-11-16",
+        "time": "5:27:23 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS / CAMINO DE LOS R",
+        "latitude": null,
+        "longitude": null,
+        "units": "E6"
+    },
+    {
+        "id": "SF2314435",
+        "date": "2023-11-16",
+        "time": "5:20:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1710 S AMPHLETT BLVD ,SMO",
+        "latitude": 37.5582646131716,
+        "longitude": -122.302537552928,
+        "units": "E26"
+    },
+    {
         "id": "MF2309981",
         "date": "2023-11-16",
         "time": "5:05:10 AM",
@@ -8,29 +30,7 @@
         "location": "ALAMEDA DE LAS PULGAS / CAMINO A LOS CE",
         "latitude": 37.4361147460803,
         "longitude": -122.210306666653,
-        "units": "T4 E4 BC1 ?TAC15 ?CM11X5"
-    },
-    {
-        "id": "CF2308047",
-        "date": "2023-11-16",
-        "time": "4:58:59 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #108 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2309980",
-        "date": "2023-11-16",
-        "time": "4:49:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": ">TAC15 >E4 >BC1 >T4 ?CM11X5"
     },
     {
         "id": "MF2309979",
@@ -41,7 +41,7 @@
         "location": "PIERCE RD #3 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": ""
     },
     {
         "id": "RF2312688",
@@ -50,28 +50,6 @@
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
         "location": "FAIRMONT AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "CF2308046",
-        "date": "2023-11-16",
-        "time": "4:37:47 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2304021",
-        "date": "2023-11-16",
-        "time": "4:28:19 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN ANSELMO AVE N ,SNB",
         "latitude": null,
         "longitude": null,
         "units": ""
