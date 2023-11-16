@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2312581",
+        "id": "SF2314429",
         "date": "2023-11-15",
-        "time": "6:42:07 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "7:02:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "PIERCE ST #460 ,DCY",
+        "location": "THAYER LN #419 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": ">E29"
+    },
+    {
+        "id": "NF2312582",
+        "date": "2023-11-15",
+        "time": "6:57:52 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 1 / NB 280",
+        "latitude": 37.7000224568024,
+        "longitude": -122.471351328495,
+        "units": "?TAC35 >E94 >BC20 T95 CM31X3"
+    },
+    {
+        "id": "RF2312671",
+        "date": "2023-11-15",
+        "time": "6:46:18 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #SP 92 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "CF2308040",
@@ -19,29 +41,7 @@
         "location": "BROADWAY #1203 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "LF2301137",
-        "date": "2023-11-15",
-        "time": "6:39:02 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Trash fire",
-        "location": "365 D ST ,BRD",
-        "latitude": 37.6847082771196,
-        "longitude": -122.466078581174,
-        "units": "E86"
-    },
-    {
-        "id": "SF2314428",
-        "date": "2023-11-15",
-        "time": "6:34:21 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1133 S GRANT ST ,SMO",
-        "latitude": 37.5621447318691,
-        "longitude": -122.308880678186,
-        "units": ">E24"
+        "units": ">E37"
     },
     {
         "id": "SF2314427",
@@ -52,6 +52,6 @@
         "location": "808 LAUREL AVE #311 ,SMO",
         "latitude": 37.5609411138263,
         "longitude": -122.320121299712,
-        "units": ">E21"
+        "units": "T21 ?CM21X1 >E21"
     }
 ]
