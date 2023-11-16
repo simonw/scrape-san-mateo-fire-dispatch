@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2309987",
+        "id": "CF2308055",
         "date": "2023-11-16",
-        "time": "10:26:00 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "10:40:50 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO BROADWAY",
+        "latitude": 37.5968398858127,
+        "longitude": -122.371807046932,
+        "units": "E37 BC8 E24 T34 CM21X4?TAC25"
+    },
+    {
+        "id": "NF2312604",
+        "date": "2023-11-16",
+        "time": "10:39:31 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "MARSH RD ,MNP",
+        "location": "ACCACIA ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": "E93"
+    },
+    {
+        "id": "NF2312603",
+        "date": "2023-11-16",
+        "time": "10:35:08 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINDA MAR BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "SF2314448",
+        "date": "2023-11-16",
+        "time": "10:33:26 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BARKENTINE ST ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "NF2312602",
+        "date": "2023-11-16",
+        "time": "10:28:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EDGEWOOD DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "DF2302323",
@@ -19,7 +63,7 @@
         "location": "BUTANO CUT OFF ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 E1761 E655 E59"
+        "units": "?VFIR23 E1761 >E59 >E655"
     },
     {
         "id": "SF2314447",
@@ -33,17 +77,6 @@
         "units": ">E15"
     },
     {
-        "id": "SF2314446",
-        "date": "2023-11-16",
-        "time": "10:19:49 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FILLMORE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
         "id": "NF2312601",
         "date": "2023-11-16",
         "time": "10:17:08 AM",
@@ -53,27 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E95"
-    },
-    {
-        "id": "NF2312600",
-        "date": "2023-11-16",
-        "time": "10:14:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PARK PLAZA DR #219 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "BF2304024",
-        "date": "2023-11-16",
-        "time": "10:01:08 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
     }
 ]
