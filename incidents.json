@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2304023",
+        "date": "2023-11-16",
+        "time": "9:36:49 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1199 HUNTINGTON AVE ,SNB",
+        "latitude": 37.6372165964789,
+        "longitude": -122.416056130168,
+        "units": ">E51"
+    },
+    {
+        "id": "BF2304022",
+        "date": "2023-11-16",
+        "time": "9:35:10 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LEXINGTON WAY ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "RF2312694",
+        "date": "2023-11-16",
+        "time": "9:27:17 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ORANGE AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "MF2309985",
+        "date": "2023-11-16",
+        "time": "9:26:16 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "555 RAVENSWOOD AVE ,MNP",
+        "latitude": 37.4545139643165,
+        "longitude": -122.179076732138,
+        "units": ">E6"
+    },
+    {
         "id": "SF2314445",
         "date": "2023-11-16",
         "time": "9:17:16 AM",
@@ -11,17 +55,6 @@
         "units": ">E23"
     },
     {
-        "id": "MF2309984",
-        "date": "2023-11-16",
-        "time": "9:12:29 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "2821 EL CAMINO REAL #305 ,NFO",
-        "latitude": 37.4704761031846,
-        "longitude": -122.212738566282,
-        "units": ">E3"
-    },
-    {
         "id": "HF2303034",
         "date": "2023-11-16",
         "time": "8:38:19 AM",
@@ -30,6 +63,6 @@
         "location": "COLUMBUS ST ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": "CM41X1 >E41 >TO10 >E44 >U41"
+        "units": ">E41 >U41"
     }
 ]
