@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2312678",
+        "date": "2023-11-15",
+        "time": "10:06:10 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E9"
+    },
+    {
+        "id": "NF2312589",
+        "date": "2023-11-15",
+        "time": "10:05:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WILLITS ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "RF2312677",
+        "date": "2023-11-15",
+        "time": "10:01:16 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "724 3RD AVE ,NFO",
+        "latitude": 37.4793455605383,
+        "longitude": -122.201991760728,
+        "units": ">E11"
+    },
+    {
+        "id": "MF2309973",
+        "date": "2023-11-15",
+        "time": "9:55:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "MF2309972",
+        "date": "2023-11-15",
+        "time": "9:55:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LINFIELD DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "RF2312676",
+        "date": "2023-11-15",
+        "time": "9:52:34 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SAN CARLOS AVE / CLUB DR",
+        "latitude": 37.5069331459776,
+        "longitude": -122.285410727258,
+        "units": ">E15"
+    },
+    {
         "id": "FF2306521",
         "date": "2023-11-15",
         "time": "9:40:13 PM",
@@ -19,18 +85,7 @@
         "location": "EL CAMINO REAL / SAN FELIPE AVE",
         "latitude": 37.6177403227847,
         "longitude": -122.408803438901,
-        "units": ">BC16 >E51 T51 CM31X4 ?TAC35"
-    },
-    {
-        "id": "RF2312674",
-        "date": "2023-11-15",
-        "time": "9:21:41 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NUEVA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": "E51"
     },
     {
         "id": "CF2308044",
@@ -41,6 +96,6 @@
         "location": "SKYLINE BLVD / CRYSTAL SPRINGS RD",
         "latitude": 37.5485623764383,
         "longitude": -122.370742464632,
-        "units": "PR8A >E33"
+        "units": ">PR8A >E33"
     }
 ]
