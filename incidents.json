@@ -1,25 +1,47 @@
 [
     {
-        "id": "NF2312643",
+        "id": "SF2314487",
         "date": "2023-11-17",
-        "time": "11:41:29 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:05:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "DOCKSIDE DR ,DCY",
+        "location": "CARLMONT DR #117B ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": "?E15"
     },
     {
-        "id": "CF2308089",
+        "id": "BF2304036",
         "date": "2023-11-17",
-        "time": "11:37:06 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "181 N ROLLINS RD ,MLB",
-        "latitude": 37.6017912716272,
-        "longitude": -122.384965093158,
-        "units": "E34"
+        "time": "12:03:02 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #432 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "NF2312644",
+        "date": "2023-11-17",
+        "time": "11:56:58 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST #11 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "MF2310017",
+        "date": "2023-11-17",
+        "time": "11:50:31 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHARON PARK DR #87 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T4"
     },
     {
         "id": "BF2304035",
@@ -44,28 +66,6 @@
         "units": ">E10"
     },
     {
-        "id": "SF2314486",
-        "date": "2023-11-17",
-        "time": "11:34:26 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE #606 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "CF2308088",
-        "date": "2023-11-17",
-        "time": "11:25:04 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #2002B ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
         "id": "SF2314478",
         "date": "2023-11-17",
         "time": "7:12:13 AM",
@@ -74,6 +74,6 @@
         "location": "705 MURPHY DR ,SMO",
         "latitude": 37.5454516119765,
         "longitude": -122.327698481204,
-        "units": ">BC5 *>E25 >E23 CM21X4 ?TAC25>USR133 >E27 >T23"
+        "units": ">BC5 *>E25 >E23 CM21X4 ?TAC25>USR133 *>T23 >E27"
     }
 ]
