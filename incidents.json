@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2312741",
+        "date": "2023-11-17",
+        "time": "12:15:06 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "2207 HASTINGS SHORE LN ,RWS",
+        "latitude": 37.5242695080376,
+        "longitude": -122.251436781746,
+        "units": "E13"
+    },
+    {
+        "id": "FF2306548",
+        "date": "2023-11-17",
+        "time": "12:14:27 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "N ACCESS RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "FF2306547",
+        "date": "2023-11-17",
+        "time": "12:09:14 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "N ACCESS RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "CM31X1 >Q62"
+    },
+    {
         "id": "SF2314487",
         "date": "2023-11-17",
         "time": "12:05:28 PM",
@@ -8,18 +41,7 @@
         "location": "CARLMONT DR #117B ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "?E15"
-    },
-    {
-        "id": "BF2304036",
-        "date": "2023-11-17",
-        "time": "12:03:02 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #432 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
+        "units": ">E15"
     },
     {
         "id": "NF2312644",
@@ -33,17 +55,6 @@
         "units": ">E91"
     },
     {
-        "id": "MF2310017",
-        "date": "2023-11-17",
-        "time": "11:50:31 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SHARON PARK DR #87 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T4"
-    },
-    {
         "id": "BF2304035",
         "date": "2023-11-17",
         "time": "11:36:39 AM",
@@ -52,18 +63,7 @@
         "location": "EL CAMINO REAL ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "RF2312738",
-        "date": "2023-11-17",
-        "time": "11:36:32 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HIGHLAND AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ""
     },
     {
         "id": "SF2314478",
@@ -74,6 +74,6 @@
         "location": "705 MURPHY DR ,SMO",
         "latitude": 37.5454516119765,
         "longitude": -122.327698481204,
-        "units": ">BC5 *>E25 >E23 CM21X4 ?TAC25>USR133 *>T23 >E27"
+        "units": ">USR133 >E27"
     }
 ]
