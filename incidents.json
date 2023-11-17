@@ -1,25 +1,58 @@
 [
     {
-        "id": "RF2312710",
+        "id": "SF2314463",
         "date": "2023-11-16",
-        "time": "5:39:33 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "6:12:38 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "LAUREL ST ,RCY",
+        "location": "W 39TH AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
+        "units": "E23"
     },
     {
-        "id": "HF2303041",
+        "id": "FF2306538",
         "date": "2023-11-16",
-        "time": "5:35:32 PM",
+        "time": "6:07:18 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "690 GATEWAY BLVD ,SSF",
+        "latitude": 37.6582478950779,
+        "longitude": -122.396861499477,
+        "units": ">Q62"
+    },
+    {
+        "id": "HF2303042",
+        "date": "2023-11-16",
+        "time": "6:06:30 PM",
         "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "260 CAPISTRANO RD ,PRN",
+        "latitude": 37.504276166802,
+        "longitude": -122.482732823785,
+        "units": ">E41"
+    },
+    {
+        "id": "NF2312623",
+        "date": "2023-11-16",
+        "time": "6:03:31 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "305 GELLERT BLVD ,DCY",
+        "latitude": 37.6689349884115,
+        "longitude": -122.46838480044,
+        "units": "TAC35 >E94 >BC124 >T95 CM31X3"
+    },
+    {
+        "id": "BF2304028",
+        "date": "2023-11-16",
+        "time": "6:00:45 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "BLOOM LN #1107 ,HMB",
+        "location": "PRINCETON DR #102 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": ">E52"
     },
     {
         "id": "FF2306537",
@@ -31,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "NF2312622",
-        "date": "2023-11-16",
-        "time": "5:28:34 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BEL MAR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
     }
 ]
