@@ -1,14 +1,25 @@
 [
     {
-        "id": "LF2301145",
+        "id": "FF2306566",
         "date": "2023-11-18",
-        "time": "5:21:58 AM",
-        "summary": "Colma Fire on Control-3",
+        "time": "5:38:40 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "GILMAN DR ,BRD",
+        "location": "CRESCENT DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E65"
+    },
+    {
+        "id": "SF2314524",
+        "date": "2023-11-18",
+        "time": "5:32:31 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "233 VIRGINIA AVE ,SMO",
+        "latitude": 37.5595304610031,
+        "longitude": -122.328357919638,
+        "units": ">E21"
     },
     {
         "id": "SF2314523",
@@ -31,16 +42,5 @@
         "latitude": 37.6748269958916,
         "longitude": -122.46905914772,
         "units": ">E94"
-    },
-    {
-        "id": "RF2312772",
-        "date": "2023-11-18",
-        "time": "5:07:12 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PERRY ST #311 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
     }
 ]
