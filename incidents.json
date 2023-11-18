@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2310032",
+        "id": "BF2304040",
         "date": "2023-11-17",
-        "time": "7:42:54 PM",
+        "time": "8:03:46 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "EB 380 / WO 101",
+        "latitude": 37.6340504083676,
+        "longitude": -122.412444495015,
+        "units": "T51 BC16 CM31X4 Q62 E51?TAC35"
+    },
+    {
+        "id": "MF2310033",
+        "date": "2023-11-17",
+        "time": "8:01:34 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MNP",
+        "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E6"
+        "units": ">E1"
+    },
+    {
+        "id": "BF2304039",
+        "date": "2023-11-17",
+        "time": "7:57:09 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist, ladder request",
+        "location": "2140 VALLEYWOOD DR ,SNB",
+        "latitude": 37.635822387645,
+        "longitude": -122.441118551569,
+        "units": ">E52"
     },
     {
         "id": "NF2312671",
@@ -20,71 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E91"
-    },
-    {
-        "id": "MF2310031",
-        "date": "2023-11-17",
-        "time": "7:36:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELLIOT DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "NF2312670",
-        "date": "2023-11-17",
-        "time": "7:35:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "1830 PALMETTO AVE #2 ,PCF",
-        "latitude": 37.6348257232487,
-        "longitude": -122.492200855776,
-        "units": "E94"
-    },
-    {
-        "id": "NF2312669",
-        "date": "2023-11-17",
-        "time": "7:26:40 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CLIFTON RD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2312668",
-        "date": "2023-11-17",
-        "time": "7:25:32 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "149 MONTEREY ST ,BRS",
-        "latitude": 37.6834062512899,
-        "longitude": -122.400327097818,
-        "units": ""
-    },
-    {
-        "id": "FF2306557",
-        "date": "2023-11-17",
-        "time": "7:23:16 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "RIDGE CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "LF2301143",
-        "date": "2023-11-17",
-        "time": "7:08:54 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "123 COLMA BLVD ,CLM",
-        "latitude": 37.6784359763058,
-        "longitude": -122.46448880055,
-        "units": "?TAC35 CM31X1"
     }
 ]
