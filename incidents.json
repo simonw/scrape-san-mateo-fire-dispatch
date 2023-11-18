@@ -1,36 +1,47 @@
 [
     {
-        "id": "BF2304047",
+        "id": "BF2304048",
         "date": "2023-11-18",
-        "time": "3:20:50 PM",
+        "time": "3:42:59 PM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / WB 380 ON RAMP",
-        "latitude": 37.6300404154476,
-        "longitude": -122.434253252765,
-        "units": "?TAC35 BC16 ?CM31X1 T51 E51"
-    },
-    {
-        "id": "MF2310059",
-        "date": "2023-11-18",
-        "time": "3:19:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ATHERTON AVE / EL CAMINO REAL",
+        "location": "CHERRY AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
+        "units": "E51"
     },
     {
-        "id": "MF2310058",
+        "id": "NF2312701",
         "date": "2023-11-18",
-        "time": "3:19:03 PM",
+        "time": "3:34:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "335 TALBOT AVE ,PCF",
+        "latitude": 37.6331318181661,
+        "longitude": -122.487105560087,
+        "units": ">E71"
+    },
+    {
+        "id": "MF2310060",
+        "date": "2023-11-18",
+        "time": "3:28:30 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "BAY RD #2 ,EPA",
+        "location": "MIDDLE AVE #B ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ">E6"
+    },
+    {
+        "id": "NF2312699",
+        "date": "2023-11-18",
+        "time": "3:26:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MARTIN CT ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
     },
     {
         "id": "NF2312698",
@@ -41,28 +52,6 @@
         "location": "395 IMPERIAL WAY ,DCY",
         "latitude": 37.6643166083667,
         "longitude": -122.462668026376,
-        "units": ">E94 >BC124 CM31X5 >E63 >E95?TAC36 >T95"
-    },
-    {
-        "id": "SF2314552",
-        "date": "2023-11-18",
-        "time": "3:07:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL / 9TH AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2314551",
-        "date": "2023-11-18",
-        "time": "3:07:00 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "300 DAVEY GLEN RD ,BLM",
-        "latitude": 37.5257032410432,
-        "longitude": -122.286657120162,
-        "units": ">E14"
+        "units": ">E94 >E95"
     }
 ]
