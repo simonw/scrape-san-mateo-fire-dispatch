@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2312681",
+        "date": "2023-11-18",
+        "time": "4:00:13 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IRVINGTON ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "MF2310043",
+        "date": "2023-11-18",
+        "time": "3:58:21 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 101 / NO WILLOW RD",
+        "latitude": 37.4655873647658,
+        "longitude": -122.149382461131,
+        "units": ">T2 >BC101 >E1 >E2 TAC15CM11X3"
+    },
+    {
         "id": "BF2304041",
         "date": "2023-11-18",
         "time": "3:43:01 AM",
@@ -8,18 +30,7 @@
         "location": "AMADOR AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E52"
-    },
-    {
-        "id": "FF2306565",
-        "date": "2023-11-18",
-        "time": "3:40:05 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S LINDEN AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
+        "units": ">E52"
     },
     {
         "id": "SF2314520",
@@ -30,7 +41,7 @@
         "location": "BODEGA ST ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
+        "units": "E29"
     },
     {
         "id": "FF2306563",
@@ -41,28 +52,6 @@
         "location": "1120 SAN MATEO AVE ,SSF",
         "latitude": 37.6377614446802,
         "longitude": -122.411099432273,
-        "units": "BC17 CM31X2 T51 E61 >Q62?TAC35 >E51"
-    },
-    {
-        "id": "HF2303054",
-        "date": "2023-11-18",
-        "time": "3:24:34 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLONEL WAY ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "CF2308103",
-        "date": "2023-11-18",
-        "time": "3:21:59 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #201 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">BC17 >T51 >E61 CM31X2 >Q62?TAC35 >E51"
     }
 ]
