@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2310081",
+        "id": "SF2314587",
         "date": "2023-11-19",
-        "time": "7:40:26 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "7:55:56 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "NEWBRIDGE ST ,EPA",
+        "location": "S NORFOLK ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E26"
+    },
+    {
+        "id": "WF2301927",
+        "date": "2023-11-19",
+        "time": "7:49:29 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "196 MEADOWOOD DR ,PVY",
+        "latitude": 37.3888236426284,
+        "longitude": -122.216521772488,
+        "units": ">E8"
+    },
+    {
+        "id": "RF2312803",
+        "date": "2023-11-19",
+        "time": "7:48:46 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "SB 101 / WOODSIDE RD OFF RAMP",
+        "latitude": 37.4911957659093,
+        "longitude": -122.218771661362,
+        "units": ">E16"
     },
     {
         "id": "CF2308129",
@@ -19,7 +41,7 @@
         "location": "CENTRAL AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E34"
     },
     {
         "id": "WF2301926",
@@ -30,28 +52,6 @@
         "location": "45 STILL CREEK RD ,WDS",
         "latitude": 37.3956307611914,
         "longitude": -122.268460521469,
-        "units": "E56 E58 E1765"
-    },
-    {
-        "id": "SF2314586",
-        "date": "2023-11-19",
-        "time": "7:26:48 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PORT ROYAL AVE ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "NF2312730",
-        "date": "2023-11-19",
-        "time": "7:16:06 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "RIO VISTA DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": ">E1765"
     }
 ]
