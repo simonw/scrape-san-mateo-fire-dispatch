@@ -1,13 +1,46 @@
 [
     {
-        "id": "SF2314629",
+        "id": "MF2310101",
         "date": "2023-11-20",
-        "time": "4:39:26 AM",
+        "time": "5:04:39 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "575 BELL ST ,EPA",
+        "latitude": 37.4659338571458,
+        "longitude": -122.142104965617,
+        "units": "E2"
+    },
+    {
+        "id": "HF2303068",
+        "date": "2023-11-20",
+        "time": "4:59:54 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KELLY AVE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "SF2314630",
+        "date": "2023-11-20",
+        "time": "4:56:12 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "2205 BRIDGEPOINTE PKWY #211 ,SMO",
-        "latitude": 37.5627573436112,
-        "longitude": -122.282987480842,
-        "units": "E28"
+        "category": "Medical aid",
+        "location": "PARK PL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2312825",
+        "date": "2023-11-20",
+        "time": "4:55:34 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
     }
 ]
