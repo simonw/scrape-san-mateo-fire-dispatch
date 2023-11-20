@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2312759",
+        "date": "2023-11-19",
+        "time": "11:18:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "DOCKSIDE DR #303 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "MF2310097",
+        "date": "2023-11-19",
+        "time": "11:06:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAVEN AVE #B430 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
         "id": "MF2310096",
         "date": "2023-11-19",
         "time": "11:00:11 PM",
@@ -8,29 +30,7 @@
         "location": "NB 101 / SO UNIVERSITY AVE",
         "latitude": 37.4564271860104,
         "longitude": -122.133818965041,
-        "units": ">E77 >T2 >BC101 >E2 TAC15?CM11X3"
-    },
-    {
-        "id": "SF2314623",
-        "date": "2023-11-19",
-        "time": "10:39:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "MF2310095",
-        "date": "2023-11-19",
-        "time": "10:37:05 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VALLEY RD ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": "?CM11X3 TAC15 >E77 >E2 >BC101>T2"
     },
     {
         "id": "FF2306597",
@@ -42,16 +42,5 @@
         "latitude": 37.6553280248233,
         "longitude": -122.422921468877,
         "units": ">BC17 ?TAC35 >E65 >Q62 CM31X5>E63 >E61 >E64 >OES31"
-    },
-    {
-        "id": "CF2308142",
-        "date": "2023-11-19",
-        "time": "10:04:52 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / NO MILLBRAE AVE",
-        "latitude": 37.605374335711,
-        "longitude": -122.38455861888,
-        "units": ""
     }
 ]
