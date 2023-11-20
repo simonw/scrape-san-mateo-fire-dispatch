@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2314623",
+        "date": "2023-11-19",
+        "time": "10:39:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "MF2310095",
+        "date": "2023-11-19",
+        "time": "10:37:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALLEY RD ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
         "id": "MF2310094",
         "date": "2023-11-19",
         "time": "10:20:48 PM",
@@ -11,17 +33,6 @@
         "units": ">E3"
     },
     {
-        "id": "NF2312758",
-        "date": "2023-11-19",
-        "time": "10:10:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FRANCISCO BLVD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
         "id": "FF2306597",
         "date": "2023-11-19",
         "time": "10:07:48 PM",
@@ -30,7 +41,7 @@
         "location": "661 1ST LN ,SSF",
         "latitude": 37.6553280248233,
         "longitude": -122.422921468877,
-        "units": ">BC17 >BC16 ?TAC35 >E65 >Q62CM31X5 >E63 >E61 E64 E81"
+        "units": ">BC17 >BC16 ?TAC35 >E65 >Q62CM31X5 >E63 >E61 >E64 >OES31"
     },
     {
         "id": "CF2308142",
@@ -41,7 +52,7 @@
         "location": "NB 101 / NO MILLBRAE AVE",
         "latitude": 37.605374335711,
         "longitude": -122.38455861888,
-        "units": ">T34 ?CM21X5 >E34 >BC8 TAC25"
+        "units": ">T34 ?CM21X5 >E34 TAC25"
     },
     {
         "id": "DF2302348",
@@ -63,6 +74,6 @@
         "location": "AVE / S DELAWARE ST",
         "latitude": null,
         "longitude": null,
-        "units": ">BC5 CM21X1 >E21"
+        "units": ""
     }
 ]
