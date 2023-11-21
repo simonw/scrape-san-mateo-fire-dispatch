@@ -1,24 +1,46 @@
 [
     {
+        "id": "NF2312792",
+        "date": "2023-11-21",
+        "time": "12:04:17 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E92"
+    },
+    {
+        "id": "RF2312868",
+        "date": "2023-11-21",
+        "time": "12:02:14 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "SEAPORT BLVD / BLOMQUIST ST",
+        "latitude": 37.4929867127668,
+        "longitude": -122.213510776097,
+        "units": "E77"
+    },
+    {
+        "id": "MF2310116",
+        "date": "2023-11-21",
+        "time": "12:00:49 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "200 RINGWOOD AVE ,MOK",
+        "latitude": 37.4613401316205,
+        "longitude": -122.172717533694,
+        "units": ">E1"
+    },
+    {
         "id": "RF2312867",
-        "date": "2023-11-20",
-        "time": "11:10:52 PM",
+        "date": "2023-11-21",
+        "time": "11/20/2023 11:10:52 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Structure fire - working",
         "location": "20 MEADOW LN ,RCY",
         "latitude": 37.4800168668793,
         "longitude": -122.212874967981,
-        "units": "BS86 >CM11X3 >BC101 >E13 >BC2>T2 >E6 >E10 >E16 >BC1"
-    },
-    {
-        "id": "DF2302355",
-        "date": "2023-11-20",
-        "time": "10:50:55 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "131 ROQUENA DR ,LAH",
-        "latitude": 37.3230972064967,
-        "longitude": -122.268831897235,
-        "units": ">E57"
+        "units": "?RCFINV >E10 BS86 >CM11X3 >E13>BC2 >T2 >E6 >E16 >BC1"
     }
 ]
