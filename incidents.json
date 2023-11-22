@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2310154",
+        "date": "2023-11-22",
+        "time": "11:23:03 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GARDEN ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E2"
+    },
+    {
+        "id": "CF2308204",
+        "date": "2023-11-22",
+        "time": "11:20:23 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "EL CAMINO REAL / FOREST VIEW AVE",
+        "latitude": 37.5810895502769,
+        "longitude": -122.360683494433,
+        "units": "T34 >E34 BC8 CM21X3 ?TAC25"
+    },
+    {
         "id": "CF2308203",
         "date": "2023-11-22",
         "time": "11:03:14 AM",
@@ -8,18 +30,7 @@
         "location": "141 EL CAMINO REAL #102 ,BRM",
         "latitude": 37.575413992543,
         "longitude": -122.347291936486,
-        "units": "E34"
-    },
-    {
-        "id": "FF2306640",
-        "date": "2023-11-22",
-        "time": "10:34:14 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "LITTLEFIELD AVE / E GRAND AVE",
-        "latitude": 37.6526205679895,
-        "longitude": -122.393888402519,
-        "units": "CM31X1 >BC17 ?TAC35 >E61"
+        "units": ""
     },
     {
         "id": "DF2302359",
@@ -30,6 +41,6 @@
         "location": "CABRILLO HWY S ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "TAC45 >E1761 >BC11 >E59"
+        "units": "TAC45 >E1761 BC11 >E59"
     }
 ]
