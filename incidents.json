@@ -1,35 +1,35 @@
 [
     {
-        "id": "BF2304088",
+        "id": "BF2304089",
         "date": "2023-11-22",
-        "time": "10:33:07 PM",
+        "time": "11:00:44 PM",
         "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "405 EUCLID AVE ,SNB",
+        "latitude": 37.63126793363,
+        "longitude": -122.415471219884,
+        "units": "E51"
+    },
+    {
+        "id": "MF2310174",
+        "date": "2023-11-22",
+        "time": "10:58:14 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1765 E BAYSHORE RD #F ,EPA",
+        "latitude": 37.4612577410868,
+        "longitude": -122.135482328281,
+        "units": ">T2"
+    },
+    {
+        "id": "RF2312937",
+        "date": "2023-11-22",
+        "time": "10:48:21 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "SB 280 / NO SAN BRUNO AVE W",
+        "location": "VERA AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "DF2302362",
-        "date": "2023-11-22",
-        "time": "10:17:57 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "16379 SKYLINE BLVD ,SKY",
-        "latitude": 37.3907745115666,
-        "longitude": -122.276615016236,
-        "units": "*>E58"
-    },
-    {
-        "id": "SF2314761",
-        "date": "2023-11-22",
-        "time": "10:10:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "301 HILLSDALE MALL ,SMO",
-        "latitude": 37.537458820289,
-        "longitude": -122.299881721961,
-        "units": ""
+        "units": ">E10"
     }
 ]
