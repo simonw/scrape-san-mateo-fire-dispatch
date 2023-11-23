@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2314780",
+        "id": "CF2308223",
         "date": "2023-11-23",
-        "time": "7:21:01 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "7:42:21 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "KILLDEER CT ,FCY",
+        "location": "BROADWAY ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
+        "units": "?E37"
+    },
+    {
+        "id": "RF2312941",
+        "date": "2023-11-23",
+        "time": "7:36:13 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "OAK KNOLL DR / CANYON RD",
+        "latitude": 37.4722228060094,
+        "longitude": -122.25957179793,
+        "units": "E12"
+    },
+    {
+        "id": "WF2301947",
+        "date": "2023-11-23",
+        "time": "7:34:33 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "457 WHISKEY HILL RD ,WDS",
+        "latitude": 37.4217940152101,
+        "longitude": -122.242487944081,
+        "units": ">E7"
+    },
+    {
+        "id": "BF2304093",
+        "date": "2023-11-23",
+        "time": "7:32:30 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "W ANGUS AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     },
     {
         "id": "NF2312889",
@@ -20,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "MF2310181",
-        "date": "2023-11-23",
-        "time": "7:13:47 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #6421 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2314779",
-        "date": "2023-11-23",
-        "time": "7:03:06 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FOLGER DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
     }
 ]
