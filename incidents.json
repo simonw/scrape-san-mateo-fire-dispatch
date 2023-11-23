@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2312931",
+        "date": "2023-11-22",
+        "time": "6:14:09 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BURBANK AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E11"
+    },
+    {
+        "id": "NF2312872",
+        "date": "2023-11-22",
+        "time": "6:08:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "505 SERRAMONTE BLVD ,DCY",
+        "latitude": 37.6686995552947,
+        "longitude": -122.469978592398,
+        "units": ">BC124 >E94 CM31X5 ?TAC35"
+    },
+    {
+        "id": "FF2306648",
+        "date": "2023-11-22",
+        "time": "6:07:09 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD #316 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "SF2314753",
+        "date": "2023-11-22",
+        "time": "6:02:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c2",
+        "location": "CALIFORNIA DR / PENINSULA AVE",
+        "latitude": 37.5770708257447,
+        "longitude": -122.339380947644,
+        "units": ">E34"
+    },
+    {
+        "id": "RF2312930",
+        "date": "2023-11-22",
+        "time": "5:54:23 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "ALAMEDA DE LAS PULGAS / HOWARD AVE",
+        "latitude": 37.4892875610698,
+        "longitude": -122.263728615337,
+        "units": ">E13"
+    },
+    {
+        "id": "BF2304087",
+        "date": "2023-11-22",
+        "time": "5:49:55 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SHELTER CREEK LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "SF2314752",
         "date": "2023-11-22",
         "time": "5:38:46 PM",
@@ -8,116 +74,6 @@
         "location": "152 ARBOR LN ,SMO",
         "latitude": 37.5361679710551,
         "longitude": -122.30452461779,
-        "units": "?TAC25 ?CM21X5 ?BC5 ?E29 ?E15?E25 ?T23"
-    },
-    {
-        "id": "CF2308210",
-        "date": "2023-11-22",
-        "time": "5:38:32 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BURLINGAME AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "SF2314751",
-        "date": "2023-11-22",
-        "time": "5:38:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALM AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2304086",
-        "date": "2023-11-22",
-        "time": "5:36:03 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #2123 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "MF2310168",
-        "date": "2023-11-22",
-        "time": "5:32:24 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LINCOLN ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2306647",
-        "date": "2023-11-22",
-        "time": "5:32:12 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "505 RAILROAD AVE ,SSF",
-        "latitude": 37.6531195827745,
-        "longitude": -122.417526395305,
-        "units": ">BC17 >E61 CM31X4 ?TAC35"
-    },
-    {
-        "id": "SF2314750",
-        "date": "2023-11-22",
-        "time": "5:29:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TWIN PINES LN ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "NF2312871",
-        "date": "2023-11-22",
-        "time": "5:25:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LERIDA WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2314749",
-        "date": "2023-11-22",
-        "time": "5:14:14 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BRIDGEPOINTE PKWY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "NF2312870",
-        "date": "2023-11-22",
-        "time": "5:10:45 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "455 VALLEY DR ,BRS",
-        "latitude": 37.6906903751284,
-        "longitude": -122.417319961057,
-        "units": ">E81"
-    },
-    {
-        "id": "HF2303093",
-        "date": "2023-11-22",
-        "time": "5:08:46 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLUMBUS ST ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
+        "units": "CM21X5 ?TAC25 >T23"
     }
 ]
