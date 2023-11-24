@@ -1,25 +1,58 @@
 [
     {
-        "id": "NF2312918",
+        "id": "RF2312959",
         "date": "2023-11-23",
-        "time": "7:22:39 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "7:39:03 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CALLAN BLVD ,DCY",
+        "location": "DOCKSIDE CIR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
+        "units": "E14"
     },
     {
-        "id": "NF2312917",
+        "id": "FF2306663",
         "date": "2023-11-23",
-        "time": "7:21:49 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "7:33:34 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "LAKE FOREST DR ,DCY",
+        "location": "JEFFERSON ST ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": ">E65"
+    },
+    {
+        "id": "RF2312958",
+        "date": "2023-11-23",
+        "time": "7:30:15 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DOCKSIDE CIR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "CF2308239",
+        "date": "2023-11-23",
+        "time": "7:24:36 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAMINO ALTO ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "CF2308240",
+        "date": "2023-11-23",
+        "time": "7:23:43 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1800 OLD BAYSHORE HWY ,BRM",
+        "latitude": 37.6028027991323,
+        "longitude": -122.37150812731,
+        "units": ">T34 CM21X3 >BC8 TAC25 >E35"
     },
     {
         "id": "NF2312916",
@@ -33,17 +66,6 @@
         "units": ">E72"
     },
     {
-        "id": "MF2310204",
-        "date": "2023-11-23",
-        "time": "7:12:22 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHILCO ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
         "id": "CF2308238",
         "date": "2023-11-23",
         "time": "7:08:42 PM",
@@ -52,7 +74,7 @@
         "location": "PARK RD #206 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": ""
     },
     {
         "id": "NF2312914",
@@ -63,28 +85,6 @@
         "location": "1000 KING DR #101 ,DCY",
         "latitude": 37.6505389057844,
         "longitude": -122.469501173263,
-        "units": ">BC124 CM31X1 >E64"
-    },
-    {
-        "id": "SF2314808",
-        "date": "2023-11-23",
-        "time": "6:49:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "BF2304104",
-        "date": "2023-11-23",
-        "time": "6:20:59 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "1137 JENEVEIN AVE ,SNB",
-        "latitude": 37.6209321220458,
-        "longitude": -122.416586626081,
-        "units": ""
+        "units": "CM31X1 >BC124 >E64"
     }
 ]
