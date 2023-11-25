@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2310248",
+        "date": "2023-11-25",
+        "time": "1:39:49 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "AUSTIN AVE / ATHERTON AVE",
+        "latitude": 37.4557337092651,
+        "longitude": -122.204605867817,
+        "units": "E6"
+    },
+    {
+        "id": "CF2308269",
+        "date": "2023-11-25",
+        "time": "1:36:58 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EASTMOOR RD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "NF2312987",
+        "date": "2023-11-25",
+        "time": "1:36:00 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GATEWAY DR #67 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "SF2314877",
         "date": "2023-11-25",
         "time": "1:21:09 PM",
@@ -8,18 +41,7 @@
         "location": "HILLSDALE MALL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "BF2304115",
-        "date": "2023-11-25",
-        "time": "1:17:37 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #2219 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">E23"
     },
     {
         "id": "HF2303118",
@@ -30,7 +52,7 @@
         "location": "1 MARTINS BEACH RD ,SOS",
         "latitude": 37.3765812571845,
         "longitude": -122.404181086022,
-        "units": "CG22A ?TAC45 CM51X2 E40 E1761PR11B BC10 E59"
+        "units": "CG22A HELO ?TAC45 >E40 >E1761>PR11B >BC10 >E59"
     },
     {
         "id": "NF2312986",
@@ -41,28 +63,6 @@
         "location": "660 TRAIN TRACK ,BRS",
         "latitude": 37.6871956060776,
         "longitude": -122.39871292899,
-        "units": "TAC35 BC20 Q62 CM31X5 E61>E93 USR133 >E81"
-    },
-    {
-        "id": "FF2306699",
-        "date": "2023-11-25",
-        "time": "1:13:06 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HIGHLAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "SF2314875",
-        "date": "2023-11-25",
-        "time": "12:44:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1191 COMPASS LN ,FCY",
-        "latitude": 37.5496783505199,
-        "longitude": -122.254021358975,
-        "units": ">E28"
+        "units": ">TAC35 >BC20 >CM31X5 >E81"
     }
 ]
