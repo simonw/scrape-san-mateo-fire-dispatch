@@ -1,36 +1,69 @@
 [
     {
-        "id": "MF2310226",
+        "id": "SF2314846",
         "date": "2023-11-24",
-        "time": "4:58:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Smoke investigation",
-        "location": "2290 POPLAR AVE ,EPA",
-        "latitude": 37.4699033260285,
-        "longitude": -122.148947171271,
-        "units": "E77"
+        "time": "5:36:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "45 W HILLSDALE BLVD ,SMO",
+        "latitude": 37.5354403497096,
+        "longitude": -122.298232414852,
+        "units": "E23"
     },
     {
-        "id": "RF2312990",
+        "id": "FF2306683",
         "date": "2023-11-24",
-        "time": "4:53:42 PM",
+        "time": "5:32:11 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HIGHLAND AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "LF2301169",
+        "date": "2023-11-24",
+        "time": "5:31:55 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86 MED19"
+    },
+    {
+        "id": "RF2312992",
+        "date": "2023-11-24",
+        "time": "5:28:20 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "MAIN ST / BROADWAY",
+        "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ">E9"
     },
     {
-        "id": "RF2312989",
+        "id": "MF2310228",
         "date": "2023-11-24",
-        "time": "4:49:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "BRADFORD ST / MIDDLEFIELD RD",
-        "latitude": 37.4885938325712,
-        "longitude": -122.229291286703,
-        "units": ">T9"
+        "time": "5:15:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAND HILL RD ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2314845",
+        "date": "2023-11-24",
+        "time": "5:11:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #412C ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "MF2310225",
@@ -41,50 +74,6 @@
         "location": "EB 84 / WO TOLL PLZ",
         "latitude": 37.5326223484999,
         "longitude": -122.08773172975,
-        "units": "?VFIR23 CM11X5 >E2 FRBC6 FRE60BC101 >T2"
-    },
-    {
-        "id": "WF2301957",
-        "date": "2023-11-24",
-        "time": "4:34:29 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALPINE RD ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "LF2301168",
-        "date": "2023-11-24",
-        "time": "4:14:29 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "255 D ST ,BRD",
-        "latitude": 37.6829760587961,
-        "longitude": -122.463212336263,
-        "units": ">E86"
-    },
-    {
-        "id": "FF2306681",
-        "date": "2023-11-24",
-        "time": "4:07:16 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "E JAMIE CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "Q62"
-    },
-    {
-        "id": "DF2302367",
-        "date": "2023-11-24",
-        "time": "4:06:42 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "CABRILLO HWY S / STAGE RD",
-        "latitude": 37.3376365979137,
-        "longitude": -122.39417466141,
-        "units": ">E58"
+        "units": "?VFIR23 CM11X5 >E2 >FRBC6 >FRE60>T2"
     }
 ]
