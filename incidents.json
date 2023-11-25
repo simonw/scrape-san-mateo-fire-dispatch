@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2314846",
+        "id": "MF2310230",
         "date": "2023-11-24",
-        "time": "5:36:12 PM",
+        "time": "5:58:17 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "BF2304109",
+        "date": "2023-11-24",
+        "time": "5:58:13 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "SF2314847",
+        "date": "2023-11-24",
+        "time": "5:46:19 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "45 W HILLSDALE BLVD ,SMO",
-        "latitude": 37.5354403497096,
-        "longitude": -122.298232414852,
-        "units": "E23"
+        "category": "Traffic accident pd request c3",
+        "location": "S EL CAMINO REAL / E HILLSDALE BLVD",
+        "latitude": 37.5370823496158,
+        "longitude": -122.297557985572,
+        "units": ">T23"
+    },
+    {
+        "id": "NF2312960",
+        "date": "2023-11-24",
+        "time": "5:44:52 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "442 89TH ST #6 ,DCY",
+        "latitude": 37.6920197729149,
+        "longitude": -122.476310620506,
+        "units": ">E95 >BC20 >E92 CM31X4 ?TAC35"
     },
     {
         "id": "FF2306683",
@@ -17,50 +50,6 @@
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
         "location": "HIGHLAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "LF2301169",
-        "date": "2023-11-24",
-        "time": "5:31:55 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86 MED19"
-    },
-    {
-        "id": "RF2312992",
-        "date": "2023-11-24",
-        "time": "5:28:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2310228",
-        "date": "2023-11-24",
-        "time": "5:15:28 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAND HILL RD ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "SF2314845",
-        "date": "2023-11-24",
-        "time": "5:11:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #412C ,BLM",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -74,6 +63,6 @@
         "location": "EB 84 / WO TOLL PLZ",
         "latitude": 37.5326223484999,
         "longitude": -122.08773172975,
-        "units": "?VFIR23 CM11X5 >E2 >FRBC6 >FRE60>T2"
+        "units": "?VFIR23 CM11X5 >E2"
     }
 ]
