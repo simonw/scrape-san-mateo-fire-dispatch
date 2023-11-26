@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2314895",
+        "id": "SF2314897",
         "date": "2023-11-25",
-        "time": "9:59:37 PM",
+        "time": "10:26:09 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "856 PROSPECT RW ,SMO",
-        "latitude": 37.5751098019912,
-        "longitude": -122.341116853986,
-        "units": "E34"
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E15"
+    },
+    {
+        "id": "SF2314896",
+        "date": "2023-11-25",
+        "time": "10:23:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E POPLAR AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "NF2313010",
+        "date": "2023-11-25",
+        "time": "10:09:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WESTMOOR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "NF2313009",
+        "date": "2023-11-25",
+        "time": "10:06:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GENEVA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "MF2310257",
@@ -19,28 +52,6 @@
         "location": "2361 UNIVERSITY AVE ,EPA",
         "latitude": 37.4701980475049,
         "longitude": -122.140851330541,
-        "units": "E2 T2 >BC1 CM11X5 >E1?TAC16"
-    },
-    {
-        "id": "FF2306703",
-        "date": "2023-11-25",
-        "time": "9:54:27 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD #211 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "MF2310256",
-        "date": "2023-11-25",
-        "time": "9:48:05 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, ladder request",
-        "location": "1923 BAY RD ,EPA",
-        "latitude": 37.4737191571403,
-        "longitude": -122.130823656526,
-        "units": ">E77"
+        "units": ">BC1 ?TAC16 CM11X5 >E2 >E1>T2"
     }
 ]
