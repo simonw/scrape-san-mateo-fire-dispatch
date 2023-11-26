@@ -1,14 +1,47 @@
 [
     {
-        "id": "CF2308272",
+        "id": "NF2312992",
         "date": "2023-11-25",
-        "time": "3:42:40 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "4:10:07 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "CABRILLO AVE ,BRM",
+        "location": "ANDOVER DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E35"
+        "units": ">E94"
+    },
+    {
+        "id": "RF2313016",
+        "date": "2023-11-25",
+        "time": "4:09:06 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "3623 GLENWOOD AVE ,RCY",
+        "latitude": 37.4680951776566,
+        "longitude": -122.255283691348,
+        "units": ">E12"
+    },
+    {
+        "id": "BF2304118",
+        "date": "2023-11-25",
+        "time": "4:02:57 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "CRYSTAL SPRINGS RD / CUNNINGHAM WAY",
+        "latitude": 37.6140264691263,
+        "longitude": -122.420276396063,
+        "units": ">CM31X1 >TAC35 >T51 >BC16"
+    },
+    {
+        "id": "HF2303120",
+        "date": "2023-11-25",
+        "time": "3:50:36 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JOHNSON PIER ,PRN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
     },
     {
         "id": "DF2302372",
@@ -19,84 +52,7 @@
         "location": "LAUREL HILL DR ,EIC",
         "latitude": null,
         "longitude": null,
-        "units": "T17"
-    },
-    {
-        "id": "HF2303119",
-        "date": "2023-11-25",
-        "time": "3:35:11 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MUIRFIELD RD ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "FF2306701",
-        "date": "2023-11-25",
-        "time": "3:35:10 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALHAMBRA RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "NF2312991",
-        "date": "2023-11-25",
-        "time": "3:30:52 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "RF2313015",
-        "date": "2023-11-25",
-        "time": "3:29:45 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "655 SKYWAY RD ,SNC",
-        "latitude": 37.5120642589015,
-        "longitude": -122.252036226516,
-        "units": ">E13"
-    },
-    {
-        "id": "RF2313014",
-        "date": "2023-11-25",
-        "time": "3:29:15 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "NF2312990",
-        "date": "2023-11-25",
-        "time": "3:28:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "SF2314883",
-        "date": "2023-11-25",
-        "time": "3:25:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
+        "units": ""
     },
     {
         "id": "HF2303118",
@@ -107,6 +63,6 @@
         "location": "1 MARTINS BEACH RD ,SOS",
         "latitude": 37.3765812571845,
         "longitude": -122.404181086022,
-        "units": "CG22A >E140 ?TAC45 >E40 >E1761>BC10"
+        "units": "CG22A"
     }
 ]
