@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2310275",
+        "id": "MF2310277",
         "date": "2023-11-26",
-        "time": "6:38:53 PM",
+        "time": "6:54:58 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "UNIVERSITY AVE / EB 84",
+        "location": "PARTRIDGE AVE #5 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E4"
+    },
+    {
+        "id": "MF2310276",
+        "date": "2023-11-26",
+        "time": "6:49:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1000 EL CAMINO REAL ,ATN",
+        "latitude": 37.4560770363324,
+        "longitude": -122.192078155915,
+        "units": ">E6"
+    },
+    {
+        "id": "NF2313053",
+        "date": "2023-11-26",
+        "time": "6:49:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #130B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "FF2306719",
@@ -19,7 +41,7 @@
         "location": "NB 280 / HICKEY BLVD OFF RAMP",
         "latitude": 37.6591808793724,
         "longitude": -122.462764033691,
-        "units": ">E52 BC121 T51 E94 TAC36CM31X3"
+        "units": ">TAC36 >CM31X3 >E52"
     },
     {
         "id": "BF2304133",
@@ -30,28 +52,6 @@
         "location": "375 SHAW RD ,SSF",
         "latitude": 37.6308550183543,
         "longitude": -122.417885282008,
-        "units": ">VF22X3 >BC16 >CM31X2 >E61 >E51"
-    },
-    {
-        "id": "FF2306718",
-        "date": "2023-11-26",
-        "time": "6:05:07 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - manual",
-        "location": "101 MCLELLAN DR ,SSF",
-        "latitude": 37.6642962765265,
-        "longitude": -122.446854864105,
-        "units": ">E63"
-    },
-    {
-        "id": "BF2304132",
-        "date": "2023-11-26",
-        "time": "5:53:05 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "1274 EL CAMINO REAL ,SNB",
-        "latitude": 37.6393235090506,
-        "longitude": -122.420943045439,
-        "units": ">TAC35 >CM31X5"
+        "units": ""
     }
 ]
