@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2313060",
+        "date": "2023-11-27",
+        "time": "1:19:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "222 88TH ST ,DCY",
+        "latitude": 37.6927519329686,
+        "longitude": -122.472783307604,
+        "units": "E95"
+    },
+    {
+        "id": "RF2313060",
+        "date": "2023-11-27",
+        "time": "1:12:40 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "445 INDUSTRIAL RD ,SNC",
+        "latitude": 37.5126241063162,
+        "longitude": -122.258321988806,
+        "units": ">E16"
+    },
+    {
         "id": "MF2310282",
         "date": "2023-11-27",
         "time": "12:57:54 AM",
@@ -8,7 +30,7 @@
         "location": "ILLINOIS ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ""
     },
     {
         "id": "FF2306723",
@@ -20,16 +42,5 @@
         "latitude": 37.655005954086,
         "longitude": -122.435531188626,
         "units": ">E63"
-    },
-    {
-        "id": "BF2304139",
-        "date": "2023-11-27",
-        "time": "12:37:49 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN FELIPE AVE #4 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
     }
 ]
