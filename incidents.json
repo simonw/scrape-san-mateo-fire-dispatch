@@ -1,5 +1,71 @@
 [
     {
+        "id": "HF2303140",
+        "date": "2023-11-28",
+        "time": "10:21:43 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "95 KELLY AVE ,HMB",
+        "latitude": 37.4655981266622,
+        "longitude": -122.445759094135,
+        "units": "E40"
+    },
+    {
+        "id": "WF2301970",
+        "date": "2023-11-28",
+        "time": "10:21:42 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "DURAZNO WAY ,LAD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
+        "id": "NF2313103",
+        "date": "2023-11-28",
+        "time": "10:19:08 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "STANDISH RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "SF2314995",
+        "date": "2023-11-28",
+        "time": "10:17:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "KEDITH ST ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "FF2306746",
+        "date": "2023-11-28",
+        "time": "10:16:30 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "WESTBOROUGH BLVD #231 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "RF2313118",
+        "date": "2023-11-28",
+        "time": "10:10:53 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Gas main break",
+        "location": "35 RENATO CT ,RCY",
+        "latitude": 37.4692050254279,
+        "longitude": -122.213064350672,
+        "units": ">E3"
+    },
+    {
         "id": "CF2308333",
         "date": "2023-11-28",
         "time": "10:01:05 AM",
@@ -8,7 +74,7 @@
         "location": "TROUSDALE DR #133 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E37 E34 >CM21X1"
+        "units": ">CM21X1 >E37 >E34"
     },
     {
         "id": "CF2308332",
@@ -19,17 +85,6 @@
         "location": "355 SANTA PAULA AVE ,MLB",
         "latitude": 37.6069710914824,
         "longitude": -122.390672595572,
-        "units": ">BC16 >CM21X4 ?TAC25 >T51 >E51"
-    },
-    {
-        "id": "SF2314991",
-        "date": "2023-11-28",
-        "time": "9:44:56 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
+        "units": ">BC16 >CM21X4 ?TAC25 >E51"
     }
 ]
