@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2310316",
+        "date": "2023-11-27",
+        "time": "10:26:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PALMER LN ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "RF2313104",
+        "date": "2023-11-27",
+        "time": "10:12:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALDEN ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "MF2310315",
         "date": "2023-11-27",
         "time": "10:03:08 PM",
@@ -8,7 +30,7 @@
         "location": "STERLING AVE ,WMP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "RF2313103",
@@ -19,17 +41,6 @@
         "location": "207 REDWOOD SHORES PKWY ,RWS",
         "latitude": 37.5228687344022,
         "longitude": -122.254004298146,
-        "units": "T9 BC3 E13 E16 TAC15?CM11X5 >E20"
-    },
-    {
-        "id": "LF2301182",
-        "date": "2023-11-27",
-        "time": "9:49:47 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLMA BLVD ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
+        "units": ">E13 TAC15 ?CM11X5 >E20"
     }
 ]
