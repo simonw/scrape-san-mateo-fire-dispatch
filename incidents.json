@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2313120",
+        "date": "2023-11-28",
+        "time": "10:37:53 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "STAFFORD ST / B ST",
+        "latitude": 37.4919236191386,
+        "longitude": -122.240782885596,
+        "units": "E9"
+    },
+    {
+        "id": "HF2303141",
+        "date": "2023-11-28",
+        "time": "10:33:56 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "N CABRILLO HWY ,MON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "RF2313119",
+        "date": "2023-11-28",
+        "time": "10:31:10 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "QUARRY RD ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
         "id": "HF2303140",
         "date": "2023-11-28",
         "time": "10:21:43 AM",
@@ -8,7 +41,7 @@
         "location": "95 KELLY AVE ,HMB",
         "latitude": 37.4655981266622,
         "longitude": -122.445759094135,
-        "units": "E40"
+        "units": ">E40"
     },
     {
         "id": "WF2301970",
@@ -44,28 +77,6 @@
         "units": ">E14"
     },
     {
-        "id": "FF2306746",
-        "date": "2023-11-28",
-        "time": "10:16:30 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD #231 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2313118",
-        "date": "2023-11-28",
-        "time": "10:10:53 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Gas main break",
-        "location": "35 RENATO CT ,RCY",
-        "latitude": 37.4692050254279,
-        "longitude": -122.213064350672,
-        "units": ">E3"
-    },
-    {
         "id": "CF2308333",
         "date": "2023-11-28",
         "time": "10:01:05 AM",
@@ -74,17 +85,6 @@
         "location": "TROUSDALE DR #133 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">CM21X1 >E37 >E34"
-    },
-    {
-        "id": "CF2308332",
-        "date": "2023-11-28",
-        "time": "9:50:52 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "355 SANTA PAULA AVE ,MLB",
-        "latitude": 37.6069710914824,
-        "longitude": -122.390672595572,
-        "units": ">BC16 >CM21X4 ?TAC25 >E51"
+        "units": ">CM21X1 >E37 *>E34"
     }
 ]
