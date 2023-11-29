@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2313146",
+        "id": "SF2315050",
         "date": "2023-11-29",
-        "time": "9:03:40 AM",
+        "time": "9:24:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1019 FOSTER SQUARE LN ,FCY",
+        "latitude": 37.5578419108227,
+        "longitude": -122.269067881706,
+        "units": "E29"
+    },
+    {
+        "id": "NF2313147",
+        "date": "2023-11-29",
+        "time": "9:22:41 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "HICKEY BLVD / GATEWAY DR",
-        "latitude": 37.6597145720087,
-        "longitude": -122.477978224677,
-        "units": "BC124 E94 T95 ?TAC35 ?CM31X3"
+        "category": "Fire alarm",
+        "location": "1283 TERRA NOVA BLVD ,PCF",
+        "latitude": 37.5877492195924,
+        "longitude": -122.478900653675,
+        "units": "E72"
+    },
+    {
+        "id": "BF2304164",
+        "date": "2023-11-29",
+        "time": "9:12:55 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SHELTER CREEK LN ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "RF2313166",
+        "date": "2023-11-29",
+        "time": "9:08:50 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "425 HURLINGAME AVE ,NFO",
+        "latitude": 37.4776464821294,
+        "longitude": -122.21116609194,
+        "units": ">E11"
     },
     {
         "id": "RF2313165",
@@ -30,17 +63,6 @@
         "location": "CREEK TRL ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": "TAC45 >E58 E1765 >E7"
-    },
-    {
-        "id": "RF2313164",
-        "date": "2023-11-29",
-        "time": "8:30:26 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #310 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": "TAC45 >E58 >E1765 >E7"
     }
 ]
