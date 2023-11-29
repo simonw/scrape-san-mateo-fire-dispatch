@@ -1,36 +1,69 @@
 [
     {
-        "id": "NF2313128",
+        "id": "NF2313131",
         "date": "2023-11-28",
-        "time": "7:39:37 PM",
+        "time": "8:13:44 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "HILLSIDE BLVD #1 ,DCY",
+        "location": "SERRAMONTE CTR ,DCY",
         "latitude": null,
         "longitude": null,
+        "units": "?T95"
+    },
+    {
+        "id": "SF2315028",
+        "date": "2023-11-28",
+        "time": "8:12:08 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "26TH AVE / MASON LN",
+        "latitude": 37.5381463753544,
+        "longitude": -122.319626588379,
+        "units": "?E23"
+    },
+    {
+        "id": "NF2313130",
+        "date": "2023-11-28",
+        "time": "8:11:09 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "56 GARIBALDI ST ,DCY",
+        "latitude": 37.6934958066785,
+        "longitude": -122.462954269608,
         "units": "E92"
     },
     {
-        "id": "SF2315025",
+        "id": "CF2308342",
         "date": "2023-11-28",
-        "time": "7:32:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:09:08 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "LOS PRADOS ST #5 ,SMO",
+        "location": "OAK GROVE AVE #101 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": ">E34"
     },
     {
-        "id": "NF2313127",
+        "id": "RF2313145",
         "date": "2023-11-28",
-        "time": "7:29:57 PM",
+        "time": "8:00:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "ALAMEDA DE LAS PULGAS / SAN CARLOS AVE",
+        "latitude": 37.5023814513829,
+        "longitude": -122.270896298288,
+        "units": ">E13"
+    },
+    {
+        "id": "NF2313129",
+        "date": "2023-11-28",
+        "time": "7:51:19 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "WESTCLIFF CT ,PCF",
+        "location": "ROSITA RD ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": ""
     },
     {
         "id": "RF2313144",
@@ -41,7 +74,7 @@
         "location": "NB 101 / SO HOLLY ST",
         "latitude": 37.5015834506222,
         "longitude": -122.241966950497,
-        "units": "CM11X4 ?TAC15 >BC3 >E9"
+        "units": ">E9"
     },
     {
         "id": "SF2315024",
@@ -52,17 +85,6 @@
         "location": "N GRANT ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2313125",
-        "date": "2023-11-28",
-        "time": "6:56:45 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GLENCOURT WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
+        "units": "E24"
     }
 ]
