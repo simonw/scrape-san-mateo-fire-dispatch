@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2308345",
+        "date": "2023-11-28",
+        "time": "10:20:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SUMMER AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "BF2304155",
+        "date": "2023-11-28",
+        "time": "10:19:18 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "FF2306760",
+        "date": "2023-11-28",
+        "time": "10:09:19 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "210 EL CAMINO REAL ,SSF",
+        "latitude": 37.6437019194625,
+        "longitude": -122.424489931758,
+        "units": ">E61"
+    },
+    {
         "id": "CF2308344",
         "date": "2023-11-28",
         "time": "10:00:54 PM",
@@ -22,17 +55,6 @@
         "units": ">E72"
     },
     {
-        "id": "NF2313132",
-        "date": "2023-11-28",
-        "time": "9:56:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #200A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
         "id": "DF2302389",
         "date": "2023-11-28",
         "time": "9:50:40 PM",
@@ -41,39 +63,6 @@
         "location": "1 ANO NUEVO ,SOS",
         "latitude": 37.1206284500294,
         "longitude": -122.307292219667,
-        "units": "E1767 TAC45 E40 BC10 E59R57"
-    },
-    {
-        "id": "SF2315036",
-        "date": "2023-11-28",
-        "time": "9:44:55 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "6108 ADMIRALTY LN #6108 ,FCY",
-        "latitude": 37.5607718655856,
-        "longitude": -122.267125754522,
-        "units": ">E29"
-    },
-    {
-        "id": "SF2315035",
-        "date": "2023-11-28",
-        "time": "9:27:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KIMBERLY WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2315033",
-        "date": "2023-11-28",
-        "time": "9:13:00 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "2260 BRIDGEPOINTE PKWY ,SMO",
-        "latitude": 37.5593978480592,
-        "longitude": -122.281720076478,
-        "units": ">E26"
+        "units": ">E1767 >E59"
     }
 ]
