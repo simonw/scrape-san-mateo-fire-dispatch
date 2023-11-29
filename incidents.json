@@ -1,25 +1,36 @@
 [
     {
-        "id": "HF2303146",
+        "id": "SF2315034",
         "date": "2023-11-28",
-        "time": "9:03:57 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "9:24:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ARNOLD WAY #110 ,HMB",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": "E23"
     },
     {
-        "id": "BF2304154",
+        "id": "RF2313148",
         "date": "2023-11-28",
-        "time": "9:03:49 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "9:14:36 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CHERRY AVE / COMMODORE DR",
+        "location": "MADISON AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
+        "units": ">E10"
+    },
+    {
+        "id": "SF2315033",
+        "date": "2023-11-28",
+        "time": "9:13:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "2260 BRIDGEPOINTE PKWY ,SMO",
+        "latitude": 37.5593978480592,
+        "longitude": -122.281720076478,
+        "units": ">BC5 ?CM21X5 >E29 >E28 TAC25>T23 >E26"
     },
     {
         "id": "FF2306759",
@@ -31,27 +42,5 @@
         "latitude": 37.6434322718537,
         "longitude": -122.452862292328,
         "units": "?CM31X1 ?TAC35 >E64"
-    },
-    {
-        "id": "FF2306758",
-        "date": "2023-11-28",
-        "time": "8:45:04 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "VETERANS BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "SF2315030",
-        "date": "2023-11-28",
-        "time": "8:34:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VILLA TE #A2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
