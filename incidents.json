@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2313178",
+        "id": "BF2304172",
         "date": "2023-11-30",
-        "time": "8:38:18 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:04:22 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "SULLIVAN AVE ,DCY",
+        "location": "SAN ANTONIO AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": "T51"
+    },
+    {
+        "id": "CF2308367",
+        "date": "2023-11-30",
+        "time": "8:53:16 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "1556 ALTURAS DR ,BRM",
+        "latitude": 37.5768310764244,
+        "longitude": -122.395633381134,
+        "units": ">E35"
+    },
+    {
+        "id": "MF2310390",
+        "date": "2023-11-30",
+        "time": "8:51:54 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO WILLOW RD",
+        "latitude": 37.4775111992726,
+        "longitude": -122.170198805936,
+        "units": "CM11X1 >T9 ?TAC15 >E2 >E5"
+    },
+    {
+        "id": "RF2313213",
+        "date": "2023-11-30",
+        "time": "8:43:32 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ELM ST #228 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
     },
     {
         "id": "MF2310389",
@@ -30,28 +63,6 @@
         "location": "EL CAMINO REAL #1 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "BF2304171",
-        "date": "2023-11-30",
-        "time": "8:27:13 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "901 CHERRY AVE ,SNB",
-        "latitude": 37.627943109138,
-        "longitude": -122.426634811169,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2315107",
-        "date": "2023-11-30",
-        "time": "8:26:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "BEACH PARK BLVD / GULL AVE",
-        "latitude": 37.5660934596744,
-        "longitude": -122.251284886571,
-        "units": ">E28"
+        "units": "*>E14"
     }
 ]
