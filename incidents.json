@@ -1,14 +1,47 @@
 [
     {
+        "id": "BF2304171",
+        "date": "2023-11-30",
+        "time": "8:27:13 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "901 CHERRY AVE ,SNB",
+        "latitude": 37.627943109138,
+        "longitude": -122.426634811169,
+        "units": "?TAC35 ?CM31X5 ?BC16 ?E61 ?E52?E51 ?T51"
+    },
+    {
+        "id": "SF2315107",
+        "date": "2023-11-30",
+        "time": "8:26:00 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "BEACH PARK BLVD / GULL AVE",
+        "latitude": 37.5660934596744,
+        "longitude": -122.251284886571,
+        "units": "E28 T23 BC5 CM21X1 ?TAC25"
+    },
+    {
+        "id": "CF2308366",
+        "date": "2023-11-30",
+        "time": "8:16:20 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAGUNA AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
         "id": "HF2303155",
         "date": "2023-11-30",
         "time": "8:04:05 AM",
         "summary": "Coastside Fire on Control-1",
-        "category": "Traffic accident - structure",
-        "location": "2360 PURISIMA CREEK RD ,SOS",
-        "latitude": 37.427838858952,
-        "longitude": -122.386447489319,
-        "units": "BC10 USR133 E41 ?TAC45 ?CM41X3?E44 ?E59 ?E40"
+        "category": "Medical aid",
+        "location": "PURISIMA CREEK RD ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "?TAC45 >E40 CM41X3"
     },
     {
         "id": "WF2301986",
@@ -19,18 +52,7 @@
         "location": "ELEANOR DR ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
-    },
-    {
-        "id": "RF2313210",
-        "date": "2023-11-30",
-        "time": "7:48:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GORDON ST #221 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">E7"
     },
     {
         "id": "SF2315106",
@@ -42,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T21"
-    },
-    {
-        "id": "SF2315105",
-        "date": "2023-11-30",
-        "time": "7:44:21 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #309E ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
     }
 ]
