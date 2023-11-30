@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2315090",
+        "date": "2023-11-29",
+        "time": "7:21:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WAYNE WAY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "SF2315089",
+        "date": "2023-11-29",
+        "time": "7:19:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD #1404 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "FF2306782",
+        "date": "2023-11-29",
+        "time": "7:07:41 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LINDEN AVE #56 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
         "id": "CF2308359",
         "date": "2023-11-29",
         "time": "7:04:55 PM",
@@ -8,29 +41,7 @@
         "location": "CAMBRIDGE RD / CALIFORNIA DR",
         "latitude": 37.591072144271,
         "longitude": -122.371924412768,
-        "units": "?TAC25 ?CM21X2 ?BC8 ?E34 ?T34"
-    },
-    {
-        "id": "FF2306781",
-        "date": "2023-11-29",
-        "time": "6:47:41 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "403 ALTA VISTA DR ,SSF",
-        "latitude": 37.6393773957723,
-        "longitude": -122.436091889263,
-        "units": ">E61"
-    },
-    {
-        "id": "SF2315087",
-        "date": "2023-11-29",
-        "time": "6:44:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E34 >T34 CM21X2 ?TAC25"
     },
     {
         "id": "RF2313177",
@@ -41,6 +52,6 @@
         "location": "1107 2ND AVE ,RCY",
         "latitude": 37.4856958347054,
         "longitude": -122.200133941431,
-        "units": ">E11 CM11X4 >T9 ?TAC15 >BC3>E9"
+        "units": ">E11 CM11X4 >T9 ?TAC15 >BC3"
     }
 ]
