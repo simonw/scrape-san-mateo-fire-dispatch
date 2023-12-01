@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2310405",
+        "id": "RF2313238",
         "date": "2023-11-30",
-        "time": "8:58:51 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:20:10 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "MERCEDES LN ,ATN",
+        "location": "EL CAMINO REAL / MORSE BLVD",
         "latitude": null,
         "longitude": null,
-        "units": ">E3"
+        "units": "E16"
+    },
+    {
+        "id": "MF2310406",
+        "date": "2023-11-30",
+        "time": "9:19:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "314 LILAC LN ,EPA",
+        "latitude": 37.46938183753,
+        "longitude": -122.14558927622,
+        "units": "E2"
     },
     {
         "id": "FF2306807",
@@ -20,38 +31,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E63"
-    },
-    {
-        "id": "BF2304186",
-        "date": "2023-11-30",
-        "time": "8:23:03 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / NO SFO",
-        "latitude": 37.6207581925853,
-        "longitude": -122.399704894092,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2313206",
-        "date": "2023-11-30",
-        "time": "8:09:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "376 FIRECREST AVE ,PCF",
-        "latitude": 37.6566993052052,
-        "longitude": -122.475959673974,
-        "units": ">E94"
-    },
-    {
-        "id": "WF2301988",
-        "date": "2023-11-30",
-        "time": "7:45:32 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GOLDEN OAK DR ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
