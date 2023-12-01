@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2313250",
+        "id": "MF2310418",
         "date": "2023-12-01",
-        "time": "9:43:03 AM",
+        "time": "10:03:16 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "219 DEMETER ST ,EPA",
+        "latitude": 37.4747823474134,
+        "longitude": -122.134565731561,
+        "units": "E77"
+    },
+    {
+        "id": "RF2313254",
+        "date": "2023-12-01",
+        "time": "9:59:28 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "GORDON ST #314 ,RCY",
+        "location": "UPLAND RD ,EML",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "E12"
     },
     {
         "id": "MF2310417",
@@ -19,7 +30,7 @@
         "location": "TUSCALOOSA AVE ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E6"
     },
     {
         "id": "NF2313227",
@@ -30,6 +41,6 @@
         "location": "WILLITS ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     }
 ]
