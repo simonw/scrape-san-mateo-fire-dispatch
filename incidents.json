@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2313231",
+        "id": "MF2310420",
         "date": "2023-12-01",
-        "time": "11:38:47 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:02:09 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "3253 MIDDLEFIELD RD ,NFO",
+        "latitude": 37.4714016445424,
+        "longitude": -122.202930568577,
+        "units": "E5"
+    },
+    {
+        "id": "SF2315166",
+        "date": "2023-12-01",
+        "time": "12:02:02 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "TERRA NOVA BLVD ,PCF",
+        "location": "BRIDGEPOINTE PKWY ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
+        "units": "E26"
+    },
+    {
+        "id": "NF2313233",
+        "date": "2023-12-01",
+        "time": "11:58:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALE ST #36 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "RF2313257",
+        "date": "2023-12-01",
+        "time": "11:51:59 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GLENNAN DR ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
     },
     {
         "id": "SF2315165",
@@ -20,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E29"
-    },
-    {
-        "id": "SF2315164",
-        "date": "2023-12-01",
-        "time": "11:29:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2315163",
-        "date": "2023-12-01",
-        "time": "11:26:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PACIFIC BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
     }
 ]
