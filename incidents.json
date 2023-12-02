@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2315196",
+        "date": "2023-12-02",
+        "time": "4:02:26 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #324 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E28"
+    },
+    {
+        "id": "CF2308415",
+        "date": "2023-12-02",
+        "time": "3:50:04 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Trash fire",
+        "location": "10 EL CAMINO REAL ,MLB",
+        "latitude": 37.5989072707817,
+        "longitude": -122.387343329203,
+        "units": ">E37"
+    },
+    {
         "id": "RF2313287",
         "date": "2023-12-02",
         "time": "3:40:55 AM",
@@ -8,7 +30,7 @@
         "location": "ELM ST #159 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": ">E13"
     },
     {
         "id": "FF2306831",
@@ -16,20 +38,9 @@
         "time": "3:37:48 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Traffic accident pd request c3",
-        "location": "GRAND AVE / CYPRESS AVE",
+        "location": "GRAND AVE / AIRPORT BLVD",
         "latitude": 37.6548498208824,
         "longitude": -122.408591224432,
-        "units": ">BC17 >E61 CM31X3 Q62 ?TAC35"
-    },
-    {
-        "id": "HF2303163",
-        "date": "2023-12-02",
-        "time": "3:34:18 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GARCIA AVE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
+        "units": ">E61 >Q62 >BC17 CM31X3 ?TAC35"
     }
 ]
