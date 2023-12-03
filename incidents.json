@@ -1,5 +1,93 @@
 [
     {
+        "id": "DF2302411",
+        "date": "2023-12-03",
+        "time": "2:02:27 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDMONDS RD #353C ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": "E19 E18"
+    },
+    {
+        "id": "SF2315259",
+        "date": "2023-12-03",
+        "time": "2:00:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "MF2310487",
+        "date": "2023-12-03",
+        "time": "2:00:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHILCO ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "NF2313306",
+        "date": "2023-12-03",
+        "time": "1:56:52 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN FERNANDO WAY ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2313336",
+        "date": "2023-12-03",
+        "time": "1:54:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "1321 MARSHALL ST ,RCY",
+        "latitude": 37.4882595441525,
+        "longitude": -122.22044482963,
+        "units": ">T9"
+    },
+    {
+        "id": "CF2308442",
+        "date": "2023-12-03",
+        "time": "1:52:52 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BURLINGAME AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2315258",
+        "date": "2023-12-03",
+        "time": "1:52:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL PARQUE CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "BF2304220",
+        "date": "2023-12-03",
+        "time": "1:47:09 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROLLINGWOOD DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "NF2313305",
         "date": "2023-12-03",
         "time": "1:41:25 PM",
@@ -8,7 +96,7 @@
         "location": "MARVILLA CIR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": ">E72"
     },
     {
         "id": "RF2313335",
@@ -19,50 +107,6 @@
         "location": "ATHERWOOD PL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 ?E3 E10"
-    },
-    {
-        "id": "WF2301995",
-        "date": "2023-12-03",
-        "time": "1:28:04 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Vehicle fire",
-        "location": "SB 280 / NO FARM HILL BLVD",
-        "latitude": 37.4502169682406,
-        "longitude": -122.278716264987,
-        "units": ">E18"
-    },
-    {
-        "id": "BF2304219",
-        "date": "2023-12-03",
-        "time": "1:27:05 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BENNINGTON DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "WF2301994",
-        "date": "2023-12-03",
-        "time": "1:25:06 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FARM HILL BLVD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E19"
-    },
-    {
-        "id": "LF2301200",
-        "date": "2023-12-03",
-        "time": "1:22:09 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "700 BLOCK SERRAMONTE BLVD ,CLM",
-        "latitude": 37.6734621522746,
-        "longitude": -122.46311326942,
-        "units": ">E86"
+        "units": "CM11X1 >E3 >E10"
     }
 ]
