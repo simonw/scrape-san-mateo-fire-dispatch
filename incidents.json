@@ -1,35 +1,68 @@
 [
     {
-        "id": "HF2303168",
+        "id": "RF2313324",
         "date": "2023-12-02",
-        "time": "8:56:45 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GROVE ST / FIRST AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2313323",
-        "date": "2023-12-02",
-        "time": "8:42:30 PM",
+        "time": "9:18:02 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
+        "category": "Traffic accident pd request c3",
+        "location": "2485 EL CAMINO REAL ,RCY",
+        "latitude": 37.4752826080338,
+        "longitude": -122.217667335411,
+        "units": "CM11X4 >T9 ?TAC15 >BC3 >E9"
     },
     {
-        "id": "MF2310466",
+        "id": "FF2306858",
         "date": "2023-12-02",
-        "time": "8:37:51 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:16:10 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "AVALON DR / JUNIPERO SERRA BLVD",
+        "latitude": 37.6401657517239,
+        "longitude": -122.441428759871,
+        "units": "TAC35 CM31X2 >BC17 >E64 >T51"
+    },
+    {
+        "id": "FF2306857",
+        "date": "2023-12-02",
+        "time": "9:14:13 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "COLEMAN PL ,MNP",
+        "location": "ALTA MESA DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 >SQ401 >E2 >E1"
+        "units": ">E63"
+    },
+    {
+        "id": "SF2315230",
+        "date": "2023-12-02",
+        "time": "9:11:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1710 S AMPHLETT BLVD ,SMO",
+        "latitude": 37.5582646131716,
+        "longitude": -122.302537552928,
+        "units": ">E26"
+    },
+    {
+        "id": "SF2315229",
+        "date": "2023-12-02",
+        "time": "9:08:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HACIENDA ST #133 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "SF2315228",
+        "date": "2023-12-02",
+        "time": "9:05:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1041 HILL ST ,BLM",
+        "latitude": 37.5196353649148,
+        "longitude": -122.278503727554,
+        "units": ">E14"
     }
 ]
