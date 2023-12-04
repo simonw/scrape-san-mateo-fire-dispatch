@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2310503",
+        "date": "2023-12-04",
+        "time": "9:41:10 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E12"
+    },
+    {
+        "id": "NF2313335",
+        "date": "2023-12-04",
+        "time": "9:38:00 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO SIERRA POINT PKWY",
+        "latitude": 37.6989155941404,
+        "longitude": -122.392986466886,
+        "units": "?TAC35 CM31X2 BC17 Q62 T51>E81"
+    },
+    {
+        "id": "CF2308456",
+        "date": "2023-12-04",
+        "time": "9:32:10 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "1704 ROLLINS RD ,BRM",
+        "latitude": 37.5965351613837,
+        "longitude": -122.376277085083,
+        "units": ">E32"
+    },
+    {
         "id": "SF2315284",
         "date": "2023-12-04",
         "time": "9:23:41 AM",
@@ -8,29 +41,7 @@
         "location": "LAURIE MEADOWS DR #150 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
-    },
-    {
-        "id": "NF2313334",
-        "date": "2023-12-04",
-        "time": "9:19:03 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KING DR #131 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "MF2310502",
-        "date": "2023-12-04",
-        "time": "9:18:18 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "1269 HOOVER ST #2 ,MNP",
-        "latitude": 37.4536247075213,
-        "longitude": -122.187071192335,
-        "units": ">E6"
+        "units": ">E14"
     },
     {
         "id": "CF2308455",
@@ -41,7 +52,7 @@
         "location": "1249 VANCOUVER AVE ,BRM",
         "latitude": 37.5806005647573,
         "longitude": -122.371243546905,
-        "units": ">E35 BC8 T34 E21 >CM21X5E32 ?TAC25"
+        "units": ">CM21X5 >T34 >BC8 ?TAC25 >E35"
     },
     {
         "id": "RF2313355",
@@ -52,28 +63,6 @@
         "location": "515 SHOAL CIR ,RWS",
         "latitude": 37.5408020614869,
         "longitude": -122.236519176741,
-        "units": "E13"
-    },
-    {
-        "id": "CF2308454",
-        "date": "2023-12-04",
-        "time": "9:07:22 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "427 GREEN HILLS DR ,MLB",
-        "latitude": 37.6031552097447,
-        "longitude": -122.403975518465,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2315282",
-        "date": "2023-12-04",
-        "time": "8:56:46 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "WB 92 / EO MARINERS ISLAND BLVD",
-        "latitude": 37.5599628722163,
-        "longitude": -122.279418245863,
-        "units": ">E28"
+        "units": ">E13"
     }
 ]
