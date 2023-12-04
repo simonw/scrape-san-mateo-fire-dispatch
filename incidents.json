@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2313359",
+        "id": "SF2315292",
         "date": "2023-12-04",
-        "time": "11:37:51 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:56:38 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
+        "location": "YORK AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">T9"
+        "units": "E24"
+    },
+    {
+        "id": "SF2315291",
+        "date": "2023-12-04",
+        "time": "11:49:28 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "3155 CLEARVIEW WAY ,SMO",
+        "latitude": 37.5324485548115,
+        "longitude": -122.332394914166,
+        "units": ">E27"
+    },
+    {
+        "id": "MF2310508",
+        "date": "2023-12-04",
+        "time": "11:46:13 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAMILTON AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
     },
     {
         "id": "RF2313358",
@@ -22,17 +44,6 @@
         "units": ">E9"
     },
     {
-        "id": "SF2315290",
-        "date": "2023-12-04",
-        "time": "11:35:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E BELLEVUE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
         "id": "MF2310507",
         "date": "2023-12-04",
         "time": "11:28:25 AM",
@@ -41,7 +52,7 @@
         "location": "1355 ADAMS CT ,MNP",
         "latitude": 37.4793536976003,
         "longitude": -122.144361677682,
-        "units": ">PR1A >E2"
+        "units": ">E2 >PR1A"
     },
     {
         "id": "CF2308460",
@@ -52,28 +63,6 @@
         "location": "PALM AVE ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "BF2304235",
-        "date": "2023-12-04",
-        "time": "11:18:47 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMBRIDGE LN ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "CF2308455",
-        "date": "2023-12-04",
-        "time": "9:18:16 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Gas main break",
-        "location": "1249 VANCOUVER AVE ,BRM",
-        "latitude": 37.5806005647573,
-        "longitude": -122.371243546905,
-        "units": ">E35"
+        "units": "E37"
     }
 ]
