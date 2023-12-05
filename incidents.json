@@ -1,14 +1,80 @@
 [
     {
+        "id": "MF2310525",
+        "date": "2023-12-04",
+        "time": "6:27:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2 NEWELL CT ,EPA",
+        "latitude": 37.4573109602062,
+        "longitude": -122.138796747127,
+        "units": "E2"
+    },
+    {
+        "id": "MF2310524",
+        "date": "2023-12-04",
+        "time": "6:27:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "WILLOW RD / NEWBRIDGE ST",
+        "latitude": 37.4728488971723,
+        "longitude": -122.154543883849,
+        "units": ">SQ401 >BC101 >E77 T2 CM11X1?TAC15"
+    },
+    {
+        "id": "NF2313360",
+        "date": "2023-12-04",
+        "time": "6:24:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2313359",
+        "date": "2023-12-04",
+        "time": "6:17:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BELHAVEN AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "MF2310523",
+        "date": "2023-12-04",
+        "time": "6:16:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "BF2304241",
+        "date": "2023-12-04",
+        "time": "6:16:35 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Lock out - residential",
+        "location": "526 CHESTNUT AVE ,SNB",
+        "latitude": 37.6209146808019,
+        "longitude": -122.41984629473,
+        "units": ">T51"
+    },
+    {
         "id": "RF2313378",
         "date": "2023-12-04",
         "time": "6:15:58 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c2",
+        "category": "Traffic accident pd request c3",
         "location": "ALAMEDA DE LAS PULGAS / BREWSTER AVE",
         "latitude": 37.4756974035206,
         "longitude": -122.250585582252,
-        "units": "E10"
+        "units": ""
     },
     {
         "id": "BF2304240",
@@ -19,7 +85,7 @@
         "location": "E HUNTINGTON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "RF2313377",
@@ -30,7 +96,7 @@
         "location": "56 ALAMEDA DE LAS PULGAS ,RCY",
         "latitude": 37.4849230614079,
         "longitude": -122.258575376353,
-        "units": "CM11X2 E16 BC2 T9 ?TAC16"
+        "units": ">E16"
     },
     {
         "id": "NF2313357",
@@ -42,60 +108,5 @@
         "latitude": 37.7050898067456,
         "longitude": -122.468609089192,
         "units": ">E92"
-    },
-    {
-        "id": "NF2313356",
-        "date": "2023-12-04",
-        "time": "6:02:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #217 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "NF2313355",
-        "date": "2023-12-04",
-        "time": "6:01:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ARDENDALE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "RF2313376",
-        "date": "2023-12-04",
-        "time": "6:00:55 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2310522",
-        "date": "2023-12-04",
-        "time": "6:00:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #3308 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "RF2313375",
-        "date": "2023-12-04",
-        "time": "5:47:04 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "WOODSIDE RD / GORDON ST",
-        "latitude": 37.4666807311107,
-        "longitude": -122.224127361386,
-        "units": ">BC3"
     }
 ]
