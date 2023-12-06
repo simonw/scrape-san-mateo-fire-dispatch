@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2310567",
+        "id": "MF2310568",
         "date": "2023-12-06",
-        "time": "2:22:02 AM",
+        "time": "2:42:34 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "HACKER WAY #17 ,MNP",
+        "location": "BAY RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": "?T2"
+    },
+    {
+        "id": "RF2313426",
+        "date": "2023-12-06",
+        "time": "2:30:46 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
     },
     {
         "id": "SF2315380",
@@ -19,18 +30,7 @@
         "location": "500 LINCOLN CENTRE DR ,FCY",
         "latitude": 37.5694767604056,
         "longitude": -122.268409000916,
-        "units": ">E28 CM21X1 T21 BC5 ?TAC25"
-    },
-    {
-        "id": "RF2313425",
-        "date": "2023-12-06",
-        "time": "2:16:35 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ORCHARD AVE #2 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": "CM21X1 >BC5 >E28 >T21 ?TAC25"
     },
     {
         "id": "DF2302423",
@@ -52,29 +52,7 @@
         "location": "TUNITAS CREEK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "SF2315379",
-        "date": "2023-12-06",
-        "time": "1:58:17 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MERIDIAN BAY LN #135 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "MF2310566",
-        "date": "2023-12-06",
-        "time": "1:57:05 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Lock out - residential",
-        "location": "1735 WOODLAND AVE #10 ,EPA",
-        "latitude": 37.4554771537517,
-        "longitude": -122.13753669767,
-        "units": ""
+        "units": ">E40"
     },
     {
         "id": "MF2310564",
@@ -85,6 +63,6 @@
         "location": "560 BERESFORD AVE ,WSB",
         "latitude": 37.4508661872525,
         "longitude": -122.220795292866,
-        "units": ">PR1D >PR1 >PR1B >PR1C >E6>BC101 >BC2 >SQ401 >E5 >TAC15"
+        "units": ">PR1C >SQ401 >BC1 >TAC15 >BC2>PR1D >CM11X5 >E3 >T4 >E6"
     }
 ]
