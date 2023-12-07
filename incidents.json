@@ -8,7 +8,7 @@
         "location": "BROADWAY #3 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "T51"
+        "units": ">T51"
     },
     {
         "id": "NF2313472",
@@ -19,7 +19,7 @@
         "location": "ALTA VISTA WAY ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
+        "units": ">E93"
     },
     {
         "id": "NF2313471",
@@ -30,7 +30,7 @@
         "location": "MODOC PL ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": ""
     },
     {
         "id": "WF2302008",
@@ -55,39 +55,6 @@
         "units": ">E77"
     },
     {
-        "id": "SF2315433",
-        "date": "2023-12-07",
-        "time": "9:51:34 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "425 BARNESON AVE ,SMO",
-        "latitude": 37.5496567011289,
-        "longitude": -122.321360225435,
-        "units": ">E25"
-    },
-    {
-        "id": "NF2313470",
-        "date": "2023-12-07",
-        "time": "9:40:43 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "153 SERRAMONTE CTR #A ,DCY",
-        "latitude": 37.67063825811,
-        "longitude": -122.467883850811,
-        "units": ">E94"
-    },
-    {
-        "id": "SF2315432",
-        "date": "2023-12-07",
-        "time": "9:37:51 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GREBE ST ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "SF2315430",
         "date": "2023-12-07",
         "time": "9:25:37 AM",
@@ -96,6 +63,6 @@
         "location": "SARATOGA DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "CM21X1 >BC5 >MED5 ?TAC25 >T23>E26"
+        "units": ">BC5 >MED5 >T23 >E26"
     }
 ]
