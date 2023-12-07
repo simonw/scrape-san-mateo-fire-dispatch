@@ -1,14 +1,69 @@
 [
     {
-        "id": "RF2313497",
+        "id": "CF2308531",
         "date": "2023-12-07",
-        "time": "9:43:31 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:03:56 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "LEAHY ST ,RCY",
+        "location": "BROADWAY #3 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "?E3"
+        "units": "T51"
+    },
+    {
+        "id": "NF2313472",
+        "date": "2023-12-07",
+        "time": "10:02:23 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA VISTA WAY ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E93"
+    },
+    {
+        "id": "NF2313471",
+        "date": "2023-12-07",
+        "time": "10:00:53 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MODOC PL ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "WF2302008",
+        "date": "2023-12-07",
+        "time": "9:53:09 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MARIANI CT ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "MF2310604",
+        "date": "2023-12-07",
+        "time": "9:52:22 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #5 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "SF2315433",
+        "date": "2023-12-07",
+        "time": "9:51:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "425 BARNESON AVE ,SMO",
+        "latitude": 37.5496567011289,
+        "longitude": -122.321360225435,
+        "units": ">E25"
     },
     {
         "id": "NF2313470",
@@ -19,7 +74,7 @@
         "location": "153 SERRAMONTE CTR #A ,DCY",
         "latitude": 37.67063825811,
         "longitude": -122.467883850811,
-        "units": "?E94"
+        "units": ">E94"
     },
     {
         "id": "SF2315432",
@@ -30,29 +85,7 @@
         "location": "GREBE ST ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "MF2310603",
-        "date": "2023-12-07",
-        "time": "9:29:29 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "SF2315431",
-        "date": "2023-12-07",
-        "time": "9:27:08 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #309 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": ""
     },
     {
         "id": "SF2315430",
@@ -63,17 +96,6 @@
         "location": "SARATOGA DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">MED5 >E26 >BC5 CM21X1 ?TAC25>T23"
-    },
-    {
-        "id": "BF2304271",
-        "date": "2023-12-07",
-        "time": "9:19:31 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #2105 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM21X1 >BC5 >MED5 ?TAC25 >T23>E26"
     }
 ]
