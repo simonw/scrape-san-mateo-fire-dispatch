@@ -1,25 +1,69 @@
 [
     {
-        "id": "MF2310608",
+        "id": "HF2303198",
         "date": "2023-12-07",
-        "time": "12:37:50 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "1:03:40 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL #4 ,NFO",
+        "location": "WAVECREST RD #3 ,HMB",
         "latitude": null,
         "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "NF2313485",
+        "date": "2023-12-07",
+        "time": "1:02:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BUEL AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "RF2313501",
+        "date": "2023-12-07",
+        "time": "1:00:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WARRINGTON AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "MF2310611",
+        "date": "2023-12-07",
+        "time": "12:58:36 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "440 9TH AVE ,NFO",
+        "latitude": 37.4712669924639,
+        "longitude": -122.199901527266,
         "units": ">E3"
     },
     {
-        "id": "NF2313483",
+        "id": "SF2315438",
         "date": "2023-12-07",
-        "time": "12:35:44 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SOUTHGATE AVE / EL DORADO DR",
-        "latitude": 37.6756221237161,
-        "longitude": -122.478487695818,
-        "units": ">E95 >CH20B"
+        "time": "12:56:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "129 S B ST ,SMO",
+        "latitude": 37.5668754649165,
+        "longitude": -122.323427373006,
+        "units": ">E21"
+    },
+    {
+        "id": "MF2310610",
+        "date": "2023-12-07",
+        "time": "12:44:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "EB 84 / UNIVERSITY AVE",
+        "latitude": 37.48645840738,
+        "longitude": -122.142501801018,
+        "units": "?TAC15 CM11X2 >E77 >BC101 >T2"
     },
     {
         "id": "FF2306946",
@@ -31,71 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E61"
-    },
-    {
-        "id": "NF2313482",
-        "date": "2023-12-07",
-        "time": "12:31:13 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GOLDEN ASTER CT ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "MF2310607",
-        "date": "2023-12-07",
-        "time": "12:28:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RALMAR AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2313481",
-        "date": "2023-12-07",
-        "time": "12:25:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ST FRANCIS BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "RF2313500",
-        "date": "2023-12-07",
-        "time": "12:22:51 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GREENWOOD AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "RF2313499",
-        "date": "2023-12-07",
-        "time": "12:18:43 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JACKSON AVE #A ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "CF2308535",
-        "date": "2023-12-07",
-        "time": "12:15:16 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LANSDALE AVE #A ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
