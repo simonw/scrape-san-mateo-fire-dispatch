@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2313454",
+        "id": "RF2313466",
         "date": "2023-12-06",
-        "time": "6:29:18 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "6:39:17 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "PARNELL AVE ,DCY",
+        "location": "BRITTAN AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E18"
+    },
+    {
+        "id": "MF2310587",
+        "date": "2023-12-06",
+        "time": "6:32:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / SO UNIVERSITY AVE",
+        "latitude": 37.4562476390862,
+        "longitude": -122.13389083789,
+        "units": ">T2"
     },
     {
         "id": "FF2306933",
@@ -19,7 +30,18 @@
         "location": "WESTBOROUGH BLVD #128 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E63"
+    },
+    {
+        "id": "NF2313454",
+        "date": "2023-12-06",
+        "time": "6:29:18 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARNELL AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
     },
     {
         "id": "MF2310585",
@@ -30,7 +52,7 @@
         "location": "ADDISON AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "BF2304265",
@@ -52,28 +74,6 @@
         "location": "CRESPI DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2315404",
-        "date": "2023-12-06",
-        "time": "6:02:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NIANTIC DR ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "NF2313451",
-        "date": "2023-12-06",
-        "time": "6:00:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": "*>E72"
     }
 ]
