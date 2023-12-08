@@ -1,24 +1,35 @@
 [
     {
-        "id": "SF2315480",
+        "id": "RF2313547",
         "date": "2023-12-08",
-        "time": "11:38:42 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:58:07 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "NEWBRIDGE AVE ,SMO",
+        "location": "TRAIN TRACK ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E9"
     },
     {
-        "id": "FF2306965",
+        "id": "FF2306966",
         "date": "2023-12-08",
-        "time": "11:31:51 AM",
+        "time": "11:53:07 AM",
         "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BADEN AVE #3 ,SSF",
-        "latitude": null,
-        "longitude": null,
+        "category": "Wires down (not sparking)",
+        "location": "123 DUNDEE DR ,SSF",
+        "latitude": 37.6631379275145,
+        "longitude": -122.460373569199,
         "units": ">E63"
+    },
+    {
+        "id": "MF2310639",
+        "date": "2023-12-08",
+        "time": "11:50:05 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "2250 PULGAS AVE ,EPA",
+        "latitude": 37.4673748412551,
+        "longitude": -122.129964681607,
+        "units": ">E2"
     }
 ]
