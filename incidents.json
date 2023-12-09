@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2313569",
+        "date": "2023-12-09",
+        "time": "11:21:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E93"
+    },
+    {
+        "id": "MF2310667",
+        "date": "2023-12-09",
+        "time": "11:08:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PULGAS AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "MF2310666",
         "date": "2023-12-09",
         "time": "11:02:58 AM",
@@ -8,7 +30,7 @@
         "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
+        "units": ">E1"
     },
     {
         "id": "HF2303211",
@@ -22,50 +44,6 @@
         "units": ">E40"
     },
     {
-        "id": "NF2313568",
-        "date": "2023-12-09",
-        "time": "10:54:06 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SCHWERIN ST / VELASCO AVE",
-        "latitude": 37.708035926557,
-        "longitude": -122.412508372883,
-        "units": "CM31X5 ?TAC36"
-    },
-    {
-        "id": "FF2306992",
-        "date": "2023-12-09",
-        "time": "10:52:00 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LITTLEFIELD AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "MF2310665",
-        "date": "2023-12-09",
-        "time": "10:51:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "1805 E BAYSHORE RD ,EPA",
-        "latitude": 37.456882075852,
-        "longitude": -122.133305178237,
-        "units": ">T2"
-    },
-    {
-        "id": "RF2313577",
-        "date": "2023-12-09",
-        "time": "10:39:25 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHESTNUT ST #8 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "FF2306991",
         "date": "2023-12-09",
         "time": "10:22:25 AM",
@@ -74,6 +52,6 @@
         "location": "1340 EL CAMINO REAL ,SNB",
         "latitude": 37.6409794946884,
         "longitude": -122.420633443084,
-        "units": ">PR16B >BC16 >BC17 ?TAC35 >PR20A>E61 >PR20C *>T51 >PR16A >E51"
+        "units": ">PR16B >BC16 ?TAC35 >PR20A >E61>PR20C >PR16A CM31X4"
     }
 ]
