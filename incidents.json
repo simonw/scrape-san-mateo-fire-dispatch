@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2306987",
+        "date": "2023-12-09",
+        "time": "9:03:59 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "OYSTER POINT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E65"
+    },
+    {
+        "id": "MF2310664",
+        "date": "2023-12-09",
+        "time": "9:01:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "134 TUSCALOOSA AVE ,ATN",
+        "latitude": 37.4551680715714,
+        "longitude": -122.209124026818,
+        "units": "E3"
+    },
+    {
+        "id": "RF2313576",
+        "date": "2023-12-09",
+        "time": "8:43:39 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "3065 HOOVER ST ,RCY",
+        "latitude": 37.4857411806781,
+        "longitude": -122.198139105112,
+        "units": ">E11"
+    },
+    {
         "id": "NF2313563",
         "date": "2023-12-09",
         "time": "8:43:17 AM",
@@ -8,7 +41,7 @@
         "location": "THOMAS AVE #6 ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": "?E81"
+        "units": ">E81"
     },
     {
         "id": "SF2315518",
@@ -19,61 +52,6 @@
         "location": "E SANTA INEZ AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "MF2310663",
-        "date": "2023-12-09",
-        "time": "8:41:10 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ANDERSON WAY ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "NF2313562",
-        "date": "2023-12-09",
-        "time": "8:33:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD / PARK PLAZA DR",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "SF2315517",
-        "date": "2023-12-09",
-        "time": "8:31:54 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #203 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "SF2315516",
-        "date": "2023-12-09",
-        "time": "8:31:46 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PROSPECT RW ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "CF2308576",
-        "date": "2023-12-09",
-        "time": "8:24:34 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CONEJO DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
+        "units": ">E24"
     }
 ]
