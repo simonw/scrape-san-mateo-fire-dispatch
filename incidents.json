@@ -1,14 +1,58 @@
 [
     {
-        "id": "FF2307004",
+        "id": "RF2313600",
         "date": "2023-12-09",
-        "time": "10:42:23 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "11:01:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "MAIN ST / CHESTNUT ST",
+        "latitude": 37.4793206783676,
+        "longitude": -122.223657848396,
+        "units": "T9 BC3 E9 ?TAC15 ?CM11X3"
+    },
+    {
+        "id": "SF2315553",
+        "date": "2023-12-09",
+        "time": "11:00:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "177 WARREN RD ,SMO",
+        "latitude": 37.5716771329456,
+        "longitude": -122.344731659345,
+        "units": ">E32"
+    },
+    {
+        "id": "RF2313599",
+        "date": "2023-12-09",
+        "time": "10:46:41 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "GELLERT BLVD ,SSF",
+        "location": "JUNIPERO AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E64"
+        "units": ">E10"
+    },
+    {
+        "id": "BF2304305",
+        "date": "2023-12-09",
+        "time": "10:43:52 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #321 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "MF2310687",
+        "date": "2023-12-09",
+        "time": "10:41:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1000 EL CAMINO REAL ,ATN",
+        "latitude": 37.4560770363324,
+        "longitude": -122.192078155915,
+        "units": ">E6"
     },
     {
         "id": "MF2310686",
@@ -19,83 +63,6 @@
         "location": "OAKES ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
-    },
-    {
-        "id": "SF2315552",
-        "date": "2023-12-09",
-        "time": "10:38:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "MF2310685",
-        "date": "2023-12-09",
-        "time": "10:35:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W BAYSHORE RD #7 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "RF2313598",
-        "date": "2023-12-09",
-        "time": "10:32:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "2527 SAN CARLOS AVE ,SNC",
-        "latitude": 37.5051978238455,
-        "longitude": -122.281200466086,
-        "units": ">E13"
-    },
-    {
-        "id": "NF2313593",
-        "date": "2023-12-09",
-        "time": "10:30:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CALLAN BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "SF2315551",
-        "date": "2023-12-09",
-        "time": "10:19:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON RANCH RD / CHRISTIAN DR",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2307003",
-        "date": "2023-12-09",
-        "time": "10:16:37 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "1333 MISSION RD ,SSF",
-        "latitude": 37.6644365023715,
-        "longitude": -122.444021523015,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2308592",
-        "date": "2023-12-09",
-        "time": "10:02:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1465 MURCHISON DR ,MLB",
-        "latitude": 37.5839324335634,
-        "longitude": -122.402241379467,
-        "units": ">E38"
+        "units": ">T2"
     }
 ]
