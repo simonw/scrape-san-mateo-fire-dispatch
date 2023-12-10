@@ -1,5 +1,38 @@
 [
     {
+        "id": "DF2302446",
+        "date": "2023-12-10",
+        "time": "3:19:48 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LA STRADA CT ,BRH",
+        "latitude": null,
+        "longitude": null,
+        "units": "E33"
+    },
+    {
+        "id": "RF2313626",
+        "date": "2023-12-10",
+        "time": "3:16:37 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROOSEVELT AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "SF2315573",
+        "date": "2023-12-10",
+        "time": "3:15:34 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "1961 COYOTE POINT DR ,SMO",
+        "latitude": 37.5925277084211,
+        "longitude": -122.324404241278,
+        "units": ">T34 >E24 BC108 CM21X2 ?TAC25"
+    },
+    {
         "id": "RF2313625",
         "date": "2023-12-10",
         "time": "3:02:25 PM",
@@ -8,50 +41,6 @@
         "location": "WESTPOINT HARBOR DR ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
-    },
-    {
-        "id": "MF2310708",
-        "date": "2023-12-10",
-        "time": "2:50:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODLAND AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2315572",
-        "date": "2023-12-10",
-        "time": "2:38:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "1711 ROBIN WHIPPLE WAY ,BLM",
-        "latitude": 37.5156318551177,
-        "longitude": -122.291240216637,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2313613",
-        "date": "2023-12-10",
-        "time": "2:25:51 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2307020",
-        "date": "2023-12-10",
-        "time": "2:17:43 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "2677 STAMFORD CT ,SSF",
-        "latitude": 37.6462600090339,
-        "longitude": -122.46829621235,
-        "units": "?TAC35 CM31X2 >BC17 >E52 >E64>T95"
+        "units": ">E9"
     }
 ]
