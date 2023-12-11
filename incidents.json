@@ -1,14 +1,80 @@
 [
     {
-        "id": "SF2315621",
+        "id": "MF2310734",
         "date": "2023-12-11",
-        "time": "3:05:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:42:35 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "LODGE DR ,BLM",
+        "location": "PULGAS AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "MF2310733",
+        "date": "2023-12-11",
+        "time": "3:33:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 101 / SO UNIVERSITY AVE",
+        "latitude": 37.4564271860104,
+        "longitude": -122.133818965041,
+        "units": ""
+    },
+    {
+        "id": "NF2313649",
+        "date": "2023-12-11",
+        "time": "3:32:44 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "RF2313670",
+        "date": "2023-12-11",
+        "time": "3:29:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WELLINGTON DR ,SNC",
         "latitude": null,
         "longitude": null,
         "units": ">E15"
+    },
+    {
+        "id": "RF2313669",
+        "date": "2023-12-11",
+        "time": "3:28:28 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHERRY ST / LAUREL ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "RF2313668",
+        "date": "2023-12-11",
+        "time": "3:26:54 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "HF2303225",
+        "date": "2023-12-11",
+        "time": "3:25:48 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SUNSHINE VALLEY RD ,MON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
     },
     {
         "id": "FF2307045",
@@ -19,6 +85,6 @@
         "location": "GRAND AVE / MAPLE AVE",
         "latitude": 37.6557069909646,
         "longitude": -122.412476043702,
-        "units": ">U61 ?CM31X1 >E65"
+        "units": ">U61"
     }
 ]
