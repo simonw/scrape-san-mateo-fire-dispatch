@@ -1,14 +1,69 @@
 [
     {
-        "id": "DF2302451",
+        "id": "NF2313640",
         "date": "2023-12-11",
-        "time": "9:32:22 AM",
-        "summary": "County Fire on Control-1",
+        "time": "9:57:35 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "MORELAND DR ,SON",
+        "location": "GENEVA AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
+        "units": ">E93"
+    },
+    {
+        "id": "RF2313650",
+        "date": "2023-12-11",
+        "time": "9:54:47 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "850 JEFFERSON AVE ,RCY",
+        "latitude": 37.4857676985872,
+        "longitude": -122.228701783093,
+        "units": ">E9"
+    },
+    {
+        "id": "CF2308622",
+        "date": "2023-12-11",
+        "time": "9:54:26 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "147 CRESCENT AVE ,BRM",
+        "latitude": 37.5734350079876,
+        "longitude": -122.348764857041,
+        "units": ">E32"
+    },
+    {
+        "id": "RF2313649",
+        "date": "2023-12-11",
+        "time": "9:52:22 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MOLTON AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "NF2313639",
+        "date": "2023-12-11",
+        "time": "9:43:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LAKE MERCED BLVD #21 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "CF2308621",
+        "date": "2023-12-11",
+        "time": "9:43:14 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NEWHALL RD ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
     },
     {
         "id": "CF2308620",
@@ -19,7 +74,7 @@
         "location": "816 VISTA GRANDE ,MLB",
         "latitude": 37.5910294899876,
         "longitude": -122.408753878056,
-        "units": ">BC108 >E38 CM21X3 ?TAC25"
+        "units": ">BC108 CM21X3 ?TAC25 >E38"
     },
     {
         "id": "NF2313638",
@@ -31,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E72"
-    },
-    {
-        "id": "HF2303222",
-        "date": "2023-12-11",
-        "time": "9:17:31 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "1011 ETHELDORE ST ,MBH",
-        "latitude": 37.5258600072752,
-        "longitude": -122.509075821459,
-        "units": ">E40"
     }
 ]
