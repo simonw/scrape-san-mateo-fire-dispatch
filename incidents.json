@@ -1,14 +1,58 @@
 [
     {
-        "id": "WF2302026",
+        "id": "NF2313637",
         "date": "2023-12-11",
-        "time": "9:03:40 AM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "9:17:53 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "PORTOLA RD ,PVY",
+        "location": "ESCUELA DR #144A ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E7"
+        "units": ">T95"
+    },
+    {
+        "id": "HF2303222",
+        "date": "2023-12-11",
+        "time": "9:17:31 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1011 ETHELDORE ST ,MBH",
+        "latitude": 37.5258600072752,
+        "longitude": -122.509075821459,
+        "units": ">E40"
+    },
+    {
+        "id": "MF2310721",
+        "date": "2023-12-11",
+        "time": "9:13:19 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SANTA CLARA AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "SF2315604",
+        "date": "2023-12-11",
+        "time": "9:11:28 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #116 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "LF2301229",
+        "date": "2023-12-11",
+        "time": "9:10:34 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "D ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
     },
     {
         "id": "WF2302025",
@@ -19,40 +63,7 @@
         "location": "BUCKEYE CT ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "FF2307030",
-        "date": "2023-12-11",
-        "time": "8:58:40 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD #315 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "NF2313635",
-        "date": "2023-12-11",
-        "time": "8:43:48 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST / SAN JOSE AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "RF2313647",
-        "date": "2023-12-11",
-        "time": "8:43:44 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROOSEVELT AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": "*>E8"
     },
     {
         "id": "CF2308618",
@@ -63,6 +74,6 @@
         "location": "VALLEJO DR #40 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E33 >E38 CM21X2"
+        "units": "*>E33 CM21X2"
     }
 ]
