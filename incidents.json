@@ -1,35 +1,57 @@
 [
     {
-        "id": "SF2315653",
+        "id": "RF2313710",
         "date": "2023-12-12",
-        "time": "1:03:26 PM",
+        "time": "1:42:37 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "3348 LA MESA DR ,SNC",
+        "latitude": 37.4794896563299,
+        "longitude": -122.284246986957,
+        "units": "E18"
+    },
+    {
+        "id": "SF2315654",
+        "date": "2023-12-12",
+        "time": "1:37:05 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "METRO CENTER BLVD ,FCY",
+        "location": "N EL CAMINO REAL #250 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E21"
     },
     {
-        "id": "MF2310772",
+        "id": "WF2302038",
         "date": "2023-12-12",
-        "time": "12:59:37 PM",
+        "time": "1:31:28 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "RUNNYMEDE RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">R7"
+    },
+    {
+        "id": "HF2303234",
+        "date": "2023-12-12",
+        "time": "1:28:58 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVENUE ALHAMBRA ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "MF2310774",
+        "date": "2023-12-12",
+        "time": "1:26:49 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1895 OAK KNOLL LN ,MNP",
-        "latitude": 37.4301840435615,
-        "longitude": -122.191935375989,
+        "category": "Medical aid",
+        "location": "CRANE ST #418 ,MNP",
+        "latitude": null,
+        "longitude": null,
         "units": ">E6"
-    },
-    {
-        "id": "SF2315652",
-        "date": "2023-12-12",
-        "time": "12:57:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "920 S DELAWARE ST ,SMO",
-        "latitude": 37.5625009529868,
-        "longitude": -122.315352543514,
-        "units": ">E24"
     }
 ]
