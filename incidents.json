@@ -1,14 +1,58 @@
 [
     {
+        "id": "NF2313689",
+        "date": "2023-12-12",
+        "time": "3:38:08 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "80 PARK ST ,DCY",
+        "latitude": 37.7024626153978,
+        "longitude": -122.413001145939,
+        "units": ">E93"
+    },
+    {
+        "id": "SF2315657",
+        "date": "2023-12-12",
+        "time": "3:35:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Smoke investigation",
+        "location": "28TH AVE / PARKVIEW WAY",
+        "latitude": 37.5363869365218,
+        "longitude": -122.315809844801,
+        "units": "E23"
+    },
+    {
+        "id": "MF2310779",
+        "date": "2023-12-12",
+        "time": "3:33:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E O'KEEFE ST #210 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2313716",
+        "date": "2023-12-12",
+        "time": "3:32:44 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ARROYO AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
         "id": "CF2308660",
         "date": "2023-12-12",
         "time": "3:19:38 PM",
         "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
+        "category": "Structure fire",
         "location": "50 CALIFORNIA DR ,BRM",
         "latitude": 37.577856697298,
         "longitude": -122.340418538353,
-        "units": "T34 CM21X5 E35 BC8 E34E21 ?TAC25"
+        "units": "CM21X5 >BC108 >E25 >T34 >E32>E34 >T21 >BC8 >E21 ?TAC25"
     },
     {
         "id": "BF2304337",
@@ -22,17 +66,6 @@
         "units": ">T51"
     },
     {
-        "id": "NF2313688",
-        "date": "2023-12-12",
-        "time": "3:13:14 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "HANOVER ST / CROCKER AVE",
-        "latitude": 37.7041434706952,
-        "longitude": -122.457319773962,
-        "units": ">E92"
-    },
-    {
         "id": "BF2304335",
         "date": "2023-12-12",
         "time": "3:12:40 PM",
@@ -42,49 +75,5 @@
         "latitude": 37.635194552319,
         "longitude": -122.419275170931,
         "units": ">E51"
-    },
-    {
-        "id": "DF2302458",
-        "date": "2023-12-12",
-        "time": "3:03:15 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "LA HONDA RD / CABRILLO HWY S",
-        "latitude": 37.3245009945071,
-        "longitude": -122.399899192199,
-        "units": ">E59"
-    },
-    {
-        "id": "MF2310777",
-        "date": "2023-12-12",
-        "time": "2:57:05 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DE BELL DR ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2308659",
-        "date": "2023-12-12",
-        "time": "2:56:10 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "45 CRYSTAL SPRINGS TE ,HIL",
-        "latitude": 37.5487974121809,
-        "longitude": -122.34981988429,
-        "units": ">E32"
-    },
-    {
-        "id": "SF2315656",
-        "date": "2023-12-12",
-        "time": "2:50:18 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BRIDGEPOINTE PKWY #306 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
     }
 ]
