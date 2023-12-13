@@ -1,25 +1,47 @@
 [
     {
-        "id": "RF2313723",
+        "id": "SF2315663",
         "date": "2023-12-12",
-        "time": "6:12:35 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1165 VALOTA RD ,RCY",
-        "latitude": 37.468296993591,
-        "longitude": -122.236912638622,
-        "units": "E10"
+        "time": "6:30:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "HALSEY BLVD / BEACH PARK BLVD",
+        "latitude": 37.5486543605867,
+        "longitude": -122.264074847676,
+        "units": "E29 T21 BC5 ?TAC26 ?CM21X2"
     },
     {
-        "id": "RF2313722",
+        "id": "NF2313699",
         "date": "2023-12-12",
-        "time": "6:11:32 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "6:30:22 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BEECH ST ,RCY",
+        "location": "CALLAN BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T9"
+        "units": "E94"
+    },
+    {
+        "id": "SF2315662",
+        "date": "2023-12-12",
+        "time": "6:26:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DALE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2313724",
+        "date": "2023-12-12",
+        "time": "6:21:00 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LOCUST ST #7 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
     },
     {
         "id": "SF2315661",
@@ -30,7 +52,7 @@
         "location": "SB 101 / NO 92",
         "latitude": 37.5627460005368,
         "longitude": -122.305327217889,
-        "units": "CM21X3 BC5 T21 ?TAC25 >E26>E24"
+        "units": ">E24"
     },
     {
         "id": "RF2313721",
@@ -41,7 +63,7 @@
         "location": "1819 EATON AVE ,SNC",
         "latitude": 37.4891454315952,
         "longitude": -122.248988066873,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "FF2307068",
@@ -53,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">T51"
-    },
-    {
-        "id": "NF2313697",
-        "date": "2023-12-12",
-        "time": "5:53:14 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SEASIDE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "NF2313695",
-        "date": "2023-12-12",
-        "time": "5:48:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 101 / NO BAYSHORE BLVD",
-        "latitude": 37.6717118007612,
-        "longitude": -122.391329917864,
-        "units": ">BC17 ?TAC35 CM31X2 >Q62 >E81"
     }
 ]
