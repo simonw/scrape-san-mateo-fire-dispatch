@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2315707",
+        "date": "2023-12-13",
+        "time": "2:40:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL / W 39TH AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "MF2310803",
+        "date": "2023-12-13",
+        "time": "2:36:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2315706",
+        "date": "2023-12-13",
+        "time": "2:32:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CONTINENTALS WAY #107 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
         "id": "CF2308685",
         "date": "2023-12-13",
         "time": "2:25:25 PM",
@@ -8,7 +41,18 @@
         "location": "BROADWAY ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "?E37"
+        "units": ">E37"
+    },
+    {
+        "id": "RF2313766",
+        "date": "2023-12-13",
+        "time": "2:25:16 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "SPRUCE ST / CHEW ST",
+        "latitude": 37.4794762019072,
+        "longitude": -122.220545513574,
+        "units": ">E9"
     },
     {
         "id": "RF2313765",
@@ -19,50 +63,6 @@
         "location": "557 PROSPECT ST ,SNC",
         "latitude": 37.5038271855412,
         "longitude": -122.266096570494,
-        "units": "?E16"
-    },
-    {
-        "id": "WF2302044",
-        "date": "2023-12-13",
-        "time": "2:16:28 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "WOODSIDE RD / MOORE RD",
-        "latitude": 37.4371976013089,
-        "longitude": -122.240718722879,
-        "units": ">BC2 >BC3 >R7 CM11X5 ?TAC15"
-    },
-    {
-        "id": "SF2315705",
-        "date": "2023-12-13",
-        "time": "2:11:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE #2011 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "DF2302461",
-        "date": "2023-12-13",
-        "time": "2:06:15 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "SB 1 / SO TUNNEL",
-        "latitude": 37.5629500165583,
-        "longitude": -122.513137177766,
-        "units": ">E44"
-    },
-    {
-        "id": "DF2302460",
-        "date": "2023-12-13",
-        "time": "2:04:48 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "EDGEWOOD RD / UNDER 280",
-        "latitude": 37.468591473289,
-        "longitude": -122.292250660729,
-        "units": ">E18"
+        "units": ">E16"
     }
 ]
