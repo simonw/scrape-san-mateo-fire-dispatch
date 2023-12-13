@@ -1,14 +1,69 @@
 [
     {
-        "id": "NF2313705",
+        "id": "MF2310786",
         "date": "2023-12-12",
-        "time": "8:02:34 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:19:34 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2315669",
+        "date": "2023-12-12",
+        "time": "8:17:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "COLEGROVE ST / 36TH AVE",
+        "latitude": 37.5344725473272,
+        "longitude": -122.296853437742,
+        "units": ">T23"
+    },
+    {
+        "id": "WF2302040",
+        "date": "2023-12-12",
+        "time": "8:16:34 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "19501 SKYLINE BLVD ,PVY",
+        "latitude": 37.3420681167364,
+        "longitude": -122.221206914621,
+        "units": ">E58 >BC15 R7 R56 TAC15?CM11X4"
+    },
+    {
+        "id": "RF2313733",
+        "date": "2023-12-12",
+        "time": "8:13:08 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T9"
+    },
+    {
+        "id": "RF2313732",
+        "date": "2023-12-12",
+        "time": "8:09:14 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Odor investigation",
-        "location": "152 SERRAMONTE CTR ,DCY",
-        "latitude": 37.6702363351835,
-        "longitude": -122.467935421985,
-        "units": "?E94"
+        "location": "140 SUNNYDALE AVE ,SNC",
+        "latitude": 37.4916261398822,
+        "longitude": -122.249156574365,
+        "units": ">E13"
+    },
+    {
+        "id": "SF2315668",
+        "date": "2023-12-12",
+        "time": "8:07:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OFARRELL ST #416 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "FF2307071",
@@ -19,18 +74,18 @@
         "location": "WEXFORD AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ""
     },
     {
-        "id": "RF2313731",
+        "id": "NF2313705",
         "date": "2023-12-12",
-        "time": "8:01:35 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "STAMBAUGH ST #G ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
+        "time": "8:02:34 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "152 SERRAMONTE CTR ,DCY",
+        "latitude": 37.6702363351835,
+        "longitude": -122.467935421985,
+        "units": ">E94"
     },
     {
         "id": "NF2313704",
@@ -41,6 +96,6 @@
         "location": "PALMETTO AVE #36 ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
+        "units": ""
     }
 ]
