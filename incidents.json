@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2315803",
+        "id": "MF2310863",
         "date": "2023-12-15",
-        "time": "1:03:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "100 S SAN MATEO DR ,SMO",
-        "latitude": 37.5649003297418,
-        "longitude": -122.326263931242,
-        "units": "CM21X5 T21 ?TAC25 ?BC8 ?E24"
+        "time": "1:16:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "999 E BAYSHORE RD ,EPA",
+        "latitude": 37.4674460970421,
+        "longitude": -122.151791118899,
+        "units": ">T2"
+    },
+    {
+        "id": "MF2310862",
+        "date": "2023-12-15",
+        "time": "1:12:16 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
     },
     {
         "id": "SF2315802",
@@ -19,18 +30,7 @@
         "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "CF2308734",
-        "date": "2023-12-15",
-        "time": "1:02:41 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "405 EL CENTRO RD ,HIL",
-        "latitude": 37.5594527590805,
-        "longitude": -122.354708311162,
-        "units": "E32"
+        "units": ">E21"
     },
     {
         "id": "NF2313804",
@@ -41,7 +41,7 @@
         "location": "HERMOSA AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": ""
     },
     {
         "id": "CF2308733",
@@ -53,49 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E38"
-    },
-    {
-        "id": "NF2313803",
-        "date": "2023-12-15",
-        "time": "12:50:14 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c2",
-        "location": "679 HICKEY BLVD ,PCF",
-        "latitude": 37.659609994628,
-        "longitude": -122.478479926101,
-        "units": ""
-    },
-    {
-        "id": "RF2313836",
-        "date": "2023-12-15",
-        "time": "12:41:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST #212 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "FF2307123",
-        "date": "2023-12-15",
-        "time": "12:37:35 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "A ST ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2315801",
-        "date": "2023-12-15",
-        "time": "12:36:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "1015 CONTINENTALS WAY ,BLM",
-        "latitude": 37.5106253134804,
-        "longitude": -122.304447654835,
-        "units": ">TAC15 >E15"
     }
 ]
