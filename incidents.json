@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2313833",
+        "id": "RF2313834",
         "date": "2023-12-15",
-        "time": "11:41:13 AM",
+        "time": "12:02:43 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Hazardous material - investiga",
-        "location": "501 ELM ST ,SNC",
-        "latitude": 37.5065931347877,
-        "longitude": -122.26501388001,
-        "units": "E16"
+        "category": "Elevator rescue",
+        "location": "450 BROADWAY ,RCY",
+        "latitude": 37.485506485559,
+        "longitude": -122.2041006719,
+        "units": "E11"
+    },
+    {
+        "id": "MF2310858",
+        "date": "2023-12-15",
+        "time": "11:48:13 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SANTA CLARA AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
     },
     {
         "id": "CF2308732",
@@ -22,17 +33,6 @@
         "units": ">E35"
     },
     {
-        "id": "HF2303257",
-        "date": "2023-12-15",
-        "time": "11:28:44 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "1 MIRAMONTES POINT RD ,HMB",
-        "latitude": 37.4340329616423,
-        "longitude": -122.441212055202,
-        "units": ">E40"
-    },
-    {
         "id": "BF2304368",
         "date": "2023-12-15",
         "time": "11:27:34 AM",
@@ -41,39 +41,6 @@
         "location": "ACACIA AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2313832",
-        "date": "2023-12-15",
-        "time": "11:23:38 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GORDON ST #123 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "FF2307122",
-        "date": "2023-12-15",
-        "time": "11:20:07 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GARDENSIDE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "MF2310856",
-        "date": "2023-12-15",
-        "time": "11:15:18 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": "E51"
     }
 ]
