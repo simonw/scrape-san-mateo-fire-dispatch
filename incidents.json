@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2313820",
+        "date": "2023-12-14",
+        "time": "10:55:41 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "FF2307115",
+        "date": "2023-12-14",
+        "time": "10:44:44 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALIDA WAY #122 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "BF2304361",
         "date": "2023-12-14",
         "time": "10:40:42 PM",
@@ -8,18 +30,7 @@
         "location": "PACIFIC AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "MF2310844",
-        "date": "2023-12-14",
-        "time": "10:40:08 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "15 STOCKBRIDGE AVE ,ATN",
-        "latitude": 37.4650139891547,
-        "longitude": -122.207922933314,
-        "units": "E3"
+        "units": ">E61"
     },
     {
         "id": "MF2310843",
@@ -30,18 +41,7 @@
         "location": "WOODLAND AVE #27 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2315776",
-        "date": "2023-12-14",
-        "time": "10:36:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HOLLAND ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E29"
+        "units": ""
     },
     {
         "id": "NF2313786",
@@ -63,6 +63,6 @@
         "location": "HOLLAND ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": "E26"
     }
 ]
