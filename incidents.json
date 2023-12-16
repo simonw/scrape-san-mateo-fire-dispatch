@@ -1,57 +1,90 @@
 [
     {
-        "id": "MF2310893",
+        "id": "DF2302476",
         "date": "2023-12-16",
-        "time": "12:58:56 PM",
+        "time": "1:20:37 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "COUNTY RD / RIDGE RD",
+        "latitude": 37.4343118573165,
+        "longitude": -122.319405933799,
+        "units": "E7 ?TAC45 ?CO56"
+    },
+    {
+        "id": "FF2307138",
+        "date": "2023-12-16",
+        "time": "1:19:34 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "AMBERWOOD CIR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2313847",
+        "date": "2023-12-16",
+        "time": "1:17:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #305C ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "WF2302059",
+        "date": "2023-12-16",
+        "time": "1:15:50 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KINGS MOUNTAIN RD ,KMT",
+        "latitude": null,
+        "longitude": null,
+        "units": "?TAC15 E58 CM11X3"
+    },
+    {
+        "id": "FF2307137",
+        "date": "2023-12-16",
+        "time": "1:15:36 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "COMMERCIAL AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "MF2310894",
+        "date": "2023-12-16",
+        "time": "1:10:19 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "BAY RD ,EPA",
+        "location": "SEVIER AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ">T2"
     },
     {
-        "id": "RF2313878",
+        "id": "NF2313846",
         "date": "2023-12-16",
-        "time": "12:57:01 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "1:09:57 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Traffic accident pd request c3",
-        "location": "2575 E BAYSHORE RD ,RCY",
-        "latitude": 37.4875544046439,
-        "longitude": -122.19906977222,
-        "units": ">E77"
-    },
-    {
-        "id": "CF2308763",
-        "date": "2023-12-16",
-        "time": "12:55:27 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #1104 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "FF2307135",
-        "date": "2023-12-16",
-        "time": "12:53:06 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "RANDOLPH AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "FF2307136",
-        "date": "2023-12-16",
-        "time": "12:52:20 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "389 DNA WAY #BLDG 20 ,SSF",
-        "latitude": 37.6547558042217,
-        "longitude": -122.384251306861,
+        "location": "NB 101 / SO SIERRA POINT PKWY",
+        "latitude": 37.6688911071274,
+        "longitude": -122.39352514778,
         "units": ">Q62"
+    },
+    {
+        "id": "BF2304380",
+        "date": "2023-12-16",
+        "time": "1:09:28 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
     }
 ]
