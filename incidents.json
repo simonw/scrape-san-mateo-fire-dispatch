@@ -1,36 +1,58 @@
 [
     {
-        "id": "WF2302061",
+        "id": "RF2313883",
         "date": "2023-12-16",
-        "time": "4:22:16 PM",
+        "time": "5:01:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN CARLOS AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E13"
+    },
+    {
+        "id": "BF2304384",
+        "date": "2023-12-16",
+        "time": "4:56:07 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "497 SAN MATEO AVE ,SNB",
+        "latitude": 37.6243222930805,
+        "longitude": -122.411496878556,
+        "units": ">E51"
+    },
+    {
+        "id": "WF2302062",
+        "date": "2023-12-16",
+        "time": "4:54:29 PM",
         "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "237 CANYON DR ,PVY",
-        "latitude": 37.3708368654705,
-        "longitude": -122.211441271066,
-        "units": ">E8"
+        "category": "Traffic accident",
+        "location": "LA HONDA RD / EO SKYLINE BLVD",
+        "latitude": 37.3859156165163,
+        "longitude": -122.261286827248,
+        "units": ">E58 R56 BC2 R7 CM11X4?TAC15"
     },
     {
-        "id": "SF2315857",
+        "id": "CF2308768",
         "date": "2023-12-16",
-        "time": "4:21:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "4:43:19 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "ECHO AVE / S NORFOLK ST",
+        "location": "TROUSDALE DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E34"
     },
     {
-        "id": "NF2313853",
+        "id": "CF2308767",
         "date": "2023-12-16",
-        "time": "4:20:56 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "4:43:07 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
+        "location": "MARCO POLO WAY #35 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E37"
     },
     {
         "id": "RF2313882",
@@ -41,17 +63,6 @@
         "location": "SB 101 / NO WOODSIDE RD",
         "latitude": 37.4924375527393,
         "longitude": -122.221572014907,
-        "units": "CM11X1 ?TAC15 >T9 >BC3 >E9"
-    },
-    {
-        "id": "MF2310899",
-        "date": "2023-12-16",
-        "time": "3:37:46 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Vehicle fire",
-        "location": "EB 84 / EO TOLL",
-        "latitude": 37.5373855601925,
-        "longitude": -122.071162220133,
-        "units": ""
+        "units": ">T9"
     }
 ]
