@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2313894",
+        "date": "2023-12-16",
+        "time": "10:59:13 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2721 DEBBIE CT ,SNC",
+        "latitude": 37.4835944848034,
+        "longitude": -122.265469152349,
+        "units": "E10"
+    },
+    {
+        "id": "CF2308786",
+        "date": "2023-12-16",
+        "time": "10:57:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAMBRIDGE RD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
         "id": "SF2315875",
         "date": "2023-12-16",
         "time": "10:41:39 PM",
@@ -8,40 +30,7 @@
         "location": "S DELAWARE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "MF2310913",
-        "date": "2023-12-16",
-        "time": "10:40:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DUMBARTON AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "RF2313893",
-        "date": "2023-12-16",
-        "time": "10:34:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "NF2313868",
-        "date": "2023-12-16",
-        "time": "10:32:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c2",
-        "location": "CRESPI DR / SEVILLE DR",
-        "latitude": 37.5934928543442,
-        "longitude": -122.491778467181,
-        "units": ">E72"
+        "units": ">E24"
     },
     {
         "id": "HF2303272",
@@ -52,6 +41,6 @@
         "location": "ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
+        "units": "E44"
     }
 ]
