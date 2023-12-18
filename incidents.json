@@ -1,5 +1,60 @@
 [
     {
+        "id": "FF2307192",
+        "date": "2023-12-18",
+        "time": "2:24:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CEDAR PL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E65"
+    },
+    {
+        "id": "CF2308823",
+        "date": "2023-12-18",
+        "time": "2:16:56 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "850 TAYLOR BLVD ,MLB",
+        "latitude": 37.5980060017428,
+        "longitude": -122.401513439284,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2313942",
+        "date": "2023-12-18",
+        "time": "2:14:50 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PIERCE ST #332 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "NF2313941",
+        "date": "2023-12-18",
+        "time": "2:11:46 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CAMPUS DR #111 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "NF2313940",
+        "date": "2023-12-18",
+        "time": "2:11:07 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "109 FAIRWAY DR ,DCY",
+        "latitude": 37.697799257521,
+        "longitude": -122.479755434366,
+        "units": ">E91"
+    },
+    {
         "id": "WF2302070",
         "date": "2023-12-18",
         "time": "1:55:14 PM",
@@ -8,18 +63,7 @@
         "location": "198 DEGAS RD ,PVY",
         "latitude": 37.3913770500683,
         "longitude": -122.210590088008,
-        "units": "E8"
-    },
-    {
-        "id": "HF2303284",
-        "date": "2023-12-18",
-        "time": "1:53:03 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CULEBRA LN ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
+        "units": "R7 CM11X1 >E8"
     },
     {
         "id": "NF2313939",
@@ -30,7 +74,7 @@
         "location": "NB 280 / NO HICKEY BLVD",
         "latitude": 37.6682462185452,
         "longitude": -122.465546681579,
-        "units": ">E94 CM31X4 ?TAC35"
+        "units": ">E94"
     },
     {
         "id": "NF2313937",
@@ -41,7 +85,7 @@
         "location": "50 W MANOR DR ,PCF",
         "latitude": 37.6490892544908,
         "longitude": -122.492627705229,
-        "units": ">E71"
+        "units": ""
     },
     {
         "id": "NF2313938",
@@ -52,62 +96,7 @@
         "location": "420 88TH ST ,DCY",
         "latitude": 37.6927375197874,
         "longitude": -122.477245774845,
-        "units": ">E95"
-    },
-    {
-        "id": "LF2301258",
-        "date": "2023-12-18",
-        "time": "1:42:21 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "PARK PLAZA DR / 87TH ST",
-        "latitude": 37.6932139571297,
-        "longitude": -122.480279791196,
-        "units": ">E86"
-    },
-    {
-        "id": "NF2313936",
-        "date": "2023-12-18",
-        "time": "1:41:42 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "159 CLARENDON RD ,PCF",
-        "latitude": 37.6300765869556,
-        "longitude": -122.490712845857,
-        "units": ">E52"
-    },
-    {
-        "id": "CF2308821",
-        "date": "2023-12-18",
-        "time": "1:36:27 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TAYLOR BLVD ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2313935",
-        "date": "2023-12-18",
-        "time": "1:33:27 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BARTON PL ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "DF2302485",
-        "date": "2023-12-18",
-        "time": "1:27:53 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "EDGEWOOD RD / PALOMAR OAKS LN",
-        "latitude": 37.4755986985748,
-        "longitude": -122.263056761443,
-        "units": ""
+        "units": ">T95 >E95"
     },
     {
         "id": "RF2313951",
@@ -118,6 +107,6 @@
         "location": "201 INDUSTRIAL RD ,SNC",
         "latitude": 37.5192151138775,
         "longitude": -122.264291968738,
-        "units": "CM11X4 ?TAC15 >E14 >E13 >BC3>HM14 >E16 >T23"
+        "units": "CM11X4 ?TAC15 >E14 >E13 >BC3>HM14 >T23"
     }
 ]
