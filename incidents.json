@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2308809",
+        "id": "SF2315930",
         "date": "2023-12-18",
-        "time": "9:24:48 AM",
-        "summary": "Central County Fire on Control-2",
+        "time": "9:42:32 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MAGNOLIA AVE ,MLB",
+        "location": "FOSTER CITY BLVD ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": "E29"
+    },
+    {
+        "id": "HF2303281",
+        "date": "2023-12-18",
+        "time": "9:35:45 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN MATEO RD #C ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "CF2308810",
+        "date": "2023-12-18",
+        "time": "9:26:22 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "RAY DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
     },
     {
         "id": "NF2313923",
@@ -19,51 +41,7 @@
         "location": "359 MONTEREY RD ,PCF",
         "latitude": 37.651505344307,
         "longitude": -122.48506380175,
-        "units": "?E71"
-    },
-    {
-        "id": "FF2307180",
-        "date": "2023-12-18",
-        "time": "9:19:39 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "660 FORBES BLVD ,SSF",
-        "latitude": 37.6583485570788,
-        "longitude": -122.382206977886,
-        "units": "Q62"
-    },
-    {
-        "id": "CF2308808",
-        "date": "2023-12-18",
-        "time": "9:13:15 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "815 ACACIA DR ,BRM",
-        "latitude": 37.5818119484024,
-        "longitude": -122.357211918818,
-        "units": ">E34"
-    },
-    {
-        "id": "LF2301256",
-        "date": "2023-12-18",
-        "time": "9:08:46 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "1200 EL CAMINO REAL ,CLM",
-        "latitude": 37.6751412249203,
-        "longitude": -122.458785667034,
-        "units": "TAC35 >E86 CM31X1 >E85"
-    },
-    {
-        "id": "NF2313921",
-        "date": "2023-12-18",
-        "time": "8:58:54 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "333 GELLERT BLVD #211 ,DCY",
-        "latitude": 37.6666490822642,
-        "longitude": -122.46676579831,
-        "units": ">T95"
+        "units": ">E71"
     },
     {
         "id": "DF2302483",
@@ -74,6 +52,6 @@
         "location": "BACK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "VFIR23 >E1762 >E58 >U58 >R57"
+        "units": "VFIR23 >E1762 >E58 >U58"
     }
 ]
