@@ -1,5 +1,71 @@
 [
     {
+        "id": "CF2308818",
+        "date": "2023-12-18",
+        "time": "11:40:59 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ANITA LN ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E38"
+    },
+    {
+        "id": "NF2313929",
+        "date": "2023-12-18",
+        "time": "11:39:06 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LYNBROOK DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "CF2308817",
+        "date": "2023-12-18",
+        "time": "11:36:11 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MACADAMIA DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "FF2307185",
+        "date": "2023-12-18",
+        "time": "11:30:56 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "7 BAYCREST WAY ,SSF",
+        "latitude": 37.6706309747431,
+        "longitude": -122.423282541036,
+        "units": "?TAC35 >E63 CM31X3"
+    },
+    {
+        "id": "SF2315935",
+        "date": "2023-12-18",
+        "time": "11:30:40 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "FF2307184",
+        "date": "2023-12-18",
+        "time": "11:30:14 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EVERGREEN DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "HF2303282",
         "date": "2023-12-18",
         "time": "11:18:46 AM",
@@ -8,62 +74,7 @@
         "location": "N CABRILLO HWY ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40 >BC15 CM41X3 ?TAC45"
-    },
-    {
-        "id": "SF2315934",
-        "date": "2023-12-18",
-        "time": "11:18:24 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PORT ROYAL AVE ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "RF2313945",
-        "date": "2023-12-18",
-        "time": "11:18:09 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #206 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E77"
-    },
-    {
-        "id": "CF2308815",
-        "date": "2023-12-18",
-        "time": "11:15:58 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #249 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "WF2302069",
-        "date": "2023-12-18",
-        "time": "11:12:01 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "4200 FARM HILL BLVD ,WDS",
-        "latitude": 37.4478922871236,
-        "longitude": -122.266398660236,
-        "units": ">E10 >E12 >BC2 >R7 >E19CM11X2 ?TAC15"
-    },
-    {
-        "id": "MF2310949",
-        "date": "2023-12-18",
-        "time": "11:04:10 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COOLEY AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E40"
     },
     {
         "id": "FF2307183",
@@ -74,6 +85,6 @@
         "location": "160 SYLVESTER RD ,SSF",
         "latitude": 37.6529273873324,
         "longitude": -122.405173288586,
-        "units": ">BC17 CM31X1 >E61"
+        "units": ">BC17 CM31X1 >Q62 >E61"
     }
 ]
