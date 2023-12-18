@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2310968",
+        "date": "2023-12-18",
+        "time": "2:41:39 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MENALTO AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "SF2315943",
+        "date": "2023-12-18",
+        "time": "2:41:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD COUNTY RD #19 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "T23"
+    },
+    {
+        "id": "CF2308824",
+        "date": "2023-12-18",
+        "time": "2:38:18 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "T34"
+    },
+    {
+        "id": "NF2313944",
+        "date": "2023-12-18",
+        "time": "2:34:17 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "395 HICKEY BLVD ,DCY",
+        "latitude": 37.6627258404951,
+        "longitude": -122.463013068887,
+        "units": ">E52"
+    },
+    {
+        "id": "RF2313953",
+        "date": "2023-12-18",
+        "time": "2:34:02 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "400 DUANE ST ,RCY",
+        "latitude": 37.4808815498637,
+        "longitude": -122.234806714408,
+        "units": ">E10"
+    },
+    {
+        "id": "BF2304405",
+        "date": "2023-12-18",
+        "time": "2:33:42 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "2081 WHITMAN WAY ,SNB",
+        "latitude": 37.6178294999366,
+        "longitude": -122.426922111167,
+        "units": ">E51"
+    },
+    {
         "id": "FF2307192",
         "date": "2023-12-18",
         "time": "2:24:20 PM",
@@ -8,7 +74,7 @@
         "location": "CEDAR PL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E65"
+        "units": ""
     },
     {
         "id": "CF2308823",
@@ -22,39 +88,6 @@
         "units": ">E37"
     },
     {
-        "id": "NF2313942",
-        "date": "2023-12-18",
-        "time": "2:14:50 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #332 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "NF2313941",
-        "date": "2023-12-18",
-        "time": "2:11:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMPUS DR #111 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "NF2313940",
-        "date": "2023-12-18",
-        "time": "2:11:07 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "109 FAIRWAY DR ,DCY",
-        "latitude": 37.697799257521,
-        "longitude": -122.479755434366,
-        "units": ">E91"
-    },
-    {
         "id": "WF2302070",
         "date": "2023-12-18",
         "time": "1:55:14 PM",
@@ -63,7 +96,7 @@
         "location": "198 DEGAS RD ,PVY",
         "latitude": 37.3913770500683,
         "longitude": -122.210590088008,
-        "units": "R7 CM11X1 >E8"
+        "units": "CM11X1 >R7 >E8"
     },
     {
         "id": "NF2313939",
@@ -77,28 +110,6 @@
         "units": ">E94"
     },
     {
-        "id": "NF2313937",
-        "date": "2023-12-18",
-        "time": "1:44:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "50 W MANOR DR ,PCF",
-        "latitude": 37.6490892544908,
-        "longitude": -122.492627705229,
-        "units": ""
-    },
-    {
-        "id": "NF2313938",
-        "date": "2023-12-18",
-        "time": "1:44:05 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "420 88TH ST ,DCY",
-        "latitude": 37.6927375197874,
-        "longitude": -122.477245774845,
-        "units": ">T95 >E95"
-    },
-    {
         "id": "RF2313951",
         "date": "2023-12-18",
         "time": "12:59:42 PM",
@@ -107,6 +118,6 @@
         "location": "201 INDUSTRIAL RD ,SNC",
         "latitude": 37.5192151138775,
         "longitude": -122.264291968738,
-        "units": "CM11X4 ?TAC15 >E14 >E13 >BC3>HM14 >T23"
+        "units": ">E14 >HM14"
     }
 ]
