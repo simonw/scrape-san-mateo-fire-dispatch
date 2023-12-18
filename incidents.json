@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2310968",
+        "id": "MF2310973",
         "date": "2023-12-18",
-        "time": "2:41:39 PM",
+        "time": "3:01:22 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MENALTO AVE ,MNP",
+        "location": "ROBLE AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
+        "units": ">E6"
+    },
+    {
+        "id": "WF2302071",
+        "date": "2023-12-18",
+        "time": "2:58:46 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 280 / SO EDGEWOOD RD",
+        "latitude": 37.4502169682406,
+        "longitude": -122.278716264987,
+        "units": ">E18 T17 BC11 CM11X3 ?TAC15"
+    },
+    {
+        "id": "SF2315944",
+        "date": "2023-12-18",
+        "time": "2:57:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ST VINCENT LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
     },
     {
         "id": "SF2315943",
@@ -19,105 +41,6 @@
         "location": "OLD COUNTY RD #19 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "T23"
-    },
-    {
-        "id": "CF2308824",
-        "date": "2023-12-18",
-        "time": "2:38:18 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "T34"
-    },
-    {
-        "id": "NF2313944",
-        "date": "2023-12-18",
-        "time": "2:34:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "395 HICKEY BLVD ,DCY",
-        "latitude": 37.6627258404951,
-        "longitude": -122.463013068887,
-        "units": ">E52"
-    },
-    {
-        "id": "RF2313953",
-        "date": "2023-12-18",
-        "time": "2:34:02 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "400 DUANE ST ,RCY",
-        "latitude": 37.4808815498637,
-        "longitude": -122.234806714408,
-        "units": ">E10"
-    },
-    {
-        "id": "BF2304405",
-        "date": "2023-12-18",
-        "time": "2:33:42 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "2081 WHITMAN WAY ,SNB",
-        "latitude": 37.6178294999366,
-        "longitude": -122.426922111167,
-        "units": ">E51"
-    },
-    {
-        "id": "FF2307192",
-        "date": "2023-12-18",
-        "time": "2:24:20 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CEDAR PL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2308823",
-        "date": "2023-12-18",
-        "time": "2:16:56 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "850 TAYLOR BLVD ,MLB",
-        "latitude": 37.5980060017428,
-        "longitude": -122.401513439284,
-        "units": ">E37"
-    },
-    {
-        "id": "WF2302070",
-        "date": "2023-12-18",
-        "time": "1:55:14 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "198 DEGAS RD ,PVY",
-        "latitude": 37.3913770500683,
-        "longitude": -122.210590088008,
-        "units": "CM11X1 >R7 >E8"
-    },
-    {
-        "id": "NF2313939",
-        "date": "2023-12-18",
-        "time": "1:47:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / NO HICKEY BLVD",
-        "latitude": 37.6682462185452,
-        "longitude": -122.465546681579,
-        "units": ">E94"
-    },
-    {
-        "id": "RF2313951",
-        "date": "2023-12-18",
-        "time": "12:59:42 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Structure fire",
-        "location": "201 INDUSTRIAL RD ,SNC",
-        "latitude": 37.5192151138775,
-        "longitude": -122.264291968738,
-        "units": ">E14 >HM14"
+        "units": ">T23"
     }
 ]
