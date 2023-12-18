@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2315912",
+        "date": "2023-12-17",
+        "time": "9:20:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "WB 92 / EO HIGH RI",
+        "latitude": 37.5970069460201,
+        "longitude": -122.222650415637,
+        "units": "HABC2 HAT7 HAE2 T23 E28BC5 CM21X3 ?TAC25"
+    },
+    {
+        "id": "LF2301254",
+        "date": "2023-12-17",
+        "time": "9:14:49 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MACARTHUR DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "CF2308803",
+        "date": "2023-12-17",
+        "time": "9:05:52 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD BAYSHORE HWY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "WF2302066",
         "date": "2023-12-17",
         "time": "9:04:26 PM",
@@ -8,40 +41,7 @@
         "location": "CERVANTES RD ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "?E8"
-    },
-    {
-        "id": "RF2313921",
-        "date": "2023-12-17",
-        "time": "9:03:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Lock out - commercial",
-        "location": "2426 EL CAMINO REAL ,RCY",
-        "latitude": 37.4738894238959,
-        "longitude": -122.218827759332,
-        "units": "?E3"
-    },
-    {
-        "id": "CF2308802",
-        "date": "2023-12-17",
-        "time": "8:57:32 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S ASHTON AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "CF2308801",
-        "date": "2023-12-17",
-        "time": "8:51:10 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MYRTLE RD #211 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "*>E8"
     },
     {
         "id": "DF2302480",
@@ -52,17 +52,6 @@
         "location": "LA HONDA RD ,SNG",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 >E59 >R57"
-    },
-    {
-        "id": "NF2313905",
-        "date": "2023-12-17",
-        "time": "8:44:56 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #134C ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">R57"
     }
 ]
