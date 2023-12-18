@@ -1,14 +1,80 @@
 [
     {
-        "id": "RF2313939",
+        "id": "FF2307179",
         "date": "2023-12-18",
-        "time": "8:35:18 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "9:04:53 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "HOPKINS AVE #35 ,RCY",
+        "location": "W ORANGE AVE / EL CAMINO REAL",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "?E61"
+    },
+    {
+        "id": "NF2313921",
+        "date": "2023-12-18",
+        "time": "8:58:54 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "333 GELLERT BLVD #211 ,DCY",
+        "latitude": 37.6666490822642,
+        "longitude": -122.46676579831,
+        "units": ">T95"
+    },
+    {
+        "id": "NF2313922",
+        "date": "2023-12-18",
+        "time": "8:58:37 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "75 SERRAMONTE CTR ,DCY",
+        "latitude": 37.6739789013118,
+        "longitude": -122.469672601677,
+        "units": ">E95"
+    },
+    {
+        "id": "RF2313940",
+        "date": "2023-12-18",
+        "time": "8:51:07 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "785 HILLCREST DR ,EML",
+        "latitude": 37.4729077067748,
+        "longitude": -122.254738667905,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2307177",
+        "date": "2023-12-18",
+        "time": "8:50:27 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Elevator rescue",
+        "location": "1333 MISSION RD ,SSF",
+        "latitude": 37.6644365023715,
+        "longitude": -122.444021523015,
+        "units": ">E63"
+    },
+    {
+        "id": "MF2310946",
+        "date": "2023-12-18",
+        "time": "8:49:10 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHARON PARK DR #207B ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "SF2315927",
+        "date": "2023-12-18",
+        "time": "8:45:16 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SUZIE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
     },
     {
         "id": "LF2301255",
@@ -19,40 +85,7 @@
         "location": "4927 JUNIPERO SERRA BLVD ,CLM",
         "latitude": 37.6737766757913,
         "longitude": -122.466487719629,
-        "units": ">BC121 E85 >E86 T85 CM31X5E285 ?TAC36"
-    },
-    {
-        "id": "FF2307176",
-        "date": "2023-12-18",
-        "time": "8:26:21 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "1695 EL CAMINO REAL ,SSF",
-        "latitude": 37.6659267148178,
-        "longitude": -122.451410588118,
-        "units": ">E94 >BC17 >E63 CM31X2 ?TAC35"
-    },
-    {
-        "id": "NF2313919",
-        "date": "2023-12-18",
-        "time": "8:21:39 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BARTON PL ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2315926",
-        "date": "2023-12-18",
-        "time": "8:20:19 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SOMERSET DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": "CM31X5 >E86 ?TAC36 >T85"
     },
     {
         "id": "DF2302483",
@@ -63,6 +96,6 @@
         "location": "BACK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "VFIR23 E1762 E58 U58 R57"
+        "units": "VFIR23 >E1762 >E58 >U58 >R57"
     }
 ]
