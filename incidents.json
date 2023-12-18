@@ -1,5 +1,82 @@
 [
     {
+        "id": "WF2302070",
+        "date": "2023-12-18",
+        "time": "1:55:14 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "198 DEGAS RD ,PVY",
+        "latitude": 37.3913770500683,
+        "longitude": -122.210590088008,
+        "units": "E8"
+    },
+    {
+        "id": "HF2303284",
+        "date": "2023-12-18",
+        "time": "1:53:03 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CULEBRA LN ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44"
+    },
+    {
+        "id": "NF2313939",
+        "date": "2023-12-18",
+        "time": "1:47:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 280 / NO HICKEY BLVD",
+        "latitude": 37.6682462185452,
+        "longitude": -122.465546681579,
+        "units": ">E94 CM31X4 ?TAC35"
+    },
+    {
+        "id": "NF2313937",
+        "date": "2023-12-18",
+        "time": "1:44:35 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "50 W MANOR DR ,PCF",
+        "latitude": 37.6490892544908,
+        "longitude": -122.492627705229,
+        "units": ">E71"
+    },
+    {
+        "id": "NF2313938",
+        "date": "2023-12-18",
+        "time": "1:44:05 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "420 88TH ST ,DCY",
+        "latitude": 37.6927375197874,
+        "longitude": -122.477245774845,
+        "units": ">E95"
+    },
+    {
+        "id": "LF2301258",
+        "date": "2023-12-18",
+        "time": "1:42:21 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "PARK PLAZA DR / 87TH ST",
+        "latitude": 37.6932139571297,
+        "longitude": -122.480279791196,
+        "units": ">E86"
+    },
+    {
+        "id": "NF2313936",
+        "date": "2023-12-18",
+        "time": "1:41:42 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "159 CLARENDON RD ,PCF",
+        "latitude": 37.6300765869556,
+        "longitude": -122.490712845857,
+        "units": ">E52"
+    },
+    {
         "id": "CF2308821",
         "date": "2023-12-18",
         "time": "1:36:27 PM",
@@ -22,17 +99,6 @@
         "units": ">E72"
     },
     {
-        "id": "FF2307191",
-        "date": "2023-12-18",
-        "time": "1:31:12 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "KENWOOD WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
         "id": "DF2302485",
         "date": "2023-12-18",
         "time": "1:27:53 PM",
@@ -41,18 +107,7 @@
         "location": "EDGEWOOD RD / PALOMAR OAKS LN",
         "latitude": 37.4755986985748,
         "longitude": -122.263056761443,
-        "units": ">E18"
-    },
-    {
-        "id": "BF2304404",
-        "date": "2023-12-18",
-        "time": "1:25:09 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SANTA LUCIA AVE #3 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ""
     },
     {
         "id": "RF2313951",
@@ -63,6 +118,6 @@
         "location": "201 INDUSTRIAL RD ,SNC",
         "latitude": 37.5192151138775,
         "longitude": -122.264291968738,
-        "units": "CM11X4 ?TAC15 >BC5 >E14 >E23>E13 >BC3 HM14 >E16 >T23"
+        "units": "CM11X4 ?TAC15 >E14 >E13 >BC3>HM14 >E16 >T23"
     }
 ]
