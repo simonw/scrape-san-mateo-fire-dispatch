@@ -1,25 +1,47 @@
 [
     {
-        "id": "MF2310994",
+        "id": "WF2302076",
         "date": "2023-12-19",
-        "time": "7:03:52 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "7:22:28 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "CEDAR AVE ,WMP",
+        "location": "GLENWOOD AVE ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": "E7"
     },
     {
-        "id": "FF2307210",
+        "id": "RF2313977",
         "date": "2023-12-19",
-        "time": "7:01:33 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:22:10 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1206 JOHNSON ST ,RCY",
+        "latitude": 37.4707882186501,
+        "longitude": -122.231721740709,
+        "units": "E10"
+    },
+    {
+        "id": "CF2308852",
+        "date": "2023-12-19",
+        "time": "7:13:26 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "MISSION RD #2 ,SSF",
+        "location": "CHADBOURNE AVE #107 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E37"
+    },
+    {
+        "id": "NF2313968",
+        "date": "2023-12-19",
+        "time": "7:12:32 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "GENEVA AVE / ACCACIA ST",
+        "latitude": 37.7068813188471,
+        "longitude": -122.414930040017,
+        "units": ">E93"
     },
     {
         "id": "BF2304415",
@@ -30,17 +52,6 @@
         "location": "NATIONAL AVE #1320 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "SF2315978",
-        "date": "2023-12-19",
-        "time": "6:46:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #114 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E51"
     }
 ]
