@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2314027",
+        "date": "2023-12-20",
+        "time": "11:36:57 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "CALLAN BLVD / KING DR",
+        "latitude": 37.6504062675384,
+        "longitude": -122.469055431927,
+        "units": ">E94"
+    },
+    {
+        "id": "MF2311030",
+        "date": "2023-12-20",
+        "time": "11:36:24 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #3 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "FF2307236",
+        "date": "2023-12-20",
+        "time": "11:32:40 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MORNINGSIDE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "SF2316049",
+        "date": "2023-12-20",
+        "time": "11:28:48 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #A ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "DF2302513",
+        "date": "2023-12-20",
+        "time": "11:28:23 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PESCADERO CREEK RD ,LAH",
+        "latitude": null,
+        "longitude": null,
+        "units": "?VFIR23 E17 >R57"
+    },
+    {
         "id": "SF2316047",
         "date": "2023-12-20",
         "time": "11:20:59 AM",
@@ -8,7 +63,7 @@
         "location": "DE ANZA BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E15 >T17 E18 BC15 ?USR102?TAC25 ?CM21X5 ?E25"
+        "units": ">E18 >CM21X5 >T17 ?TAC25"
     },
     {
         "id": "BF2304431",
@@ -19,29 +74,7 @@
         "location": "LAKE DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "RF2314035",
-        "date": "2023-12-20",
-        "time": "11:19:06 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FULTON ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "NF2314026",
-        "date": "2023-12-20",
-        "time": "11:13:51 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "1030 FASSLER AVE ,PCF",
-        "latitude": 37.5989540613044,
-        "longitude": -122.483483088473,
-        "units": ">E71"
+        "units": ">E51"
     },
     {
         "id": "RF2314034",
@@ -52,7 +85,7 @@
         "location": "BRADFORD ST #515 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T9 >CM11X1 >E9"
+        "units": ">CM11X1 >T9 >E9"
     },
     {
         "id": "MF2311029",
@@ -63,39 +96,6 @@
         "location": "UNIVERSITY AVE / KAVANAUGH DR",
         "latitude": 37.4755368810507,
         "longitude": -122.13955224673,
-        "units": ">E2 >T2 >BC101 CM11X2 ?TAC15"
-    },
-    {
-        "id": "FF2307235",
-        "date": "2023-12-20",
-        "time": "11:07:00 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE #3 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2314025",
-        "date": "2023-12-20",
-        "time": "11:05:20 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "POINTE PACIFIC DR #4 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "BF2304430",
-        "date": "2023-12-20",
-        "time": "10:31:08 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO TROUSDALE DR",
-        "latitude": 37.5923308646115,
-        "longitude": -122.41572267802,
-        "units": ">E52"
+        "units": "?TAC15 CM11X2 >E2 >BC101 >T2"
     }
 ]
