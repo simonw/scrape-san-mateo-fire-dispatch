@@ -1,47 +1,36 @@
 [
     {
-        "id": "NF2314027",
+        "id": "NF2314028",
         "date": "2023-12-20",
-        "time": "11:36:57 AM",
+        "time": "12:03:49 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "CALLAN BLVD / KING DR",
-        "latitude": 37.6504062675384,
-        "longitude": -122.469055431927,
-        "units": ">E94"
-    },
-    {
-        "id": "MF2311030",
-        "date": "2023-12-20",
-        "time": "11:36:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WILLOW RD #3 ,MNP",
+        "location": "ALEXANDER AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": "?E92"
     },
     {
-        "id": "FF2307236",
+        "id": "BF2304432",
         "date": "2023-12-20",
-        "time": "11:32:40 AM",
+        "time": "11:51:00 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "449 TAYLOR AVE ,SNB",
+        "latitude": 37.621409709208,
+        "longitude": -122.410023395896,
+        "units": ">T51"
+    },
+    {
+        "id": "FF2307237",
+        "date": "2023-12-20",
+        "time": "11:47:43 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "MORNINGSIDE AVE ,SSF",
+        "location": "HEMLOCK AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "SF2316049",
-        "date": "2023-12-20",
-        "time": "11:28:48 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #A ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": "E65"
     },
     {
         "id": "DF2302513",
@@ -52,7 +41,7 @@
         "location": "PESCADERO CREEK RD ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 E17 >R57"
+        "units": "?VFIR23 >E17 >R57"
     },
     {
         "id": "SF2316047",
@@ -63,29 +52,7 @@
         "location": "DE ANZA BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E18 >CM21X5 >T17 ?TAC25"
-    },
-    {
-        "id": "BF2304431",
-        "date": "2023-12-20",
-        "time": "11:19:38 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAKE DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2314034",
-        "date": "2023-12-20",
-        "time": "11:09:37 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST #515 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">CM11X1 >T9 >E9"
+        "units": ">T17"
     },
     {
         "id": "MF2311029",
@@ -96,6 +63,6 @@
         "location": "UNIVERSITY AVE / KAVANAUGH DR",
         "latitude": 37.4755368810507,
         "longitude": -122.13955224673,
-        "units": "?TAC15 CM11X2 >E2 >BC101 >T2"
+        "units": ">E2"
     }
 ]
