@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2311039",
+        "date": "2023-12-20",
+        "time": "3:01:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "267 WISTERIA DR ,EPA",
+        "latitude": 37.4589173929574,
+        "longitude": -122.126785467019,
+        "units": "E2"
+    },
+    {
+        "id": "MF2311038",
+        "date": "2023-12-20",
+        "time": "2:56:26 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "RF2314042",
+        "date": "2023-12-20",
+        "time": "2:52:43 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "152 SUNNYDALE AVE ,SNC",
+        "latitude": 37.4914690806699,
+        "longitude": -122.249373523291,
+        "units": ">E16"
+    },
+    {
+        "id": "CF2308888",
+        "date": "2023-12-20",
+        "time": "2:51:58 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MYRTLE RD #201 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
         "id": "MF2311037",
         "date": "2023-12-20",
         "time": "2:42:37 PM",
@@ -8,7 +52,7 @@
         "location": "E SELBY LN #305 ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E5 E77"
+        "units": ">E5"
     },
     {
         "id": "SF2316058",
@@ -19,18 +63,7 @@
         "location": "PALM AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
-    },
-    {
-        "id": "LF2301265",
-        "date": "2023-12-20",
-        "time": "2:40:09 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "340 A ST ,BRD",
-        "latitude": 37.6858481532866,
-        "longitude": -122.465427774948,
-        "units": "E86"
+        "units": ">E25"
     },
     {
         "id": "SF2316057",
@@ -41,72 +74,6 @@
         "location": "OFARRELL ST #416 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "SF2316056",
-        "date": "2023-12-20",
-        "time": "2:36:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "4100 E 3RD AVE ,FCY",
-        "latitude": 37.5718308352563,
-        "longitude": -122.265852390068,
-        "units": "E29 E24 BC5 E26 T23>CM21X3 ?TAC25"
-    },
-    {
-        "id": "RF2314040",
-        "date": "2023-12-20",
-        "time": "2:30:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DARTMOUTH AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "MF2311036",
-        "date": "2023-12-20",
-        "time": "2:27:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ADDISON AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2311035",
-        "date": "2023-12-20",
-        "time": "2:20:44 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2314036",
-        "date": "2023-12-20",
-        "time": "2:11:54 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAKE MERCED BLVD #14 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "BF2304434",
-        "date": "2023-12-20",
-        "time": "1:52:07 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 101 / SO SFO",
-        "latitude": 37.6076284150697,
-        "longitude": -122.388400032852,
-        "units": ">E51"
+        "units": ">E23"
     }
 ]
