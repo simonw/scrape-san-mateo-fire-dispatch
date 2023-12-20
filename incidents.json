@@ -1,5 +1,27 @@
 [
     {
+        "id": "DF2302508",
+        "date": "2023-12-20",
+        "time": "8:04:14 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2804 ADELINE DR ,BRH",
+        "latitude": 37.5805606590672,
+        "longitude": -122.383720125026,
+        "units": "?E35"
+    },
+    {
+        "id": "DF2302507",
+        "date": "2023-12-20",
+        "time": "7:56:07 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAUREL HILL DR ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17"
+    },
+    {
         "id": "MF2311027",
         "date": "2023-12-20",
         "time": "7:42:24 AM",
@@ -8,7 +30,7 @@
         "location": "3 NEWELL CT ,EPA",
         "latitude": 37.4570617285856,
         "longitude": -122.13815381105,
-        "units": "?E2"
+        "units": ">E2"
     },
     {
         "id": "DF2302506",
@@ -19,7 +41,7 @@
         "location": "NB 280 / SO 92",
         "latitude": 37.5010326373211,
         "longitude": -122.325975079224,
-        "units": "E19 E17 T17 BC2 ?TAC15?CM11X4"
+        "units": ">T17"
     },
     {
         "id": "HF2303306",
@@ -30,40 +52,7 @@
         "location": "ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "RF2314032",
-        "date": "2023-12-20",
-        "time": "7:36:09 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #4202 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
-    },
-    {
-        "id": "FF2307233",
-        "date": "2023-12-20",
-        "time": "7:35:48 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / SO S AIRPORT BLVD",
-        "latitude": 37.6426283504007,
-        "longitude": -122.406232661856,
-        "units": "?TAC35 BC17 E65 >Q62 E61CM31X4"
-    },
-    {
-        "id": "MF2311026",
-        "date": "2023-12-20",
-        "time": "7:34:02 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "118 5TH AVE ,NFO",
-        "latitude": 37.4687179392797,
-        "longitude": -122.206901483056,
-        "units": ">E3"
+        "units": ""
     },
     {
         "id": "MF2311025",
@@ -75,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "MF2311024",
-        "date": "2023-12-20",
-        "time": "7:25:51 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BARRON ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">CM11X2"
-    },
-    {
-        "id": "DF2302505",
-        "date": "2023-12-20",
-        "time": "7:18:13 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 280 / CANADA RD ON RAMP",
-        "latitude": 37.4574623565111,
-        "longitude": -122.289088748475,
-        "units": ">E18 ?TAC16 ?CM11X5"
-    },
-    {
-        "id": "RF2314031",
-        "date": "2023-12-20",
-        "time": "6:36:37 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VIRGINIA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">CM11X1 E10"
     }
 ]
