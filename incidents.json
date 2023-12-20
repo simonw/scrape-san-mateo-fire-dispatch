@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2308884",
+        "date": "2023-12-20",
+        "time": "10:40:26 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / SKYLINE BLVD ON RAMP",
+        "latitude": 37.6003525165223,
+        "longitude": -122.424612284618,
+        "units": "CM21X2 Q62 BC8 E38 ?TAC25"
+    },
+    {
+        "id": "BF2304430",
+        "date": "2023-12-20",
+        "time": "10:31:08 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO TROUSDALE DR",
+        "latitude": 37.5923308646115,
+        "longitude": -122.41572267802,
+        "units": "?TAC35 >BC16 >E52 >T51 CM31X3"
+    },
+    {
         "id": "BF2304428",
         "date": "2023-12-20",
         "time": "10:24:47 AM",
@@ -8,7 +30,7 @@
         "location": "AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "CF2308883",
@@ -30,18 +52,7 @@
         "location": "E HILLSDALE BLVD #117 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2316044",
-        "date": "2023-12-20",
-        "time": "10:08:49 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "METRO CENTER BLVD ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ""
     },
     {
         "id": "CF2308882",
@@ -52,7 +63,7 @@
         "location": "EL PORTAL AVE ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "CM21X1 >E32 T21 >E21"
+        "units": "CM21X1 >E32 >T21 >E21"
     },
     {
         "id": "NF2314023",
@@ -63,6 +74,6 @@
         "location": "CRESPI DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
+        "units": "E72"
     }
 ]
