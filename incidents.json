@@ -1,25 +1,58 @@
 [
     {
-        "id": "HF2303311",
+        "id": "SF2316094",
         "date": "2023-12-21",
-        "time": "8:31:00 AM",
+        "time": "9:05:26 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E24"
+    },
+    {
+        "id": "SF2316093",
+        "date": "2023-12-21",
+        "time": "8:58:42 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOBART AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "CF2308901",
+        "date": "2023-12-21",
+        "time": "8:55:18 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PARK RD #206 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "HF2303312",
+        "date": "2023-12-21",
+        "time": "8:53:55 AM",
         "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "MARINE BLVD #NURSE ,MBH",
+        "location": "ST ,MON",
         "latitude": null,
         "longitude": null,
         "units": ">E44"
     },
     {
-        "id": "BF2304446",
+        "id": "RF2314072",
         "date": "2023-12-21",
-        "time": "8:22:20 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MASSON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "time": "8:48:59 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "627 HAMILTON ST ,RCY",
+        "latitude": 37.48781592528,
+        "longitude": -122.229886849943,
+        "units": ">E9"
     },
     {
         "id": "NF2314057",
@@ -30,6 +63,6 @@
         "location": "NAOMI AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC35 >BC122 CM31X2 >E71 >MED20"
+        "units": ">BC122 >E71 MED20"
     }
 ]
