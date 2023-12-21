@@ -1,36 +1,58 @@
 [
     {
+        "id": "SF2316096",
+        "date": "2023-12-21",
+        "time": "10:16:35 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "MF2311064",
+        "date": "2023-12-21",
+        "time": "10:15:29 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": ">E7"
+    },
+    {
+        "id": "NF2314061",
+        "date": "2023-12-21",
+        "time": "10:09:58 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WAKEFIELD AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2314060",
+        "date": "2023-12-21",
+        "time": "10:06:22 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "STANDISH RD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "NF2314059",
         "date": "2023-12-21",
         "time": "10:00:13 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
+        "category": "Traffic accident - structure",
         "location": "2350 JUNIPERO SERRA BLVD ,DCY",
         "latitude": 37.6944076542282,
         "longitude": -122.471513589612,
-        "units": ">E92 >CM31X5 E91 T95 BC20?TAC36"
-    },
-    {
-        "id": "MF2311063",
-        "date": "2023-12-21",
-        "time": "9:59:40 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MADERA AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E77"
-    },
-    {
-        "id": "SF2316095",
-        "date": "2023-12-21",
-        "time": "9:58:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FOSTER CITY BLVD ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
+        "units": ">E92 >CM31X5 ?TAC36 >T95 >E91"
     },
     {
         "id": "NF2314057",
