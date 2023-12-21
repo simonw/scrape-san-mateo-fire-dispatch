@@ -1,25 +1,36 @@
 [
     {
-        "id": "LF2301267",
+        "id": "BF2304446",
         "date": "2023-12-21",
-        "time": "8:01:04 AM",
-        "summary": "Colma Fire on Control-3",
+        "time": "8:22:20 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "MISSION RD #311 ,CLM",
+        "location": "MASSON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E51"
     },
     {
-        "id": "SF2316089",
+        "id": "SF2316090",
         "date": "2023-12-21",
-        "time": "8:00:01 AM",
+        "time": "8:12:42 AM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1301 SHOREWAY RD ,BLM",
+        "latitude": 37.5243510753416,
+        "longitude": -122.265806919785,
+        "units": ">E14"
+    },
+    {
+        "id": "RF2314069",
+        "date": "2023-12-21",
+        "time": "8:11:21 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
+        "location": "MADISON AVE #3 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": ">E10"
     },
     {
         "id": "NF2314057",
@@ -30,17 +41,6 @@
         "location": "NAOMI AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">MED20 >E71 >BC122 >E93 CM31X2?TAC35"
-    },
-    {
-        "id": "SF2316088",
-        "date": "2023-12-21",
-        "time": "7:41:28 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VIRGINIA AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": "?TAC35 >BC122 CM31X2 >E71 >MED20"
     }
 ]
