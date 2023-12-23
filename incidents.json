@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2304464",
+        "date": "2023-12-23",
+        "time": "3:00:46 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "NF2314140",
+        "date": "2023-12-23",
+        "time": "2:58:38 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PANORAMA CT ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "FF2307290",
+        "date": "2023-12-23",
+        "time": "2:57:28 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "946 GRAND AVE ,SSF",
+        "latitude": 37.6567775697859,
+        "longitude": -122.417586131157,
+        "units": "?TAC35 >BC17 CM31X1 Q62 E61"
+    },
+    {
+        "id": "MF2311115",
+        "date": "2023-12-23",
+        "time": "2:46:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "DF2302529",
         "date": "2023-12-23",
         "time": "2:41:08 AM",
@@ -8,72 +52,6 @@
         "location": "SKYLINE BLVD / BEAR GULCH RD",
         "latitude": 37.3958036940609,
         "longitude": -122.292534647016,
-        "units": "E58 ?TAC45 ?BC15 ?CO56 ?E7"
-    },
-    {
-        "id": "NF2314139",
-        "date": "2023-12-23",
-        "time": "2:29:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #437 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "MF2311114",
-        "date": "2023-12-23",
-        "time": "2:28:51 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #125 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "BF2304463",
-        "date": "2023-12-23",
-        "time": "2:27:00 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BURROWS AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "MF2311113",
-        "date": "2023-12-23",
-        "time": "2:26:39 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "LF2301276",
-        "date": "2023-12-23",
-        "time": "2:14:59 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "D ST ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "RF2314156",
-        "date": "2023-12-23",
-        "time": "2:12:39 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "TAC45 >E58 >BC15 >R56"
     }
 ]
