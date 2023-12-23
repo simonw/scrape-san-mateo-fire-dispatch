@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2311106",
+        "date": "2023-12-22",
+        "time": "8:19:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "DF2302526",
+        "date": "2023-12-22",
+        "time": "8:15:54 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SKYLINE BLVD ,KMT",
+        "latitude": null,
+        "longitude": null,
+        "units": "?TAC45 E7 >R56"
+    },
+    {
+        "id": "CF2308957",
+        "date": "2023-12-22",
+        "time": "8:10:17 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BAYSWATER AVE #207 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
         "id": "HF2303322",
         "date": "2023-12-22",
         "time": "8:02:49 PM",
@@ -11,17 +44,6 @@
         "units": ">E44"
     },
     {
-        "id": "MF2311105",
-        "date": "2023-12-22",
-        "time": "8:01:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PULGAS AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
         "id": "RF2314143",
         "date": "2023-12-22",
         "time": "8:01:43 PM",
@@ -30,7 +52,7 @@
         "location": "HOPKINS AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": ""
     },
     {
         "id": "WF2302107",
@@ -42,28 +64,6 @@
         "latitude": 37.4169947972382,
         "longitude": -122.261272906604,
         "units": ">R7"
-    },
-    {
-        "id": "CF2308956",
-        "date": "2023-12-22",
-        "time": "7:47:01 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "506 ALMER RD ,BRM",
-        "latitude": 37.5789053890498,
-        "longitude": -122.352179600097,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2316179",
-        "date": "2023-12-22",
-        "time": "7:46:17 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #109 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "NF2314123",
@@ -85,6 +85,6 @@
         "location": "BACK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 >E58 >U57 ?CFE21 >R57"
+        "units": "VFIR23 >E58 >U57 ?CFE21 >R57"
     }
 ]
