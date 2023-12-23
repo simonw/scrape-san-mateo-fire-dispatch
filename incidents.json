@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2311106",
+        "id": "RF2314145",
         "date": "2023-12-22",
-        "time": "8:19:46 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:26:29 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "COOLEY AVE ,EPA",
+        "location": "WOODSIDE RD #1455 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ">E10"
+    },
+    {
+        "id": "RF2314144",
+        "date": "2023-12-22",
+        "time": "8:26:22 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BEECH ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "DF2302526",
@@ -19,40 +30,7 @@
         "location": "SKYLINE BLVD ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC45 E7 >R56"
-    },
-    {
-        "id": "CF2308957",
-        "date": "2023-12-22",
-        "time": "8:10:17 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BAYSWATER AVE #207 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "HF2303322",
-        "date": "2023-12-22",
-        "time": "8:02:49 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VIRGINIA AVE ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "RF2314143",
-        "date": "2023-12-22",
-        "time": "8:01:43 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOPKINS AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "?TAC45 >E7 >R56"
     },
     {
         "id": "WF2302107",
@@ -74,7 +52,7 @@
         "location": "900 CAMPUS DR ,DCY",
         "latitude": 37.6666613079935,
         "longitude": -122.477513285312,
-        "units": "?TAC35 >E94 >BC124 CM31X2 >E95>T51 *>T95"
+        "units": ">E94 >BC124 >E95 >T51 *>T95"
     },
     {
         "id": "DF2302525",
@@ -85,6 +63,6 @@
         "location": "BACK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "VFIR23 >E58 >U57 ?CFE21 >R57"
+        "units": "VFIR23 >E58 ?CFE21"
     }
 ]
