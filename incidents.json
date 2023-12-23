@@ -1,25 +1,58 @@
 [
     {
-        "id": "NF2314118",
+        "id": "SF2316175",
         "date": "2023-12-22",
-        "time": "6:12:23 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "6:22:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ESCALERO AVE ,PCF",
+        "location": "CYPRESS AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E72"
+        "units": ">E21"
     },
     {
-        "id": "RF2314140",
+        "id": "FF2307284",
         "date": "2023-12-22",
-        "time": "6:09:45 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "6:22:41 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "E SAN CARLOS AVE ,SNC",
+        "location": "MISSION RD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E20"
+        "units": ">E63"
+    },
+    {
+        "id": "CF2308954",
+        "date": "2023-12-22",
+        "time": "6:22:30 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #3 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2316174",
+        "date": "2023-12-22",
+        "time": "6:18:27 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NORTON ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "CF2308953",
+        "date": "2023-12-22",
+        "time": "6:15:33 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "HOWARD AVE / MYRTLE RD",
+        "latitude": 37.5797136289906,
+        "longitude": -122.342172944964,
+        "units": ">T34"
     },
     {
         "id": "NF2314117",
@@ -30,40 +63,7 @@
         "location": "322 PALMETTO AVE #158 ,PCF",
         "latitude": 37.6530016951662,
         "longitude": -122.491775445246,
-        "units": ">E71"
-    },
-    {
-        "id": "SF2316173",
-        "date": "2023-12-22",
-        "time": "6:02:00 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #A ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "CF2308952",
-        "date": "2023-12-22",
-        "time": "6:01:10 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #3 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2316172",
-        "date": "2023-12-22",
-        "time": "5:57:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E POPLAR AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ""
     },
     {
         "id": "CF2308951",
@@ -74,7 +74,7 @@
         "location": "VANCOUVER AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E35"
+        "units": "*>E35"
     },
     {
         "id": "SF2316171",
@@ -86,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E28"
-    },
-    {
-        "id": "NF2314116",
-        "date": "2023-12-22",
-        "time": "5:45:54 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "CALLAN BLVD / SOUTHGATE AVE",
-        "latitude": 37.6757288986525,
-        "longitude": -122.471796064283,
-        "units": ""
     }
 ]
