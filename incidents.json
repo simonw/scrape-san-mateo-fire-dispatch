@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2316240",
+        "date": "2023-12-24",
+        "time": "4:42:58 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO PENINSULA AVE",
+        "latitude": 37.5804221513466,
+        "longitude": -122.324214673445,
+        "units": "E24 E37 T21 BC5 CM21X4TAC25"
+    },
+    {
+        "id": "MF2311140",
+        "date": "2023-12-24",
+        "time": "4:33:51 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PULGAS AVE / GAILLARDIA WAY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "RF2314188",
         "date": "2023-12-24",
         "time": "4:23:05 AM",
@@ -8,7 +30,7 @@
         "location": "WOODSIDE RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ""
     },
     {
         "id": "CF2308988",
@@ -17,28 +39,6 @@
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
         "location": "TROUSDALE DR #121B ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "BF2304483",
-        "date": "2023-12-24",
-        "time": "4:10:54 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FLEETWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "RF2314187",
-        "date": "2023-12-24",
-        "time": "4:03:52 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON WAY ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -52,6 +52,6 @@
         "location": "1017 MADERA AVE ,MNP",
         "latitude": 37.4703303731715,
         "longitude": -122.158606411546,
-        "units": "PR1 >PR1C >BC1 SQ401 >T2>E77 >E5 >E2 >BC101 >E1"
+        "units": ">BC1 PR1 >PR1C SQ401 >T2>E77 >E2 >BC101 >E1 ?TAC15"
     }
 ]
