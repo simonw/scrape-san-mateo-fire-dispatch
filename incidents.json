@@ -1,36 +1,47 @@
 [
     {
-        "id": "RF2314220",
+        "id": "SF2316288",
         "date": "2023-12-25",
-        "time": "12:40:38 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "1:02:16 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "TRAIN TRACK ,RCY",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": "E23"
+    },
+    {
+        "id": "NF2314212",
+        "date": "2023-12-25",
+        "time": "1:01:09 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ODDSTAD BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "BF2304494",
+        "date": "2023-12-25",
+        "time": "12:44:54 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTWOOD DR #3 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "SF2316287",
         "date": "2023-12-25",
         "time": "12:39:43 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Trash fire",
+        "category": "Landscape fire",
         "location": "S NORFOLK ST / CARY AVE",
         "latitude": 37.5711258548952,
         "longitude": -122.309147116508,
-        "units": "E24"
-    },
-    {
-        "id": "RF2314219",
-        "date": "2023-12-25",
-        "time": "12:33:46 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COPLEY AVE / WHIPPLE AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">E24"
     },
     {
         "id": "FF2307318",
@@ -41,7 +52,7 @@
         "location": "MANDALAY PL #1111 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": ""
     },
     {
         "id": "FF2307317",
@@ -52,18 +63,7 @@
         "location": "LN ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "DF2302535",
-        "date": "2023-12-25",
-        "time": "12:13:22 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VALLEY VIEW CT ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
+        "units": ""
     },
     {
         "id": "NF2314211",
@@ -74,6 +74,6 @@
         "location": "MOUNTAIN VIEW DR #7 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": "E92"
     }
 ]
