@@ -1,5 +1,93 @@
 [
     {
+        "id": "SF2316317",
+        "date": "2023-12-25",
+        "time": "3:19:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CIPRIANI BLVD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "MF2311188",
+        "date": "2023-12-25",
+        "time": "3:19:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UNIVERSITY AVE #116 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2314233",
+        "date": "2023-12-25",
+        "time": "3:16:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2316316",
+        "date": "2023-12-25",
+        "time": "3:15:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1 BALDWIN AVE ,SMO",
+        "latitude": 37.5654824669277,
+        "longitude": -122.32804505363,
+        "units": ">T21 >E21 CM21X5 ?TAC25"
+    },
+    {
+        "id": "DF2302536",
+        "date": "2023-12-25",
+        "time": "3:14:39 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "102 FEY DR ,BRH",
+        "latitude": 37.575047386603,
+        "longitude": -122.387836207824,
+        "units": ">E35"
+    },
+    {
+        "id": "FF2307331",
+        "date": "2023-12-25",
+        "time": "3:14:38 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "COMMERCIAL AVE / ORANGE AVE",
+        "latitude": 37.6561108772428,
+        "longitude": -122.423764030366,
+        "units": ">BC17 ?TAC35 Q62 >E63 CM31X4"
+    },
+    {
+        "id": "FF2307330",
+        "date": "2023-12-25",
+        "time": "3:06:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "PINE TE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "RF2314243",
+        "date": "2023-12-25",
+        "time": "3:06:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / MARSH RD OFF RAMP",
+        "latitude": 37.4843953356043,
+        "longitude": -122.184206579205,
+        "units": "?TAC15 >T9 >BC3 CM11X5 >E9"
+    },
+    {
         "id": "SF2316315",
         "date": "2023-12-25",
         "time": "3:02:20 PM",
@@ -8,7 +96,7 @@
         "location": "1221 CHESS DR ,FCY",
         "latitude": 37.5622080641952,
         "longitude": -122.276994283274,
-        "units": "E29"
+        "units": ">E29"
     },
     {
         "id": "MF2311187",
@@ -22,28 +110,6 @@
         "units": ">E1"
     },
     {
-        "id": "MF2311186",
-        "date": "2023-12-25",
-        "time": "2:44:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "83 FAIRVIEW AVE ,ATN",
-        "latitude": 37.4404407994986,
-        "longitude": -122.210895022528,
-        "units": ""
-    },
-    {
-        "id": "SF2316314",
-        "date": "2023-12-25",
-        "time": "2:40:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALOMA AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "RF2314242",
         "date": "2023-12-25",
         "time": "2:39:35 PM",
@@ -53,27 +119,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E10"
-    },
-    {
-        "id": "SF2316312",
-        "date": "2023-12-25",
-        "time": "2:26:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CONSTITUTION DR ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E28"
-    },
-    {
-        "id": "HF2303355",
-        "date": "2023-12-25",
-        "time": "2:21:37 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ACACIA ST ,MON",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E44"
     }
 ]
