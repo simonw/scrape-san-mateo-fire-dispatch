@@ -1,14 +1,69 @@
 [
     {
-        "id": "BF2304519",
+        "id": "SF2316355",
         "date": "2023-12-26",
-        "time": "12:41:06 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "1:04:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "E HILLSDALE BLVD / S EL CAMINO REAL",
+        "latitude": 37.5370823496158,
+        "longitude": -122.297557985572,
+        "units": "BC5 E23 CM21X4 ?TAC25 T23"
+    },
+    {
+        "id": "RF2314277",
+        "date": "2023-12-26",
+        "time": "1:03:19 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "LINDEN AVE ,SNB",
+        "location": "MIDDLEFIELD RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": "E9"
+    },
+    {
+        "id": "SF2316354",
+        "date": "2023-12-26",
+        "time": "12:59:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOVET RD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "SF2316353",
+        "date": "2023-12-26",
+        "time": "12:58:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #106 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "FF2307354",
+        "date": "2023-12-26",
+        "time": "12:51:03 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "NF2314266",
+        "date": "2023-12-26",
+        "time": "12:44:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LAKE MERCED BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
     },
     {
         "id": "HF2303366",
@@ -19,18 +74,7 @@
         "location": "582 SIERRA ST ,MBH",
         "latitude": 37.5315337371746,
         "longitude": -122.514309823925,
-        "units": "E41"
-    },
-    {
-        "id": "RF2314276",
-        "date": "2023-12-26",
-        "time": "12:35:41 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JEFFERSON AVE #1 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E41"
     },
     {
         "id": "HF2303365",
@@ -41,40 +85,7 @@
         "location": "247 8TH ST ,MON",
         "latitude": 37.5412832773085,
         "longitude": -122.514939090518,
-        "units": "?TAC45 CM41X2 >E44 >BC10"
-    },
-    {
-        "id": "RF2314275",
-        "date": "2023-12-26",
-        "time": "12:28:34 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "NF2314265",
-        "date": "2023-12-26",
-        "time": "12:26:30 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "RF2314274",
-        "date": "2023-12-26",
-        "time": "12:25:11 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "REDWOOD AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": "?TAC45 CM41X2 >E44"
     },
     {
         "id": "WF2302121",
@@ -85,40 +96,7 @@
         "location": "WOODSIDE RD ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "TAC15 CM11X1 >R7 ERV7 >BC2E58 >E7 ERV58"
-    },
-    {
-        "id": "CF2309043",
-        "date": "2023-12-26",
-        "time": "12:21:30 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LINCOLN CIR #5 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "BF2304518",
-        "date": "2023-12-26",
-        "time": "12:18:31 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LASSEN DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2316350",
-        "date": "2023-12-26",
-        "time": "12:16:44 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "1240 W HILLSDALE BLVD ,SMO",
-        "latitude": 37.533319995477,
-        "longitude": -122.326000477792,
-        "units": ">E27"
+        "units": "TAC15 CM11X1 >ERV7 >R7 >BC2>E58 >E7 >ERV58"
     },
     {
         "id": "MF2311212",
@@ -129,17 +107,6 @@
         "location": "CRANE ST #325B ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">BC1 CM11X5 >E3 >E6"
-    },
-    {
-        "id": "BF2304517",
-        "date": "2023-12-26",
-        "time": "11:54:51 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SAN ANDREAS TRL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E6"
     }
 ]
