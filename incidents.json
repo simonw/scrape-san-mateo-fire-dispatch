@@ -1,25 +1,47 @@
 [
     {
+        "id": "HF2303375",
+        "date": "2023-12-27",
+        "time": "9:42:23 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BLOOM LN #1223 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E41"
+    },
+    {
+        "id": "FF2307371",
+        "date": "2023-12-27",
+        "time": "9:40:12 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MILLER AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "HF2303374",
+        "date": "2023-12-27",
+        "time": "9:27:11 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BLOOM LN #105 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
         "id": "RF2314311",
         "date": "2023-12-27",
         "time": "9:23:12 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Traffic accident",
-        "location": "EL CAMINO REAL / OAK AVE",
+        "location": "EL CAMINO REAL / REDWOOD AVE",
         "latitude": 37.4776482100439,
         "longitude": -122.223443408722,
-        "units": "BC3 E10 T9 CM11X4 ?TAC15"
-    },
-    {
-        "id": "RF2314310",
-        "date": "2023-12-27",
-        "time": "9:19:59 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #182 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
+        "units": "?TAC15 CM11X4 >T9 >BC3 >E10"
     },
     {
         "id": "MF2311233",
@@ -30,7 +52,7 @@
         "location": "HESKETH DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">T4 >E4 CM11X1"
+        "units": "CM11X1 >BC1 >T4 >E4"
     },
     {
         "id": "SF2316393",
@@ -42,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "MF2311232",
-        "date": "2023-12-27",
-        "time": "9:11:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GLEN WAY ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
     }
 ]
