@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2316401",
+        "id": "SF2316402",
         "date": "2023-12-27",
-        "time": "12:00:58 PM",
+        "time": "12:20:38 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "340 GRAND BLVD ,SMO",
+        "latitude": 37.5749309980492,
+        "longitude": -122.333398727681,
+        "units": "E34"
+    },
+    {
+        "id": "NF2314311",
+        "date": "2023-12-27",
+        "time": "12:20:10 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "AVE ,SMO",
+        "location": "KING DR #131 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": "E64"
+    },
+    {
+        "id": "DF2302548",
+        "date": "2023-12-27",
+        "time": "12:10:15 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MORELAND DR ,SON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "DF2302547",
+        "date": "2023-12-27",
+        "time": "12:06:20 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ANSEL LN ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "FF2307379",
@@ -19,7 +52,7 @@
         "location": "GARDINER AVE #1 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": "E65"
     },
     {
         "id": "SF2316400",
@@ -30,50 +63,6 @@
         "location": "VINTAGE PARK DR ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "TO5 >MED5 >E28"
-    },
-    {
-        "id": "SF2316399",
-        "date": "2023-12-27",
-        "time": "11:46:18 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEQUOIA AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "NF2314310",
-        "date": "2023-12-27",
-        "time": "11:46:03 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ORANGE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2307377",
-        "date": "2023-12-27",
-        "time": "11:39:02 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "C ST #2 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "MF2311235",
-        "date": "2023-12-27",
-        "time": "11:16:19 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
+        "units": "TO5 CM21X1 >MED5 >E29 >E28TAC25"
     }
 ]
