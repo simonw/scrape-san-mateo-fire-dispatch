@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2314321",
+        "date": "2023-12-27",
+        "time": "12:36:28 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "707 LEAHY ST ,RCY",
+        "latitude": 37.4702118714814,
+        "longitude": -122.215220792766,
+        "units": "E3"
+    },
+    {
+        "id": "NF2314312",
+        "date": "2023-12-27",
+        "time": "12:35:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "SF2316402",
         "date": "2023-12-27",
         "time": "12:20:38 PM",
@@ -8,7 +30,7 @@
         "location": "340 GRAND BLVD ,SMO",
         "latitude": 37.5749309980492,
         "longitude": -122.333398727681,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "NF2314311",
@@ -19,7 +41,7 @@
         "location": "KING DR #131 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "DF2302548",
@@ -31,17 +53,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E52"
-    },
-    {
-        "id": "DF2302547",
-        "date": "2023-12-27",
-        "time": "12:06:20 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ANSEL LN ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "FF2307379",
@@ -63,6 +74,6 @@
         "location": "VINTAGE PARK DR ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "TO5 CM21X1 >MED5 >E29 >E28TAC25"
+        "units": ">MED5"
     }
 ]
