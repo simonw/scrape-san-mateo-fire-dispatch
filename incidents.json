@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2316394",
+        "date": "2023-12-27",
+        "time": "9:55:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "340 GRAND BLVD ,SMO",
+        "latitude": 37.5749309980492,
+        "longitude": -122.333398727681,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2314312",
+        "date": "2023-12-27",
+        "time": "9:47:55 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EBENER ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "HF2303375",
         "date": "2023-12-27",
         "time": "9:42:23 AM",
@@ -8,61 +30,17 @@
         "location": "BLOOM LN #1223 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
+        "units": ">E41"
     },
     {
-        "id": "FF2307371",
+        "id": "WF2302128",
         "date": "2023-12-27",
-        "time": "9:40:12 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MILLER AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "HF2303374",
-        "date": "2023-12-27",
-        "time": "9:27:11 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLOOM LN #105 ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2314311",
-        "date": "2023-12-27",
-        "time": "9:23:12 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "EL CAMINO REAL / REDWOOD AVE",
-        "latitude": 37.4776482100439,
-        "longitude": -122.223443408722,
-        "units": "?TAC15 CM11X4 >T9 >BC3 >E10"
-    },
-    {
-        "id": "MF2311233",
-        "date": "2023-12-27",
-        "time": "9:16:55 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HESKETH DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM11X1 >BC1 >T4 >E4"
-    },
-    {
-        "id": "SF2316393",
-        "date": "2023-12-27",
-        "time": "9:16:51 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "time": "9:39:15 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "940 WILMINGTON WAY ,EML",
+        "latitude": 37.4553067007923,
+        "longitude": -122.265092560108,
+        "units": ">E19"
     }
 ]
