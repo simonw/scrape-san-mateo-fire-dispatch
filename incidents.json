@@ -1,35 +1,46 @@
 [
     {
-        "id": "NF2314328",
+        "id": "BF2304537",
         "date": "2023-12-27",
-        "time": "7:16:46 PM",
+        "time": "7:41:11 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "2322 CRESTMOOR DR ,SNB",
+        "latitude": 37.6242716980541,
+        "longitude": -122.435091081214,
+        "units": "E52"
+    },
+    {
+        "id": "NF2314330",
+        "date": "2023-12-27",
+        "time": "7:35:53 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SULLIVAN AVE / 89TH ST",
+        "latitude": 37.6918412467546,
+        "longitude": -122.472212963465,
+        "units": ">E91"
+    },
+    {
+        "id": "NF2314329",
+        "date": "2023-12-27",
+        "time": "7:28:22 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "WESTLINE DR ,DCY",
+        "location": "ESCUELA DR #128A ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
+        "units": ">E95"
     },
     {
-        "id": "MF2311240",
+        "id": "CF2309065",
         "date": "2023-12-27",
-        "time": "7:14:47 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "7:25:00 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Traffic accident",
-        "location": "DUMBARTON AVE / MIDDLEFIELD RD",
-        "latitude": 37.4751523776106,
-        "longitude": -122.209085701279,
-        "units": ">E11"
-    },
-    {
-        "id": "RF2314339",
-        "date": "2023-12-27",
-        "time": "7:08:02 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "275 ORACLE PKWY ,RWS",
-        "latitude": 37.5300229012522,
-        "longitude": -122.26529631554,
-        "units": ">E14"
+        "location": "NB 101 / SO SFO",
+        "latitude": 37.605374335711,
+        "longitude": -122.38455861888,
+        "units": ">E37 >T34 >BC8 >E34 CM21X2?TAC25"
     }
 ]
