@@ -1,5 +1,60 @@
 [
     {
+        "id": "HF2303388",
+        "date": "2023-12-28",
+        "time": "1:04:12 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "STANFORD AVE / YALE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E44"
+    },
+    {
+        "id": "MF2311255",
+        "date": "2023-12-28",
+        "time": "1:03:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "MF2311256",
+        "date": "2023-12-28",
+        "time": "1:02:04 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": "E7"
+    },
+    {
+        "id": "SF2316433",
+        "date": "2023-12-28",
+        "time": "12:48:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EDGEWATER BLVD / REGULUS ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "RF2314356",
+        "date": "2023-12-28",
+        "time": "12:43:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "540 PRICE AVE ,RCY",
+        "latitude": 37.493902711406,
+        "longitude": -122.231962119858,
+        "units": ">E9"
+    },
+    {
         "id": "SF2316432",
         "date": "2023-12-28",
         "time": "12:39:33 PM",
@@ -8,18 +63,7 @@
         "location": "HALYARD LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
-    },
-    {
-        "id": "CF2309081",
-        "date": "2023-12-28",
-        "time": "12:28:02 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1 MANGINI WAY ,BRM",
-        "latitude": 37.582756319435,
-        "longitude": -122.347484429339,
-        "units": ">E34"
+        "units": ">E28"
     },
     {
         "id": "FF2307401",
@@ -30,7 +74,7 @@
         "location": "PARK WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ""
     },
     {
         "id": "SF2316431",
@@ -44,17 +88,6 @@
         "units": ">T21"
     },
     {
-        "id": "SF2316430",
-        "date": "2023-12-28",
-        "time": "12:24:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SLOOP CT ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
         "id": "DF2302552",
         "date": "2023-12-28",
         "time": "12:10:15 PM",
@@ -64,16 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E35"
-    },
-    {
-        "id": "SF2316428",
-        "date": "2023-12-28",
-        "time": "12:08:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OREGON AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
     }
 ]
