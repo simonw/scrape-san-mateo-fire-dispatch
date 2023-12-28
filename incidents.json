@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2314343",
+        "id": "FF2307392",
         "date": "2023-12-28",
-        "time": "7:43:39 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:02:18 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "490 FORBES BLVD ,SSF",
+        "latitude": 37.6561664030666,
+        "longitude": -122.389987995176,
+        "units": "Q62"
+    },
+    {
+        "id": "MF2311249",
+        "date": "2023-12-28",
+        "time": "8:00:37 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ARGUELLO BLVD / MARVILLA PL",
+        "location": "PULGAS AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E72"
+        "units": "E2"
+    },
+    {
+        "id": "NF2314344",
+        "date": "2023-12-28",
+        "time": "7:55:24 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MOANA WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "RF2314352",
+        "date": "2023-12-28",
+        "time": "7:55:12 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COUNTRY CLUB DR ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "HF2303383",
@@ -19,17 +52,6 @@
         "location": "NEVADA AVE ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": "E44"
-    },
-    {
-        "id": "CF2309072",
-        "date": "2023-12-28",
-        "time": "7:25:06 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">E44"
     }
 ]
