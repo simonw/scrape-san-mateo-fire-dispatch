@@ -1,5 +1,82 @@
 [
     {
+        "id": "BF2304560",
+        "date": "2023-12-29",
+        "time": "2:40:45 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #153 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "CF2309114",
+        "date": "2023-12-29",
+        "time": "2:39:31 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N ROLLINS RD #309 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E32"
+    },
+    {
+        "id": "SF2316482",
+        "date": "2023-12-29",
+        "time": "2:35:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #118 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "LF2301298",
+        "date": "2023-12-29",
+        "time": "2:34:38 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD #302 ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "RF2314405",
+        "date": "2023-12-29",
+        "time": "2:33:41 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #362 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "CF2309113",
+        "date": "2023-12-29",
+        "time": "2:33:05 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #1112 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "DF2302560",
+        "date": "2023-12-29",
+        "time": "2:30:57 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BUNKER HILL DR ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T17"
+    },
+    {
         "id": "FF2307416",
         "date": "2023-12-29",
         "time": "2:24:30 PM",
@@ -8,7 +85,7 @@
         "location": "FAIRWAY DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E63"
     },
     {
         "id": "RF2314404",
@@ -19,18 +96,7 @@
         "location": "HILLVIEW AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "LF2301297",
-        "date": "2023-12-29",
-        "time": "2:17:23 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLMA BLVD ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM31X1 >E86 BC19"
+        "units": ">E12"
     },
     {
         "id": "SF2316481",
@@ -52,73 +118,7 @@
         "location": "850 JEFFERSON AVE ,RCY",
         "latitude": 37.4857676985872,
         "longitude": -122.228701783093,
-        "units": "?TAC15 >T9 >E11 >E13 CM11X2>BC3 >E10"
-    },
-    {
-        "id": "RF2314402",
-        "date": "2023-12-29",
-        "time": "2:09:16 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DALE AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "NF2314415",
-        "date": "2023-12-29",
-        "time": "2:08:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #4 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "CF2309110",
-        "date": "2023-12-29",
-        "time": "2:08:32 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2314414",
-        "date": "2023-12-29",
-        "time": "2:02:39 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ACCACIA ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "RF2314400",
-        "date": "2023-12-29",
-        "time": "2:00:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL / HAZEL AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2316479",
-        "date": "2023-12-29",
-        "time": "1:51:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MOUNDS RD #311 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": "?TAC15 >T9 >E13 CM11X2 >BC3>E10"
     },
     {
         "id": "SF2316478",
