@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2309097",
+        "id": "CF2309098",
         "date": "2023-12-29",
-        "time": "6:21:45 AM",
+        "time": "6:41:32 AM",
         "summary": "Central County Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1811 ADRIAN RD ,BRM",
+        "latitude": 37.5993020309013,
+        "longitude": -122.377955670807,
+        "units": "?E37"
+    },
+    {
+        "id": "SF2316454",
+        "date": "2023-12-29",
+        "time": "6:35:30 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "FLORIBUNDA AVE #6 ,BRM",
+        "location": "HACIENDA ST #133 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">T23"
+    },
+    {
+        "id": "NF2314389",
+        "date": "2023-12-29",
+        "time": "6:27:20 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE #114 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
     },
     {
         "id": "SF2316453",
@@ -19,28 +41,6 @@
         "location": "66 21ST AVE ,SMO",
         "latitude": 37.5477494140801,
         "longitude": -122.308255169002,
-        "units": "E23"
-    },
-    {
-        "id": "SF2316452",
-        "date": "2023-12-29",
-        "time": "6:13:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DALE VIEW AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "MF2311272",
-        "date": "2023-12-29",
-        "time": "6:03:42 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / WILLOW RD OFF RAMP",
-        "latitude": 37.4703109698331,
-        "longitude": -122.157840888417,
-        "units": ">T9 >BC1 >E5 CM11X2 ?TAC15"
+        "units": ">E23"
     }
 ]
