@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2304564",
+        "date": "2023-12-29",
+        "time": "8:23:35 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PICCADILLY PL #22 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "MF2311293",
+        "date": "2023-12-29",
+        "time": "8:21:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLARKE AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2314429",
+        "date": "2023-12-29",
+        "time": "8:16:05 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T95"
+    },
+    {
+        "id": "NF2314428",
+        "date": "2023-12-29",
+        "time": "8:04:50 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "HICKEY BLVD / GELLERT BLVD",
+        "latitude": 37.6645111723159,
+        "longitude": -122.469110896149,
+        "units": ">E94"
+    },
+    {
         "id": "RF2314415",
         "date": "2023-12-29",
         "time": "8:02:41 PM",
@@ -8,18 +52,7 @@
         "location": "OAKSIDE AVE #B ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
-    },
-    {
-        "id": "NF2314427",
-        "date": "2023-12-29",
-        "time": "8:01:02 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E95"
+        "units": ">E11"
     },
     {
         "id": "DF2302568",
@@ -30,7 +63,7 @@
         "location": "NB 280 / SO 92",
         "latitude": 37.5010326373211,
         "longitude": -122.325975079224,
-        "units": "BC11 E18 E17 T17 ?TAC15?CM11X5"
+        "units": ">T17"
     },
     {
         "id": "DF2302567",
@@ -41,6 +74,6 @@
         "location": "CABRILLO HWY / NO TUNNEL",
         "latitude": 37.5908406268089,
         "longitude": -122.503983476237,
-        "units": ">E72 BC124 E52 E44 CM31X1E71 ?TAC35"
+        "units": ">BC124 ?TAC35 >E44 CM31X1 BC10>E72"
     }
 ]
