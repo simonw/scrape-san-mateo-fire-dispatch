@@ -1,5 +1,60 @@
 [
     {
+        "id": "BF2304567",
+        "date": "2023-12-29",
+        "time": "10:03:42 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "WB 380 ON RAMP / NB 280",
+        "latitude": 37.6300404154476,
+        "longitude": -122.434253252765,
+        "units": "E51 BC16 T51 ?TAC35 ?CM31X2"
+    },
+    {
+        "id": "FF2307422",
+        "date": "2023-12-29",
+        "time": "9:57:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GREENDALE DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "NF2314434",
+        "date": "2023-12-29",
+        "time": "9:56:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CORONADO AVE #106 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "SF2316506",
+        "date": "2023-12-29",
+        "time": "9:50:17 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HEATHER LN ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "RF2314420",
+        "date": "2023-12-29",
+        "time": "9:45:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAMPSHIRE AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
         "id": "LF2301299",
         "date": "2023-12-29",
         "time": "9:29:59 PM",
@@ -8,29 +63,7 @@
         "location": "MADDUX DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "HF2303402",
-        "date": "2023-12-29",
-        "time": "9:28:32 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "DOLPHINE AVE ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "SF2316504",
-        "date": "2023-12-29",
-        "time": "9:25:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "500 LINCOLN CENTRE DR ,FCY",
-        "latitude": 37.5694767604056,
-        "longitude": -122.268409000916,
-        "units": ">BC5 CM21X4 >E28 >T21 ?TAC25"
+        "units": "E86"
     },
     {
         "id": "MF2311296",
@@ -41,7 +74,7 @@
         "location": "POPLAR AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": "E2"
     },
     {
         "id": "SF2316503",
@@ -52,18 +85,7 @@
         "location": "OLYMPIC AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "MF2311295",
-        "date": "2023-12-29",
-        "time": "9:10:19 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MENLO AVE / DOYLE ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "units": "E14"
     },
     {
         "id": "NF2314430",
@@ -74,6 +96,6 @@
         "location": "HICKEY BLVD / SKYLINE BLVD",
         "latitude": 37.6605286950956,
         "longitude": -122.475791872586,
-        "units": ">E94 CM31X5 ?TAC36 >T95"
+        "units": "CM31X5 ?TAC36"
     }
 ]
