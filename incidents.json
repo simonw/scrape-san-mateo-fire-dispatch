@@ -1,5 +1,38 @@
 [
     {
+        "id": "LF2301299",
+        "date": "2023-12-29",
+        "time": "9:29:59 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MADDUX DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "HF2303402",
+        "date": "2023-12-29",
+        "time": "9:28:32 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DOLPHINE AVE ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "SF2316504",
+        "date": "2023-12-29",
+        "time": "9:25:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "500 LINCOLN CENTRE DR ,FCY",
+        "latitude": 37.5694767604056,
+        "longitude": -122.268409000916,
+        "units": ">BC5 CM21X4 >E28 >T21 ?TAC25"
+    },
+    {
         "id": "MF2311296",
         "date": "2023-12-29",
         "time": "9:20:15 PM",
@@ -8,18 +41,7 @@
         "location": "POPLAR AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "NF2314432",
-        "date": "2023-12-29",
-        "time": "9:17:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MOANA WAY #C ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">E2"
     },
     {
         "id": "SF2316503",
@@ -44,17 +66,6 @@
         "units": ">E6"
     },
     {
-        "id": "NF2314431",
-        "date": "2023-12-29",
-        "time": "8:56:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Lock out - vehicle",
-        "location": "33 SOUTHGATE AVE ,DCY",
-        "latitude": 37.69794624875,
-        "longitude": -122.481142204369,
-        "units": ">E91"
-    },
-    {
         "id": "NF2314430",
         "date": "2023-12-29",
         "time": "8:53:25 PM",
@@ -64,27 +75,5 @@
         "latitude": 37.6605286950956,
         "longitude": -122.475791872586,
         "units": ">E94 CM31X5 ?TAC36 >T95"
-    },
-    {
-        "id": "HF2303401",
-        "date": "2023-12-29",
-        "time": "8:50:22 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "N CABRILLO HWY / 1ST ST",
-        "latitude": 37.5461821794828,
-        "longitude": -122.513605278474,
-        "units": "*>E44"
-    },
-    {
-        "id": "RF2314416",
-        "date": "2023-12-29",
-        "time": "8:30:14 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1100 EL CAMINO REAL ,SNC",
-        "latitude": 37.5003350202672,
-        "longitude": -122.252581157553,
-        "units": ""
     }
 ]
