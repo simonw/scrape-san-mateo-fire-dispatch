@@ -1,5 +1,82 @@
 [
     {
+        "id": "BF2304566",
+        "date": "2023-12-29",
+        "time": "9:03:36 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / JENEVEIN AVE",
+        "latitude": 37.6230070164296,
+        "longitude": -122.412647685527,
+        "units": "?TAC37 BC16 T51 >E51 CM31X3"
+    },
+    {
+        "id": "NF2314431",
+        "date": "2023-12-29",
+        "time": "8:56:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Lock out - vehicle",
+        "location": "33 SOUTHGATE AVE ,DCY",
+        "latitude": 37.69794624875,
+        "longitude": -122.481142204369,
+        "units": ">E91"
+    },
+    {
+        "id": "NF2314430",
+        "date": "2023-12-29",
+        "time": "8:53:25 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "HICKEY BLVD / SKYLINE BLVD",
+        "latitude": 37.6605286950956,
+        "longitude": -122.475791872586,
+        "units": ">E94 >BC20 CM31X5 ?TAC36 >T95"
+    },
+    {
+        "id": "HF2303401",
+        "date": "2023-12-29",
+        "time": "8:50:22 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Public assist",
+        "location": "N CABRILLO HWY / 1ST ST",
+        "latitude": 37.5461821794828,
+        "longitude": -122.513605278474,
+        "units": ">E44"
+    },
+    {
+        "id": "SF2316502",
+        "date": "2023-12-29",
+        "time": "8:47:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EMERALD BAY LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "SF2316501",
+        "date": "2023-12-29",
+        "time": "8:44:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MONTE DIABLO AVE #14 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "SF2316500",
+        "date": "2023-12-29",
+        "time": "8:41:07 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "385 1ST AVE ,SMO",
+        "latitude": 37.5680940677039,
+        "longitude": -122.324202620973,
+        "units": ">T21"
+    },
+    {
         "id": "RF2314418",
         "date": "2023-12-29",
         "time": "8:38:41 PM",
@@ -8,7 +85,7 @@
         "location": "WINDSOR WAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ""
     },
     {
         "id": "RF2314417",
@@ -19,18 +96,7 @@
         "location": "PORTOFINO DR #B ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
-    },
-    {
-        "id": "BF2304565",
-        "date": "2023-12-29",
-        "time": "8:30:54 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ">E13"
     },
     {
         "id": "RF2314416",
@@ -41,51 +107,7 @@
         "location": "1100 EL CAMINO REAL ,SNC",
         "latitude": 37.5003350202672,
         "longitude": -122.252581157553,
-        "units": "TAC15 CM11X2 >E16"
-    },
-    {
-        "id": "MF2311294",
-        "date": "2023-12-29",
-        "time": "8:30:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "BF2304564",
-        "date": "2023-12-29",
-        "time": "8:23:35 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PICCADILLY PL #22 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "MF2311293",
-        "date": "2023-12-29",
-        "time": "8:21:24 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLARKE AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2314428",
-        "date": "2023-12-29",
-        "time": "8:04:50 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "HICKEY BLVD / GELLERT BLVD",
-        "latitude": 37.6645111723159,
-        "longitude": -122.469110896149,
-        "units": ""
+        "units": ">E16"
     },
     {
         "id": "RF2314415",
@@ -96,17 +118,6 @@
         "location": "OAKSIDE AVE #B ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "*>E11"
-    },
-    {
-        "id": "DF2302568",
-        "date": "2023-12-29",
-        "time": "8:00:40 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO 92",
-        "latitude": 37.5010326373211,
-        "longitude": -122.325975079224,
         "units": ""
     },
     {
@@ -118,6 +129,6 @@
         "location": "CABRILLO HWY / NO TUNNEL",
         "latitude": 37.5908406268089,
         "longitude": -122.503983476237,
-        "units": ">BC124 ?TAC35 CM31X1 >BC10 >E72"
+        "units": ">BC124 ?TAC35 CM31X1 >E72"
     }
 ]
