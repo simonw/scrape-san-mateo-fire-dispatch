@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2314422",
+        "date": "2023-12-29",
+        "time": "6:40:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "518 SAN DIEGO AVE ,DCY",
+        "latitude": 37.7008883922833,
+        "longitude": -122.466219503034,
+        "units": "E92"
+    },
+    {
+        "id": "DF2302564",
+        "date": "2023-12-29",
+        "time": "6:32:26 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAYVIEW DR #2018 ,DVN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
         "id": "WF2302140",
         "date": "2023-12-29",
         "time": "6:25:41 PM",
@@ -8,18 +30,7 @@
         "location": "SB 280 / NO FARM HILL BLVD",
         "latitude": 37.4502169682406,
         "longitude": -122.278716264987,
-        "units": "T17 E18 BC11 E7 ?VFIR23?CM11X3"
-    },
-    {
-        "id": "RF2314413",
-        "date": "2023-12-29",
-        "time": "6:24:10 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "REDWOOD SHORES PKWY / AIRPORT WAY",
-        "latitude": 37.5169981626591,
-        "longitude": -122.25403168028,
-        "units": "T9 BC3 E13 CM11X5 TAC16"
+        "units": "VFIR23 CM11X3"
     },
     {
         "id": "MF2311292",
@@ -30,50 +41,6 @@
         "location": "2874 TRAIN TRACK ,MNP",
         "latitude": 37.4547784445617,
         "longitude": -122.182283699478,
-        "units": "R7 >BC1 >E6 USR102 T4E1 E3 ?TAC17 ?CM11X4"
-    },
-    {
-        "id": "CF2309120",
-        "date": "2023-12-29",
-        "time": "6:16:04 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #114 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2314421",
-        "date": "2023-12-29",
-        "time": "6:05:25 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "MF2311291",
-        "date": "2023-12-29",
-        "time": "6:02:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "EB 84 / WILLOW RD",
-        "latitude": 37.4819266276664,
-        "longitude": -122.150298804463,
-        "units": ">TAC15 >CM11X2 >E77 >BC101"
-    },
-    {
-        "id": "SF2316499",
-        "date": "2023-12-29",
-        "time": "5:59:43 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "518 S AMPHLETT BLVD ,SMO",
-        "latitude": 37.568961519292,
-        "longitude": -122.312697417835,
-        "units": ">E24"
+        "units": ">USR102 >BC1 >CM11X4 >TAC17 >E6>E1"
     }
 ]
