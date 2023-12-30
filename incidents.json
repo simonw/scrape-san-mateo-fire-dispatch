@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2314422",
+        "id": "NF2314423",
         "date": "2023-12-29",
-        "time": "6:40:26 PM",
+        "time": "7:03:01 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "518 SAN DIEGO AVE ,DCY",
-        "latitude": 37.7008883922833,
-        "longitude": -122.466219503034,
-        "units": "E92"
+        "category": "Medical aid",
+        "location": "SCHOOL ST #A ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92 BC20 CM31X4 ?TAC35"
+    },
+    {
+        "id": "DF2302565",
+        "date": "2023-12-29",
+        "time": "7:00:01 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "LA HONDA RD / MADERA LN",
+        "latitude": 37.3205587683383,
+        "longitude": -122.339141623633,
+        "units": "E357 E59 ?CO57"
+    },
+    {
+        "id": "RF2314414",
+        "date": "2023-12-29",
+        "time": "6:57:54 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "907 E SAN CARLOS AVE #9 ,SNC",
+        "latitude": 37.5101150766329,
+        "longitude": -122.256007639475,
+        "units": "E16"
     },
     {
         "id": "DF2302564",
@@ -19,18 +41,7 @@
         "location": "BAYVIEW DR #2018 ,DVN",
         "latitude": null,
         "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "WF2302140",
-        "date": "2023-12-29",
-        "time": "6:25:41 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO FARM HILL BLVD",
-        "latitude": 37.4502169682406,
-        "longitude": -122.278716264987,
-        "units": "VFIR23 CM11X3"
+        "units": "E13"
     },
     {
         "id": "MF2311292",
@@ -41,6 +52,6 @@
         "location": "2874 TRAIN TRACK ,MNP",
         "latitude": 37.4547784445617,
         "longitude": -122.182283699478,
-        "units": ">USR102 >BC1 >CM11X4 >TAC17 >E6>E1"
+        "units": ">CM11X4 >TAC17"
     }
 ]
