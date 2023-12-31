@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2314500",
+        "date": "2023-12-31",
+        "time": "2:40:28 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MAR VISTA DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "HF2303416",
+        "date": "2023-12-31",
+        "time": "2:38:51 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN PEDRO RD ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "MF2311358",
+        "date": "2023-12-31",
+        "time": "2:37:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UNIVERSITY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "BF2304585",
+        "date": "2023-12-31",
+        "time": "2:31:29 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2314466",
+        "date": "2023-12-31",
+        "time": "2:26:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HELLER ST #16 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "HF2303415",
         "date": "2023-12-31",
         "time": "2:24:49 PM",
@@ -8,7 +63,7 @@
         "location": "BLOOM LN #1307 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "?E40"
+        "units": ">E40"
     },
     {
         "id": "HF2303414",
@@ -19,61 +74,6 @@
         "location": "ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": "E44"
-    },
-    {
-        "id": "CF2309157",
-        "date": "2023-12-31",
-        "time": "2:18:42 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #411 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "T34"
-    },
-    {
-        "id": "MF2311357",
-        "date": "2023-12-31",
-        "time": "2:11:18 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #33 ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "CF2309156",
-        "date": "2023-12-31",
-        "time": "2:08:38 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2314465",
-        "date": "2023-12-31",
-        "time": "2:00:06 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VERA AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "DF2302573",
-        "date": "2023-12-31",
-        "time": "1:56:13 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MORELAND DR ,SON",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "units": ">E44"
     }
 ]
