@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2311351",
+        "date": "2023-12-31",
+        "time": "12:21:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1731 E BAYSHORE RD ,EPA",
+        "latitude": 37.4614388808717,
+        "longitude": -122.137660684739,
+        "units": "E2"
+    },
+    {
+        "id": "NF2314495",
+        "date": "2023-12-31",
+        "time": "12:19:38 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Smoke investigation",
+        "location": "WILDWOOD AVE / OAKMONT DR",
+        "latitude": 37.6959630415593,
+        "longitude": -122.492207242322,
+        "units": "?E91"
+    },
+    {
         "id": "CF2309153",
         "date": "2023-12-31",
         "time": "11:53:20 AM",
@@ -8,18 +30,7 @@
         "location": "OLD BAYSHORE HWY ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2311350",
-        "date": "2023-12-31",
-        "time": "11:38:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "2056 GLEN WAY ,EPA",
-        "latitude": 37.4634825800387,
-        "longitude": -122.144732014736,
-        "units": ">E2"
+        "units": "E34"
     },
     {
         "id": "LF2301304",
@@ -30,6 +41,6 @@
         "location": "WILDWOOD AVE ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": ">E85 >MED19 >CM31X1 >E86"
+        "units": "E86"
     }
 ]
