@@ -1,46 +1,57 @@
 [
     {
-        "id": "MF2311351",
+        "id": "RF2314464",
         "date": "2023-12-31",
-        "time": "12:21:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "12:37:54 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Fire alarm",
-        "location": "1731 E BAYSHORE RD ,EPA",
-        "latitude": 37.4614388808717,
-        "longitude": -122.137660684739,
-        "units": "E2"
+        "location": "850 TAMARACK AVE ,SNC",
+        "latitude": 37.4960214221698,
+        "longitude": -122.266942504724,
+        "units": "E13"
     },
     {
-        "id": "NF2314495",
+        "id": "BF2304584",
         "date": "2023-12-31",
-        "time": "12:19:38 PM",
+        "time": "12:35:36 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KAINS AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2314498",
+        "date": "2023-12-31",
+        "time": "12:34:39 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Smoke investigation",
-        "location": "WILDWOOD AVE / OAKMONT DR",
-        "latitude": 37.6959630415593,
-        "longitude": -122.492207242322,
-        "units": "?E91"
-    },
-    {
-        "id": "CF2309153",
-        "date": "2023-12-31",
-        "time": "11:53:20 AM",
-        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY ,BRM",
+        "location": "HICKEY BLVD / GELLERT BLVD",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E94"
     },
     {
-        "id": "LF2301304",
+        "id": "NF2314497",
         "date": "2023-12-31",
-        "time": "11:24:44 AM",
-        "summary": "Colma Fire on Control-3",
+        "time": "12:33:21 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "WILDWOOD AVE ,BRD",
+        "location": "PIERCE ST #114 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E95"
+    },
+    {
+        "id": "NF2314496",
+        "date": "2023-12-31",
+        "time": "12:28:34 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN PEDRO TERRACE RD #113A ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
     }
 ]
