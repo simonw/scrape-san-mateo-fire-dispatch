@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2400003",
+        "date": "2024-01-01",
+        "time": "1:35:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "E 5TH AVE / S DELAWARE ST",
+        "latitude": 37.5657477853651,
+        "longitude": -122.318554723826,
+        "units": ">E24"
+    },
+    {
+        "id": "FF2400003",
+        "date": "2024-01-01",
+        "time": "1:26:36 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S AIRPORT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "SF2400002",
         "date": "2024-01-01",
         "time": "1:22:39 AM",
@@ -8,29 +30,7 @@
         "location": "PARK PL #105 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "NF2400002",
-        "date": "2024-01-01",
-        "time": "1:15:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HANOVER ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2400002",
-        "date": "2024-01-01",
-        "time": "12:56:59 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1024 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E26"
     },
     {
         "id": "FF2400002",
@@ -41,6 +41,6 @@
         "location": "320 GRAND AVE ,SSF",
         "latitude": 37.6555870461765,
         "longitude": -122.410558824369,
-        "units": "?OES31 >TAC35 PR17B >E81 >BC17>Q62 >E65 ?CM31X2 >E61"
+        "units": ">TAC35 >BC17 ?CM31X2 >E65 >Q62>E61 >PR17B ?OES31 >E81"
     }
 ]
