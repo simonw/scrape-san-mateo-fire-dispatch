@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2400004",
+        "id": "SF2400005",
         "date": "2024-01-01",
-        "time": "2:24:04 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "2:42:12 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MIDDLE AVE / MOREY AVE",
+        "location": "IOWA DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": "?E25"
+    },
+    {
+        "id": "SF2400004",
+        "date": "2024-01-01",
+        "time": "2:42:07 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CASA DE CAMPO #5 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E26"
+    },
+    {
+        "id": "CF2400003",
+        "date": "2024-01-01",
+        "time": "2:36:30 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PARK RD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "MF2400005",
+        "date": "2024-01-01",
+        "time": "2:30:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Trash fire",
+        "location": "BELL ST / LINCOLN ST",
+        "latitude": 37.4659424086111,
+        "longitude": -122.145809762549,
+        "units": ">E2"
     },
     {
         "id": "MF2400003",
@@ -19,29 +52,7 @@
         "location": "MARSH RD / FLORENCE ST",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
-    },
-    {
-        "id": "FF2400004",
-        "date": "2024-01-01",
-        "time": "2:20:28 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "2540 TIPPERARY AVE ,SSF",
-        "latitude": 37.6377574211904,
-        "longitude": -122.451511256372,
-        "units": "E52"
-    },
-    {
-        "id": "HF2400002",
-        "date": "2024-01-01",
-        "time": "2:17:57 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MYRTLE ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E40"
+        "units": ">E5"
     },
     {
         "id": "NF2400004",
@@ -63,6 +74,6 @@
         "location": "320 GRAND AVE ,SSF",
         "latitude": 37.6555870461765,
         "longitude": -122.410558824369,
-        "units": ">TAC35 >BC17 ?CM31X2 >E65 >Q62>E61 ?OES31"
+        "units": ">TAC35 >BC17 ?CM31X2 >Q62 >E61"
     }
 ]
