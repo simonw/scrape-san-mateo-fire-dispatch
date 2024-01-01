@@ -1,25 +1,58 @@
 [
     {
-        "id": "MF2400002",
+        "id": "MF2400004",
         "date": "2024-01-01",
-        "time": "2:05:06 AM",
+        "time": "2:24:04 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MIDDLEFIELD RD / 1ST AVE",
+        "location": "MIDDLE AVE / MOREY AVE",
         "latitude": null,
         "longitude": null,
-        "units": "?E11"
+        "units": "E6"
     },
     {
-        "id": "NF2400003",
+        "id": "MF2400003",
         "date": "2024-01-01",
-        "time": "1:59:19 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "2:23:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "JUANITA AVE ,PCF",
+        "location": "MARSH RD / FLORENCE ST",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
+        "units": "E5"
+    },
+    {
+        "id": "FF2400004",
+        "date": "2024-01-01",
+        "time": "2:20:28 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "2540 TIPPERARY AVE ,SSF",
+        "latitude": 37.6377574211904,
+        "longitude": -122.451511256372,
+        "units": "E52"
+    },
+    {
+        "id": "HF2400002",
+        "date": "2024-01-01",
+        "time": "2:17:57 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MYRTLE ST ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E40"
+    },
+    {
+        "id": "NF2400004",
+        "date": "2024-01-01",
+        "time": "2:06:02 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KING DR #201 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
     },
     {
         "id": "FF2400002",
@@ -30,6 +63,6 @@
         "location": "320 GRAND AVE ,SSF",
         "latitude": 37.6555870461765,
         "longitude": -122.410558824369,
-        "units": ">TAC35 >BC17 ?CM31X2 >E65 >Q62>E61 >PR17B ?OES31"
+        "units": ">TAC35 >BC17 ?CM31X2 >E65 >Q62>E61 ?OES31"
     }
 ]
