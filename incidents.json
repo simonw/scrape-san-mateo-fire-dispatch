@@ -1,5 +1,71 @@
 [
     {
+        "id": "NF2400007",
+        "date": "2024-01-01",
+        "time": "3:01:58 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "MF2400007",
+        "date": "2024-01-01",
+        "time": "3:01:04 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ADDISON AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "T2"
+    },
+    {
+        "id": "RF2400002",
+        "date": "2024-01-01",
+        "time": "2:59:48 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LINCOLN AVE #C ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "RF2400001",
+        "date": "2024-01-01",
+        "time": "2:56:46 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "9 AVOCET DR #209 ,RWS",
+        "latitude": 37.5348892942891,
+        "longitude": -122.239958414318,
+        "units": ">E20 E14 BC3 T9 E13?TAC15 ?CM11X1"
+    },
+    {
+        "id": "MF2400006",
+        "date": "2024-01-01",
+        "time": "2:49:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Lock out - residential",
+        "location": "453 E O'KEEFE ST ,EPA",
+        "latitude": 37.4620893628776,
+        "longitude": -122.1453594748,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2400006",
+        "date": "2024-01-01",
+        "time": "2:46:34 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JOHN DALY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "SF2400005",
         "date": "2024-01-01",
         "time": "2:42:12 AM",
@@ -8,72 +74,6 @@
         "location": "IOWA DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E25"
-    },
-    {
-        "id": "SF2400004",
-        "date": "2024-01-01",
-        "time": "2:42:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CASA DE CAMPO #5 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E26"
-    },
-    {
-        "id": "CF2400003",
-        "date": "2024-01-01",
-        "time": "2:36:30 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PARK RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2400005",
-        "date": "2024-01-01",
-        "time": "2:30:55 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Trash fire",
-        "location": "BELL ST / LINCOLN ST",
-        "latitude": 37.4659424086111,
-        "longitude": -122.145809762549,
-        "units": ">E2"
-    },
-    {
-        "id": "MF2400003",
-        "date": "2024-01-01",
-        "time": "2:23:33 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARSH RD / FLORENCE ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "NF2400004",
-        "date": "2024-01-01",
-        "time": "2:06:02 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KING DR #201 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "FF2400002",
-        "date": "2024-01-01",
-        "time": "12:42:47 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "320 GRAND AVE ,SSF",
-        "latitude": 37.6555870461765,
-        "longitude": -122.410558824369,
-        "units": ">TAC35 >BC17 ?CM31X2 >Q62 >E61"
+        "units": ">E25"
     }
 ]
