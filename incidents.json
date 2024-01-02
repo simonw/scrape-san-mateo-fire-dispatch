@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2400033",
+        "date": "2024-01-01",
+        "time": "6:30:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOVET RD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E24"
+    },
+    {
+        "id": "WF2400005",
+        "date": "2024-01-01",
+        "time": "6:20:21 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
         "id": "SF2400032",
         "date": "2024-01-01",
         "time": "6:15:13 PM",
@@ -8,7 +30,7 @@
         "location": "BOWFIN ST ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
+        "units": ">E28"
     },
     {
         "id": "BF2400010",
@@ -19,7 +41,7 @@
         "location": "HUNTINGTON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E61"
+        "units": ""
     },
     {
         "id": "CF2400020",
@@ -31,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E35"
-    },
-    {
-        "id": "RF2400021",
-        "date": "2024-01-01",
-        "time": "6:08:45 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "1903 E BAYSHORE RD ,RCY",
-        "latitude": 37.4884366022188,
-        "longitude": -122.205860225655,
-        "units": ""
-    },
-    {
-        "id": "MF2400024",
-        "date": "2024-01-01",
-        "time": "5:55:26 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
     }
 ]
