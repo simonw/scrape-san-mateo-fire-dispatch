@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2400108",
+        "date": "2024-01-03",
+        "time": "1:52:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "RF2400084",
+        "date": "2024-01-03",
+        "time": "1:45:10 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRINGLE DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "RF2400083",
+        "date": "2024-01-03",
+        "time": "1:44:48 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "REDWOOD AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "RF2400082",
         "date": "2024-01-03",
         "time": "1:39:22 PM",
@@ -8,7 +41,7 @@
         "location": "2803 HASTINGS SHORE LN ,RWS",
         "latitude": 37.5235192635785,
         "longitude": -122.250353446598,
-        "units": "E20"
+        "units": ">E20"
     },
     {
         "id": "NF2400108",
@@ -19,18 +52,7 @@
         "location": "CARTER ST #106 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
-    },
-    {
-        "id": "SF2400106",
-        "date": "2024-01-03",
-        "time": "1:36:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "303 36TH AVE ,SMO",
-        "latitude": 37.5313409877483,
-        "longitude": -122.303669585173,
-        "units": "E23"
+        "units": ">E93"
     },
     {
         "id": "MF2400072",
@@ -41,17 +63,6 @@
         "location": "2930 CURTIS AVE ,NFO",
         "latitude": 37.4732352239411,
         "longitude": -122.20982757562,
-        "units": ">E11 >E3 >E5 SQ401 BC1T9 CM11X2 ?TAC15"
-    },
-    {
-        "id": "MF2400070",
-        "date": "2024-01-03",
-        "time": "1:29:51 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #237 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E77"
+        "units": ">BC1 ?TAC15 >SQ401 >T9 >E11CM11X2 >E3 >E5"
     }
 ]
