@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2400099",
+        "date": "2024-01-03",
+        "time": "9:42:29 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JACKSON AVE #A ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "SF2400124",
+        "date": "2024-01-03",
+        "time": "9:25:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E POPLAR AVE #29 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "FF2400048",
         "date": "2024-01-03",
         "time": "9:22:10 PM",
@@ -8,18 +30,7 @@
         "location": "CRESTWOOD DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
-    },
-    {
-        "id": "SF2400123",
-        "date": "2024-01-03",
-        "time": "9:15:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREVIEW AVE #3 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": ""
     },
     {
         "id": "RF2400097",
@@ -30,6 +41,6 @@
         "location": "3 AVOCET DR #202 ,RWS",
         "latitude": 37.5345690195871,
         "longitude": -122.239326597389,
-        "units": "?TAC15 >E14 >T9 >E13 >BC3CM11X2"
+        "units": "?TAC15 >T9 >E13 >BC3 CM11X2"
     }
 ]
