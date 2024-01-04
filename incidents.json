@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2400158",
+        "date": "2024-01-04",
+        "time": "2:36:07 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #10 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
+        "id": "RF2400124",
+        "date": "2024-01-04",
+        "time": "2:34:37 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SEAPORT CT ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "MF2400104",
+        "date": "2024-01-04",
+        "time": "2:28:42 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ILLINOIS ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
         "id": "MF2400103",
         "date": "2024-01-04",
         "time": "2:24:26 PM",
@@ -8,51 +41,7 @@
         "location": "BAY RD #216 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "RF2400123",
-        "date": "2024-01-04",
-        "time": "2:11:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLOMQUIST ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2400157",
-        "date": "2024-01-04",
-        "time": "2:08:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "CF2400101",
-        "date": "2024-01-04",
-        "time": "2:06:13 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "765 AIRPORT BLVD ,BRM",
-        "latitude": 37.5892816592154,
-        "longitude": -122.349496601494,
-        "units": "CM21X5 >T34 ?TAC25"
-    },
-    {
-        "id": "NF2400160",
-        "date": "2024-01-04",
-        "time": "2:06:05 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SPRING WOOD WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": ">E2"
     },
     {
         "id": "BF2400057",
@@ -63,6 +52,6 @@
         "location": "460 POPLAR AVE ,SNB",
         "latitude": 37.6216427640608,
         "longitude": -122.413431117033,
-        "units": "?TAC35 >BC16 >T51 >E52 CM31X1>E51"
+        "units": ">BC16 ?TAC35 >T51 *>E52 CM31X1>E51"
     }
 ]
