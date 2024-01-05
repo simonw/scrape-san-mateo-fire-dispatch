@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2400210",
+        "date": "2024-01-05",
+        "time": "12:22:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N CLAREMONT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "RF2400163",
+        "date": "2024-01-05",
+        "time": "12:11:34 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARSHALL ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
         "id": "MF2400125",
         "date": "2024-01-05",
         "time": "12:02:37 PM",
@@ -8,7 +30,7 @@
         "location": "AVY AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "SF2400209",
@@ -19,7 +41,7 @@
         "location": "FRANKLIN PKWY ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ""
     },
     {
         "id": "NF2400198",
@@ -31,60 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E72"
-    },
-    {
-        "id": "NF2400197",
-        "date": "2024-01-05",
-        "time": "11:50:14 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "NF2400196",
-        "date": "2024-01-05",
-        "time": "11:46:23 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WILSHIRE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "HF2400031",
-        "date": "2024-01-05",
-        "time": "11:44:53 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "359 GRAND BLVD ,HMB",
-        "latitude": 37.4702738401119,
-        "longitude": -122.437106145413,
-        "units": ""
-    },
-    {
-        "id": "WF2400031",
-        "date": "2024-01-05",
-        "time": "11:41:59 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATHHORST AVE ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "HF2400030",
-        "date": "2024-01-05",
-        "time": "11:36:27 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY S ,SOS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
     }
 ]
