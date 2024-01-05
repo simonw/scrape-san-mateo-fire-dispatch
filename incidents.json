@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2400153",
+        "id": "SF2400200",
         "date": "2024-01-05",
-        "time": "9:03:19 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "9:23:38 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "1455 SHAFTER ST ,SMO",
+        "latitude": 37.5484504859121,
+        "longitude": -122.321734397144,
+        "units": "CM21X4 T23 >E24"
+    },
+    {
+        "id": "CF2400125",
+        "date": "2024-01-05",
+        "time": "9:19:57 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "KENTFIELD AVE ,RCY",
+        "location": "N ROLLINS RD ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E37"
+    },
+    {
+        "id": "MF2400123",
+        "date": "2024-01-05",
+        "time": "9:19:26 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROSEFIELD WAY ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "RF2400154",
+        "date": "2024-01-05",
+        "time": "9:17:03 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "2325 JEFFERSON AVE ,RCY",
+        "latitude": 37.4733353160901,
+        "longitude": -122.23984925813,
+        "units": ">E9 >T9 >E12 >BC3 >E10CM11X5 ?TAC15"
     },
     {
         "id": "WF2400030",
@@ -19,7 +52,7 @@
         "location": "PORTOLA RD #23 ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
+        "units": ">E8"
     },
     {
         "id": "SF2400198",
@@ -30,28 +63,6 @@
         "location": "N B ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "SF2400197",
-        "date": "2024-01-05",
-        "time": "8:49:22 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E BELLEVUE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
-    },
-    {
-        "id": "CF2400124",
-        "date": "2024-01-05",
-        "time": "8:46:46 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PARK RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "units": ">E21"
     }
 ]
