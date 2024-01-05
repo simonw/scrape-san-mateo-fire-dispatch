@@ -1,5 +1,38 @@
 [
     {
+        "id": "WF2400031",
+        "date": "2024-01-05",
+        "time": "11:41:59 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATHHORST AVE ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E8"
+    },
+    {
+        "id": "FF2400082",
+        "date": "2024-01-05",
+        "time": "11:37:41 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BANTRY LN ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "HF2400030",
+        "date": "2024-01-05",
+        "time": "11:36:27 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
         "id": "RF2400162",
         "date": "2024-01-05",
         "time": "11:21:02 AM",
@@ -8,7 +41,7 @@
         "location": "CEDAR ST #11 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": ">E9"
     },
     {
         "id": "BF2400063",
@@ -19,7 +52,7 @@
         "location": "MUIRFIELD CIR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "RF2400161",
@@ -30,7 +63,7 @@
         "location": "575 OLD COUNTY RD ,SNC",
         "latitude": 37.5080564717345,
         "longitude": -122.259572828371,
-        "units": "E16"
+        "units": ">E16"
     },
     {
         "id": "DF2400025",
@@ -41,18 +74,7 @@
         "location": "16 REDWOOD DR ,LAH",
         "latitude": 37.3144251360287,
         "longitude": -122.272279136098,
-        "units": "E357 ?TAC45 E58"
-    },
-    {
-        "id": "RF2400160",
-        "date": "2024-01-05",
-        "time": "11:16:12 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOWLAND ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
+        "units": "TAC45 >E357 >E58"
     },
     {
         "id": "NF2400194",
@@ -64,49 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "CF2400129",
-        "date": "2024-01-05",
-        "time": "11:08:46 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #304 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "LF2400013",
-        "date": "2024-01-05",
-        "time": "11:06:02 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MADDUX DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "SF2400207",
-        "date": "2024-01-05",
-        "time": "10:59:50 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE #907 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "HF2400029",
-        "date": "2024-01-05",
-        "time": "10:49:55 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CEDAR ST ,MON",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E44"
     }
 ]
