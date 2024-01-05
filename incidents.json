@@ -1,47 +1,58 @@
 [
     {
+        "id": "BF2400065",
+        "date": "2024-01-05",
+        "time": "2:40:10 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "HF2400034",
+        "date": "2024-01-05",
+        "time": "2:32:16 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S #100A ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "FF2400084",
+        "date": "2024-01-05",
+        "time": "2:31:14 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "RF2400165",
+        "date": "2024-01-05",
+        "time": "2:29:44 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident - structure",
+        "location": "1500 WOODSIDE RD ,RCY",
+        "latitude": 37.4568951560544,
+        "longitude": -122.228122273869,
+        "units": "USR102 >T9 ?TAC16 CM11X2 >BC3>E9 >E3 >E10"
+    },
+    {
         "id": "NF2400209",
         "date": "2024-01-05",
         "time": "2:19:20 PM",
         "summary": "North County Fire on Control-3",
         "category": "Vehicle fire",
-        "location": "SB 280 / SO HICKEY BLVD",
+        "location": "SB 280 / SO SERRAMONTE BLVD",
         "latitude": 37.6547209829024,
         "longitude": -122.457577711741,
-        "units": ">E94 E64 TAC36 CM31X2"
-    },
-    {
-        "id": "WF2400032",
-        "date": "2024-01-05",
-        "time": "2:18:39 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "445 MANZANITA WAY ,WDS",
-        "latitude": 37.4182247172622,
-        "longitude": -122.245883063392,
-        "units": "?R7 E19"
-    },
-    {
-        "id": "NF2400208",
-        "date": "2024-01-05",
-        "time": "2:13:43 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #301C ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "BF2400064",
-        "date": "2024-01-05",
-        "time": "2:12:58 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1099 ADMIRAL CT ,SNB",
-        "latitude": 37.6340263494716,
-        "longitude": -122.422181047521,
-        "units": ">T51 >E61 >E52 >E51 >BC16TAC35 CM31X5"
+        "units": ">E94 CM31X2 >E64 TAC36"
     },
     {
         "id": "MF2400128",
