@@ -1,47 +1,69 @@
 [
     {
-        "id": "BF2400065",
+        "id": "NF2400211",
         "date": "2024-01-05",
-        "time": "2:40:10 PM",
+        "time": "3:04:36 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO SERRAMONTE BLVD",
+        "latitude": 37.6737538263321,
+        "longitude": -122.46851233473,
+        "units": "CM31X1 ?TAC35 ?E95 ?BC20 ?E92?T95"
+    },
+    {
+        "id": "RF2400166",
+        "date": "2024-01-05",
+        "time": "2:58:58 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1100 INDUSTRIAL RD #12 ,SNC",
+        "latitude": 37.5029645735567,
+        "longitude": -122.248660616537,
+        "units": "E16"
+    },
+    {
+        "id": "SF2400215",
+        "date": "2024-01-05",
+        "time": "2:57:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E BELLEVUE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "BF2400066",
+        "date": "2024-01-05",
+        "time": "2:55:33 PM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
+        "category": "Odor investigation",
+        "location": "717 E SAN BRUNO AVE ,SNB",
+        "latitude": 37.6310739778879,
+        "longitude": -122.406440976569,
+        "units": ">E51"
     },
     {
-        "id": "HF2400034",
+        "id": "FF2400086",
         "date": "2024-01-05",
-        "time": "2:32:16 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY S #100A ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "FF2400084",
-        "date": "2024-01-05",
-        "time": "2:31:14 PM",
+        "time": "2:48:20 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "MISSION RD ,SSF",
+        "location": "KENWOOD WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": ">E61"
     },
     {
-        "id": "RF2400165",
+        "id": "NF2400210",
         "date": "2024-01-05",
-        "time": "2:29:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident - structure",
-        "location": "1500 WOODSIDE RD ,RCY",
-        "latitude": 37.4568951560544,
-        "longitude": -122.228122273869,
-        "units": "USR102 >T9 ?TAC16 CM11X2 >BC3>E9 >E3 >E10"
+        "time": "2:44:04 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BERENDOS AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "NF2400209",
@@ -53,16 +75,5 @@
         "latitude": 37.6547209829024,
         "longitude": -122.457577711741,
         "units": ">E94 CM31X2 >E64 TAC36"
-    },
-    {
-        "id": "MF2400128",
-        "date": "2024-01-05",
-        "time": "2:05:35 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "PARK LN / SANTIAGO AVE",
-        "latitude": 37.4455562330658,
-        "longitude": -122.202158043779,
-        "units": ">E4"
     }
 ]
