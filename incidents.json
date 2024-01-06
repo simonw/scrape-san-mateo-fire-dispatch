@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2400178",
+        "date": "2024-01-06",
+        "time": "3:41:54 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAKWOOD DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "SF2400261",
+        "date": "2024-01-06",
+        "time": "3:41:23 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "3110 CASA DE CAMPO ,SMO",
+        "latitude": 37.5427469222622,
+        "longitude": -122.284012743697,
+        "units": "T23 E26 BC5 ?TAC25 ?CM21X3"
+    },
+    {
+        "id": "SF2400260",
+        "date": "2024-01-06",
+        "time": "3:36:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W 3RD AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2400150",
+        "date": "2024-01-06",
+        "time": "3:25:22 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAPUCHINO AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "WF2400041",
         "date": "2024-01-06",
         "time": "3:19:56 PM",
@@ -8,73 +52,7 @@
         "location": "SB 280 / NO SAND HILL RD",
         "latitude": 37.4282029747085,
         "longitude": -122.23430542581,
-        "units": "T4 CM11X5 E10 E8 BC3?TAC17"
-    },
-    {
-        "id": "FF2400099",
-        "date": "2024-01-06",
-        "time": "3:16:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "APPIAN WAY #7065 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "WF2400040",
-        "date": "2024-01-06",
-        "time": "3:16:07 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO EDGEWOOD RD",
-        "latitude": 37.4503547561209,
-        "longitude": -122.278505928096,
-        "units": ">E7"
-    },
-    {
-        "id": "WF2400039",
-        "date": "2024-01-06",
-        "time": "3:15:11 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / SO EDGEWOOD RD",
-        "latitude": 37.4502169682406,
-        "longitude": -122.278716264987,
-        "units": "E18 CM11X4 ?TAC16 T17 BC11E19"
-    },
-    {
-        "id": "MF2400177",
-        "date": "2024-01-06",
-        "time": "3:10:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BERKELEY AVE ,MOK",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "BF2400075",
-        "date": "2024-01-06",
-        "time": "3:09:36 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "562 ACACIA AVE ,SNB",
-        "latitude": 37.6239447688731,
-        "longitude": -122.417140811174,
-        "units": ">T51"
-    },
-    {
-        "id": "MF2400176",
-        "date": "2024-01-06",
-        "time": "3:08:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
+        "units": ">E18"
     },
     {
         "id": "CF2400149",
@@ -85,40 +63,7 @@
         "location": "EDGEHILL DR #A ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "MF2400175",
-        "date": "2024-01-06",
-        "time": "3:03:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "3 NEWELL CT ,EPA",
-        "latitude": 37.4570617285856,
-        "longitude": -122.13815381105,
-        "units": ">E2"
-    },
-    {
-        "id": "CF2400148",
-        "date": "2024-01-06",
-        "time": "3:03:18 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "1625 ROLLINS RD ,BRM",
-        "latitude": 37.5938384179882,
-        "longitude": -122.373644123722,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2400174",
-        "date": "2024-01-06",
-        "time": "2:56:32 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #101 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "E35"
     },
     {
         "id": "RF2400202",
@@ -140,17 +85,6 @@
         "location": "SB 280 / SO EDGEWOOD RD",
         "latitude": 37.4414953804549,
         "longitude": -122.251137026606,
-        "units": "?TAC15 >R7 >BC2 CM11X2 >E4"
-    },
-    {
-        "id": "CF2400147",
-        "date": "2024-01-06",
-        "time": "1:44:12 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Elevator rescue",
-        "location": "1350 OLD BAYSHORE HWY ,BRM",
-        "latitude": 37.5949475091206,
-        "longitude": -122.363660441047,
-        "units": "*>T34"
+        "units": ">R7"
     }
 ]
