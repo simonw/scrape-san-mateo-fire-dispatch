@@ -1,14 +1,91 @@
 [
     {
-        "id": "SF2400257",
+        "id": "CF2400149",
         "date": "2024-01-06",
-        "time": "2:39:30 PM",
+        "time": "3:04:50 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EDGEHILL DR #A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E35"
+    },
+    {
+        "id": "SF2400259",
+        "date": "2024-01-06",
+        "time": "2:58:37 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GATEWAY DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "MF2400174",
+        "date": "2024-01-06",
+        "time": "2:56:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #101 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "SF2400258",
+        "date": "2024-01-06",
+        "time": "2:53:08 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "WB 92 / EO HIGH RI",
+        "latitude": 37.5970069460201,
+        "longitude": -122.222650415637,
+        "units": ">BC5 CM21X5 >E29 ?TAC25 >T23"
+    },
+    {
+        "id": "MF2400173",
+        "date": "2024-01-06",
+        "time": "2:50:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHARON PARK DR #B4 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T4"
+    },
+    {
+        "id": "RF2400203",
+        "date": "2024-01-06",
+        "time": "2:48:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "1235 JEFFERSON AVE ,RCY",
+        "latitude": 37.4820733505129,
+        "longitude": -122.230736014509,
+        "units": ">T9"
+    },
+    {
+        "id": "RF2400202",
+        "date": "2024-01-06",
+        "time": "2:47:10 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "3752 ROLISON RD ,RCY",
+        "latitude": 37.4840137186312,
+        "longitude": -122.184384098542,
+        "units": ">E5"
+    },
+    {
+        "id": "WF2400036",
+        "date": "2024-01-06",
+        "time": "2:45:56 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Traffic accident",
-        "location": "WB 92 / WO HIGH RI",
-        "latitude": 37.5819692676653,
-        "longitude": -122.253397834521,
-        "units": "E28 T23 BC5 CM21X2 ?TAC25"
+        "location": "SB 280 / SO EDGEWOOD RD",
+        "latitude": 37.4414953804549,
+        "longitude": -122.251137026606,
+        "units": "?TAC15 >R7 >BC2 CM11X2 >E7>E4"
     },
     {
         "id": "CF2400147",
@@ -19,6 +96,6 @@
         "location": "1350 OLD BAYSHORE HWY ,BRM",
         "latitude": 37.5949475091206,
         "longitude": -122.363660441047,
-        "units": ">T34"
+        "units": "*>T34"
     }
 ]
