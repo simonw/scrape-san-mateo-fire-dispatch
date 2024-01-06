@@ -1,14 +1,25 @@
 [
     {
-        "id": "MF2400144",
+        "id": "MF2400146",
         "date": "2024-01-06",
-        "time": "1:02:42 AM",
+        "time": "1:20:32 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "MENLO OAKS DR ,MOK",
+        "location": "HAZELWOOD WAY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
+        "units": "E2"
+    },
+    {
+        "id": "MF2400145",
+        "date": "2024-01-06",
+        "time": "1:08:08 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Pole fire",
+        "location": "220 LAUREL ST ,MNP",
+        "latitude": 37.4515137326893,
+        "longitude": -122.170843367078,
+        "units": ">E6"
     },
     {
         "id": "BF2400071",
@@ -19,50 +30,6 @@
         "location": "CRESTWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E52"
-    },
-    {
-        "id": "NF2400228",
-        "date": "2024-01-06",
-        "time": "12:57:38 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2400137",
-        "date": "2024-01-06",
-        "time": "12:49:51 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1073A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2400233",
-        "date": "2024-01-06",
-        "time": "12:40:30 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NORTH RD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "RF2400181",
-        "date": "2024-01-06",
-        "time": "12:32:39 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TRAIN TRACK ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E52"
     }
 ]
