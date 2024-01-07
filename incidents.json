@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2400290",
+        "date": "2024-01-07",
+        "time": "8:05:34 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ANNA ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E24"
+    },
+    {
+        "id": "WF2400043",
+        "date": "2024-01-07",
+        "time": "8:04:38 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "501 PORTOLA RD ,PVY",
+        "latitude": 37.3724798871499,
+        "longitude": -122.22117470823,
+        "units": "?TAC15 ?CM11X2 ?BC2 ?R7 ?E4?E7 ?E8"
+    },
+    {
+        "id": "FF2400108",
+        "date": "2024-01-07",
+        "time": "7:44:10 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Pole fire",
+        "location": "2ND LN / MAPLE AVE",
+        "latitude": 37.6542372920009,
+        "longitude": -122.412987616167,
+        "units": ">E61"
+    },
+    {
         "id": "RF2400216",
         "date": "2024-01-07",
         "time": "7:42:11 AM",
@@ -8,29 +41,7 @@
         "location": "WOODSIDE RD #3320 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "MF2400195",
-        "date": "2024-01-07",
-        "time": "7:41:48 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MULBERRY LN ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "NF2400259",
-        "date": "2024-01-07",
-        "time": "7:41:13 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GREENVIEW DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
+        "units": ">E10"
     },
     {
         "id": "NF2400258",
@@ -41,7 +52,7 @@
         "location": "ORIENTE ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
+        "units": ">E93"
     },
     {
         "id": "CF2400165",
@@ -52,39 +63,6 @@
         "location": "TROUSDALE DR #310 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "DF2400035",
-        "date": "2024-01-07",
-        "time": "7:28:27 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NORTHVIEW WAY ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "SF2400289",
-        "date": "2024-01-07",
-        "time": "7:24:59 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1000 N HUMMINGBIRD LN ,SMO",
-        "latitude": 37.5649172653741,
-        "longitude": -122.30882377828,
         "units": ""
-    },
-    {
-        "id": "NF2400255",
-        "date": "2024-01-07",
-        "time": "5:55:17 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "94 PACIFICO AVE ,DCY",
-        "latitude": 37.6728157480807,
-        "longitude": -122.482833230913,
-        "units": ">E95"
     }
 ]
