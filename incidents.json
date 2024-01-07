@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2400114",
+        "id": "SF2400303",
         "date": "2024-01-07",
-        "time": "1:02:32 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "1:18:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "WILLOW AVE ,SSF",
+        "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": "E23"
+    },
+    {
+        "id": "MF2400205",
+        "date": "2024-01-07",
+        "time": "1:17:37 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "44 NEWELL RD ,EPA",
+        "latitude": 37.4561752224673,
+        "longitude": -122.136328800797,
+        "units": "E2"
+    },
+    {
+        "id": "HF2400048",
+        "date": "2024-01-07",
+        "time": "1:16:27 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRIDGEPORT DR ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">BC10 >E41 CM41X1 E44"
+    },
+    {
+        "id": "MF2400204",
+        "date": "2024-01-07",
+        "time": "1:10:58 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "2034 ASHTON AVE ,WMP",
+        "latitude": 37.4339975148123,
+        "longitude": -122.202517867238,
+        "units": ">T4 >E4 CM11X4 ?TAC15"
     },
     {
         "id": "CF2400173",
@@ -30,40 +63,7 @@
         "location": "DURAZNO WAY ,LAD",
         "latitude": null,
         "longitude": null,
-        "units": ">E7 CM11X1 >E8"
-    },
-    {
-        "id": "SF2400302",
-        "date": "2024-01-07",
-        "time": "12:45:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LOS PRADOS ST #221 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2400301",
-        "date": "2024-01-07",
-        "time": "12:33:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLSDALE MALL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2400220",
-        "date": "2024-01-07",
-        "time": "12:03:32 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #707 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM11X1 >E8"
     },
     {
         "id": "DF2400036",
@@ -74,6 +74,6 @@
         "location": "13519 SKYLINE BLVD ,KMT",
         "latitude": 37.4439797932568,
         "longitude": -122.32727638477,
-        "units": ">E58 BC15"
+        "units": ">E58"
     }
 ]
