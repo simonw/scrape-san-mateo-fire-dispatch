@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2400277",
+        "date": "2024-01-07",
+        "time": "12:10:30 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "BF2400087",
+        "date": "2024-01-07",
+        "time": "12:09:44 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN MATEO AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "LF2400022",
+        "date": "2024-01-07",
+        "time": "12:07:22 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HEATHER RD ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
         "id": "BF2400086",
         "date": "2024-01-07",
         "time": "12:04:17 PM",
@@ -8,7 +41,7 @@
         "location": "SHELTER CREEK LN #4105 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E51"
     },
     {
         "id": "RF2400220",
@@ -19,7 +52,7 @@
         "location": "EL CAMINO REAL #707 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?SQ409 ?E9"
+        "units": ">SQ409"
     },
     {
         "id": "SF2400299",
@@ -30,7 +63,7 @@
         "location": "HOBART AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "MF2400203",
@@ -63,7 +96,7 @@
         "location": "13519 SKYLINE BLVD ,KMT",
         "latitude": 37.4439797932568,
         "longitude": -122.32727638477,
-        "units": ">E58 R7 E8 >BC15 E19E7 >E56 >R56 E17 TAC45"
+        "units": "TAC45 >E56 >E17 >E58 >BC15>R56"
     },
     {
         "id": "BF2400085",
@@ -74,61 +107,6 @@
         "location": "SAN ANSELMO AVE N ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "SF2400298",
-        "date": "2024-01-07",
-        "time": "11:46:56 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #207 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "MF2400202",
-        "date": "2024-01-07",
-        "time": "11:46:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAKWOOD DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "RF2400219",
-        "date": "2024-01-07",
-        "time": "11:44:14 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "BF2400084",
-        "date": "2024-01-07",
-        "time": "11:36:17 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "22 BAYHILL SHOPPING CTR ,SNB",
-        "latitude": 37.6259820129876,
-        "longitude": -122.425109289732,
-        "units": ""
-    },
-    {
-        "id": "MF2400201",
-        "date": "2024-01-07",
-        "time": "11:09:31 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD #312 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": "T51"
     }
 ]
