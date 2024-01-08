@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2400192",
+        "id": "NF2400323",
         "date": "2024-01-08",
-        "time": "11:02:52 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "955 MACADAMIA DR ,HIL",
-        "latitude": 37.5678707983751,
-        "longitude": -122.375744811641,
-        "units": "E33"
+        "time": "11:20:37 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FOREST PARK CT ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "MF2400237",
+        "date": "2024-01-08",
+        "time": "11:18:53 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "MF2400236",
+        "date": "2024-01-08",
+        "time": "11:17:55 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "215 E O'KEEFE ST ,EPA",
+        "latitude": 37.4626038158462,
+        "longitude": -122.149609397483,
+        "units": "T2"
     },
     {
         "id": "CF2400193",
@@ -19,7 +41,7 @@
         "location": "10 HILLCREST BLVD ,MLB",
         "latitude": 37.6018572511154,
         "longitude": -122.392317367147,
-        "units": "?E34"
+        "units": ">E34"
     },
     {
         "id": "MF2400235",
@@ -30,7 +52,7 @@
         "location": "SANTA CLARA AVE ,WSB",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "CF2400191",
@@ -53,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E15"
-    },
-    {
-        "id": "NF2400321",
-        "date": "2024-01-08",
-        "time": "10:42:11 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAUSANNE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
     }
 ]
