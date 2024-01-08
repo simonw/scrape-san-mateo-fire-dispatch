@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2400321",
+        "date": "2024-01-08",
+        "time": "10:42:11 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LAUSANNE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "CF2400190",
+        "date": "2024-01-08",
+        "time": "10:34:28 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARCO POLO WAY #35 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "CF2400189",
         "date": "2024-01-08",
         "time": "10:22:54 AM",
@@ -8,7 +30,7 @@
         "location": "5 WAVERLY PL ,HIL",
         "latitude": 37.5643652807549,
         "longitude": -122.336627455518,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "WF2400050",
@@ -22,28 +44,6 @@
         "units": ">E7"
     },
     {
-        "id": "WF2400049",
-        "date": "2024-01-08",
-        "time": "10:11:27 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "302 PORTOLA RD ,PVY",
-        "latitude": 37.3759027048369,
-        "longitude": -122.21309940191,
-        "units": ">T4 >E8 >BC2 CM11X1 ?TAC16"
-    },
-    {
-        "id": "SF2400346",
-        "date": "2024-01-08",
-        "time": "10:09:01 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CIPRIANI BLVD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
         "id": "RF2400256",
         "date": "2024-01-08",
         "time": "10:06:18 AM",
@@ -52,6 +52,6 @@
         "location": "FRANCES LN ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E13"
+        "units": ""
     }
 ]
