@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2400099",
+        "date": "2024-01-08",
+        "time": "9:16:34 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AMADOR AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "RF2400254",
+        "date": "2024-01-08",
+        "time": "9:15:53 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAUREL ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2400339",
+        "date": "2024-01-08",
+        "time": "9:07:40 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CONDOR LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
         "id": "NF2400317",
         "date": "2024-01-08",
         "time": "9:05:07 AM",
@@ -8,7 +41,18 @@
         "location": "MATEO AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
+        "units": ">E92"
+    },
+    {
+        "id": "NF2400318",
+        "date": "2024-01-08",
+        "time": "9:04:43 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "342 IMPERIAL DR ,PCF",
+        "latitude": 37.6566068760126,
+        "longitude": -122.477864498366,
+        "units": ">E94"
     },
     {
         "id": "SF2400338",
@@ -19,51 +63,7 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "T23"
-    },
-    {
-        "id": "NF2400316",
-        "date": "2024-01-08",
-        "time": "8:47:17 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BRYANT ST #119A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2400337",
-        "date": "2024-01-08",
-        "time": "8:46:35 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST #343 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "CF2400185",
-        "date": "2024-01-08",
-        "time": "8:39:05 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "JOYCE RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2400335",
-        "date": "2024-01-08",
-        "time": "8:30:22 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W 38TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">T23"
     },
     {
         "id": "FF2400124",
@@ -75,27 +75,5 @@
         "latitude": 37.6574692267927,
         "longitude": -122.389426801775,
         "units": ">Q62"
-    },
-    {
-        "id": "CF2400182",
-        "date": "2024-01-08",
-        "time": "8:06:46 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MILLS AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "BF2400098",
-        "date": "2024-01-08",
-        "time": "7:59:05 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TRENTON DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E52"
     }
 ]
