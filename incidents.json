@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2400288",
+        "id": "SF2400395",
         "date": "2024-01-09",
-        "time": "11:03:30 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:18:24 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MADISON AVE / ALAMEDA DE LAS PULGAS",
+        "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": ">E25"
+    },
+    {
+        "id": "FF2400146",
+        "date": "2024-01-09",
+        "time": "11:17:54 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALLERTON AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "FF2400145",
+        "date": "2024-01-09",
+        "time": "11:17:41 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "N ACCESS RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "NF2400378",
+        "date": "2024-01-09",
+        "time": "11:05:21 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Pole fire",
+        "location": "177 MIRADA DR ,DCY",
+        "latitude": 37.6824678306683,
+        "longitude": -122.475531397024,
+        "units": ">E95"
     },
     {
         "id": "SF2400394",
@@ -16,10 +49,10 @@
         "time": "11:03:15 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Vehicle fire",
-        "location": "NB 101 / SO 92",
+        "location": "SB 101 / NO 92",
         "latitude": 37.5488862457401,
         "longitude": -122.2917809826,
-        "units": "CM21X3 E24 ?TAC25 ?E23"
+        "units": ">E24"
     },
     {
         "id": "NF2400377",
@@ -30,50 +63,6 @@
         "location": "NB 280 / SO EASTMOOR AVE",
         "latitude": 37.6844914155661,
         "longitude": -122.471326735892,
-        "units": ">BC124 E95 E91 T95 CM31X5?TAC35"
-    },
-    {
-        "id": "FF2400144",
-        "date": "2024-01-09",
-        "time": "10:45:09 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALLERTON AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "RF2400287",
-        "date": "2024-01-09",
-        "time": "10:44:22 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PORTOFINO DR #B ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "FF2400143",
-        "date": "2024-01-09",
-        "time": "10:44:06 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LONGFORD DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "NF2400376",
-        "date": "2024-01-09",
-        "time": "10:29:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OAKRIDGE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "?TAC35 >BC124 CM31X5 >T95 >E91"
     }
 ]
