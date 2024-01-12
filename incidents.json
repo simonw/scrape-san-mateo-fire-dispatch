@@ -1,14 +1,80 @@
 [
     {
-        "id": "FF2400207",
+        "id": "MF2400345",
         "date": "2024-01-12",
-        "time": "9:01:07 AM",
+        "time": "9:20:13 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T2"
+    },
+    {
+        "id": "CF2400313",
+        "date": "2024-01-12",
+        "time": "9:19:57 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FRONTERA WAY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "FF2400208",
+        "date": "2024-01-12",
+        "time": "9:16:48 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "BADEN AVE #121 ,SSF",
+        "location": "COMMERCIAL AVE #6 ,SSF",
         "latitude": null,
         "longitude": null,
         "units": ">E61"
+    },
+    {
+        "id": "CF2400312",
+        "date": "2024-01-12",
+        "time": "9:15:16 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1095 ROLLINS RD ,BRM",
+        "latitude": 37.5883789806325,
+        "longitude": -122.359878383766,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2400508",
+        "date": "2024-01-12",
+        "time": "9:12:00 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "353 HATCH DR ,FCY",
+        "latitude": 37.5668761443474,
+        "longitude": -122.274013639187,
+        "units": ">E28"
+    },
+    {
+        "id": "BF2400148",
+        "date": "2024-01-12",
+        "time": "9:10:11 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FLEETWOOD DR #2 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2400344",
+        "date": "2024-01-12",
+        "time": "9:07:40 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "CF2400311",
@@ -22,50 +88,6 @@
         "units": ">E37"
     },
     {
-        "id": "NF2400477",
-        "date": "2024-01-12",
-        "time": "8:52:51 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PRICE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "MF2400342",
-        "date": "2024-01-12",
-        "time": "8:50:31 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BELL ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "RF2400423",
-        "date": "2024-01-12",
-        "time": "8:47:37 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UPLAND RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "LF2400034",
-        "date": "2024-01-12",
-        "time": "8:31:06 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Vehicle fire",
-        "location": "1500 COLLINS AVE ,CLM",
-        "latitude": 37.6716163740278,
-        "longitude": -122.462936683319,
-        "units": ""
-    },
-    {
         "id": "RF2400417",
         "date": "2024-01-12",
         "time": "6:34:20 AM",
@@ -74,6 +96,6 @@
         "location": "307 NEVADA ST ,RCY",
         "latitude": 37.4759356872197,
         "longitude": -122.244542254923,
-        "units": "?TAC15 >PR3B >T9 >CM11X2 >PR3D>E10"
+        "units": ">PR3B >T9 >PR3D >E10"
     }
 ]
