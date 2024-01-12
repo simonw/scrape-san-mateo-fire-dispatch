@@ -1,11 +1,55 @@
 [
     {
-        "id": "CF2400310",
+        "id": "FF2400207",
         "date": "2024-01-12",
-        "time": "8:40:32 AM",
+        "time": "9:01:07 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE #121 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "CF2400311",
+        "date": "2024-01-12",
+        "time": "8:53:20 AM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "BANCROFT RD ,BRM",
+        "location": "TAYLOR BLVD ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2400477",
+        "date": "2024-01-12",
+        "time": "8:52:51 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PRICE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2400342",
+        "date": "2024-01-12",
+        "time": "8:50:31 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BELL ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2400423",
+        "date": "2024-01-12",
+        "time": "8:47:37 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "UPLAND RD ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -19,62 +63,7 @@
         "location": "1500 COLLINS AVE ,CLM",
         "latitude": 37.6716163740278,
         "longitude": -122.462936683319,
-        "units": ">E86"
-    },
-    {
-        "id": "CF2400309",
-        "date": "2024-01-12",
-        "time": "8:26:52 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "142 CHANNING RD ,BRM",
-        "latitude": 37.5839366054237,
-        "longitude": -122.335615553247,
-        "units": ">E34 CM21X3 ?TAC25"
-    },
-    {
-        "id": "FF2400204",
-        "date": "2024-01-12",
-        "time": "8:22:43 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "310 W ORANGE AVE ,SSF",
-        "latitude": 37.6508909139165,
-        "longitude": -122.428507389892,
-        "units": ">E63"
-    },
-    {
-        "id": "NF2400476",
-        "date": "2024-01-12",
-        "time": "8:21:19 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CORONADO AVE #303 ,DCY",
-        "latitude": null,
-        "longitude": null,
         "units": ""
-    },
-    {
-        "id": "SF2400506",
-        "date": "2024-01-12",
-        "time": "8:17:54 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "KLAMATH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "NF2400475",
-        "date": "2024-01-12",
-        "time": "7:58:54 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 1 / SO 280",
-        "latitude": 37.673070457036,
-        "longitude": -122.474379776397,
-        "units": ">E91"
     },
     {
         "id": "RF2400417",
@@ -85,6 +74,6 @@
         "location": "307 NEVADA ST ,RCY",
         "latitude": 37.4759356872197,
         "longitude": -122.244542254923,
-        "units": "?TAC15 >PR3B >T9 >CM11X2 >BC3>PR3D >E10 >E12"
+        "units": "?TAC15 >PR3B >T9 >CM11X2 >PR3D>E10"
     }
 ]
