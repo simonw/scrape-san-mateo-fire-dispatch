@@ -1,14 +1,80 @@
 [
     {
-        "id": "FF2400215",
+        "id": "RF2400440",
         "date": "2024-01-12",
-        "time": "1:43:32 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "2:04:36 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "365 BLOMQUIST ST ,RCY",
+        "latitude": 37.49457431351,
+        "longitude": -122.215963972554,
+        "units": "?E9"
+    },
+    {
+        "id": "MF2400355",
+        "date": "2024-01-12",
+        "time": "2:01:49 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1731 E BAYSHORE RD ,EPA",
+        "latitude": 37.4614388808717,
+        "longitude": -122.137660684739,
+        "units": "E2"
+    },
+    {
+        "id": "RF2400439",
+        "date": "2024-01-12",
+        "time": "1:58:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "MARSHALL ST / MAPLE ST",
+        "latitude": 37.4875981111334,
+        "longitude": -122.223028757028,
+        "units": "CM11X4 >E11 >BC3 >T9 ?TAC15"
+    },
+    {
+        "id": "NF2400494",
+        "date": "2024-01-12",
+        "time": "1:56:49 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
+        "location": "PIERCE ST #245 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E63"
+        "units": ">E91"
+    },
+    {
+        "id": "FF2400216",
+        "date": "2024-01-12",
+        "time": "1:55:57 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALIDA WAY #111 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "NF2400493",
+        "date": "2024-01-12",
+        "time": "1:55:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LINDA MAR BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "MF2400354",
+        "date": "2024-01-12",
+        "time": "1:50:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
     },
     {
         "id": "NF2400492",
@@ -19,61 +85,6 @@
         "location": "666 SKYLINE DR ,DCY",
         "latitude": 37.676786685262,
         "longitude": -122.491043799974,
-        "units": "BC121 E91 T95 CM31X2 ?TAC35"
-    },
-    {
-        "id": "MF2400353",
-        "date": "2024-01-12",
-        "time": "1:40:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2400521",
-        "date": "2024-01-12",
-        "time": "1:37:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
-    },
-    {
-        "id": "RF2400438",
-        "date": "2024-01-12",
-        "time": "1:33:58 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "CF2400320",
-        "date": "2024-01-12",
-        "time": "1:32:31 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2400520",
-        "date": "2024-01-12",
-        "time": "1:21:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "E POPLAR AVE / N SAN MATEO DR",
-        "latitude": 37.5721272666724,
-        "longitude": -122.332460010128,
-        "units": "CM21X4 >T34 >E21 ?TAC25"
+        "units": ">T95"
     }
 ]
