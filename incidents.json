@@ -1,36 +1,36 @@
 [
     {
-        "id": "RF2400416",
+        "id": "SF2400504",
         "date": "2024-01-12",
-        "time": "6:18:04 AM",
+        "time": "6:40:40 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "RALSTON AVE / HILLER ST",
+        "latitude": 37.5232562644372,
+        "longitude": -122.272658050382,
+        "units": "?CM11X4 >E14 BC5 ?TAC16 T23"
+    },
+    {
+        "id": "RF2400417",
+        "date": "2024-01-12",
+        "time": "6:34:20 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Vehicle fire",
-        "location": "BLOMQUIST ST / SEAPORT BLVD",
-        "latitude": 37.4929867127668,
-        "longitude": -122.213510776097,
-        "units": ">E9 >CM11X3 >BC3"
+        "category": "Structure fire",
+        "location": "307 NEVADA ST ,RCY",
+        "latitude": 37.4759356872197,
+        "longitude": -122.244542254923,
+        "units": ">SQ409 ?TAC15 >T9 BC2 E13>CM11X2 >BC3 E16 E9 E19"
     },
     {
-        "id": "FF2400201",
+        "id": "FF2400202",
         "date": "2024-01-12",
-        "time": "6:17:27 AM",
+        "time": "6:28:41 AM",
         "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "A ST ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "FF2400200",
-        "date": "2024-01-12",
-        "time": "5:59:02 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COMMERCIAL AVE #6 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO S AIRPORT BLVD",
+        "latitude": 37.6532145791878,
+        "longitude": -122.407115445744,
+        "units": ">E65 ?TAC35 Q62 >E51 CM31X3"
     },
     {
         "id": "MF2400338",
@@ -41,6 +41,6 @@
         "location": "WILLOW RD #226 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">SQ401 >E1"
+        "units": ">SQ401"
     }
 ]
