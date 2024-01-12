@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2400149",
+        "date": "2024-01-12",
+        "time": "12:39:27 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "2101 ROLLINGWOOD DR ,SNB",
+        "latitude": 37.6301941631755,
+        "longitude": -122.43759722686,
+        "units": "E52"
+    },
+    {
+        "id": "RF2400436",
+        "date": "2024-01-12",
+        "time": "12:30:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1712 HOWARD AVE ,SNC",
+        "latitude": 37.4960596388018,
+        "longitude": -122.255969641462,
+        "units": ">E16"
+    },
+    {
+        "id": "FF2400212",
+        "date": "2024-01-12",
+        "time": "12:24:32 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "NORTHWOOD DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
         "id": "RF2400435",
         "date": "2024-01-12",
         "time": "12:23:46 PM",
@@ -8,7 +41,7 @@
         "location": "MARSHALL ST #211 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?SQ409"
+        "units": ">E9 >CM11X1 >SQ409"
     },
     {
         "id": "SF2400517",
@@ -19,7 +52,7 @@
         "location": "CRYSTAL SPRINGS RD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ""
     },
     {
         "id": "MF2400350",
@@ -30,40 +63,7 @@
         "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
-    },
-    {
-        "id": "FF2400211",
-        "date": "2024-01-12",
-        "time": "12:08:08 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HEMLOCK AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "MF2400349",
-        "date": "2024-01-12",
-        "time": "12:03:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VALPARAISO AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2400516",
-        "date": "2024-01-12",
-        "time": "12:01:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "390 EL CAMINO REAL #L ,BLM",
-        "latitude": 37.5266260094455,
-        "longitude": -122.284682243111,
-        "units": "?TAC15 >E14 CM11X3"
+        "units": ">E1"
     },
     {
         "id": "NF2400488",
@@ -74,6 +74,6 @@
         "location": "1 THORNTON BEACH RD ,DCY",
         "latitude": 37.6981350685065,
         "longitude": -122.495826316142,
-        "units": ">PR20 >E91"
+        "units": ">PR20"
     }
 ]
