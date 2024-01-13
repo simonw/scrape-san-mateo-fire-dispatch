@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2400535",
+        "date": "2024-01-12",
+        "time": "6:28:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "SF2400534",
+        "date": "2024-01-12",
+        "time": "6:12:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "2604 PONCE AVE ,BLM",
+        "latitude": 37.5123032037412,
+        "longitude": -122.302153707147,
+        "units": ">E15"
+    },
+    {
         "id": "NF2400502",
         "date": "2024-01-12",
         "time": "6:10:16 PM",
@@ -8,7 +30,18 @@
         "location": "685 SOUTHGATE AVE ,DCY",
         "latitude": 37.6933894021692,
         "longitude": -122.490890331727,
-        "units": "E91"
+        "units": ">E91"
+    },
+    {
+        "id": "HF2400098",
+        "date": "2024-01-12",
+        "time": "6:08:20 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Lock out - commercial",
+        "location": "305 HIGGINS CANYON RD ,SOS",
+        "latitude": 37.4449166470531,
+        "longitude": -122.402807165628,
+        "units": ""
     },
     {
         "id": "NF2400501",
@@ -19,50 +52,6 @@
         "location": "HILLSIDE BLVD / VALLEY ST",
         "latitude": 37.6896288850867,
         "longitude": -122.461421098874,
-        "units": ">BC20 >E92 CM31X4 T95 ?TAC35"
-    },
-    {
-        "id": "HF2400097",
-        "date": "2024-01-12",
-        "time": "6:01:55 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY S / KELLY AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2400453",
-        "date": "2024-01-12",
-        "time": "5:53:04 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2400452",
-        "date": "2024-01-12",
-        "time": "5:48:30 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "301 INDUSTRIAL RD ,SNC",
-        "latitude": 37.514850722215,
-        "longitude": -122.259498720622,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2400533",
-        "date": "2024-01-12",
-        "time": "5:46:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "2525 BUENA VISTA AVE ,BLM",
-        "latitude": 37.5159623489392,
-        "longitude": -122.306432190581,
-        "units": ">E15"
+        "units": ">E92"
     }
 ]
