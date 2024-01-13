@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2400561",
+        "id": "SF2400563",
         "date": "2024-01-13",
-        "time": "2:03:59 PM",
+        "time": "2:21:19 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,SMO",
+        "location": "OTTAWA ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": "E24"
+    },
+    {
+        "id": "MF2400380",
+        "date": "2024-01-13",
+        "time": "2:19:33 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "105 5TH AVE #3 ,NFO",
+        "latitude": 37.469072634978,
+        "longitude": -122.207633330638,
+        "units": "E3"
+    },
+    {
+        "id": "NF2400539",
+        "date": "2024-01-13",
+        "time": "2:18:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FRANCISCAN DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "SF2400562",
+        "date": "2024-01-13",
+        "time": "2:18:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S DELAWARE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "DF2400071",
+        "date": "2024-01-13",
+        "time": "2:15:54 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ADELINE DR ,BRH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "CF2400350",
+        "date": "2024-01-13",
+        "time": "2:09:17 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #1221 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "HF2400108",
@@ -19,18 +74,7 @@
         "location": "EL GRANADA BLVD ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
-    },
-    {
-        "id": "NF2400538",
-        "date": "2024-01-13",
-        "time": "2:02:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #303A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E71"
+        "units": ">E41"
     },
     {
         "id": "CF2400349",
@@ -42,60 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E38"
-    },
-    {
-        "id": "MF2400379",
-        "date": "2024-01-13",
-        "time": "1:56:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GATES ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "HF2400107",
-        "date": "2024-01-13",
-        "time": "1:54:54 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIZZEN LN ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2400476",
-        "date": "2024-01-13",
-        "time": "1:50:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST #521 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "CF2400348",
-        "date": "2024-01-13",
-        "time": "1:44:02 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #208 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2400475",
-        "date": "2024-01-13",
-        "time": "1:36:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARSHALL ST #202 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
