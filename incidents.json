@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2400514",
+        "date": "2024-01-14",
+        "time": "1:38:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROOSEVELT AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "HF2400115",
+        "date": "2024-01-14",
+        "time": "1:27:24 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "230 CABRILLO HWY S ,HMB",
+        "latitude": 37.4655814799176,
+        "longitude": -122.434299580299,
+        "units": "*>E40"
+    },
+    {
+        "id": "MF2400420",
+        "date": "2024-01-14",
+        "time": "1:24:47 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1887 WOODSIDE RD ,WSB",
+        "latitude": 37.4517885476443,
+        "longitude": -122.229619942981,
+        "units": ">T4"
+    },
+    {
         "id": "HF2400113",
         "date": "2024-01-14",
         "time": "1:02:45 PM",
@@ -11,17 +44,6 @@
         "units": ">E41"
     },
     {
-        "id": "RF2400512",
-        "date": "2024-01-14",
-        "time": "12:44:24 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALDERLEE WAY ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
         "id": "NF2400583",
         "date": "2024-01-14",
         "time": "12:31:18 PM",
@@ -30,6 +52,6 @@
         "location": "2600 FRANCISCO BLVD ,PCF",
         "latitude": 37.625064470814,
         "longitude": -122.488855352393,
-        "units": "CG22A >BC124 ?TAC35 >E71 CM31X3>R72"
+        "units": ">BC124 ?TAC35 E71 CM31X3 >R72"
     }
 ]
