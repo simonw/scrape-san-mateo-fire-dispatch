@@ -1,14 +1,36 @@
 [
     {
+        "id": "NF2400580",
+        "date": "2024-01-14",
+        "time": "11:15:30 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROCKRIDGE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "NF2400578",
         "date": "2024-01-14",
         "time": "11:03:46 AM",
         "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BEACH BLVD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E71"
+        "category": "Water rescue investigation",
+        "location": "2350 BEACH BLVD ,PCF",
+        "latitude": 37.6308294743891,
+        "longitude": -122.493945235539,
+        "units": "E71 >BC124 R72 CM31X1 ?TAC35"
+    },
+    {
+        "id": "FF2400263",
+        "date": "2024-01-14",
+        "time": "11:03:09 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "44 DNA WAY ,SSF",
+        "latitude": 37.6563106137356,
+        "longitude": -122.379954498737,
+        "units": ">Q62"
     },
     {
         "id": "CF2400371",
@@ -19,7 +41,7 @@
         "location": "TROUSDALE DR #270 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "FF2400262",
@@ -28,39 +50,6 @@
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
         "location": "RAILROAD AVE #4 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "DF2400075",
-        "date": "2024-01-14",
-        "time": "10:39:53 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "QUEENS LN ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E17"
-    },
-    {
-        "id": "RF2400508",
-        "date": "2024-01-14",
-        "time": "10:38:31 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #311 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2400507",
-        "date": "2024-01-14",
-        "time": "10:27:57 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WALNUT ST #6 ,SNC",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -74,17 +63,6 @@
         "location": "95 HARBOR MASTER RD ,SSF",
         "latitude": 37.6634387941809,
         "longitude": -122.37858660283,
-        "units": ">E65 >Q62 >BOAT62"
-    },
-    {
-        "id": "MF2400416",
-        "date": "2024-01-14",
-        "time": "10:05:32 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Gas main break",
-        "location": "O'CONNOR ST / PULGAS AVE",
-        "latitude": 37.460959363394,
-        "longitude": -122.130076044922,
-        "units": ""
+        "units": ">BOAT62"
     }
 ]
