@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2400387",
+        "date": "2024-01-13",
+        "time": "7:39:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLARKE AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "RF2400485",
+        "date": "2024-01-13",
+        "time": "7:36:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "955 15TH AVE ,RCY",
+        "latitude": 37.4798155377017,
+        "longitude": -122.189611159458,
+        "units": ">E11"
+    },
+    {
+        "id": "NF2400551",
+        "date": "2024-01-13",
+        "time": "7:36:10 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESPI DR #N309 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
         "id": "MF2400386",
         "date": "2024-01-13",
         "time": "7:22:18 PM",
@@ -8,7 +41,7 @@
         "location": "LAUREL ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E6"
     },
     {
         "id": "SF2400579",
@@ -19,51 +52,7 @@
         "location": "FOSTER CITY BLVD ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "MF2400385",
-        "date": "2024-01-13",
-        "time": "7:15:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2400244",
-        "date": "2024-01-13",
-        "time": "7:10:29 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE #250 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "MF2400384",
-        "date": "2024-01-13",
-        "time": "7:08:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SANTA CLARA AVE ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "NF2400549",
-        "date": "2024-01-13",
-        "time": "6:54:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "696 CORONA DR ,PCF",
-        "latitude": 37.596794243189,
-        "longitude": -122.494242075532,
-        "units": ""
+        "units": "E28"
     },
     {
         "id": "RF2400484",
@@ -75,16 +64,5 @@
         "latitude": 37.4937189151269,
         "longitude": -122.222232491067,
         "units": ">E9"
-    },
-    {
-        "id": "NF2400548",
-        "date": "2024-01-13",
-        "time": "6:29:46 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 1 / NB 280",
-        "latitude": 37.7000224568024,
-        "longitude": -122.471351328495,
-        "units": ""
     }
 ]
