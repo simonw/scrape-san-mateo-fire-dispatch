@@ -1,14 +1,58 @@
 [
     {
-        "id": "BF2400155",
+        "id": "SF2400575",
         "date": "2024-01-13",
-        "time": "5:43:20 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "6:14:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "W POPLAR AVE / CRESCENT AVE",
+        "latitude": 37.5671652248337,
+        "longitude": -122.341317337766,
+        "units": "E32"
+    },
+    {
+        "id": "MF2400382",
+        "date": "2024-01-13",
+        "time": "6:10:16 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL #16A ,SNB",
+        "location": "EUCLID AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": ">E2"
+    },
+    {
+        "id": "FF2400242",
+        "date": "2024-01-13",
+        "time": "6:06:55 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD #312 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "RF2400482",
+        "date": "2024-01-13",
+        "time": "6:02:58 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BLOMQUIST ST #104A ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "SF2400574",
+        "date": "2024-01-13",
+        "time": "5:57:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MEZES AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
     },
     {
         "id": "FF2400241",
@@ -19,18 +63,7 @@
         "location": "SAN FELIPE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "SF2400573",
-        "date": "2024-01-13",
-        "time": "5:33:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S BAYSHORE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": "E64"
     },
     {
         "id": "FF2400240",
@@ -41,28 +74,6 @@
         "location": "BYRON DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "SF2400572",
-        "date": "2024-01-13",
-        "time": "5:26:27 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #104 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "SF2400571",
-        "date": "2024-01-13",
-        "time": "5:23:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "250 GRAMERCY DR ,SMO",
-        "latitude": 37.5684760059492,
-        "longitude": -122.33460989222,
-        "units": "*>E21"
+        "units": ""
     }
 ]
