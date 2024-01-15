@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2400540",
+        "date": "2024-01-15",
+        "time": "10:04:56 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE #3B ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E12 E10"
+    },
+    {
+        "id": "LF2400045",
+        "date": "2024-01-15",
+        "time": "10:04:49 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SWEETWOOD DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "FF2400291",
+        "date": "2024-01-15",
+        "time": "10:01:42 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Smoke investigation",
+        "location": "NB 101 / E GRAND AVE OFF RAMP",
+        "latitude": 37.6514075970698,
+        "longitude": -122.406744362994,
+        "units": "E51"
+    },
+    {
+        "id": "FF2400290",
+        "date": "2024-01-15",
+        "time": "9:56:04 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist, water problem",
+        "location": "256 E GRAND AVE ,SSF",
+        "latitude": 37.6526689326713,
+        "longitude": -122.396684705398,
+        "units": ">Q62"
+    },
+    {
+        "id": "SF2400639",
+        "date": "2024-01-15",
+        "time": "9:52:55 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "PULLMAN AVE / COVINGTON RD",
+        "latitude": 37.5152590850081,
+        "longitude": -122.296583375241,
+        "units": ">BC5 >E15 ?TAC16 CM11X2 >T17"
+    },
+    {
+        "id": "CF2400396",
+        "date": "2024-01-15",
+        "time": "9:44:58 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DOLORES WAY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38 CM21X2"
+    },
+    {
         "id": "MF2400446",
         "date": "2024-01-15",
         "time": "9:41:23 AM",
@@ -19,29 +85,7 @@
         "location": "OAKHURST PL ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2400444",
-        "date": "2024-01-15",
-        "time": "9:33:19 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BERKELEY AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
         "units": ">E1"
-    },
-    {
-        "id": "NF2400624",
-        "date": "2024-01-15",
-        "time": "9:31:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #208A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
     },
     {
         "id": "WF2400095",
@@ -52,29 +96,7 @@
         "location": "ALPINE RD ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "ERV7 E7 >R7 TAC15 CM11X1"
-    },
-    {
-        "id": "SF2400638",
-        "date": "2024-01-15",
-        "time": "9:25:32 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #104 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "CF2400395",
-        "date": "2024-01-15",
-        "time": "9:19:22 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DRAKE AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E35"
+        "units": "CM11X1 TAC15 >E7 >R7 >ERV7"
     },
     {
         "id": "CF2400393",
@@ -85,6 +107,6 @@
         "location": "EL CAMINO REAL #4 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">T34 CM21X1 >E34"
+        "units": ">E34"
     }
 ]
