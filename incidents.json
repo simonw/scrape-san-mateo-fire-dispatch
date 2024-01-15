@@ -1,14 +1,80 @@
 [
     {
-        "id": "RF2400540",
+        "id": "FF2400292",
         "date": "2024-01-15",
-        "time": "10:04:56 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:25:00 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "220 E GRAND AVE ,SSF",
+        "latitude": 37.6538499707907,
+        "longitude": -122.39890875819,
+        "units": "?Q62"
+    },
+    {
+        "id": "NF2400627",
+        "date": "2024-01-15",
+        "time": "10:22:05 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "JEFFERSON AVE #3B ,RCY",
+        "location": "SERRAMONTE CTR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12 E10"
+        "units": ">E94"
+    },
+    {
+        "id": "CF2400397",
+        "date": "2024-01-15",
+        "time": "10:21:40 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LA CRUZ AVE #7 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2400626",
+        "date": "2024-01-15",
+        "time": "10:14:21 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WERNER AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "BF2400184",
+        "date": "2024-01-15",
+        "time": "10:13:05 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LOWELL AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2400447",
+        "date": "2024-01-15",
+        "time": "10:12:14 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLARKE AVE #5 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2400541",
+        "date": "2024-01-15",
+        "time": "10:06:50 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FLORENCE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
     },
     {
         "id": "LF2400045",
@@ -19,29 +85,7 @@
         "location": "SWEETWOOD DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
-    },
-    {
-        "id": "FF2400291",
-        "date": "2024-01-15",
-        "time": "10:01:42 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Smoke investigation",
-        "location": "NB 101 / E GRAND AVE OFF RAMP",
-        "latitude": 37.6514075970698,
-        "longitude": -122.406744362994,
-        "units": "E51"
-    },
-    {
-        "id": "FF2400290",
-        "date": "2024-01-15",
-        "time": "9:56:04 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist, water problem",
-        "location": "256 E GRAND AVE ,SSF",
-        "latitude": 37.6526689326713,
-        "longitude": -122.396684705398,
-        "units": ">Q62"
+        "units": ""
     },
     {
         "id": "SF2400639",
@@ -52,40 +96,7 @@
         "location": "PULLMAN AVE / COVINGTON RD",
         "latitude": 37.5152590850081,
         "longitude": -122.296583375241,
-        "units": ">BC5 >E15 ?TAC16 CM11X2 >T17"
-    },
-    {
-        "id": "CF2400396",
-        "date": "2024-01-15",
-        "time": "9:44:58 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DOLORES WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38 CM21X2"
-    },
-    {
-        "id": "MF2400446",
-        "date": "2024-01-15",
-        "time": "9:41:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAN BENITO AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "MF2400445",
-        "date": "2024-01-15",
-        "time": "9:41:12 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAKHURST PL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": ">E15"
     },
     {
         "id": "WF2400095",
@@ -97,16 +108,5 @@
         "latitude": null,
         "longitude": null,
         "units": "CM11X1 TAC15 >E7 >R7 >ERV7"
-    },
-    {
-        "id": "CF2400393",
-        "date": "2024-01-15",
-        "time": "8:55:22 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #4 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
     }
 ]
