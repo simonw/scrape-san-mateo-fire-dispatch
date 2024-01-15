@@ -1,14 +1,58 @@
 [
     {
-        "id": "WF2400094",
+        "id": "MF2400432",
         "date": "2024-01-14",
-        "time": "8:36:47 PM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "9:02:35 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ECHO LN ,PVY",
+        "location": "WILLOW RD #210 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E8"
+        "units": "E77"
+    },
+    {
+        "id": "SF2400625",
+        "date": "2024-01-14",
+        "time": "8:59:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GRAND LN #215 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "FF2400273",
+        "date": "2024-01-14",
+        "time": "8:59:28 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALIDA WAY #210 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "FF2400272",
+        "date": "2024-01-14",
+        "time": "8:45:04 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CARTER DR #201 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "RF2400523",
+        "date": "2024-01-14",
+        "time": "8:44:36 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "NF2400604",
@@ -19,40 +63,7 @@
         "location": "ACTON ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "MF2400431",
-        "date": "2024-01-14",
-        "time": "8:28:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "1221 WILLOW RD #205 ,MNP",
-        "latitude": 37.4744612404316,
-        "longitude": -122.154159175064,
-        "units": ">E77"
-    },
-    {
-        "id": "RF2400522",
-        "date": "2024-01-14",
-        "time": "8:27:37 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY HARBOUR DR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "FF2400271",
-        "date": "2024-01-14",
-        "time": "8:09:38 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c2",
-        "location": "GRAND AVE / CHESTNUT AVE",
-        "latitude": 37.6596103507376,
-        "longitude": -122.430150117544,
-        "units": ">E63"
+        "units": "E92"
     },
     {
         "id": "CF2400382",
@@ -63,40 +74,7 @@
         "location": "LARKSPUR DR / UNDER 280",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "MF2400430",
-        "date": "2024-01-14",
-        "time": "7:54:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E1"
-    },
-    {
-        "id": "FF2400268",
-        "date": "2024-01-14",
-        "time": "7:36:11 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "200 AIRPORT BLVD ,SSF",
-        "latitude": 37.6537737847061,
-        "longitude": -122.407696406044,
-        "units": ">BC17 ?TAC35 >Q62 CM31X5 >E61"
-    },
-    {
-        "id": "HF2400117",
-        "date": "2024-01-14",
-        "time": "7:29:57 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "120 TROON WAY ,HMB",
-        "latitude": 37.4318242848154,
-        "longitude": -122.427551173979,
-        "units": "*>E40"
+        "units": "E38"
     },
     {
         "id": "HF2400116",
@@ -107,6 +85,6 @@
         "location": "140 BEACH WAY ,MBH",
         "latitude": 37.517782408402,
         "longitude": -122.512838006107,
-        "units": ">MED11 >CM41X1 >TAC45 E41 >E44>BC10"
+        "units": ">CM41X1 >TAC45 >E41 >E44 >BC10"
     }
 ]
