@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2400543",
+        "date": "2024-01-15",
+        "time": "10:41:37 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LINCOLN AVE #4 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "CF2400398",
+        "date": "2024-01-15",
+        "time": "10:40:37 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "RF2400542",
+        "date": "2024-01-15",
+        "time": "10:37:09 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "NF2400628",
+        "date": "2024-01-15",
+        "time": "10:30:44 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #229 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "FF2400292",
         "date": "2024-01-15",
         "time": "10:25:00 AM",
@@ -8,7 +52,7 @@
         "location": "220 E GRAND AVE ,SSF",
         "latitude": 37.6538499707907,
         "longitude": -122.39890875819,
-        "units": "?Q62"
+        "units": ">Q62"
     },
     {
         "id": "NF2400627",
@@ -22,17 +66,6 @@
         "units": ">E94"
     },
     {
-        "id": "CF2400397",
-        "date": "2024-01-15",
-        "time": "10:21:40 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LA CRUZ AVE #7 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
         "id": "NF2400626",
         "date": "2024-01-15",
         "time": "10:14:21 AM",
@@ -44,17 +77,6 @@
         "units": ">E92"
     },
     {
-        "id": "BF2400184",
-        "date": "2024-01-15",
-        "time": "10:13:05 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LOWELL AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
         "id": "MF2400447",
         "date": "2024-01-15",
         "time": "10:12:14 AM",
@@ -64,28 +86,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E2"
-    },
-    {
-        "id": "RF2400541",
-        "date": "2024-01-15",
-        "time": "10:06:50 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FLORENCE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "LF2400045",
-        "date": "2024-01-15",
-        "time": "10:04:49 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SWEETWOOD DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "SF2400639",
@@ -107,6 +107,6 @@
         "location": "ALPINE RD ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "CM11X1 TAC15 >E7 >R7 >ERV7"
+        "units": "CM11X1 TAC15 >E7 >ERV7"
     }
 ]
