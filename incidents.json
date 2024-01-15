@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2400602",
+        "id": "SF2400624",
         "date": "2024-01-14",
-        "time": "7:40:21 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "7:54:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "2302 BUENA VISTA AVE ,BLM",
+        "latitude": 37.5192321252559,
+        "longitude": -122.302438501183,
+        "units": ">E15"
+    },
+    {
+        "id": "MF2400430",
+        "date": "2024-01-14",
+        "time": "7:54:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "DOCKSIDE DR ,DCY",
+        "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": ">E1"
+    },
+    {
+        "id": "BF2400174",
+        "date": "2024-01-14",
+        "time": "7:53:45 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EASTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "FF2400270",
+        "date": "2024-01-14",
+        "time": "7:45:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "AIRPORT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
     },
     {
         "id": "FF2400268",
@@ -19,7 +52,7 @@
         "location": "200 AIRPORT BLVD ,SSF",
         "latitude": 37.6537737847061,
         "longitude": -122.407696406044,
-        "units": ">BC17 >E61 >Q62 T51 E65CM31X5 ?TAC35"
+        "units": ">BC17 ?TAC35 >Q62 CM31X5 >E61"
     },
     {
         "id": "SF2400623",
@@ -30,7 +63,7 @@
         "location": "DE SOTO LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
+        "units": "E29"
     },
     {
         "id": "HF2400117",
@@ -41,29 +74,7 @@
         "location": "120 TROON WAY ,HMB",
         "latitude": 37.4318242848154,
         "longitude": -122.427551173979,
-        "units": ">E40"
-    },
-    {
-        "id": "RF2400521",
-        "date": "2024-01-14",
-        "time": "7:29:43 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLUMBIA CIR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "MF2400429",
-        "date": "2024-01-14",
-        "time": "7:28:02 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ADAMS DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": "*>E40"
     },
     {
         "id": "HF2400116",
@@ -74,17 +85,6 @@
         "location": "140 BEACH WAY ,MBH",
         "latitude": 37.517782408402,
         "longitude": -122.512838006107,
-        "units": ">TAC45 MED11 >CM41X1 >E44 >BC10"
-    },
-    {
-        "id": "NF2400599",
-        "date": "2024-01-14",
-        "time": "7:00:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "60 CHESTER ST ,DCY",
-        "latitude": 37.686955085348,
-        "longitude": -122.45867515381,
-        "units": ">E92"
+        "units": ">TAC45 >MED11 >CM41X1 >E44 >BC10"
     }
 ]
