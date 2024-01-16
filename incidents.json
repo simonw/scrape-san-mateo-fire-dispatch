@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2400324",
+        "date": "2024-01-16",
+        "time": "11:59:56 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "141 ROSA FLORA CIR ,SSF",
+        "latitude": 37.6456039428502,
+        "longitude": -122.431296458757,
+        "units": "E64"
+    },
+    {
+        "id": "RF2400573",
+        "date": "2024-01-16",
+        "time": "11:56:05 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HANCOCK ST / WILLOW ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "SF2400680",
+        "date": "2024-01-16",
+        "time": "11:50:31 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "HF2400129",
         "date": "2024-01-16",
         "time": "11:37:21 AM",
@@ -8,40 +41,7 @@
         "location": "ARNOLD WAY #103 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "MF2400470",
-        "date": "2024-01-16",
-        "time": "11:37:12 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "BUCHANAN CT / CLARKE AVE",
-        "latitude": 37.4692952304314,
-        "longitude": -122.134879710983,
-        "units": ""
-    },
-    {
-        "id": "NF2400658",
-        "date": "2024-01-16",
-        "time": "11:33:59 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FAIRWAY DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "BF2400198",
-        "date": "2024-01-16",
-        "time": "11:31:08 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BALBOA WAY ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
+        "units": "*>E40"
     },
     {
         "id": "MF2400469",
@@ -53,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "SF2400679",
-        "date": "2024-01-16",
-        "time": "11:24:23 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST #405 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2400657",
-        "date": "2024-01-16",
-        "time": "11:16:25 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CERRO DR #B304 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "SF2400677",
-        "date": "2024-01-16",
-        "time": "10:37:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "501 N EL CAMINO REAL #7 ,SMO",
-        "latitude": 37.5711458855965,
-        "longitude": -122.337961149132,
-        "units": "*>E21"
     }
 ]
