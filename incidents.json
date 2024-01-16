@@ -1,5 +1,16 @@
 [
     {
+        "id": "FF2400309",
+        "date": "2024-01-15",
+        "time": "10:43:03 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Trash fire",
+        "location": "950 TRAIN TRACK ,SSF",
+        "latitude": 37.6503422538636,
+        "longitude": -122.40993354641,
+        "units": ">E61"
+    },
+    {
         "id": "FF2400308",
         "date": "2024-01-15",
         "time": "10:36:50 PM",
@@ -8,18 +19,7 @@
         "location": "APPIAN WAY #702  3 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "MF2400462",
-        "date": "2024-01-15",
-        "time": "10:21:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "200 INDEPENDENCE DR ,MNP",
-        "latitude": 37.4823630134144,
-        "longitude": -122.176694627587,
-        "units": ">E77"
+        "units": "E64"
     },
     {
         "id": "CF2400412",
@@ -30,7 +30,7 @@
         "location": "SB 101 / NO BROADWAY",
         "latitude": 37.5968398858127,
         "longitude": -122.371807046932,
-        "units": ">T34 >TAC25 >CM21X3 >E37"
+        "units": ">CM21X3 >T34 >E37 >TAC25"
     },
     {
         "id": "CF2400410",
@@ -41,6 +41,6 @@
         "location": "468 BLOOMFIELD RD ,BRM",
         "latitude": 37.5861548735307,
         "longitude": -122.343947758868,
-        "units": "?OESC >CM21X4 HM35 HM14 >E34>T21 >BC8 E21 HM34 ?ENVHAZ"
+        "units": "DEM56 >CM21X4 HM35 >HM14 >E34>T21 >BC8 >E21 HM34 >TAC26"
     }
 ]
