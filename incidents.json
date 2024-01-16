@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2400577",
+        "date": "2024-01-16",
+        "time": "12:42:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #202 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "SQ409"
+    },
+    {
+        "id": "RF2400576",
+        "date": "2024-01-16",
+        "time": "12:34:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHARTER ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "CF2400421",
+        "date": "2024-01-16",
+        "time": "12:32:09 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #12 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "FF2400325",
+        "date": "2024-01-16",
+        "time": "12:27:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HEMLOCK AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "RF2400575",
         "date": "2024-01-16",
         "time": "12:22:34 PM",
@@ -8,51 +52,7 @@
         "location": "820 VETERANS BLVD ,RCY",
         "latitude": 37.4902528458621,
         "longitude": -122.228926426151,
-        "units": "?TAC15 T9 CM11X3 BC3 E9"
-    },
-    {
-        "id": "LF2400050",
-        "date": "2024-01-16",
-        "time": "12:16:14 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLINS AVE #14 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "RF2400574",
-        "date": "2024-01-16",
-        "time": "12:15:16 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST #4 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "SF2400681",
-        "date": "2024-01-16",
-        "time": "12:14:21 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDISON ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
-    },
-    {
-        "id": "CF2400420",
-        "date": "2024-01-16",
-        "time": "12:10:57 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEARSVILLE CT ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
+        "units": "?TAC15 >T9 CM11X3 >BC3 >E9"
     },
     {
         "id": "MF2400469",
@@ -63,6 +63,6 @@
         "location": "EVERGREEN ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
+        "units": "E4"
     }
 ]
