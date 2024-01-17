@@ -1,25 +1,47 @@
 [
     {
+        "id": "SF2400717",
+        "date": "2024-01-17",
+        "time": "9:35:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALOMAR WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "CF2400435",
+        "date": "2024-01-17",
+        "time": "9:32:03 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "148 N ROLLINS RD ,MLB",
+        "latitude": 37.6011569439657,
+        "longitude": -122.384779856591,
+        "units": ">E37"
+    },
+    {
+        "id": "SF2400715",
+        "date": "2024-01-17",
+        "time": "9:25:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "344 LAKESIDE DR ,FCY",
+        "latitude": 37.5648467796939,
+        "longitude": -122.28341363475,
+        "units": ">BC5 >T23 >E29 CM21X4 ?TAC25"
+    },
+    {
         "id": "RF2400612",
         "date": "2024-01-17",
         "time": "9:24:56 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
+        "location": "MAPLE ST #1044 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E9"
-    },
-    {
-        "id": "MF2400504",
-        "date": "2024-01-17",
-        "time": "9:20:42 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KAVANAUGH DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E9"
     },
     {
         "id": "SF2400714",
@@ -30,7 +52,7 @@
         "location": "RALSTON AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
+        "units": "CM11X1 T21 >E15"
     },
     {
         "id": "NF2400696",
@@ -53,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E16"
-    },
-    {
-        "id": "NF2400695",
-        "date": "2024-01-17",
-        "time": "9:11:27 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
     }
 ]
