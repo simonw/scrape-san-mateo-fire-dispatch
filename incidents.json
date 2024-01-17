@@ -1,25 +1,58 @@
 [
     {
-        "id": "MF2400481",
+        "id": "FF2400332",
         "date": "2024-01-16",
-        "time": "6:43:29 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "7:05:34 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "AVE ,NFO",
+        "location": "CATHERINE DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E5"
+        "units": "?E63"
     },
     {
-        "id": "MF2400480",
+        "id": "MF2400482",
         "date": "2024-01-16",
-        "time": "6:42:56 PM",
+        "time": "7:00:56 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ASPEN PL ,EPA",
+        "location": "MIDDLEFIELD RD / 5TH AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E5 BC1 CM11X3 ?TAC15"
+    },
+    {
+        "id": "SF2400697",
+        "date": "2024-01-16",
+        "time": "6:53:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CONCAR DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "SF2400696",
+        "date": "2024-01-16",
+        "time": "6:52:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c2",
+        "location": "1200 E HILLSDALE BLVD ,FCY",
+        "latitude": 37.5668491378945,
+        "longitude": -122.266869631509,
+        "units": ">E29"
+    },
+    {
+        "id": "SF2400695",
+        "date": "2024-01-16",
+        "time": "6:52:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALMA LN #421 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
     },
     {
         "id": "NF2400673",
@@ -30,18 +63,7 @@
         "location": "815 CAPE BRETON DR ,PCF",
         "latitude": 37.5950708680739,
         "longitude": -122.460977291481,
-        "units": ">E72 CM31X1 T95 BC122 E71E52 ?TAC36"
-    },
-    {
-        "id": "SF2400694",
-        "date": "2024-01-16",
-        "time": "6:25:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PROMONTORY POINT LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ">BC122 CM31X1 >E71 ?TAC36 >E72"
     },
     {
         "id": "NF2400672",
@@ -52,28 +74,6 @@
         "location": "JOHN PAPAN CT ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "NF2400671",
-        "date": "2024-01-16",
-        "time": "6:14:07 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / NO JUNIPERO SERRA BLVD",
-        "latitude": 37.6910747370299,
-        "longitude": -122.470249903821,
-        "units": ">BC20"
-    },
-    {
-        "id": "WF2400100",
-        "date": "2024-01-16",
-        "time": "5:19:42 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PINE RIDGE WAY ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E8"
+        "units": "E64"
     }
 ]
