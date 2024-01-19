@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2400564",
+        "date": "2024-01-19",
+        "time": "12:41:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PULGAS AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "SF2400829",
+        "date": "2024-01-19",
+        "time": "12:39:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "320 ELM ST #203 ,SMO",
+        "latitude": 37.5708468701725,
+        "longitude": -122.332304267387,
+        "units": "E21"
+    },
+    {
+        "id": "DF2400092",
+        "date": "2024-01-19",
+        "time": "12:30:25 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "3100 CABRILLO HWY ,SOS",
+        "latitude": 37.1400935466799,
+        "longitude": -122.318278677054,
+        "units": "E659 E1767 E40 R57 E59BC15"
+    },
+    {
+        "id": "NF2400773",
+        "date": "2024-01-19",
+        "time": "12:24:29 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "680 HEATHER CT ,PCF",
+        "latitude": 37.6439270513801,
+        "longitude": -122.47096710254,
+        "units": ">E64"
+    },
+    {
         "id": "WF2400113",
         "date": "2024-01-19",
         "time": "12:24:20 PM",
@@ -8,7 +52,7 @@
         "location": "PORTOLA RD ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "?E8"
+        "units": ">E8"
     },
     {
         "id": "SF2400828",
@@ -19,39 +63,6 @@
         "location": "6TH AVE / EMMETT AVE",
         "latitude": 37.5186234993412,
         "longitude": -122.276572466328,
-        "units": ">E14 >BC11 T23 CM11X1 ?TAC15"
-    },
-    {
-        "id": "SF2400827",
-        "date": "2024-01-19",
-        "time": "12:19:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #136 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2400563",
-        "date": "2024-01-19",
-        "time": "12:02:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "FF2400390",
-        "date": "2024-01-19",
-        "time": "11:34:55 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HARBOR MASTER RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": ">E14"
     }
 ]
