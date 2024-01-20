@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2400595",
+        "id": "DF2400098",
         "date": "2024-01-20",
-        "time": "6:59:25 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "7:23:35 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 280 / SO 92",
+        "latitude": 37.5010326373211,
+        "longitude": -122.325975079224,
+        "units": "?TAC16 ?CM11X1 ?E17 ?BC11 ?E18?T17"
+    },
+    {
+        "id": "WF2400118",
+        "date": "2024-01-20",
+        "time": "7:19:34 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "CANADA RD / GLENWOOD AVE",
+        "latitude": 37.4359541095776,
+        "longitude": -122.260180583654,
+        "units": "R7"
+    },
+    {
+        "id": "CF2400501",
+        "date": "2024-01-20",
+        "time": "7:15:21 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "WEEKS ST ,EPA",
+        "location": "COZZOLINO DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ">E37"
+    },
+    {
+        "id": "NF2400812",
+        "date": "2024-01-20",
+        "time": "7:11:15 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "FF2400407",
@@ -30,18 +63,7 @@
         "location": "FLEETWOOD DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "HF2400177",
-        "date": "2024-01-20",
-        "time": "6:16:28 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "1000 N CABRILLO HWY ,HMB",
-        "latitude": 37.4745140988646,
-        "longitude": -122.441500598502,
-        "units": "*>E40"
+        "units": ""
     },
     {
         "id": "NF2400811",
@@ -63,6 +85,6 @@
         "location": "247 HILLVIEW AVE ,RCY",
         "latitude": 37.4759040261239,
         "longitude": -122.248332858147,
-        "units": ">TAC15 >CM11X3 >BC3 >E10 >E12"
+        "units": ">TAC15 >CM11X3 >E10 >E12"
     }
 ]
