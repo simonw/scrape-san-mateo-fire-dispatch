@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2400588",
+        "date": "2024-01-19",
+        "time": "8:24:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VINE ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "RF2400735",
+        "date": "2024-01-19",
+        "time": "8:18:12 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TAFT ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "CF2400494",
+        "date": "2024-01-19",
+        "time": "8:05:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #242 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "MF2400587",
         "date": "2024-01-19",
         "time": "8:04:54 PM",
@@ -8,7 +41,7 @@
         "location": "FORDHAM ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "WF2400115",
@@ -19,29 +52,7 @@
         "location": "272 ELEANOR DR ,WDS",
         "latitude": 37.438168913348,
         "longitude": -122.236714262183,
-        "units": "R7"
-    },
-    {
-        "id": "FF2400396",
-        "date": "2024-01-19",
-        "time": "7:57:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "N ACCESS RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "FF2400395",
-        "date": "2024-01-19",
-        "time": "7:45:56 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "PINEHURST WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": ">R7"
     },
     {
         "id": "SF2400841",
@@ -53,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "SF2400840",
-        "date": "2024-01-19",
-        "time": "7:38:42 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N GRANT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
     }
 ]
