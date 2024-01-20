@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2400589",
+        "date": "2024-01-19",
+        "time": "11:17:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "400 WALSH RD ,ATN",
+        "latitude": 37.4290456214609,
+        "longitude": -122.222227926139,
+        "units": "E4"
+    },
+    {
+        "id": "CF2400498",
+        "date": "2024-01-19",
+        "time": "11:12:09 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OAK GROVE AVE #4 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2400852",
+        "date": "2024-01-19",
+        "time": "11:07:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "3352 KIMBERLY WAY ,SMO",
+        "latitude": 37.5380619157209,
+        "longitude": -122.280488944187,
+        "units": ">E26"
+    },
+    {
         "id": "BF2400252",
         "date": "2024-01-19",
         "time": "11:02:17 PM",
@@ -8,28 +41,6 @@
         "location": "HUNTINGTON AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "SF2400851",
-        "date": "2024-01-19",
-        "time": "11:00:53 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREVIEW AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "RF2400742",
-        "date": "2024-01-19",
-        "time": "10:49:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HILLCREST DR ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">E61"
     }
 ]
