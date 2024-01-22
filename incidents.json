@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2400819",
+        "date": "2024-01-22",
+        "time": "2:20:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "589 LANCASTER WAY ,RCY",
+        "latitude": 37.4697293943242,
+        "longitude": -122.247933082394,
+        "units": ">E12"
+    },
+    {
+        "id": "FF2400454",
+        "date": "2024-01-22",
+        "time": "2:14:50 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "170 MITCHELL AVE ,SSF",
+        "latitude": 37.6488196557834,
+        "longitude": -122.40133001017,
+        "units": ""
+    },
+    {
+        "id": "HF2400191",
+        "date": "2024-01-22",
+        "time": "2:13:21 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SUNSET TE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
         "id": "NF2400927",
         "date": "2024-01-22",
         "time": "2:01:19 PM",
@@ -8,29 +41,7 @@
         "location": "SB 280 / NO EASTMOOR AVE",
         "latitude": 37.6870119736043,
         "longitude": -122.471397012826,
-        "units": "T51 ?TAC36 ?CM31X5 ?E64 ?BC122?E94"
-    },
-    {
-        "id": "NF2400926",
-        "date": "2024-01-22",
-        "time": "1:59:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "2450 JUNIPERO SERRA BLVD ,DCY",
-        "latitude": 37.6920456593141,
-        "longitude": -122.471488988031,
-        "units": ">BC20 T95 E95 ?TAC35 ?CM31X4"
-    },
-    {
-        "id": "NF2400925",
-        "date": "2024-01-22",
-        "time": "1:57:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HILLCREST DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ">T95"
     },
     {
         "id": "SF2400966",
@@ -41,39 +52,6 @@
         "location": "1000 FOSTER CITY BLVD #2101 ,FCY",
         "latitude": 37.5542924364872,
         "longitude": -122.258297969711,
-        "units": "BC8 >BC5 E23 >T21 T23E15 >E26 >E29 >E28 CM21X4"
-    },
-    {
-        "id": "RF2400818",
-        "date": "2024-01-22",
-        "time": "1:52:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "223 TWIN DOLPHIN DR ,RWS",
-        "latitude": 37.5236648128766,
-        "longitude": -122.261017387382,
-        "units": "?TAC15 >E14 T9 >E20 BC3CM11X2 >E13"
-    },
-    {
-        "id": "NF2400924",
-        "date": "2024-01-22",
-        "time": "1:50:38 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BARTON PL ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "CF2400544",
-        "date": "2024-01-22",
-        "time": "1:38:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "POPPY DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
+        "units": ">TO5 CM21X4 >E15 >E23 >E29>E28 >T21 >BC5 >PR5B >PR5F"
     }
 ]
