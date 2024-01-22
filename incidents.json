@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2400928",
+        "date": "2024-01-22",
+        "time": "2:36:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PONCETTA DR #216 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "RF2400820",
+        "date": "2024-01-22",
+        "time": "2:33:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TWIN DOLPHIN DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "SF2400970",
+        "date": "2024-01-22",
+        "time": "2:31:10 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BLOCK JASMINE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "SF2400969",
+        "date": "2024-01-22",
+        "time": "2:28:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "10 SCENIC WAY #112 ,SMO",
+        "latitude": 37.5343554713348,
+        "longitude": -122.324063123238,
+        "units": ">E27"
+    },
+    {
         "id": "RF2400819",
         "date": "2024-01-22",
         "time": "2:20:05 PM",
@@ -11,39 +55,6 @@
         "units": ">E12"
     },
     {
-        "id": "FF2400454",
-        "date": "2024-01-22",
-        "time": "2:14:50 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "170 MITCHELL AVE ,SSF",
-        "latitude": 37.6488196557834,
-        "longitude": -122.40133001017,
-        "units": ""
-    },
-    {
-        "id": "HF2400191",
-        "date": "2024-01-22",
-        "time": "2:13:21 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SUNSET TE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "NF2400927",
-        "date": "2024-01-22",
-        "time": "2:01:19 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / NO EASTMOOR AVE",
-        "latitude": 37.6870119736043,
-        "longitude": -122.471397012826,
-        "units": ">T95"
-    },
-    {
         "id": "SF2400966",
         "date": "2024-01-22",
         "time": "1:53:25 PM",
@@ -52,6 +63,6 @@
         "location": "1000 FOSTER CITY BLVD #2101 ,FCY",
         "latitude": 37.5542924364872,
         "longitude": -122.258297969711,
-        "units": ">TO5 CM21X4 >E15 >E23 >E29>E28 >T21 >BC5 >PR5B >PR5F"
+        "units": ">TO5 CM21X4 >E23 >E29 >E28>T21 >BC5 >PR5B >PR5F ?TAC25"
     }
 ]
