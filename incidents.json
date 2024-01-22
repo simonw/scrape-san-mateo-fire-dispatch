@@ -8,7 +8,7 @@
         "location": "NB 280 / SO JOHN DALY BLVD",
         "latitude": 37.7034101220142,
         "longitude": -122.471313233753,
-        "units": "?TAC35 ?CM31X2 ?E92 ?BC124 ?E94?T95"
+        "units": ">T95 >E92 >BC124 CM31X2 >E94?TAC35"
     },
     {
         "id": "SF2400935",
@@ -19,18 +19,29 @@
         "location": "ALDERWOOD CT ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
+        "units": ">E27"
     },
     {
-        "id": "SF2400934",
+        "id": "NF2400892",
         "date": "2024-01-21",
-        "time": "10:22:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CASA DE CAMPO #5 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E26"
+        "time": "10:26:30 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "1053 CRESPI DR ,PCF",
+        "latitude": 37.5913927545005,
+        "longitude": -122.48780058855,
+        "units": ">E72"
+    },
+    {
+        "id": "CF2400532",
+        "date": "2024-01-21",
+        "time": "10:25:24 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "500 PEPPER AVE ,HIL",
+        "latitude": 37.5758614874868,
+        "longitude": -122.3555069571,
+        "units": ">E34"
     },
     {
         "id": "NF2400888",
@@ -42,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E64"
-    },
-    {
-        "id": "NF2400887",
-        "date": "2024-01-21",
-        "time": "10:19:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Pole fire",
-        "location": "MENLO AVE / SKYLINE DR",
-        "latitude": 37.6753459191113,
-        "longitude": -122.490310553434,
-        "units": ">E95"
-    },
-    {
-        "id": "FF2400438",
-        "date": "2024-01-21",
-        "time": "10:05:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #BED22 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
     }
 ]
