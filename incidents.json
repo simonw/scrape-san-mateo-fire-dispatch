@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2400809",
+        "date": "2024-01-22",
+        "time": "11:17:16 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "600 ROOSEVELT AVE ,RCY",
+        "latitude": 37.4752725868852,
+        "longitude": -122.230695373031,
+        "units": ">BC3 >E10 >CM11X3 T4 ?TAC15"
+    },
+    {
+        "id": "SF2400960",
+        "date": "2024-01-22",
+        "time": "11:12:50 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "EB 92 / EO W HILLSDALE BLVD",
+        "latitude": 37.5419775538365,
+        "longitude": -122.329586543087,
+        "units": ">E23 >E15 >T17 >BC11 CM21X3?TAC25"
+    },
+    {
+        "id": "RF2400808",
+        "date": "2024-01-22",
+        "time": "11:12:16 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "1725 OLD COUNTY RD ,SNC",
+        "latitude": 37.4956295043737,
+        "longitude": -122.245020305231,
+        "units": ">E13"
+    },
+    {
         "id": "SF2400959",
         "date": "2024-01-22",
         "time": "10:59:24 AM",
@@ -8,18 +41,7 @@
         "location": "PALOS VERDES DR #3 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
-    },
-    {
-        "id": "WF2400136",
-        "date": "2024-01-22",
-        "time": "10:56:09 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO EDGEWOOD RD",
-        "latitude": 37.4503547561209,
-        "longitude": -122.278505928096,
-        "units": ""
+        "units": "*>E25"
     },
     {
         "id": "LF2400070",
@@ -30,28 +52,6 @@
         "location": "MISSION RD #206 ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E86 >BC19 CM31X1"
-    },
-    {
-        "id": "MF2400651",
-        "date": "2024-01-22",
-        "time": "10:40:16 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NOTTINGHAM AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2400135",
-        "date": "2024-01-22",
-        "time": "10:31:51 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "JOAQUIN RD / ALPINE RD",
-        "latitude": 37.3425761302842,
-        "longitude": -122.204112437112,
-        "units": "*>E8"
+        "units": "CM31X1"
     }
 ]
