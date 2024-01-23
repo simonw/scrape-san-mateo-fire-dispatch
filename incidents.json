@@ -1,14 +1,58 @@
 [
     {
-        "id": "FF2400468",
+        "id": "BF2400298",
         "date": "2024-01-23",
-        "time": "9:56:58 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "10:25:15 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "725 EASTON AVE ,SNB",
+        "latitude": 37.628191164216,
+        "longitude": -122.41379289703,
+        "units": "E61"
+    },
+    {
+        "id": "NF2400955",
+        "date": "2024-01-23",
+        "time": "10:20:20 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "300 WASHINGTON ST ,DCY",
+        "latitude": 37.6881621443409,
+        "longitude": -122.472429942339,
+        "units": ">T95"
+    },
+    {
+        "id": "BF2400297",
+        "date": "2024-01-23",
+        "time": "10:17:50 AM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "CORPORATE DR / GATEWAY BLVD",
+        "location": "EL CAMINO REAL ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">Q62"
+        "units": ">T51"
+    },
+    {
+        "id": "SF2401006",
+        "date": "2024-01-23",
+        "time": "10:12:18 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NORTON ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2400954",
+        "date": "2024-01-23",
+        "time": "10:08:07 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
     },
     {
         "id": "CF2400563",
@@ -19,28 +63,6 @@
         "location": "1775 MARCO POLO WAY ,BRM",
         "latitude": 37.5907683397434,
         "longitude": -122.386294718611,
-        "units": ">T34"
-    },
-    {
-        "id": "FF2400467",
-        "date": "2024-01-23",
-        "time": "9:50:51 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ESCANYO DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2400562",
-        "date": "2024-01-23",
-        "time": "9:48:31 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RICHMOND DR #1 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": "?E37 E35 CM21X1 >T34"
     }
 ]
