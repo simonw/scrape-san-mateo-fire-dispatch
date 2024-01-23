@@ -1,14 +1,69 @@
 [
     {
-        "id": "WF2400140",
+        "id": "MF2400670",
         "date": "2024-01-23",
-        "time": "7:58:29 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Smoke investigation",
-        "location": "SAND HILL RD / LAWLER RANCH RD",
-        "latitude": 37.4182238763792,
-        "longitude": -122.225329219367,
-        "units": "E7"
+        "time": "8:26:48 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "156 HAWTHORNE DR ,ATN",
+        "latitude": 37.4664717432525,
+        "longitude": -122.184215398484,
+        "units": "E5"
+    },
+    {
+        "id": "RF2400840",
+        "date": "2024-01-23",
+        "time": "8:21:08 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAPLE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "RF2400838",
+        "date": "2024-01-23",
+        "time": "8:17:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "794 INDUSTRIAL RD ,SNC",
+        "latitude": 37.507597040643,
+        "longitude": -122.252269150856,
+        "units": "CM11X4 ?RCFINV >E14 >T9 ?TAC16>BC3 >E13"
+    },
+    {
+        "id": "BF2400296",
+        "date": "2024-01-23",
+        "time": "8:17:11 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "1000 NATIONAL AVE ,SNB",
+        "latitude": 37.6330851842369,
+        "longitude": -122.421275946215,
+        "units": ">E51"
+    },
+    {
+        "id": "SF2400998",
+        "date": "2024-01-23",
+        "time": "8:16:04 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DURAND DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "BF2400295",
+        "date": "2024-01-23",
+        "time": "8:11:39 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BENNINGTON DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     },
     {
         "id": "WF2400139",
@@ -19,7 +74,7 @@
         "location": "MOUNTAIN MEADOW DR / SKYLINE BLVD",
         "latitude": 37.3985411621926,
         "longitude": -122.292796635906,
-        "units": "?TAC15 R7 >E58 CM11X2 BC15R56"
+        "units": "?TAC15 *>E58 CM11X2 >BC15 >R56"
     },
     {
         "id": "SF2400997",
@@ -30,6 +85,6 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": "E21"
     }
 ]
