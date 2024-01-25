@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2400632",
+        "date": "2024-01-25",
+        "time": "3:43:28 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #191 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "T34"
+    },
+    {
+        "id": "MF2400745",
+        "date": "2024-01-25",
+        "time": "3:40:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "CF2400631",
+        "date": "2024-01-25",
+        "time": "3:37:20 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "1324 EDGEHILL DR ,BRM",
+        "latitude": 37.5828331191281,
+        "longitude": -122.358994303984,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2401126",
+        "date": "2024-01-25",
+        "time": "3:27:13 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "916 S NORFOLK ST ,SMO",
+        "latitude": 37.5678757573985,
+        "longitude": -122.305962296937,
+        "units": ">E24"
+    },
+    {
         "id": "FF2400514",
         "date": "2024-01-25",
         "time": "3:22:33 PM",
@@ -8,7 +52,7 @@
         "location": "EL CAMINO REAL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E63"
     },
     {
         "id": "RF2400941",
@@ -19,18 +63,7 @@
         "location": "PAGE ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
-    },
-    {
-        "id": "MF2400744",
-        "date": "2024-01-25",
-        "time": "3:19:20 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MENALTO AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
+        "units": ">E11"
     },
     {
         "id": "SF2401125",
@@ -44,48 +77,15 @@
         "units": ">E23"
     },
     {
-        "id": "NF2401040",
-        "date": "2024-01-25",
-        "time": "3:15:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #201 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "DF2400134",
-        "date": "2024-01-25",
-        "time": "3:08:50 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROXBURY LN ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E17"
-    },
-    {
-        "id": "SF2401123",
-        "date": "2024-01-25",
-        "time": "3:07:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDISON ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E29"
-    },
-    {
         "id": "SF2401122",
         "date": "2024-01-25",
         "time": "3:06:03 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Structure fire",
+        "category": "Structure fire - working",
         "location": "181 IRENE CT ,BLM",
         "latitude": 37.5264324723285,
         "longitude": -122.292703529667,
-        "units": "?TAC15 >E14 E25 E16 CM11X5>BC5 >E13 >T23 >E26"
+        "units": "PR5A >E25 ?TAC15 >E14 CM11X5>E16 >BC5 >E13 PR5B PR5E"
     },
     {
         "id": "HF2400210",
