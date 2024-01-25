@@ -1,5 +1,27 @@
 [
     {
+        "id": "HF2400209",
+        "date": "2024-01-25",
+        "time": "11:21:45 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "475 GROVE ST ,HMB",
+        "latitude": 37.4551627936716,
+        "longitude": -122.434749601747,
+        "units": "?E40"
+    },
+    {
+        "id": "MF2400735",
+        "date": "2024-01-25",
+        "time": "11:18:35 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #1 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "CF2400625",
         "date": "2024-01-25",
         "time": "11:04:45 AM",
@@ -8,7 +30,7 @@
         "location": "BROADWAY #1224 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "?E38"
+        "units": ">E38"
     },
     {
         "id": "MF2400734",
@@ -20,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E3"
-    },
-    {
-        "id": "FF2400510",
-        "date": "2024-01-25",
-        "time": "10:59:53 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "239 ROCKWOOD DR ,SSF",
-        "latitude": 37.6374976397267,
-        "longitude": -122.428446986349,
-        "units": "E63 E61 T51 TO17 E64BC17 CM31X1 ?TAC35"
-    },
-    {
-        "id": "FF2400509",
-        "date": "2024-01-25",
-        "time": "10:50:41 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA LOMA DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "MF2400733",
-        "date": "2024-01-25",
-        "time": "10:36:51 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EUCLID AVE #7 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
     }
 ]
