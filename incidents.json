@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2401102",
+        "date": "2024-01-25",
+        "time": "6:01:01 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ELM ST #301 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "HF2400206",
+        "date": "2024-01-25",
+        "time": "5:49:15 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALENCIA AVE ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
         "id": "RF2400919",
         "date": "2024-01-25",
         "time": "5:41:39 AM",
@@ -8,28 +30,6 @@
         "location": "255 SHORELINE DR ,RWS",
         "latitude": 37.5248207626272,
         "longitude": -122.259033965084,
-        "units": "?TAC15 ?CM11X2 ?BC3 ?T9 ?E20"
-    },
-    {
-        "id": "SF2401101",
-        "date": "2024-01-25",
-        "time": "5:35:36 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COUNTRYSIDE DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "NF2401028",
-        "date": "2024-01-25",
-        "time": "5:01:18 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "JUNIPERO SERRA BLVD / KING DR",
-        "latitude": 37.6546349478985,
-        "longitude": -122.4530008848,
-        "units": ">E64"
+        "units": "TAC15 >E20 >T9 ?CM11X2 >BC3"
     }
 ]
