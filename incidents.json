@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2401052",
+        "date": "2024-01-25",
+        "time": "9:57:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EASTMOOR AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2401140",
+        "date": "2024-01-25",
+        "time": "9:47:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "WB 92 / EO 101",
+        "latitude": 37.5555095273839,
+        "longitude": -122.287603147109,
+        "units": ">E28 CM21X3 >T23 ?TAC26"
+    },
+    {
         "id": "RF2400960",
         "date": "2024-01-25",
         "time": "9:41:22 PM",
@@ -8,7 +30,7 @@
         "location": "2666 SAN CARLOS AVE ,SNC",
         "latitude": 37.5076860174728,
         "longitude": -122.28268401464,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "DF2400137",
@@ -19,29 +41,7 @@
         "location": "1 MONTARA STATE BEACH RD ,SON",
         "latitude": 37.5518557904059,
         "longitude": -122.51226806474,
-        "units": "E41 ?TAC45 ?E44 ?CM41X3 BC10"
-    },
-    {
-        "id": "CF2400644",
-        "date": "2024-01-25",
-        "time": "9:30:07 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL / CARMELITA AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2400761",
-        "date": "2024-01-25",
-        "time": "9:05:35 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLEMAN PL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E1"
+        "units": "?TAC45 >E44 CM41X3 >BC10"
     },
     {
         "id": "RF2400959",
@@ -52,7 +52,7 @@
         "location": "CHELSEA WAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "CF2400641",
@@ -63,6 +63,6 @@
         "location": "2857 MARIPOSA DR ,BRM",
         "latitude": 37.5830898817336,
         "longitude": -122.396241431975,
-        "units": ">BC17 >BS17 >T51 >BC121 >T34>BC16 >E37 >E32 >E34 >E64"
+        "units": ">BC17 PR8D >BS17 >T51 >BC121>T34 >BC16 >E37 >E32 >E34"
     }
 ]
