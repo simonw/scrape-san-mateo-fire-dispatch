@@ -1,36 +1,47 @@
 [
     {
-        "id": "SF2401139",
+        "id": "RF2400959",
         "date": "2024-01-25",
-        "time": "8:33:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:03:51 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "N ELLSWORTH AVE ,SMO",
+        "location": "CHELSEA WAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": "E10"
     },
     {
-        "id": "FF2400519",
+        "id": "WF2400163",
         "date": "2024-01-25",
-        "time": "8:28:00 PM",
+        "time": "8:57:45 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Smoke investigation",
+        "location": "CANADA RD / LANING DR",
+        "latitude": 37.4387601716625,
+        "longitude": -122.263195675522,
+        "units": ">E19"
+    },
+    {
+        "id": "CF2400641",
+        "date": "2024-01-25",
+        "time": "8:53:43 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Structure fire - working",
+        "location": "2857 MARIPOSA DR ,BRM",
+        "latitude": 37.5830898817336,
+        "longitude": -122.396241431975,
+        "units": ">T34 >E38 >E33 E51 BC16E37 >E35 BC8 CM21X2 ?TAC25"
+    },
+    {
+        "id": "FF2400520",
+        "date": "2024-01-25",
+        "time": "8:52:54 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "ALTA MESA DR ,SSF",
+        "location": "UNWIN CT ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "NF2401050",
-        "date": "2024-01-25",
-        "time": "8:19:02 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY DR #141 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E64"
     },
     {
         "id": "SF2401138",
@@ -41,6 +52,6 @@
         "location": "E 5TH AVE / S ELDORADO ST",
         "latitude": 37.5662844709669,
         "longitude": -122.317777569064,
-        "units": "CM21X4 >T21 ?TAC25 >E24"
+        "units": "*>E24"
     }
 ]
