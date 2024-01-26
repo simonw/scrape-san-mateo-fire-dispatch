@@ -1,14 +1,25 @@
 [
     {
-        "id": "WF2400169",
+        "id": "CF2400666",
         "date": "2024-01-26",
-        "time": "1:17:34 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "4575 ALPINE RD ,PVY",
-        "latitude": 37.367932527049,
-        "longitude": -122.212063051273,
-        "units": ""
+        "time": "1:39:07 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MYRTLE RD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "RF2400986",
+        "date": "2024-01-26",
+        "time": "1:23:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "199 SEAPORT BLVD ,RCY",
+        "latitude": 37.4973569461882,
+        "longitude": -122.213328510593,
+        "units": "?TAC15 CM11X2 >BC3 >E77 >E9>E5"
     },
     {
         "id": "CF2400665",
@@ -19,7 +30,7 @@
         "location": "1501 TROUSDALE DR ,BRM",
         "latitude": 37.5922302606011,
         "longitude": -122.383176480929,
-        "units": "E34"
+        "units": ">E34"
     },
     {
         "id": "RF2400984",
@@ -30,18 +41,7 @@
         "location": "1100 INDUSTRIAL RD #12 ,SNC",
         "latitude": 37.5029645735567,
         "longitude": -122.248660616537,
-        "units": "?RCFINV >E13"
-    },
-    {
-        "id": "MF2400788",
-        "date": "2024-01-26",
-        "time": "1:07:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALMA ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": ">PR3D"
     },
     {
         "id": "CF2400664",
@@ -53,16 +53,5 @@
         "latitude": 37.5954836542456,
         "longitude": -122.382771993222,
         "units": ">T34"
-    },
-    {
-        "id": "CF2400663",
-        "date": "2024-01-26",
-        "time": "12:52:08 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #305 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
