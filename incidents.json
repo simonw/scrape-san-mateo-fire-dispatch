@@ -1,47 +1,58 @@
 [
     {
-        "id": "MF2400787",
+        "id": "WF2400169",
         "date": "2024-01-26",
-        "time": "1:02:27 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "T2"
+        "time": "1:17:34 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "4575 ALPINE RD ,PVY",
+        "latitude": 37.367932527049,
+        "longitude": -122.212063051273,
+        "units": ""
     },
     {
-        "id": "RF2400983",
+        "id": "CF2400665",
         "date": "2024-01-26",
-        "time": "1:01:49 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "1:15:00 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Elevator rescue",
-        "location": "707 LEAHY ST ,RCY",
-        "latitude": 37.4702118714814,
-        "longitude": -122.215220792766,
-        "units": "E6"
+        "location": "1501 TROUSDALE DR ,BRM",
+        "latitude": 37.5922302606011,
+        "longitude": -122.383176480929,
+        "units": "E34"
     },
     {
-        "id": "RF2400982",
+        "id": "RF2400984",
         "date": "2024-01-26",
-        "time": "12:55:11 PM",
+        "time": "1:12:42 PM",
         "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1100 INDUSTRIAL RD #12 ,SNC",
+        "latitude": 37.5029645735567,
+        "longitude": -122.248660616537,
+        "units": "?RCFINV >E13"
+    },
+    {
+        "id": "MF2400788",
+        "date": "2024-01-26",
+        "time": "1:07:57 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "HURLINGAME AVE ,NFO",
+        "location": "ALMA ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": ">E1"
     },
     {
-        "id": "MF2400786",
+        "id": "CF2400664",
         "date": "2024-01-26",
-        "time": "12:54:22 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1345 WILLOW RD ,MNP",
-        "latitude": 37.477802591888,
-        "longitude": -122.152516832066,
-        "units": ">E77"
+        "time": "1:07:37 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1100 TROUSDALE DR ,BRM",
+        "latitude": 37.5954836542456,
+        "longitude": -122.382771993222,
+        "units": ">T34"
     },
     {
         "id": "CF2400663",
@@ -53,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "MF2400785",
-        "date": "2024-01-26",
-        "time": "12:48:32 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #35 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2400532",
-        "date": "2024-01-26",
-        "time": "12:45:52 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BAYCREST WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "SF2401161",
-        "date": "2024-01-26",
-        "time": "12:42:37 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Gas main break",
-        "location": "100 PORT ROYAL AVE ,FCY",
-        "latitude": 37.5359759509908,
-        "longitude": -122.277110356626,
-        "units": "*>E29"
     }
 ]
