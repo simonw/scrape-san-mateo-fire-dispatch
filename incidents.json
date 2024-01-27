@@ -1,57 +1,68 @@
 [
     {
+        "id": "LF2400085",
+        "date": "2024-01-26",
+        "time": "5:30:55 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E86"
+    },
+    {
+        "id": "FF2400541",
+        "date": "2024-01-26",
+        "time": "5:22:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SERRA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "WF2400172",
+        "date": "2024-01-26",
+        "time": "5:15:56 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CANADA RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E7"
+    },
+    {
+        "id": "SF2401172",
+        "date": "2024-01-26",
+        "time": "5:13:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST #2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "CF2400672",
+        "date": "2024-01-26",
+        "time": "5:07:35 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BELLEVUE AVE #202 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "CF2400671",
         "date": "2024-01-26",
         "time": "5:02:08 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Traffic accident pd request c3",
-        "location": "ROLLINS RD / MORRELL AVE",
+        "location": "1147 ROLLINS RD ,BRM",
         "latitude": 37.5869278037211,
         "longitude": -122.351398809908,
-        "units": "?TAC25 ?CM21X5 ?BC8 ?E34 ?T34"
-    },
-    {
-        "id": "BF2400333",
-        "date": "2024-01-26",
-        "time": "4:58:17 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "2322 CRESTMOOR DR ,SNB",
-        "latitude": 37.6242716980541,
-        "longitude": -122.435091081214,
-        "units": "E52"
-    },
-    {
-        "id": "NF2401093",
-        "date": "2024-01-26",
-        "time": "4:57:40 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "148 SERRAMONTE CTR ,DCY",
-        "latitude": 37.6706298244095,
-        "longitude": -122.473965946668,
-        "units": "E94"
-    },
-    {
-        "id": "NF2401092",
-        "date": "2024-01-26",
-        "time": "4:53:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ARDENDALE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "SF2401170",
-        "date": "2024-01-26",
-        "time": "4:48:47 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST #203 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": "CM21X5 >T34 >E34 ?TAC25"
     }
 ]
