@@ -1,5 +1,38 @@
 [
     {
+        "id": "LF2400089",
+        "date": "2024-01-26",
+        "time": "10:58:34 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Public assist",
+        "location": "756 STONEYFORD DR ,BRD",
+        "latitude": 37.6909345396028,
+        "longitude": -122.487744575962,
+        "units": "E86"
+    },
+    {
+        "id": "FF2400550",
+        "date": "2024-01-26",
+        "time": "10:52:39 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BRENTWOOD DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "RF2401002",
+        "date": "2024-01-26",
+        "time": "10:46:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAKWOOD DR ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "RF2401001",
         "date": "2024-01-26",
         "time": "10:39:09 PM",
@@ -8,7 +41,7 @@
         "location": "CANYON RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": ">E12"
     },
     {
         "id": "DF2400142",
@@ -19,29 +52,7 @@
         "location": "DUGGAN CT ,PAL",
         "latitude": null,
         "longitude": null,
-        "units": "E18"
-    },
-    {
-        "id": "NF2401100",
-        "date": "2024-01-26",
-        "time": "10:29:20 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "FF2400549",
-        "date": "2024-01-26",
-        "time": "10:21:42 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #P14 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E18"
     },
     {
         "id": "NF2401098",
@@ -52,6 +63,6 @@
         "location": "137 SERRAVISTA AVE ,DCY",
         "latitude": 37.6608893371266,
         "longitude": -122.465901700265,
-        "units": ">BC124 PR20A ?CM31X5 >E94 TAC36"
+        "units": ">PR20C >PR20A >E94 >BC124 TAC36?CM31X5"
     }
 ]
