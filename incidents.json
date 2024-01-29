@@ -1,46 +1,90 @@
 [
     {
-        "id": "MF2400877",
+        "id": "CF2400723",
         "date": "2024-01-28",
-        "time": "8:57:24 PM",
+        "time": "9:22:58 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "801 HOWARD AVE ,BRM",
+        "latitude": 37.5802939727636,
+        "longitude": -122.340371772952,
+        "units": "E34"
+    },
+    {
+        "id": "RF2401076",
+        "date": "2024-01-28",
+        "time": "9:15:08 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WOODSIDE RD / BROADWAY",
+        "latitude": 37.4870549580815,
+        "longitude": -122.214156972454,
+        "units": ">BC3 >T9 >E11 ?TAC15 ?CM11X2"
+    },
+    {
+        "id": "RF2401077",
+        "date": "2024-01-28",
+        "time": "9:14:39 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "928 WHIPPLE AVE ,RCY",
+        "latitude": 37.4914371530074,
+        "longitude": -122.239502888552,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2401078",
+        "date": "2024-01-28",
+        "time": "9:14:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "152 CORONADO AVE ,SNC",
+        "latitude": 37.4983732776569,
+        "longitude": -122.277469008647,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2401269",
+        "date": "2024-01-28",
+        "time": "9:13:56 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "1428 EL CAMINO REAL ,BLM",
+        "latitude": 37.5168979205458,
+        "longitude": -122.272241289193,
+        "units": ">E14"
+    },
+    {
+        "id": "SF2401268",
+        "date": "2024-01-28",
+        "time": "9:11:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LA SELVA ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "MF2400878",
+        "date": "2024-01-28",
+        "time": "9:11:29 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WILLOW RD #233 ,MNP",
+        "location": "COLEMAN PL #4 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E1"
+        "units": ">SQ401 >E2"
     },
     {
-        "id": "FF2400584",
+        "id": "HF2400243",
         "date": "2024-01-28",
-        "time": "8:51:36 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "9:06:51 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "WENTWORTH DR ,SSF",
+        "location": "CULEBRA LN ,MBH",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "RF2401075",
-        "date": "2024-01-28",
-        "time": "8:50:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "600 BAIR ISLAND RD ,RCY",
-        "latitude": 37.4951770630452,
-        "longitude": -122.22619293507,
-        "units": ">T9"
-    },
-    {
-        "id": "FF2400583",
-        "date": "2024-01-28",
-        "time": "8:47:09 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WESTBOROUGH BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E44"
     }
 ]
