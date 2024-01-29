@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2400722",
+        "date": "2024-01-28",
+        "time": "8:20:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "RICHMOND DR #2 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "MF2400875",
+        "date": "2024-01-28",
+        "time": "8:19:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DUMBARTON AVE / W BAYSHORE RD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2401074",
+        "date": "2024-01-28",
+        "time": "8:10:09 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CANYON RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "NF2401166",
+        "date": "2024-01-28",
+        "time": "8:08:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN BENITO RD ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
         "id": "NF2401165",
         "date": "2024-01-28",
         "time": "8:01:07 PM",
@@ -8,18 +52,7 @@
         "location": "IMPERIAL DR #7 ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "BF2400366",
-        "date": "2024-01-28",
-        "time": "7:57:37 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ""
     },
     {
         "id": "RF2401073",
@@ -33,39 +66,6 @@
         "units": ">E13"
     },
     {
-        "id": "SF2401265",
-        "date": "2024-01-28",
-        "time": "7:49:47 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SAN JUAN CT ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2400364",
-        "date": "2024-01-28",
-        "time": "7:46:44 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "LOWELL AVE / ROSEWOOD DR",
-        "latitude": 37.615098689345,
-        "longitude": -122.431295753877,
-        "units": ">T51 >E52 ?TAC35 >BC16 CM31X4"
-    },
-    {
-        "id": "RF2401072",
-        "date": "2024-01-28",
-        "time": "7:46:07 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #61 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
-    },
-    {
         "id": "NF2401164",
         "date": "2024-01-28",
         "time": "7:45:35 PM",
@@ -74,6 +74,6 @@
         "location": "99 HYDE CT ,DCY",
         "latitude": 37.6513652415386,
         "longitude": -122.452220606278,
-        "units": "T95 ?CM31X1 >E64"
+        "units": "?CM31X1"
     }
 ]
