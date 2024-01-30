@@ -1,38 +1,5 @@
 [
     {
-        "id": "SF2401335",
-        "date": "2024-01-30",
-        "time": "10:03:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "28 MADRONE CT ,SMO",
-        "latitude": 37.5394277357945,
-        "longitude": -122.326626209742,
-        "units": "E27"
-    },
-    {
-        "id": "MF2400921",
-        "date": "2024-01-30",
-        "time": "10:02:08 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ATHERTON AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": "E3"
-    },
-    {
-        "id": "DF2400154",
-        "date": "2024-01-30",
-        "time": "9:59:49 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "44 CAMBORNE AVE ,DVN",
-        "latitude": 37.5019129920381,
-        "longitude": -122.286231777019,
-        "units": "E15"
-    },
-    {
         "id": "WF2400188",
         "date": "2024-01-30",
         "time": "9:59:26 AM",
@@ -41,7 +8,7 @@
         "location": "SB 280 / NO SAND HILL RD",
         "latitude": 37.4282029747085,
         "longitude": -122.23430542581,
-        "units": "E4 >E7 BC2 CM11X4 ?TAC15"
+        "units": ">E7"
     },
     {
         "id": "SF2401334",
@@ -52,7 +19,7 @@
         "location": "CARLMONT DR #310C ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ""
     },
     {
         "id": "FF2400620",
@@ -66,17 +33,6 @@
         "units": ">Q62"
     },
     {
-        "id": "MF2400920",
-        "date": "2024-01-30",
-        "time": "9:51:40 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOLLAND ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
         "id": "NF2401224",
         "date": "2024-01-30",
         "time": "9:46:39 AM",
@@ -85,6 +41,6 @@
         "location": "WESTLINE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "TAC35 BC20 CM31X1 >E72"
+        "units": ">BC20 CM31X1 TAC35 >E72"
     }
 ]
