@@ -1,69 +1,58 @@
 [
     {
-        "id": "SF2401343",
+        "id": "MF2400925",
         "date": "2024-01-30",
-        "time": "1:17:52 PM",
+        "time": "1:41:35 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL RD / W BAYSHORE RD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "CF2400755",
+        "date": "2024-01-30",
+        "time": "1:33:42 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAPUCHINO AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2401344",
+        "date": "2024-01-30",
+        "time": "1:33:20 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "HIGHLAND AVE #4 ,SMO",
+        "location": "LAKESIDE DR #344083 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E28"
     },
     {
-        "id": "LF2400098",
+        "id": "WF2400190",
         "date": "2024-01-30",
-        "time": "1:16:53 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "1:30:41 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "COLMA BLVD ,CLM",
+        "location": "PINE RIDGE WAY ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": ">E86"
+        "units": ">E8"
     },
     {
-        "id": "CF2400753",
+        "id": "NF2401232",
         "date": "2024-01-30",
-        "time": "1:14:03 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "1:29:11 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "PARKSIDE AVE ,HIL",
+        "location": "VALE ST #24A ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "CF2400752",
-        "date": "2024-01-30",
-        "time": "1:04:17 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1550 ROLLINS RD ,BRM",
-        "latitude": 37.5942230236876,
-        "longitude": -122.371744711896,
-        "units": ">E37"
-    },
-    {
-        "id": "DF2400155",
-        "date": "2024-01-30",
-        "time": "1:03:04 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SWETT RD ,KMT",
-        "latitude": null,
-        "longitude": null,
-        "units": "?TAC45 >E58 >R56"
-    },
-    {
-        "id": "RF2401144",
-        "date": "2024-01-30",
-        "time": "12:57:24 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "INDUSTRIAL RD #G ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": "*>T95"
     },
     {
         "id": "NF2401224",
@@ -74,6 +63,6 @@
         "location": "WESTLINE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "H30 >BC20 CM31X1 TAC35 >E94"
+        "units": "H30 >E94"
     }
 ]
