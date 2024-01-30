@@ -1,36 +1,58 @@
 [
     {
-        "id": "RF2401141",
+        "id": "FF2400623",
         "date": "2024-01-30",
-        "time": "12:16:12 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "1821 REDWOOD AVE ,RCY",
-        "latitude": 37.4653634485323,
-        "longitude": -122.236158534899,
-        "units": ">E10"
+        "time": "12:38:02 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "GATEWAY BLVD / S AIRPORT BLVD",
+        "latitude": 37.6496523660543,
+        "longitude": -122.405552372637,
+        "units": ">Q62"
     },
     {
-        "id": "CF2400748",
+        "id": "SF2401342",
         "date": "2024-01-30",
-        "time": "12:06:23 PM",
+        "time": "12:33:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HARBOR BLVD ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "CF2400749",
+        "date": "2024-01-30",
+        "time": "12:29:30 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "MATEO AVE #5B ,MLB",
+        "location": "HUNT DR ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">T34"
+        "units": ">CM21X1 BC108 >T34 >E38 >TAC25"
     },
     {
-        "id": "NF2401230",
+        "id": "RF2401142",
         "date": "2024-01-30",
-        "time": "12:04:10 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:28:50 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "MARINER LN ,DCY",
+        "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
+        "units": ">SQ409"
+    },
+    {
+        "id": "FF2400622",
+        "date": "2024-01-30",
+        "time": "12:26:45 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CARTER DR #30 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
     },
     {
         "id": "NF2401224",
@@ -41,6 +63,6 @@
         "location": "WESTLINE DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "H30 >BC20 CM31X1 TAC35 >E94>E72"
+        "units": "H30 >BC20 CM31X1 TAC35 >E94"
     }
 ]
