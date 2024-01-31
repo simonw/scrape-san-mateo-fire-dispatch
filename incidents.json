@@ -1,14 +1,47 @@
 [
     {
-        "id": "HF2400259",
+        "id": "NF2401270",
         "date": "2024-01-31",
-        "time": "9:03:02 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "VENICE BLVD / N CABRILLO HWY",
-        "latitude": 37.4813834728689,
-        "longitude": -122.444712875135,
-        "units": "E640"
+        "time": "9:18:31 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Tree down",
+        "location": "118 CALAVERAS AVE ,PCF",
+        "latitude": 37.6118655466169,
+        "longitude": -122.473329584267,
+        "units": "E171"
+    },
+    {
+        "id": "CF2400776",
+        "date": "2024-01-31",
+        "time": "9:13:37 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "1424 CARLOS AVE ,BRM",
+        "latitude": 37.5821253108416,
+        "longitude": -122.37829568165,
+        "units": ">E35"
+    },
+    {
+        "id": "MF2400954",
+        "date": "2024-01-31",
+        "time": "9:13:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JEFFERSON DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "RF2401172",
+        "date": "2024-01-31",
+        "time": "9:07:45 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "701 9TH AVE #19 ,NFO",
+        "latitude": 37.4776941380517,
+        "longitude": -122.196904615977,
+        "units": ">E11"
     },
     {
         "id": "CF2400775",
@@ -30,18 +63,7 @@
         "location": "10 TWIN DOLPHIN DR ,RWS",
         "latitude": 37.527338196682,
         "longitude": -122.265177536692,
-        "units": "T9 E14 BC3 CM11X4 E13E20 ?TAC15"
-    },
-    {
-        "id": "CF2400774",
-        "date": "2024-01-31",
-        "time": "8:57:13 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "CM11X4 ?TAC15 >E14 >E20 >BC3"
     },
     {
         "id": "NF2401268",
@@ -53,16 +75,5 @@
         "latitude": 37.7032341687301,
         "longitude": -122.413529227085,
         "units": ">E93"
-    },
-    {
-        "id": "SF2401368",
-        "date": "2024-01-31",
-        "time": "8:42:50 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #409E ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
     }
 ]
