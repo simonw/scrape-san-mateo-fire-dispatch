@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2401191",
+        "date": "2024-01-31",
+        "time": "2:43:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BANBURY LN ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E10"
+    },
+    {
+        "id": "MF2400961",
+        "date": "2024-01-31",
+        "time": "2:31:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "ALAMEDA DE LAS PULGAS / AVY AVE",
+        "latitude": 37.4317786509531,
+        "longitude": -122.201526864892,
+        "units": ">BC1 ?TAC15 CM11X1 >E4"
+    },
+    {
         "id": "NF2401281",
         "date": "2024-01-31",
         "time": "2:23:26 PM",
@@ -8,7 +30,7 @@
         "location": "2815 GENEVA AVE ,DCY",
         "latitude": 37.7069303154846,
         "longitude": -122.414450708601,
-        "units": "?TAC35 ?CM31X1 ?BC20 ?Q62 E93"
+        "units": ">E93"
     },
     {
         "id": "NF2401280",
@@ -19,61 +41,6 @@
         "location": "VALLEY ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "CF2400790",
-        "date": "2024-01-31",
-        "time": "2:15:00 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MATEO AVE #7A ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2401190",
-        "date": "2024-01-31",
-        "time": "2:14:15 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR #108 ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2401380",
-        "date": "2024-01-31",
-        "time": "2:11:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "DF2400163",
-        "date": "2024-01-31",
-        "time": "2:08:30 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO 92",
-        "latitude": 37.5010326373211,
-        "longitude": -122.325975079224,
-        "units": "?TAC15 >E17 CM11X2 >T17 >BC11"
-    },
-    {
-        "id": "NF2401277",
-        "date": "2024-01-31",
-        "time": "1:46:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SIERRA POINT RD ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
+        "units": ">E92"
     }
 ]
