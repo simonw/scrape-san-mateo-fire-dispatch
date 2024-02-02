@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2400992",
+        "id": "DF2400177",
         "date": "2024-02-01",
-        "time": "5:35:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "5:49:44 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "EDGEWOOD RD / UNDER 280",
+        "latitude": 37.468591473289,
+        "longitude": -122.292250660729,
+        "units": ">E18 BC11 T17 CM11X3 ?TAC15"
+    },
+    {
+        "id": "BF2400411",
+        "date": "2024-02-01",
+        "time": "5:45:50 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 280 / SO 380",
+        "latitude": 37.6247425325052,
+        "longitude": -122.428499844054,
+        "units": ">E38 *>E52 >T51 CM31X4 ?TAC35"
+    },
+    {
+        "id": "RF2401254",
+        "date": "2024-02-01",
+        "time": "5:44:18 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MNP",
+        "location": "BAY HARBOUR DR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E20"
     },
     {
         "id": "NF2401341",
@@ -19,84 +41,7 @@
         "location": "HILLSIDE BLVD #205E ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "BF2400410",
-        "date": "2024-02-01",
-        "time": "5:34:14 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO AVALON DR",
-        "latitude": 37.6343221059717,
-        "longitude": -122.438478439258,
-        "units": "E64 T51 E52 BC16 ?TAC35?CM31X3"
-    },
-    {
-        "id": "RF2401253",
-        "date": "2024-02-01",
-        "time": "5:32:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "515 DARTMOUTH AVE ,SNC",
-        "latitude": 37.5086450254506,
-        "longitude": -122.281213872171,
-        "units": "E15"
-    },
-    {
-        "id": "NF2401340",
-        "date": "2024-02-01",
-        "time": "5:26:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "427 NIANTIC AVE ,DCY",
-        "latitude": 37.7044305981468,
-        "longitude": -122.469262375354,
-        "units": ">E92"
-    },
-    {
-        "id": "MF2400991",
-        "date": "2024-02-01",
-        "time": "5:19:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PIERCE RD #1 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "BF2400409",
-        "date": "2024-02-01",
-        "time": "5:19:02 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #2A ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "LF2400113",
-        "date": "2024-02-01",
-        "time": "5:18:16 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "D ST ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "FF2400661",
-        "date": "2024-02-01",
-        "time": "5:06:06 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO HICKEY BLVD",
-        "latitude": 37.6549237918762,
-        "longitude": -122.45727554244,
-        "units": ""
+        "units": ">E91"
     },
     {
         "id": "FM2400008",
