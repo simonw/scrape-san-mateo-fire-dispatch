@@ -1,5 +1,60 @@
 [
     {
+        "id": "WF2400208",
+        "date": "2024-02-02",
+        "time": "12:21:26 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "360 MOUNTAIN HOME RD ,WDS",
+        "latitude": 37.4237648504295,
+        "longitude": -122.256586584716,
+        "units": "E7"
+    },
+    {
+        "id": "SF2401454",
+        "date": "2024-02-02",
+        "time": "12:16:27 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ANNA ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2401377",
+        "date": "2024-02-02",
+        "time": "12:13:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2401276",
+        "date": "2024-02-02",
+        "time": "12:08:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1133 OLD COUNTY RD ,SNC",
+        "latitude": 37.5000308875037,
+        "longitude": -122.249212408237,
+        "units": ">E13"
+    },
+    {
+        "id": "CF2400839",
+        "date": "2024-02-02",
+        "time": "12:05:36 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SPRUCE ST ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "NF2401376",
         "date": "2024-02-02",
         "time": "12:02:03 PM",
@@ -22,28 +77,6 @@
         "units": ">E12"
     },
     {
-        "id": "NF2401375",
-        "date": "2024-02-02",
-        "time": "11:56:55 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "TALBERT ST / MACDONALD AVE",
-        "latitude": 37.7058798348988,
-        "longitude": -122.408767259007,
-        "units": ">E93 BC20 Q62 CM31X2 ?TAC35"
-    },
-    {
-        "id": "WF2400207",
-        "date": "2024-02-02",
-        "time": "11:56:37 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "360 MOUNTAIN HOME RD ,WDS",
-        "latitude": 37.4237648504295,
-        "longitude": -122.256586584716,
-        "units": "E7"
-    },
-    {
         "id": "HF2400273",
         "date": "2024-02-02",
         "time": "11:52:37 AM",
@@ -52,40 +85,7 @@
         "location": "211 MIRADA RD ,MIR",
         "latitude": 37.4952767874739,
         "longitude": -122.461796725933,
-        "units": ">E41 >E40 >BC10 CM41X5 ?TAC45"
-    },
-    {
-        "id": "RF2401274",
-        "date": "2024-02-02",
-        "time": "11:48:39 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FIR ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "MF2401005",
-        "date": "2024-02-02",
-        "time": "11:47:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "MF2401004",
-        "date": "2024-02-02",
-        "time": "11:42:25 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": "CM41X5 >E41 ?TAC45 >E40 >BC10"
     },
     {
         "id": "FM2400008",
