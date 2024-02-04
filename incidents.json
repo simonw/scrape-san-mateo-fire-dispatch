@@ -1,25 +1,58 @@
 [
     {
+        "id": "MF2401071",
+        "date": "2024-02-04",
+        "time": "9:41:54 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NEWELL RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "FF2400712",
+        "date": "2024-02-04",
+        "time": "9:34:28 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 101 / SO GRAND AVE",
+        "latitude": 37.6503131330559,
+        "longitude": -122.406647215995,
+        "units": ">BC17 ?TAC35 CM31X2 >Q62 >E51>E81"
+    },
+    {
+        "id": "HF2400293",
+        "date": "2024-02-04",
+        "time": "9:32:33 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "198 ARBOR LN ,MBH",
+        "latitude": 37.5267906236194,
+        "longitude": -122.516489153547,
+        "units": ""
+    },
+    {
+        "id": "CF2400889",
+        "date": "2024-02-04",
+        "time": "9:25:40 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 280 / SO SAN BRUNO AVE W",
+        "latitude": 37.6130879241906,
+        "longitude": -122.425093507096,
+        "units": "CM21X4 >BC16 >E38 ?TAC25"
+    },
+    {
         "id": "MF2401070",
         "date": "2024-02-04",
         "time": "9:19:30 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
+        "category": "Full assignment response",
         "location": "NB 101 / SO UNIVERSITY AVE",
         "latitude": 37.4564271860104,
         "longitude": -122.133818965041,
-        "units": "CM11X4 ?TAC15 SQ401 E77 E2BC101 T2"
-    },
-    {
-        "id": "BF2400452",
-        "date": "2024-02-04",
-        "time": "9:14:48 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MASSON AVE #6 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": "?TAC15 CM11X4 >SQ401 >E77 >E2>BC101 >T2"
     },
     {
         "id": "WF2400222",
@@ -30,18 +63,7 @@
         "location": "BEAR GULCH RD / SKYLINE BLVD",
         "latitude": 37.3996942489132,
         "longitude": -122.293736772989,
-        "units": "E356"
-    },
-    {
-        "id": "WF2400221",
-        "date": "2024-02-04",
-        "time": "9:10:22 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Auto aid request",
-        "location": "NB 280 / SO ALPINE RD",
-        "latitude": null,
-        "longitude": null,
-        "units": "E8"
+        "units": ">E356"
     },
     {
         "id": "DF2400200",
@@ -52,40 +74,7 @@
         "location": "640 CABRILLO HWY ,SOS",
         "latitude": 37.1164380752938,
         "longitude": -122.301678849993,
-        "units": "E1767 E59"
-    },
-    {
-        "id": "MF2401069",
-        "date": "2024-02-04",
-        "time": "9:04:38 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "2142 LINCOLN ST ,EPA",
-        "latitude": 37.4649601046992,
-        "longitude": -122.145732950183,
-        "units": ""
-    },
-    {
-        "id": "HF2400291",
-        "date": "2024-02-04",
-        "time": "8:59:33 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SUNSHINE VALLEY RD ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2401332",
-        "date": "2024-02-04",
-        "time": "8:55:20 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "209 REDWOOD SHORES PKWY ,RWS",
-        "latitude": 37.5228687344022,
-        "longitude": -122.254004298146,
-        "units": ""
+        "units": ">E59"
     },
     {
         "id": "DF2400199",
