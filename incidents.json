@@ -1,14 +1,58 @@
 [
     {
-        "id": "RF2401335",
+        "id": "NF2401472",
         "date": "2024-02-04",
-        "time": "10:25:05 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:41:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "30 CANTERBURY AVE ,DCY",
+        "latitude": 37.6560483379131,
+        "longitude": -122.472352442811,
+        "units": "?NFAEOC"
+    },
+    {
+        "id": "NF2401471",
+        "date": "2024-02-04",
+        "time": "10:40:42 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
+        "location": "CANTERBURY AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E9"
+        "units": "E64"
+    },
+    {
+        "id": "SF2401538",
+        "date": "2024-02-04",
+        "time": "10:37:41 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "VEGA CIR ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "HF2400294",
+        "date": "2024-02-04",
+        "time": "10:37:00 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AIRPORT ST #STE 7 ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": "E44"
+    },
+    {
+        "id": "FF2400715",
+        "date": "2024-02-04",
+        "time": "10:34:15 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Tree down",
+        "location": "234 LAMONTE AVE ,SSF",
+        "latitude": 37.6571207018632,
+        "longitude": -122.452686068783,
+        "units": ">E161"
     },
     {
         "id": "DF2400204",
@@ -19,18 +63,7 @@
         "location": "STAR HILL RD / NATIVE SONS RD",
         "latitude": 37.4016253982922,
         "longitude": -122.336338861139,
-        "units": "E356"
-    },
-    {
-        "id": "RF2401334",
-        "date": "2024-02-04",
-        "time": "10:03:12 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
+        "units": ">E356"
     },
     {
         "id": "DF2400202",
@@ -44,17 +77,6 @@
         "units": ">R56"
     },
     {
-        "id": "CF2400890",
-        "date": "2024-02-04",
-        "time": "9:51:24 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "821 MAPLE AVE ,BRM",
-        "latitude": 37.5858278519434,
-        "longitude": -122.351647609113,
-        "units": ">T34"
-    },
-    {
         "id": "NF2401469",
         "date": "2024-02-04",
         "time": "9:46:37 AM",
@@ -66,28 +88,6 @@
         "units": ">E94"
     },
     {
-        "id": "FF2400712",
-        "date": "2024-02-04",
-        "time": "9:34:28 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO GRAND AVE",
-        "latitude": 37.6503131330559,
-        "longitude": -122.406647215995,
-        "units": ">Q62"
-    },
-    {
-        "id": "DF2400200",
-        "date": "2024-02-04",
-        "time": "9:05:29 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "640 CABRILLO HWY ,SOS",
-        "latitude": 37.1164380752938,
-        "longitude": -122.301678849993,
-        "units": ">E59"
-    },
-    {
         "id": "DF2400199",
         "date": "2024-02-04",
         "time": "8:07:10 AM",
@@ -96,7 +96,7 @@
         "location": "9500 PESCADERO CREEK RD ,LMR",
         "latitude": 37.2757788359881,
         "longitude": -122.297635843301,
-        "units": ">U55 >E655"
+        "units": ">U55"
     },
     {
         "id": "FM2400008",
