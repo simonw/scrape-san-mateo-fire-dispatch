@@ -1,14 +1,91 @@
 [
     {
-        "id": "DF2400260",
+        "id": "FF2400777",
         "date": "2024-02-05",
-        "time": "7:21:40 AM",
-        "summary": "County Fire on Control-1",
+        "time": "7:40:32 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "DUVAL DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "CF2400934",
+        "date": "2024-02-05",
+        "time": "7:38:38 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY #2307 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "MF2401139",
+        "date": "2024-02-05",
+        "time": "7:38:08 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1895 OAK KNOLL LN ,MNP",
+        "latitude": 37.4301840435615,
+        "longitude": -122.191935375989,
+        "units": ""
+    },
+    {
+        "id": "SF2401616",
+        "date": "2024-02-05",
+        "time": "7:35:57 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "VENTURA AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "RF2401430",
+        "date": "2024-02-05",
+        "time": "7:35:02 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MADERA AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13 E16 CM11X1"
+    },
+    {
+        "id": "FF2400776",
+        "date": "2024-02-05",
+        "time": "7:33:31 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Wires down (not sparking)",
-        "location": "4290 PESCADERO CREEK RD ,PES",
-        "latitude": 37.250696092426,
-        "longitude": -122.350348100142,
-        "units": "?E59 ?CO55"
+        "location": "170 MITCHELL AVE ,SSF",
+        "latitude": 37.6488196557834,
+        "longitude": -122.40133001017,
+        "units": ">Q62"
+    },
+    {
+        "id": "DF2400262",
+        "date": "2024-02-05",
+        "time": "7:32:01 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "2889 ADELINE DR ,BRH",
+        "latitude": 37.579423558709,
+        "longitude": -122.38765030897,
+        "units": ">T34 >E35 BC8 CM21X3 ?TAC25"
+    },
+    {
+        "id": "RF2401429",
+        "date": "2024-02-05",
+        "time": "7:27:10 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LYONS ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "CF2400932",
@@ -19,18 +96,7 @@
         "location": "TROUSDALE DR #191A ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "RF2401428",
-        "date": "2024-02-05",
-        "time": "7:14:49 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "FRANKLIN ST / JEFFERSON AVE",
-        "latitude": 37.4835015369166,
-        "longitude": -122.229631647113,
-        "units": ">T9 >BC3 CM11X1 ?TAC15"
+        "units": ">E34"
     },
     {
         "id": "SF2401615",
@@ -44,17 +110,6 @@
         "units": ">E26"
     },
     {
-        "id": "BF2400493",
-        "date": "2024-02-05",
-        "time": "7:00:22 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ROSEWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
         "id": "DF2400259",
         "date": "2024-02-05",
         "time": "6:21:22 AM",
@@ -63,7 +118,7 @@
         "location": "KINGS MOUNTAIN RD / SKYLINE BLVD",
         "latitude": 37.4250155300573,
         "longitude": -122.313764731392,
-        "units": ">E356"
+        "units": ""
     },
     {
         "id": "SF2401572",
