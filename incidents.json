@@ -1,14 +1,201 @@
 [
     {
-        "id": "WF2400244",
+        "id": "SF2401590",
         "date": "2024-02-04",
-        "time": "5:59:42 PM",
+        "time": "6:28:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ANNA ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E21"
+    },
+    {
+        "id": "NF2401582",
+        "date": "2024-02-04",
+        "time": "6:25:46 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Pole fire",
+        "location": "1290 CRESPI DR ,PCF",
+        "latitude": 37.5912049504236,
+        "longitude": -122.483142024591,
+        "units": "?NFAEOC"
+    },
+    {
+        "id": "CF2400921",
+        "date": "2024-02-04",
+        "time": "6:25:25 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "1061 CRESTVIEW DR ,MLB",
+        "latitude": 37.5997173878756,
+        "longitude": -122.421119163145,
+        "units": "E38"
+    },
+    {
+        "id": "MF2401120",
+        "date": "2024-02-04",
+        "time": "6:24:29 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #207 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2401589",
+        "date": "2024-02-04",
+        "time": "6:23:26 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SHOREWAY RD #6409 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "NF2401581",
+        "date": "2024-02-04",
+        "time": "6:19:42 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "516 MANOR DR ,PCF",
+        "latitude": 37.6458879432341,
+        "longitude": -122.478688519434,
+        "units": "E71 CM31X1 E171"
+    },
+    {
+        "id": "SF2401588",
+        "date": "2024-02-04",
+        "time": "6:19:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "3050 LOS PRADOS ST ,SMO",
+        "latitude": 37.5444842683644,
+        "longitude": -122.281573883896,
+        "units": ">E29"
+    },
+    {
+        "id": "DF2400251",
+        "date": "2024-02-04",
+        "time": "6:18:18 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "2820 ADELINE DR ,BRH",
+        "latitude": 37.5808690061152,
+        "longitude": -122.384363025042,
+        "units": ">E35"
+    },
+    {
+        "id": "WF2400247",
+        "date": "2024-02-04",
+        "time": "6:17:24 PM",
         "summary": "Woodside Fire on Control-3",
         "category": "Sparking/arcing wires down",
-        "location": "115 DEAN RD ,WDS",
-        "latitude": 37.4338079558472,
-        "longitude": -122.255465780317,
-        "units": "R7"
+        "location": "30 ARAPAHOE CT ,PVY",
+        "latitude": 37.3848415332606,
+        "longitude": -122.217958678679,
+        "units": ">E8"
+    },
+    {
+        "id": "RF2401393",
+        "date": "2024-02-04",
+        "time": "6:16:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODSIDE RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "SF2401587",
+        "date": "2024-02-04",
+        "time": "6:16:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2401578",
+        "date": "2024-02-04",
+        "time": "6:15:13 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "77 BEL MAR AVE ,DCY",
+        "latitude": 37.7000678201073,
+        "longitude": -122.480925615765,
+        "units": ">E91"
+    },
+    {
+        "id": "HF2400364",
+        "date": "2024-02-04",
+        "time": "6:11:47 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "393 3RD ST ,MON",
+        "latitude": 37.5434451190706,
+        "longitude": -122.510453908976,
+        "units": "HMFEOC"
+    },
+    {
+        "id": "SF2401586",
+        "date": "2024-02-04",
+        "time": "6:11:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Tree down",
+        "location": "1100 BLOCK SHORELINE DR ,SMO",
+        "latitude": 37.5571106151309,
+        "longitude": -122.291416374128,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2401391",
+        "date": "2024-02-04",
+        "time": "6:10:55 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "3545 FARM HILL BLVD ,RCY",
+        "latitude": 37.4644086610741,
+        "longitude": -122.249403959685,
+        "units": ">E12"
+    },
+    {
+        "id": "WF2400246",
+        "date": "2024-02-04",
+        "time": "6:10:07 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "707 W CALIFORNIA WAY ,WDS",
+        "latitude": 37.4572430646985,
+        "longitude": -122.275489654121,
+        "units": ">E18 R7 ?CM11X3 >BC102 ?TAC17>E19"
+    },
+    {
+        "id": "SF2401583",
+        "date": "2024-02-04",
+        "time": "6:03:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Pole fire",
+        "location": "1729 LAKE ST ,SMO",
+        "latitude": 37.5651481866961,
+        "longitude": -122.288345189597,
+        "units": ">E2609"
+    },
+    {
+        "id": "MF2401117",
+        "date": "2024-02-04",
+        "time": "6:02:51 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "75 LA LOMA DR ,MNP",
+        "latitude": 37.4300629173628,
+        "longitude": -122.207880792629,
+        "units": ">E4"
     },
     {
         "id": "CF2400920",
@@ -19,18 +206,7 @@
         "location": "145 BELLA VISTA DR ,HIL",
         "latitude": 37.5725854904794,
         "longitude": -122.382734980712,
-        "units": "E33"
-    },
-    {
-        "id": "CF2400919",
-        "date": "2024-02-04",
-        "time": "5:56:29 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "MAGNOLIA AVE / LUDEMAN LN",
-        "latitude": 37.6074501377862,
-        "longitude": -122.401851355258,
-        "units": "E37"
+        "units": ">E33"
     },
     {
         "id": "BF2400472",
@@ -52,18 +228,7 @@
         "location": "JAMES AVE / EL CAMINO REAL",
         "latitude": 37.4845258801912,
         "longitude": -122.233002506605,
-        "units": "SQ409 >T9 >BC3 >E9 ?TAC15?CM11X4"
-    },
-    {
-        "id": "SF2401582",
-        "date": "2024-02-04",
-        "time": "5:52:50 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "378 N DELAWARE ST ,SMO",
-        "latitude": 37.5754953204008,
-        "longitude": -122.328736048349,
-        "units": ">T21"
+        "units": "E9"
     },
     {
         "id": "DF2400248",
@@ -77,70 +242,15 @@
         "units": ">E357"
     },
     {
-        "id": "NF2401575",
+        "id": "SF2401581",
         "date": "2024-02-04",
-        "time": "5:48:09 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "901 BRUNSWICK ST ,DCY",
-        "latitude": 37.7071167452436,
-        "longitude": -122.452291260838,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2401580",
-        "date": "2024-02-04",
-        "time": "5:46:20 PM",
+        "time": "5:48:38 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "113 LAURIE MEADOWS DR #287 ,SMO",
-        "latitude": 37.5323777662193,
-        "longitude": -122.285064894704,
-        "units": ">T23"
-    },
-    {
-        "id": "SF2401579",
-        "date": "2024-02-04",
-        "time": "5:40:55 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "3130 CASA DE CAMPO ,SMO",
-        "latitude": 37.5427469222622,
-        "longitude": -122.284012743697,
-        "units": "E2609"
-    },
-    {
-        "id": "MF2401115",
-        "date": "2024-02-04",
-        "time": "5:40:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "815 CAMBRIDGE AVE ,MNP",
-        "latitude": 37.445830902785,
-        "longitude": -122.17581849681,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2401577",
-        "date": "2024-02-04",
-        "time": "5:38:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Tree down",
-        "location": "901 S B ST ,SMO",
-        "latitude": 37.561683082217,
-        "longitude": -122.317616970905,
-        "units": ">E21"
-    },
-    {
-        "id": "FF2400756",
-        "date": "2024-02-04",
-        "time": "5:37:22 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "JUNIPERO SERRA BLVD / KING DR",
-        "latitude": 37.6546349478985,
-        "longitude": -122.4530008848,
-        "units": ">BC17 ?TAC35 CM31X1 >E64"
+        "category": "Public assist",
+        "location": "647 26TH AVE ,SMO",
+        "latitude": 37.5391111271968,
+        "longitude": -122.317104306341,
+        "units": ""
     },
     {
         "id": "DF2400245",
@@ -152,28 +262,6 @@
         "latitude": 37.2941859111939,
         "longitude": -122.241669453471,
         "units": ">U55"
-    },
-    {
-        "id": "NF2401573",
-        "date": "2024-02-04",
-        "time": "5:34:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MARBLY AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "HF2400362",
-        "date": "2024-02-04",
-        "time": "5:20:04 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "105 DIGGES CANYON RD ,SON",
-        "latitude": 37.4879085010625,
-        "longitude": -122.418948529118,
-        "units": ">E17"
     },
     {
         "id": "DF2400241",
@@ -195,18 +283,7 @@
         "location": "SB 101 / SO E HILLSDALE BLVD",
         "latitude": 37.5366623312022,
         "longitude": -122.280762508406,
-        "units": "?CM21X5 ?TAC25"
-    },
-    {
-        "id": "WF2400243",
-        "date": "2024-02-04",
-        "time": "5:12:03 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "BEAR GULCH RD / SKYLINE BLVD",
-        "latitude": 37.3996942489132,
-        "longitude": -122.293736772989,
-        "units": ""
+        "units": "?CM21X5"
     },
     {
         "id": "WF2400242",
@@ -218,17 +295,6 @@
         "latitude": 37.3772075081862,
         "longitude": -122.220041073571,
         "units": ">E507"
-    },
-    {
-        "id": "SF2401570",
-        "date": "2024-02-04",
-        "time": "5:00:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WILLIAMS LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E29"
     },
     {
         "id": "SF2401567",
@@ -284,17 +350,6 @@
         "latitude": 37.3809213019549,
         "longitude": -122.261127718665,
         "units": ">U58"
-    },
-    {
-        "id": "WF2400230",
-        "date": "2024-02-04",
-        "time": "3:14:39 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "MOUNTAIN HOME RD / WOODSIDE RD",
-        "latitude": 37.4295773746893,
-        "longitude": -122.254015997635,
-        "units": ">E7"
     },
     {
         "id": "MF2401093",
