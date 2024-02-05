@@ -1,14 +1,157 @@
 [
     {
-        "id": "HF2400360",
+        "id": "FF2400756",
         "date": "2024-02-04",
-        "time": "5:01:49 PM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "5:37:22 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "JUNIPERO SERRA BLVD / KING DR",
+        "latitude": 37.6546349478985,
+        "longitude": -122.4530008848,
+        "units": "CM31X1 ?TAC35 ?BC17 ?E64 ?T95"
+    },
+    {
+        "id": "RF2401386",
+        "date": "2024-02-04",
+        "time": "5:37:04 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ALAMO ST ,MON",
+        "location": "WARRINGTON AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": "?E44"
+        "units": "E11"
+    },
+    {
+        "id": "DF2400245",
+        "date": "2024-02-04",
+        "time": "5:36:36 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist",
+        "location": "MINDEGO HILL RD / ALPINE RD",
+        "latitude": 37.2941859111939,
+        "longitude": -122.241669453471,
+        "units": "E655 >U55 E357"
+    },
+    {
+        "id": "NF2401573",
+        "date": "2024-02-04",
+        "time": "5:34:35 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MARBLY AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "LF2400135",
+        "date": "2024-02-04",
+        "time": "5:32:41 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "724 WASHINGTON ST ,BRD",
+        "latitude": 37.6885864867429,
+        "longitude": -122.47693836548,
+        "units": "E86"
+    },
+    {
+        "id": "CF2400918",
+        "date": "2024-02-04",
+        "time": "5:32:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Tree down",
+        "location": "1623 TRAIN TRACK ,BRM",
+        "latitude": 37.5797983970303,
+        "longitude": -122.344125168994,
+        "units": "T34 E34"
+    },
+    {
+        "id": "NF2401572",
+        "date": "2024-02-04",
+        "time": "5:32:13 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "3260 BAYSHORE BLVD ,BRS",
+        "latitude": 37.6936479189259,
+        "longitude": -122.406209736449,
+        "units": ">E81"
+    },
+    {
+        "id": "SF2401575",
+        "date": "2024-02-04",
+        "time": "5:30:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PENINSULA AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E132"
+    },
+    {
+        "id": "SF2401574",
+        "date": "2024-02-04",
+        "time": "5:24:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ADA ST #3 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "HF2400362",
+        "date": "2024-02-04",
+        "time": "5:20:04 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "105 DIGGES CANYON RD ,SON",
+        "latitude": 37.4879085010625,
+        "longitude": -122.418948529118,
+        "units": "E17"
+    },
+    {
+        "id": "CF2400917",
+        "date": "2024-02-04",
+        "time": "5:19:39 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Tree down",
+        "location": "1509 CORTEZ AVE ,BRM",
+        "latitude": 37.5877748434622,
+        "longitude": -122.376808870298,
+        "units": ""
+    },
+    {
+        "id": "DF2400241",
+        "date": "2024-02-04",
+        "time": "5:16:11 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "ALPINE RD / HERITAGE RD",
+        "latitude": 37.296410014024,
+        "longitude": -122.246528153291,
+        "units": ">U57"
+    },
+    {
+        "id": "SF2401572",
+        "date": "2024-02-04",
+        "time": "5:15:08 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Sparking/arcing wires down",
+        "location": "SB 101 / SO E HILLSDALE BLVD",
+        "latitude": 37.5366623312022,
+        "longitude": -122.280762508406,
+        "units": "?CM21X5 ?TAC25"
+    },
+    {
+        "id": "WF2400242",
+        "date": "2024-02-04",
+        "time": "5:04:27 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Landscape fire",
+        "location": "121 GROVE DR ,PVY",
+        "latitude": 37.3772075081862,
+        "longitude": -122.220041073571,
+        "units": ">E507"
     },
     {
         "id": "SF2401570",
@@ -22,138 +165,6 @@
         "units": "E29"
     },
     {
-        "id": "NF2401565",
-        "date": "2024-02-04",
-        "time": "4:59:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DOCKSIDE DR #303 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "RF2401382",
-        "date": "2024-02-04",
-        "time": "4:58:42 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "8 AVOCET DR ,RWS",
-        "latitude": 37.535638970107,
-        "longitude": -122.238489213206,
-        "units": ">E20"
-    },
-    {
-        "id": "NF2401564",
-        "date": "2024-02-04",
-        "time": "4:57:40 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MIRIAM ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "SF2401569",
-        "date": "2024-02-04",
-        "time": "4:57:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S ELDORADO ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "FF2400750",
-        "date": "2024-02-04",
-        "time": "4:56:04 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "345 ARROYO DR ,SSF",
-        "latitude": 37.6490234257449,
-        "longitude": -122.446831790084,
-        "units": ">E64"
-    },
-    {
-        "id": "CF2400915",
-        "date": "2024-02-04",
-        "time": "4:55:24 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO SKYLINE BLVD",
-        "latitude": 37.5996217821992,
-        "longitude": -122.42327107486,
-        "units": ">E38 >Q62 E52 BC8 CM21X2?TAC25"
-    },
-    {
-        "id": "NF2401561",
-        "date": "2024-02-04",
-        "time": "4:54:09 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OCEAN GROVE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "MF2401113",
-        "date": "2024-02-04",
-        "time": "4:46:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "5 NEWELL CT ,EPA",
-        "latitude": 37.4570617285856,
-        "longitude": -122.13815381105,
-        "units": ""
-    },
-    {
-        "id": "RF2401381",
-        "date": "2024-02-04",
-        "time": "4:46:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHESTNUT ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2401558",
-        "date": "2024-02-04",
-        "time": "4:46:34 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ROCKAWAY BEACH AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "BF2400469",
-        "date": "2024-02-04",
-        "time": "4:44:14 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "180 LONDON CT ,SNB",
-        "latitude": 37.6091994896317,
-        "longitude": -122.429540520797,
-        "units": "E2607"
-    },
-    {
-        "id": "NF2401557",
-        "date": "2024-02-04",
-        "time": "4:44:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Pole fire",
-        "location": "ANNIE ST / PIERCE ST",
-        "latitude": 37.6860340177445,
-        "longitude": -122.475332328027,
-        "units": ">E95"
-    },
-    {
         "id": "DF2400238",
         "date": "2024-02-04",
         "time": "4:40:39 PM",
@@ -162,7 +173,7 @@
         "location": "155 WINDSOR DR ,DVN",
         "latitude": 37.4968702414657,
         "longitude": -122.279494879999,
-        "units": ">E16"
+        "units": ""
     },
     {
         "id": "SF2401567",
@@ -173,18 +184,7 @@
         "location": "3525 HILLCREST DR ,BLM",
         "latitude": 37.5159062615074,
         "longitude": -122.318790513877,
-        "units": ">U27 >E15"
-    },
-    {
-        "id": "RF2401377",
-        "date": "2024-02-04",
-        "time": "4:36:06 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "756 OAKVIEW WAY ,RCY",
-        "latitude": 37.4637270452427,
-        "longitude": -122.259171504975,
-        "units": ">E12"
+        "units": ">U27"
     },
     {
         "id": "FF2400744",
@@ -198,48 +198,48 @@
         "units": ">E61"
     },
     {
-        "id": "HF2400355",
+        "id": "DF2400236",
         "date": "2024-02-04",
-        "time": "4:15:34 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "330 6TH ST ,MON",
-        "latitude": 37.5416127414036,
-        "longitude": -122.513026398492,
-        "units": ""
-    },
-    {
-        "id": "RF2401373",
-        "date": "2024-02-04",
-        "time": "4:11:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "121 VISTA DEL GRANDE ,SNC",
-        "latitude": 37.4985397213807,
-        "longitude": -122.270632657353,
-        "units": ""
-    },
-    {
-        "id": "DF2400232",
-        "date": "2024-02-04",
-        "time": "4:06:24 PM",
+        "time": "4:21:26 PM",
         "summary": "County Fire on Control-1",
         "category": "Tree down",
-        "location": "SAN MATEO RD / OLD CANADA RD",
-        "latitude": 37.5069525340285,
-        "longitude": -122.357670926211,
+        "location": "SKYLINE BLVD / BEAR GULCH W RD",
+        "latitude": 37.3958036940609,
+        "longitude": -122.292534647016,
+        "units": "R56"
+    },
+    {
+        "id": "RF2401366",
+        "date": "2024-02-04",
+        "time": "3:55:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "2720 EATON AVE ,SNC",
+        "latitude": 37.4848014481838,
+        "longitude": -122.263753495979,
         "units": ""
     },
     {
-        "id": "SF2401561",
+        "id": "MF2401103",
         "date": "2024-02-04",
-        "time": "3:53:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:54:36 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Tree down",
-        "location": "RALSTON AVE / MERRY MOPPET LN",
-        "latitude": 37.5116068238929,
-        "longitude": -122.295967748254,
+        "location": "ALEJANDRA AVE / BRITTANY MEADOWS",
+        "latitude": 37.4559716140229,
+        "longitude": -122.194625597031,
         "units": ""
+    },
+    {
+        "id": "RF2401365",
+        "date": "2024-02-04",
+        "time": "3:53:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "490 SHELFORD AVE ,SNC",
+        "latitude": 37.5100506415825,
+        "longitude": -122.273461252011,
+        "units": ">E14"
     },
     {
         "id": "CF2400907",
@@ -253,25 +253,14 @@
         "units": ">E32"
     },
     {
-        "id": "DF2400230",
+        "id": "RF2401362",
         "date": "2024-02-04",
-        "time": "3:49:05 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "131 RAPLEY RANCH RD ,SOS",
-        "latitude": 37.3327184257075,
-        "longitude": -122.229915052523,
-        "units": ""
-    },
-    {
-        "id": "RF2401360",
-        "date": "2024-02-04",
-        "time": "3:39:35 PM",
+        "time": "3:45:41 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "825 MARSHALL ST ,RCY",
-        "latitude": 37.4878319946401,
-        "longitude": -122.226181466682,
+        "category": "Tree down",
+        "location": "OLD COUNTY RD / NORTHWOOD DR",
+        "latitude": 37.5118547835457,
+        "longitude": -122.264379831681,
         "units": ""
     },
     {
@@ -308,15 +297,15 @@
         "units": ">U58"
     },
     {
-        "id": "WF2400232",
+        "id": "DF2400227",
         "date": "2024-02-04",
-        "time": "3:23:16 PM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "3:28:42 PM",
+        "summary": "County Fire on Control-1",
         "category": "Tree down",
-        "location": "308 HILLSIDE DR ,WDS",
-        "latitude": 37.4385765866198,
-        "longitude": -122.257121314871,
-        "units": ""
+        "location": "25 BARBARA LN ,DVN",
+        "latitude": 37.4972477881764,
+        "longitude": -122.284303072359,
+        "units": ">E15"
     },
     {
         "id": "WF2400230",
@@ -338,7 +327,7 @@
         "location": "1330 UNIVERSITY DR ,MNP",
         "latitude": 37.4522752249209,
         "longitude": -122.189797110673,
-        "units": ">BC1"
+        "units": ">PR1 >U77"
     },
     {
         "id": "MF2401083",
@@ -350,17 +339,6 @@
         "latitude": 37.4572046612693,
         "longitude": -122.186445773711,
         "units": ">E504"
-    },
-    {
-        "id": "DF2400222",
-        "date": "2024-02-04",
-        "time": "2:37:22 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "6 REDWOOD DR ,LAH",
-        "latitude": 37.3142046146785,
-        "longitude": -122.272511214303,
-        "units": ">E357"
     },
     {
         "id": "FM2400008",
