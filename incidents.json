@@ -1,14 +1,47 @@
 [
     {
-        "id": "HF2400367",
+        "id": "NF2401608",
         "date": "2024-02-04",
-        "time": "8:26:19 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Tree down",
-        "location": "279 CALIFORNIA AVE ,MBH",
-        "latitude": 37.5245738750382,
-        "longitude": -122.515680712284,
-        "units": "E44"
+        "time": "8:42:22 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Pole fire",
+        "location": "995 E MARKET ST ,DCY",
+        "latitude": 37.6927268962779,
+        "longitude": -122.4560063811,
+        "units": "?E95"
+    },
+    {
+        "id": "BF2400481",
+        "date": "2024-02-04",
+        "time": "8:37:46 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "SANTA LUCIA AVE / SAN ANSELMO AVE S",
+        "latitude": 37.6160308464398,
+        "longitude": -122.404449907944,
+        "units": "?E2607"
+    },
+    {
+        "id": "FF2400768",
+        "date": "2024-02-04",
+        "time": "8:28:22 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "SF2401603",
+        "date": "2024-02-04",
+        "time": "8:27:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
     },
     {
         "id": "CF2400924",
@@ -19,7 +52,7 @@
         "location": "FAGAN DR / SHELDON WAY",
         "latitude": 37.5783266395455,
         "longitude": -122.373450598182,
-        "units": "E35"
+        "units": ">E35"
     },
     {
         "id": "NF2401607",
@@ -30,18 +63,7 @@
         "location": "NB 280 / NO JOHN DALY BLVD",
         "latitude": null,
         "longitude": null,
-        "units": "E93 E94 ?VFIR23 ?CM31X3"
-    },
-    {
-        "id": "RF2401411",
-        "date": "2024-02-04",
-        "time": "8:16:33 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "1029 ROSEWOOD AVE ,SNC",
-        "latitude": 37.4989506535004,
-        "longitude": -122.255886033234,
-        "units": ">E16"
+        "units": "?VFIR23 >BC20 >E94 ?CM31X3"
     },
     {
         "id": "RF2401410",
@@ -53,28 +75,6 @@
         "latitude": 37.4538843984349,
         "longitude": -122.237435031996,
         "units": ">E10"
-    },
-    {
-        "id": "NF2401606",
-        "date": "2024-02-04",
-        "time": "8:10:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "RF2401409",
-        "date": "2024-02-04",
-        "time": "8:10:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "1634 ANAMOR ST ,RCY",
-        "latitude": 37.459105154439,
-        "longitude": -122.233238930574,
-        "units": ""
     },
     {
         "id": "FF2400767",
@@ -99,39 +99,6 @@
         "units": ">E38"
     },
     {
-        "id": "BF2400479",
-        "date": "2024-02-04",
-        "time": "8:03:39 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "853 COMMODORE DR #504 ,SNB",
-        "latitude": 37.6341595551923,
-        "longitude": -122.421593831724,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2401407",
-        "date": "2024-02-04",
-        "time": "8:03:28 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "503 ARLINGTON RD ,RCY",
-        "latitude": 37.4871293520048,
-        "longitude": -122.245469452149,
-        "units": ""
-    },
-    {
-        "id": "FF2400766",
-        "date": "2024-02-04",
-        "time": "8:02:07 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "HARBOR MASTER RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
         "id": "NF2401604",
         "date": "2024-02-04",
         "time": "7:51:55 PM",
@@ -141,28 +108,6 @@
         "latitude": 37.6682462185452,
         "longitude": -122.465546681579,
         "units": ">E91"
-    },
-    {
-        "id": "RF2401403",
-        "date": "2024-02-04",
-        "time": "7:51:22 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Sparking/arcing wires down",
-        "location": "649 EMERALD HILL RD ,RCY",
-        "latitude": 37.459028042753,
-        "longitude": -122.256903549966,
-        "units": ""
-    },
-    {
-        "id": "NF2401602",
-        "date": "2024-02-04",
-        "time": "7:49:02 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO EASTMOOR AVE",
-        "latitude": 37.6844914155661,
-        "longitude": -122.471326735892,
-        "units": "?TAC37 ?CM31X1 >E95"
     },
     {
         "id": "BF2400477",
@@ -195,7 +140,7 @@
         "location": "2555 GALWAY PL ,SSF",
         "latitude": 37.6412228167291,
         "longitude": -122.457543858015,
-        "units": ">BC17 >E52 ?CM31X2 ?TAC35 >E63>E64 >T95"
+        "units": ">BC17 ?CM31X2 ?TAC35 >E63 >E64>T95"
     },
     {
         "id": "NF2401596",
