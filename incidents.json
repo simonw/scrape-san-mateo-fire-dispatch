@@ -1,5 +1,93 @@
 [
     {
+        "id": "SF2401642",
+        "date": "2024-02-05",
+        "time": "1:23:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E24"
+    },
+    {
+        "id": "NF2401648",
+        "date": "2024-02-05",
+        "time": "1:21:00 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HICKEY BLVD / SKYLINE BLVD",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "NF2401647",
+        "date": "2024-02-05",
+        "time": "1:20:20 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SKYLINE BLVD / WESTRIDGE AVE",
+        "latitude": 37.6906131980292,
+        "longitude": -122.492616996869,
+        "units": "E95 BC121 >CM31X4 T95 ?TAC35"
+    },
+    {
+        "id": "DF2400269",
+        "date": "2024-02-05",
+        "time": "1:16:59 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Public assist",
+        "location": "8080 LA HONDA RD ,LAH",
+        "latitude": 37.3089832439314,
+        "longitude": -122.276098072469,
+        "units": ">E357"
+    },
+    {
+        "id": "RF2401446",
+        "date": "2024-02-05",
+        "time": "1:14:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAKHURST AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "MF2401152",
+        "date": "2024-02-05",
+        "time": "1:14:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1225 SAN MATEO DR ,MNP",
+        "latitude": 37.4452155658529,
+        "longitude": -122.192093659001,
+        "units": ">E6"
+    },
+    {
+        "id": "FF2400790",
+        "date": "2024-02-05",
+        "time": "1:12:55 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c2",
+        "location": "352 SUSIE WAY ,SSF",
+        "latitude": 37.6627654940963,
+        "longitude": -122.431223705158,
+        "units": ">E63"
+    },
+    {
+        "id": "WF2400257",
+        "date": "2024-02-05",
+        "time": "1:12:08 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "VALLEY OAK ST / OHLONE ST",
+        "latitude": 37.3622513776621,
+        "longitude": -122.207954561502,
+        "units": ">E8"
+    },
+    {
         "id": "MF2401151",
         "date": "2024-02-05",
         "time": "1:05:21 PM",
@@ -8,18 +96,7 @@
         "location": "GARDEN ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
-    },
-    {
-        "id": "MF2401150",
-        "date": "2024-02-05",
-        "time": "1:03:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "8 HERITAGE PL ,MNP",
-        "latitude": 37.467923160748,
-        "longitude": -122.156143953541,
-        "units": "T2 BC101 E6 ?TAC16 ?CM11X1"
+        "units": ""
     },
     {
         "id": "SF2401641",
@@ -30,7 +107,7 @@
         "location": "BODEGA ST ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": ">E29"
     },
     {
         "id": "BF2400502",
@@ -38,7 +115,7 @@
         "time": "1:00:26 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "NATIONAL AVE ,SNB",
+        "location": "NATIONAL AVE #2218 ,SNB",
         "latitude": null,
         "longitude": null,
         "units": ">T51"
@@ -52,28 +129,6 @@
         "location": "233 VIRGINIA AVE ,SMO",
         "latitude": 37.5595304610031,
         "longitude": -122.328357919638,
-        "units": "TAC26 CM21X2 >T21 E24"
-    },
-    {
-        "id": "SF2401639",
-        "date": "2024-02-05",
-        "time": "12:57:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "MF2401149",
-        "date": "2024-02-05",
-        "time": "12:48:21 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W BAYSHORE RD #16 ,EPA",
-        "latitude": null,
-        "longitude": null,
         "units": ""
     },
     {
@@ -85,18 +140,7 @@
         "location": "50 E 4TH AVE ,SMO",
         "latitude": 37.5628644126394,
         "longitude": -122.323991729511,
-        "units": ">E2609 HM32 >CM21X1 HM14 >E21>BC5 >TAC25"
-    },
-    {
-        "id": "SF2401637",
-        "date": "2024-02-05",
-        "time": "12:07:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Gas main break",
-        "location": "2880 WAKEFIELD DR ,BLM",
-        "latitude": 37.5060229883378,
-        "longitude": -122.30863259708,
-        "units": "?TAC15 >E17 CM11X3 >T17 >BC11>E27"
+        "units": ">E2609 HM32 >CM21X1 >HM14 >E21>BC5 >TAC25"
     },
     {
         "id": "FM2400008",
