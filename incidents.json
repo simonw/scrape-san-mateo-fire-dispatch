@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2400501",
+        "date": "2024-02-05",
+        "time": "12:37:58 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "515 4TH AVE ,SNB",
+        "latitude": 37.625410213745,
+        "longitude": -122.405902170873,
+        "units": "*>E2607"
+    },
+    {
+        "id": "HF2400376",
+        "date": "2024-02-05",
+        "time": "12:33:34 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Lock out - residential",
+        "location": "2170 ST ANDREWS RD ,HMB",
+        "latitude": 37.4390333514357,
+        "longitude": -122.431509806664,
+        "units": ">E40"
+    },
+    {
+        "id": "FF2400789",
+        "date": "2024-02-05",
+        "time": "12:25:07 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 280 / SO WESTBOROUGH BLVD",
+        "latitude": 37.6414170599916,
+        "longitude": -122.443838094168,
+        "units": "BC117 >CM31X2 ?TAC36 >T95"
+    },
+    {
         "id": "RF2401445",
         "date": "2024-02-05",
         "time": "12:22:48 PM",
@@ -8,7 +41,7 @@
         "location": "LAUREL ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "?E13"
+        "units": ">E13"
     },
     {
         "id": "NF2401646",
@@ -19,7 +52,7 @@
         "location": "4237 CALLAN BLVD ,DCY",
         "latitude": 37.6553051520877,
         "longitude": -122.469817388879,
-        "units": "E171 E71"
+        "units": ">E171"
     },
     {
         "id": "MF2401148",
@@ -33,50 +66,6 @@
         "units": ">E4"
     },
     {
-        "id": "CF2400938",
-        "date": "2024-02-05",
-        "time": "12:13:12 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "916 JACKLING DR ,HIL",
-        "latitude": 37.5755931447381,
-        "longitude": -122.375017790068,
-        "units": ">E35"
-    },
-    {
-        "id": "NF2401644",
-        "date": "2024-02-05",
-        "time": "12:12:48 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "RICE ST / MISSION ST",
-        "latitude": 37.7075922298843,
-        "longitude": -122.456248833028,
-        "units": "E191"
-    },
-    {
-        "id": "CF2400937",
-        "date": "2024-02-05",
-        "time": "12:12:44 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "524 BAYVIEW AVE ,MLB",
-        "latitude": 37.6115452547658,
-        "longitude": -122.413913971983,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2401643",
-        "date": "2024-02-05",
-        "time": "12:12:41 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "OCEAN GROVE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
         "id": "NF2401645",
         "date": "2024-02-05",
         "time": "12:11:39 PM",
@@ -85,18 +74,18 @@
         "location": "28 AMHURST CT ,DCY",
         "latitude": 37.6502961553011,
         "longitude": -122.461337694157,
-        "units": ">BC121 >T51 >E52 ?TAC35 >E63>E64 >CM31X3"
+        "units": "?TAC35 >E64 >CM31X3"
     },
     {
         "id": "SF2401638",
         "date": "2024-02-05",
         "time": "12:11:18 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
+        "category": "Hazardous material - consult",
         "location": "50 E 4TH AVE ,SMO",
         "latitude": 37.5628644126394,
         "longitude": -122.323991729511,
-        "units": ">E2609 >CM21X1 >E21 >T21 >BC5>TAC25"
+        "units": ">E2609 >CM21X1 HM14 >E21 >T21>BC5 >TAC25 ?ENVHAZ"
     },
     {
         "id": "SF2401637",
@@ -107,7 +96,7 @@
         "location": "2880 WAKEFIELD DR ,BLM",
         "latitude": 37.5060229883378,
         "longitude": -122.30863259708,
-        "units": "?TAC15 >E17 >E15 CM11X3 >T17>BC11 >E27"
+        "units": "?TAC15 >E17 CM11X3 >T17 >BC11>E27"
     },
     {
         "id": "FF2400788",
@@ -119,50 +108,6 @@
         "latitude": 37.6531990861231,
         "longitude": -122.416861627103,
         "units": ">E161"
-    },
-    {
-        "id": "NF2401642",
-        "date": "2024-02-05",
-        "time": "12:03:57 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HICKEY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "WF2400256",
-        "date": "2024-02-05",
-        "time": "12:01:40 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "PORTOLA RD / OLD LA HONDA RD",
-        "latitude": 37.3958205280036,
-        "longitude": -122.246447114409,
-        "units": ">R7"
-    },
-    {
-        "id": "SF2401636",
-        "date": "2024-02-05",
-        "time": "11:54:49 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "LYALL WAY / LAKE RD",
-        "latitude": 37.5107708448405,
-        "longitude": -122.300154562012,
-        "units": ">U27"
-    },
-    {
-        "id": "NF2401639",
-        "date": "2024-02-05",
-        "time": "11:31:21 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO 1",
-        "latitude": 37.6738400118365,
-        "longitude": -122.468286519171,
-        "units": ">E194"
     },
     {
         "id": "FM2400008",
