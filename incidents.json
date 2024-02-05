@@ -1,5 +1,82 @@
 [
     {
+        "id": "RF2401435",
+        "date": "2024-02-05",
+        "time": "8:41:15 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "255 SHORELINE DR ,RWS",
+        "latitude": 37.5248207626272,
+        "longitude": -122.259033965084,
+        "units": "CM11X4 E20 ?TAC15 ?BC3 ?T9"
+    },
+    {
+        "id": "HF2400371",
+        "date": "2024-02-05",
+        "time": "8:40:12 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Tree down",
+        "location": "FARALLONE AVE / 11TH ST",
+        "latitude": 37.5390157003116,
+        "longitude": -122.515812663904,
+        "units": "E44"
+    },
+    {
+        "id": "RF2401434",
+        "date": "2024-02-05",
+        "time": "8:39:22 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1269 VETERANS BLVD ,RCY",
+        "latitude": 37.4897707720556,
+        "longitude": -122.220228046464,
+        "units": "E9"
+    },
+    {
+        "id": "FF2400786",
+        "date": "2024-02-05",
+        "time": "8:37:33 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ARLINGTON DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "MF2401140",
+        "date": "2024-02-05",
+        "time": "8:34:51 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MODOC AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "FF2400785",
+        "date": "2024-02-05",
+        "time": "8:29:07 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HARBOR MASTER RD / MARINA BLVD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "RF2401433",
+        "date": "2024-02-05",
+        "time": "8:28:38 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BLOMQUIST ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
         "id": "FF2400784",
         "date": "2024-02-05",
         "time": "8:25:08 AM",
@@ -8,95 +85,18 @@
         "location": "C ST #2 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E63"
     },
     {
-        "id": "RF2401432",
+        "id": "SF2401619",
         "date": "2024-02-05",
-        "time": "8:15:26 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "635 LAUREL ST ,RCY",
-        "latitude": 37.4819635376614,
-        "longitude": -122.217073239081,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2401618",
-        "date": "2024-02-05",
-        "time": "8:13:51 AM",
+        "time": "8:18:14 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BOVET RD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "SF2401617",
-        "date": "2024-02-05",
-        "time": "8:13:15 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "FF2400781",
-        "date": "2024-02-05",
-        "time": "8:09:42 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "245 S SPRUCE AVE ,SSF",
-        "latitude": 37.645247458689,
-        "longitude": -122.419337573825,
-        "units": ">E61"
-    },
-    {
-        "id": "RF2401431",
-        "date": "2024-02-05",
-        "time": "8:02:20 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "FF2400780",
-        "date": "2024-02-05",
-        "time": "8:01:02 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Tree down",
-        "location": "872 GRAND AVE ,SSF",
-        "latitude": 37.6600967273502,
-        "longitude": -122.429972693602,
-        "units": ""
-    },
-    {
-        "id": "WF2400252",
-        "date": "2024-02-05",
-        "time": "7:55:44 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA RD #19A ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "FF2400778",
-        "date": "2024-02-05",
-        "time": "7:46:03 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist, water problem",
-        "location": "352 SHAW RD ,SSF",
-        "latitude": 37.6369603671728,
-        "longitude": -122.406802494407,
-        "units": ">T51 CM31X1 >E161"
+        "category": "Wires down (not sparking)",
+        "location": "425 27TH AVE ,SMO",
+        "latitude": 37.5387971466872,
+        "longitude": -122.31164278012,
+        "units": "U27"
     },
     {
         "id": "DF2400263",
@@ -107,7 +107,7 @@
         "location": "4290 PESCADERO CREEK RD ,PES",
         "latitude": 37.250696092426,
         "longitude": -122.350348100142,
-        "units": ">U55 >E318"
+        "units": ">U55"
     },
     {
         "id": "SF2401572",
