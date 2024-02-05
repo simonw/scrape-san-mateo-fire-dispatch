@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2401130",
+        "date": "2024-02-04",
+        "time": "9:41:40 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": "E4"
+    },
+    {
+        "id": "MF2401129",
+        "date": "2024-02-04",
+        "time": "9:41:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CAMELLIA CT ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "HF2400368",
+        "date": "2024-02-04",
+        "time": "9:34:56 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "179 WEST POINT AVE ,PRN",
+        "latitude": 37.5026630938843,
+        "longitude": -122.49396173065,
+        "units": ">E644"
+    },
+    {
+        "id": "DF2400258",
+        "date": "2024-02-04",
+        "time": "9:25:33 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "17650 SKYLINE BLVD ,SKY",
+        "latitude": 37.378735465553,
+        "longitude": -122.263454729583,
+        "units": ""
+    },
+    {
         "id": "MF2401127",
         "date": "2024-02-04",
         "time": "9:23:35 PM",
@@ -8,7 +52,7 @@
         "location": "WILLOW RD #28 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
+        "units": ">E1"
     },
     {
         "id": "RF2401418",
@@ -19,18 +63,7 @@
         "location": "2101 BRITTAN AVE ,SNC",
         "latitude": 37.4929851422274,
         "longitude": -122.262433644728,
-        "units": "E13"
-    },
-    {
-        "id": "RF2401417",
-        "date": "2024-02-04",
-        "time": "9:21:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E OAKWOOD BLVD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E3"
+        "units": ""
     },
     {
         "id": "BF2400485",
@@ -41,18 +74,7 @@
         "location": "1101 SAN MATEO AVE ,SNB",
         "latitude": 37.6376343938254,
         "longitude": -122.411987374896,
-        "units": "E51"
-    },
-    {
-        "id": "RF2401416",
-        "date": "2024-02-04",
-        "time": "9:18:25 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Landscape fire",
-        "location": "1615 HUDSON ST ,RCY",
-        "latitude": 37.4698537202456,
-        "longitude": -122.22429376345,
-        "units": ">E10 ?FECC"
+        "units": ""
     },
     {
         "id": "SF2401606",
@@ -63,18 +85,7 @@
         "location": "2461 HALLMARK DR ,BLM",
         "latitude": 37.4991805205653,
         "longitude": -122.303439716409,
-        "units": ">BC5 >E15 >T17 >BC11 ?TAC15?CM11X2"
-    },
-    {
-        "id": "BF2400484",
-        "date": "2024-02-04",
-        "time": "9:16:06 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Lock out - residential",
-        "location": "2434 WHITMAN WAY ,SNB",
-        "latitude": 37.6172752959455,
-        "longitude": -122.434411904619,
-        "units": ">E52"
+        "units": ">E15"
     },
     {
         "id": "DF2400257",
@@ -96,7 +107,7 @@
         "location": "NATIONAL AVE #1431 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">T51"
+        "units": ""
     },
     {
         "id": "SF2401601",
@@ -118,7 +129,7 @@
         "location": "2555 GALWAY PL ,SSF",
         "latitude": 37.6412228167291,
         "longitude": -122.457543858015,
-        "units": ">BC17 ?CM31X2 ?TAC35 >E63 >E64>T95"
+        "units": ">BC17 ?CM31X2 ?TAC35 Q62 >E63>E64 >T95"
     },
     {
         "id": "SF2401572",
