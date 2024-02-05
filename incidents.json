@@ -1,5 +1,71 @@
 [
     {
+        "id": "CF2400925",
+        "date": "2024-02-04",
+        "time": "8:59:47 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "EL CERRITO AVE / HOMS CT",
+        "latitude": 37.5642781215591,
+        "longitude": -122.335876476665,
+        "units": "E21"
+    },
+    {
+        "id": "SF2401605",
+        "date": "2024-02-04",
+        "time": "8:58:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Landscape fire",
+        "location": "1729 LAKE ST ,SMO",
+        "latitude": 37.5651481866961,
+        "longitude": -122.288345189597,
+        "units": "E26"
+    },
+    {
+        "id": "BF2400483",
+        "date": "2024-02-04",
+        "time": "8:57:04 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "MF2401126",
+        "date": "2024-02-04",
+        "time": "8:56:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "PACIFIC AVE / CURTIS AVE",
+        "latitude": 37.4747366236751,
+        "longitude": -122.21122685047,
+        "units": ">E11"
+    },
+    {
+        "id": "BF2400482",
+        "date": "2024-02-04",
+        "time": "8:53:46 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #1431 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "RF2401412",
+        "date": "2024-02-04",
+        "time": "8:44:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "910 CORDILLERAS AVE ,SNC",
+        "latitude": 37.4960874733633,
+        "longitude": -122.263644695634,
+        "units": ">E16"
+    },
+    {
         "id": "NF2401608",
         "date": "2024-02-04",
         "time": "8:42:22 PM",
@@ -8,7 +74,7 @@
         "location": "995 E MARKET ST ,DCY",
         "latitude": 37.6927268962779,
         "longitude": -122.4560063811,
-        "units": "?E95"
+        "units": ">E95"
     },
     {
         "id": "BF2400481",
@@ -19,51 +85,7 @@
         "location": "SANTA LUCIA AVE / SAN ANSELMO AVE S",
         "latitude": 37.6160308464398,
         "longitude": -122.404449907944,
-        "units": "?E2607"
-    },
-    {
-        "id": "FF2400768",
-        "date": "2024-02-04",
-        "time": "8:28:22 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "VETERANS BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
-    },
-    {
-        "id": "SF2401603",
-        "date": "2024-02-04",
-        "time": "8:27:19 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "CF2400924",
-        "date": "2024-02-04",
-        "time": "8:23:10 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "FAGAN DR / SHELDON WAY",
-        "latitude": 37.5783266395455,
-        "longitude": -122.373450598182,
-        "units": ">E35"
-    },
-    {
-        "id": "NF2401607",
-        "date": "2024-02-04",
-        "time": "8:18:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NB 280 / NO JOHN DALY BLVD",
-        "latitude": null,
-        "longitude": null,
-        "units": "?VFIR23 >BC20 >E94 ?CM31X3"
+        "units": ">E2607"
     },
     {
         "id": "RF2401410",
@@ -75,50 +97,6 @@
         "latitude": 37.4538843984349,
         "longitude": -122.237435031996,
         "units": ">E10"
-    },
-    {
-        "id": "FF2400767",
-        "date": "2024-02-04",
-        "time": "8:06:21 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "27 SONORA AVE ,SSF",
-        "latitude": 37.6448995593804,
-        "longitude": -122.424828371364,
-        "units": ">E61"
-    },
-    {
-        "id": "BF2400478",
-        "date": "2024-02-04",
-        "time": "8:03:56 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 280 / SO 380",
-        "latitude": 37.6247425325052,
-        "longitude": -122.428499844054,
-        "units": ">E38"
-    },
-    {
-        "id": "NF2401604",
-        "date": "2024-02-04",
-        "time": "7:51:55 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / NO HICKEY BLVD",
-        "latitude": 37.6682462185452,
-        "longitude": -122.465546681579,
-        "units": ">E91"
-    },
-    {
-        "id": "BF2400477",
-        "date": "2024-02-04",
-        "time": "7:47:46 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "?TAC36"
     },
     {
         "id": "SF2401601",
@@ -143,17 +121,6 @@
         "units": ">BC17 ?CM31X2 ?TAC35 >E63 >E64>T95"
     },
     {
-        "id": "NF2401596",
-        "date": "2024-02-04",
-        "time": "7:34:26 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "A ST #217 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
         "id": "SF2401572",
         "date": "2024-02-04",
         "time": "5:15:08 PM",
@@ -173,7 +140,7 @@
         "location": "121 GROVE DR ,PVY",
         "latitude": 37.3772075081862,
         "longitude": -122.220041073571,
-        "units": ">E507"
+        "units": ">E7"
     },
     {
         "id": "FM2400008",
