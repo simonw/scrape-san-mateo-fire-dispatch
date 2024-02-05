@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2401130",
+        "id": "LF2400137",
         "date": "2024-02-04",
-        "time": "9:41:40 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "9:59:52 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "D ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T85 E92"
+    },
+    {
+        "id": "FF2400770",
+        "date": "2024-02-04",
+        "time": "9:59:07 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Fire alarm",
-        "location": "2575 SAND HILL RD ,MNP",
-        "latitude": 37.4197700506166,
-        "longitude": -122.20392567363,
-        "units": "E4"
+        "location": "2412 UNWIN CT ,SSF",
+        "latitude": 37.6442525915562,
+        "longitude": -122.455405699177,
+        "units": "E94"
+    },
+    {
+        "id": "LF2400136",
+        "date": "2024-02-04",
+        "time": "9:50:54 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "A ST #210 ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "WF2400249",
+        "date": "2024-02-04",
+        "time": "9:49:56 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LUCERO WAY ,LAD",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E8"
     },
     {
         "id": "MF2401129",
@@ -19,73 +52,7 @@
         "location": "CAMELLIA CT ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
-    },
-    {
-        "id": "HF2400368",
-        "date": "2024-02-04",
-        "time": "9:34:56 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "179 WEST POINT AVE ,PRN",
-        "latitude": 37.5026630938843,
-        "longitude": -122.49396173065,
-        "units": ">E644"
-    },
-    {
-        "id": "DF2400258",
-        "date": "2024-02-04",
-        "time": "9:25:33 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "17650 SKYLINE BLVD ,SKY",
-        "latitude": 37.378735465553,
-        "longitude": -122.263454729583,
         "units": ""
-    },
-    {
-        "id": "MF2401127",
-        "date": "2024-02-04",
-        "time": "9:23:35 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #28 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "RF2401418",
-        "date": "2024-02-04",
-        "time": "9:22:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "2101 BRITTAN AVE ,SNC",
-        "latitude": 37.4929851422274,
-        "longitude": -122.262433644728,
-        "units": ""
-    },
-    {
-        "id": "BF2400485",
-        "date": "2024-02-04",
-        "time": "9:19:58 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "1101 SAN MATEO AVE ,SNB",
-        "latitude": 37.6376343938254,
-        "longitude": -122.411987374896,
-        "units": ""
-    },
-    {
-        "id": "SF2401606",
-        "date": "2024-02-04",
-        "time": "9:16:47 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "2461 HALLMARK DR ,BLM",
-        "latitude": 37.4991805205653,
-        "longitude": -122.303439716409,
-        "units": ">E15"
     },
     {
         "id": "DF2400257",
@@ -99,28 +66,6 @@
         "units": "E357"
     },
     {
-        "id": "BF2400482",
-        "date": "2024-02-04",
-        "time": "8:53:46 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #1431 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2401601",
-        "date": "2024-02-04",
-        "time": "7:44:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "1224 OAK ST ,SMO",
-        "latitude": 37.5524889652154,
-        "longitude": -122.321881454856,
-        "units": ">E25"
-    },
-    {
         "id": "FF2400761",
         "date": "2024-02-04",
         "time": "7:38:59 PM",
@@ -129,7 +74,7 @@
         "location": "2555 GALWAY PL ,SSF",
         "latitude": 37.6412228167291,
         "longitude": -122.457543858015,
-        "units": ">BC17 ?CM31X2 ?TAC35 Q62 >E63>E64 >T95"
+        "units": ">BC17 ?CM31X2 ?TAC35 >Q62 >E63>E64"
     },
     {
         "id": "SF2401572",
