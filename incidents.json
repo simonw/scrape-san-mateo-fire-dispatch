@@ -1,25 +1,102 @@
 [
     {
-        "id": "HF2400365",
+        "id": "FF2400761",
         "date": "2024-02-04",
-        "time": "7:20:01 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist",
-        "location": "1001 MAIN ST ,HMB",
-        "latitude": 37.4552652521776,
-        "longitude": -122.429025244892,
-        "units": "E640"
+        "time": "7:38:59 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Structure fire",
+        "location": "2555 GALWAY PL ,SSF",
+        "latitude": 37.6412228167291,
+        "longitude": -122.457543858015,
+        "units": "BC124 >E64 E94 ?E51 E52E63 T95 BC17 ?TAC35 ?CM31X2"
     },
     {
-        "id": "BF2400474",
+        "id": "NF2401597",
         "date": "2024-02-04",
-        "time": "7:18:15 PM",
+        "time": "7:38:24 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "80 ALTA VISTA WAY ,DCY",
+        "latitude": 37.7046498727339,
+        "longitude": -122.432979009467,
+        "units": "NFAEOC"
+    },
+    {
+        "id": "DF2400255",
+        "date": "2024-02-04",
+        "time": "7:36:10 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO 92",
+        "latitude": 37.5128003426877,
+        "longitude": -122.347426465418,
+        "units": "E27 CM11X4 E17 BC11A T17?TAC15"
+    },
+    {
+        "id": "RF2401400",
+        "date": "2024-02-04",
+        "time": "7:36:06 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Pole fire",
+        "location": "MADISON AVE / ADAMS ST",
+        "latitude": 37.4805235843189,
+        "longitude": -122.229838326471,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2401399",
+        "date": "2024-02-04",
+        "time": "7:35:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "752 CHESTNUT ST ,RCY",
+        "latitude": 37.4838841945117,
+        "longitude": -122.21909950524,
+        "units": ">E9"
+    },
+    {
+        "id": "NF2401596",
+        "date": "2024-02-04",
+        "time": "7:34:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "A ST #217 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "SF2401600",
+        "date": "2024-02-04",
+        "time": "7:33:02 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "PENINSULA AVE / JEFFERSON CT",
+        "latitude": 37.5766380257191,
+        "longitude": -122.340005316484,
+        "units": "E2609"
+    },
+    {
+        "id": "SF2401598",
+        "date": "2024-02-04",
+        "time": "7:30:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "3723 S EL CAMINO REAL ,SMO",
+        "latitude": 37.5330926011868,
+        "longitude": -122.292601602507,
+        "units": ">E23"
+    },
+    {
+        "id": "BF2400475",
+        "date": "2024-02-04",
+        "time": "7:24:14 PM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1050 ADMIRAL CT #A ,SNB",
-        "latitude": 37.6342365526008,
-        "longitude": -122.42041105174,
-        "units": "E51"
+        "category": "Elevator rescue",
+        "location": "1101 NATIONAL AVE ,SNB",
+        "latitude": 37.6344382028256,
+        "longitude": -122.423369549572,
+        "units": ">T51"
     },
     {
         "id": "RF2401398",
@@ -30,40 +107,7 @@
         "location": "ALAMEDA DE LAS PULGAS ,EML",
         "latitude": null,
         "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "SF2401593",
-        "date": "2024-02-04",
-        "time": "6:48:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "71 E 39TH AVE ,SMO",
-        "latitude": 37.534820222334,
-        "longitude": -122.290452773171,
-        "units": ">U27"
-    },
-    {
-        "id": "RF2401395",
-        "date": "2024-02-04",
-        "time": "6:31:51 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MACARTHUR AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E11"
-    },
-    {
-        "id": "RF2401394",
-        "date": "2024-02-04",
-        "time": "6:20:40 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Pole fire",
-        "location": "449 LINCOLN AVE ,RCY",
-        "latitude": 37.4771154617413,
-        "longitude": -122.229411153562,
-        "units": ">E16"
+        "units": ""
     },
     {
         "id": "WF2400247",
@@ -96,7 +140,7 @@
         "location": "755 WALNUT ST ,SNB",
         "latitude": 37.6329297623018,
         "longitude": -122.406343448291,
-        "units": ">T51"
+        "units": ">E2607"
     },
     {
         "id": "DF2400241",
@@ -130,17 +174,6 @@
         "latitude": 37.3772075081862,
         "longitude": -122.220041073571,
         "units": ">E507"
-    },
-    {
-        "id": "WF2400233",
-        "date": "2024-02-04",
-        "time": "3:33:29 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Sparking/arcing wires down",
-        "location": "37 BIG TREE WAY ,SKY",
-        "latitude": 37.3809213019549,
-        "longitude": -122.261127718665,
-        "units": ">U58"
     },
     {
         "id": "MF2401083",
