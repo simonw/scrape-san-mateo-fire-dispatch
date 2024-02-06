@@ -1,5 +1,60 @@
 [
     {
+        "id": "RF2401461",
+        "date": "2024-02-05",
+        "time": "6:40:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1100 VETERANS BLVD ,RCY",
+        "latitude": 37.4887554776047,
+        "longitude": -122.223527775412,
+        "units": "T9 BC3 ?TAC15 ?CM11X5 ?E10?E11 ?E9"
+    },
+    {
+        "id": "WF2400259",
+        "date": "2024-02-05",
+        "time": "6:30:20 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "768 TEMESCAL WAY ,EML",
+        "latitude": 37.4594505415262,
+        "longitude": -122.267916346392,
+        "units": ">E19"
+    },
+    {
+        "id": "CF2400947",
+        "date": "2024-02-05",
+        "time": "6:30:15 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SKYLINE BLVD / CANYON RD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "FF2400795",
+        "date": "2024-02-05",
+        "time": "6:29:13 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "221 ASPEN AVE ,SSF",
+        "latitude": 37.6595121989254,
+        "longitude": -122.407187058747,
+        "units": ">Q62"
+    },
+    {
+        "id": "DF2400274",
+        "date": "2024-02-05",
+        "time": "6:28:03 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "SKYLINE BLVD / 92",
+        "latitude": 37.5118497209983,
+        "longitude": -122.349706442818,
+        "units": ">E17"
+    },
+    {
         "id": "CF2400946",
         "date": "2024-02-05",
         "time": "6:24:50 PM",
@@ -8,7 +63,7 @@
         "location": "CHADBOURNE AVE #138 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "FF2400794",
@@ -19,7 +74,7 @@
         "location": "2210 GELLERT BLVD ,SSF",
         "latitude": 37.647477890995,
         "longitude": -122.453731985393,
-        "units": "E161"
+        "units": ">E161"
     },
     {
         "id": "HF2400383",
@@ -30,7 +85,7 @@
         "location": "2700 HIGGINS CANYON RD ,SOS",
         "latitude": 37.4399371167676,
         "longitude": -122.390518890002,
-        "units": "E40"
+        "units": ">E40"
     },
     {
         "id": "MF2401160",
@@ -41,18 +96,7 @@
         "location": "HAVEN AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
-    },
-    {
-        "id": "SF2401662",
-        "date": "2024-02-05",
-        "time": "6:17:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRYSTAL SPRINGS RD #2514 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E77"
     },
     {
         "id": "DF2400273",
@@ -63,51 +107,7 @@
         "location": "840 NATIVE SONS PARK RD #IAO ,PES",
         "latitude": 37.2477454881213,
         "longitude": -122.340086679179,
-        "units": "E655 E318"
-    },
-    {
-        "id": "SF2401661",
-        "date": "2024-02-05",
-        "time": "6:05:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDGEWATER BLVD #302 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2401460",
-        "date": "2024-02-05",
-        "time": "6:01:34 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 101 / NO WOODSIDE RD",
-        "latitude": 37.4924375527393,
-        "longitude": -122.221572014907,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2401159",
-        "date": "2024-02-05",
-        "time": "6:00:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2401665",
-        "date": "2024-02-05",
-        "time": "5:54:29 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SIERRA POINT PKWY ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": ">E318"
     },
     {
         "id": "DF2400272",
@@ -118,7 +118,7 @@
         "location": "LOG CABIN RANCH RD / PESCADERO CREEK RD",
         "latitude": 37.3068210497371,
         "longitude": -122.269767265907,
-        "units": ">E357"
+        "units": ""
     },
     {
         "id": "FM2400008",
