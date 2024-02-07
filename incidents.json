@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2401762",
+        "date": "2024-02-07",
+        "time": "1:39:39 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "2526 LINCOLN AVE ,BLM",
+        "latitude": 37.5193547709334,
+        "longitude": -122.3082215328,
+        "units": "E27"
+    },
+    {
+        "id": "RF2401531",
+        "date": "2024-02-07",
+        "time": "1:38:54 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "756 OAKVIEW WAY ,RCY",
+        "latitude": 37.4637270452427,
+        "longitude": -122.259171504975,
+        "units": "E12"
+    },
+    {
+        "id": "NF2401754",
+        "date": "2024-02-07",
+        "time": "1:24:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEAUMONT BLVD ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
         "id": "LF2400148",
         "date": "2024-02-07",
         "time": "1:22:07 PM",
@@ -8,29 +41,7 @@
         "location": "SWEETWOOD DR ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
-    },
-    {
-        "id": "SF2401761",
-        "date": "2024-02-07",
-        "time": "1:19:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVILA RD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E25"
-    },
-    {
-        "id": "RF2401530",
-        "date": "2024-02-07",
-        "time": "1:12:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
+        "units": ">E86"
     },
     {
         "id": "SF2401760",
@@ -41,28 +52,6 @@
         "location": "2302 CARLMONT DR #1 ,BLM",
         "latitude": 37.5102080326663,
         "longitude": -122.29852026968,
-        "units": "?TAC15 >E14 >E15 CM11X3 >T17>BC11"
-    },
-    {
-        "id": "DF2400283",
-        "date": "2024-02-07",
-        "time": "12:10:39 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / SO TROUSDALE DR",
-        "latitude": 37.565593826912,
-        "longitude": -122.389108110994,
-        "units": ">T51"
-    },
-    {
-        "id": "FF2400833",
-        "date": "2024-02-07",
-        "time": "10:27:44 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Water rescue response",
-        "location": "95 HARBOR MASTER RD ,SSF",
-        "latitude": 37.6634387941809,
-        "longitude": -122.37858660283,
-        "units": ">BOAT62"
+        "units": ">E15 >T17"
     }
 ]
