@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2401754",
+        "date": "2024-02-07",
+        "time": "11:12:42 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "586 MIDDLE RD ,BLM",
+        "latitude": 37.5232998136839,
+        "longitude": -122.281764153704,
+        "units": ">E14"
+    },
+    {
+        "id": "MF2401219",
+        "date": "2024-02-07",
+        "time": "11:10:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "365 ATHERTON AVE ,ATN",
+        "latitude": 37.437642076183,
+        "longitude": -122.218388931999,
+        "units": ">E6"
+    },
+    {
         "id": "MF2401218",
         "date": "2024-02-07",
         "time": "11:03:29 AM",
@@ -8,7 +30,7 @@
         "location": "EL CAMINO REAL / 5TH AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E5"
+        "units": ">E5"
     },
     {
         "id": "CF2400984",
@@ -19,7 +41,7 @@
         "location": "CORTEZ AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?E34"
+        "units": ">E34"
     },
     {
         "id": "DF2400281",
@@ -30,18 +52,7 @@
         "location": "NB 280 / SO 92",
         "latitude": 37.5010326373211,
         "longitude": -122.325975079224,
-        "units": "?TAC15 E18 E17 CM11X3 T17BC11"
-    },
-    {
-        "id": "FF2400835",
-        "date": "2024-02-07",
-        "time": "10:59:19 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "205 SHAW RD ,SSF",
-        "latitude": 37.6418804101082,
-        "longitude": -122.410683597871,
-        "units": "E51"
+        "units": ">PR11A"
     },
     {
         "id": "RF2401523",
@@ -52,7 +63,7 @@
         "location": "61 ORCHARD AVE ,RCY",
         "latitude": 37.4665532846744,
         "longitude": -122.22270456922,
-        "units": "E3"
+        "units": ">E3"
     },
     {
         "id": "MF2401217",
@@ -63,40 +74,7 @@
         "location": "EUCLID AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2401749",
-        "date": "2024-02-07",
-        "time": "10:46:40 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HILLSIDE BLVD #B415 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "RF2401521",
-        "date": "2024-02-07",
-        "time": "10:37:47 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "2107 ROOSEVELT AVE ,RCY",
-        "latitude": 37.4661598517168,
-        "longitude": -122.240994889301,
-        "units": ">E12"
-    },
-    {
-        "id": "BF2400527",
-        "date": "2024-02-07",
-        "time": "10:32:21 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLEGE DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
+        "units": ""
     },
     {
         "id": "FF2400833",
@@ -108,16 +86,5 @@
         "latitude": 37.6634387941809,
         "longitude": -122.37858660283,
         "units": "CG22A >BC17 >E65 ?TAC35 CM51X2>BOAT62"
-    },
-    {
-        "id": "NF2401743",
-        "date": "2024-02-07",
-        "time": "9:51:27 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ODDSTAD BLVD #212A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
     }
 ]
