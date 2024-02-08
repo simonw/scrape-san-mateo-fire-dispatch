@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2401800",
+        "id": "RF2401575",
         "date": "2024-02-08",
-        "time": "12:22:11 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "S EL CAMINO REAL / 37TH AVE",
-        "latitude": 37.5344652948188,
-        "longitude": -122.294631837053,
-        "units": "CM21X1 T23 E26 ?TAC25 ?BC5"
+        "time": "12:32:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAUREL ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "CF2401011",
+        "date": "2024-02-08",
+        "time": "12:26:42 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LINCOLN CIR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "SF2401799",
@@ -19,18 +30,7 @@
         "location": "HILLSDALE MALL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "FF2400859",
-        "date": "2024-02-08",
-        "time": "12:17:16 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MILLER AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": "*>E23"
     },
     {
         "id": "MF2401260",
@@ -44,39 +44,6 @@
         "units": ">E2"
     },
     {
-        "id": "SF2401798",
-        "date": "2024-02-08",
-        "time": "12:08:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAUREL AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "WF2400284",
-        "date": "2024-02-08",
-        "time": "12:02:02 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "10 STILL CREEK RD ,WDS",
-        "latitude": 37.3938397075808,
-        "longitude": -122.262441219852,
-        "units": "E356 >E58 TAC16"
-    },
-    {
-        "id": "CF2401010",
-        "date": "2024-02-08",
-        "time": "11:57:12 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LA MESA CT ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
         "id": "WF2400283",
         "date": "2024-02-08",
         "time": "11:42:11 AM",
@@ -85,6 +52,6 @@
         "location": "PORTOLA RD #GATE 5 ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "TAC15 CM11X1 >E7 >R7 >ERV7"
+        "units": ">R7"
     }
 ]
