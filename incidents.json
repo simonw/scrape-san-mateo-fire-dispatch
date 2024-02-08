@@ -1,14 +1,69 @@
 [
     {
-        "id": "FF2400846",
+        "id": "RF2401546",
         "date": "2024-02-07",
-        "time": "6:40:56 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:02:45 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "N SPRUCE AVE ,SSF",
+        "location": "MAIN ST #621 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E65"
+        "units": "E9"
+    },
+    {
+        "id": "MF2401244",
+        "date": "2024-02-07",
+        "time": "7:02:27 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALTA VISTA DR ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "RF2401545",
+        "date": "2024-02-07",
+        "time": "6:53:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WALNUT ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "BF2400536",
+        "date": "2024-02-07",
+        "time": "6:51:16 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1099 ADMIRAL CT ,SNB",
+        "latitude": 37.6340263494716,
+        "longitude": -122.422181047521,
+        "units": ">T51 >E51 CM31X5 ?TAC35"
+    },
+    {
+        "id": "CF2400999",
+        "date": "2024-02-07",
+        "time": "6:47:39 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "320 PINEHILL RD ,HIL",
+        "latitude": 37.5571543326949,
+        "longitude": -122.364209013349,
+        "units": "CM21X4 >T34 >E17 >E32 >E34>BC8 ?TAC25"
+    },
+    {
+        "id": "DF2400288",
+        "date": "2024-02-07",
+        "time": "6:46:07 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "470 NATIVE SONS PARK RD ,PES",
+        "latitude": 37.2502324664727,
+        "longitude": -122.341948502516,
+        "units": "E59 E655"
     },
     {
         "id": "SF2401775",
@@ -19,18 +74,7 @@
         "location": "CONTINENTALS WAY #319 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "BF2400535",
-        "date": "2024-02-07",
-        "time": "6:37:04 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "3300 COLLEGE DR ,SNB",
-        "latitude": 37.6297229529346,
-        "longitude": -122.466494512477,
-        "units": "E64"
+        "units": ""
     },
     {
         "id": "MF2401243",
@@ -41,7 +85,7 @@
         "location": "SHOREBREEZE CT ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ""
     },
     {
         "id": "BF2400534",
@@ -52,18 +96,7 @@
         "location": "PALM CT ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "DF2400287",
-        "date": "2024-02-07",
-        "time": "6:31:46 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Public assist",
-        "location": "170 VALDEFLORES DR ,BRH",
-        "latitude": 37.5730482606794,
-        "longitude": -122.390870972962,
-        "units": ">E35"
+        "units": "*>E52"
     },
     {
         "id": "HF2400403",
@@ -74,7 +107,7 @@
         "location": "MAGNOLIA ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": ""
     },
     {
         "id": "FF2400845",
@@ -85,7 +118,7 @@
         "location": "EL CORTEZ AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": "E61"
     },
     {
         "id": "NF2401758",
