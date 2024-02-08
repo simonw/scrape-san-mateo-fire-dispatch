@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2400998",
+        "date": "2024-02-07",
+        "time": "6:06:07 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "479 LINCOLN CIR ,MLB",
+        "latitude": 37.5997128120864,
+        "longitude": -122.401795256277,
+        "units": "E37"
+    },
+    {
+        "id": "WF2400268",
+        "date": "2024-02-07",
+        "time": "6:03:51 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "322 GLENWOOD AVE ,WDS",
+        "latitude": 37.4372215117304,
+        "longitude": -122.25497423787,
+        "units": "E7"
+    },
+    {
+        "id": "CF2400997",
+        "date": "2024-02-07",
+        "time": "6:01:17 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HOWARD AVE / HIGHLAND AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2401544",
+        "date": "2024-02-07",
+        "time": "5:56:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TRAIN TRACK ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
         "id": "FF2400845",
         "date": "2024-02-07",
         "time": "5:53:00 PM",
@@ -8,18 +52,7 @@
         "location": "EL CORTEZ AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "DF2400286",
-        "date": "2024-02-07",
-        "time": "5:47:58 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "3151 HILLSIDE LN ,BRH",
-        "latitude": 37.5727267806965,
-        "longitude": -122.395311487211,
-        "units": ">E35"
+        "units": ">E61"
     },
     {
         "id": "CF2400996",
@@ -30,7 +63,7 @@
         "location": "NB 101 / SO MILLBRAE AVE",
         "latitude": 37.5969854169125,
         "longitude": -122.371638087183,
-        "units": ">E37 >E34 >T34 >BC8 >MED5CM21X5 ?TAC25"
+        "units": ">T34 >E34 >MED5 CM21X5 ?TAC25"
     },
     {
         "id": "NF2401761",
@@ -52,6 +85,6 @@
         "location": "THORNTON BEACH RD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?CM31X1 ?TAC35 >R95"
+        "units": ">R95"
     }
 ]
