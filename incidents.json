@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2400855",
+        "id": "SF2401791",
         "date": "2024-02-08",
-        "time": "8:26:08 AM",
+        "time": "8:39:28 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "801 ADA ST ,SMO",
+        "latitude": 37.570369478127,
+        "longitude": -122.306709529782,
+        "units": "E24"
+    },
+    {
+        "id": "FF2400856",
+        "date": "2024-02-08",
+        "time": "8:38:29 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "COUNTRY CLUB DR ,SSF",
+        "location": "MARCIE CIR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": "E65"
+    },
+    {
+        "id": "BF2400542",
+        "date": "2024-02-08",
+        "time": "8:29:16 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EAST AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2401567",
+        "date": "2024-02-08",
+        "time": "8:28:00 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL / CHERRY ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
     },
     {
         "id": "HF2400408",
@@ -19,7 +52,7 @@
         "location": "ALAMO ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": "?E44"
+        "units": ">E44"
     },
     {
         "id": "NF2401777",
@@ -30,39 +63,6 @@
         "location": "E MARKET ST / WYANDOTTE AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "SF2401790",
-        "date": "2024-02-08",
-        "time": "8:14:20 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WB 92 / S EL CAMINO REAL OFF RAMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25 ?TAC25 CM21X2"
-    },
-    {
-        "id": "RF2401566",
-        "date": "2024-02-08",
-        "time": "8:13:48 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TORINO DR #7 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "MF2401252",
-        "date": "2024-02-08",
-        "time": "8:09:52 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY AVE #214 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E92"
     }
 ]
