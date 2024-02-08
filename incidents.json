@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2400852",
+        "id": "RF2401565",
         "date": "2024-02-08",
-        "time": "6:40:49 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:02:41 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "HEMLOCK AVE / LOCUST ST",
+        "latitude": 37.4726230357335,
+        "longitude": -122.221831499224,
+        "units": "E9"
+    },
+    {
+        "id": "SF2401787",
+        "date": "2024-02-08",
+        "time": "6:51:46 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
+        "location": "SHOREWAY RD #107 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E14"
+    },
+    {
+        "id": "MF2401250",
+        "date": "2024-02-08",
+        "time": "6:50:44 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #216 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "DF2400294",
+        "date": "2024-02-08",
+        "time": "6:50:29 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "8150 PESCADERO CREEK RD ,LMR",
+        "latitude": 37.2696945694269,
+        "longitude": -122.308853015553,
+        "units": "E655 E59"
     },
     {
         "id": "RF2401564",
@@ -31,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E13"
-    },
-    {
-        "id": "SF2401786",
-        "date": "2024-02-08",
-        "time": "6:30:52 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PALM AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2401562",
-        "date": "2024-02-08",
-        "time": "6:24:52 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Tree down",
-        "location": "TORINO DR / MELENDY DR",
-        "latitude": 37.4933445856628,
-        "longitude": -122.274863475694,
-        "units": ">E16"
-    },
-    {
-        "id": "NF2401775",
-        "date": "2024-02-08",
-        "time": "6:22:49 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #219 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
     }
 ]
