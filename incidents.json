@@ -1,25 +1,69 @@
 [
     {
-        "id": "BF2400560",
+        "id": "CF2401028",
         "date": "2024-02-09",
-        "time": "11:20:29 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "715 2ND AVE ,SNB",
-        "latitude": 37.6287834399936,
-        "longitude": -122.409801633085,
-        "units": ">T51 ?E51"
+        "time": "11:39:32 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "88 S BROADWAY ,MLB",
+        "latitude": 37.5973167175461,
+        "longitude": -122.388031465225,
+        "units": "E37"
     },
     {
-        "id": "SF2401846",
+        "id": "CF2401027",
         "date": "2024-02-09",
-        "time": "11:19:26 AM",
+        "time": "11:39:03 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "SF2401848",
+        "date": "2024-02-09",
+        "time": "11:30:09 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "492 PARROTT DR ,SMO",
-        "latitude": 37.5555027219765,
-        "longitude": -122.333517503218,
-        "units": "E25"
+        "category": "Medical aid",
+        "location": "TRAIN TRACK ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "MF2401287",
+        "date": "2024-02-09",
+        "time": "11:29:05 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAK GROVE AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2401847",
+        "date": "2024-02-09",
+        "time": "11:28:12 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #206A ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
+        "id": "FF2400871",
+        "date": "2024-02-09",
+        "time": "11:25:36 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CLAY AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
     },
     {
         "id": "SF2401845",
@@ -31,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E35"
-    },
-    {
-        "id": "MF2401286",
-        "date": "2024-02-09",
-        "time": "11:03:07 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FORDHAM ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
     }
 ]
