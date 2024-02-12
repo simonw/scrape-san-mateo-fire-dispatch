@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2401933",
+        "date": "2024-02-12",
+        "time": "11:02:36 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARK PL ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E81"
+    },
+    {
+        "id": "NF2401932",
+        "date": "2024-02-12",
+        "time": "10:57:50 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BELFAST WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "FF2400924",
+        "date": "2024-02-12",
+        "time": "10:54:44 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "100 MCLELLAN DR ,SSF",
+        "latitude": 37.6644534355834,
+        "longitude": -122.445490576834,
+        "units": ">E65"
+    },
+    {
+        "id": "FF2400923",
+        "date": "2024-02-12",
+        "time": "10:46:50 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "COUNTRY CLUB DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "SF2401990",
+        "date": "2024-02-12",
+        "time": "10:44:42 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">CM21X1 >E15 >BC5 >T23"
+    },
+    {
         "id": "DF2400317",
         "date": "2024-02-12",
         "time": "10:37:56 AM",
@@ -8,62 +63,7 @@
         "location": "1 POMPONIO BEACH RD ,PES",
         "latitude": 37.2997513718805,
         "longitude": -122.405067746121,
-        "units": "U59 R57 E59 E40 BC15TAC45"
-    },
-    {
-        "id": "RF2401693",
-        "date": "2024-02-12",
-        "time": "10:33:27 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROOSEVELT AVE #24 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "RF2401692",
-        "date": "2024-02-12",
-        "time": "10:32:09 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #106 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "LF2400163",
-        "date": "2024-02-12",
-        "time": "10:20:25 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "B ST ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "FF2400922",
-        "date": "2024-02-12",
-        "time": "10:16:36 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "UTAH AVE #150 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "Q62"
-    },
-    {
-        "id": "BF2400604",
-        "date": "2024-02-12",
-        "time": "10:16:33 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHERRY AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">U59 *>E59"
     },
     {
         "id": "MF2401385",
@@ -74,6 +74,6 @@
         "location": "880 RUNNYMEDE ST ,EPA",
         "latitude": 37.4683371870021,
         "longitude": -122.135427342715,
-        "units": "?TAC15 >SQ401 >CM11X3 >E2 >BC101>T2"
+        "units": "?TAC15 >CM11X3 >E2 >BC101 >T2"
     }
 ]
