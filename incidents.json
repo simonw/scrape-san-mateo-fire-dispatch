@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2401370",
+        "date": "2024-02-11",
+        "time": "10:15:58 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BERESFORD AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2400913",
+        "date": "2024-02-11",
+        "time": "10:14:22 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "CF2401087",
         "date": "2024-02-11",
         "time": "10:03:28 PM",
@@ -8,18 +30,7 @@
         "location": "2601 FRONTERA WAY ,BRM",
         "latitude": 37.5867970090805,
         "longitude": -122.393253275654,
-        "units": "E38 BC8 T34 E34 CM21X2?TAC25 ?E37"
-    },
-    {
-        "id": "SF2401971",
-        "date": "2024-02-11",
-        "time": "9:59:17 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 4TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">T34 >E38 ?TAC25 CM21X2"
     },
     {
         "id": "FF2400912",
@@ -41,6 +52,6 @@
         "location": "GLORIA WAY #411 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">BC101 >E2 CM11X2"
+        "units": "BC101"
     }
 ]
