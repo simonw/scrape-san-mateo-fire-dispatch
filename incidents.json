@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2401395",
+        "date": "2024-02-12",
+        "time": "7:40:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ATHERTON AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "RF2401705",
+        "date": "2024-02-12",
+        "time": "7:33:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOOVER ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "NF2401945",
+        "date": "2024-02-12",
+        "time": "7:27:13 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LOS OLIVOS AVE #4 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "CF2401108",
         "date": "2024-02-12",
         "time": "7:18:51 PM",
@@ -19,61 +52,6 @@
         "location": "EL CAMINO REAL / NORTHUMBERLAND AVE",
         "latitude": 37.4728585606227,
         "longitude": -122.216815361511,
-        "units": ">E9 >T9 >BC1 CM11X4 ?TAC15"
-    },
-    {
-        "id": "CF2401107",
-        "date": "2024-02-12",
-        "time": "7:09:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CRESTVIEW DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "LF2400168",
-        "date": "2024-02-12",
-        "time": "7:06:07 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLMA BLVD ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "SF2402012",
-        "date": "2024-02-12",
-        "time": "7:03:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALHAMBRA DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "BF2400611",
-        "date": "2024-02-12",
-        "time": "7:02:08 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CYPRESS AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "MF2401392",
-        "date": "2024-02-12",
-        "time": "7:00:34 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POLHEMUS AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": "?TAC15 >BC1 CM11X4 >T9 >E9"
     }
 ]
