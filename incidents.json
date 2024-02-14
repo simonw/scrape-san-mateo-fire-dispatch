@@ -1,5 +1,16 @@
 [
     {
+        "id": "LF2400177",
+        "date": "2024-02-14",
+        "time": "12:57:31 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "205 COLLINS AVE ,CLM",
+        "latitude": 37.6747166459782,
+        "longitude": -122.457392067694,
+        "units": "?TAC35 CM31X2 BC19 >E86 T85"
+    },
+    {
         "id": "MF2401457",
         "date": "2024-02-14",
         "time": "12:39:09 PM",
@@ -8,18 +19,7 @@
         "location": "2555 PULGAS AVE ,EPA",
         "latitude": 37.475864306911,
         "longitude": -122.131625370376,
-        "units": "E77"
-    },
-    {
-        "id": "MF2401455",
-        "date": "2024-02-14",
-        "time": "12:37:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">E77"
     },
     {
         "id": "MF2401456",
@@ -30,7 +30,7 @@
         "location": "350 DEMETER ST ,EPA",
         "latitude": 37.4770011087597,
         "longitude": -122.133432160592,
-        "units": "E1 >BC101"
+        "units": "CM11X1 TAC15 >BC101 >E1"
     },
     {
         "id": "CF2401159",
@@ -44,72 +44,6 @@
         "units": ">E37"
     },
     {
-        "id": "BF2400624",
-        "date": "2024-02-14",
-        "time": "12:35:50 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHERRY AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "FF2400965",
-        "date": "2024-02-14",
-        "time": "12:33:26 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BYRON DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2401776",
-        "date": "2024-02-14",
-        "time": "12:31:21 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "132 WINDSOR CT ,SNC",
-        "latitude": 37.4976755848062,
-        "longitude": -122.280731142501,
-        "units": ">E16"
-    },
-    {
-        "id": "SF2402090",
-        "date": "2024-02-14",
-        "time": "12:30:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #114 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "SF2402089",
-        "date": "2024-02-14",
-        "time": "12:30:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "SF2402088",
-        "date": "2024-02-14",
-        "time": "12:23:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD COUNTY RD #C ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
         "id": "SF2402087",
         "date": "2024-02-14",
         "time": "12:21:28 PM",
@@ -119,27 +53,5 @@
         "latitude": 37.5159623489392,
         "longitude": -122.306432190581,
         "units": ">E15"
-    },
-    {
-        "id": "DF2400325",
-        "date": "2024-02-14",
-        "time": "12:12:23 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SEASIDE SCHOOL RD ,SNG",
-        "latitude": null,
-        "longitude": null,
-        "units": "?VFIR23 ?CO57"
-    },
-    {
-        "id": "DF2400324",
-        "date": "2024-02-14",
-        "time": "11:35:11 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GRAY WHALE COVE PARKING LOT ,SON",
-        "latitude": null,
-        "longitude": null,
-        "units": "CM41X1 >ERV40 TAC45 >TO10 >BC10"
     }
 ]
