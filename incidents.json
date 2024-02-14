@@ -1,5 +1,115 @@
 [
     {
+        "id": "MF2401457",
+        "date": "2024-02-14",
+        "time": "12:39:09 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "2555 PULGAS AVE ,EPA",
+        "latitude": 37.475864306911,
+        "longitude": -122.131625370376,
+        "units": "E77"
+    },
+    {
+        "id": "MF2401455",
+        "date": "2024-02-14",
+        "time": "12:37:52 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "MF2401456",
+        "date": "2024-02-14",
+        "time": "12:37:41 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "350 DEMETER ST ,EPA",
+        "latitude": 37.4770011087597,
+        "longitude": -122.133432160592,
+        "units": "E1 >BC101"
+    },
+    {
+        "id": "CF2401159",
+        "date": "2024-02-14",
+        "time": "12:36:32 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1068 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "BF2400624",
+        "date": "2024-02-14",
+        "time": "12:35:50 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CHERRY AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "FF2400965",
+        "date": "2024-02-14",
+        "time": "12:33:26 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BYRON DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "RF2401776",
+        "date": "2024-02-14",
+        "time": "12:31:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "132 WINDSOR CT ,SNC",
+        "latitude": 37.4976755848062,
+        "longitude": -122.280731142501,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2402090",
+        "date": "2024-02-14",
+        "time": "12:30:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #114 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "SF2402089",
+        "date": "2024-02-14",
+        "time": "12:30:15 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "SF2402088",
+        "date": "2024-02-14",
+        "time": "12:23:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD COUNTY RD #C ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
         "id": "SF2402087",
         "date": "2024-02-14",
         "time": "12:21:28 PM",
@@ -8,18 +118,7 @@
         "location": "2525 BUENA VISTA AVE #12 ,BLM",
         "latitude": 37.5159623489392,
         "longitude": -122.306432190581,
-        "units": "E15"
-    },
-    {
-        "id": "HF2400458",
-        "date": "2024-02-14",
-        "time": "12:12:45 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TOURAINE LN ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
+        "units": ">E15"
     },
     {
         "id": "DF2400325",
@@ -30,18 +129,7 @@
         "location": "SEASIDE SCHOOL RD ,SNG",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 ?CO57 E59 R57"
-    },
-    {
-        "id": "MF2401454",
-        "date": "2024-02-14",
-        "time": "12:07:57 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SAND HILL CIR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
+        "units": "?VFIR23 ?CO57"
     },
     {
         "id": "DF2400324",
@@ -52,6 +140,6 @@
         "location": "GRAY WHALE COVE PARKING LOT ,SON",
         "latitude": null,
         "longitude": null,
-        "units": "CM41X1 >ERV40 TAC45 >TO10 >E44>BC10"
+        "units": "CM41X1 >ERV40 TAC45 >TO10 >BC10"
     }
 ]
