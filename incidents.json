@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2400998",
+        "id": "NF2402083",
         "date": "2024-02-16",
-        "time": "5:05:25 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "5:26:58 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "890 CAMPUS DR #216 ,DCY",
+        "latitude": 37.6665602760852,
+        "longitude": -122.477313625574,
+        "units": ">E94"
+    },
+    {
+        "id": "SF2402163",
+        "date": "2024-02-16",
+        "time": "5:26:07 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "GARDINER AVE #9 ,SSF",
+        "location": "S SAN MATEO DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": "*>E21"
     },
     {
         "id": "DF2400333",
@@ -19,6 +30,6 @@
         "location": "LA HONDA RD ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 >R57 ?VFIR23"
+        "units": "?VFIR23 >R57 >E58"
     }
 ]
