@@ -1,14 +1,36 @@
 [
     {
-        "id": "FF2401029",
+        "id": "FF2401030",
         "date": "2024-02-18",
-        "time": "10:02:05 AM",
+        "time": "10:24:10 AM",
         "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "GRAND AVE / CHESTNUT AVE",
+        "latitude": 37.6596103507376,
+        "longitude": -122.430150117544,
+        "units": "?E63"
+    },
+    {
+        "id": "SF2402274",
+        "date": "2024-02-18",
+        "time": "10:18:52 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "281 BEACH PARK BLVD ,FCY",
+        "latitude": 37.5452115885277,
+        "longitude": -122.277078799785,
+        "units": "E29"
+    },
+    {
+        "id": "MF2401563",
+        "date": "2024-02-18",
+        "time": "10:11:33 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "S AIRPORT BLVD #910 ,SSF",
+        "location": "BERESFORD AVE ,WSB",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
+        "units": ">E10"
     },
     {
         "id": "RF2401920",
@@ -22,17 +44,6 @@
         "units": ">E16"
     },
     {
-        "id": "RF2401919",
-        "date": "2024-02-18",
-        "time": "9:55:26 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CARLETON CT ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
         "id": "BF2400677",
         "date": "2024-02-18",
         "time": "9:54:28 AM",
@@ -42,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E51"
-    },
-    {
-        "id": "SF2402273",
-        "date": "2024-02-18",
-        "time": "9:51:58 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #109 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2401917",
-        "date": "2024-02-18",
-        "time": "9:37:07 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLAREMONT AVE #2 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E9"
     }
 ]
