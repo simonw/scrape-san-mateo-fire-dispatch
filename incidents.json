@@ -1,5 +1,16 @@
 [
     {
+        "id": "NF2402160",
+        "date": "2024-02-17",
+        "time": "6:07:11 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "687 CLARIDGE DR ,PCF",
+        "latitude": 37.644903168435,
+        "longitude": -122.47009129166,
+        "units": "E64"
+    },
+    {
         "id": "DF2400340",
         "date": "2024-02-17",
         "time": "5:55:38 PM",
@@ -8,29 +19,7 @@
         "location": "KINGS MOUNTAIN RD / SKYLINE BLVD",
         "latitude": 37.4250155300573,
         "longitude": -122.313764731392,
-        "units": "E356"
-    },
-    {
-        "id": "NF2402159",
-        "date": "2024-02-17",
-        "time": "5:55:23 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 1 / SKYLINE BLVD ON RAMP",
-        "latitude": 37.6657074125862,
-        "longitude": -122.485549939714,
-        "units": "T95 E95 TAC35 BC122 CM31X1"
-    },
-    {
-        "id": "MF2401552",
-        "date": "2024-02-17",
-        "time": "5:55:05 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "605 WILLOW RD ,MNP",
-        "latitude": 37.4630885983856,
-        "longitude": -122.160037445701,
-        "units": "E1"
+        "units": ">E356"
     },
     {
         "id": "RF2401897",
@@ -41,6 +30,6 @@
         "location": "EL CAMINO REAL #253 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "SQ409"
+        "units": ">SQ409"
     }
 ]
