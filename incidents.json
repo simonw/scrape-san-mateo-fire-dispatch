@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2401947",
+        "date": "2024-02-19",
+        "time": "10:38:29 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WHIPPLE AVE / HILLVIEW AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "RF2401946",
+        "date": "2024-02-19",
+        "time": "10:36:21 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "NF2402230",
+        "date": "2024-02-19",
+        "time": "10:33:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "RIO VISTA DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "NF2402229",
+        "date": "2024-02-19",
+        "time": "10:28:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "S PARKVIEW AVE / WOODROW ST",
+        "latitude": 37.7010049783467,
+        "longitude": -122.466969356947,
+        "units": ">E194"
+    },
+    {
         "id": "RF2401945",
         "date": "2024-02-19",
         "time": "10:24:52 AM",
@@ -8,7 +52,7 @@
         "location": "1110 HUDSON CT ,SNC",
         "latitude": 37.4822479597562,
         "longitude": -122.283137560029,
-        "units": "?E18"
+        "units": ">E18"
     },
     {
         "id": "FF2401048",
@@ -19,18 +63,7 @@
         "location": "ROWNTREE WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E64"
-    },
-    {
-        "id": "NF2402227",
-        "date": "2024-02-19",
-        "time": "10:23:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TERRA NOVA BLVD #309A ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E64"
     },
     {
         "id": "FF2401047",
@@ -41,7 +74,7 @@
         "location": "329 MILLER AVE ,SSF",
         "latitude": 37.6561781748417,
         "longitude": -122.411202842242,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "CF2401281",
@@ -52,50 +85,6 @@
         "location": "EL CAMINO REAL / ADELINE DR",
         "latitude": 37.5892509836954,
         "longitude": -122.374850812381,
-        "units": "E35"
-    },
-    {
-        "id": "FF2401046",
-        "date": "2024-02-19",
-        "time": "10:11:11 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MILLER AVE #314 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "MF2401600",
-        "date": "2024-02-19",
-        "time": "10:04:04 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Tree down",
-        "location": "93 MELANIE LN ,ATN",
-        "latitude": 37.4380482157833,
-        "longitude": -122.22982161536,
-        "units": ">E4"
-    },
-    {
-        "id": "CF2401280",
-        "date": "2024-02-19",
-        "time": "10:03:03 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROLLINS RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "CF2401279",
-        "date": "2024-02-19",
-        "time": "10:01:37 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E132"
+        "units": ">E35"
     }
 ]
