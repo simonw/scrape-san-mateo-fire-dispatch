@@ -1,25 +1,91 @@
 [
     {
-        "id": "NF2402234",
+        "id": "NF2402235",
         "date": "2024-02-19",
-        "time": "12:22:44 PM",
+        "time": "12:39:24 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "JUNIPERO SERRA BLVD #B ,DCY",
+        "location": "S MAYFAIR AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
+        "units": ">E95"
     },
     {
-        "id": "MF2401603",
+        "id": "BF2400699",
         "date": "2024-02-19",
-        "time": "12:22:16 PM",
+        "time": "12:36:56 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1150 EL CAMINO REAL ,SNB",
+        "latitude": 37.6369388775055,
+        "longitude": -122.418601675439,
+        "units": ">E51"
+    },
+    {
+        "id": "DF2400368",
+        "date": "2024-02-19",
+        "time": "12:34:20 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "136 NEWTON DR ,BRH",
+        "latitude": 37.5783625104813,
+        "longitude": -122.386325643601,
+        "units": ">E132"
+    },
+    {
+        "id": "BF2400698",
+        "date": "2024-02-19",
+        "time": "12:33:15 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Pole fire",
+        "location": "1970 EVERGREEN DR ,SNB",
+        "latitude": 37.6331919481016,
+        "longitude": -122.445039426503,
+        "units": ">E52"
+    },
+    {
+        "id": "BF2400697",
+        "date": "2024-02-19",
+        "time": "12:33:15 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "3041 CRESTMOOR DR ,SNB",
+        "latitude": 37.6142958979024,
+        "longitude": -122.434679798331,
+        "units": "E64"
+    },
+    {
+        "id": "MF2401604",
+        "date": "2024-02-19",
+        "time": "12:30:44 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "CAPITOL AVE ,EPA",
+        "location": "TRINITY DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">T4"
+    },
+    {
+        "id": "BF2400696",
+        "date": "2024-02-19",
+        "time": "12:22:57 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Tree down",
+        "location": "2350 VALLEYWOOD DR ,SNB",
+        "latitude": 37.6332722987524,
+        "longitude": -122.44449923167,
+        "units": "T51"
+    },
+    {
+        "id": "WF2400337",
+        "date": "2024-02-19",
+        "time": "12:21:58 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "234 ALBION AVE ,WDS",
+        "latitude": 37.4301633253784,
+        "longitude": -122.263123441045,
+        "units": ">E7 CM11X2 ?TAC15 >BC2 >R7"
     },
     {
         "id": "HF2400512",
@@ -30,18 +96,7 @@
         "location": "991 ELM ST ,MON",
         "latitude": 37.5430528972638,
         "longitude": -122.499631109446,
-        "units": "E44"
-    },
-    {
-        "id": "FF2401053",
-        "date": "2024-02-19",
-        "time": "12:19:34 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "440 NORTHWOOD DR ,SSF",
-        "latitude": 37.6376586132728,
-        "longitude": -122.436375327753,
-        "units": "E161"
+        "units": ">E44"
     },
     {
         "id": "NF2402233",
@@ -52,40 +107,7 @@
         "location": "2468 JUNIPERO SERRA BLVD ,DCY",
         "latitude": 37.6916061631447,
         "longitude": -122.471487705757,
-        "units": "?T95"
-    },
-    {
-        "id": "DF2400367",
-        "date": "2024-02-19",
-        "time": "12:18:26 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "154 LOS ROBLES DR ,BRH",
-        "latitude": 37.5763942426216,
-        "longitude": -122.390690166438,
-        "units": "E132 CM21X1 TAC25 E35"
-    },
-    {
-        "id": "HF2400511",
-        "date": "2024-02-19",
-        "time": "12:16:39 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "210 SAN MATEO RD #104 ,HMB",
-        "latitude": 37.4684484655666,
-        "longitude": -122.429848725999,
-        "units": "E40"
-    },
-    {
-        "id": "SF2402327",
-        "date": "2024-02-19",
-        "time": "12:15:41 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E194"
     },
     {
         "id": "FF2401052",
@@ -96,61 +118,6 @@
         "location": "461 BRIARWOOD DR ,SSF",
         "latitude": 37.6374015682129,
         "longitude": -122.436137201161,
-        "units": ">E63"
-    },
-    {
-        "id": "NF2402232",
-        "date": "2024-02-19",
-        "time": "12:08:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CERRO DR #A213 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "FF2401051",
-        "date": "2024-02-19",
-        "time": "11:58:41 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "233 S MAPLE AVE ,SSF",
-        "latitude": 37.6454112754443,
-        "longitude": -122.415690233645,
-        "units": ""
-    },
-    {
-        "id": "SF2402326",
-        "date": "2024-02-19",
-        "time": "11:57:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "RF2401951",
-        "date": "2024-02-19",
-        "time": "11:45:42 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "677 EDGECLIFF WAY ,RCY",
-        "latitude": 37.4575193679774,
-        "longitude": -122.259328342913,
-        "units": ">E12"
-    },
-    {
-        "id": "BF2400691",
-        "date": "2024-02-19",
-        "time": "10:49:01 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "1000 NATIONAL AVE ,SNB",
-        "latitude": 37.6330851842369,
-        "longitude": -122.421275946215,
-        "units": ">T51"
+        "units": ">E161"
     }
 ]
