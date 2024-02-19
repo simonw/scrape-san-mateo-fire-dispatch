@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2402303",
+        "date": "2024-02-18",
+        "time": "9:00:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "YOUNG ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E26"
+    },
+    {
+        "id": "LF2400189",
+        "date": "2024-02-18",
+        "time": "8:59:38 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "A ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "CF2401267",
+        "date": "2024-02-18",
+        "time": "8:56:36 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #150 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "FF2401037",
         "date": "2024-02-18",
         "time": "8:41:27 PM",
@@ -8,7 +41,7 @@
         "location": "SB 280 / EB WESTBOROUGH BLVD ON RAMP",
         "latitude": 37.6436772499729,
         "longitude": -122.447196276721,
-        "units": "E64 BC17 T51 ?TAC35 ?CM31X1"
+        "units": "CM31X1 >E64"
     },
     {
         "id": "WF2400332",
@@ -19,7 +52,7 @@
         "location": "SAND HILL RD / PORTOLA RD",
         "latitude": 37.4024369970635,
         "longitude": -122.245031769094,
-        "units": "R7"
+        "units": ">R7"
     },
     {
         "id": "SF2402302",
@@ -41,7 +74,7 @@
         "location": "MONTE DIABLO AVE / N IDAHO ST",
         "latitude": 37.5755513166985,
         "longitude": -122.321058186355,
-        "units": "CM21X5 BC8 ?TAC25 >E24 >T21"
+        "units": "CM21X5 ?TAC25 >E24 >T21"
     },
     {
         "id": "DF2400360",
@@ -52,40 +85,7 @@
         "location": "ALPINE RD / PESCADERO CREEK RD",
         "latitude": 37.2995162281623,
         "longitude": -122.264529329472,
-        "units": "E58 E57"
-    },
-    {
-        "id": "SF2402300",
-        "date": "2024-02-18",
-        "time": "8:36:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E COURT LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "NF2402208",
-        "date": "2024-02-18",
-        "time": "8:33:43 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "132 HUNTINGTON DR ,DCY",
-        "latitude": 37.680271803717,
-        "longitude": -122.485399607857,
-        "units": ">T95"
-    },
-    {
-        "id": "MF2401590",
-        "date": "2024-02-18",
-        "time": "8:26:42 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / MIDDLE AVE",
-        "latitude": 37.450472927918,
-        "longitude": -122.177180362371,
-        "units": ">BC1 CM11X5 >SQ401 ?TAC16 >E1"
+        "units": ">E57"
     },
     {
         "id": "DF2400357",
@@ -107,6 +107,6 @@
         "location": "SB 280 / NO JOHN DALY BLVD",
         "latitude": 37.7068360881013,
         "longitude": -122.470463627917,
-        "units": ">E92"
+        "units": ""
     }
 ]
