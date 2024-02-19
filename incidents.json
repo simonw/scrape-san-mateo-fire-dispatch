@@ -1,14 +1,25 @@
 [
     {
-        "id": "WF2400339",
+        "id": "RF2401962",
         "date": "2024-02-19",
-        "time": "2:36:18 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / NO SAND HILL RD",
-        "latitude": 37.4282029747085,
-        "longitude": -122.23430542581,
-        "units": ">E7 T4 E4 CM11X3 BC2?TAC16"
+        "time": "3:03:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHARTER ST ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E11"
+    },
+    {
+        "id": "FF2401058",
+        "date": "2024-02-19",
+        "time": "2:54:53 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "275 S AIRPORT BLVD ,SSF",
+        "latitude": 37.6463849553125,
+        "longitude": -122.404273368693,
+        "units": ">Q62"
     },
     {
         "id": "MF2401607",
@@ -19,18 +30,7 @@
         "location": "1 DUMBARTON BRDG ,MNP",
         "latitude": 37.5129588115177,
         "longitude": -122.109857826076,
-        "units": "TAC15 CM51X1 AB77 BC101"
-    },
-    {
-        "id": "NF2402239",
-        "date": "2024-02-19",
-        "time": "2:27:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "LAKE MERCED BLVD / JOHN MUIR DR",
-        "latitude": 37.7080851307938,
-        "longitude": -122.485724047882,
-        "units": ">E194"
+        "units": ">BC101 TAC15 CM51X1 AB77"
     },
     {
         "id": "DF2400369",
@@ -41,6 +41,6 @@
         "location": "SKYLINE BLVD / ALPINE RD",
         "latitude": 37.3149197614327,
         "longitude": -122.18724185588,
-        "units": ">E58"
+        "units": "*>E58"
     }
 ]
