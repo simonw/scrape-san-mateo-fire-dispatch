@@ -1,47 +1,91 @@
 [
     {
-        "id": "MF2401589",
+        "id": "FF2401037",
         "date": "2024-02-18",
-        "time": "8:21:23 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:41:27 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 280 / EB WESTBOROUGH BLVD ON RAMP",
+        "latitude": 37.6436772499729,
+        "longitude": -122.447196276721,
+        "units": "E64 BC17 T51 ?TAC35 ?CM31X1"
+    },
+    {
+        "id": "WF2400332",
+        "date": "2024-02-18",
+        "time": "8:39:27 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Tree down",
+        "location": "SAND HILL RD / PORTOLA RD",
+        "latitude": 37.4024369970635,
+        "longitude": -122.245031769094,
+        "units": "R7"
+    },
+    {
+        "id": "SF2402302",
+        "date": "2024-02-18",
+        "time": "8:38:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "SCOFIELD AVE #A ,EPA",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">E21"
     },
     {
-        "id": "DF2400359",
+        "id": "SF2402301",
         "date": "2024-02-18",
-        "time": "8:18:48 PM",
+        "time": "8:36:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "MONTE DIABLO AVE / N IDAHO ST",
+        "latitude": 37.5755513166985,
+        "longitude": -122.321058186355,
+        "units": "CM21X5 BC8 ?TAC25 >E24 >T21"
+    },
+    {
+        "id": "DF2400360",
+        "date": "2024-02-18",
+        "time": "8:36:21 PM",
         "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO 92",
-        "latitude": 37.5010326373211,
-        "longitude": -122.325975079224,
-        "units": ">BC11 >T17 >E15 CM11X4 E18?TAC15"
+        "category": "Tree down",
+        "location": "ALPINE RD / PESCADERO CREEK RD",
+        "latitude": 37.2995162281623,
+        "longitude": -122.264529329472,
+        "units": "E58 E57"
     },
     {
-        "id": "MF2401588",
+        "id": "SF2402300",
         "date": "2024-02-18",
-        "time": "8:16:57 PM",
+        "time": "8:36:07 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E COURT LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "NF2402208",
+        "date": "2024-02-18",
+        "time": "8:33:43 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "132 HUNTINGTON DR ,DCY",
+        "latitude": 37.680271803717,
+        "longitude": -122.485399607857,
+        "units": ">T95"
+    },
+    {
+        "id": "MF2401590",
+        "date": "2024-02-18",
+        "time": "8:26:42 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "48 HENDERSON PL ,MNP",
-        "latitude": 37.4781237400594,
-        "longitude": -122.159544913548,
-        "units": ">E77"
-    },
-    {
-        "id": "HF2400502",
-        "date": "2024-02-18",
-        "time": "8:13:35 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1396 CEDAR ST ,MON",
-        "latitude": 37.537327447209,
-        "longitude": -122.507077163125,
-        "units": ">E44"
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / MIDDLE AVE",
+        "latitude": 37.450472927918,
+        "longitude": -122.177180362371,
+        "units": ">BC1 CM11X5 >SQ401 ?TAC16 >E1"
     },
     {
         "id": "DF2400357",
@@ -63,50 +107,6 @@
         "location": "SB 280 / NO JOHN DALY BLVD",
         "latitude": 37.7068360881013,
         "longitude": -122.470463627917,
-        "units": ">BC20 TAC36 >E92 >T95 CM31X4"
-    },
-    {
-        "id": "MF2401587",
-        "date": "2024-02-18",
-        "time": "7:57:50 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLE AVE #6 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "CF2401264",
-        "date": "2024-02-18",
-        "time": "7:52:43 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2402205",
-        "date": "2024-02-18",
-        "time": "7:50:37 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "761 BEECHWOOD DR ,DCY",
-        "latitude": 37.688306725714,
-        "longitude": -122.484587500828,
-        "units": ">E95"
-    },
-    {
-        "id": "FF2401036",
-        "date": "2024-02-18",
-        "time": "7:00:10 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO HICKEY BLVD",
-        "latitude": 37.6549237918762,
-        "longitude": -122.45727554244,
-        "units": ">E63"
+        "units": ">E92"
     }
 ]
