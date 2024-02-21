@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2401662",
+        "id": "RF2402018",
         "date": "2024-02-21",
-        "time": "10:19:12 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "10:37:48 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "CLARKE AVE ,EPA",
+        "location": "BROADWAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ">SQ409"
+    },
+    {
+        "id": "WF2400357",
+        "date": "2024-02-21",
+        "time": "10:37:00 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "LOS TRANCOS RD / RAMONA RD",
+        "latitude": 37.3510303577479,
+        "longitude": -122.19830095094,
+        "units": "E8"
+    },
+    {
+        "id": "DF2400391",
+        "date": "2024-02-21",
+        "time": "10:28:19 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "SB 280 / NO BLACK MOUNTAIN RD OFF RAMP",
+        "latitude": 37.5568034592256,
+        "longitude": -122.380372766074,
+        "units": ">E33"
+    },
+    {
+        "id": "CF2401345",
+        "date": "2024-02-21",
+        "time": "10:28:13 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "400 MURCHISON DR ,MLB",
+        "latitude": 37.5938516139867,
+        "longitude": -122.390156482832,
+        "units": ">E37"
     },
     {
         "id": "MF2401661",
@@ -19,28 +52,6 @@
         "location": "300 SAND HILL CIR ,MNP",
         "latitude": 37.4256655057819,
         "longitude": -122.221574716119,
-        "units": ">E7"
-    },
-    {
-        "id": "WF2400356",
-        "date": "2024-02-21",
-        "time": "10:05:30 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DEDALERA DR ,LAD",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E8"
-    },
-    {
-        "id": "CF2401344",
-        "date": "2024-02-21",
-        "time": "10:01:10 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MAHLER RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
+        "units": ""
     }
 ]
