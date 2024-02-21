@@ -1,14 +1,69 @@
 [
     {
-        "id": "NF2402314",
+        "id": "NF2402316",
         "date": "2024-02-21",
-        "time": "8:40:42 AM",
+        "time": "9:02:30 AM",
         "summary": "North County Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "LAKEVIEW AVE / BRIGHTON RD",
+        "latitude": 37.6305895796737,
+        "longitude": -122.491241217539,
+        "units": "?E71"
+    },
+    {
+        "id": "RF2402015",
+        "date": "2024-02-21",
+        "time": "9:00:59 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Fire alarm",
-        "location": "185 VISITACION AVE ,BRS",
-        "latitude": 37.6831704061924,
-        "longitude": -122.403023970289,
-        "units": ">E81"
+        "location": "301 SATUMA DR ,RWS",
+        "latitude": 37.5444755581638,
+        "longitude": -122.243694222085,
+        "units": "E20"
+    },
+    {
+        "id": "MF2401660",
+        "date": "2024-02-21",
+        "time": "8:58:49 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ASHFIELD RD ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
+        "id": "CF2401339",
+        "date": "2024-02-21",
+        "time": "8:55:25 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2402315",
+        "date": "2024-02-21",
+        "time": "8:50:09 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2401659",
+        "date": "2024-02-21",
+        "time": "8:49:08 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FORDHAM ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "CF2401338",
@@ -19,18 +74,7 @@
         "location": "MONTE CORVINO WAY ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "SF2402402",
-        "date": "2024-02-21",
-        "time": "8:31:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
+        "units": ""
     },
     {
         "id": "SF2402401",
@@ -41,17 +85,6 @@
         "location": "EL PARQUE CT #D ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "NF2402313",
-        "date": "2024-02-21",
-        "time": "8:22:16 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VERDUCCI DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
+        "units": "E26"
     }
 ]
