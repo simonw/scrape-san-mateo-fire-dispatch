@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2401662",
+        "date": "2024-02-21",
+        "time": "10:19:12 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLARKE AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "MF2401661",
+        "date": "2024-02-21",
+        "time": "10:09:50 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "300 SAND HILL CIR ,MNP",
+        "latitude": 37.4256655057819,
+        "longitude": -122.221574716119,
+        "units": ">E7"
+    },
+    {
         "id": "WF2400356",
         "date": "2024-02-21",
         "time": "10:05:30 AM",
@@ -8,18 +30,7 @@
         "location": "DEDALERA DR ,LAD",
         "latitude": null,
         "longitude": null,
-        "units": "?E8"
-    },
-    {
-        "id": "SF2402403",
-        "date": "2024-02-21",
-        "time": "10:03:04 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "100 S ELLSWORTH AVE ,SMO",
-        "latitude": 37.5665390782717,
-        "longitude": -122.324747743917,
-        "units": "T21"
+        "units": "*>E8"
     },
     {
         "id": "CF2401344",
@@ -31,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E35"
-    },
-    {
-        "id": "RF2402016",
-        "date": "2024-02-21",
-        "time": "9:52:06 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "2820 TRAMANTO DR ,SNC",
-        "latitude": 37.4893370152066,
-        "longitude": -122.27230325016,
-        "units": ">E16"
     }
 ]
