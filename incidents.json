@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2402529",
+        "date": "2024-02-23",
+        "time": "7:41:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR / 2ND AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "MF2401714",
+        "date": "2024-02-23",
+        "time": "7:37:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BUCHANAN CT ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "FF2401139",
+        "date": "2024-02-23",
+        "time": "7:27:39 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MORNINGSIDE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "WF2400369",
         "date": "2024-02-23",
         "time": "7:12:21 PM",
@@ -8,40 +41,7 @@
         "location": "101 LAUGHING COW RD ,KMT",
         "latitude": 37.4230462956211,
         "longitude": -122.313031459478,
-        "units": "?WTG >E356 CM11X2 >BC15 E27E17 T17 T4 E56 BC2"
-    },
-    {
-        "id": "CF2401407",
-        "date": "2024-02-23",
-        "time": "7:09:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #204 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2402527",
-        "date": "2024-02-23",
-        "time": "7:07:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "SF2402525",
-        "date": "2024-02-23",
-        "time": "6:42:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "HARBOR BLVD ON RAMP / SB 101 FRONTAGE R",
-        "latitude": 37.5219765061745,
-        "longitude": -122.265705825478,
-        "units": ">BC5 >E14"
+        "units": ">E7 >E56 >E356 >E17 ?TAC16CM11X2 >T17 >T4 >BC11 >E27"
     },
     {
         "id": "NF2402409",
@@ -52,6 +52,6 @@
         "location": "237 MARIPOSA ST ,BRS",
         "latitude": 37.6834499924335,
         "longitude": -122.40238132049,
-        "units": ">BC20 CM31X2 ?TAC35 >BS86 >E93>Q62 >E81"
+        "units": ">BC20 CM31X2 ?TAC35 >Q62 >E81"
     }
 ]
