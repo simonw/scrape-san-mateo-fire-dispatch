@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2402525",
+        "date": "2024-02-23",
+        "time": "6:42:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "HARBOR BLVD ON RAMP / SB 101 FRONTAGE R",
+        "latitude": 37.5219765061745,
+        "longitude": -122.265705825478,
+        "units": "?TAC15 ?CM11X5 ?BC5 ?E14 ?T23"
+    },
+    {
+        "id": "NF2402413",
+        "date": "2024-02-23",
+        "time": "6:25:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "101 PALMETTO AVE ,PCF",
+        "latitude": 37.6575405685243,
+        "longitude": -122.49172766288,
+        "units": ">E71"
+    },
+    {
         "id": "SF2402524",
         "date": "2024-02-23",
         "time": "6:19:46 PM",
@@ -8,7 +30,7 @@
         "location": "EL CAMINO REAL ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ""
     },
     {
         "id": "NF2402412",
@@ -19,18 +41,7 @@
         "location": "100 ROCKAWAY BEACH AVE ,PCF",
         "latitude": 37.6091282030214,
         "longitude": -122.49716917947,
-        "units": "TAC36 >E72 T95 BC121 ?CM31X5"
-    },
-    {
-        "id": "RF2402127",
-        "date": "2024-02-23",
-        "time": "6:05:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOWARD AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": "TAC36"
     },
     {
         "id": "FF2401138",
@@ -52,6 +63,6 @@
         "location": "237 MARIPOSA ST ,BRS",
         "latitude": 37.6834499924335,
         "longitude": -122.40238132049,
-        "units": ">BC20 CM31X2 >PR20A ?TAC35 BS86>E65 >E93 >PR20C >Q62 >E81"
+        "units": ">BC20 CM31X2 ?TAC35 >BS86 >E93>Q62 >E81"
     }
 ]
