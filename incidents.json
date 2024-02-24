@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2402433",
+        "id": "MF2401733",
         "date": "2024-02-24",
-        "time": "11:22:25 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "11:42:27 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
+        "location": "COOLEY AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": "?T2"
+    },
+    {
+        "id": "RF2402151",
+        "date": "2024-02-24",
+        "time": "11:40:07 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "REDWOOD AVE / GORDON ST",
+        "latitude": null,
+        "longitude": null,
+        "units": "SQ409"
+    },
+    {
+        "id": "SF2402558",
+        "date": "2024-02-24",
+        "time": "11:37:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SEAL ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
     },
     {
         "id": "SF2402557",
@@ -19,7 +41,7 @@
         "location": "ARBOR AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "SF2402556",
@@ -30,40 +52,7 @@
         "location": "3512 HILLCREST DR ,BLM",
         "latitude": 37.5157439694297,
         "longitude": -122.317917514366,
-        "units": ">BC11 >E15 >T17 CM11X4 ?TAC16"
-    },
-    {
-        "id": "MF2401732",
-        "date": "2024-02-24",
-        "time": "11:10:57 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVY AVE ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "SF2402554",
-        "date": "2024-02-24",
-        "time": "11:04:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S HUMBOLDT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "MF2401731",
-        "date": "2024-02-24",
-        "time": "11:01:23 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "units": ">T17 >BC11 >E15"
     },
     {
         "id": "RF2402148",
@@ -74,6 +63,6 @@
         "location": "45 CLAREMONT AVE #4 ,RCY",
         "latitude": 37.4901377304848,
         "longitude": -122.241365157813,
-        "units": "CM11X1 PR3B ?TAC15 >E9 >E11>T9 >BC3 >E16 >SQ409 >E10"
+        "units": "CM11X1 PR3B ?TAC15 >BC3 >E10"
     }
 ]
