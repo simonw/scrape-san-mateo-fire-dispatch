@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2401724",
+        "date": "2024-02-24",
+        "time": "6:33:17 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "FF2401150",
+        "date": "2024-02-24",
+        "time": "6:32:56 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SAN MATEO AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
         "id": "SF2402546",
         "date": "2024-02-24",
         "time": "6:18:21 AM",
@@ -8,18 +30,7 @@
         "location": "ACADEMY AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "FF2401149",
-        "date": "2024-02-24",
-        "time": "6:11:23 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "131 MANZANITA AVE ,SSF",
-        "latitude": 37.6493237708972,
-        "longitude": -122.421201243626,
-        "units": ">E61"
+        "units": ""
     },
     {
         "id": "SF2402545",
@@ -31,17 +42,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "CF2401418",
-        "date": "2024-02-24",
-        "time": "6:08:40 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #2409 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
     },
     {
         "id": "SF2402544",
@@ -63,6 +63,6 @@
         "location": "1968 OLD COUNTY RD ,RCY",
         "latitude": 37.4952553269664,
         "longitude": -122.244135864916,
-        "units": "PR3B >E13"
+        "units": "PR3B >PR3D"
     }
 ]
