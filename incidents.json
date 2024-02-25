@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2402581",
+        "id": "SF2402582",
         "date": "2024-02-24",
-        "time": "8:02:30 PM",
+        "time": "8:13:22 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "723 W POPLAR AVE ,SMO",
-        "latitude": 37.5622371003275,
-        "longitude": -122.35041934734,
-        "units": "E32"
+        "category": "Medical aid",
+        "location": "PENINSULA AVE #306 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "CF2401432",
+        "date": "2024-02-24",
+        "time": "8:10:22 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1077A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "FF2401159",
@@ -19,28 +30,6 @@
         "location": "1333 MISSION RD ,SSF",
         "latitude": 37.6644365023715,
         "longitude": -122.444021523015,
-        "units": "?TAC35 CM31X1 T51 >BC17 >E63"
-    },
-    {
-        "id": "BF2400771",
-        "date": "2024-02-24",
-        "time": "7:51:03 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "RF2402169",
-        "date": "2024-02-24",
-        "time": "7:42:11 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "1107 2ND AVE ,RCY",
-        "latitude": 37.4856958347054,
-        "longitude": -122.200133941431,
-        "units": "CM11X2 TAC15 >E11 >T9"
+        "units": "?TAC35 CM31X1 >T51 >BC17 >E63"
     }
 ]
