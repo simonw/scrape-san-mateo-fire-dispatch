@@ -1,5 +1,16 @@
 [
     {
+        "id": "NF2402500",
+        "date": "2024-02-26",
+        "time": "10:32:32 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "17 HILLCREST DR ,DCY",
+        "latitude": 37.7057331933686,
+        "longitude": -122.462153704379,
+        "units": ">E92"
+    },
+    {
         "id": "NF2402499",
         "date": "2024-02-26",
         "time": "10:25:17 AM",
@@ -8,7 +19,7 @@
         "location": "HUNTINGTON DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E95"
+        "units": ">E95"
     },
     {
         "id": "NF2402498",
@@ -19,18 +30,7 @@
         "location": "WESTLAKE CTR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "MF2401779",
-        "date": "2024-02-26",
-        "time": "10:22:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON CT ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "units": ">E91"
     },
     {
         "id": "RF2402214",
@@ -52,28 +52,6 @@
         "location": "725 OLIVE CT ,SNB",
         "latitude": 37.6246924311249,
         "longitude": -122.421152536829,
-        "units": ">T51 >E52 >TO16 >BC16 CM31X4?TAC35"
-    },
-    {
-        "id": "CF2401474",
-        "date": "2024-02-26",
-        "time": "9:34:52 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "2840 CHURCHILL DR ,HIL",
-        "latitude": 37.5680768782448,
-        "longitude": -122.384843482959,
-        "units": ">T34 >E33 CM21X5 ?TAC25"
-    },
-    {
-        "id": "MF2401777",
-        "date": "2024-02-26",
-        "time": "9:30:06 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "T2"
+        "units": "PR16 >PR16A >T51 >E52 >TO16>BC16 CM31X4 ?TAC35"
     }
 ]
