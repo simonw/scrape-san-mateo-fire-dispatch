@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2400789",
+        "date": "2024-02-26",
+        "time": "10:01:36 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "725 OLIVE CT ,SNB",
+        "latitude": 37.6246924311249,
+        "longitude": -122.421152536829,
+        "units": "E61 CM31X4 TO16 E52 T51BC16 E64 ?TAC35"
+    },
+    {
+        "id": "HF2400556",
+        "date": "2024-02-26",
+        "time": "9:51:13 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S #118 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "RF2402212",
+        "date": "2024-02-26",
+        "time": "9:45:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHARTER ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
         "id": "CF2401474",
         "date": "2024-02-26",
         "time": "9:34:52 AM",
@@ -8,7 +41,7 @@
         "location": "2840 CHURCHILL DR ,HIL",
         "latitude": 37.5680768782448,
         "longitude": -122.384843482959,
-        "units": ">E33 E38 T34 BC8 E34CM21X5 ?TAC25"
+        "units": "CM21X5 >T34 >BC8 ?TAC25 >E33>E34"
     },
     {
         "id": "MF2401777",
@@ -19,7 +52,7 @@
         "location": "BAY RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">T2"
+        "units": "T2"
     },
     {
         "id": "MF2401776",
@@ -31,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "NF2402497",
-        "date": "2024-02-26",
-        "time": "9:23:35 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #233 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
     }
 ]
