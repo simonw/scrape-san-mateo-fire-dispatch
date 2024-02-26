@@ -1,14 +1,36 @@
 [
     {
-        "id": "LF2400207",
+        "id": "RF2402196",
         "date": "2024-02-25",
-        "time": "7:00:55 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "7:20:42 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "710 WINSLOW ST ,RCY",
+        "latitude": 37.4871138479902,
+        "longitude": -122.231301143195,
+        "units": ">BC3 >T9 >E9 CM11X5 ?TAC15"
+    },
+    {
+        "id": "RF2402195",
+        "date": "2024-02-25",
+        "time": "7:18:13 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "D ST ,BRD",
+        "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E85"
+        "units": ">SQ409"
+    },
+    {
+        "id": "HF2400548",
+        "date": "2024-02-25",
+        "time": "7:13:07 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ARNOLD WAY #213 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
     },
     {
         "id": "CF2401459",
@@ -22,17 +44,6 @@
         "units": ">E34"
     },
     {
-        "id": "FF2401185",
-        "date": "2024-02-25",
-        "time": "6:59:50 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD #224 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
         "id": "CF2401458",
         "date": "2024-02-25",
         "time": "6:58:46 PM",
@@ -41,17 +52,6 @@
         "location": "SPRINGFIELD DR ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "NF2402478",
-        "date": "2024-02-25",
-        "time": "6:50:47 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "35 PONCETTA DR ,DCY",
-        "latitude": 37.7027732876686,
-        "longitude": -122.47358166144,
-        "units": ">E91"
+        "units": ""
     }
 ]
