@@ -1,14 +1,47 @@
 [
     {
+        "id": "BF2400798",
+        "date": "2024-02-27",
+        "time": "8:40:33 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #2123 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "SF2402683",
+        "date": "2024-02-27",
+        "time": "8:35:33 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S GRANT ST #4 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "FF2401203",
+        "date": "2024-02-27",
+        "time": "8:28:22 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALIDA WAY #119 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "SF2402682",
         "date": "2024-02-27",
         "time": "8:25:37 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
+        "category": "Traffic accident",
         "location": "1450 TARPON ST ,FCY",
         "latitude": 37.559043951811,
         "longitude": -122.248765898385,
-        "units": "BC5 CM21X4 E28 ?TAC25 ?T23"
+        "units": ">E28"
     },
     {
         "id": "SF2402681",
@@ -20,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E15"
-    },
-    {
-        "id": "FF2401202",
-        "date": "2024-02-27",
-        "time": "8:12:23 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "OYSTER POINT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "LF2400209",
-        "date": "2024-02-27",
-        "time": "8:10:12 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLINS AVE #26 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E85"
-    },
-    {
-        "id": "HF2400560",
-        "date": "2024-02-27",
-        "time": "8:08:42 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVENUE BALBOA ,ELG",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
     }
 ]
