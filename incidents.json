@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2402805",
+        "id": "MF2401870",
         "date": "2024-02-29",
-        "time": "2:42:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:02:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "AVE ,SMO",
+        "location": "CARLTON AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "T23"
+        "units": ">E77"
+    },
+    {
+        "id": "NF2402630",
+        "date": "2024-02-29",
+        "time": "2:50:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROBERTS RD #E ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
     },
     {
         "id": "SF2402804",
@@ -19,29 +30,7 @@
         "location": "LARK LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
-    },
-    {
-        "id": "MF2401869",
-        "date": "2024-02-29",
-        "time": "2:39:14 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROBLE AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "SF2402803",
-        "date": "2024-02-29",
-        "time": "2:38:42 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HACIENDA ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E27"
+        "units": ">E28"
     },
     {
         "id": "NF2402629",
@@ -55,72 +44,6 @@
         "units": ">E81"
     },
     {
-        "id": "SF2402802",
-        "date": "2024-02-29",
-        "time": "2:32:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREVIEW AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2402628",
-        "date": "2024-02-29",
-        "time": "2:31:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALEXANDER AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "CF2401560",
-        "date": "2024-02-29",
-        "time": "2:27:53 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "2045 GERI LN ,HIL",
-        "latitude": 37.5749612122533,
-        "longitude": -122.367950774231,
-        "units": ">E33"
-    },
-    {
-        "id": "DF2400434",
-        "date": "2024-02-29",
-        "time": "2:26:42 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Elevator rescue",
-        "location": "60 LOOP RD #PORT ,SON",
-        "latitude": 37.5124699805163,
-        "longitude": -122.33731436405,
-        "units": ">T17"
-    },
-    {
-        "id": "RF2402320",
-        "date": "2024-02-29",
-        "time": "2:23:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #502 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "FF2401244",
-        "date": "2024-02-29",
-        "time": "2:16:03 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GRAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
-    },
-    {
         "id": "CF2401558",
         "date": "2024-02-29",
         "time": "2:06:34 PM",
@@ -129,6 +52,6 @@
         "location": "SB 101 / NO BROADWAY",
         "latitude": 37.5968398858127,
         "longitude": -122.371807046932,
-        "units": "CM21X5 >T34 >BC8 TAC25 >E34"
+        "units": "CM21X5 >T34 TAC25 >E34"
     }
 ]
