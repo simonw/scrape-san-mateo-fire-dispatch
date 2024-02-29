@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2402307",
+        "date": "2024-02-29",
+        "time": "8:39:20 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "1063 UPTON ST ,RCY",
+        "latitude": 37.4670905149803,
+        "longitude": -122.241957443604,
+        "units": "E10"
+    },
+    {
+        "id": "NF2402617",
+        "date": "2024-02-29",
+        "time": "8:35:35 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GLENWOOD AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "BF2400825",
+        "date": "2024-02-29",
+        "time": "8:28:55 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN DIEGO AVE #2 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
         "id": "MF2401859",
         "date": "2024-02-29",
         "time": "8:22:50 AM",
@@ -8,7 +41,7 @@
         "location": "OAKWOOD PL ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E6"
     },
     {
         "id": "HF2400578",
@@ -19,28 +52,6 @@
         "location": "SAN MATEO RD ,SON",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "NF2402616",
-        "date": "2024-02-29",
-        "time": "8:03:59 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KING DR #116 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "RF2402305",
-        "date": "2024-02-29",
-        "time": "8:03:31 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLOMQUIST ST #A124 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
+        "units": "*>E40"
     }
 ]
