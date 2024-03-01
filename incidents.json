@@ -1,5 +1,49 @@
 [
     {
+        "id": "HF2400584",
+        "date": "2024-02-29",
+        "time": "9:21:16 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "501 VIRGINIA AVE ,MBH",
+        "latitude": 37.5275134342064,
+        "longitude": -122.512624843767,
+        "units": "E44"
+    },
+    {
+        "id": "FF2401250",
+        "date": "2024-02-29",
+        "time": "9:21:00 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "2230 GELLERT BLVD ,SSF",
+        "latitude": 37.6457676493694,
+        "longitude": -122.453994544486,
+        "units": ">E64"
+    },
+    {
+        "id": "RF2402335",
+        "date": "2024-02-29",
+        "time": "9:17:43 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FRANKLIN ST #721 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "RF2402334",
+        "date": "2024-02-29",
+        "time": "9:08:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OLD COUNTY RD / COMMERCIAL ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
         "id": "DF2400439",
         "date": "2024-02-29",
         "time": "9:04:22 PM",
@@ -8,7 +52,7 @@
         "location": "PESCADERO CREEK RD ,LMR",
         "latitude": null,
         "longitude": null,
-        "units": "E59 ?VFIR23 ?CO55"
+        "units": "VFIR23 >E655 >E59 >R57"
     },
     {
         "id": "SF2402823",
@@ -19,7 +63,7 @@
         "location": "GREENFIELD AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "DF2400438",
@@ -30,39 +74,6 @@
         "location": "POLHEMUS RD / ASCENSION DR",
         "latitude": 37.5293241228019,
         "longitude": -122.347028979705,
-        "units": "BC11 E17 T17 ?TAC15 ?CM11X4"
-    },
-    {
-        "id": "CF2401567",
-        "date": "2024-02-29",
-        "time": "8:48:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CADILLAC WAY #313 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "FF2401249",
-        "date": "2024-02-29",
-        "time": "8:35:10 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "2230 GELLERT BLVD ,SSF",
-        "latitude": 37.6457676493694,
-        "longitude": -122.453994544486,
-        "units": ">E64"
-    },
-    {
-        "id": "DF2400437",
-        "date": "2024-02-29",
-        "time": "8:28:33 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "LA HONDA RD / CABRILLO HWY S",
-        "latitude": 37.3245009945071,
-        "longitude": -122.399899192199,
-        "units": ""
+        "units": ">E17"
     }
 ]
