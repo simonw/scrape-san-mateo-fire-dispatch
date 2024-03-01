@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2401892",
+        "date": "2024-03-01",
+        "time": "2:43:47 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "POPE ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E1"
+    },
+    {
+        "id": "SF2402849",
+        "date": "2024-03-01",
+        "time": "2:36:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "210 E 3RD AVE ,SMO",
+        "latitude": 37.5649779239841,
+        "longitude": -122.322680398179,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2402349",
+        "date": "2024-03-01",
+        "time": "2:35:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #210 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "SF2402848",
+        "date": "2024-03-01",
+        "time": "2:34:30 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "909 ACADEMY AVE ,BLM",
+        "latitude": 37.5137852599506,
+        "longitude": -122.292723508169,
+        "units": ">E15"
+    },
+    {
+        "id": "DF2400446",
+        "date": "2024-03-01",
+        "time": "2:25:59 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "TROUSDALE DR ON RAMP / SB 280",
+        "latitude": 37.5774302164463,
+        "longitude": -122.40224786883,
+        "units": ">E33 >E38"
+    },
+    {
         "id": "FF2401261",
         "date": "2024-03-01",
         "time": "2:19:38 PM",
@@ -8,7 +63,7 @@
         "location": "30 CHESTNUT AVE ,SSF",
         "latitude": 37.6556532340137,
         "longitude": -122.432583519948,
-        "units": "E65"
+        "units": ">E65"
     },
     {
         "id": "DF2400445",
@@ -19,17 +74,6 @@
         "location": "NB 280 / SO 92",
         "latitude": 37.5010326373211,
         "longitude": -122.325975079224,
-        "units": ">T17 >E18 >E17 >BC11 CM11X5?TAC15"
-    },
-    {
-        "id": "NF2402680",
-        "date": "2024-03-01",
-        "time": "2:15:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BRYANT ST #157 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">T17 >E17 CM11X5 ?TAC15"
     }
 ]
