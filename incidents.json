@@ -1,5 +1,38 @@
 [
     {
+        "id": "WF2400391",
+        "date": "2024-02-29",
+        "time": "6:25:24 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "25 ZAPATA WAY ,PVY",
+        "latitude": 37.3916699167671,
+        "longitude": -122.225662354226,
+        "units": "E8"
+    },
+    {
+        "id": "RF2402328",
+        "date": "2024-02-29",
+        "time": "6:19:47 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAY HARBOUR DR ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
+        "id": "FF2401247",
+        "date": "2024-02-29",
+        "time": "6:18:26 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
         "id": "RF2402327",
         "date": "2024-02-29",
         "time": "6:13:11 PM",
@@ -8,7 +41,7 @@
         "location": "JEFFERSON AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E12"
+        "units": ">E12"
     },
     {
         "id": "SF2402816",
@@ -41,18 +74,7 @@
         "location": "SB 280 / EDGEWOOD RD ON RAMP",
         "latitude": 37.4725551032949,
         "longitude": -122.296399060905,
-        "units": ">E18 >E17 CM11X3 ?TAC15 >BC11"
-    },
-    {
-        "id": "SF2402815",
-        "date": "2024-02-29",
-        "time": "5:55:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LEO DR ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ">E17"
     },
     {
         "id": "NF2402637",
@@ -63,6 +85,6 @@
         "location": "133 SERRAMONTE CTR ,DCY",
         "latitude": 37.670459099639,
         "longitude": -122.471203642265,
-        "units": ">BC121 PR20A TAC35 >E94 PR20C>T95 CM31X4"
+        "units": "PR20A >E94 PR20C"
     }
 ]
