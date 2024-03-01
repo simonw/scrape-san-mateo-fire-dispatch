@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2402329",
+        "date": "2024-02-29",
+        "time": "6:39:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDGECLIFF WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E12"
+    },
+    {
+        "id": "FF2401248",
+        "date": "2024-02-29",
+        "time": "6:37:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "WF2400392",
+        "date": "2024-02-29",
+        "time": "6:32:50 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO SAND HILL RD",
+        "latitude": 37.4282029747085,
+        "longitude": -122.23430542581,
+        "units": ">BC2 >E7 >R7 CM11X1 E4?TAC15"
+    },
+    {
+        "id": "NF2402639",
+        "date": "2024-02-29",
+        "time": "6:27:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALVARADO ST ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
         "id": "WF2400391",
         "date": "2024-02-29",
         "time": "6:25:24 PM",
@@ -8,7 +52,7 @@
         "location": "25 ZAPATA WAY ,PVY",
         "latitude": 37.3916699167671,
         "longitude": -122.225662354226,
-        "units": "E8"
+        "units": ">E8"
     },
     {
         "id": "RF2402328",
@@ -20,50 +64,6 @@
         "latitude": null,
         "longitude": null,
         "units": ">E20"
-    },
-    {
-        "id": "FF2401247",
-        "date": "2024-02-29",
-        "time": "6:18:26 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "RF2402327",
-        "date": "2024-02-29",
-        "time": "6:13:11 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JEFFERSON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "SF2402816",
-        "date": "2024-02-29",
-        "time": "6:02:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E HILLSDALE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "MF2401873",
-        "date": "2024-02-29",
-        "time": "6:00:11 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MANSION CT ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
     },
     {
         "id": "DF2400435",
@@ -85,6 +85,6 @@
         "location": "133 SERRAMONTE CTR ,DCY",
         "latitude": 37.670459099639,
         "longitude": -122.471203642265,
-        "units": "PR20A >E94 PR20C"
+        "units": "PR20A >E94 >PR20C"
     }
 ]
