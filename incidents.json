@@ -1,14 +1,80 @@
 [
     {
-        "id": "RF2402376",
+        "id": "FF2401270",
         "date": "2024-03-01",
-        "time": "9:59:00 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "10:23:34 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,SNC",
+        "location": "GATEWAY BLVD #1008 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
+        "units": "Q62"
+    },
+    {
+        "id": "MF2401906",
+        "date": "2024-03-01",
+        "time": "10:20:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "720 COLEMAN AVE #E ,MNP",
+        "latitude": 37.4624223388217,
+        "longitude": -122.162279745444,
+        "units": "E1"
+    },
+    {
+        "id": "SF2402880",
+        "date": "2024-03-01",
+        "time": "10:17:51 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "309 VELOCITY WAY ,FCY",
+        "latitude": 37.568050262235,
+        "longitude": -122.279024790908,
+        "units": ">E29"
+    },
+    {
+        "id": "SF2402879",
+        "date": "2024-03-01",
+        "time": "10:11:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WESSEX WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "DF2400457",
+        "date": "2024-03-01",
+        "time": "10:10:56 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "271 SYLVAN WAY ,EML",
+        "latitude": 37.4684403926896,
+        "longitude": -122.274529308721,
+        "units": ">E18"
+    },
+    {
+        "id": "RF2402377",
+        "date": "2024-03-01",
+        "time": "10:08:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "1715 CONNECTICUT DR ,RCY",
+        "latitude": 37.4583452306264,
+        "longitude": -122.232800878938,
+        "units": ">E10"
+    },
+    {
+        "id": "DF2400456",
+        "date": "2024-03-01",
+        "time": "10:07:09 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "13800 SKYLINE BLVD ,KMT",
+        "latitude": 37.4384135665348,
+        "longitude": -122.322561663785,
+        "units": "TAC45 >E56 E17 >E58"
     },
     {
         "id": "FF2401269",
@@ -22,17 +88,6 @@
         "units": ">E63"
     },
     {
-        "id": "CF2401591",
-        "date": "2024-03-01",
-        "time": "9:47:29 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S ASHTON AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
         "id": "CF2401590",
         "date": "2024-03-01",
         "time": "9:31:24 PM",
@@ -41,28 +96,6 @@
         "location": "NB 280 / SO SKYLINE BLVD",
         "latitude": 37.5996217821992,
         "longitude": -122.42327107486,
-        "units": ">BC16 CM21X3 ?TAC25 >USR133 >E38"
-    },
-    {
-        "id": "DF2400455",
-        "date": "2024-03-01",
-        "time": "9:21:11 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "KINGS MOUNTAIN RD / SKYLINE BLVD",
-        "latitude": 37.4250155300573,
-        "longitude": -122.313764731392,
-        "units": ""
-    },
-    {
-        "id": "SF2402877",
-        "date": "2024-03-01",
-        "time": "9:15:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #102 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
+        "units": "CM21X3 ?TAC25 >USR133 >E38"
     }
 ]
