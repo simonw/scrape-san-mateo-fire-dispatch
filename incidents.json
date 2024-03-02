@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2402898",
+        "id": "BF2400860",
         "date": "2024-03-02",
-        "time": "11:56:20 AM",
+        "time": "12:09:32 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / SAN FELIPE AVE",
+        "latitude": 37.6177403227847,
+        "longitude": -122.408803438901,
+        "units": ">T51"
+    },
+    {
+        "id": "MF2401921",
+        "date": "2024-03-02",
+        "time": "12:05:32 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALEJANDRA AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2402899",
+        "date": "2024-03-02",
+        "time": "12:05:30 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "328 N DELAWARE ST ,SMO",
-        "latitude": 37.5744040578015,
-        "longitude": -122.327546167623,
-        "units": ">E24"
+        "category": "Medical aid",
+        "location": "LOS PRADOS ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
     },
     {
         "id": "FF2401281",
@@ -19,18 +41,7 @@
         "location": "264 S SPRUCE AVE ,SSF",
         "latitude": 37.6473057546837,
         "longitude": -122.421812445,
-        "units": ">E81 >E64 >Q62 >E63 >BC16>E61 >BC17 E65 ?TAC35 ?CM31X2"
-    },
-    {
-        "id": "CF2401608",
-        "date": "2024-03-02",
-        "time": "11:21:36 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E34"
+        "units": "?CM31X2 ?TAC35 >BC16 >E65 PR17B>E61 >E64 >BC17 >E63 >Q62"
     },
     {
         "id": "DF2400463",
@@ -41,6 +52,6 @@
         "location": "BEAR GULCH RD ,SNG",
         "latitude": null,
         "longitude": null,
-        "units": ">BC15 >E59 >R57 ?VFIR23"
+        "units": "?VFIR23 >E59 >BC15"
     }
 ]
