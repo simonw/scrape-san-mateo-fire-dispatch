@@ -1,5 +1,82 @@
 [
     {
+        "id": "FF2401338",
+        "date": "2024-03-04",
+        "time": "11:42:01 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LN ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "DF2400477",
+        "date": "2024-03-04",
+        "time": "11:37:54 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY #GAS ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1767 E59"
+    },
+    {
+        "id": "FF2401337",
+        "date": "2024-03-04",
+        "time": "11:37:36 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "330 SHAW RD ,SSF",
+        "latitude": 37.6384153236371,
+        "longitude": -122.407029765528,
+        "units": "E62"
+    },
+    {
+        "id": "RF2402467",
+        "date": "2024-03-04",
+        "time": "11:32:58 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "2064 BRITTAN AVE ,SNC",
+        "latitude": 37.4939187050645,
+        "longitude": -122.262093723013,
+        "units": ">E16"
+    },
+    {
+        "id": "CF2401655",
+        "date": "2024-03-04",
+        "time": "11:29:08 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LAKEVIEW DR ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "NF2402772",
+        "date": "2024-03-04",
+        "time": "11:29:04 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IMPERIAL DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "WF2400411",
+        "date": "2024-03-04",
+        "time": "11:25:09 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CHURCHILL AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">R7"
+    },
+    {
         "id": "MF2401965",
         "date": "2024-03-04",
         "time": "11:16:04 AM",
@@ -8,29 +85,7 @@
         "location": "1854 W BAYSHORE RD #3 ,EPA",
         "latitude": 37.4546371674151,
         "longitude": -122.131974257274,
-        "units": ">E2 T4 E77 E1 BC1SQ401 CM11X1 ?TAC15"
-    },
-    {
-        "id": "SF2402981",
-        "date": "2024-03-04",
-        "time": "11:14:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W 39TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2402770",
-        "date": "2024-03-04",
-        "time": "11:09:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "122 FLOURNOY ST ,DCY",
-        "latitude": 37.7078598083386,
-        "longitude": -122.460311619989,
-        "units": ">E92"
+        "units": ">E2"
     },
     {
         "id": "WF2400410",
@@ -41,7 +96,7 @@
         "location": "VISTA VERDE WAY ,LTW",
         "latitude": null,
         "longitude": null,
-        "units": ">E7"
+        "units": "E7"
     },
     {
         "id": "NF2402768",
@@ -52,6 +107,6 @@
         "location": "2100 BEACH BLVD ,PCF",
         "latitude": 37.6333841438688,
         "longitude": -122.494435094081,
-        "units": "CM31X1 >BC122 >E71 >E94"
+        "units": "CM31X1 >BC122 >E71"
     }
 ]
