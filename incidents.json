@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2401992",
+        "date": "2024-03-05",
+        "time": "11:43:25 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE #112 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T2"
+    },
+    {
+        "id": "DF2400481",
+        "date": "2024-03-05",
+        "time": "11:42:20 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "60 LOOP RD #JUV ,SON",
+        "latitude": 37.511954457644,
+        "longitude": -122.336905090171,
+        "units": ">T17"
+    },
+    {
         "id": "CF2401690",
         "date": "2024-03-05",
         "time": "11:16:41 AM",
@@ -22,50 +44,6 @@
         "units": ">E20"
     },
     {
-        "id": "MF2401991",
-        "date": "2024-03-05",
-        "time": "11:11:39 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "BF2400885",
-        "date": "2024-03-05",
-        "time": "11:03:50 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "E SAN BRUNO AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "BF2400884",
-        "date": "2024-03-05",
-        "time": "11:03:15 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2402822",
-        "date": "2024-03-05",
-        "time": "10:50:49 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DONDEE WAY #F ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E72"
-    },
-    {
         "id": "SF2403021",
         "date": "2024-03-05",
         "time": "9:47:47 AM",
@@ -74,6 +52,6 @@
         "location": "1302 EL CAMINO REAL ,BLM",
         "latitude": 37.5181523074623,
         "longitude": -122.273760931601,
-        "units": "CM11X4 ?TAC15 >T23 >BC5 >E13>E14 >E16"
+        "units": "CM11X4 ?TAC15 >T23 >BC5 >E14"
     }
 ]
