@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2402519",
+        "id": "MF2402005",
         "date": "2024-03-05",
-        "time": "7:03:31 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "7:15:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1155 MERRILL ST ,MNP",
+        "latitude": 37.4547665239627,
+        "longitude": -122.18330679072,
+        "units": ">E6"
+    },
+    {
+        "id": "SF2403037",
+        "date": "2024-03-05",
+        "time": "7:13:02 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "WALNUT ST ,RCY",
+        "location": "FLORES ST #2 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "SQ409"
+        "units": ">E23"
+    },
+    {
+        "id": "NF2402837",
+        "date": "2024-03-05",
+        "time": "7:12:32 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ROCKFORD AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
     },
     {
         "id": "RF2402518",
@@ -19,39 +41,6 @@
         "location": "707 LEAHY ST ,RCY",
         "latitude": 37.4702118714814,
         "longitude": -122.215220792766,
-        "units": "T9"
-    },
-    {
-        "id": "CF2401701",
-        "date": "2024-03-05",
-        "time": "6:58:48 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR / BELLEVUE AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2402836",
-        "date": "2024-03-05",
-        "time": "6:55:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Smoke investigation",
-        "location": "NB 1 / NO MANOR DR",
-        "latitude": 37.6578582163317,
-        "longitude": -122.487562183926,
-        "units": ">E71 E95 ?TAC35 ?CM31X5"
-    },
-    {
-        "id": "NF2402835",
-        "date": "2024-03-05",
-        "time": "6:34:26 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HALF MOON LN #213 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ">T9"
     }
 ]
