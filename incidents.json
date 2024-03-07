@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2401401",
+        "date": "2024-03-07",
+        "time": "4:04:54 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "353 POINT SAN BRUNO BLVD ,SSF",
+        "latitude": 37.6533448519179,
+        "longitude": -122.381099167512,
+        "units": "?Q62"
+    },
+    {
+        "id": "RF2402562",
+        "date": "2024-03-07",
+        "time": "3:53:44 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "SF2403084",
+        "date": "2024-03-07",
+        "time": "3:50:27 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c2",
+        "location": "1901 S NORFOLK ST ,SMO",
+        "latitude": 37.5536336614981,
+        "longitude": -122.290832471401,
+        "units": ">E26"
+    },
+    {
         "id": "SF2403082",
         "date": "2024-03-07",
         "time": "3:43:13 AM",
@@ -8,7 +41,7 @@
         "location": "FOSTER SQUARE LN #403 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E28"
+        "units": ">E28"
     },
     {
         "id": "CF2401731",
@@ -20,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E34"
-    },
-    {
-        "id": "NF2402876",
-        "date": "2024-03-07",
-        "time": "3:23:13 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IMPERIAL WAY #213 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
     }
 ]
