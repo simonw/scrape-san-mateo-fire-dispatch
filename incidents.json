@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2403115",
+        "id": "RF2402585",
         "date": "2024-03-07",
-        "time": "3:00:14 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "3:39:06 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1 DEVONSHIRE BLVD #1 ,SNC",
+        "latitude": 37.501823992711,
+        "longitude": -122.275979042271,
+        "units": "E16"
+    },
+    {
+        "id": "NF2402893",
+        "date": "2024-03-07",
+        "time": "3:38:44 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "EB 92 / WO TOLL PLZ",
+        "location": "GELLERT BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28 CM21X1 HAE2"
+        "units": ">E94"
     },
     {
         "id": "MF2402046",
@@ -22,17 +33,6 @@
         "units": "E2"
     },
     {
-        "id": "SF2403114",
-        "date": "2024-03-07",
-        "time": "2:51:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1540 RALSTON AVE ,BLM",
-        "latitude": 37.5153312893091,
-        "longitude": -122.286625759087,
-        "units": ">E14"
-    },
-    {
         "id": "CF2401745",
         "date": "2024-03-07",
         "time": "2:39:37 PM",
@@ -42,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E21"
-    },
-    {
-        "id": "CF2401744",
-        "date": "2024-03-07",
-        "time": "2:36:30 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
     }
 ]
