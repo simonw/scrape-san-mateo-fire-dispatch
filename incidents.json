@@ -1,14 +1,25 @@
 [
     {
-        "id": "FF2401435",
+        "id": "MF2402089",
         "date": "2024-03-08",
-        "time": "6:41:22 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "7:07:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "2482 FORDHAM ST ,EPA",
+        "latitude": 37.4730207181452,
+        "longitude": -122.136798345564,
+        "units": "?TAC15 ?CM11X3 ?BC101 ?SQ401 ?E2?T2"
+    },
+    {
+        "id": "SF2403158",
+        "date": "2024-03-08",
+        "time": "6:55:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "CAPAY CIR ,SSF",
+        "location": "OLD COUNTY RD #A ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
+        "units": ">E14"
     },
     {
         "id": "RF2402640",
@@ -19,18 +30,7 @@
         "location": "ENSIGN LN ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E20"
-    },
-    {
-        "id": "SF2403156",
-        "date": "2024-03-08",
-        "time": "6:32:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "W 25TH AVE / S EL CAMINO REAL",
-        "latitude": 37.5443440115538,
-        "longitude": -122.305523010242,
-        "units": "CM21X5 >E23 ?TAC25 >T23 >BC5"
+        "units": ">E20"
     },
     {
         "id": "CF2401777",
@@ -42,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E35"
-    },
-    {
-        "id": "CF2401775",
-        "date": "2024-03-08",
-        "time": "6:09:14 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
