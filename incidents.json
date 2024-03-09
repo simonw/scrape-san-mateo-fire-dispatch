@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2402104",
+        "date": "2024-03-09",
+        "time": "11:02:15 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2 NEWELL CT ,EPA",
+        "latitude": 37.4573109602062,
+        "longitude": -122.138796747127,
+        "units": "E1"
+    },
+    {
+        "id": "SF2403183",
+        "date": "2024-03-09",
+        "time": "11:00:07 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CASA BONA AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "SF2403182",
+        "date": "2024-03-09",
+        "time": "10:54:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "145 N EL CAMINO REAL ,SMO",
+        "latitude": 37.5673633340805,
+        "longitude": -122.331449006102,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2401792",
+        "date": "2024-03-09",
+        "time": "10:54:38 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "333 AIRPORT BLVD ,BRM",
+        "latitude": 37.5909127176311,
+        "longitude": -122.335863476756,
+        "units": ">E38"
+    },
+    {
+        "id": "SF2403181",
+        "date": "2024-03-09",
+        "time": "10:46:57 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Vehicle fire",
+        "location": "EB 92 / EO HIGH RI",
+        "latitude": 37.5968493998132,
+        "longitude": -122.222529393744,
+        "units": ">E29"
+    },
+    {
         "id": "SF2403180",
         "date": "2024-03-09",
         "time": "10:42:00 AM",
@@ -8,18 +63,7 @@
         "location": "CARLMONT DR #310C ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "NF2402969",
-        "date": "2024-03-09",
-        "time": "10:41:48 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Gas main break",
-        "location": "515 PERRY AVE ,PCF",
-        "latitude": 37.6482953519638,
-        "longitude": -122.486128617098,
-        "units": "CM31X2 E64 ?TAC35 ?BC124 ?E95?E71 ?T95"
+        "units": ">E15"
     },
     {
         "id": "SF2403179",
@@ -30,18 +74,7 @@
         "location": "ST JAMES RD ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2402664",
-        "date": "2024-03-09",
-        "time": "10:38:33 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CONVENTION WAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
+        "units": ">E27"
     },
     {
         "id": "BF2400919",
@@ -52,6 +85,6 @@
         "location": "PALOMAR CT ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "CM31X1 T51 >E51"
+        "units": ">E51"
     }
 ]
