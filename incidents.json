@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2402104",
+        "id": "SF2403185",
         "date": "2024-03-09",
-        "time": "11:02:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "2 NEWELL CT ,EPA",
-        "latitude": 37.4573109602062,
-        "longitude": -122.138796747127,
-        "units": "E1"
+        "time": "11:20:48 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BELBURN DR ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "SF2403184",
+        "date": "2024-03-09",
+        "time": "11:15:33 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N ELLSWORTH AVE #2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
+    },
+    {
+        "id": "RF2402665",
+        "date": "2024-03-09",
+        "time": "11:12:43 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "FOOTHILL ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
     },
     {
         "id": "SF2403183",
@@ -19,7 +41,7 @@
         "location": "CASA BONA AVE ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ""
     },
     {
         "id": "SF2403182",
@@ -31,60 +53,5 @@
         "latitude": 37.5673633340805,
         "longitude": -122.331449006102,
         "units": ">E21"
-    },
-    {
-        "id": "CF2401792",
-        "date": "2024-03-09",
-        "time": "10:54:38 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "333 AIRPORT BLVD ,BRM",
-        "latitude": 37.5909127176311,
-        "longitude": -122.335863476756,
-        "units": ">E38"
-    },
-    {
-        "id": "SF2403181",
-        "date": "2024-03-09",
-        "time": "10:46:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Vehicle fire",
-        "location": "EB 92 / EO HIGH RI",
-        "latitude": 37.5968493998132,
-        "longitude": -122.222529393744,
-        "units": ">E29"
-    },
-    {
-        "id": "SF2403180",
-        "date": "2024-03-09",
-        "time": "10:42:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #310C ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "SF2403179",
-        "date": "2024-03-09",
-        "time": "10:39:24 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ST JAMES RD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "BF2400919",
-        "date": "2024-03-09",
-        "time": "10:37:31 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALOMAR CT ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
     }
 ]
