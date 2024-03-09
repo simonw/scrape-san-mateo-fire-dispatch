@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2400923",
+        "date": "2024-03-09",
+        "time": "3:00:53 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CEDARWOOD CT ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "SF2403190",
+        "date": "2024-03-09",
+        "time": "2:55:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #202 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "FF2401455",
+        "date": "2024-03-09",
+        "time": "2:53:54 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CHESTNUT AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "FF2401454",
+        "date": "2024-03-09",
+        "time": "2:48:51 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / 1ST ST",
+        "latitude": 37.6530529325447,
+        "longitude": -122.432350131144,
+        "units": ">E63"
+    },
+    {
         "id": "RF2402674",
         "date": "2024-03-09",
         "time": "2:41:25 PM",
@@ -8,18 +52,7 @@
         "location": "1500 EL CAMINO REAL #201 ,RCY",
         "latitude": 37.480092843444,
         "longitude": -122.227563749195,
-        "units": "BC3 TAC16 ?CM11X3 ?T4"
-    },
-    {
-        "id": "CF2401794",
-        "date": "2024-03-09",
-        "time": "2:39:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHULA VISTA AVE #1 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "CM11X3 TAC16 >BC3 >T9 >E10"
     },
     {
         "id": "SF2403189",
@@ -30,29 +63,7 @@
         "location": "OAK KNOLL DR ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "RF2402673",
-        "date": "2024-03-09",
-        "time": "2:37:29 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1125 OLD COUNTY RD ,SNC",
-        "latitude": 37.5011116866275,
-        "longitude": -122.250234194142,
-        "units": "CM11X5 >E13"
-    },
-    {
-        "id": "NF2402981",
-        "date": "2024-03-09",
-        "time": "2:21:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Trash fire",
-        "location": "6232 MISSION ST ,DCY",
-        "latitude": 37.7064979080391,
-        "longitude": -122.460275708111,
-        "units": ">PR20D >E92"
+        "units": ">E15"
     },
     {
         "id": "HF2400649",
@@ -64,16 +75,5 @@
         "latitude": 37.5282664442031,
         "longitude": -122.510199631378,
         "units": ">E44"
-    },
-    {
-        "id": "RF2402671",
-        "date": "2024-03-09",
-        "time": "1:48:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "501 WINSLOW ST #2ND FLOOR ,RCY",
-        "latitude": 37.4894000671633,
-        "longitude": -122.230875054269,
-        "units": ">TAC15 >E9 >T9"
     }
 ]
