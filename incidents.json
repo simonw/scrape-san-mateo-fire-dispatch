@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2401477",
+        "date": "2024-03-10",
+        "time": "3:43:47 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "CHESTNUT AVE / COMMERCIAL AVE",
+        "latitude": 37.6576761077947,
+        "longitude": -122.430842806388,
+        "units": "?TAC35 ?CM31X5 ?BC17 ?E63 ?Q62"
+    },
+    {
+        "id": "CF2401819",
+        "date": "2024-03-10",
+        "time": "3:42:19 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD BAYSHORE HWY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
         "id": "SF2403237",
         "date": "2024-03-10",
         "time": "3:17:29 PM",
@@ -8,7 +30,7 @@
         "location": "S EL CAMINO REAL #110 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
+        "units": ">E16"
     },
     {
         "id": "SF2403236",
@@ -19,39 +41,6 @@
         "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "CM21X5 ?TAC25 USR133 >T23 >BC5>E15"
-    },
-    {
-        "id": "RF2402704",
-        "date": "2024-03-10",
-        "time": "3:12:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JACKSON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2403026",
-        "date": "2024-03-10",
-        "time": "3:02:07 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA VISTA WAY ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "HF2400655",
-        "date": "2024-03-10",
-        "time": "2:29:04 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Hazardous material - consult",
-        "location": "131 MIRADA RD ,MIR",
-        "latitude": 37.495681178381,
-        "longitude": -122.462255574137,
-        "units": "TAC45 >E41 CM41X1 HM14 HM34>BC10"
+        "units": "CM21X5 ?TAC25 >T23 >E15"
     }
 ]
