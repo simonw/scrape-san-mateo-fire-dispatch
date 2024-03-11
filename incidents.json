@@ -1,25 +1,36 @@
 [
     {
-        "id": "MF2402162",
+        "id": "RF2402734",
         "date": "2024-03-11",
-        "time": "1:04:22 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD #165 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "time": "1:21:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "1909 EL CAMINO REAL ,RCY",
+        "latitude": 37.4779744253578,
+        "longitude": -122.223488861971,
+        "units": "?E9"
     },
     {
-        "id": "FF2401496",
+        "id": "FF2401497",
         "date": "2024-03-11",
-        "time": "1:03:56 PM",
+        "time": "1:16:39 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "1 DNA WAY ,SSF",
-        "latitude": 37.6558808702497,
-        "longitude": -122.377621806375,
+        "category": "Public assist, water problem",
+        "location": "389 DNA WAY ,SSF",
+        "latitude": 37.6547558042217,
+        "longitude": -122.384251306861,
         "units": "Q62"
+    },
+    {
+        "id": "RF2402733",
+        "date": "2024-03-11",
+        "time": "1:07:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1153 RUBY ST ,RCY",
+        "latitude": 37.4671688895405,
+        "longitude": -122.238523344492,
+        "units": ">E12"
     },
     {
         "id": "RF2402732",
@@ -31,17 +42,6 @@
         "latitude": 37.4889048188798,
         "longitude": -122.239295578687,
         "units": ">E10"
-    },
-    {
-        "id": "FF2401495",
-        "date": "2024-03-11",
-        "time": "12:51:35 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
     },
     {
         "id": "MF2402161",
@@ -63,17 +63,6 @@
         "location": "CABRILLO HWY ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72 >BC122 CM31X1"
-    },
-    {
-        "id": "NF2403050",
-        "date": "2024-03-11",
-        "time": "12:30:15 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Hazardous material - consult",
-        "location": "191 EDGEMONT DR ,DCY",
-        "latitude": 37.6793192960311,
-        "longitude": -122.48389143605,
-        "units": "HM14"
+        "units": "E72"
     }
 ]
