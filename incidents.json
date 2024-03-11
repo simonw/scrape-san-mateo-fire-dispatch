@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2402146",
+        "date": "2024-03-11",
+        "time": "12:10:32 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "55 DEODORA DR ,ATN",
+        "latitude": 37.4744264342887,
+        "longitude": -122.180210910262,
+        "units": ">E3"
+    },
+    {
+        "id": "FF2401484",
+        "date": "2024-03-11",
+        "time": "12:08:09 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MAPLE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "NF2403035",
         "date": "2024-03-11",
         "time": "12:02:38 AM",
@@ -8,7 +30,7 @@
         "location": "JOHN DALY BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E92"
+        "units": ">E92"
     },
     {
         "id": "MF2402145",
@@ -19,50 +41,6 @@
         "location": "O'CONNOR ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
-    },
-    {
-        "id": "MF2402144",
-        "date": "2024-03-11",
-        "time": "3/10/2024 11:51:50 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "MF2402143",
-        "date": "2024-03-11",
-        "time": "3/10/2024 11:49:07 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 101 / NO MARSH RD",
-        "latitude": 37.4775715102468,
-        "longitude": -122.169821019453,
-        "units": ">E2 >BC101 >T2 >E5 CM11X5?TAC15"
-    },
-    {
-        "id": "BF2400939",
-        "date": "2024-03-11",
-        "time": "3/10/2024 11:45:19 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #133 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2403253",
-        "date": "2024-03-11",
-        "time": "3/10/2024 11:32:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLER ST ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E6"
     }
 ]
