@@ -1,36 +1,80 @@
 [
     {
-        "id": "RF2402774",
+        "id": "HF2400663",
         "date": "2024-03-12",
-        "time": "11:04:04 AM",
+        "time": "11:22:32 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "392 GREENBRIER RD ,HMB",
+        "latitude": 37.4348787850734,
+        "longitude": -122.433741359469,
+        "units": "E40"
+    },
+    {
+        "id": "FF2401521",
+        "date": "2024-03-12",
+        "time": "11:21:17 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "CYPRESS AVE / 8TH LN",
+        "latitude": 37.6590077913652,
+        "longitude": -122.406445064102,
+        "units": "E65"
+    },
+    {
+        "id": "NF2403087",
+        "date": "2024-03-12",
+        "time": "11:19:59 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #301B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "RF2402777",
+        "date": "2024-03-12",
+        "time": "11:19:57 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "SQ409"
+        "category": "Full assignment response",
+        "location": "785 BROADWAY ,RCY",
+        "latitude": 37.4859273807577,
+        "longitude": -122.209349901755,
+        "units": "CM11X5 E3 T9 E11 BC3E10 ?TAC15"
     },
     {
-        "id": "BF2400954",
+        "id": "CF2401868",
         "date": "2024-03-12",
-        "time": "11:03:55 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHERRY AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "CF2401866",
-        "date": "2024-03-12",
-        "time": "10:58:09 AM",
+        "time": "11:19:14 AM",
         "summary": "Central County Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "VALLEJO DR / MADERA WAY",
-        "latitude": 37.5864314147449,
-        "longitude": -122.407206923881,
-        "units": ""
+        "category": "Medical aid",
+        "location": "CORTE ANNA ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "BF2400955",
+        "date": "2024-03-12",
+        "time": "11:18:55 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1099 ADMIRAL CT ,SNB",
+        "latitude": 37.6340263494716,
+        "longitude": -122.422181047521,
+        "units": ">E61 >E52 >T51 >BC16 E51CM31X5 ?TAC35"
+    },
+    {
+        "id": "MF2402184",
+        "date": "2024-03-12",
+        "time": "11:12:34 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "XAVIER ST / TULANE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
     },
     {
         "id": "RF2402773",
@@ -42,27 +86,5 @@
         "latitude": 37.4832162309969,
         "longitude": -122.226433105992,
         "units": ">E9"
-    },
-    {
-        "id": "MF2402183",
-        "date": "2024-03-12",
-        "time": "10:55:29 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ENCINAL AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "MF2402182",
-        "date": "2024-03-12",
-        "time": "10:55:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
     }
 ]
