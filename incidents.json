@@ -1,46 +1,68 @@
 [
     {
-        "id": "RF2402823",
+        "id": "NF2403120",
         "date": "2024-03-13",
-        "time": "8:31:16 AM",
+        "time": "9:22:54 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1450 TERRA NOVA BLVD ,PCF",
+        "latitude": 37.5947907816032,
+        "longitude": -122.47590474395,
+        "units": "E72"
+    },
+    {
+        "id": "CF2401889",
+        "date": "2024-03-13",
+        "time": "9:19:02 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "525 ALMER RD ,BRM",
+        "latitude": 37.5782874594731,
+        "longitude": -122.353216936018,
+        "units": ">E34"
+    },
+    {
+        "id": "BF2400969",
+        "date": "2024-03-13",
+        "time": "9:17:07 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN BRUNO AVE W #100 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "RF2402824",
+        "date": "2024-03-13",
+        "time": "9:08:37 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "HOPKINS AVE #33 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "SF2403356",
-        "date": "2024-03-13",
-        "time": "8:26:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "153 N SAN MATEO DR #405 ,SMO",
-        "latitude": 37.5691443300179,
-        "longitude": -122.329622330469,
-        "units": ">E21"
-    },
-    {
-        "id": "FF2401543",
-        "date": "2024-03-13",
-        "time": "8:23:55 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "E GRAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "WF2400451",
-        "date": "2024-03-13",
-        "time": "8:15:20 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FARM HILL BLVD #BLDG 13 ,WDS",
+        "location": "CENTRAL AVE ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ""
+    },
+    {
+        "id": "NF2403118",
+        "date": "2024-03-13",
+        "time": "9:04:57 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FAIRVIEW AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "MF2402210",
+        "date": "2024-03-13",
+        "time": "9:03:31 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "BERKELEY AVE / COLBY AVE",
+        "latitude": 37.4667277112678,
+        "longitude": -122.164922436754,
+        "units": ">E77"
     }
 ]
