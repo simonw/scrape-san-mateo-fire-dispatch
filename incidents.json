@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2403399",
+        "id": "CF2401910",
         "date": "2024-03-14",
-        "time": "5:08:12 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "E 39TH AVE / PACIFIC BLVD",
-        "latitude": 37.5331722529065,
-        "longitude": -122.292061969592,
-        "units": "CM21X1 TAC25 ?BC5 ?E23 ?T23"
+        "time": "5:29:16 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1801 DEVEREUX DR ,BRM",
+        "latitude": 37.5881463805694,
+        "longitude": -122.378485533777,
+        "units": "E35"
+    },
+    {
+        "id": "NF2403153",
+        "date": "2024-03-14",
+        "time": "5:27:18 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #115 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E95"
     },
     {
         "id": "FF2401553",
@@ -19,28 +30,6 @@
         "location": "95 HARBOR MASTER RD ,SSF",
         "latitude": 37.6634387941809,
         "longitude": -122.37858660283,
-        "units": ">BOAT62 JS28 >BC17 >E65 >Q62CM51X5 TAC36"
-    },
-    {
-        "id": "NF2403152",
-        "date": "2024-03-14",
-        "time": "4:23:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO JOHN DALY BLVD",
-        "latitude": 37.7034101220142,
-        "longitude": -122.471313233753,
-        "units": ">CM31X4 >TAC35 >E94 >BC121"
-    },
-    {
-        "id": "NF2403151",
-        "date": "2024-03-14",
-        "time": "4:00:07 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Trash fire",
-        "location": "6524 MISSION ST ,DCY",
-        "latitude": 37.7038106995533,
-        "longitude": -122.463119439683,
-        "units": ">E92"
+        "units": ">E65 CM51X5 >BOAT62 TAC36 >BC17>Q62"
     }
 ]
