@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2403412",
+        "date": "2024-03-14",
+        "time": "11:33:01 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1010 ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": 37.5116831842693,
+        "longitude": -122.294566103736,
+        "units": ">E15"
+    },
+    {
+        "id": "SF2403411",
+        "date": "2024-03-14",
+        "time": "11:27:52 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DE SABLA RD #1104 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "HF2400681",
         "date": "2024-03-14",
         "time": "11:21:54 AM",
@@ -8,7 +30,7 @@
         "location": "11821 SAN MATEO RD ,SON",
         "latitude": 37.4879425744966,
         "longitude": -122.394007845261,
-        "units": "E59"
+        "units": ">E59"
     },
     {
         "id": "SF2403409",
@@ -22,17 +44,6 @@
         "units": ">E26"
     },
     {
-        "id": "SF2403410",
-        "date": "2024-03-14",
-        "time": "11:20:03 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Lock out - residential",
-        "location": "871 CONSTITUTION DR ,FCY",
-        "latitude": 37.5602161099573,
-        "longitude": -122.258575815453,
-        "units": "E29"
-    },
-    {
         "id": "NF2403164",
         "date": "2024-03-14",
         "time": "11:18:20 AM",
@@ -42,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E95"
-    },
-    {
-        "id": "CF2401921",
-        "date": "2024-03-14",
-        "time": "11:05:10 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VALLEJO CT ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2401919",
-        "date": "2024-03-14",
-        "time": "10:17:38 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Gas main break",
-        "location": "1010 N SAN RAYMUNDO RD ,HIL",
-        "latitude": 37.5629891358793,
-        "longitude": -122.354468540898,
-        "units": ">E32"
     }
 ]
