@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2401580",
+        "date": "2024-03-15",
+        "time": "7:40:34 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "290 HILLSIDE BLVD ,SSF",
+        "latitude": 37.6639482815899,
+        "longitude": -122.408558600433,
+        "units": "E65"
+    },
+    {
+        "id": "SF2403448",
+        "date": "2024-03-15",
+        "time": "7:34:22 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "2225 S NORFOLK ST ,SMO",
+        "latitude": 37.5517979259905,
+        "longitude": -122.289080486216,
+        "units": ">E26"
+    },
+    {
+        "id": "MF2402272",
+        "date": "2024-03-15",
+        "time": "7:27:38 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAMILTON CT ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
         "id": "RF2402899",
         "date": "2024-03-15",
         "time": "7:16:53 AM",
@@ -8,7 +41,7 @@
         "location": "HILLTOP DR ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ""
     },
     {
         "id": "DF2400529",
@@ -19,28 +52,6 @@
         "location": "CABRILLO HWY / GAZOS CREEK RD",
         "latitude": 37.1666391112605,
         "longitude": -122.361143089114,
-        "units": "E1767 E59"
-    },
-    {
-        "id": "SF2403447",
-        "date": "2024-03-15",
-        "time": "7:09:36 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORES ST #2 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "LF2400257",
-        "date": "2024-03-15",
-        "time": "7:08:28 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "7440 MISSION ST ,BRD",
-        "latitude": 37.6871169427998,
-        "longitude": -122.465775862967,
-        "units": "U85 CM31X1 >E86"
+        "units": "E1767 *>E59"
     }
 ]
