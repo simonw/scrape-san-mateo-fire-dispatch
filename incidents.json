@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2403220",
+        "date": "2024-03-15",
+        "time": "7:08:18 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "6996 MISSION ST ,DCY",
+        "latitude": 37.6960257575625,
+        "longitude": -122.467235192447,
+        "units": "E94"
+    },
+    {
+        "id": "RF2402927",
+        "date": "2024-03-15",
+        "time": "7:05:29 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11 CM11X1 SQ409"
+    },
+    {
+        "id": "WF2400464",
+        "date": "2024-03-15",
+        "time": "6:59:26 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "140 DEGAS RD ,PVY",
+        "latitude": 37.3921027650412,
+        "longitude": -122.208103812006,
+        "units": ">E8"
+    },
+    {
         "id": "RF2402926",
         "date": "2024-03-15",
         "time": "6:55:06 PM",
@@ -8,18 +41,7 @@
         "location": "CLINTON ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E10"
-    },
-    {
-        "id": "CF2401953",
-        "date": "2024-03-15",
-        "time": "6:54:26 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY / LAGUNA AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": "T34"
+        "units": ">E10"
     },
     {
         "id": "NF2403219",
@@ -30,7 +52,7 @@
         "location": "90 FOREST GROVE DR #2 ,DCY",
         "latitude": 37.6996812790953,
         "longitude": -122.479898893962,
-        "units": "?TAC35 CM31X5 BC20 E92 T95E91 E95"
+        "units": "?TAC35 CM31X5 >BC20 >E92 >T95>E91 >E95"
     },
     {
         "id": "FF2401598",
@@ -41,17 +63,6 @@
         "location": "S AIRPORT BLVD #653 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
-    },
-    {
-        "id": "CF2401952",
-        "date": "2024-03-15",
-        "time": "6:44:41 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "2780 RALSTON AVE ,HIL",
-        "latitude": 37.5633237861183,
-        "longitude": -122.365609158112,
-        "units": ">E34"
+        "units": ""
     }
 ]
