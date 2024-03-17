@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2403267",
+        "date": "2024-03-16",
+        "time": "7:10:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HILLSIDE BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E92"
+    },
+    {
+        "id": "FF2401610",
+        "date": "2024-03-16",
+        "time": "7:09:31 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "431 ALIDA WAY #221 ,SSF",
+        "latitude": 37.6457332885424,
+        "longitude": -122.430612335656,
+        "units": "E63"
+    },
+    {
+        "id": "LF2400260",
+        "date": "2024-03-16",
+        "time": "7:09:24 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "291 87TH ST ,BRD",
+        "latitude": 37.6932047360959,
+        "longitude": -122.474285251368,
+        "units": "T85 E86 BC19 ?TAC35 ?CM31X2"
+    },
+    {
         "id": "SF2403516",
         "date": "2024-03-16",
         "time": "6:56:18 PM",
@@ -8,7 +41,7 @@
         "location": "659 BEACH PARK BLVD ,FCY",
         "latitude": 37.5470221054206,
         "longitude": -122.268500473763,
-        "units": "?TAC25 ?CM21X5 ?BC5 ?E26 ?E28?E29 ?T23"
+        "units": ">E29"
     },
     {
         "id": "DF2400540",
@@ -19,28 +52,6 @@
         "location": "REDWOOD DR ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 >R57 E58"
-    },
-    {
-        "id": "NF2403266",
-        "date": "2024-03-16",
-        "time": "6:49:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTWOOD DR #14 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2403264",
-        "date": "2024-03-16",
-        "time": "6:31:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CABRILLO HWY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": "?VFIR23 >R57 >E58"
     }
 ]
