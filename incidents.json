@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2403517",
+        "id": "SF2403518",
         "date": "2024-03-16",
-        "time": "7:20:13 PM",
+        "time": "7:28:34 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ELEANOR DR ,SMO",
+        "location": "S RAILROAD AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": ">E24"
+    },
+    {
+        "id": "RF2402958",
+        "date": "2024-03-16",
+        "time": "7:27:34 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "1505 HESS RD ,RCY",
+        "latitude": 37.4721540186026,
+        "longitude": -122.22477775707,
+        "units": ">E10"
     },
     {
         "id": "NF2403267",
@@ -19,18 +30,7 @@
         "location": "HILLSIDE BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2401610",
-        "date": "2024-03-16",
-        "time": "7:09:31 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "431 ALIDA WAY #221 ,SSF",
-        "latitude": 37.6457332885424,
-        "longitude": -122.430612335656,
-        "units": ">E63"
+        "units": "E92"
     },
     {
         "id": "DF2400540",
@@ -41,6 +41,6 @@
         "location": "REDWOOD DR ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 >R57 >E58"
+        "units": "?VFIR23 >R57"
     }
 ]
