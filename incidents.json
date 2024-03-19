@@ -1,25 +1,47 @@
 [
     {
-        "id": "MF2402372",
+        "id": "NF2403374",
         "date": "2024-03-19",
-        "time": "12:42:47 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "5 NEWELL CT ,EPA",
-        "latitude": 37.4570617285856,
-        "longitude": -122.13815381105,
-        "units": "?E2"
-    },
-    {
-        "id": "RF2403042",
-        "date": "2024-03-19",
-        "time": "12:42:06 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "1:02:01 PM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "MYRTLE ST ,RCY",
+        "location": "GRANDVIEW AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
+        "units": "E95"
+    },
+    {
+        "id": "NF2403372",
+        "date": "2024-03-19",
+        "time": "12:59:41 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CROCKER AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "DF2400553",
+        "date": "2024-03-19",
+        "time": "12:56:30 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALDEFLORES DR ,BRH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "NF2403371",
+        "date": "2024-03-19",
+        "time": "12:46:51 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "32 NORTHGATE AVE ,DCY",
+        "latitude": 37.7033384528747,
+        "longitude": -122.486205766858,
+        "units": ""
     },
     {
         "id": "MF2402371",
@@ -30,29 +52,7 @@
         "location": "ATHERTON AVE ,ATN",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "WF2400479",
-        "date": "2024-03-19",
-        "time": "12:38:35 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "142 PECORA WAY ,LAD",
-        "latitude": 37.3987764092181,
-        "longitude": -122.201015692933,
-        "units": "E8"
-    },
-    {
-        "id": "SF2403645",
-        "date": "2024-03-19",
-        "time": "12:29:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
+        "units": ">BC1 >T4 E4"
     },
     {
         "id": "NF2403369",
@@ -63,6 +63,6 @@
         "location": "344 WESTLAKE CTR ,DCY",
         "latitude": 37.6999232119413,
         "longitude": -122.482173281097,
-        "units": "PR20 >BC20 >E91 CM31X3 ?TAC35"
+        "units": ""
     }
 ]
