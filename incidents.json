@@ -1,5 +1,38 @@
 [
     {
+        "id": "HF2400726",
+        "date": "2024-03-18",
+        "time": "7:42:45 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROOSEVELT BLVD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E17"
+    },
+    {
+        "id": "WF2400475",
+        "date": "2024-03-18",
+        "time": "7:36:04 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "304 GLENWOOD AVE ,WDS",
+        "latitude": 37.4372331773889,
+        "longitude": -122.255663491501,
+        "units": ">E7"
+    },
+    {
+        "id": "NF2403340",
+        "date": "2024-03-18",
+        "time": "7:34:35 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IMPERIAL WAY #213 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "CF2402017",
         "date": "2024-03-18",
         "time": "7:18:18 PM",
@@ -8,40 +41,7 @@
         "location": "MYRTLE RD #205 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "RF2403024",
-        "date": "2024-03-18",
-        "time": "7:17:19 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS / MELENDY DR",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "NF2403339",
-        "date": "2024-03-18",
-        "time": "7:16:52 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SKYLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2403627",
-        "date": "2024-03-18",
-        "time": "7:15:38 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CONSTITUTION DR ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
+        "units": ">E21"
     },
     {
         "id": "BF2401028",
@@ -49,21 +49,10 @@
         "time": "7:11:57 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Traffic accident",
-        "location": "NB 101 / NO SAN BRUNO AVE",
+        "location": "EB 380 / EB 380 ON RAMP",
         "latitude": 37.6317702442123,
         "longitude": -122.402628318717,
-        "units": ">E61 CM31X5 E34 BC8 T34?TAC35"
-    },
-    {
-        "id": "NF2403338",
-        "date": "2024-03-18",
-        "time": "7:08:51 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "6543 MISSION ST ,DCY",
-        "latitude": 37.7034623133302,
-        "longitude": -122.462761044657,
-        "units": ">E91"
+        "units": ">T34 >BC8 >E34"
     },
     {
         "id": "DF2400547",
@@ -74,18 +63,7 @@
         "location": "LA HONDA RD #23 ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR23 >R57 >E58"
-    },
-    {
-        "id": "NF2403336",
-        "date": "2024-03-18",
-        "time": "6:41:29 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY DR #213 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": "?VFIR23 >R57"
     },
     {
         "id": "HF2400721",
@@ -96,6 +74,6 @@
         "location": "170 SHELTER COVE DR ,ELG",
         "latitude": 37.5104325982907,
         "longitude": -122.486293304578,
-        "units": "CM41X2 ?TAC45 >E140 >CH10A >E44>E41 >E40 >T17 >BC11 >BC10"
+        "units": "CM41X2 ?TAC45 >E140 >CH10A >E44>E41 >E40 >T17 *>BC11 >BC10"
     }
 ]
