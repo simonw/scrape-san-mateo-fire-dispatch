@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2402354",
+        "date": "2024-03-18",
+        "time": "8:02:36 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "RESERVOIR RD ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E4"
+    },
+    {
+        "id": "NF2403342",
+        "date": "2024-03-18",
+        "time": "8:00:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EVERGREEN AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "NF2403341",
+        "date": "2024-03-18",
+        "time": "7:51:33 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MUIRWOOD DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "HF2400726",
         "date": "2024-03-18",
         "time": "7:42:45 PM",
@@ -8,40 +41,7 @@
         "location": "ROOSEVELT BLVD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "?E17"
-    },
-    {
-        "id": "WF2400475",
-        "date": "2024-03-18",
-        "time": "7:36:04 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "304 GLENWOOD AVE ,WDS",
-        "latitude": 37.4372331773889,
-        "longitude": -122.255663491501,
-        "units": ">E7"
-    },
-    {
-        "id": "NF2403340",
-        "date": "2024-03-18",
-        "time": "7:34:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "IMPERIAL WAY #213 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "CF2402017",
-        "date": "2024-03-18",
-        "time": "7:18:18 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MYRTLE RD #205 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E17"
     },
     {
         "id": "BF2401028",
@@ -52,18 +52,7 @@
         "location": "EB 380 / EB 380 ON RAMP",
         "latitude": 37.6317702442123,
         "longitude": -122.402628318717,
-        "units": ">T34 >BC8 >E34"
-    },
-    {
-        "id": "DF2400547",
-        "date": "2024-03-18",
-        "time": "6:56:46 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LA HONDA RD #23 ,LAH",
-        "latitude": null,
-        "longitude": null,
-        "units": "?VFIR23 >R57"
+        "units": ">E34"
     },
     {
         "id": "HF2400721",
@@ -74,6 +63,6 @@
         "location": "170 SHELTER COVE DR ,ELG",
         "latitude": 37.5104325982907,
         "longitude": -122.486293304578,
-        "units": "CM41X2 ?TAC45 >E140 >CH10A >E44>E41 >E40 >T17 *>BC11 >BC10"
+        "units": "CM41X2 ?TAC45 >E140 >E44 >E41>E40 >T17 *>BC11 >BC10"
     }
 ]
