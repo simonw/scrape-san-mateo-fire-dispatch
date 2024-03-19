@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2403649",
+        "date": "2024-03-19",
+        "time": "2:43:03 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "WF2400481",
+        "date": "2024-03-19",
+        "time": "2:39:05 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "1577 CANADA LN ,WDS",
+        "latitude": 37.4308248405024,
+        "longitude": -122.25270537076,
+        "units": "?R7"
+    },
+    {
+        "id": "RF2403049",
+        "date": "2024-03-19",
+        "time": "2:23:33 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LOCUST ST / HEMLOCK AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
         "id": "MF2402374",
         "date": "2024-03-19",
         "time": "2:21:40 PM",
@@ -8,7 +41,7 @@
         "location": "SANTA CRUZ AVE ,WMP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "HF2400734",
@@ -19,39 +52,6 @@
         "location": "2100 PURISIMA CREEK RD ,SOS",
         "latitude": 37.4216903974039,
         "longitude": -122.392457324061,
-        "units": "E1767 E1769 >MED11 ?VF22X4 CM41X5E44 ?CO56 >E640 >E40 E41"
-    },
-    {
-        "id": "RF2403046",
-        "date": "2024-03-19",
-        "time": "2:03:16 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "LOCUST ST / HEMLOCK AVE",
-        "latitude": 37.4726230357335,
-        "longitude": -122.221831499224,
-        "units": ">E9"
-    },
-    {
-        "id": "RF2403045",
-        "date": "2024-03-19",
-        "time": "1:54:40 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #204 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2400480",
-        "date": "2024-03-19",
-        "time": "1:48:08 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FARM HILL BLVD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E19"
+        "units": "E1767 E1769 >MED11 CM41X5 ?VF22X4>CH10A >E44 >E640 >E40 >E41"
     }
 ]
