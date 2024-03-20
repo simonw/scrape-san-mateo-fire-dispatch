@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2401050",
+        "date": "2024-03-20",
+        "time": "1:20:13 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1280 COMMODORE DR ,SNB",
+        "latitude": 37.6322883894668,
+        "longitude": -122.4259908725,
+        "units": "E51"
+    },
+    {
+        "id": "SF2403688",
+        "date": "2024-03-20",
+        "time": "1:12:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "SF2403686",
+        "date": "2024-03-20",
+        "time": "1:09:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BYRD LN ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "SF2403685",
+        "date": "2024-03-20",
+        "time": "1:08:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TOWN GREEN LN #127 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
         "id": "SF2403684",
         "date": "2024-03-20",
         "time": "1:04:37 PM",
@@ -8,7 +52,7 @@
         "location": "100 27TH AVE ,SMO",
         "latitude": 37.541855419201,
         "longitude": -122.306407942926,
-        "units": "?E23"
+        "units": "*>E23"
     },
     {
         "id": "CF2402060",
@@ -20,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "RF2403085",
-        "date": "2024-03-20",
-        "time": "12:52:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PASSAGE LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "RF2403084",
-        "date": "2024-03-20",
-        "time": "12:50:08 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BEST CT ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "CF2402059",
-        "date": "2024-03-20",
-        "time": "12:46:11 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CALIFORNIA DR #105 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
     }
 ]
