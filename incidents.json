@@ -1,5 +1,16 @@
 [
     {
+        "id": "BF2401059",
+        "date": "2024-03-21",
+        "time": "2:20:59 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CHERRY AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "BC16 E38"
+    },
+    {
         "id": "NF2403464",
         "date": "2024-03-21",
         "time": "1:56:49 PM",
@@ -8,62 +19,7 @@
         "location": "1 THORNTON BEACH RD ,DCY",
         "latitude": 37.6984508080946,
         "longitude": -122.494863325599,
-        "units": "CM31X2 R95 ?TAC35 BC124 E94E95"
-    },
-    {
-        "id": "NF2403463",
-        "date": "2024-03-21",
-        "time": "1:56:15 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE #4 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "FF2401681",
-        "date": "2024-03-21",
-        "time": "1:53:19 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "E JAMIE CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "SF2403743",
-        "date": "2024-03-21",
-        "time": "1:44:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "2151 CARLMONT DR ,BLM",
-        "latitude": 37.5089520289386,
-        "longitude": -122.2956899952,
-        "units": "*>E15"
-    },
-    {
-        "id": "FF2401680",
-        "date": "2024-03-21",
-        "time": "1:42:06 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "E GRAND AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "BF2401058",
-        "date": "2024-03-21",
-        "time": "1:40:04 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRYSTAL SPRINGS RD ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
+        "units": "CM31X2 >R95 ?TAC35 >BC124 >E71>E94 >E95"
     },
     {
         "id": "HF2400745",
@@ -74,6 +30,6 @@
         "location": "SAN MATEO RD ,SON",
         "latitude": null,
         "longitude": null,
-        "units": "CM41X1 >E40 >E41 >BC10"
+        "units": "CM41X1 >E40 >E41"
     }
 ]
