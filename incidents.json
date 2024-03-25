@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2402518",
+        "id": "SF2403898",
         "date": "2024-03-25",
-        "time": "7:18:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:04:13 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "E 3RD AVE / OVER 101",
+        "latitude": 37.5709041099554,
+        "longitude": -122.313911174726,
+        "units": "T21 BC5 E24 CM21X4 ?TAC25"
+    },
+    {
+        "id": "RF2403262",
+        "date": "2024-03-25",
+        "time": "8:00:59 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "501 CEDAR ST ,SNC",
+        "latitude": 37.5047339203213,
+        "longitude": -122.265714633257,
+        "units": ">E13"
+    },
+    {
+        "id": "RF2403261",
+        "date": "2024-03-25",
+        "time": "7:58:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "QUARRY RD / OLD COUNTY RD",
+        "latitude": 37.5158019105885,
+        "longitude": -122.268959809861,
+        "units": ">E16"
+    },
+    {
+        "id": "RF2403260",
+        "date": "2024-03-25",
+        "time": "7:57:42 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "IVY DR ,MNP",
+        "location": "JEFFERSON AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": ">E10"
     },
     {
         "id": "SF2403896",
@@ -19,6 +52,6 @@
         "location": "65 W 5TH AVE ,SMO",
         "latitude": 37.5598507806189,
         "longitude": -122.326129782073,
-        "units": ">E21 CM21X1 PR5B ?TAC25 >T21"
+        "units": ">PR5B"
     }
 ]
