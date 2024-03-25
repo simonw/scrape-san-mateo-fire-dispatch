@@ -1,14 +1,58 @@
 [
     {
-        "id": "FF2401732",
+        "id": "FF2401737",
         "date": "2024-03-24",
-        "time": "4:42:09 PM",
+        "time": "5:13:24 PM",
         "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "206 CALIFORNIA AVE ,SSF",
+        "latitude": 37.6579209147289,
+        "longitude": -122.407236098481,
+        "units": ">E65"
+    },
+    {
+        "id": "RF2403240",
+        "date": "2024-03-24",
+        "time": "5:13:01 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "LINDEN AVE #517 ,SSF",
+        "location": "MAPLE ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E65"
+        "units": ">SQ409"
+    },
+    {
+        "id": "SF2403880",
+        "date": "2024-03-24",
+        "time": "5:02:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MONTE DIABLO AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "RF2403238",
+        "date": "2024-03-24",
+        "time": "4:56:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BREWSTER AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2401733",
+        "date": "2024-03-24",
+        "time": "4:45:41 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Structure fire",
+        "location": "2210 GELLERT BLVD ,SSF",
+        "latitude": 37.647477890995,
+        "longitude": -122.453731985393,
+        "units": ">BC121 >TAC35 >PR20 >E94 >E64>CM31X3 >BC17 >Q62"
     },
     {
         "id": "DF2400590",
@@ -19,28 +63,6 @@
         "location": "120 LANGLEY HILL RD ,SOS",
         "latitude": 37.3320245200236,
         "longitude": -122.261193027992,
-        "units": "E58 TAC45 BC15 E59 ?CO57"
-    },
-    {
-        "id": "FF2401731",
-        "date": "2024-03-24",
-        "time": "4:31:23 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "C ST #2 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "DF2400589",
-        "date": "2024-03-24",
-        "time": "4:20:38 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BENNINGTON DR ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T17"
+        "units": "TAC45 >E58 >BC15"
     }
 ]
