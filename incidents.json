@@ -1,47 +1,80 @@
 [
     {
-        "id": "FF2401737",
+        "id": "RF2403242",
         "date": "2024-03-24",
-        "time": "5:13:24 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident",
-        "location": "206 CALIFORNIA AVE ,SSF",
-        "latitude": 37.6579209147289,
-        "longitude": -122.407236098481,
-        "units": ">E65"
-    },
-    {
-        "id": "RF2403240",
-        "date": "2024-03-24",
-        "time": "5:13:01 PM",
+        "time": "6:01:51 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
+        "location": "HILLTOP DR ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">SQ409"
+        "units": "?E10"
     },
     {
-        "id": "SF2403880",
+        "id": "SF2403884",
         "date": "2024-03-24",
-        "time": "5:02:19 PM",
+        "time": "6:01:48 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "RALSTON AVE / LYALL WAY",
+        "latitude": 37.5112167777306,
+        "longitude": -122.297403206639,
+        "units": "BC11 CM11X5 T17 E15 ?TAC15"
+    },
+    {
+        "id": "SF2403883",
+        "date": "2024-03-24",
+        "time": "6:00:34 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MONTE DIABLO AVE ,SMO",
+        "location": "PORTOFINO LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": "E29"
     },
     {
-        "id": "RF2403238",
+        "id": "BF2401096",
         "date": "2024-03-24",
-        "time": "4:56:19 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "5:54:14 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "701 SHELTER CREEK LN ,SNB",
+        "latitude": 37.6196118935287,
+        "longitude": -122.427952492168,
+        "units": "E52 ?TAC37 CM31X2 >BC16 >E51>T51 >Q62"
+    },
+    {
+        "id": "WF2400504",
+        "date": "2024-03-24",
+        "time": "5:46:01 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "BREWSTER AVE ,RCY",
+        "location": "TRIPP CT ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": ">E7"
+    },
+    {
+        "id": "SF2403881",
+        "date": "2024-03-24",
+        "time": "5:36:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #308 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E28"
+    },
+    {
+        "id": "NF2403588",
+        "date": "2024-03-24",
+        "time": "5:24:49 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "455 VALLEY DR ,BRS",
+        "latitude": 37.6906903751284,
+        "longitude": -122.417319961057,
+        "units": ">BC20 >E93 >TAC36 >E92 >T95>CM31X4 >E81"
     },
     {
         "id": "FF2401733",
@@ -52,17 +85,6 @@
         "location": "2210 GELLERT BLVD ,SSF",
         "latitude": 37.647477890995,
         "longitude": -122.453731985393,
-        "units": ">BC121 >TAC35 >PR20 >E94 >E64>CM31X3 >BC17 >Q62"
-    },
-    {
-        "id": "DF2400590",
-        "date": "2024-03-24",
-        "time": "4:38:41 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "120 LANGLEY HILL RD ,SOS",
-        "latitude": 37.3320245200236,
-        "longitude": -122.261193027992,
-        "units": "TAC45 >E58 >BC15"
+        "units": ">TAC35 >E64 >CM31X3 >BC17"
     }
 ]
