@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2401763",
+        "date": "2024-03-25",
+        "time": "8:17:32 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - water flow",
+        "location": "264 S AIRPORT BLVD ,SSF",
+        "latitude": 37.6473532841139,
+        "longitude": -122.405883874304,
+        "units": ">Q62"
+    },
+    {
+        "id": "RF2403295",
+        "date": "2024-03-25",
+        "time": "8:09:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "RF2403294",
+        "date": "2024-03-25",
+        "time": "8:06:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Lock out - residential",
+        "location": "1818 EL CAMINO REAL #210 ,RCY",
+        "latitude": 37.4777037963827,
+        "longitude": -122.224895772642,
+        "units": ">T9"
+    },
+    {
         "id": "MF2402542",
         "date": "2024-03-25",
         "time": "8:05:05 PM",
@@ -8,40 +41,7 @@
         "location": "ROBLE AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E6"
-    },
-    {
-        "id": "BF2401116",
-        "date": "2024-03-25",
-        "time": "7:57:03 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "172 SAN LUIS AVE ,SNB",
-        "latitude": 37.6175269462452,
-        "longitude": -122.406377168949,
-        "units": ">T51"
-    },
-    {
-        "id": "RF2403293",
-        "date": "2024-03-25",
-        "time": "7:56:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SIERRA ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2403928",
-        "date": "2024-03-25",
-        "time": "7:55:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E6"
     },
     {
         "id": "HF2400775",
@@ -52,17 +52,6 @@
         "location": "PALOMA AVE ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "NF2403631",
-        "date": "2024-03-25",
-        "time": "7:20:48 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Structure fire",
-        "location": "150 SCHOOL ST #1 ,DCY",
-        "latitude": 37.6935941692292,
-        "longitude": -122.467430128342,
-        "units": ">E92"
+        "units": "*>E41"
     }
 ]
