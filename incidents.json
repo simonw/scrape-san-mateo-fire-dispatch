@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2403401",
+        "date": "2024-03-28",
+        "time": "9:41:24 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1100 VETERANS BLVD ,RCY",
+        "latitude": 37.4887554776047,
+        "longitude": -122.223527775412,
+        "units": "BC3 T9 E9 E10 CM11X5?TAC15 ?E11"
+    },
+    {
+        "id": "FF2401806",
+        "date": "2024-03-28",
+        "time": "9:33:21 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Vehicle fire",
+        "location": "100 E GRAND AVE ,SSF",
+        "latitude": 37.6539351661943,
+        "longitude": -122.405364938335,
+        "units": ">Q62"
+    },
+    {
         "id": "SF2404025",
         "date": "2024-03-28",
         "time": "9:17:40 AM",
@@ -11,50 +33,6 @@
         "units": ">E28"
     },
     {
-        "id": "CF2402237",
-        "date": "2024-03-28",
-        "time": "9:16:03 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / HOWARD AVE",
-        "latitude": 37.5757894356793,
-        "longitude": -122.347698156592,
-        "units": ">T34 CM21X5 ?TAC25 >E34"
-    },
-    {
-        "id": "MF2402604",
-        "date": "2024-03-28",
-        "time": "9:15:10 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "1 E SELBY LN ,NFO",
-        "latitude": 37.4687999784141,
-        "longitude": -122.210701207847,
-        "units": ">E3"
-    },
-    {
-        "id": "RF2403400",
-        "date": "2024-03-28",
-        "time": "9:15:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "585 HAMPSHIRE AVE ,NFO",
-        "latitude": 37.4783446997821,
-        "longitude": -122.207735349182,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2402603",
-        "date": "2024-03-28",
-        "time": "9:11:03 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ILLINOIS ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
         "id": "RF2403399",
         "date": "2024-03-28",
         "time": "9:10:24 AM",
@@ -64,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">SQ409"
-    },
-    {
-        "id": "RF2403398",
-        "date": "2024-03-28",
-        "time": "9:07:20 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
     }
 ]
