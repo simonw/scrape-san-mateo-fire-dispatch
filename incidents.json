@@ -1,14 +1,25 @@
 [
     {
-        "id": "BF2401138",
+        "id": "NF2403732",
         "date": "2024-03-28",
-        "time": "10:39:48 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "1646 CLAREMONT DR ,SNB",
-        "latitude": 37.6226874838698,
-        "longitude": -122.441045361973,
-        "units": "E38"
+        "time": "11:05:05 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "1262 ROSITA RD ,PCF",
+        "latitude": 37.5808337786413,
+        "longitude": -122.486138051496,
+        "units": "E72"
+    },
+    {
+        "id": "CF2402241",
+        "date": "2024-03-28",
+        "time": "10:48:10 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1033A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
     },
     {
         "id": "RF2403411",
@@ -22,72 +33,6 @@
         "units": ">E11"
     },
     {
-        "id": "MF2402609",
-        "date": "2024-03-28",
-        "time": "10:38:09 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - manual",
-        "location": "1779 WOODLAND AVE ,EPA",
-        "latitude": 37.4545625055866,
-        "longitude": -122.135759355296,
-        "units": "E2"
-    },
-    {
-        "id": "MF2402608",
-        "date": "2024-03-28",
-        "time": "10:35:00 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVY AVE ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "BF2401137",
-        "date": "2024-03-28",
-        "time": "10:33:49 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "3250 GEOFFREY DR ,SNB",
-        "latitude": 37.6350311934001,
-        "longitude": -122.460507031914,
-        "units": ">E52"
-    },
-    {
-        "id": "CF2402240",
-        "date": "2024-03-28",
-        "time": "10:32:03 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL PASEO ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2403729",
-        "date": "2024-03-28",
-        "time": "10:28:57 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NORTHAVEN DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "RF2403407",
-        "date": "2024-03-28",
-        "time": "10:22:56 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "800 ELM ST ,SNC",
-        "latitude": 37.5021118706895,
-        "longitude": -122.259956600819,
-        "units": ">E13"
-    },
-    {
         "id": "RF2403406",
         "date": "2024-03-28",
         "time": "10:22:42 AM",
@@ -97,16 +42,5 @@
         "latitude": 37.5139330925428,
         "longitude": -122.261525435524,
         "units": ">E16"
-    },
-    {
-        "id": "DF2400615",
-        "date": "2024-03-28",
-        "time": "10:04:57 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "QUAIL CT ,KMT",
-        "latitude": null,
-        "longitude": null,
-        "units": ">R56"
     }
 ]
