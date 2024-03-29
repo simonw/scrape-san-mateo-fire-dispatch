@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2403755",
+        "id": "BF2401140",
         "date": "2024-03-28",
-        "time": "8:39:28 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:59:09 PM",
+        "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "S MAYFAIR AVE ,DCY",
+        "location": "SAN FELIPE AVE / EL CAMINO REAL",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": ">E51"
+    },
+    {
+        "id": "MF2402618",
+        "date": "2024-03-28",
+        "time": "8:51:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E O'KEEFE ST #112 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "CF2402256",
+        "date": "2024-03-28",
+        "time": "8:50:16 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "100 WOODRIDGE RD ,HIL",
+        "latitude": 37.5462425691399,
+        "longitude": -122.348259150994,
+        "units": ">E32"
     },
     {
         "id": "RF2403441",
@@ -19,29 +41,7 @@
         "location": "EL CAMINO REAL #647 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "SQ409"
-    },
-    {
-        "id": "RF2403440",
-        "date": "2024-03-28",
-        "time": "8:33:02 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR #356 ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "MF2402617",
-        "date": "2024-03-28",
-        "time": "8:32:08 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ADDISON AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": ">SQ409"
     },
     {
         "id": "DF2400618",
@@ -52,6 +52,6 @@
         "location": "BACK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "E1769 ?VFIR23 >R57 E58"
+        "units": "E1769 ?VFIR23 >R57 >E58"
     }
 ]
