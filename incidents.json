@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2404203",
+        "id": "MF2402719",
         "date": "2024-04-01",
-        "time": "4:21:20 PM",
+        "time": "4:34:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "3600 MIDDLEFIELD RD ,NFO",
+        "latitude": 37.4693245768347,
+        "longitude": -122.202769414616,
+        "units": ">E5"
+    },
+    {
+        "id": "SF2404204",
+        "date": "2024-04-01",
+        "time": "4:33:02 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "NB 101 / SO E HILLSDALE BLVD",
-        "latitude": 37.5367073346711,
-        "longitude": -122.280511769518,
-        "units": "E26 T23 BC5 E14 CM11X4?TAC15"
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST #A ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "NF2403894",
+        "date": "2024-04-01",
+        "time": "4:32:28 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MANOR DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
     },
     {
         "id": "LF2400297",
@@ -19,18 +41,7 @@
         "location": "AVE ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
-    },
-    {
-        "id": "RF2403601",
-        "date": "2024-04-01",
-        "time": "4:16:24 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OREGON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ""
     },
     {
         "id": "HF2400818",
@@ -41,7 +52,7 @@
         "location": "SPRUCE ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "*>E40"
+        "units": ""
     },
     {
         "id": "FF2401893",
@@ -53,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E63"
-    },
-    {
-        "id": "SF2404202",
-        "date": "2024-04-01",
-        "time": "4:09:20 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WHITECLIFF WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "FF2401892",
-        "date": "2024-04-01",
-        "time": "3:56:37 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ZAMORA DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
