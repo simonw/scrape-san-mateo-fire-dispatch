@@ -1,13 +1,57 @@
 [
     {
-        "id": "SF2404231",
+        "id": "RF2403622",
         "date": "2024-04-02",
-        "time": "8:43:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "9:23:08 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Gas main break",
+        "location": "910 SUNSET DR ,SNC",
+        "latitude": 37.4913699786894,
+        "longitude": -122.26736662259,
+        "units": "E10 BC3 E18 E13 ?TAC16?CM11X4 ?T9"
+    },
+    {
+        "id": "MF2402733",
+        "date": "2024-04-02",
+        "time": "9:13:11 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SANTA CRUZ AVE / EL CAMINO REAL",
+        "latitude": 37.4535815530816,
+        "longitude": -122.182997513007,
+        "units": "CM11X3 ?TAC15 >SQ401 >T4 >E1"
+    },
+    {
+        "id": "MF2402732",
+        "date": "2024-04-02",
+        "time": "9:11:01 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Fire alarm",
-        "location": "780 SEA SPRAY LN ,FCY",
-        "latitude": 37.5520343137757,
-        "longitude": -122.281112693441,
-        "units": ">E29"
+        "location": "350 SHARON PARK DR ,MNP",
+        "latitude": 37.4237778998493,
+        "longitude": -122.198044870866,
+        "units": ">E6"
+    },
+    {
+        "id": "CF2402353",
+        "date": "2024-04-02",
+        "time": "9:07:37 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORIBUNDA AVE #305 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "NF2403915",
+        "date": "2024-04-02",
+        "time": "9:05:32 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHGATE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
     }
 ]
