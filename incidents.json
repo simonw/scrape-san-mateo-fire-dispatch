@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2403964",
+        "date": "2024-04-03",
+        "time": "10:36:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRESTON AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E91"
+    },
+    {
+        "id": "RF2403671",
+        "date": "2024-04-03",
+        "time": "10:29:14 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CRESTVIEW DR ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
         "id": "RF2403670",
         "date": "2024-04-03",
         "time": "10:19:17 AM",
@@ -8,29 +30,7 @@
         "location": "1400 SEAPORT BLVD ,RCY",
         "latitude": 37.5143531041355,
         "longitude": -122.20058757166,
-        "units": "T9 CM11X3 E10 BC3 ?TAC15"
-    },
-    {
-        "id": "NF2403963",
-        "date": "2024-04-03",
-        "time": "10:13:20 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "BF2401210",
-        "date": "2024-04-03",
-        "time": "9:55:00 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "1300 EL CAMINO REAL ,SNB",
-        "latitude": 37.6389410636731,
-        "longitude": -122.422494540309,
-        "units": ">BC16"
+        "units": ">T9"
     },
     {
         "id": "NF2403961",
@@ -41,6 +41,6 @@
         "location": "61 SAN JUAN AVE ,DCY",
         "latitude": 37.6730920937764,
         "longitude": -122.482246168571,
-        "units": "*>E91 BS86 >PR20 >PR20D >T95>CM31X2 >TAC35 >E92 >BC122 >E94"
+        "units": ">CM31X2 >BS86 >BC122 >TAC35 >PR20D>PR20 >E94 >E92 >T95 >E95"
     }
 ]
