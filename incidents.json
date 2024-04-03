@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2403670",
+        "date": "2024-04-03",
+        "time": "10:19:17 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1400 SEAPORT BLVD ,RCY",
+        "latitude": 37.5143531041355,
+        "longitude": -122.20058757166,
+        "units": "T9 CM11X3 E10 BC3 ?TAC15"
+    },
+    {
+        "id": "NF2403963",
+        "date": "2024-04-03",
+        "time": "10:13:20 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "BF2401210",
         "date": "2024-04-03",
         "time": "9:55:00 AM",
@@ -8,51 +30,7 @@
         "location": "1300 EL CAMINO REAL ,SNB",
         "latitude": 37.6389410636731,
         "longitude": -122.422494540309,
-        "units": ">BC16 >CM31X1 >E51"
-    },
-    {
-        "id": "SF2404276",
-        "date": "2024-04-03",
-        "time": "9:52:31 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLER ST ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "FF2401934",
-        "date": "2024-04-03",
-        "time": "9:52:26 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Odor investigation",
-        "location": "30 TANFORAN AVE ,SSF",
-        "latitude": 37.6406846713874,
-        "longitude": -122.416307792826,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2403962",
-        "date": "2024-04-03",
-        "time": "9:50:48 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #103B ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "SF2404275",
-        "date": "2024-04-03",
-        "time": "9:32:29 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "300 DAVEY GLEN RD ,BLM",
-        "latitude": 37.5257032410432,
-        "longitude": -122.286657120162,
-        "units": ">E14"
+        "units": ">BC16"
     },
     {
         "id": "NF2403961",
@@ -63,6 +41,6 @@
         "location": "61 SAN JUAN AVE ,DCY",
         "latitude": 37.6730920937764,
         "longitude": -122.482246168571,
-        "units": ">CM31X2 >BC20 >BC122 >TAC35 >PR20D>PR20 >E94 >E92 >T95 >E91"
+        "units": "*>E91 BS86 >PR20 >PR20D >T95>CM31X2 >TAC35 >E92 >BC122 >E94"
     }
 ]
