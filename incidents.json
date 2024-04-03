@@ -1,57 +1,79 @@
 [
     {
-        "id": "NF2403939",
+        "id": "CF2402367",
         "date": "2024-04-02",
-        "time": "8:17:57 PM",
+        "time": "8:42:37 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "SAN RAYMUNDO RD / EL ARROYO RD",
+        "latitude": 37.5586222423922,
+        "longitude": -122.35633355978,
+        "units": "?E32"
+    },
+    {
+        "id": "SF2404253",
+        "date": "2024-04-02",
+        "time": "8:40:18 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "2200 LAKE RD ,BLM",
+        "latitude": 37.5099860915449,
+        "longitude": -122.299380435188,
+        "units": "E27"
+    },
+    {
+        "id": "NF2403942",
+        "date": "2024-04-02",
+        "time": "8:38:21 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "LAKE MERCED BLVD ,DCY",
+        "location": "KING DR #1117 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": "E94"
     },
     {
-        "id": "SF2404251",
+        "id": "MF2402758",
         "date": "2024-04-02",
-        "time": "8:13:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "8:36:35 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "N EL CAMINO REAL #241 ,SMO",
+        "location": "HENDERSON AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": ">E77"
     },
     {
-        "id": "RF2403653",
+        "id": "RF2403654",
         "date": "2024-04-02",
-        "time": "8:11:42 PM",
+        "time": "8:33:33 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAUREL ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "category": "Fire alarm - manual",
+        "location": "531 WOODSIDE RD ,RCY",
+        "latitude": 37.4697354901845,
+        "longitude": -122.222991746459,
+        "units": "BC3 ?CM11X1 ?TAC16 T9 >E10"
     },
     {
-        "id": "BF2401205",
+        "id": "SF2404252",
         "date": "2024-04-02",
-        "time": "7:59:00 PM",
+        "time": "8:30:27 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1540 RALSTON AVE #CONVENT ,BLM",
+        "latitude": 37.5175417976666,
+        "longitude": -122.284688887362,
+        "units": "?TAC15 CM11X4 >E23 T23 BC5E14 >E15"
+    },
+    {
+        "id": "BF2401206",
+        "date": "2024-04-02",
+        "time": "8:28:56 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "RIVERSIDE DR ,SNB",
+        "location": "EXETER DR ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2401919",
-        "date": "2024-04-02",
-        "time": "7:29:44 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "N ACCESS RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "Q62"
+        "units": ">E52"
     }
 ]
