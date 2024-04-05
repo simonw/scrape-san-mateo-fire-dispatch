@@ -1,14 +1,47 @@
 [
     {
+        "id": "NF2404001",
+        "date": "2024-04-04",
+        "time": "8:24:40 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #204A ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E71"
+    },
+    {
+        "id": "BF2401232",
+        "date": "2024-04-04",
+        "time": "8:12:24 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO MILLBRAE AVE",
+        "latitude": 37.6076284150697,
+        "longitude": -122.388400032852,
+        "units": ">T51 >E51 >BC16 CM31X2 E34?TAC35"
+    },
+    {
+        "id": "SF2404340",
+        "date": "2024-04-04",
+        "time": "8:12:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ELKHORN CT ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
         "id": "SF2404339",
         "date": "2024-04-04",
         "time": "8:04:55 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
+        "category": "Traffic accident",
         "location": "WB 92 / EO HIGH RI",
         "latitude": 37.5970069460201,
         "longitude": -122.222650415637,
-        "units": "BC5 T23 E29 ?TAC25 ?CM21X1"
+        "units": "HAE2 >BC5 >T23 >E29 HABC2HAT7 ?TAC25 CM21X1"
     },
     {
         "id": "LF2400304",
@@ -20,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E86"
-    },
-    {
-        "id": "FF2401962",
-        "date": "2024-04-04",
-        "time": "7:53:53 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "RANDOLPH AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "NF2404000",
-        "date": "2024-04-04",
-        "time": "7:46:56 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA VISTA WAY ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "RF2403728",
-        "date": "2024-04-04",
-        "time": "7:43:44 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "109 KINGS CT ,SNC",
-        "latitude": 37.4925022286149,
-        "longitude": -122.283865442941,
-        "units": ""
     }
 ]
