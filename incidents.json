@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2402830",
+        "date": "2024-04-05",
+        "time": "4:03:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "RF2403768",
+        "date": "2024-04-05",
+        "time": "4:02:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1633 MIDDLEFIELD RD ,RCY",
+        "latitude": 37.4824842232644,
+        "longitude": -122.221659346935,
+        "units": "E9"
+    },
+    {
+        "id": "RF2403767",
+        "date": "2024-04-05",
+        "time": "3:59:36 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "707 LEAHY ST ,RCY",
+        "latitude": 37.4702118714814,
+        "longitude": -122.215220792766,
+        "units": "T9"
+    },
+    {
+        "id": "SF2404378",
+        "date": "2024-04-05",
+        "time": "3:48:20 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "715 INDIAN AVE ,SMO",
+        "latitude": 37.5771294416327,
+        "longitude": -122.326812318259,
+        "units": ">E24"
+    },
+    {
         "id": "HF2400843",
         "date": "2024-04-05",
         "time": "3:42:08 PM",
@@ -8,51 +52,7 @@
         "location": "AVENUE GRANADA ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
-    },
-    {
-        "id": "MF2402829",
-        "date": "2024-04-05",
-        "time": "3:39:50 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "951 O'CONNOR ST ,EPA",
-        "latitude": 37.4610097504373,
-        "longitude": -122.134157105958,
-        "units": "E2"
-    },
-    {
-        "id": "NF2404040",
-        "date": "2024-04-05",
-        "time": "3:34:50 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SAN PEDRO RD / JUNIPERO SERRA BLVD",
-        "latitude": 37.6856543556476,
-        "longitude": -122.470776862713,
-        "units": "?TAC35 >BC121 >T95 >E95 CM31X2"
-    },
-    {
-        "id": "FF2401975",
-        "date": "2024-04-05",
-        "time": "3:33:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "530 1ST LN ,SSF",
-        "latitude": 37.6545438557861,
-        "longitude": -122.418623814157,
-        "units": ""
-    },
-    {
-        "id": "RF2403766",
-        "date": "2024-04-05",
-        "time": "3:23:51 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VETERANS BLVD #302 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E41"
     },
     {
         "id": "WF2400561",
@@ -63,6 +63,6 @@
         "location": "LOS TRANCOS RD ,LTW",
         "latitude": null,
         "longitude": null,
-        "units": ">E8"
+        "units": "*>E8"
     }
 ]
