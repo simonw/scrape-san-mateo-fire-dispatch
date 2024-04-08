@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2404159",
+        "date": "2024-04-08",
+        "time": "4:16:04 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EVERGREEN AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "SF2404498",
+        "date": "2024-04-08",
+        "time": "4:11:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Structure fire",
+        "location": "1021 ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": 37.512126798753,
+        "longitude": -122.294297464764,
+        "units": ">T23 >BC5 >BC11 >E15 CM11X4?TAC15"
+    },
+    {
+        "id": "CF2402480",
+        "date": "2024-04-08",
+        "time": "4:09:53 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "615 BROADWAY ,MLB",
+        "latitude": 37.6034682525234,
+        "longitude": -122.395990543396,
+        "units": ">BC16 >E37 ?TAC25 CM21X2"
+    },
+    {
         "id": "HF2400870",
         "date": "2024-04-08",
         "time": "4:05:21 PM",
@@ -8,40 +41,7 @@
         "location": "S ARNOLD WAY ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "?E40"
-    },
-    {
-        "id": "NF2404158",
-        "date": "2024-04-08",
-        "time": "4:03:42 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TEMPLETON AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
-    },
-    {
-        "id": "RF2403862",
-        "date": "2024-04-08",
-        "time": "3:58:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Lock out - residential",
-        "location": "1140 WHIPPLE AVE ,RCY",
-        "latitude": 37.4895470408502,
-        "longitude": -122.241372046482,
-        "units": "E10"
-    },
-    {
-        "id": "FF2402027",
-        "date": "2024-04-08",
-        "time": "3:39:09 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ROCCA AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
+        "units": "*>E40"
     },
     {
         "id": "BF2401289",
@@ -52,17 +52,6 @@
         "location": "SEQUOIA AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "CF2402477",
-        "date": "2024-04-08",
-        "time": "3:04:58 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD BAYSHORE HWY #6117 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "T34"
+        "units": "*>E52"
     }
 ]
