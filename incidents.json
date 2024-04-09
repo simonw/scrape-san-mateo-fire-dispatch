@@ -1,47 +1,69 @@
 [
     {
-        "id": "SF2404502",
+        "id": "RF2403867",
         "date": "2024-04-08",
-        "time": "5:20:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "6:00:38 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "PORTOLA DR ,SMO",
+        "location": "SHOREBIRD CIR ,RWS",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": "E20"
     },
     {
-        "id": "MF2402917",
+        "id": "MF2402921",
         "date": "2024-04-08",
-        "time": "5:09:22 PM",
+        "time": "5:54:32 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Trash fire",
-        "location": "729 BELL ST ,EPA",
-        "latitude": 37.4662441230093,
-        "longitude": -122.138772468069,
+        "category": "Public assist",
+        "location": "NEWELL RD / W BAYSHORE RD",
+        "latitude": 37.4573426606717,
+        "longitude": -122.136130436025,
         "units": ">E2"
     },
     {
-        "id": "SF2404501",
+        "id": "SF2404503",
         "date": "2024-04-08",
-        "time": "5:07:59 PM",
+        "time": "5:48:54 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
+        "category": "Full assignment response",
+        "location": "1104 7TH AVE ,SMO",
+        "latitude": 37.5677177362691,
+        "longitude": -122.312125345598,
         "units": ">E24"
     },
     {
-        "id": "RF2403864",
+        "id": "WF2400574",
         "date": "2024-04-08",
-        "time": "5:01:52 PM",
+        "time": "5:42:09 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "RUSSELL AVE ,PVY",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E8"
+    },
+    {
+        "id": "RF2403866",
+        "date": "2024-04-08",
+        "time": "5:40:47 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "REDWOOD AVE #198 ,RCY",
+        "location": "WOODSIDE RD #323 ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ">E10"
+    },
+    {
+        "id": "DF2400688",
+        "date": "2024-04-08",
+        "time": "5:40:40 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "LA HONDA RD / CABRILLO HWY S",
+        "latitude": 37.3245009945071,
+        "longitude": -122.399899192199,
+        "units": "TAC15 >E59"
     },
     {
         "id": "BF2401290",
@@ -52,6 +74,6 @@
         "location": "NB 101 / SO 380",
         "latitude": 37.6317702442123,
         "longitude": -122.402628318717,
-        "units": ">E38 >BC16 >T34 CM31X4 ?TAC35"
+        "units": ">T34"
     }
 ]
