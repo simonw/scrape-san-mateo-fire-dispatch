@@ -1,5 +1,38 @@
 [
     {
+        "id": "NF2404190",
+        "date": "2024-04-09",
+        "time": "10:37:18 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 280 / 1 OFF RAMP",
+        "latitude": 37.6748269958916,
+        "longitude": -122.46905914772,
+        "units": "CM31X5 E71 E93 BC20 T95?TAC35"
+    },
+    {
+        "id": "NF2404189",
+        "date": "2024-04-09",
+        "time": "10:34:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "W MARKET ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2404188",
+        "date": "2024-04-09",
+        "time": "10:33:18 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #201B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
         "id": "RF2403891",
         "date": "2024-04-09",
         "time": "10:24:31 AM",
@@ -8,40 +41,7 @@
         "location": "1123 ROYAL LN ,SNC",
         "latitude": 37.4811833913985,
         "longitude": -122.28359812346,
-        "units": "?E18"
-    },
-    {
-        "id": "SF2404527",
-        "date": "2024-04-09",
-        "time": "10:22:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "MF2402935",
-        "date": "2024-04-09",
-        "time": "10:20:58 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "76 FAIRVIEW AVE ,ATN",
-        "latitude": 37.439958444319,
-        "longitude": -122.212137939172,
-        "units": "E2"
-    },
-    {
-        "id": "RF2403890",
-        "date": "2024-04-09",
-        "time": "10:19:25 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PELICAN LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": "E20"
+        "units": "*>E18 >PR11B"
     },
     {
         "id": "DF2400695",
@@ -52,17 +52,6 @@
         "location": "SWETT RD ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 >R56 ?TAC45"
-    },
-    {
-        "id": "MF2402934",
-        "date": "2024-04-09",
-        "time": "10:07:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": ">R56 >E58 ?TAC45"
     }
 ]
