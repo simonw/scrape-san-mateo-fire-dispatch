@@ -1,14 +1,80 @@
 [
     {
-        "id": "MF2402965",
+        "id": "DF2400703",
         "date": "2024-04-10",
-        "time": "3:02:33 PM",
+        "time": "3:24:14 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "32 HOMER LN ,MNP",
+        "latitude": 37.4174410699097,
+        "longitude": -122.190034739466,
+        "units": "E4"
+    },
+    {
+        "id": "CF2402531",
+        "date": "2024-04-10",
+        "time": "3:20:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Lock out - vehicle",
+        "location": "11 ROLLINS RD ,MLB",
+        "latitude": 37.6000091939903,
+        "longitude": -122.38303489806,
+        "units": ">T34"
+    },
+    {
+        "id": "MF2402966",
+        "date": "2024-04-10",
+        "time": "3:16:40 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "67 ROSEWOOD DR ,ATN",
-        "latitude": 37.4733760871456,
-        "longitude": -122.177209459049,
-        "units": "E1"
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD / ADDISON AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2402530",
+        "date": "2024-04-10",
+        "time": "3:16:06 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MAGNOLIA AVE / TROUSDALE DR",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2404246",
+        "date": "2024-04-10",
+        "time": "3:11:41 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CORONA DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "SF2404597",
+        "date": "2024-04-10",
+        "time": "3:10:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO 92",
+        "latitude": 37.5627460005368,
+        "longitude": -122.305327217889,
+        "units": ">T21 >E24 CM21X3 ?TAC26"
+    },
+    {
+        "id": "CF2402529",
+        "date": "2024-04-10",
+        "time": "3:06:33 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "RHINETTE AVE #211 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
     },
     {
         "id": "NF2404245",
@@ -20,27 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E93"
-    },
-    {
-        "id": "CF2402528",
-        "date": "2024-04-10",
-        "time": "2:58:37 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "850 COWAN RD ,BRM",
-        "latitude": 37.6022722509722,
-        "longitude": -122.374809301717,
-        "units": ">BC108 T34 CM21X5 E34 ?TAC25"
-    },
-    {
-        "id": "SF2404596",
-        "date": "2024-04-10",
-        "time": "2:54:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BLOCK TILTON AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E24"
     }
 ]
