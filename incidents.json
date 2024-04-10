@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2404600",
+        "id": "RF2403945",
         "date": "2024-04-10",
-        "time": "3:42:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "4:01:24 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "SB 101 / NO 92",
+        "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E26 ?TAC25 ?CM21X1 ?E24"
+        "units": ">E9"
+    },
+    {
+        "id": "NF2404247",
+        "date": "2024-04-10",
+        "time": "4:00:29 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HILLSIDE BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "SF2404601",
+        "date": "2024-04-10",
+        "time": "3:58:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "TILTON AVE / N HUMBOLDT ST",
+        "latitude": 37.5735266179677,
+        "longitude": -122.320539310769,
+        "units": ">E21 >T21 CM21X4 BC5 ?TAC25"
+    },
+    {
+        "id": "DF2400704",
+        "date": "2024-04-10",
+        "time": "3:55:37 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY ,PES",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E59"
     },
     {
         "id": "SF2404599",
@@ -19,39 +52,6 @@
         "location": "THAYER LN #LIVING RM ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
-    },
-    {
-        "id": "MF2402967",
-        "date": "2024-04-10",
-        "time": "3:38:34 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "795 WILLOW RD ,MNP",
-        "latitude": 37.4663546046411,
-        "longitude": -122.160234197566,
-        "units": "E77 E1 E5 SQ401 T2BC1 CM11X2 ?TAC15"
-    },
-    {
-        "id": "SF2404598",
-        "date": "2024-04-10",
-        "time": "3:32:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS #209 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "DF2400703",
-        "date": "2024-04-10",
-        "time": "3:24:14 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "32 HOMER LN ,MNP",
-        "latitude": 37.4174410699097,
-        "longitude": -122.190034739466,
-        "units": ">E4"
+        "units": ">E28"
     }
 ]
