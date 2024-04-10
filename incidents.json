@@ -1,5 +1,38 @@
 [
     {
+        "id": "LF2400319",
+        "date": "2024-04-10",
+        "time": "12:34:52 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "7800 EL CAMINO REAL ,BRD",
+        "latitude": 37.6847983614674,
+        "longitude": -122.46446676944,
+        "units": "T85 >BC19 >E86 CM31X3 ?TAC35"
+    },
+    {
+        "id": "NF2404223",
+        "date": "2024-04-10",
+        "time": "12:33:11 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHRIDGE WAY ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "FF2402047",
+        "date": "2024-04-10",
+        "time": "12:29:30 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "VALENCIA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "BF2401309",
         "date": "2024-04-10",
         "time": "12:22:35 AM",
@@ -8,7 +41,7 @@
         "location": "NATIONAL AVE #2218 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "?E51"
+        "units": ">E51"
     },
     {
         "id": "SF2404573",
@@ -19,50 +52,6 @@
         "location": "CARLMONT DR #C421 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2404222",
-        "date": "2024-04-10",
-        "time": "12:15:27 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CITY VIEW DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E93"
-    },
-    {
-        "id": "RF2403918",
-        "date": "2024-04-10",
-        "time": "12:05:38 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "485 WOODSIDE RD ,RCY",
-        "latitude": 37.4705052606747,
-        "longitude": -122.222199623155,
-        "units": ">E10"
-    },
-    {
-        "id": "DF2400698",
-        "date": "2024-04-10",
-        "time": "4/9/2024 11:53:16 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TIMBERLANE WAY ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E17"
-    },
-    {
-        "id": "HF2400880",
-        "date": "2024-04-10",
-        "time": "4/9/2024 11:52:19 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PATRICK WAY ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E40"
+        "units": ""
     }
 ]
