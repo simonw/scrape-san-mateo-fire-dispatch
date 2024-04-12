@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2404021",
+        "date": "2024-04-12",
+        "time": "12:21:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "61 ORCHARD AVE ,RCY",
+        "latitude": 37.4665532846744,
+        "longitude": -122.22270456922,
+        "units": "E10"
+    },
+    {
+        "id": "NF2404323",
+        "date": "2024-04-12",
+        "time": "12:16:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2403006",
+        "date": "2024-04-12",
+        "time": "12:07:07 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE #1 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "RF2404019",
         "date": "2024-04-12",
         "time": "11:55:54 AM",
@@ -8,29 +41,7 @@
         "location": "PALM AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "CF2402570",
-        "date": "2024-04-12",
-        "time": "11:51:06 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #984 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "SF2404677",
-        "date": "2024-04-12",
-        "time": "11:49:04 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
+        "units": ""
     },
     {
         "id": "FF2402097",
@@ -41,18 +52,7 @@
         "location": "382 GRAND AVE ,SSF",
         "latitude": 37.6558683914646,
         "longitude": -122.411840993426,
-        "units": ">Q62 >E61 >BC17 CM31X1 ?TAC35"
-    },
-    {
-        "id": "FF2402095",
-        "date": "2024-04-12",
-        "time": "11:30:10 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BAY CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": "E61"
     },
     {
         "id": "RF2404018",
@@ -63,6 +63,6 @@
         "location": "2120 BROADWAY ,RCY",
         "latitude": 37.486735455205,
         "longitude": -122.228831081243,
-        "units": "PR3E >E9 >CM11X3 >TAC16 >T9>E10 >BC3"
+        "units": ">PR3E >PR3C >E9 >CM11X3 >TAC16>T9"
     }
 ]
