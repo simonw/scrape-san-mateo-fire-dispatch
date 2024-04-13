@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2403028",
+        "date": "2024-04-13",
+        "time": "1:17:53 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Trash fire",
+        "location": "NASH AVE / SANTA MARGARITA AVE",
+        "latitude": 37.4593678602862,
+        "longitude": -122.163245435183,
+        "units": "E1"
+    },
+    {
         "id": "NF2404361",
         "date": "2024-04-13",
         "time": "1:03:59 PM",
@@ -8,7 +19,7 @@
         "location": "58 BELLEVUE AVE ,DCY",
         "latitude": 37.7078059531906,
         "longitude": -122.438838662227,
-        "units": "?E93"
+        "units": ">E93"
     },
     {
         "id": "HF2400905",
@@ -19,7 +30,7 @@
         "location": "MAIN ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": ">E40"
     },
     {
         "id": "FF2402115",
@@ -44,17 +55,6 @@
         "units": ">E86"
     },
     {
-        "id": "WF2400593",
-        "date": "2024-04-13",
-        "time": "12:47:18 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "199 MEADOWOOD DR ,PVY",
-        "latitude": 37.3902869594251,
-        "longitude": -122.217326580294,
-        "units": ">E8"
-    },
-    {
         "id": "SF2404718",
         "date": "2024-04-13",
         "time": "12:37:41 PM",
@@ -75,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E21"
-    },
-    {
-        "id": "MF2403025",
-        "date": "2024-04-13",
-        "time": "10:05:30 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Water rescue response",
-        "location": "2005 WILLOW RD ,MNP",
-        "latitude": 37.492972561631,
-        "longitude": -122.136109043538,
-        "units": ">BOAT14"
     }
 ]
