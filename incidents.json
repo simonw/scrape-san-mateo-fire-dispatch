@@ -1,14 +1,36 @@
 [
     {
+        "id": "CF2402663",
+        "date": "2024-04-16",
+        "time": "1:24:03 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LINCOLN AVE #9 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T34"
+    },
+    {
+        "id": "FF2402179",
+        "date": "2024-04-16",
+        "time": "1:17:54 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "299 LAWRENCE AVE ,SSF",
+        "latitude": 37.6494542024819,
+        "longitude": -122.394858066834,
+        "units": ">Q62"
+    },
+    {
         "id": "MF2403106",
         "date": "2024-04-16",
         "time": "1:04:42 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Traffic accident",
-        "location": "200 DONOHOE ST ,EPA",
+        "location": "DONOHOE ST / CAPITOL AVE",
         "latitude": 37.463430091405,
         "longitude": -122.14945192333,
-        "units": "T2 BC101 ?TAC15 ?CM11X3 ?SQ401?E1"
+        "units": ">T2"
     },
     {
         "id": "NF2404469",
@@ -19,40 +41,7 @@
         "location": "CRESPI DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
-    },
-    {
-        "id": "SF2404840",
-        "date": "2024-04-16",
-        "time": "12:59:27 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "2711 S NORFOLK ST ,SMO",
-        "latitude": 37.5487677994759,
-        "longitude": -122.286389114697,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2404839",
-        "date": "2024-04-16",
-        "time": "12:52:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE #409 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "RF2404170",
-        "date": "2024-04-16",
-        "time": "12:45:34 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "351 TORINO DR ,SNC",
-        "latitude": 37.4940116199435,
-        "longitude": -122.27743742462,
-        "units": ">E16"
+        "units": ">E72"
     },
     {
         "id": "FF2402178",
@@ -64,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E64"
-    },
-    {
-        "id": "NF2404468",
-        "date": "2024-04-16",
-        "time": "12:38:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MARIPOSA ST ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
     }
 ]
