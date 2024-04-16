@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2404844",
+        "date": "2024-04-16",
+        "time": "2:20:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "88 E 4TH AVE ,SMO",
+        "latitude": 37.5628644126394,
+        "longitude": -122.323991729511,
+        "units": "E21"
+    },
+    {
+        "id": "CF2402666",
+        "date": "2024-04-16",
+        "time": "2:10:46 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1056B ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "BF2401401",
+        "date": "2024-04-16",
+        "time": "2:06:39 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CEDAR AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
         "id": "NF2404471",
         "date": "2024-04-16",
         "time": "2:04:46 PM",
@@ -8,7 +41,7 @@
         "location": "GENEVA AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E93"
+        "units": ">E93"
     },
     {
         "id": "DF2400737",
@@ -20,38 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E52"
-    },
-    {
-        "id": "MF2403108",
-        "date": "2024-04-16",
-        "time": "1:53:58 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWELL RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2404843",
-        "date": "2024-04-16",
-        "time": "1:39:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "30 E 4TH AVE ,SMO",
-        "latitude": 37.5626105210034,
-        "longitude": -122.324244318168,
-        "units": ">E21"
-    },
-    {
-        "id": "CF2402663",
-        "date": "2024-04-16",
-        "time": "1:24:03 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LINCOLN AVE #9 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
     }
 ]
