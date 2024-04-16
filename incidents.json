@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2404830",
+        "date": "2024-04-16",
+        "time": "8:40:47 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "44 E 3RD AVE ,SMO",
+        "latitude": 37.5635362326529,
+        "longitude": -122.325129685825,
+        "units": "T21 E25 E24 CM21X4 BC5E21 ?TAC26"
+    },
+    {
+        "id": "SF2404829",
+        "date": "2024-04-16",
+        "time": "8:32:21 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BRIDGEPOINTE PKWY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
         "id": "FF2402173",
         "date": "2024-04-16",
         "time": "8:20:37 AM",
@@ -11,28 +33,6 @@
         "units": ">E63"
     },
     {
-        "id": "FF2402172",
-        "date": "2024-04-16",
-        "time": "8:14:49 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Smoke investigation",
-        "location": "345 SHAW RD ,SSF",
-        "latitude": 37.6379757297882,
-        "longitude": -122.405678232178,
-        "units": ">Q62"
-    },
-    {
-        "id": "NF2404455",
-        "date": "2024-04-16",
-        "time": "8:14:37 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "1120 SHEILA LN ,PCF",
-        "latitude": 37.587207313997,
-        "longitude": -122.484160908221,
-        "units": ">E72"
-    },
-    {
         "id": "CF2402650",
         "date": "2024-04-16",
         "time": "8:13:51 AM",
@@ -41,17 +41,6 @@
         "location": "SB 101 / NO BROADWAY",
         "latitude": 37.5968398858127,
         "longitude": -122.371807046932,
-        "units": ">E24 >E34 >T34 >BC8 CM21X5?TAC25"
-    },
-    {
-        "id": "CF2402649",
-        "date": "2024-04-16",
-        "time": "7:51:19 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #2307 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">T34 >BC8 >E34 CM21X5 ?TAC25"
     }
 ]
