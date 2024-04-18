@@ -1,14 +1,58 @@
 [
     {
-        "id": "CF2402696",
+        "id": "RF2404221",
         "date": "2024-04-17",
-        "time": "6:33:44 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "6:54:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "314 ST MARTIN DR ,RWS",
+        "latitude": 37.5429452624269,
+        "longitude": -122.241674789093,
+        "units": "E20"
+    },
+    {
+        "id": "RF2404220",
+        "date": "2024-04-17",
+        "time": "6:52:56 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "EDGEHILL DR ,BRM",
+        "location": "GREENBRIAR RD ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": "E18"
+    },
+    {
+        "id": "SF2404895",
+        "date": "2024-04-17",
+        "time": "6:50:17 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "VISTA DEL SOL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "RF2404219",
+        "date": "2024-04-17",
+        "time": "6:49:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "644 PROSPECT ST ,SNC",
+        "latitude": 37.5020921602954,
+        "longitude": -122.265479668252,
+        "units": ">E16"
+    },
+    {
+        "id": "MF2403144",
+        "date": "2024-04-17",
+        "time": "6:44:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MILLS CT ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
     },
     {
         "id": "SF2404894",
@@ -19,7 +63,7 @@
         "location": "1036 WOODLAND DR ,SMO",
         "latitude": 37.5523624167895,
         "longitude": -122.330379823397,
-        "units": "E25"
+        "units": ">E25"
     },
     {
         "id": "HF2400938",
@@ -30,17 +74,6 @@
         "location": "SPRUCE ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "NF2404515",
-        "date": "2024-04-17",
-        "time": "6:21:08 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "RISEL AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ""
     }
 ]
