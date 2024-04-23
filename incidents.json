@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2403281",
+        "date": "2024-04-22",
+        "time": "8:18:12 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "3 NEWELL CT ,EPA",
+        "latitude": 37.4570617285856,
+        "longitude": -122.13815381105,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2405133",
+        "date": "2024-04-22",
+        "time": "8:11:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "789 E POPLAR AVE ,SMO",
+        "latitude": 37.5784325852523,
+        "longitude": -122.329215449961,
+        "units": ">E24"
+    },
+    {
         "id": "NF2404699",
         "date": "2024-04-22",
         "time": "8:03:29 PM",
@@ -8,18 +30,18 @@
         "location": "ACCACIA ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
+        "units": ">E93"
     },
     {
-        "id": "SF2405132",
+        "id": "CF2402824",
         "date": "2024-04-22",
-        "time": "8:02:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Water rescue response",
-        "location": "BEACH PARK BLVD / MARLIN AVE",
-        "latitude": 37.5641147300527,
-        "longitude": -122.250058204488,
-        "units": "BC5 E29 E28 ?CG22A ?CM51X5?AB77 ?BOAT11 ?JS28"
+        "time": "8:02:05 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "161 N ROLLINS RD ,MLB",
+        "latitude": 37.6014827797597,
+        "longitude": -122.38467417021,
+        "units": ">E34"
     },
     {
         "id": "CF2402823",
@@ -42,16 +64,5 @@
         "latitude": 37.6884392821899,
         "longitude": -122.455319788611,
         "units": ">PR19 CM31X1 >E86"
-    },
-    {
-        "id": "DF2400782",
-        "date": "2024-04-22",
-        "time": "5:39:42 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALPINE RD / CAMP POMPONIO RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">BC10 >E58 >E1765 >E1769 VFIR23"
     }
 ]
