@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2405209",
+        "date": "2024-04-24",
+        "time": "11:28:51 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CATALPA ST / N RAILROAD AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "FF2402336",
         "date": "2024-04-24",
         "time": "11:24:38 AM",
@@ -8,18 +19,7 @@
         "location": "CONSTITUTION WAY ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
-    },
-    {
-        "id": "BF2401502",
-        "date": "2024-04-24",
-        "time": "11:22:25 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "1801 NILES AVE ,SNB",
-        "latitude": 37.6157383307213,
-        "longitude": -122.418562842241,
-        "units": "E51"
+        "units": ">Q62"
     },
     {
         "id": "SF2405206",
@@ -41,7 +41,7 @@
         "location": "CARY AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": "E24"
     },
     {
         "id": "NF2404741",
@@ -52,6 +52,6 @@
         "location": "115 WESTLINE DR ,DCY",
         "latitude": 37.6637409148348,
         "longitude": -122.492194317534,
-        "units": ">PR20A >E91 >PR20 >TAC35 >E71>BC20 >CM11X5"
+        "units": ">E71 >TAC35 >CM11X5 >PR20A >E91>PR20 >BC20"
     }
 ]
