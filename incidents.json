@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2404500",
+        "id": "RF2404501",
         "date": "2024-04-25",
-        "time": "1:31:47 AM",
+        "time": "2:01:01 AM",
         "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "727 SHASTA ST ,RCY",
+        "latitude": 37.4798003899704,
+        "longitude": -122.222789992007,
+        "units": "E9"
+    },
+    {
+        "id": "RF2404502",
+        "date": "2024-04-25",
+        "time": "2:00:50 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "830 MAIN ST ,RCY",
+        "latitude": 37.4858838006392,
+        "longitude": -122.226598281572,
+        "units": "BC3 T9 E11 ?TAC15 ?CM11X3"
+    },
+    {
+        "id": "RF2404503",
+        "date": "2024-04-25",
+        "time": "2:00:48 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "2110 MIDDLEFIELD RD ,RCY",
+        "latitude": 37.479509980173,
+        "longitude": -122.218426495837,
+        "units": "E5"
+    },
+    {
+        "id": "CF2402867",
+        "date": "2024-04-25",
+        "time": "1:56:55 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "ORCHARD AVE #2 ,RCY",
+        "location": "VIEW HAVEN RD ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": "E32"
     },
     {
         "id": "CF2402866",
@@ -20,16 +53,5 @@
         "latitude": 37.5474956169979,
         "longitude": -122.354683201518,
         "units": ">E33"
-    },
-    {
-        "id": "NF2404766",
-        "date": "2024-04-25",
-        "time": "1:28:00 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PONCETTA DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
     }
 ]
