@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2405237",
+        "date": "2024-04-24",
+        "time": "10:28:44 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "2711 S NORFOLK ST ,SMO",
+        "latitude": 37.5487677994759,
+        "longitude": -122.286389114697,
+        "units": ">E26"
+    },
+    {
         "id": "MF2403319",
         "date": "2024-04-24",
         "time": "10:23:59 PM",
@@ -8,7 +19,7 @@
         "location": "1311 SHERMAN AVE ,WMP",
         "latitude": 37.435284445631,
         "longitude": -122.201854831679,
-        "units": "E4"
+        "units": ">E4"
     },
     {
         "id": "MF2403318",
@@ -19,18 +30,7 @@
         "location": "OAK GROVE AVE #234 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
-    },
-    {
-        "id": "SF2405236",
-        "date": "2024-04-24",
-        "time": "10:09:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HOBART AVE #1 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
+        "units": ">E6"
     },
     {
         "id": "NF2404764",
@@ -42,49 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "CF2402865",
-        "date": "2024-04-24",
-        "time": "10:01:40 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BARCELONA DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2404497",
-        "date": "2024-04-24",
-        "time": "10:01:07 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MAPLE ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2404496",
-        "date": "2024-04-24",
-        "time": "9:59:11 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2402345",
-        "date": "2024-04-24",
-        "time": "9:28:52 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "200 AIRPORT BLVD ,SSF",
-        "latitude": 37.6537737847061,
-        "longitude": -122.407696406044,
-        "units": ">E61"
     }
 ]
