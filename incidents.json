@@ -1,14 +1,58 @@
 [
     {
-        "id": "RF2404570",
+        "id": "MF2403384",
         "date": "2024-04-26",
-        "time": "2:36:27 PM",
+        "time": "3:01:30 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "479 BERESFORD AVE ,WSB",
+        "latitude": 37.4521359178737,
+        "longitude": -122.221499911356,
+        "units": "E3"
+    },
+    {
+        "id": "NF2404819",
+        "date": "2024-04-26",
+        "time": "2:59:04 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "405 91ST ST #15 ,DCY",
+        "latitude": 37.6900228906303,
+        "longitude": -122.474826444955,
+        "units": "E95"
+    },
+    {
+        "id": "SF2405315",
+        "date": "2024-04-26",
+        "time": "2:51:14 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "2555 FLORES ST ,SMO",
+        "latitude": 37.5433874924016,
+        "longitude": -122.306276045106,
+        "units": ">T23"
+    },
+    {
+        "id": "NF2404818",
+        "date": "2024-04-26",
+        "time": "2:49:51 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SB 280 / NO SERRAMONTE BLVD",
+        "latitude": 37.6737538263321,
+        "longitude": -122.46851233473,
+        "units": ">E94 >T95 ?TAC35 >E92 >BC20CM31X3"
+    },
+    {
+        "id": "RF2404571",
+        "date": "2024-04-26",
+        "time": "2:44:34 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "PERRY ST ,RCY",
+        "location": "WOODSIDE RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">SQ409"
+        "units": "E12"
     },
     {
         "id": "BF2401527",
@@ -19,18 +63,7 @@
         "location": "SANTA LUCIA AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "NF2404817",
-        "date": "2024-04-26",
-        "time": "2:32:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERRAMONTE BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ""
     },
     {
         "id": "RF2404566",
@@ -41,6 +74,6 @@
         "location": "1700 SEAPORT BLVD ,RCY",
         "latitude": 37.5112240813359,
         "longitude": -122.20060928969,
-        "units": ">BOAT11 >BC3 >T9 AB77 CM51X2?CG22A"
+        "units": ">BOAT11"
     }
 ]
