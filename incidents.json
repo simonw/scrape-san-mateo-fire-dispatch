@@ -1,5 +1,60 @@
 [
     {
+        "id": "SF2405512",
+        "date": "2024-05-01",
+        "time": "10:23:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "J HART CLINTON DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "WF2400667",
+        "date": "2024-05-01",
+        "time": "10:17:19 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAND HILL RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "CF2402996",
+        "date": "2024-05-01",
+        "time": "10:15:14 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "RF2404761",
+        "date": "2024-05-01",
+        "time": "10:13:29 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WINSLOW ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "BF2401565",
+        "date": "2024-05-01",
+        "time": "10:08:14 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "EB 380 / WO EL CAMINO REAL",
+        "latitude": 37.6300606284361,
+        "longitude": -122.425149172057,
+        "units": ">T51 >BC16 CM31X3 ?TAC35"
+    },
+    {
         "id": "HF2401019",
         "date": "2024-05-01",
         "time": "10:04:27 AM",
@@ -8,7 +63,18 @@
         "location": "MIRAMONTES POINT RD #221 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": ">E40"
+    },
+    {
+        "id": "RF2404759",
+        "date": "2024-05-01",
+        "time": "10:04:13 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "MANZANITA ST / STAMBAUGH ST",
+        "latitude": 37.481717176067,
+        "longitude": -122.217953426123,
+        "units": ""
     },
     {
         "id": "SF2405511",
@@ -19,7 +85,7 @@
         "location": "PARKWOOD DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
+        "units": ">E27"
     },
     {
         "id": "SF2405510",
@@ -30,39 +96,6 @@
         "location": "W KYNE ST #222 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "RF2404758",
-        "date": "2024-05-01",
-        "time": "9:59:52 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "955 SKYWAY RD ,SNC",
-        "latitude": 37.5070571737636,
-        "longitude": -122.247573915256,
-        "units": "E16"
-    },
-    {
-        "id": "SF2405509",
-        "date": "2024-05-01",
-        "time": "9:48:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "RF2404757",
-        "date": "2024-05-01",
-        "time": "9:47:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BREWSTER AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">E26"
     }
 ]
