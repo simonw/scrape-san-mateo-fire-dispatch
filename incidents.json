@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2405580",
+        "date": "2024-05-02",
+        "time": "3:40:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N DELAWARE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "RF2404815",
+        "date": "2024-05-02",
+        "time": "3:28:18 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST #109 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
         "id": "SF2405579",
         "date": "2024-05-02",
         "time": "3:26:11 PM",
@@ -8,29 +30,7 @@
         "location": "MIRAMAR #113 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E26"
-    },
-    {
-        "id": "DF2400826",
-        "date": "2024-05-02",
-        "time": "3:25:20 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAKEVIEW WAY ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E12"
-    },
-    {
-        "id": "RF2404814",
-        "date": "2024-05-02",
-        "time": "3:25:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "251 JACKSON AVE ,RCY",
-        "latitude": 37.480241743017,
-        "longitude": -122.231255344247,
-        "units": "?E9"
+        "units": ">E26"
     },
     {
         "id": "RF2404813",
@@ -41,7 +41,7 @@
         "location": "ROOSEVELT AVE #24 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "MF2403556",
@@ -66,50 +66,6 @@
         "units": ">E28"
     },
     {
-        "id": "MF2403555",
-        "date": "2024-05-02",
-        "time": "3:19:01 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2402483",
-        "date": "2024-05-02",
-        "time": "3:10:10 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "MF2403554",
-        "date": "2024-05-02",
-        "time": "3:06:13 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E SELBY LN #222 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "SF2405577",
-        "date": "2024-05-02",
-        "time": "2:59:13 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PENINSULA AVE #4 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "FF2402479",
         "date": "2024-05-02",
         "time": "2:08:41 PM",
@@ -118,6 +74,6 @@
         "location": "228 JAMES CT ,SSF",
         "latitude": 37.6652545649257,
         "longitude": -122.429864628976,
-        "units": ">TAC35 >CM31X5 >OES31 >PR17B >E61>E65 >E64 >BC17 >E63 >Q62"
+        "units": ">TAC35 >CM31X5 >OES31 >E61 >E65>E64 >BC17 >E63 >Q62"
     }
 ]
