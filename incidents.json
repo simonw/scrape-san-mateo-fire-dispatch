@@ -1,14 +1,102 @@
 [
     {
-        "id": "SF2405535",
+        "id": "SF2405539",
         "date": "2024-05-01",
-        "time": "6:57:44 PM",
+        "time": "7:27:05 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "EB 92 / EO ALAMEDA DE LAS PULGAS",
+        "latitude": 37.5482127525552,
+        "longitude": -122.317750650581,
+        "units": "CM21X3 E27 E26 BC11 T17?TAC26"
+    },
+    {
+        "id": "FF2402466",
+        "date": "2024-05-01",
+        "time": "7:17:35 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "CATALPA ST ,SMO",
+        "location": "EL CAMINO REAL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E61"
+    },
+    {
+        "id": "NF2405018",
+        "date": "2024-05-01",
+        "time": "7:16:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2405538",
+        "date": "2024-05-01",
+        "time": "7:16:12 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SHOREVIEW AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "FF2402465",
+        "date": "2024-05-01",
+        "time": "7:15:08 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MARCIE CIR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "SF2405537",
+        "date": "2024-05-01",
+        "time": "7:14:59 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOVET RD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "SF2405536",
+        "date": "2024-05-01",
+        "time": "7:09:02 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PROMONTORY POINT LN #1101 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "CF2403010",
+        "date": "2024-05-01",
+        "time": "7:04:28 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "E MILLBRAE AVE / OVER 101",
+        "latitude": 37.6026016317555,
+        "longitude": -122.380331454231,
+        "units": ">T34 ?TAC25 >E37 CM21X5"
+    },
+    {
+        "id": "WF2400672",
+        "date": "2024-05-01",
+        "time": "7:01:47 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "FARM HILL BLVD / WOODHILL DR",
+        "latitude": 37.4474679977189,
+        "longitude": -122.260266184274,
+        "units": ">E19"
     },
     {
         "id": "HF2401024",
@@ -19,51 +107,7 @@
         "location": "1 JOHNSON PIER ,PRN",
         "latitude": 37.5030275505094,
         "longitude": -122.482330667063,
-        "units": ">BC10 E44 E41 TAC45 ?CM41X4"
-    },
-    {
-        "id": "RF2404776",
-        "date": "2024-05-01",
-        "time": "6:47:33 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "MAIN ST / CHESTNUT ST",
-        "latitude": 37.4793206783676,
-        "longitude": -122.223657848396,
-        "units": ">E9"
-    },
-    {
-        "id": "NF2405017",
-        "date": "2024-05-01",
-        "time": "6:44:37 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "HILLSIDE BLVD / ALP AVE",
-        "latitude": 37.7016030810483,
-        "longitude": -122.462238311094,
-        "units": ">T95 >BC20 >E92 CM31X3 ?TAC35"
-    },
-    {
-        "id": "BF2401573",
-        "date": "2024-05-01",
-        "time": "6:34:41 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CHARLESTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "BF2401572",
-        "date": "2024-05-01",
-        "time": "6:32:58 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EUCALYPTUS WAY ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": ">BC10 >TAC45 >CM41X4"
     },
     {
         "id": "WF2400670",
@@ -75,16 +119,5 @@
         "latitude": 37.4503547561209,
         "longitude": -122.278505928096,
         "units": ""
-    },
-    {
-        "id": "FF2402464",
-        "date": "2024-05-01",
-        "time": "5:30:27 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "E GRAND AVE #160 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "Q62"
     }
 ]
