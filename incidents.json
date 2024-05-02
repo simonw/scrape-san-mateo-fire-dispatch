@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2405569",
+        "id": "RF2404805",
         "date": "2024-05-02",
-        "time": "11:20:22 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:41:56 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL VERANO WAY ,BLM",
+        "location": "WOODSIDE RD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": "?SQ409"
+    },
+    {
+        "id": "FF2402475",
+        "date": "2024-05-02",
+        "time": "11:37:48 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "FAIRWAY DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "CF2403031",
+        "date": "2024-05-02",
+        "time": "11:37:25 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WILLBOROUGH PL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "RF2404804",
+        "date": "2024-05-02",
+        "time": "11:33:13 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "765 LAUREL ST ,SNC",
+        "latitude": 37.5044801355417,
+        "longitude": -122.258278164882,
+        "units": ">E13"
+    },
+    {
+        "id": "MF2403544",
+        "date": "2024-05-02",
+        "time": "11:30:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "180 BUCKINGHAM AVE ,NFO",
+        "latitude": 37.4736948770798,
+        "longitude": -122.213532815927,
+        "units": ">E3"
+    },
+    {
+        "id": "NF2405037",
+        "date": "2024-05-02",
+        "time": "11:28:52 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD #DIALYSIS ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "RF2404803",
@@ -30,7 +85,7 @@
         "location": "VISTA DEL MAR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": ""
     },
     {
         "id": "FF2402474",
@@ -44,28 +99,6 @@
         "units": ">E65"
     },
     {
-        "id": "FF2402473",
-        "date": "2024-05-02",
-        "time": "11:03:34 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2403029",
-        "date": "2024-05-02",
-        "time": "11:01:59 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1469 BELLEVUE AVE ,BRM",
-        "latitude": 37.5774446896324,
-        "longitude": -122.352136368988,
-        "units": ">E34 >T34 >BC8 CM21X5 ?TAC25"
-    },
-    {
         "id": "NF2405032",
         "date": "2024-05-02",
         "time": "10:56:38 AM",
@@ -74,6 +107,6 @@
         "location": "BAY RIDGE DR / ACCACIA ST",
         "latitude": 37.7000081263294,
         "longitude": -122.417988940245,
-        "units": ">E93"
+        "units": ">PR20C >PR20A >E93"
     }
 ]
