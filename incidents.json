@@ -1,5 +1,60 @@
 [
     {
+        "id": "WF2400687",
+        "date": "2024-05-04",
+        "time": "9:03:37 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "OLIVE HILL LN / ALBION AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": "E7"
+    },
+    {
+        "id": "SF2405663",
+        "date": "2024-05-04",
+        "time": "8:55:56 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HASTINGS DR #310 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "BF2401596",
+        "date": "2024-05-04",
+        "time": "8:53:52 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "DF2400836",
+        "date": "2024-05-04",
+        "time": "8:50:57 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / SO TROUSDALE DR",
+        "latitude": 37.5568034592256,
+        "longitude": -122.380372766074,
+        "units": ">E33 >E38 >BC16 CM21X3 ?TAC25"
+    },
+    {
+        "id": "DF2400835",
+        "date": "2024-05-04",
+        "time": "8:48:22 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 280 / SO 92",
+        "latitude": 37.5010326373211,
+        "longitude": -122.325975079224,
+        "units": ">E18"
+    },
+    {
         "id": "NF2405112",
         "date": "2024-05-04",
         "time": "8:39:12 AM",
@@ -8,29 +63,7 @@
         "location": "SB 101 / NO SIERRA POINT PKWY",
         "latitude": 37.6989155941404,
         "longitude": -122.392986466886,
-        "units": "BC17 E81 E61 CM31X5 Q62?TAC36"
-    },
-    {
-        "id": "CF2403074",
-        "date": "2024-05-04",
-        "time": "8:32:21 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AIRPORT BLVD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "RF2404870",
-        "date": "2024-05-04",
-        "time": "8:28:59 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WHIPPLE AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": ">Q62 >E61"
     },
     {
         "id": "NF2405111",
@@ -41,6 +74,6 @@
         "location": "SB 280 / NO JOHN DALY BLVD",
         "latitude": 37.7068360881013,
         "longitude": -122.470463627917,
-        "units": ">BC20 >E92 CM31X4 ?TAC35"
+        "units": ">E92"
     }
 ]
