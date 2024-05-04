@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2403081",
+        "date": "2024-05-04",
+        "time": "2:22:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #2 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E38"
+    },
+    {
+        "id": "WF2400697",
+        "date": "2024-05-04",
+        "time": "2:22:38 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "LAKEMEAD WAY ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": "E19"
+    },
+    {
+        "id": "FF2402531",
+        "date": "2024-05-04",
+        "time": "2:18:46 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "DUVAL DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "WF2400696",
+        "date": "2024-05-04",
+        "time": "2:09:39 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 280 / SO EDGEWOOD RD",
+        "latitude": 37.4503547561209,
+        "longitude": -122.278505928096,
+        "units": ">E7 >R7 >E18 >BC2 ?CM11X2?TAC15"
+    },
+    {
         "id": "MF2403608",
         "date": "2024-05-04",
         "time": "1:59:37 PM",
@@ -11,17 +55,6 @@
         "units": ">E6"
     },
     {
-        "id": "WF2400695",
-        "date": "2024-05-04",
-        "time": "1:56:48 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "125 DEER MEADOW LN ,PVY",
-        "latitude": 37.3893184111208,
-        "longitude": -122.214997721385,
-        "units": ">E19"
-    },
-    {
         "id": "DF2400847",
         "date": "2024-05-04",
         "time": "1:47:03 PM",
@@ -30,39 +63,6 @@
         "location": "SAN MATEO RD / WO SKYLINE BLVD",
         "latitude": 37.4911236508261,
         "longitude": -122.369835655549,
-        "units": "?TAC45 *>E17 >E40 >BC10 CM41X3"
-    },
-    {
-        "id": "CF2403080",
-        "date": "2024-05-04",
-        "time": "1:46:20 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MAGNOLIA AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "WF2400694",
-        "date": "2024-05-04",
-        "time": "1:41:09 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PALMER LN ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "SF2405672",
-        "date": "2024-05-04",
-        "time": "1:29:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Hazardous material - consult",
-        "location": "319 S HUMBOLDT ST ,SMO",
-        "latitude": 37.5692521209733,
-        "longitude": -122.315582660107,
-        "units": ""
+        "units": "CM41X3 ?TAC45 >BC10"
     }
 ]
