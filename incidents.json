@@ -1,36 +1,58 @@
 [
     {
-        "id": "BF2401602",
+        "id": "DF2400845",
         "date": "2024-05-04",
-        "time": "12:16:53 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "1501 MAGNOLIA AVE ,SNB",
-        "latitude": 37.6098077807422,
-        "longitude": -122.406048270544,
-        "units": "E51"
+        "time": "12:43:06 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / VISTA 3 OFF RAMP",
+        "latitude": 37.4999344825022,
+        "longitude": -122.320448875946,
+        "units": "?TAC16 ?CM11X2 ?BC11 ?E17 ?T17"
     },
     {
-        "id": "NF2405126",
+        "id": "NF2405128",
         "date": "2024-05-04",
-        "time": "12:10:44 PM",
+        "time": "12:39:58 PM",
         "summary": "North County Fire on Control-3",
         "category": "Traffic accident",
-        "location": "NB 280 / JUNIPERO SERRA BLVD OFF RAMP",
-        "latitude": 37.6937554727124,
-        "longitude": -122.470269084082,
-        "units": ">E91 >E94 ?TAC37 ?CM31X3"
+        "location": "NB 280 / SO SERRAMONTE BLVD",
+        "latitude": 37.6682462185452,
+        "longitude": -122.465546681579,
+        "units": "CM31X1 T95 BC20 E94 E92?TAC36"
     },
     {
-        "id": "CF2403078",
+        "id": "MF2403605",
         "date": "2024-05-04",
-        "time": "12:08:10 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LANDING LN ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "time": "12:36:29 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "E BAYSHORE RD / RALMAR AVE",
+        "latitude": 37.465780554346,
+        "longitude": -122.149317810324,
+        "units": ">T2"
+    },
+    {
+        "id": "WF2400690",
+        "date": "2024-05-04",
+        "time": "12:28:38 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 280 / NO FARM HILL BLVD",
+        "latitude": 37.4502169682406,
+        "longitude": -122.278716264987,
+        "units": ">E18 CM11X3 ?TAC15"
+    },
+    {
+        "id": "FF2402528",
+        "date": "2024-05-04",
+        "time": "12:23:11 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "400 GRAND AVE ,SSF",
+        "latitude": 37.6561503964417,
+        "longitude": -122.413081727749,
+        "units": ">E61"
     },
     {
         "id": "BF2401601",
@@ -41,72 +63,6 @@
         "location": "SB 280 / SO 380",
         "latitude": 37.6251041621466,
         "longitude": -122.429061809406,
-        "units": "CM31X4 >Q62 >BC17 >E64 ?TAC35"
-    },
-    {
-        "id": "NF2405125",
-        "date": "2024-05-04",
-        "time": "11:48:39 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "POINTE PACIFIC DR #5 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2403604",
-        "date": "2024-05-04",
-        "time": "11:48:28 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "1090 DEANNA DR ,MNP",
-        "latitude": 37.4294650515854,
-        "longitude": -122.207625994152,
-        "units": ">E6"
-    },
-    {
-        "id": "FF2402527",
-        "date": "2024-05-04",
-        "time": "11:42:35 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "JUNIPER AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "DF2400842",
-        "date": "2024-05-04",
-        "time": "11:27:02 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 280 / NO EDGEWOOD RD",
-        "latitude": 37.485892737192,
-        "longitude": -122.29811648812,
-        "units": ">E4"
-    },
-    {
-        "id": "BF2401600",
-        "date": "2024-05-04",
-        "time": "11:25:21 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "EB 380 / WO 101",
-        "latitude": 37.6340504083676,
-        "longitude": -122.412444495015,
-        "units": ""
-    },
-    {
-        "id": "NF2405123",
-        "date": "2024-05-04",
-        "time": "11:05:18 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 280 / HICKEY BLVD OFF RAMP",
-        "latitude": 37.6591808793724,
-        "longitude": -122.462764033691,
-        "units": ""
+        "units": ">Q62"
     }
 ]
