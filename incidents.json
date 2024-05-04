@@ -1,14 +1,47 @@
 [
     {
-        "id": "LF2400385",
+        "id": "RF2404873",
         "date": "2024-05-04",
-        "time": "9:24:53 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "THORNHILL DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": "E86"
+        "time": "9:38:04 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Smoke investigation",
+        "location": "ELM ST / BRITTAN AVE",
+        "latitude": 37.4989434699091,
+        "longitude": -122.254896360535,
+        "units": "E16"
+    },
+    {
+        "id": "NF2405114",
+        "date": "2024-05-04",
+        "time": "9:34:08 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1900 SULLIVAN AVE ,DCY",
+        "latitude": 37.6796917045745,
+        "longitude": -122.47432053338,
+        "units": ">E95"
+    },
+    {
+        "id": "BF2401597",
+        "date": "2024-05-04",
+        "time": "9:33:13 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "409 CHESTNUT AVE ,SNB",
+        "latitude": 37.6176682348831,
+        "longitude": -122.418132569997,
+        "units": ">E51"
+    },
+    {
+        "id": "DF2400838",
+        "date": "2024-05-04",
+        "time": "9:31:04 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "NB 280 / VISTA 3 OFF RAMP",
+        "latitude": 37.4964374112651,
+        "longitude": -122.311578812581,
+        "units": "CM11X2 >E18"
     },
     {
         "id": "FF2402523",
@@ -19,18 +52,7 @@
         "location": "COUNTRY CLUB DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "DF2400837",
-        "date": "2024-05-04",
-        "time": "9:21:08 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 280 / SO 92",
-        "latitude": 37.5004067419462,
-        "longitude": -122.326125246726,
-        "units": ">E17 T17 E18 BC11 CM11X5?TAC15"
+        "units": ">E63"
     },
     {
         "id": "SF2405664",
@@ -42,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E26"
-    },
-    {
-        "id": "FF2402522",
-        "date": "2024-05-04",
-        "time": "9:07:10 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "418 LINDEN AVE ,SSF",
-        "latitude": 37.6567756523108,
-        "longitude": -122.409255653599,
-        "units": ">CM31X1 >E61"
     }
 ]
