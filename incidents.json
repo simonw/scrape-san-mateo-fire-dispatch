@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2403720",
+        "id": "RF2405041",
         "date": "2024-05-08",
-        "time": "8:04:46 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:21:03 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BAY RD ,EPA",
+        "location": "LA MESA DR #9 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": "E18"
+    },
+    {
+        "id": "NF2405322",
+        "date": "2024-05-08",
+        "time": "8:17:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "215 BANCROFT WAY ,PCF",
+        "latitude": 37.6526702016947,
+        "longitude": -122.488798687429,
+        "units": ">E71"
+    },
+    {
+        "id": "NF2405321",
+        "date": "2024-05-08",
+        "time": "8:14:51 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "IMPERIAL WAY #305 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2405320",
+        "date": "2024-05-08",
+        "time": "8:06:57 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MARVILLA CIR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
     },
     {
         "id": "HF2401094",
@@ -19,51 +52,7 @@
         "location": "MIRAMAR DR ,MIR",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
-    },
-    {
-        "id": "RF2405039",
-        "date": "2024-05-08",
-        "time": "8:03:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "SQ409"
-    },
-    {
-        "id": "NF2405319",
-        "date": "2024-05-08",
-        "time": "7:59:44 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #204A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
-    },
-    {
-        "id": "NF2405318",
-        "date": "2024-05-08",
-        "time": "7:58:03 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTVIEW CIR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2405870",
-        "date": "2024-05-08",
-        "time": "7:56:26 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1919 ALAMEDA DE LAS PULGAS ,SMO",
-        "latitude": 37.5466530652709,
-        "longitude": -122.320020647336,
-        "units": ">E25"
+        "units": ">E41"
     },
     {
         "id": "SF2405868",
@@ -74,7 +63,7 @@
         "location": "VISTA AVE / PACIFIC BLVD",
         "latitude": 37.5308391186704,
         "longitude": -122.288701483884,
-        "units": ">T23 ?TAC25 CM21X5 >BC5 >E14"
+        "units": "CM21X5 >T23 ?TAC25 >BC5"
     },
     {
         "id": "FF2402623",
@@ -86,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E61"
-    },
-    {
-        "id": "BF2401655",
-        "date": "2024-05-08",
-        "time": "6:50:44 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SB 101 / E MILLBRAE AVE OFF RAMP",
-        "latitude": 37.6052725539121,
-        "longitude": -122.384739038774,
-        "units": ">T51"
     }
 ]
