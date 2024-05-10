@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2403762",
+        "date": "2024-05-10",
+        "time": "12:40:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "455 5TH AVE ,NFO",
+        "latitude": 37.4734125900285,
+        "longitude": -122.204051803994,
+        "units": "E5"
+    },
+    {
+        "id": "RF2405099",
+        "date": "2024-05-10",
+        "time": "12:37:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "LF2400406",
+        "date": "2024-05-10",
+        "time": "12:35:42 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "C ST ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "WF2400741",
+        "date": "2024-05-10",
+        "time": "12:23:23 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CANADA RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "RF2405098",
+        "date": "2024-05-10",
+        "time": "12:23:01 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "IRIS ST / WHIPPLE AVE",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "NF2405397",
         "date": "2024-05-10",
         "time": "12:21:53 PM",
@@ -8,29 +63,7 @@
         "location": "ALTA VISTA WAY ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
-    },
-    {
-        "id": "RF2405097",
-        "date": "2024-05-10",
-        "time": "12:21:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WHIPPLE AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E9"
-    },
-    {
-        "id": "CF2403230",
-        "date": "2024-05-10",
-        "time": "12:21:01 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #402 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E37"
+        "units": ">E93"
     },
     {
         "id": "WF2400740",
@@ -41,7 +74,7 @@
         "location": "CANADA RD / OLIVE HILL LN",
         "latitude": 37.4395549096422,
         "longitude": -122.264051593385,
-        "units": "BC2 E12 E8 R7 E19?TAC15 ?CM11X3"
+        "units": "?CM11X3 ?TAC15 >R7 >BC2 >E12>E19 >E8"
     },
     {
         "id": "RF2405096",
@@ -52,18 +85,7 @@
         "location": "LINDEN ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "SQ409"
-    },
-    {
-        "id": "NF2405396",
-        "date": "2024-05-10",
-        "time": "12:16:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BEACH BLVD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">SQ409"
     },
     {
         "id": "HF2401110",
@@ -75,16 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E40"
-    },
-    {
-        "id": "SF2405954",
-        "date": "2024-05-10",
-        "time": "12:12:07 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HACIENDA ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
