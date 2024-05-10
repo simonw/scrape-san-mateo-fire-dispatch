@@ -1,36 +1,58 @@
 [
     {
-        "id": "FF2402669",
+        "id": "WF2400738",
         "date": "2024-05-10",
-        "time": "11:00:32 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "122 S MAGNOLIA AVE ,SSF",
-        "latitude": 37.6501384963392,
-        "longitude": -122.422279473536,
-        "units": "E63"
+        "time": "11:24:58 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "3710 TRIPP RD ,WDS",
+        "latitude": 37.419495749249,
+        "longitude": -122.269952470941,
+        "units": "?E19"
     },
     {
-        "id": "FF2402668",
+        "id": "HF2401107",
         "date": "2024-05-10",
-        "time": "10:59:16 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Lock out - vehicle",
-        "location": "344 GRAND AVE ,SSF",
-        "latitude": 37.6556840980426,
-        "longitude": -122.411010482799,
-        "units": "E61"
+        "time": "11:13:44 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CARNOUSTIE DR ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
     },
     {
-        "id": "MF2403760",
+        "id": "RF2405094",
         "date": "2024-05-10",
-        "time": "10:59:13 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1781 E BAYSHORE RD ,EPA",
-        "latitude": 37.4589407354757,
-        "longitude": -122.13577955583,
-        "units": "CM11X2 >E2 BC101 ?TAC15"
+        "time": "11:12:36 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OLD COUNTY RD ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "FF2402670",
+        "date": "2024-05-10",
+        "time": "11:08:00 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "N CANAL ST ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "RF2405093",
+        "date": "2024-05-10",
+        "time": "11:06:07 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
     },
     {
         "id": "CF2403228",
@@ -41,72 +63,6 @@
         "location": "TROUSDALE DR #1104B ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2405393",
-        "date": "2024-05-10",
-        "time": "10:56:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GLENCOURT WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "SF2405953",
-        "date": "2024-05-10",
-        "time": "10:54:46 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FOLGER DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "NF2405392",
-        "date": "2024-05-10",
-        "time": "10:50:08 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DONDEE WAY #F ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E72"
-    },
-    {
-        "id": "RF2405092",
-        "date": "2024-05-10",
-        "time": "10:47:04 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist",
-        "location": "1040 INVERNESS DR ,SNC",
-        "latitude": 37.5115715045166,
-        "longitude": -122.262573094507,
-        "units": ">E13"
-    },
-    {
-        "id": "BF2401675",
-        "date": "2024-05-10",
-        "time": "10:46:50 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CATALPA WAY ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "RF2405091",
-        "date": "2024-05-10",
-        "time": "10:44:01 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BREWSTER AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "E37"
     }
 ]
