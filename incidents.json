@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2403762",
+        "id": "MF2403765",
         "date": "2024-05-10",
-        "time": "12:40:22 PM",
+        "time": "12:48:26 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "455 5TH AVE ,NFO",
-        "latitude": 37.4734125900285,
-        "longitude": -122.204051803994,
-        "units": "E5"
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2405955",
+        "date": "2024-05-10",
+        "time": "12:47:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OLD COUNTY RD #8 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E14"
+    },
+    {
+        "id": "MF2403764",
+        "date": "2024-05-10",
+        "time": "12:47:15 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "SB 101 / NO EMBARCADERO",
+        "latitude": 37.4562476390862,
+        "longitude": -122.13389083789,
+        "units": "TAC16 >E77 CM11X1 >E2"
+    },
+    {
+        "id": "MF2403763",
+        "date": "2024-05-10",
+        "time": "12:45:17 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HIDDEN OAKS DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T4"
     },
     {
         "id": "RF2405099",
@@ -42,60 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "RF2405098",
-        "date": "2024-05-10",
-        "time": "12:23:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "IRIS ST / WHIPPLE AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2405397",
-        "date": "2024-05-10",
-        "time": "12:21:53 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALTA VISTA WAY ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "WF2400740",
-        "date": "2024-05-10",
-        "time": "12:20:19 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "CANADA RD / OLIVE HILL LN",
-        "latitude": 37.4395549096422,
-        "longitude": -122.264051593385,
-        "units": "?CM11X3 ?TAC15 >R7 >BC2 >E12>E19 >E8"
-    },
-    {
-        "id": "RF2405096",
-        "date": "2024-05-10",
-        "time": "12:19:32 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LINDEN ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "HF2401110",
-        "date": "2024-05-10",
-        "time": "12:13:03 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CANADA COVE AVE ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
     }
 ]
