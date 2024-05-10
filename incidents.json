@@ -1,5 +1,93 @@
 [
     {
+        "id": "NF2405404",
+        "date": "2024-05-10",
+        "time": "4:42:30 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ODDSTAD BLVD #265 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "BF2401679",
+        "date": "2024-05-10",
+        "time": "4:39:21 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #J ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "NF2405403",
+        "date": "2024-05-10",
+        "time": "4:38:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "NB 101 / NO SIERRA POINT PKWY",
+        "latitude": 37.6927809446673,
+        "longitude": -122.391323110023,
+        "units": "T51 BC16 E81 E51 CM31X1?TAC36"
+    },
+    {
+        "id": "RF2405107",
+        "date": "2024-05-10",
+        "time": "4:37:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHOREWAY RD #SUITE A ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E16"
+    },
+    {
+        "id": "WF2400742",
+        "date": "2024-05-10",
+        "time": "4:35:19 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PORTOLA RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">R7 >E7 TAC15 CM11X1"
+    },
+    {
+        "id": "RF2405106",
+        "date": "2024-05-10",
+        "time": "4:33:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LINCOLN AVE / ADAMS ST",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "SF2405963",
+        "date": "2024-05-10",
+        "time": "4:32:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E POPLAR AVE #29 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "RF2405105",
+        "date": "2024-05-10",
+        "time": "4:31:28 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "480 JAMES AVE ,RCY",
+        "latitude": 37.4841504907955,
+        "longitude": -122.236471855173,
+        "units": ">E10"
+    },
+    {
         "id": "FF2402675",
         "date": "2024-05-10",
         "time": "4:22:31 PM",
@@ -8,18 +96,18 @@
         "location": "GRAND AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ""
     },
     {
-        "id": "NF2405402",
+        "id": "FF2402676",
         "date": "2024-05-10",
-        "time": "4:18:27 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm - manual",
-        "location": "500 KING DR ,DCY",
-        "latitude": 37.6544745543475,
-        "longitude": -122.454389079192,
-        "units": "E94"
+        "time": "4:20:40 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Trash fire",
+        "location": "BRIARWOOD DR / WILDWOOD DR  ,SSF",
+        "latitude": 37.6369830864408,
+        "longitude": -122.435359463921,
+        "units": ">E63"
     },
     {
         "id": "CF2403234",
@@ -30,28 +118,6 @@
         "location": "AIRPORT BLVD ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2405961",
-        "date": "2024-05-10",
-        "time": "4:01:45 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WAKEFIELD DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2405104",
-        "date": "2024-05-10",
-        "time": "4:01:39 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "588 MARLIN CT ,RWS",
-        "latitude": 37.5328305388094,
-        "longitude": -122.249851249402,
         "units": ""
     },
     {
@@ -63,6 +129,6 @@
         "location": "701 SPRUCE AVE ,SSF",
         "latitude": 37.6615525636967,
         "longitude": -122.41213566463,
-        "units": ">PR17A CM31X2 >Q62 >BC17 >E65?TAC35"
+        "units": ">PR17A CM31X2 >BC17 >E65 ?TAC35"
     }
 ]
