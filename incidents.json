@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2405439",
+        "id": "RF2405135",
         "date": "2024-05-11",
-        "time": "12:20:38 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "81 LILY CT ,BRS",
-        "latitude": 37.6968690702083,
-        "longitude": -122.419968362177,
-        "units": "E93"
+        "time": "12:40:24 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRITTAN AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "SF2406010",
+        "date": "2024-05-11",
+        "time": "12:36:39 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FOOTHILL DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "MF2403806",
+        "date": "2024-05-11",
+        "time": "12:33:40 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BERKELEY AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "SF2406009",
+        "date": "2024-05-11",
+        "time": "12:32:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HEMLOCK AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
     },
     {
         "id": "DF2400880",
@@ -19,40 +52,7 @@
         "location": "GAZOS CREEK RD / CLOVERDALE RD",
         "latitude": 37.1861695651266,
         "longitude": -122.34001870939,
-        "units": ">E59 CFE33 TAC45 R57 E1799BC10 E40"
-    },
-    {
-        "id": "SF2406008",
-        "date": "2024-05-11",
-        "time": "12:04:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #149 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E21"
-    },
-    {
-        "id": "FF2402697",
-        "date": "2024-05-11",
-        "time": "12:00:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist",
-        "location": "121 E GRAND AVE #160 ,SSF",
-        "latitude": 37.6548730858199,
-        "longitude": -122.404611566819,
-        "units": ">E51"
-    },
-    {
-        "id": "NF2405438",
-        "date": "2024-05-11",
-        "time": "11:57:10 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAKE ST ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E81"
+        "units": ">E59"
     },
     {
         "id": "SF2406007",
@@ -63,18 +63,7 @@
         "location": "MONTE DIABLO AVE #323 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "CM21X1 >E24 BC5"
-    },
-    {
-        "id": "SF2406006",
-        "date": "2024-05-11",
-        "time": "11:56:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
+        "units": ">E24 >BC5 CM21X1"
     },
     {
         "id": "FF2402691",
@@ -85,6 +74,6 @@
         "location": "724 CIRCLE CT ,SSF",
         "latitude": 37.655802950286,
         "longitude": -122.425124302486,
-        "units": ">Q62 >E61 ?CM31X2 >PR17C >E65?TAC35 >BC17"
+        "units": ">E61 >Q62 ?CM31X2 ?TAC35 >BC17"
     }
 ]
