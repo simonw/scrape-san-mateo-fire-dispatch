@@ -1,14 +1,58 @@
 [
     {
+        "id": "RF2405141",
+        "date": "2024-05-11",
+        "time": "4:00:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "133 ARCH ST ,RCY",
+        "latitude": 37.4878449897309,
+        "longitude": -122.237964359667,
+        "units": "E10"
+    },
+    {
+        "id": "SF2406025",
+        "date": "2024-05-11",
+        "time": "4:00:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "SF2406024",
+        "date": "2024-05-11",
+        "time": "3:55:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST #15B ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "SF2406023",
+        "date": "2024-05-11",
+        "time": "3:53:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SHAD CT ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
         "id": "BF2401687",
         "date": "2024-05-11",
         "time": "3:39:08 PM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Trash fire",
-        "location": "1720 PARKVIEW DR ,SNB",
+        "location": "129 CRYSTAL CT ,SNB",
         "latitude": 37.6116915698309,
         "longitude": -122.415219546631,
-        "units": "E51"
+        "units": "?SBFINV CM31X2 >E51 >BC16"
     },
     {
         "id": "SF2406021",
@@ -30,29 +74,7 @@
         "location": "IRVING ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "NF2405447",
-        "date": "2024-05-11",
-        "time": "3:21:48 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "FERNANDEZ WAY / DE SOLO DR",
-        "latitude": 37.5958904589221,
-        "longitude": -122.498288263832,
-        "units": ">E72"
-    },
-    {
-        "id": "RF2405139",
-        "date": "2024-05-11",
-        "time": "3:13:35 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FREEPORT LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
+        "units": ""
     },
     {
         "id": "NF2405445",
@@ -75,16 +97,5 @@
         "latitude": 37.6945663557985,
         "longitude": -122.484796061966,
         "units": ">E86 CM31X1 >T85"
-    },
-    {
-        "id": "SF2406007",
-        "date": "2024-05-11",
-        "time": "11:56:24 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MONTE DIABLO AVE #323 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24 >BC5 CM21X1"
     }
 ]
