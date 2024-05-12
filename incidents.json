@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2405162",
+        "date": "2024-05-12",
+        "time": "11:02:51 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "210 REDWOOD SHORES PKWY ,RWS",
+        "latitude": 37.5226298360154,
+        "longitude": -122.251605180002,
+        "units": "E13"
+    },
+    {
+        "id": "CF2403278",
+        "date": "2024-05-12",
+        "time": "11:02:29 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1433 PALOMA AVE ,BRM",
+        "latitude": 37.5888671056499,
+        "longitude": -122.371185484458,
+        "units": "E34"
+    },
+    {
+        "id": "FF2402719",
+        "date": "2024-05-12",
+        "time": "11:00:32 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "BADEN AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "MF2403834",
+        "date": "2024-05-12",
+        "time": "11:00:14 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHARON PARK DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "LF2400413",
+        "date": "2024-05-12",
+        "time": "10:56:42 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "D ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "SF2406057",
+        "date": "2024-05-12",
+        "time": "10:56:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "POMPANO CIR ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
         "id": "RF2405161",
         "date": "2024-05-12",
         "time": "10:38:25 AM",
@@ -8,7 +74,7 @@
         "location": "252 BEVERLY DR ,SNC",
         "latitude": 37.5001080040536,
         "longitude": -122.282089070695,
-        "units": "E16"
+        "units": ">E16"
     },
     {
         "id": "BF2401700",
@@ -19,28 +85,6 @@
         "location": "1206 EL CAMINO REAL ,SNB",
         "latitude": 37.6393235090506,
         "longitude": -122.420943045439,
-        "units": "Q62"
-    },
-    {
-        "id": "FF2402718",
-        "date": "2024-05-12",
-        "time": "10:23:54 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALIDA WAY #114 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2403277",
-        "date": "2024-05-12",
-        "time": "10:05:58 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VANCOUVER AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
+        "units": "BC16 >Q62"
     }
 ]
