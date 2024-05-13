@@ -1,5 +1,27 @@
 [
     {
+        "id": "HF2401133",
+        "date": "2024-05-13",
+        "time": "10:37:53 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BLOOM LN #1107 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "LF2400415",
+        "date": "2024-05-13",
+        "time": "10:34:24 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "COLLINS AVE #2 ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
         "id": "RF2405184",
         "date": "2024-05-13",
         "time": "10:24:02 AM",
@@ -8,7 +30,7 @@
         "location": "DARTMOUTH AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "?E16"
+        "units": ">E16"
     },
     {
         "id": "NF2405511",
@@ -19,7 +41,7 @@
         "location": "CAMPUS DR #307 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": ">E95"
     },
     {
         "id": "SF2406094",
@@ -30,7 +52,7 @@
         "location": "GEORGETOWN AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "MF2403866",
@@ -41,29 +63,7 @@
         "location": "MIDDLE AVE ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E3"
-    },
-    {
-        "id": "RF2405183",
-        "date": "2024-05-13",
-        "time": "10:19:51 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD / KAYNYNE AVE",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "SF2406093",
-        "date": "2024-05-13",
-        "time": "10:18:13 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "JUDSON ST ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": ">E3"
     },
     {
         "id": "MF2403865",
@@ -74,28 +74,6 @@
         "location": "800 MENLO AVE #122 ,MNP",
         "latitude": 37.4500703789432,
         "longitude": -122.184382615476,
-        "units": ">E4 >BC1 CM11X2 TAC15 >E6SQ401 E1 T4"
-    },
-    {
-        "id": "SF2406092",
-        "date": "2024-05-13",
-        "time": "10:00:59 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "NF2405509",
-        "date": "2024-05-13",
-        "time": "9:48:00 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ODDSTAD BLVD #265 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">SQ401 >T4 >BC1 CM11X2 TAC15>E6"
     }
 ]
