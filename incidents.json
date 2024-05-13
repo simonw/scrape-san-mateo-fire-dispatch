@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2403877",
+        "date": "2024-05-13",
+        "time": "3:40:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "172 CONSTITUTION DR ,MNP",
+        "latitude": 37.4832291992619,
+        "longitude": -122.173356758109,
+        "units": "E5"
+    },
+    {
+        "id": "MF2403876",
+        "date": "2024-05-13",
+        "time": "3:35:47 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PULGAS AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "MF2403875",
         "date": "2024-05-13",
         "time": "3:25:21 PM",
@@ -8,7 +30,7 @@
         "location": "AUSTIN AVE / ADAM WAY",
         "latitude": 37.4588786035201,
         "longitude": -122.211235212376,
-        "units": "?T4"
+        "units": ">SQ401"
     },
     {
         "id": "SF2406105",
@@ -19,18 +41,7 @@
         "location": "S EL CAMINO REAL #FLOOR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
-    },
-    {
-        "id": "FF2402739",
-        "date": "2024-05-13",
-        "time": "3:23:05 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "PECKS LN ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
+        "units": ""
     },
     {
         "id": "MF2403874",
@@ -41,7 +52,7 @@
         "location": "WILLOW RD #317 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
+        "units": "*>E77"
     },
     {
         "id": "RF2405194",
@@ -52,40 +63,7 @@
         "location": "CRESTVIEW DR ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "RF2405193",
-        "date": "2024-05-13",
-        "time": "3:13:51 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "STAFFORD ST / B ST",
-        "latitude": 37.4919236191386,
-        "longitude": -122.240782885596,
-        "units": ">T9 >E9 >BC3 CM11X3 ?TAC15"
-    },
-    {
-        "id": "NF2405526",
-        "date": "2024-05-13",
-        "time": "3:13:12 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NIANTIC AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "MF2403873",
-        "date": "2024-05-13",
-        "time": "3:09:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VAN BUREN RD #13 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
+        "units": ""
     },
     {
         "id": "SF2406101",
@@ -96,6 +74,6 @@
         "location": "BELMONT AVE / EL CAMINO REAL",
         "latitude": 37.527541422984,
         "longitude": -122.284817985144,
-        "units": ">BC5"
+        "units": "*>BC5"
     }
 ]
