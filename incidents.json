@@ -1,5 +1,38 @@
 [
     {
+        "id": "BF2401708",
+        "date": "2024-05-13",
+        "time": "1:19:01 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SAN BRUNO AVE W ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "FF2402737",
+        "date": "2024-05-13",
+        "time": "1:12:19 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CYPRESS AVE #214 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "RF2405191",
+        "date": "2024-05-13",
+        "time": "1:11:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "133 WILDWOOD AVE ,SNC",
+        "latitude": 37.4897894024086,
+        "longitude": -122.261772061063,
+        "units": ">E16"
+    },
+    {
         "id": "MF2403870",
         "date": "2024-05-13",
         "time": "1:03:07 PM",
@@ -8,29 +41,7 @@
         "location": "PARTRIDGE AVE #6 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
-    },
-    {
-        "id": "MF2403871",
-        "date": "2024-05-13",
-        "time": "1:02:28 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "227 HOLLAND ST ,EPA",
-        "latitude": 37.4689722329849,
-        "longitude": -122.153627328971,
-        "units": "SQ401 E1 E77 CM11X5 ?TAC15?BC101 ?E2 ?T2"
-    },
-    {
-        "id": "CF2403296",
-        "date": "2024-05-13",
-        "time": "1:01:01 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Vehicle fire",
-        "location": "N HUMBOLDT ST / PENINSULA AVE",
-        "latitude": 37.5830001950305,
-        "longitude": -122.330839488766,
-        "units": "E34"
+        "units": ">E6"
     },
     {
         "id": "BF2401707",
@@ -44,17 +55,6 @@
         "units": ">E51"
     },
     {
-        "id": "WF2400758",
-        "date": "2024-05-13",
-        "time": "12:44:56 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Tree down",
-        "location": "750 KINGS MOUNTAIN RD ,WDS",
-        "latitude": 37.4335544994454,
-        "longitude": -122.285373913054,
-        "units": ">R7"
-    },
-    {
         "id": "SF2406099",
         "date": "2024-05-13",
         "time": "12:41:43 PM",
@@ -64,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E24"
-    },
-    {
-        "id": "CF2403295",
-        "date": "2024-05-13",
-        "time": "12:36:29 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Gas main break",
-        "location": "520 EL ARROYO RD ,HIL",
-        "latitude": 37.5620909315576,
-        "longitude": -122.357596706152,
-        "units": ">E32"
     }
 ]
