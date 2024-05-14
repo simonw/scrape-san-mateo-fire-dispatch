@@ -1,14 +1,80 @@
 [
     {
-        "id": "RF2405233",
+        "id": "MF2403894",
         "date": "2024-05-14",
-        "time": "3:42:35 PM",
+        "time": "4:02:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "POLHEMUS AVE ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "RF2405235",
+        "date": "2024-05-14",
+        "time": "4:01:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "248 REDWOOD AVE ,RCY",
+        "latitude": 37.4748117594996,
+        "longitude": -122.225425147076,
+        "units": "E9"
+    },
+    {
+        "id": "RF2405234",
+        "date": "2024-05-14",
+        "time": "3:52:08 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Traffic accident",
-        "location": "505 SKYWAY RD ,SNC",
-        "latitude": 37.5138123076424,
-        "longitude": -122.254177410703,
-        "units": "E13 ?TAC15 ?CM11X5 ?BC3 ?T23"
+        "location": "150 WOODSIDE PLZ ,RCY",
+        "latitude": 37.4575994613087,
+        "longitude": -122.230099261136,
+        "units": ">R7 >BC2 >E10 CM11X3 ?TAC16"
+    },
+    {
+        "id": "HF2401139",
+        "date": "2024-05-14",
+        "time": "3:50:37 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN MATEO RD #19 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E40"
+    },
+    {
+        "id": "SF2406162",
+        "date": "2024-05-14",
+        "time": "3:49:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PACIFIC BLVD ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "MF2403893",
+        "date": "2024-05-14",
+        "time": "3:47:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "3090 MIDDLEFIELD RD ,NFO",
+        "latitude": 37.4730537844612,
+        "longitude": -122.206438934757,
+        "units": ">E5"
+    },
+    {
+        "id": "FF2402766",
+        "date": "2024-05-14",
+        "time": "3:47:04 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ARLINGTON DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
     },
     {
         "id": "CF2403321",
@@ -19,29 +85,7 @@
         "location": "TROUSDALE DR #1071A ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E33"
-    },
-    {
-        "id": "CF2403320",
-        "date": "2024-05-14",
-        "time": "3:39:42 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E MILLBRAE AVE / OVER 101",
-        "latitude": null,
-        "longitude": null,
-        "units": "E38"
-    },
-    {
-        "id": "SF2406161",
-        "date": "2024-05-14",
-        "time": "3:39:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BAYRIDGE WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E25"
+        "units": ">E33"
     },
     {
         "id": "SF2406160",
@@ -77,17 +121,6 @@
         "units": ">T9"
     },
     {
-        "id": "DF2400900",
-        "date": "2024-05-14",
-        "time": "3:11:39 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LOS ALTOS PL ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
         "id": "NF2405562",
         "date": "2024-05-14",
         "time": "3:08:50 PM",
@@ -96,6 +129,6 @@
         "location": "113 SAN BRUNO AVE ,BRS",
         "latitude": 37.6837709503369,
         "longitude": -122.401217804434,
-        "units": "PR20D >T95 >E92 >BC124 CM31X4>E81 ?TAC35"
+        "units": ">PR20C >PR20D >T95 >E92 >BC124CM31X4 >E81 ?TAC35"
     }
 ]
