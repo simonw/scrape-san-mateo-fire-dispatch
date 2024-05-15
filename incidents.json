@@ -1,25 +1,36 @@
 [
     {
-        "id": "NF2405584",
+        "id": "RF2405255",
         "date": "2024-05-15",
-        "time": "7:37:10 AM",
+        "time": "8:00:27 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARSH RD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "NF2405585",
+        "date": "2024-05-15",
+        "time": "7:53:30 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "E MARKET ST #DINING ,DCY",
+        "location": "E MARKET ST ,DCY",
         "latitude": null,
         "longitude": null,
         "units": ">E92"
     },
     {
-        "id": "MF2403912",
+        "id": "MF2403913",
         "date": "2024-05-15",
-        "time": "7:35:45 AM",
+        "time": "7:50:11 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
+        "category": "Traffic accident",
+        "location": "SB 101 / NO WILLOW RD",
+        "latitude": 37.4775111992726,
+        "longitude": -122.170198805936,
+        "units": ">E5"
     },
     {
         "id": "HF2401145",
@@ -30,6 +41,6 @@
         "location": "GRANELLI AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "BC10 >E40"
+        "units": ">E40 BC10"
     }
 ]
