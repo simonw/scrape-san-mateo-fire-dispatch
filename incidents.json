@@ -1,5 +1,49 @@
 [
     {
+        "id": "DF2400919",
+        "date": "2024-05-17",
+        "time": "1:21:53 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "225 CLIFFORD AVE ,PAL",
+        "latitude": 37.482011972837,
+        "longitude": -122.263842632304,
+        "units": "E18"
+    },
+    {
+        "id": "MF2403977",
+        "date": "2024-05-17",
+        "time": "1:14:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "MF2403976",
+        "date": "2024-05-17",
+        "time": "1:12:51 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NOTRE DAME AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2405689",
+        "date": "2024-05-17",
+        "time": "1:08:57 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EVERGREEN AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "FF2402826",
         "date": "2024-05-17",
         "time": "12:59:48 PM",
@@ -8,18 +52,7 @@
         "location": "LN ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "SF2406319",
-        "date": "2024-05-17",
-        "time": "12:55:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #421C ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
+        "units": ""
     },
     {
         "id": "SF2406318",
@@ -30,18 +63,7 @@
         "location": "FLORES ST #107B ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "DF2400918",
-        "date": "2024-05-17",
-        "time": "12:39:31 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "WB 92 / EO 280",
-        "latitude": 37.5110803841622,
-        "longitude": -122.332014459445,
-        "units": ">CM11X4 >E17 >TAC15 >T17 >BC11"
+        "units": ""
     },
     {
         "id": "NF2405688",
@@ -52,6 +74,6 @@
         "location": "SIERRA POINT PKWY #401 ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": "E81"
+        "units": ""
     }
 ]
