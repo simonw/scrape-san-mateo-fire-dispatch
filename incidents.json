@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2406283",
+        "date": "2024-05-16",
+        "time": "8:55:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "MONTE DIABLO AVE / N SAN MATEO DR",
+        "latitude": 37.5696219011128,
+        "longitude": -122.329647866215,
+        "units": "CM21X5 TAC25 >BC5 >E21 >T21"
+    },
+    {
+        "id": "MF2403961",
+        "date": "2024-05-16",
+        "time": "8:52:38 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "425 GARDEN ST ,EPA",
+        "latitude": 37.467216503035,
+        "longitude": -122.144666166044,
+        "units": ">BC101 ?TAC16 CM11X1 >T2 >E2"
+    },
+    {
+        "id": "FF2402814",
+        "date": "2024-05-16",
+        "time": "8:52:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "COMMERCIAL AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
         "id": "NF2405665",
         "date": "2024-05-16",
         "time": "8:42:13 PM",
@@ -8,18 +41,7 @@
         "location": "PIERCE ST #311 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
-    },
-    {
-        "id": "RF2405332",
-        "date": "2024-05-16",
-        "time": "8:39:03 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LA MESA DR #9 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
+        "units": ">E95"
     },
     {
         "id": "RF2405331",
@@ -30,50 +52,6 @@
         "location": "WOODSIDE RD / MIDDLEFIELD RD",
         "latitude": 37.4810932683928,
         "longitude": -122.219104103963,
-        "units": ">E11 >T9 >BC3 CM11X5 ?TAC15"
-    },
-    {
-        "id": "FF2402813",
-        "date": "2024-05-16",
-        "time": "8:32:14 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "OAKMONT DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "RF2405330",
-        "date": "2024-05-16",
-        "time": "8:24:30 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HUDSON ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "CF2403372",
-        "date": "2024-05-16",
-        "time": "8:22:15 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MAGNOLIA AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2405329",
-        "date": "2024-05-16",
-        "time": "8:01:09 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AUTUMN DR ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": "?TAC15 >BC3 >T9 >E11 CM11X5"
     }
 ]
