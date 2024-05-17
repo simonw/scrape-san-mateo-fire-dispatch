@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2405341",
+        "date": "2024-05-17",
+        "time": "8:31:17 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "6 DELMAR CT ,RCY",
+        "latitude": 37.4818639639516,
+        "longitude": -122.189281858572,
+        "units": ">E11"
+    },
+    {
+        "id": "NF2405684",
+        "date": "2024-05-17",
+        "time": "8:31:04 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PRICE ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "FF2402823",
+        "date": "2024-05-17",
+        "time": "8:29:46 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1350 VETERANS BLVD ,SSF",
+        "latitude": 37.6664290480448,
+        "longitude": -122.393403727132,
+        "units": ">E65"
+    },
+    {
         "id": "BF2401749",
         "date": "2024-05-17",
         "time": "8:19:05 AM",
@@ -11,28 +44,6 @@
         "units": ">E52"
     },
     {
-        "id": "NF2405683",
-        "date": "2024-05-17",
-        "time": "8:15:04 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "NF2405682",
-        "date": "2024-05-17",
-        "time": "8:12:11 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MARGATE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
         "id": "HF2401169",
         "date": "2024-05-17",
         "time": "7:40:19 AM",
@@ -41,6 +52,6 @@
         "location": "ACACIA ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": ">BC10 >TAC45 >CM41X1 >E41 >E44"
+        "units": ">BC10 >TAC45 >CM41X1 *>E41 >E44"
     }
 ]
