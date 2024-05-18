@@ -1,5 +1,27 @@
 [
     {
+        "id": "WF2400783",
+        "date": "2024-05-18",
+        "time": "2:17:52 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "280 WOODSIDE DR ,WDS",
+        "latitude": 37.4495487571651,
+        "longitude": -122.241024140134,
+        "units": "E10"
+    },
+    {
+        "id": "RF2405382",
+        "date": "2024-05-18",
+        "time": "2:17:39 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LA MESA DR ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E16"
+    },
+    {
         "id": "CF2403416",
         "date": "2024-05-18",
         "time": "2:03:23 PM",
@@ -8,29 +30,7 @@
         "location": "707 IRWIN CT ,HIL",
         "latitude": 37.5766924910922,
         "longitude": -122.364446132836,
-        "units": "E34"
-    },
-    {
-        "id": "CF2403415",
-        "date": "2024-05-18",
-        "time": "2:02:53 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "CF2403414",
-        "date": "2024-05-18",
-        "time": "1:52:36 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WALNUT AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
+        "units": ">E34"
     },
     {
         "id": "SF2406371",
@@ -41,28 +41,6 @@
         "location": "WB 92 / EO FOSTER CITY BLVD",
         "latitude": 37.5692506302792,
         "longitude": -122.26737177994,
-        "units": ">E29"
-    },
-    {
-        "id": "BF2401756",
-        "date": "2024-05-18",
-        "time": "1:50:22 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLEGE DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "NF2405724",
-        "date": "2024-05-18",
-        "time": "1:42:50 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WEMBLEY DR #PARK ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM21X1 >E29 >E28"
     }
 ]
