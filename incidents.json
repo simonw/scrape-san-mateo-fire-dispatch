@@ -1,14 +1,47 @@
 [
     {
-        "id": "BF2401762",
+        "id": "MF2404038",
         "date": "2024-05-19",
-        "time": "11:02:36 AM",
+        "time": "11:24:08 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "XAVIER ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "NF2405760",
+        "date": "2024-05-19",
+        "time": "11:19:05 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BEECHWOOD DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "BF2401763",
+        "date": "2024-05-19",
+        "time": "11:14:48 AM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "3800 ELSTON DR ,SNB",
-        "latitude": 37.6345537198328,
-        "longitude": -122.463606669587,
-        "units": "E52"
+        "category": "Medical aid",
+        "location": "EARL AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "RF2405409",
+        "date": "2024-05-19",
+        "time": "11:14:25 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HIGHLAND AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
     },
     {
         "id": "SF2406408",
@@ -20,49 +53,5 @@
         "latitude": 37.5485622561822,
         "longitude": -122.311304069056,
         "units": ">E25"
-    },
-    {
-        "id": "RF2405408",
-        "date": "2024-05-19",
-        "time": "10:49:52 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1580 EL CAMINO REAL ,SNC",
-        "latitude": 37.4955908310025,
-        "longitude": -122.24706726613,
-        "units": "CM11X3 ?TAC15 >BC3 >E13 >T9"
-    },
-    {
-        "id": "MF2404036",
-        "date": "2024-05-19",
-        "time": "10:43:32 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SHARON PARK DR #F2 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "SF2406406",
-        "date": "2024-05-19",
-        "time": "10:41:07 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Trash fire",
-        "location": "371 EL PORTAL AVE ,SMO",
-        "latitude": 37.5640917656076,
-        "longitude": -122.346196746591,
-        "units": ">E32"
-    },
-    {
-        "id": "CF2403440",
-        "date": "2024-05-19",
-        "time": "10:15:40 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "HILLCREST BLVD / EL CAMINO REAL",
-        "latitude": 37.6022290306648,
-        "longitude": -122.391746775515,
-        "units": ">E38"
     }
 ]
