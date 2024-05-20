@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2406460",
+        "id": "RF2405455",
         "date": "2024-05-20",
-        "time": "4:16:17 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "4:38:09 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Tree down",
+        "location": "REDWOOD AVE / HUDSON ST",
+        "latitude": 37.4715074526763,
+        "longitude": -122.228957145927,
+        "units": "E12"
+    },
+    {
+        "id": "RF2405454",
+        "date": "2024-05-20",
+        "time": "4:32:00 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "FRANKLIN PKWY ,SMO",
+        "location": "ROOSEVELT AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2402904",
+        "date": "2024-05-20",
+        "time": "4:29:30 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "W ORANGE AVE ,SSF",
         "latitude": null,
         "longitude": null,
         "units": ""
+    },
+    {
+        "id": "MF2404086",
+        "date": "2024-05-20",
+        "time": "4:27:55 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VAN BUREN RD #13 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
     },
     {
         "id": "SF2406459",
@@ -22,28 +55,6 @@
         "units": ">E23"
     },
     {
-        "id": "CF2403479",
-        "date": "2024-05-20",
-        "time": "4:03:58 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LA PRENDA ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "MF2404085",
-        "date": "2024-05-20",
-        "time": "3:58:40 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BELMONT AVE ,WSB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
         "id": "SF2406458",
         "date": "2024-05-20",
         "time": "3:53:58 PM",
@@ -52,6 +63,6 @@
         "location": "BOVET RD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E25"
+        "units": "E25"
     }
 ]
