@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2404060",
+        "date": "2024-05-19",
+        "time": "8:25:40 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "NIMITZ AVE ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E4"
+    },
+    {
+        "id": "SF2406428",
+        "date": "2024-05-19",
+        "time": "8:24:47 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S HUMBOLDT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "CF2403451",
+        "date": "2024-05-19",
+        "time": "8:20:25 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #2 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "NF2405782",
+        "date": "2024-05-19",
+        "time": "8:13:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "205 VERANO DR ,DCY",
+        "latitude": 37.6794586716455,
+        "longitude": -122.480507997661,
+        "units": ">E95"
+    },
+    {
         "id": "MF2404059",
         "date": "2024-05-19",
         "time": "8:05:12 PM",
@@ -8,7 +52,7 @@
         "location": "SHARON PARK DR #143 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E1"
+        "units": ">E1"
     },
     {
         "id": "WF2400790",
@@ -19,29 +63,7 @@
         "location": "LA MESA DR ,LAD",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
-    },
-    {
-        "id": "NF2405781",
-        "date": "2024-05-19",
-        "time": "7:58:35 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NIANTIC AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "MF2404058",
-        "date": "2024-05-19",
-        "time": "7:47:09 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOBART ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": ">E8"
     },
     {
         "id": "RF2405420",
@@ -52,6 +74,6 @@
         "location": "329 CARLOS AVE ,RCY",
         "latitude": 37.4702263952785,
         "longitude": -122.216858163536,
-        "units": ">PR3B >PR3E >E12 >E11 >E10>T9 >E9 >BC3 >E3 CM11X3"
+        "units": ">PR3E >PR3B CM11X3 ?TAC15 >BC3>E11 >E3"
     }
 ]
