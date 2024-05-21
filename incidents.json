@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2405858",
+        "id": "SF2406502",
         "date": "2024-05-21",
-        "time": "4:23:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist",
-        "location": "23 FAIRVIEW AVE ,DCY",
-        "latitude": 37.6877152453259,
-        "longitude": -122.486431402525,
-        "units": "?E95"
+        "time": "4:36:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FLORES ST #112A ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
+        "id": "BF2401791",
+        "date": "2024-05-21",
+        "time": "4:31:27 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FLEETWOOD DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "CF2403502",
+        "date": "2024-05-21",
+        "time": "4:29:55 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - manual",
+        "location": "395 VALLEJO DR ,MLB",
+        "latitude": 37.5821969200405,
+        "longitude": -122.403733056671,
+        "units": ">E38"
     },
     {
         "id": "SF2406501",
@@ -19,7 +41,7 @@
         "location": "E 3RD AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "FF2402921",
@@ -30,18 +52,7 @@
         "location": "CHESTNUT AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "SF2406499",
-        "date": "2024-05-21",
-        "time": "4:05:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "OLD COUNTY RD / MASONIC WAY",
-        "latitude": 37.5215708297348,
-        "longitude": -122.276035731277,
-        "units": ">E26"
+        "units": "E65"
     },
     {
         "id": "BF2401784",
@@ -52,6 +63,6 @@
         "location": "300 AMADOR AVE ,SNB",
         "latitude": 37.6254717320018,
         "longitude": -122.45339950636,
-        "units": ">CH16 ?TAC36 >TO16 CM31X3 >BC16>E51 >T51 >E52"
+        "units": ">CH16 ?TAC36 >TO16 CM31X3 >BC16>E51 *>T51"
     }
 ]
