@@ -1,46 +1,57 @@
 [
     {
-        "id": "NF2405835",
+        "id": "MF2404105",
         "date": "2024-05-21",
-        "time": "8:52:39 AM",
+        "time": "9:25:05 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #6401 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "CF2403493",
+        "date": "2024-05-21",
+        "time": "9:18:58 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "711 EUCALYPTUS AVE ,HIL",
+        "latitude": 37.5731411212633,
+        "longitude": -122.364937040467,
+        "units": ">E33"
+    },
+    {
+        "id": "WF2400796",
+        "date": "2024-05-21",
+        "time": "9:17:10 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FARM HILL BLVD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
+        "id": "NF2405836",
+        "date": "2024-05-21",
+        "time": "9:17:00 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "RIO VERDE ST ,DCY",
+        "location": "JUNIPERO SERRA BLVD #100 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E93"
+        "units": ">E92"
     },
     {
-        "id": "RF2405480",
+        "id": "HF2401201",
         "date": "2024-05-21",
-        "time": "8:51:48 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "9:15:42 AM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "MAIN ST #520 ,RCY",
+        "location": "ARNOLD WAY #A103 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "WF2400795",
-        "date": "2024-05-21",
-        "time": "8:42:34 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "219 ALBION AVE ,WDS",
-        "latitude": 37.4295204456227,
-        "longitude": -122.262581236232,
-        "units": ">E7"
-    },
-    {
-        "id": "RF2405478",
-        "date": "2024-05-21",
-        "time": "8:36:10 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BAY RD ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
+        "units": "*>E40"
     }
 ]
