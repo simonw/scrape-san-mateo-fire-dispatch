@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2406540",
+        "date": "2024-05-22",
+        "time": "12:02:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HACIENDA ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "T23"
+    },
+    {
+        "id": "SF2406539",
+        "date": "2024-05-22",
+        "time": "11:55:08 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "N HUMBOLDT ST / E POPLAR AVE",
+        "latitude": 37.5788103747412,
+        "longitude": -122.326294409679,
+        "units": ">CM21X1 ?TAC25 >BC5 >E24 >T21"
+    },
+    {
+        "id": "BF2401797",
+        "date": "2024-05-22",
+        "time": "11:54:35 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "WB 380 / EO EL CAMINO REAL",
+        "latitude": 37.6342894745112,
+        "longitude": -122.411932519333,
+        "units": ">CM31X3 >BC16 >E51 ?TAC35 >Q62"
+    },
+    {
         "id": "RF2405522",
         "date": "2024-05-22",
         "time": "11:41:59 AM",
@@ -8,29 +41,7 @@
         "location": "PARK ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?SQ409"
-    },
-    {
-        "id": "MF2404145",
-        "date": "2024-05-22",
-        "time": "11:40:57 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAK AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "RF2405521",
-        "date": "2024-05-22",
-        "time": "11:35:54 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TWIN DOLPHIN DR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
+        "units": ">SQ409"
     },
     {
         "id": "NF2405891",
@@ -44,17 +55,6 @@
         "units": ">E94"
     },
     {
-        "id": "NF2405890",
-        "date": "2024-05-22",
-        "time": "11:17:46 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALVISO CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
         "id": "FF2402934",
         "date": "2024-05-22",
         "time": "10:50:32 AM",
@@ -63,6 +63,6 @@
         "location": "637 COMMERCIAL AVE ,SSF",
         "latitude": 37.6554204775201,
         "longitude": -122.421970245631,
-        "units": ">E61"
+        "units": ">OES31 >E61"
     }
 ]
