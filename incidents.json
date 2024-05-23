@@ -1,36 +1,80 @@
 [
     {
-        "id": "FF2402939",
+        "id": "RF2405539",
         "date": "2024-05-22",
-        "time": "5:11:30 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "BYRON DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "time": "6:00:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "333 MAIN ST ,RCY",
+        "latitude": 37.4918096859489,
+        "longitude": -122.22710437844,
+        "units": "?TAC16 ?T2 ?BC1 ?E11 ?CM11X5"
     },
     {
-        "id": "MF2404156",
+        "id": "BF2401800",
         "date": "2024-05-22",
-        "time": "5:11:30 PM",
+        "time": "6:00:28 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ALLEN DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "NF2405903",
+        "date": "2024-05-22",
+        "time": "5:59:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BANYAN WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E72"
+    },
+    {
+        "id": "MF2404157",
+        "date": "2024-05-22",
+        "time": "5:59:07 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ROBLE AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "category": "Fire alarm - smoke detector",
+        "location": "157 WATKINS AVE ,ATN",
+        "latitude": 37.4652148038956,
+        "longitude": -122.191968407142,
+        "units": "E5"
     },
     {
-        "id": "CF2403533",
+        "id": "RF2405538",
         "date": "2024-05-22",
-        "time": "5:11:28 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "1090 AHWAHNEE DR ,MLB",
-        "latitude": 37.5991843874644,
-        "longitude": -122.41219104029,
-        "units": ">E38"
+        "time": "5:51:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CALYPSO LN ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E18"
+    },
+    {
+        "id": "SF2406557",
+        "date": "2024-05-22",
+        "time": "5:49:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DOLAN AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
+        "id": "SF2406556",
+        "date": "2024-05-22",
+        "time": "5:46:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GULL AVE ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
     },
     {
         "id": "RF2405530",
@@ -41,6 +85,6 @@
         "location": "699 SEAPORT BLVD ,RCY",
         "latitude": 37.5084297973317,
         "longitude": -122.209362466591,
-        "units": ">CH3B CM11X3 ?TAC15 >BC3 >T9>E11 >E9 >E10 >E3"
+        "units": ">CH3B CM11X3 ?TAC15 >BC3 >T9>E9"
     }
 ]
