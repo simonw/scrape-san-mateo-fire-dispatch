@@ -1,5 +1,49 @@
 [
     {
+        "id": "HF2401216",
+        "date": "2024-05-22",
+        "time": "7:24:08 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1 LEWIS FOSTER DR ,HMB",
+        "latitude": 37.4731367591781,
+        "longitude": -122.428732687104,
+        "units": ">BC10"
+    },
+    {
+        "id": "MF2404159",
+        "date": "2024-05-22",
+        "time": "7:22:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SISKIYOU DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "NF2405908",
+        "date": "2024-05-22",
+        "time": "7:16:39 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "411 SAN FRANCISCO AVE ,BRS",
+        "latitude": 37.684596132577,
+        "longitude": -122.403699900513,
+        "units": ">E81"
+    },
+    {
+        "id": "FF2402940",
+        "date": "2024-05-22",
+        "time": "7:16:38 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "HILLSIDE BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "CF2403536",
         "date": "2024-05-22",
         "time": "7:15:05 PM",
@@ -8,7 +52,7 @@
         "location": "MATEO AVE #25B ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "SF2406559",
@@ -20,27 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E25"
-    },
-    {
-        "id": "RF2405539",
-        "date": "2024-05-22",
-        "time": "6:00:53 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "333 MAIN ST ,RCY",
-        "latitude": 37.4918096859489,
-        "longitude": -122.22710437844,
-        "units": ">TAC16 >CM11X5"
-    },
-    {
-        "id": "RF2405530",
-        "date": "2024-05-22",
-        "time": "2:59:46 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "699 SEAPORT BLVD ,RCY",
-        "latitude": 37.5084297973317,
-        "longitude": -122.209362466591,
-        "units": ">CH3B >E9"
     }
 ]
