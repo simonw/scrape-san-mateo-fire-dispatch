@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2402973",
+        "date": "2024-05-24",
+        "time": "4:22:00 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALIDA WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E63"
+    },
+    {
+        "id": "MF2404225",
+        "date": "2024-05-24",
+        "time": "4:20:09 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E5"
+    },
+    {
+        "id": "RF2405603",
+        "date": "2024-05-24",
+        "time": "4:15:34 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MADRONE ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "SF2406652",
+        "date": "2024-05-24",
+        "time": "4:14:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "RF2405602",
         "date": "2024-05-24",
         "time": "4:01:16 PM",
@@ -8,61 +52,6 @@
         "location": "1235 HOWARD AVE #3 ,SNC",
         "latitude": 37.4976763204714,
         "longitude": -122.251270596072,
-        "units": "E13"
-    },
-    {
-        "id": "SF2406651",
-        "date": "2024-05-24",
-        "time": "4:00:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "VINTAGE PARK DR / METRO CENTER BLVD",
-        "latitude": 37.5591594741987,
-        "longitude": -122.277325274308,
-        "units": "CM21X3 TAC25 BC5 E29 T23"
-    },
-    {
-        "id": "DF2400964",
-        "date": "2024-05-24",
-        "time": "3:58:58 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "ALPINE RD OFF RAMP / SB 280",
-        "latitude": 37.410422456255,
-        "longitude": -122.199180482219,
-        "units": "BC2 T4 E8 ?TAC15 CM11X1"
-    },
-    {
-        "id": "NF2405982",
-        "date": "2024-05-24",
-        "time": "3:55:56 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MIRIAM ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2402972",
-        "date": "2024-05-24",
-        "time": "3:38:55 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD #204 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "FF2402971",
-        "date": "2024-05-24",
-        "time": "3:37:57 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ALLERTON AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ">E13"
     }
 ]
