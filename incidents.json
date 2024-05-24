@@ -1,5 +1,71 @@
 [
     {
+        "id": "MF2404220",
+        "date": "2024-05-24",
+        "time": "11:04:44 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #1 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "SF2406643",
+        "date": "2024-05-24",
+        "time": "11:03:04 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E25"
+    },
+    {
+        "id": "NF2405975",
+        "date": "2024-05-24",
+        "time": "11:02:39 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2406642",
+        "date": "2024-05-24",
+        "time": "10:54:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #216 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "RF2405595",
+        "date": "2024-05-24",
+        "time": "10:53:51 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "400 CHELSEA WAY ,RCY",
+        "latitude": 37.4609706323163,
+        "longitude": -122.222393000966,
+        "units": ">E10"
+    },
+    {
+        "id": "MF2404219",
+        "date": "2024-05-24",
+        "time": "10:46:04 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE #21 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
         "id": "MF2404218",
         "date": "2024-05-24",
         "time": "10:39:08 AM",
@@ -8,40 +74,18 @@
         "location": "2342 POPLAR AVE ,EPA",
         "latitude": 37.4719953568794,
         "longitude": -122.148242102907,
-        "units": "CM11X4 E1 BC101 ?TAC16 ?T2E77 ?E2"
-    },
-    {
-        "id": "BF2401820",
-        "date": "2024-05-24",
-        "time": "10:29:07 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ACACIA AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": "CM11X4 ?TAC16"
     },
     {
         "id": "DF2400961",
         "date": "2024-05-24",
         "time": "10:17:09 AM",
         "summary": "County Fire on Control-1",
-        "category": "Public assist",
+        "category": "Hazardous material - consult",
         "location": "SAN MATEO RD / SKYLINE UPPER",
         "latitude": 37.4955750561378,
         "longitude": -122.368892307841,
-        "units": ">E356 >E17 BC10 CM41X1"
-    },
-    {
-        "id": "DF2400960",
-        "date": "2024-05-24",
-        "time": "10:10:04 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 280 / SO TROUSDALE DR",
-        "latitude": 37.5659224172571,
-        "longitude": -122.389344207119,
-        "units": ">CM21X5 >E38 >TAC25 >E33"
+        "units": ">E356 HM14 >E17 >BC10 >BC11CM11X5"
     },
     {
         "id": "MF2404217",
@@ -52,6 +96,6 @@
         "location": "1150 CLOUD AVE ,WMP",
         "latitude": 37.4340748540424,
         "longitude": -122.200404577518,
-        "units": ">T4 ?TAC15 >E4 >SQ401 CM11X1>BC1"
+        "units": ">E4 >SQ401 >BC1"
     }
 ]
