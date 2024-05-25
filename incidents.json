@@ -1,36 +1,58 @@
 [
     {
-        "id": "MF2404242",
+        "id": "DF2400966",
         "date": "2024-05-25",
-        "time": "9:22:56 AM",
+        "time": "9:37:15 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "13435 PESCADERO CREEK RD ,LAH",
+        "latitude": 37.2969950537204,
+        "longitude": -122.265222838719,
+        "units": "E57 E1765 E58"
+    },
+    {
+        "id": "MF2404243",
+        "date": "2024-05-25",
+        "time": "9:35:27 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WESTMINSTER AVE ,EPA",
+        "location": "UNIVERSITY AVE #313 ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
+        "units": ">T2"
     },
     {
-        "id": "NF2405993",
+        "id": "CF2403607",
         "date": "2024-05-25",
-        "time": "9:22:05 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "9:34:28 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "FF2402985",
+        "date": "2024-05-25",
+        "time": "9:29:48 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Fire alarm - smoke detector",
-        "location": "6899 MISSION ST ,DCY",
-        "latitude": 37.6969814562554,
-        "longitude": -122.462970238719,
-        "units": "E92"
+        "location": "101 MCLELLAN DR ,SSF",
+        "latitude": 37.6642962765265,
+        "longitude": -122.446854864105,
+        "units": ">E64"
     },
     {
-        "id": "RF2405622",
+        "id": "SF2406677",
         "date": "2024-05-25",
-        "time": "9:18:37 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "ELM ST / CHERRY ST",
-        "latitude": 37.5038492924839,
-        "longitude": -122.261514728656,
-        "units": ">E13"
+        "time": "9:28:29 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DARLENE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
     },
     {
         "id": "FF2402984",
@@ -41,6 +63,6 @@
         "location": "EL CAMINO REAL ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": ""
     }
 ]
