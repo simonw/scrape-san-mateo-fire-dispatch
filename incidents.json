@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2404393",
+        "date": "2024-05-30",
+        "time": "4:12:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD #121 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "MF2404392",
+        "date": "2024-05-30",
+        "time": "4:07:57 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WOODLAND AVE / EMMA LN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "SF2406917",
         "date": "2024-05-30",
         "time": "4:00:20 PM",
@@ -30,18 +52,7 @@
         "location": "SB 280 / SO EDGEWOOD RD",
         "latitude": 37.4502169682406,
         "longitude": -122.278716264987,
-        "units": "?CM11X2 ?TAC15 BC11 >E18"
-    },
-    {
-        "id": "SF2406916",
-        "date": "2024-05-30",
-        "time": "3:52:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PARKWOOD DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
+        "units": ">E18"
     },
     {
         "id": "BF2401875",
@@ -52,28 +63,17 @@
         "location": "2101 SNEATH LN ,SNB",
         "latitude": 37.6285433532186,
         "longitude": -122.436421373255,
-        "units": "?SBFINV CM31X1 >BC16 >E51 ?TAC35>T51 >E52 >E64"
-    },
-    {
-        "id": "RF2405847",
-        "date": "2024-05-30",
-        "time": "3:48:28 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRITTAN AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ">CM31X1 >BC16 >E51 >TAC35 >E52"
     },
     {
         "id": "SF2406915",
         "date": "2024-05-30",
         "time": "3:47:28 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Hazardous material - investiga",
+        "category": "Hazardous material - consult",
         "location": "3932 BRANSON DR ,SMO",
         "latitude": 37.5374848659819,
         "longitude": -122.282675967898,
-        "units": ">E26"
+        "units": "?ENVHAZ >HM14 >E26"
     }
 ]
