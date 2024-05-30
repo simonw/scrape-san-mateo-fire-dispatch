@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2403087",
+        "id": "CF2403738",
         "date": "2024-05-30",
-        "time": "11:58:03 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CIVIC CAMPUS WAY ,SSF",
+        "time": "12:23:01 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "HOWARD AVE / CALIFORNIA DR",
+        "latitude": 37.5788059965139,
+        "longitude": -122.343472420219,
+        "units": "CM21X5 ?TAC25 ?BC8 ?E34 ?T34"
+    },
+    {
+        "id": "NF2406168",
+        "date": "2024-05-30",
+        "time": "12:13:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Vehicle fire",
+        "location": "670 SKYLINE DR ,DCY",
+        "latitude": 37.6766006162264,
+        "longitude": -122.491000800895,
+        "units": ">E95"
+    },
+    {
+        "id": "WF2400848",
+        "date": "2024-05-30",
+        "time": "12:11:39 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Auto aid request",
+        "location": "SB 280 / NO PAGE MILL RD",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
+        "units": ">E8 BC2"
+    },
+    {
+        "id": "NF2406167",
+        "date": "2024-05-30",
+        "time": "12:08:49 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "100 OLD COUNTY RD ,BRS",
+        "latitude": 37.6858130472898,
+        "longitude": -122.399787169129,
+        "units": ">E81"
     },
     {
         "id": "SF2406899",
@@ -30,7 +63,7 @@
         "location": "LN ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": "E61"
     },
     {
         "id": "CF2403737",
@@ -41,17 +74,6 @@
         "location": "BALBOA AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "LF2400458",
-        "date": "2024-05-30",
-        "time": "11:42:01 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "7601 EL CAMINO REAL ,BRD",
-        "latitude": 37.6858722314448,
-        "longitude": -122.464149481716,
         "units": ""
     },
     {
@@ -63,6 +85,6 @@
         "location": "MARSH RD / ROLISON RD",
         "latitude": 37.483456278784,
         "longitude": -122.183030630686,
-        "units": "TAC15 CM11X1 >E77 >BC1 >E11"
+        "units": ">BC1 >E11"
     }
 ]
