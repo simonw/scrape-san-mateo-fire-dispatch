@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2404387",
+        "date": "2024-05-30",
+        "time": "12:39:27 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1805 E BAYSHORE RD ,EPA",
+        "latitude": 37.456882075852,
+        "longitude": -122.133305178237,
+        "units": "E2"
+    },
+    {
+        "id": "SF2406901",
+        "date": "2024-05-30",
+        "time": "12:32:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "FOSTER CITY BLVD #2203 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "FF2403089",
+        "date": "2024-05-30",
+        "time": "12:31:04 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "RF2405838",
+        "date": "2024-05-30",
+        "time": "12:25:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KENTFIELD AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "FF2403088",
+        "date": "2024-05-30",
+        "time": "12:24:57 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CHESTNUT AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
         "id": "CF2403738",
         "date": "2024-05-30",
         "time": "12:23:01 PM",
@@ -8,18 +63,7 @@
         "location": "HOWARD AVE / CALIFORNIA DR",
         "latitude": 37.5788059965139,
         "longitude": -122.343472420219,
-        "units": "CM21X5 ?TAC25 ?BC8 ?E34 ?T34"
-    },
-    {
-        "id": "NF2406168",
-        "date": "2024-05-30",
-        "time": "12:13:56 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Vehicle fire",
-        "location": "670 SKYLINE DR ,DCY",
-        "latitude": 37.6766006162264,
-        "longitude": -122.491000800895,
-        "units": ">E95"
+        "units": ">T34 >E34"
     },
     {
         "id": "WF2400848",
@@ -30,61 +74,6 @@
         "location": "SB 280 / NO PAGE MILL RD",
         "latitude": null,
         "longitude": null,
-        "units": ">E8 BC2"
-    },
-    {
-        "id": "NF2406167",
-        "date": "2024-05-30",
-        "time": "12:08:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "100 OLD COUNTY RD ,BRS",
-        "latitude": 37.6858130472898,
-        "longitude": -122.399787169129,
-        "units": ">E81"
-    },
-    {
-        "id": "SF2406899",
-        "date": "2024-05-30",
-        "time": "11:57:28 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ALAMEDA DE LAS PULGAS ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "FF2403086",
-        "date": "2024-05-30",
-        "time": "11:55:43 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "LN ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
-    },
-    {
-        "id": "CF2403737",
-        "date": "2024-05-30",
-        "time": "11:51:20 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALBOA AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2405827",
-        "date": "2024-05-30",
-        "time": "11:11:56 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Vehicle fire",
-        "location": "MARSH RD / ROLISON RD",
-        "latitude": 37.483456278784,
-        "longitude": -122.183030630686,
-        "units": ">BC1 >E11"
+        "units": ">E8"
     }
 ]
