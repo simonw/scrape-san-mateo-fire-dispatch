@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2405902",
+        "id": "HF2401283",
         "date": "2024-05-31",
-        "time": "11:03:24 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:24:30 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "ORCHARD AVE ,RCY",
+        "location": "SAN CARLOS AVE ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "E41"
+    },
+    {
+        "id": "MF2404439",
+        "date": "2024-05-31",
+        "time": "11:18:06 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1035 ALBERNI ST ,EPA",
+        "latitude": 37.4738598121675,
+        "longitude": -122.150440827784,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2406973",
+        "date": "2024-05-31",
+        "time": "11:11:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "E HILLSDALE BLVD / S NORFOLK ST",
+        "latitude": 37.5462117179506,
+        "longitude": -122.285037545012,
+        "units": ">E26"
+    },
+    {
+        "id": "SF2406972",
+        "date": "2024-05-31",
+        "time": "11:09:17 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BALDWIN AVE #811 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
     },
     {
         "id": "BF2401888",
@@ -19,7 +52,7 @@
         "location": "COMMODORE DR #536 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E61"
+        "units": ">E61"
     },
     {
         "id": "SF2406971",
@@ -30,18 +63,7 @@
         "location": "ELM ST #208 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2405901",
-        "date": "2024-05-31",
-        "time": "10:51:17 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WALNUT ST #102 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ""
     },
     {
         "id": "RF2405900",
@@ -52,28 +74,6 @@
         "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "BF2401887",
-        "date": "2024-05-31",
-        "time": "10:43:31 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "EL CAMINO REAL / CITATION AVE",
-        "latitude": 37.6388363841315,
-        "longitude": -122.42251256187,
-        "units": ">BC16 >E51 ?TAC35 CM31X2 >T51"
-    },
-    {
-        "id": "RF2405899",
-        "date": "2024-05-31",
-        "time": "10:41:55 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BUCKLAND AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
+        "units": "SQ409"
     }
 ]
