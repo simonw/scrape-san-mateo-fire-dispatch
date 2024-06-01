@@ -1,5 +1,71 @@
 [
     {
+        "id": "HF2401279",
+        "date": "2024-05-31",
+        "time": "7:16:32 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIRAMONTES POINT RD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "MF2404432",
+        "date": "2024-05-31",
+        "time": "7:11:34 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
+        "id": "NF2406221",
+        "date": "2024-05-31",
+        "time": "7:09:45 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SIERRA POINT PKWY ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
+        "id": "CF2403760",
+        "date": "2024-05-31",
+        "time": "7:08:25 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Vehicle fire",
+        "location": "NB 101 / SO SFO",
+        "latitude": 37.605374335711,
+        "longitude": -122.38455861888,
+        "units": ">E34 TAC25 CM21X3"
+    },
+    {
+        "id": "SF2406965",
+        "date": "2024-05-31",
+        "time": "7:01:49 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "1757 VAN BUREN ST ,SMO",
+        "latitude": 37.5646853094195,
+        "longitude": -122.296723010053,
+        "units": ">E24"
+    },
+    {
+        "id": "RF2405891",
+        "date": "2024-05-31",
+        "time": "6:55:20 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EATON AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "NF2406219",
         "date": "2024-05-31",
         "time": "6:37:34 PM",
@@ -8,40 +74,7 @@
         "location": "ESPLANADE AVE / W MANOR DR",
         "latitude": 37.649479733352,
         "longitude": -122.492928374848,
-        "units": "CM31X3 BC124 >E71 R95 T95>TAC35 E94"
-    },
-    {
-        "id": "MF2404430",
-        "date": "2024-05-31",
-        "time": "6:35:30 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OAKWOOD DR ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "MF2404431",
-        "date": "2024-05-31",
-        "time": "6:34:36 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "219 PACIFIC AVE ,NFO",
-        "latitude": 37.4739986573963,
-        "longitude": -122.21172690234,
-        "units": "E5"
-    },
-    {
-        "id": "FF2403121",
-        "date": "2024-05-31",
-        "time": "6:20:36 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WILLIAMS CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">CM31X3 >BC124 >E71 >R95 >T95>TAC35 >E95 *>E94"
     },
     {
         "id": "SF2406964",
@@ -53,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E23"
-    },
-    {
-        "id": "SF2406962",
-        "date": "2024-05-31",
-        "time": "5:54:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WOLFE DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E26"
     }
 ]
