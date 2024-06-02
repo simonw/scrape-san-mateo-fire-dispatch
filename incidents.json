@@ -1,5 +1,82 @@
 [
     {
+        "id": "BF2401900",
+        "date": "2024-06-01",
+        "time": "8:23:17 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "300 AMADOR AVE ,SNB",
+        "latitude": 37.6254717320018,
+        "longitude": -122.45339950636,
+        "units": "E52"
+    },
+    {
+        "id": "RF2405936",
+        "date": "2024-06-01",
+        "time": "8:22:26 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAMSON ST #206 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "SQ409"
+    },
+    {
+        "id": "NF2406257",
+        "date": "2024-06-01",
+        "time": "8:18:16 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #104B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
+    },
+    {
+        "id": "FF2403148",
+        "date": "2024-06-01",
+        "time": "8:16:45 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "245 LONGFORD DR ,SSF",
+        "latitude": 37.659202330314,
+        "longitude": -122.456030174514,
+        "units": "E64"
+    },
+    {
+        "id": "MF2404469",
+        "date": "2024-06-01",
+        "time": "8:11:39 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "CF2403778",
+        "date": "2024-06-01",
+        "time": "8:09:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Pole fire",
+        "location": "218 BEVERLY AVE ,MLB",
+        "latitude": 37.6023611326397,
+        "longitude": -122.38728587847,
+        "units": ""
+    },
+    {
+        "id": "RF2405935",
+        "date": "2024-06-01",
+        "time": "8:06:58 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #216 ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
         "id": "SF2407021",
         "date": "2024-06-01",
         "time": "8:05:06 PM",
@@ -8,18 +85,7 @@
         "location": "11 E POPLAR AVE ,SMO",
         "latitude": 37.5705385481795,
         "longitude": -122.334988553182,
-        "units": "E21"
-    },
-    {
-        "id": "SF2407020",
-        "date": "2024-06-01",
-        "time": "8:03:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "1887 EDINBURGH ST ,SMO",
-        "latitude": 37.5476210700785,
-        "longitude": -122.318353772472,
-        "units": "E25"
+        "units": ">E21"
     },
     {
         "id": "NF2406256",
@@ -30,7 +96,7 @@
         "location": "BALDWIN AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": ""
     },
     {
         "id": "NF2406255",
@@ -42,38 +108,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E95"
-    },
-    {
-        "id": "NF2406254",
-        "date": "2024-06-01",
-        "time": "7:47:43 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Tree down",
-        "location": "1900 SULLIVAN AVE ,DCY",
-        "latitude": 37.6796917045745,
-        "longitude": -122.47432053338,
-        "units": ""
-    },
-    {
-        "id": "CF2403776",
-        "date": "2024-06-01",
-        "time": "7:26:38 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "NB 280 / SO MILLBRAE AVE",
-        "latitude": 37.5845438280928,
-        "longitude": -122.406554510653,
-        "units": "?TAC25 ?CM21X3"
-    },
-    {
-        "id": "FF2403147",
-        "date": "2024-06-01",
-        "time": "7:16:19 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "APPIAN WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
     }
 ]
