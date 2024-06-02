@@ -1,5 +1,27 @@
 [
     {
+        "id": "CF2403780",
+        "date": "2024-06-01",
+        "time": "8:41:56 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MAGNOLIA AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E38"
+    },
+    {
+        "id": "CF2403779",
+        "date": "2024-06-01",
+        "time": "8:38:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "250 EL CAMINO REAL ,MLB",
+        "latitude": 37.6014505764525,
+        "longitude": -122.390104276982,
+        "units": ">E37"
+    },
+    {
         "id": "BF2401900",
         "date": "2024-06-01",
         "time": "8:23:17 PM",
@@ -8,7 +30,7 @@
         "location": "300 AMADOR AVE ,SNB",
         "latitude": 37.6254717320018,
         "longitude": -122.45339950636,
-        "units": "E52"
+        "units": ">E52"
     },
     {
         "id": "RF2405936",
@@ -19,7 +41,7 @@
         "location": "SAMSON ST #206 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "SQ409"
+        "units": ">SQ409"
     },
     {
         "id": "NF2406257",
@@ -30,7 +52,7 @@
         "location": "ESCUELA DR #104B ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">T95"
+        "units": ""
     },
     {
         "id": "FF2403148",
@@ -41,62 +63,7 @@
         "location": "245 LONGFORD DR ,SSF",
         "latitude": 37.659202330314,
         "longitude": -122.456030174514,
-        "units": "E64"
-    },
-    {
-        "id": "MF2404469",
-        "date": "2024-06-01",
-        "time": "8:11:39 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "CF2403778",
-        "date": "2024-06-01",
-        "time": "8:09:27 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Pole fire",
-        "location": "218 BEVERLY AVE ,MLB",
-        "latitude": 37.6023611326397,
-        "longitude": -122.38728587847,
-        "units": ""
-    },
-    {
-        "id": "RF2405935",
-        "date": "2024-06-01",
-        "time": "8:06:58 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #216 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2407021",
-        "date": "2024-06-01",
-        "time": "8:05:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Sparking/arcing wires down",
-        "location": "11 E POPLAR AVE ,SMO",
-        "latitude": 37.5705385481795,
-        "longitude": -122.334988553182,
-        "units": ">E21"
-    },
-    {
-        "id": "NF2406256",
-        "date": "2024-06-01",
-        "time": "8:03:30 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E64"
     },
     {
         "id": "NF2406255",
@@ -107,6 +74,6 @@
         "location": "ESCUELA DR #109 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
+        "units": ""
     }
 ]
