@@ -1,5 +1,38 @@
 [
     {
+        "id": "FF2403196",
+        "date": "2024-06-04",
+        "time": "7:41:09 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CALLAN BLVD #106 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "NF2406328",
+        "date": "2024-06-04",
+        "time": "7:32:51 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST FRANCIS BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2407121",
+        "date": "2024-06-04",
+        "time": "7:28:39 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W HILLSDALE BLVD / E SAILER DR",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
+    },
+    {
         "id": "HF2401311",
         "date": "2024-06-04",
         "time": "7:17:13 AM",
@@ -8,40 +41,7 @@
         "location": "BLOOM LN #1210 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "MF2404532",
-        "date": "2024-06-04",
-        "time": "7:08:25 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GLEN WAY ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2406327",
-        "date": "2024-06-04",
-        "time": "7:04:10 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MONTEREY RD ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "FF2403195",
-        "date": "2024-06-04",
-        "time": "6:37:59 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "B ST #A ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": "*>E40"
     },
     {
         "id": "MF2404511",
@@ -52,6 +52,6 @@
         "location": "2700 MIDDLEFIELD RD ,NFO",
         "latitude": 37.4751734033552,
         "longitude": -122.212167459715,
-        "units": ">E101 >E177 TAC15 >BC101 >BC1CM11X5"
+        "units": ">E101 >E177 TAC15 >E1 >BC1CM11X5"
     }
 ]
