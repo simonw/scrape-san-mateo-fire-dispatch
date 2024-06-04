@@ -1,5 +1,16 @@
 [
     {
+        "id": "CF2403837",
+        "date": "2024-06-04",
+        "time": "11:22:43 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AIRPORT BLVD #A32 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
         "id": "CF2403836",
         "date": "2024-06-04",
         "time": "11:06:08 AM",
@@ -8,7 +19,7 @@
         "location": "HAWTHORNE WAY ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E37"
     },
     {
         "id": "NF2406336",
@@ -19,62 +30,7 @@
         "location": "CRESTMOOR CIR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
-    },
-    {
-        "id": "NF2406335",
-        "date": "2024-06-04",
-        "time": "11:00:00 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "MF2404540",
-        "date": "2024-06-04",
-        "time": "10:54:45 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "WILLOW RD / DURHAM ST",
-        "latitude": 37.4651033092989,
-        "longitude": -122.157421881685,
-        "units": ">SQ401 CH1B CM11X2 TAC16"
-    },
-    {
-        "id": "CF2403835",
-        "date": "2024-06-04",
-        "time": "10:54:42 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Lock out - vehicle",
-        "location": "MAGNOLIA AVE / LUDEMAN LN",
-        "latitude": 37.6074501377862,
-        "longitude": -122.401851355258,
-        "units": ">E38"
-    },
-    {
-        "id": "SF2407134",
-        "date": "2024-06-04",
-        "time": "10:46:52 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "2000 ALAMEDA DE LAS PULGAS ,SMO",
-        "latitude": 37.5447365697105,
-        "longitude": -122.321205450432,
-        "units": ">E25"
-    },
-    {
-        "id": "CF2403834",
-        "date": "2024-06-04",
-        "time": "10:23:14 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1244 EL CAMINO REAL ,BRM",
-        "latitude": 37.5855279179795,
-        "longitude": -122.368005277784,
-        "units": ">E33"
+        "units": ">E71"
     },
     {
         "id": "DF2401015",
@@ -96,6 +52,6 @@
         "location": "2700 MIDDLEFIELD RD ,NFO",
         "latitude": 37.4751734033552,
         "longitude": -122.212167459715,
-        "units": ">PR1C >E4 >E1 >BC1 TAC15CM11X5"
+        "units": ">TAC15 >PR1C >E4 >E1 >BC1CM11X5"
     }
 ]
