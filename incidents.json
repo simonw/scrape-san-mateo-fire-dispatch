@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2407109",
+        "date": "2024-06-03",
+        "time": "9:58:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "W HILLSDALE BLVD / EDISON ST",
+        "latitude": 37.5350088746154,
+        "longitude": -122.300219232067,
+        "units": "E23"
+    },
+    {
+        "id": "NF2406314",
+        "date": "2024-06-03",
+        "time": "9:49:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, ladder request",
+        "location": "666 SYLVAN ST #3 ,DCY",
+        "latitude": 37.6866842805527,
+        "longitude": -122.457945591609,
+        "units": "CM31X1 T95 >E92"
+    },
+    {
         "id": "SF2407108",
         "date": "2024-06-03",
         "time": "9:32:50 PM",
@@ -11,61 +33,6 @@
         "units": ">E25"
     },
     {
-        "id": "HF2401310",
-        "date": "2024-06-03",
-        "time": "9:30:20 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ARNOLD WAY #109A ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E40"
-    },
-    {
-        "id": "RF2406001",
-        "date": "2024-06-03",
-        "time": "9:29:49 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "CF2403818",
-        "date": "2024-06-03",
-        "time": "9:26:21 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "406 NADINA AVE ,MLB",
-        "latitude": 37.6045741047525,
-        "longitude": -122.390090356763,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2406000",
-        "date": "2024-06-03",
-        "time": "9:24:46 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ORCHARD AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2407107",
-        "date": "2024-06-03",
-        "time": "9:14:27 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "VILLA AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
         "id": "FF2403187",
         "date": "2024-06-03",
         "time": "9:10:41 PM",
@@ -74,7 +41,7 @@
         "location": "OYSTER POINT BLVD / ECCLES AVE",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": ""
     },
     {
         "id": "MF2404511",
@@ -85,6 +52,6 @@
         "location": "2700 MIDDLEFIELD RD ,NFO",
         "latitude": 37.4751734033552,
         "longitude": -122.212167459715,
-        "units": ">E3 >SQ401 >E104 >TO1 >E177>PR1D TAC15 TAC16 >BC101 CM11X5"
+        "units": ">E3 >SQ401 >E104 >E177 TAC15>BC101 CM11X5"
     }
 ]
