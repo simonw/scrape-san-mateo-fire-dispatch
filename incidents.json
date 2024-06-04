@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2407124",
+        "id": "SF2407126",
         "date": "2024-06-04",
-        "time": "8:24:56 AM",
+        "time": "8:43:11 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ROBERTA DR ,SMO",
+        "location": "HARVARD RD / CRYSTAL SPRINGS RD",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": "?E21"
+    },
+    {
+        "id": "SF2407125",
+        "date": "2024-06-04",
+        "time": "8:39:24 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N DELAWARE ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
+        "id": "RF2406019",
+        "date": "2024-06-04",
+        "time": "8:38:42 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "IRIS ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "MF2404534",
+        "date": "2024-06-04",
+        "time": "8:28:46 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WILLOW RD ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E101"
     },
     {
         "id": "DF2401015",
@@ -19,7 +52,7 @@
         "location": "10350 CABRILLO HWY ,SOS",
         "latitude": 37.2167521938908,
         "longitude": -122.404723791646,
-        "units": "?E7 T17 E40 BC10 E58E17 E59 BC11 E41 ?VFIR23"
+        "units": ">BC10 >E40 >VFIR23 WT108 WT157WT156 E18 >E59 E55 E7"
     },
     {
         "id": "NF2406330",
@@ -27,54 +60,10 @@
         "time": "8:18:17 AM",
         "summary": "North County Fire on Control-3",
         "category": "Traffic accident",
-        "location": "SB 280 / SO JOHN DALY BLVD",
+        "location": "NB 280 / NO 1",
         "latitude": 37.7026469325025,
         "longitude": -122.47210547499,
-        "units": "CM31X4 T95 ?TAC35 >E92 >E94>BC20"
-    },
-    {
-        "id": "RF2406017",
-        "date": "2024-06-04",
-        "time": "8:14:52 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "105 POPLAR AVE ,RCY",
-        "latitude": 37.4750225857252,
-        "longitude": -122.22266583533,
-        "units": ""
-    },
-    {
-        "id": "SF2407123",
-        "date": "2024-06-04",
-        "time": "8:02:33 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "949 OCEAN VIEW AVE ,SMO",
-        "latitude": 37.5692811880055,
-        "longitude": -122.301730892777,
-        "units": ">E24 >T21"
-    },
-    {
-        "id": "CF2403827",
-        "date": "2024-06-04",
-        "time": "7:59:53 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #1218 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "NF2406329",
-        "date": "2024-06-04",
-        "time": "7:49:51 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUCKLEBERRY CT ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">T95 >E94 >BC20 CM31X4 ?TAC35"
     },
     {
         "id": "MF2404511",
@@ -85,6 +74,6 @@
         "location": "2700 MIDDLEFIELD RD ,NFO",
         "latitude": 37.4751734033552,
         "longitude": -122.212167459715,
-        "units": ">E177 TAC15 >E1 >BC1 CM11X5"
+        "units": ">E1 >BC1 >E177 TAC15 CM11X5"
     }
 ]
