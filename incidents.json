@@ -1,5 +1,16 @@
 [
     {
+        "id": "RF2406045",
+        "date": "2024-06-04",
+        "time": "7:32:23 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
         "id": "FF2403209",
         "date": "2024-06-04",
         "time": "7:16:25 PM",
@@ -8,7 +19,7 @@
         "location": "ANTOINETTE LN #G ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E65"
+        "units": ">E65"
     },
     {
         "id": "LF2400475",
@@ -19,7 +30,7 @@
         "location": "JUNIPERO SERRA BLVD ,CLM",
         "latitude": null,
         "longitude": null,
-        "units": "E63 ?E85"
+        "units": ">E85 >E63"
     },
     {
         "id": "NF2406353",
@@ -30,62 +41,7 @@
         "location": "FIRECREST AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "NF2406352",
-        "date": "2024-06-04",
-        "time": "7:10:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "SF2407161",
-        "date": "2024-06-04",
-        "time": "7:03:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "75 S EL CAMINO REAL ,SMO",
-        "latitude": 37.5644274097204,
-        "longitude": -122.32735315046,
-        "units": ">E21"
-    },
-    {
-        "id": "LF2400474",
-        "date": "2024-06-04",
-        "time": "7:01:25 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ST ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
-    },
-    {
-        "id": "BF2401940",
-        "date": "2024-06-04",
-        "time": "6:59:18 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "CF2403853",
-        "date": "2024-06-04",
-        "time": "6:59:18 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MATEO AVE #39C ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">E94"
     },
     {
         "id": "FF2403208",
@@ -96,7 +52,7 @@
         "location": "ALIDA WAY #303 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": "E61"
     },
     {
         "id": "MF2404511",
@@ -107,6 +63,6 @@
         "location": "2700 MIDDLEFIELD RD ,NFO",
         "latitude": 37.4751734033552,
         "longitude": -122.212167459715,
-        "units": ">BC101 >E104 >TAC15 >E101 CM11X5"
+        "units": ">E104 >E101 >BC101 >TAC15 CM11X5"
     }
 ]
