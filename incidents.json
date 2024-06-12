@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2404788",
+        "date": "2024-06-11",
+        "time": "10:32:38 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "150 VALPARAISO AVE ,ATN",
+        "latitude": 37.4494230768729,
+        "longitude": -122.195951485811,
+        "units": ">SQ401 >E6 >E3 >T4 >E4>BC1 CM11X4 ?TAC15"
+    },
+    {
+        "id": "LF2400496",
+        "date": "2024-06-11",
+        "time": "10:26:58 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "D ST ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "FF2403357",
         "date": "2024-06-11",
         "time": "10:20:35 PM",
@@ -8,40 +30,7 @@
         "location": "VALENCIA DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "RF2406338",
-        "date": "2024-06-11",
-        "time": "10:17:23 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "623 UPLAND RD ,EML",
-        "latitude": 37.4738697445052,
-        "longitude": -122.251938548688,
-        "units": ">E10"
-    },
-    {
-        "id": "FF2403356",
-        "date": "2024-06-11",
-        "time": "10:09:27 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Trash fire",
-        "location": "N ACCESS RD / S AIRPORT BLVD",
-        "latitude": 37.6391470084715,
-        "longitude": -122.401196848586,
-        "units": ">Q62"
-    },
-    {
-        "id": "FF2403355",
-        "date": "2024-06-11",
-        "time": "10:09:17 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "WENTWORTH DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
+        "units": ">E63"
     },
     {
         "id": "SF2407515",
@@ -53,27 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E32"
-    },
-    {
-        "id": "CF2404043",
-        "date": "2024-06-11",
-        "time": "9:59:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LEXINGTON WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "BF2402035",
-        "date": "2024-06-11",
-        "time": "9:10:54 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "1001 NATIONAL AVE ,SNB",
-        "latitude": 37.6326750877595,
-        "longitude": -122.422501913003,
-        "units": ">E51"
     }
 ]
