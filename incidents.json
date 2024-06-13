@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2406390",
+        "id": "WF2400931",
         "date": "2024-06-13",
-        "time": "8:38:56 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "8:56:03 AM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Medical aid",
-        "location": "KENTUCKY ST ,RCY",
+        "location": "LA MESA DR ,LAD",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E8"
+    },
+    {
+        "id": "SF2407592",
+        "date": "2024-06-13",
+        "time": "8:55:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD #1304 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "SF2407591",
@@ -19,7 +30,7 @@
         "location": "S NORFOLK ST / KEHOE AVE",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ""
     },
     {
         "id": "HF2401382",
@@ -30,40 +41,7 @@
         "location": "CABRILLO HWY S #106 ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "BF2402051",
-        "date": "2024-06-13",
-        "time": "8:18:21 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Odor investigation",
-        "location": "2591 HEATHER LN ,SNB",
-        "latitude": 37.6283196471397,
-        "longitude": -122.443989900112,
-        "units": ">E52"
-    },
-    {
-        "id": "WF2400930",
-        "date": "2024-06-13",
-        "time": "8:15:17 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SYLVAN WAY ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E19"
-    },
-    {
-        "id": "SF2407589",
-        "date": "2024-06-13",
-        "time": "8:13:12 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PORTOLA DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "*>E40"
     },
     {
         "id": "SF2407584",
@@ -74,6 +52,6 @@
         "location": "E 3RD AVE / MARINERS ISLAND BLVD",
         "latitude": 37.5706212061433,
         "longitude": -122.2844733408,
-        "units": ">E29"
+        "units": "VF22X2 CM21X1 >E29 >BC5"
     }
 ]
