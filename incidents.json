@@ -1,14 +1,69 @@
 [
     {
-        "id": "LF2400504",
+        "id": "RF2406402",
         "date": "2024-06-13",
-        "time": "1:24:01 PM",
-        "summary": "Colma Fire on Control-3",
+        "time": "1:41:09 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "F ST ,CLM",
+        "location": "BRADFORD ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": "E9"
+    },
+    {
+        "id": "MF2404838",
+        "date": "2024-06-13",
+        "time": "1:36:35 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "412 RUNNYMEDE ST ,EPA",
+        "latitude": 37.4686842312998,
+        "longitude": -122.144602035154,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2406401",
+        "date": "2024-06-13",
+        "time": "1:36:26 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD #210 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
+    },
+    {
+        "id": "MF2404837",
+        "date": "2024-06-13",
+        "time": "1:35:26 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "1805 E BAYSHORE RD ,EPA",
+        "latitude": 37.456882075852,
+        "longitude": -122.133305178237,
+        "units": ">T2"
+    },
+    {
+        "id": "FF2403383",
+        "date": "2024-06-13",
+        "time": "1:35:10 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ROWNTREE WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "CF2404072",
+        "date": "2024-06-13",
+        "time": "1:35:04 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #720 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
     },
     {
         "id": "CF2404071",
@@ -22,61 +77,6 @@
         "units": ">E37"
     },
     {
-        "id": "RF2406400",
-        "date": "2024-06-13",
-        "time": "1:11:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COMPASS CIR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
-    },
-    {
-        "id": "MF2404836",
-        "date": "2024-06-13",
-        "time": "1:10:55 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PULGAS AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2402054",
-        "date": "2024-06-13",
-        "time": "1:06:18 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PICCADILLY PL #23 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "NF2406641",
-        "date": "2024-06-13",
-        "time": "1:04:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CLARINADA AVE #15 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2407601",
-        "date": "2024-06-13",
-        "time": "12:46:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CATAMARAN ST #715 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
         "id": "SF2407584",
         "date": "2024-06-13",
         "time": "6:00:32 AM",
@@ -85,6 +85,6 @@
         "location": "E 3RD AVE / MARINERS ISLAND BLVD",
         "latitude": 37.5706212061433,
         "longitude": -122.2844733408,
-        "units": ">E26 VF22X2 CM21X1 >E23 >BC5"
+        "units": ">E26 VF22X2 CM21X1 >E23 E28>BC5"
     }
 ]
