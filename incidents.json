@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2406414",
+        "date": "2024-06-13",
+        "time": "8:26:10 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROLISON RD #3 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E11"
+    },
+    {
+        "id": "LF2400509",
+        "date": "2024-06-13",
+        "time": "8:24:51 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ISABELLE CIR ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "BC19 E86"
+    },
+    {
+        "id": "SF2407621",
+        "date": "2024-06-13",
+        "time": "8:18:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E SANTA INEZ AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "NF2406658",
         "date": "2024-06-13",
         "time": "7:56:00 PM",
@@ -8,18 +41,7 @@
         "location": "SURREY CT ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "NF2406657",
-        "date": "2024-06-13",
-        "time": "7:55:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESPI DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": ""
     },
     {
         "id": "CF2404083",
@@ -30,28 +52,6 @@
         "location": "1800 OLD BAYSHORE HWY ,BRM",
         "latitude": 37.6028027991323,
         "longitude": -122.37150812731,
-        "units": ">E34"
-    },
-    {
-        "id": "BF2402060",
-        "date": "2024-06-13",
-        "time": "7:48:30 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTMOOR DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "NF2406656",
-        "date": "2024-06-13",
-        "time": "7:37:33 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTVIEW AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
         "units": ""
     },
     {
@@ -63,6 +63,17 @@
         "location": "4100 E 3RD AVE ,FCY",
         "latitude": 37.5718308352563,
         "longitude": -122.265852390068,
-        "units": "BOAT11 CM51X5 JS28 >E28 >BC5?BOAT14 CG22A AB77"
+        "units": ">CG22A >JS28 AB77 BOAT11 >BC5CM51X5"
+    },
+    {
+        "id": "SF2407613",
+        "date": "2024-06-13",
+        "time": "6:19:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "EB 92 / EO HIGH RI",
+        "latitude": 37.5968493998132,
+        "longitude": -122.222529393744,
+        "units": "BC11"
     }
 ]
