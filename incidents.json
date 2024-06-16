@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2407753",
+        "date": "2024-06-16",
+        "time": "2:23:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "WB 92 / EO 101",
+        "latitude": 37.5555095273839,
+        "longitude": -122.287603147109,
+        "units": "E26 T23 ?TAC25 E25 ?CM21X2BC5"
+    },
+    {
         "id": "FF2403429",
         "date": "2024-06-16",
         "time": "2:04:31 PM",
@@ -8,7 +19,7 @@
         "location": "UTAH AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E61"
+        "units": ">E61"
     },
     {
         "id": "NF2406768",
@@ -19,7 +30,7 @@
         "location": "2990 GENEVA AVE ,DCY",
         "latitude": 37.7061626474029,
         "longitude": -122.413514710002,
-        "units": "?TAC35 CM31X4 E93 ?T95 BC20"
+        "units": ">E93"
     },
     {
         "id": "CF2404139",
@@ -30,51 +41,7 @@
         "location": "SKYFARM DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
-    },
-    {
-        "id": "FF2403428",
-        "date": "2024-06-16",
-        "time": "1:58:09 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "TRAIN TRACK ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "CF2404138",
-        "date": "2024-06-16",
-        "time": "1:57:15 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #263 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "NF2406767",
-        "date": "2024-06-16",
-        "time": "1:42:02 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LINCOLN PL ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2404932",
-        "date": "2024-06-16",
-        "time": "1:08:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "330 AMBAR WAY ,MNP",
-        "latitude": 37.4354858219053,
-        "longitude": -122.185810223066,
-        "units": ">E4"
+        "units": ">T34"
     },
     {
         "id": "MF2404931",
@@ -85,6 +52,6 @@
         "location": "2100 BAY RD ,EPA",
         "latitude": 37.4766382936214,
         "longitude": -122.121757367168,
-        "units": ">BOAT11 CM51X4 >BC101 >E2 >SQ401?CG22A >AB77"
+        "units": ">BOAT11 CM51X4 >BC101 >SQ401 ?CG22A>AB77"
     }
 ]
