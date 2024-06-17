@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2406542",
+        "id": "RF2406543",
         "date": "2024-06-17",
-        "time": "12:14:27 PM",
+        "time": "12:34:39 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "WOODSIDE RD #311 ,RCY",
+        "location": "MAIN ST #710 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": ">E9"
+    },
+    {
+        "id": "LF2400520",
+        "date": "2024-06-17",
+        "time": "12:29:16 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SWEETWOOD DR ,BRD",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
     },
     {
         "id": "NF2406801",
@@ -19,18 +30,7 @@
         "location": "ESCUELA DR #224C ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "CF2404167",
-        "date": "2024-06-17",
-        "time": "11:51:19 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHATEAU DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E33"
+        "units": ""
     },
     {
         "id": "NF2406800",
@@ -41,6 +41,6 @@
         "location": "615 HICKEY BLVD ,PCF",
         "latitude": 37.6550608239165,
         "longitude": -122.479468043673,
-        "units": "PR20A >T95 >BC20 CM31X5 ?TAC35>E94"
+        "units": ">E94 >PR20A"
     }
 ]
