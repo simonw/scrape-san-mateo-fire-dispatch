@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2404180",
+        "date": "2024-06-17",
+        "time": "10:41:01 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CAROLAN AVE #316 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
+        "id": "HF2401422",
+        "date": "2024-06-17",
+        "time": "10:33:09 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN MATEO RD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "MF2404986",
+        "date": "2024-06-17",
+        "time": "10:31:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BERKELEY AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "RF2406575",
+        "date": "2024-06-17",
+        "time": "10:30:18 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #202 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "SF2407816",
         "date": "2024-06-17",
         "time": "10:26:35 PM",
@@ -8,18 +52,7 @@
         "location": "PACIFIC BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E23"
-    },
-    {
-        "id": "SF2407815",
-        "date": "2024-06-17",
-        "time": "10:25:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E26"
+        "units": ">E23"
     },
     {
         "id": "SF2407814",
@@ -30,18 +63,7 @@
         "location": "COBB ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "RF2406574",
-        "date": "2024-06-17",
-        "time": "10:19:01 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1498 ODDSTAD DR ,RCY",
-        "latitude": 37.489626010442,
-        "longitude": -122.216605050778,
-        "units": ">E9"
+        "units": ""
     },
     {
         "id": "DF2401083",
@@ -52,7 +74,7 @@
         "location": "WRIGHT DR ,LMR",
         "latitude": null,
         "longitude": null,
-        "units": "E59 E55 ?VFIR23"
+        "units": ">E59 >E55 ?VFIR23"
     },
     {
         "id": "CF2404179",
@@ -63,7 +85,7 @@
         "location": "145 RIZAL DR ,HIL",
         "latitude": 37.5414015486532,
         "longitude": -122.352675526021,
-        "units": ">E32 ?CM21X5 >T17 >E33 ?TAC25>BC11 >E17 >E15 >E27 >BC5"
+        "units": "?CCFINV >E33 >E15 >BC11 >T17>E17 >E27 ?TAC25 ?CM21X5"
     },
     {
         "id": "BF2402101",
@@ -75,16 +97,5 @@
         "latitude": 37.635194552319,
         "longitude": -122.419275170931,
         "units": ">E51"
-    },
-    {
-        "id": "WF2400969",
-        "date": "2024-06-17",
-        "time": "9:45:40 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GEORGIA LN ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
