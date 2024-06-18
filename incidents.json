@@ -1,5 +1,82 @@
 [
     {
+        "id": "MF2405000",
+        "date": "2024-06-18",
+        "time": "10:24:47 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LASSEN DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "T4"
+    },
+    {
+        "id": "SF2407843",
+        "date": "2024-06-18",
+        "time": "10:23:16 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "CF2404187",
+        "date": "2024-06-18",
+        "time": "10:15:06 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1177 AIRPORT BLVD ,BRM",
+        "latitude": 37.5902385190885,
+        "longitude": -122.359714256636,
+        "units": ">BC8"
+    },
+    {
+        "id": "NF2406831",
+        "date": "2024-06-18",
+        "time": "10:11:37 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BIG BEND DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
+    },
+    {
+        "id": "RF2406589",
+        "date": "2024-06-18",
+        "time": "10:09:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BROADWAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "RF2406588",
+        "date": "2024-06-18",
+        "time": "10:09:01 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VINE ST ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2407841",
+        "date": "2024-06-18",
+        "time": "10:08:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BIRCH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "WF2400976",
         "date": "2024-06-18",
         "time": "10:03:45 AM",
@@ -8,40 +85,7 @@
         "location": "PORTOLA RD #4K ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
-    },
-    {
-        "id": "SF2407839",
-        "date": "2024-06-18",
-        "time": "10:03:27 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "852 VEGA CIR ,FCY",
-        "latitude": 37.5474007716895,
-        "longitude": -122.277631266973,
-        "units": "E29"
-    },
-    {
-        "id": "RF2406587",
-        "date": "2024-06-18",
-        "time": "10:01:37 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "1201 BREWSTER AVE ,RCY",
-        "latitude": 37.4841504907955,
-        "longitude": -122.236471855173,
-        "units": "CM11X5 ?TAC15"
-    },
-    {
-        "id": "MF2404999",
-        "date": "2024-06-18",
-        "time": "10:01:02 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Carbon monoxide alarm",
-        "location": "68 SELBY LN ,ATN",
-        "latitude": 37.464432287665,
-        "longitude": -122.214474476371,
-        "units": "E3"
+        "units": ">E8"
     },
     {
         "id": "NF2406830",
@@ -52,18 +96,7 @@
         "location": "CRESTWOOD DR #8 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "MF2404998",
-        "date": "2024-06-18",
-        "time": "9:59:00 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "275 ELLIOT DR ,MNP",
-        "latitude": 37.4596759510075,
-        "longitude": -122.148414406519,
-        "units": "E1"
+        "units": ""
     },
     {
         "id": "WF2400975",
@@ -74,28 +107,6 @@
         "location": "LOS TRANCOS CIR ,LTW",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "CF2404186",
-        "date": "2024-06-18",
-        "time": "9:43:02 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROLLINS RD ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "FF2403472",
-        "date": "2024-06-18",
-        "time": "9:29:12 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Public assist, water problem",
-        "location": "464 VICTORY AVE ,SSF",
-        "latitude": 37.6481504212541,
-        "longitude": -122.417688527351,
-        "units": ">E65"
+        "units": ">E4"
     }
 ]
