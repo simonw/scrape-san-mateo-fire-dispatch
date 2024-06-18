@@ -1,25 +1,91 @@
 [
     {
-        "id": "FF2403477",
+        "id": "FF2403479",
         "date": "2024-06-18",
-        "time": "10:39:16 AM",
+        "time": "11:05:22 AM",
         "summary": "South San Francisco on Control-3",
-        "category": "Full assignment response",
-        "location": "276 EVERGREEN DR ,SSF",
-        "latitude": 37.6660412344385,
-        "longitude": -122.440162059657,
-        "units": "?TAC35 TO17 CM31X2 E64 T95E63 E61 BC17"
-    },
-    {
-        "id": "SF2407845",
-        "date": "2024-06-18",
-        "time": "10:35:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "N EL CAMINO REAL #A ,SMO",
+        "location": "MILLER AVE #207 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": "E61"
+    },
+    {
+        "id": "NF2406833",
+        "date": "2024-06-18",
+        "time": "11:03:37 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CAMPUS DR #211 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?T95 E94"
+    },
+    {
+        "id": "MF2405002",
+        "date": "2024-06-18",
+        "time": "10:58:42 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "275 ELLIOT DR ,MNP",
+        "latitude": 37.4596759510075,
+        "longitude": -122.148414406519,
+        "units": "E1"
+    },
+    {
+        "id": "RF2406594",
+        "date": "2024-06-18",
+        "time": "10:55:58 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "FF2403478",
+        "date": "2024-06-18",
+        "time": "10:54:49 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "WESTBOROUGH BLVD #227 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "SF2407846",
+        "date": "2024-06-18",
+        "time": "10:54:09 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "553 SEAGATE WAY ,BLM",
+        "latitude": 37.528521383313,
+        "longitude": -122.274162941011,
+        "units": ">E14"
+    },
+    {
+        "id": "LF2400521",
+        "date": "2024-06-18",
+        "time": "10:50:54 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD #126 ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E86"
+    },
+    {
+        "id": "RF2406593",
+        "date": "2024-06-18",
+        "time": "10:50:24 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CLINTON ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
     },
     {
         "id": "RF2406590",
@@ -33,28 +99,6 @@
         "units": ">E13"
     },
     {
-        "id": "SF2407844",
-        "date": "2024-06-18",
-        "time": "10:32:25 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "DE ANZA BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
-    },
-    {
-        "id": "MF2405001",
-        "date": "2024-06-18",
-        "time": "10:30:25 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
         "id": "HF2401424",
         "date": "2024-06-18",
         "time": "10:28:22 AM",
@@ -63,18 +107,7 @@
         "location": "HIGGINS CANYON RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "CM41X1 BC10 TAC45 >E40 E41"
-    },
-    {
-        "id": "MF2405000",
-        "date": "2024-06-18",
-        "time": "10:24:47 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LASSEN DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T4"
+        "units": "CM41X1 >BC10 TAC45 >E40 >E41"
     },
     {
         "id": "NF2406831",
@@ -85,17 +118,6 @@
         "location": "BIG BEND DR ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "WF2400975",
-        "date": "2024-06-18",
-        "time": "9:58:22 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LOS TRANCOS CIR ,LTW",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
+        "units": "*>E72"
     }
 ]
