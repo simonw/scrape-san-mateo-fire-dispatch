@@ -1,14 +1,47 @@
 [
     {
-        "id": "BF2402112",
+        "id": "SF2407866",
         "date": "2024-06-18",
-        "time": "6:37:35 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "7:05:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "WINWARD WAY #2014 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "MF2405024",
+        "date": "2024-06-18",
+        "time": "7:00:41 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAYLOR ST ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2407864",
+        "date": "2024-06-18",
+        "time": "6:49:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist, water problem",
+        "location": "41 E 4TH AVE ,SMO",
+        "latitude": 37.5632260845809,
+        "longitude": -122.324228336691,
+        "units": ">T21"
+    },
+    {
+        "id": "CF2404198",
+        "date": "2024-06-18",
+        "time": "6:44:36 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Traffic accident pd request c3",
-        "location": "1300 HUNTINGTON AVE ,SNB",
-        "latitude": 37.6408719607561,
-        "longitude": -122.418637454491,
-        "units": ">E61 >BC16 CM31X1 ?TAC35"
+        "location": "EL CAMINO REAL / RAY DR",
+        "latitude": 37.5909246803022,
+        "longitude": -122.377899727839,
+        "units": ""
     },
     {
         "id": "RF2406608",
@@ -20,27 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E10"
-    },
-    {
-        "id": "CF2404197",
-        "date": "2024-06-18",
-        "time": "6:28:39 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "HUNT DR / ALCAZAR DR",
-        "latitude": 37.5795498090475,
-        "longitude": -122.398916007662,
-        "units": ">E38"
-    },
-    {
-        "id": "SF2407862",
-        "date": "2024-06-18",
-        "time": "6:07:06 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 4TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
