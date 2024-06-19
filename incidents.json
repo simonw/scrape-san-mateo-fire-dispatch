@@ -1,14 +1,69 @@
 [
     {
-        "id": "NF2406872",
+        "id": "NF2406874",
         "date": "2024-06-19",
-        "time": "12:48:35 PM",
+        "time": "1:21:54 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "578 HIGATE DR ,DCY",
+        "latitude": 37.6762664411549,
+        "longitude": -122.489319082988,
+        "units": "?E95"
+    },
+    {
+        "id": "RF2406640",
+        "date": "2024-06-19",
+        "time": "1:21:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "851 EL CAMINO REAL ,RCY",
+        "latitude": 37.4857311538798,
+        "longitude": -122.233975029598,
+        "units": "?E9"
+    },
+    {
+        "id": "DF2401101",
+        "date": "2024-06-19",
+        "time": "1:15:26 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Gas main break",
+        "location": "30 BLACKHAWK LN ,BRH",
+        "latitude": 37.5821468961406,
+        "longitude": -122.387753858283,
+        "units": ">E35 BC8 E38 E33 T17CM21X3 ?TAC26"
+    },
+    {
+        "id": "RF2406639",
+        "date": "2024-06-19",
+        "time": "1:13:50 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "MARINE PKWY / SHELL PKWY",
+        "latitude": 37.5378644345645,
+        "longitude": -122.249193315338,
+        "units": ">E20"
+    },
+    {
+        "id": "NF2406873",
+        "date": "2024-06-19",
+        "time": "1:09:58 PM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "DEL PRADO DR ,DCY",
+        "location": "ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
+        "units": ">T95"
+    },
+    {
+        "id": "RF2406638",
+        "date": "2024-06-19",
+        "time": "1:05:44 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WALNUT ST #214 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">SQ409"
     },
     {
         "id": "CF2404212",
@@ -19,28 +74,6 @@
         "location": "1227 BURLINGAME AVE ,BRM",
         "latitude": 37.5786320418453,
         "longitude": -122.346505433943,
-        "units": "T34 TAC25 CM21X1 >E34"
-    },
-    {
-        "id": "SF2407902",
-        "date": "2024-06-19",
-        "time": "12:43:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "CF2404211",
-        "date": "2024-06-19",
-        "time": "12:38:55 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E MILLBRAE AVE / ROLLINS RD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">T34 TAC25 CM21X1 >E34"
     }
 ]
