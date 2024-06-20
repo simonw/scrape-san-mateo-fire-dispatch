@@ -1,5 +1,38 @@
 [
     {
+        "id": "DF2401111",
+        "date": "2024-06-20",
+        "time": "3:04:53 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BAYVIEW DR #DINING ,DVN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E16"
+    },
+    {
+        "id": "FF2403518",
+        "date": "2024-06-20",
+        "time": "3:03:06 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "3545 CALLAN BLVD ,SSF",
+        "latitude": 37.643212068707,
+        "longitude": -122.46328934396,
+        "units": "E65 ?CM31X5 Q62 BC17 ?TAC36"
+    },
+    {
+        "id": "WF2400987",
+        "date": "2024-06-20",
+        "time": "2:53:23 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SKYLINE BLVD / SEQUOIA WAY",
+        "latitude": 37.3814297762817,
+        "longitude": -122.262936605619,
+        "units": "R56"
+    },
+    {
         "id": "SF2407942",
         "date": "2024-06-20",
         "time": "2:41:57 PM",
@@ -8,18 +41,7 @@
         "location": "BOREL AVE / S EL CAMINO REAL",
         "latitude": 37.5526242598026,
         "longitude": -122.314556378049,
-        "units": "T21 E21 ?TAC25 ?CM21X1 TO5?BC5"
-    },
-    {
-        "id": "NF2406923",
-        "date": "2024-06-20",
-        "time": "2:36:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MONTEREY ST ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
+        "units": ""
     },
     {
         "id": "BF2402132",
@@ -33,28 +55,6 @@
         "units": ">E51"
     },
     {
-        "id": "SF2407941",
-        "date": "2024-06-20",
-        "time": "2:07:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N EL CAMINO REAL #305 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2401441",
-        "date": "2024-06-20",
-        "time": "1:33:45 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Water rescue investigation",
-        "location": "1 COWELL BEACH RD ,SOS",
-        "latitude": 37.4222409916639,
-        "longitude": -122.426311684568,
-        "units": ">E44"
-    },
-    {
         "id": "NF2406920",
         "date": "2024-06-20",
         "time": "12:46:25 PM",
@@ -63,7 +63,7 @@
         "location": "534 VERDUCCI DR ,DCY",
         "latitude": 37.6518980028728,
         "longitude": -122.461151894898,
-        "units": ">BS86 *>BC20 >PR20C >PR20D >T95>E94 >E95 >E92 >E71 >E63"
+        "units": ">BS86 >PR20C >PR20D >T95 >E94>E95 >E92 >E71 >E63 >BC122"
     },
     {
         "id": "RF2406679",
