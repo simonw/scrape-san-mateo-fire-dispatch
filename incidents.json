@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2406684",
+        "date": "2024-06-20",
+        "time": "1:17:08 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "510 BROADWAY ,RCY",
+        "latitude": 37.4863357241291,
+        "longitude": -122.204123069982,
+        "units": "E5"
+    },
+    {
+        "id": "SF2407940",
+        "date": "2024-06-20",
+        "time": "1:13:10 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HARDING AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
         "id": "MF2405070",
         "date": "2024-06-20",
         "time": "1:01:26 PM",
@@ -8,18 +30,7 @@
         "location": "SHARON PARK DR #F3 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E4"
-    },
-    {
-        "id": "BF2402131",
-        "date": "2024-06-20",
-        "time": "12:46:33 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GREEN AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E4"
     },
     {
         "id": "NF2406920",
@@ -30,7 +41,7 @@
         "location": "534 VERDUCCI DR ,DCY",
         "latitude": 37.6518980028728,
         "longitude": -122.461151894898,
-        "units": ">T95 >E94 >E95 >E92 >E71>BC20 >E63 >BC122 >CH20A CM31X2"
+        "units": "?BS86 >E64 >PR20D >T95 >E94>E95 >E92 >E71 >BC20 >E63"
     },
     {
         "id": "SF2407938",
@@ -52,6 +63,6 @@
         "location": "3015 E BAYSHORE RD #437 ,RCY",
         "latitude": 37.4880957964478,
         "longitude": -122.195631454977,
-        "units": ">PR3A >PR3C >T9 >E11 ?TAC15CM11X5"
+        "units": ">PR3A >PR3C ?TAC15 CM11X5"
     }
 ]
