@@ -1,5 +1,49 @@
 [
     {
+        "id": "FF2403548",
+        "date": "2024-06-22",
+        "time": "12:17:47 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "400 GRAND AVE ,SSF",
+        "latitude": 37.6561503964417,
+        "longitude": -122.413081727749,
+        "units": "E61 E65"
+    },
+    {
+        "id": "SF2408019",
+        "date": "2024-06-22",
+        "time": "12:08:41 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BARNESON AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "NF2406990",
+        "date": "2024-06-22",
+        "time": "12:08:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SERRAMONTE CTR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "RF2406759",
+        "date": "2024-06-22",
+        "time": "12:05:51 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JUNIPERO AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
         "id": "NF2406989",
         "date": "2024-06-22",
         "time": "12:02:46 PM",
@@ -8,18 +52,7 @@
         "location": "CRESTWOOD DR #9 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
-    },
-    {
-        "id": "HF2401452",
-        "date": "2024-06-22",
-        "time": "12:01:40 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "546 ALSACE LORRAINE AVE ,HMB",
-        "latitude": 37.4629336941133,
-        "longitude": -122.438607607221,
-        "units": "E40"
+        "units": ">E91"
     },
     {
         "id": "NF2406988",
@@ -33,39 +66,6 @@
         "units": ">E72"
     },
     {
-        "id": "RF2406758",
-        "date": "2024-06-22",
-        "time": "11:49:04 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">SQ409"
-    },
-    {
-        "id": "RF2406757",
-        "date": "2024-06-22",
-        "time": "11:45:14 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JEFFERSON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2402149",
-        "date": "2024-06-22",
-        "time": "11:41:17 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "RIVIERA CT ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
         "id": "CF2404294",
         "date": "2024-06-22",
         "time": "11:39:54 AM",
@@ -74,7 +74,7 @@
         "location": "LAKEVIEW DR ,HIL",
         "latitude": null,
         "longitude": null,
-        "units": ">E32 >E33 >BC8 ?TAC25 CM21X2"
+        "units": "E33 >BC8"
     },
     {
         "id": "MF2405116",
@@ -85,17 +85,6 @@
         "location": "CAMELLIA DR ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "BF2402148",
-        "date": "2024-06-22",
-        "time": "11:10:47 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #2218 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
+        "units": "E2"
     }
 ]
