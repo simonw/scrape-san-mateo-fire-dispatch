@@ -1,5 +1,49 @@
 [
     {
+        "id": "CF2404316",
+        "date": "2024-06-23",
+        "time": "12:02:06 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "DRAKE AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E35"
+    },
+    {
+        "id": "NF2407022",
+        "date": "2024-06-23",
+        "time": "11:59:29 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CERRO DR #A110 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2408065",
+        "date": "2024-06-23",
+        "time": "11:54:48 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "COLUMBIA DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
+    },
+    {
+        "id": "MF2405147",
+        "date": "2024-06-23",
+        "time": "11:48:57 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BERESFORD CT ,WSB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "SF2408064",
         "date": "2024-06-23",
         "time": "11:37:05 AM",
@@ -11,28 +55,6 @@
         "units": "E26"
     },
     {
-        "id": "BF2402161",
-        "date": "2024-06-23",
-        "time": "11:31:38 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "2490 ROLLINGWOOD DR ,SNB",
-        "latitude": 37.6291903950105,
-        "longitude": -122.444990104645,
-        "units": ">E52"
-    },
-    {
-        "id": "RF2406791",
-        "date": "2024-06-23",
-        "time": "11:28:45 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOPKINS AVE #1 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
         "id": "WF2401008",
         "date": "2024-06-23",
         "time": "11:06:28 AM",
@@ -41,6 +63,6 @@
         "location": "SKYLINE BLVD ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": ">E1791 >ERV58 >U56 >R56 >BC15TAC45 >E58"
+        "units": ">ERV58 >U56 >BC15 >E58 >E1791>R56 TAC45"
     }
 ]
