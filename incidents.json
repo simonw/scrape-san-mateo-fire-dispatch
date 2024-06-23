@@ -1,5 +1,38 @@
 [
     {
+        "id": "CF2404303",
+        "date": "2024-06-22",
+        "time": "10:24:59 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Public assist",
+        "location": "3155 FRONTERA WAY #314 ,BRM",
+        "latitude": 37.5818787828138,
+        "longitude": -122.402513379393,
+        "units": "?E38"
+    },
+    {
+        "id": "SF2408047",
+        "date": "2024-06-22",
+        "time": "10:22:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "320 2ND AVE ,SMO",
+        "latitude": 37.5661386172166,
+        "longitude": -122.322053129016,
+        "units": "?E21"
+    },
+    {
+        "id": "NF2407008",
+        "date": "2024-06-22",
+        "time": "10:14:01 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "VALE ST #16B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "CF2404302",
         "date": "2024-06-22",
         "time": "10:01:47 PM",
@@ -8,29 +41,7 @@
         "location": "1095 ROLLINS RD ,BRM",
         "latitude": 37.5883789806325,
         "longitude": -122.359878383766,
-        "units": ">E34 >BC8 >T34 CM21X5 ?TAC25"
-    },
-    {
-        "id": "RF2406780",
-        "date": "2024-06-22",
-        "time": "9:55:26 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "1852 EL CAMINO REAL ,RCY",
-        "latitude": 37.4774878736117,
-        "longitude": -122.22407390237,
-        "units": ">E10 >BC1 CM11X2 ?TAC15"
-    },
-    {
-        "id": "SF2408046",
-        "date": "2024-06-22",
-        "time": "9:53:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TRAIN TRACK ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E34 >T34 CM21X5 ?TAC25"
     },
     {
         "id": "MF2405131",
@@ -44,28 +55,6 @@
         "units": ">T2"
     },
     {
-        "id": "MF2405130",
-        "date": "2024-06-22",
-        "time": "9:50:48 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "NEWBRIDGE ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2407007",
-        "date": "2024-06-22",
-        "time": "9:47:49 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PORTOLA AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
         "id": "RF2406779",
         "date": "2024-06-22",
         "time": "9:37:10 PM",
@@ -74,17 +63,6 @@
         "location": "453 SEAPORT BLVD ,RCY",
         "latitude": 37.5044384789431,
         "longitude": -122.210122595824,
-        "units": ">BOAT11 >BC3 JS28 CM51X1 ?CG22AAB77"
-    },
-    {
-        "id": "DF2401125",
-        "date": "2024-06-22",
-        "time": "9:27:43 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SAN MATEO RD / PILARCITOS CREEK RD",
-        "latitude": 37.4921718839694,
-        "longitude": -122.386223883472,
-        "units": ">BC10"
+        "units": ">BOAT11 >BC3 JS28 CM51X1 ?CG22A>AB77"
     }
 ]
