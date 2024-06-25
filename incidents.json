@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2403616",
+        "id": "RF2406883",
         "date": "2024-06-25",
-        "time": "1:24:03 PM",
+        "time": "1:41:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "INDUSTRIAL RD / TAYLOR WAY",
+        "latitude": 37.5153147826031,
+        "longitude": -122.261892594347,
+        "units": "BC3 T9 E16 ?TAC15 ?CM11X3"
+    },
+    {
+        "id": "FF2403617",
+        "date": "2024-06-25",
+        "time": "1:31:21 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "BADEN AVE ,SSF",
+        "location": "AIRPORT BLVD #308 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E63"
+        "units": ">E65"
+    },
+    {
+        "id": "NF2407083",
+        "date": "2024-06-25",
+        "time": "1:30:59 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARK ST #333 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
+        "id": "NF2407082",
+        "date": "2024-06-25",
+        "time": "1:29:50 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BRUNO AVE #1 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "RF2406882",
@@ -19,18 +52,7 @@
         "location": "BLOMQUIST ST #B213 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "SQ409"
-    },
-    {
-        "id": "NF2407081",
-        "date": "2024-06-25",
-        "time": "1:12:47 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WESTLINE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
+        "units": ">SQ409"
     },
     {
         "id": "RF2406880",
@@ -44,17 +66,6 @@
         "units": ">E11"
     },
     {
-        "id": "WF2401019",
-        "date": "2024-06-25",
-        "time": "12:52:42 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Public assist",
-        "location": "135 PORTOLA RD ,PVY",
-        "latitude": 37.3721833095757,
-        "longitude": -122.209527473065,
-        "units": ">E8"
-    },
-    {
         "id": "NF2407078",
         "date": "2024-06-25",
         "time": "12:27:09 PM",
@@ -63,6 +74,6 @@
         "location": "MAR VISTA DR ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?TAC35 CM31X5 >E92 >BC20"
+        "units": ">BC20 >E92 CM31X5 ?TAC35"
     }
 ]
