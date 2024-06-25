@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2406851",
+        "date": "2024-06-24",
+        "time": "8:05:16 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #601 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "LF2400540",
+        "date": "2024-06-24",
+        "time": "8:03:19 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "1198 EL CAMINO REAL ,CLM",
+        "latitude": 37.6766449795837,
+        "longitude": -122.459046465024,
+        "units": "?TAC35 ?E86 ?T85 CM31X3"
+    },
+    {
         "id": "WF2401014",
         "date": "2024-06-24",
         "time": "7:45:33 PM",
@@ -8,18 +30,7 @@
         "location": "LA MESA DR ,LAD",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
-    },
-    {
-        "id": "NF2407065",
-        "date": "2024-06-24",
-        "time": "7:43:16 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LISBON ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
+        "units": ">E8"
     },
     {
         "id": "FF2403599",
@@ -31,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E61"
-    },
-    {
-        "id": "MF2405189",
-        "date": "2024-06-24",
-        "time": "7:09:00 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "2243 TERRA VILLA AVE ,EPA",
-        "latitude": 37.4663662672888,
-        "longitude": -122.131383135421,
-        "units": ""
     }
 ]
