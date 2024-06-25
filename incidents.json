@@ -1,14 +1,69 @@
 [
     {
-        "id": "HF2401477",
+        "id": "RF2406871",
         "date": "2024-06-25",
-        "time": "9:40:29 AM",
-        "summary": "Coastside Fire on Control-1",
+        "time": "10:01:21 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "PILARCITOS AVE #1 ,HMB",
+        "location": "CENTRAL AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": "E10"
+    },
+    {
+        "id": "FF2403611",
+        "date": "2024-06-25",
+        "time": "10:01:06 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "SF2408147",
+        "date": "2024-06-25",
+        "time": "9:49:45 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "461 BEACH PARK BLVD ,FCY",
+        "latitude": 37.546533115351,
+        "longitude": -122.273970853843,
+        "units": ">E29"
+    },
+    {
+        "id": "BF2402186",
+        "date": "2024-06-25",
+        "time": "9:49:44 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MONTEREY DR ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
+    },
+    {
+        "id": "MF2405202",
+        "date": "2024-06-25",
+        "time": "9:48:19 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "META WAY #22 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "NF2407073",
+        "date": "2024-06-25",
+        "time": "9:45:23 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BELLEVUE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
     },
     {
         "id": "MF2405201",
@@ -22,17 +77,6 @@
         "units": ">E2"
     },
     {
-        "id": "RF2406870",
-        "date": "2024-06-25",
-        "time": "9:29:56 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "OLIVE ST / WALNUT ST",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
         "id": "DF2401142",
         "date": "2024-06-25",
         "time": "9:26:01 AM",
@@ -41,28 +85,6 @@
         "location": "1 N DEVILS SLIDE RD ,SON",
         "latitude": 37.5827122576645,
         "longitude": -122.509608648098,
-        "units": ">E72 >BC124 TAC45 CM41X1"
-    },
-    {
-        "id": "SF2408145",
-        "date": "2024-06-25",
-        "time": "9:13:20 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #421C ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2406869",
-        "date": "2024-06-25",
-        "time": "9:11:48 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #206 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "CM41X1 TAC45 >BC124 >E72"
     }
 ]
