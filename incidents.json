@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2408259",
+        "date": "2024-06-27",
+        "time": "4:43:08 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TIDAL WAY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E24"
+    },
+    {
+        "id": "NF2407150",
+        "date": "2024-06-27",
+        "time": "4:38:14 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PALMETTO AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "CF2404408",
+        "date": "2024-06-27",
+        "time": "4:35:40 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MANGINI WAY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E32"
+    },
+    {
+        "id": "NF2407149",
+        "date": "2024-06-27",
+        "time": "4:32:42 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPERO SERRA BLVD #DIALYSIS ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "MF2405274",
         "date": "2024-06-27",
         "time": "4:24:56 PM",
@@ -8,7 +52,7 @@
         "location": "BRADLEY WAY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "T2"
+        "units": ""
     },
     {
         "id": "HF2401496",
@@ -19,7 +63,7 @@
         "location": "MAIN ST #125N ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": "*>E40"
     },
     {
         "id": "SF2408258",
@@ -33,28 +77,6 @@
         "units": ">E15"
     },
     {
-        "id": "MF2405272",
-        "date": "2024-06-27",
-        "time": "4:11:43 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Trash fire",
-        "location": "EB 84 / WO HIGH RI",
-        "latitude": 37.5038586704142,
-        "longitude": -122.121428934747,
-        "units": "?CM11X2 >E2 ?VFIR23"
-    },
-    {
-        "id": "SF2408257",
-        "date": "2024-06-27",
-        "time": "4:10:17 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EDGEWATER BLVD #F302 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
         "id": "CF2404407",
         "date": "2024-06-27",
         "time": "4:08:12 PM",
@@ -66,17 +88,6 @@
         "units": ">T34"
     },
     {
-        "id": "NF2407148",
-        "date": "2024-06-27",
-        "time": "3:47:21 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "1000 KING DR ,DCY",
-        "latitude": 37.6505389057844,
-        "longitude": -122.469501173263,
-        "units": ">BC123 ?TAC35 >T95 >E94 CM31X3"
-    },
-    {
         "id": "SF2408253",
         "date": "2024-06-27",
         "time": "3:14:10 PM",
@@ -85,6 +96,6 @@
         "location": "857 CABOT LN ,FCY",
         "latitude": 37.5508163837385,
         "longitude": -122.267900510899,
-        "units": ">E26 >E29 >T23 >PR5B ?TAC25CM21X1 >TO5 >E28 >BC5"
+        "units": ">PR5B >TO5 >E29 >T23 >BC5>E26 >E28 CM21X1 ?TAC25"
     }
 ]
