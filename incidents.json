@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2408256",
+        "id": "MF2405274",
         "date": "2024-06-27",
-        "time": "4:00:52 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "4:24:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "BEACH PARK BLVD ,FCY",
+        "location": "BRADLEY WAY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": "T2"
+    },
+    {
+        "id": "HF2401496",
+        "date": "2024-06-27",
+        "time": "4:19:18 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST #125N ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "SF2408258",
+        "date": "2024-06-27",
+        "time": "4:18:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "MF2405272",
+        "date": "2024-06-27",
+        "time": "4:11:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Trash fire",
+        "location": "EB 84 / WO HIGH RI",
+        "latitude": 37.5038586704142,
+        "longitude": -122.121428934747,
+        "units": "?CM11X2 >E2 ?VFIR23"
+    },
+    {
+        "id": "SF2408257",
+        "date": "2024-06-27",
+        "time": "4:10:17 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EDGEWATER BLVD #F302 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2404407",
+        "date": "2024-06-27",
+        "time": "4:08:12 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MYRTLE RD #213 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
     },
     {
         "id": "NF2407148",
@@ -19,18 +74,7 @@
         "location": "1000 KING DR ,DCY",
         "latitude": 37.6505389057844,
         "longitude": -122.469501173263,
-        "units": ">T95 >E94 >BC123 CM31X3 ?TAC35"
-    },
-    {
-        "id": "MF2405271",
-        "date": "2024-06-27",
-        "time": "3:25:54 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SHARON PARK DR #60 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T4"
+        "units": ">BC123 ?TAC35 >T95 >E94 CM31X3"
     },
     {
         "id": "SF2408253",
@@ -41,6 +85,6 @@
         "location": "857 CABOT LN ,FCY",
         "latitude": 37.5508163837385,
         "longitude": -122.267900510899,
-        "units": ">PR5B >E23 >TO5 >E29 >T23>E24 >BC5 >E26 >E28 CM21X1"
+        "units": ">E26 >E29 >T23 >PR5B ?TAC25CM21X1 >TO5 >E28 >BC5"
     }
 ]
