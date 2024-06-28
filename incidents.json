@@ -1,36 +1,58 @@
 [
     {
-        "id": "SF2408273",
+        "id": "SF2408274",
         "date": "2024-06-27",
-        "time": "10:04:46 PM",
+        "time": "10:23:22 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "CATALPA ST ,SMO",
+        "location": "TILTON AVE / N RAILROAD AVE",
         "latitude": null,
         "longitude": null,
-        "units": "?E21"
+        "units": ">E21"
     },
     {
-        "id": "NF2407163",
+        "id": "RF2407000",
         "date": "2024-06-27",
-        "time": "10:04:12 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "10:20:01 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "D ST / HILL ST",
+        "location": "NUEVA AVE #2 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
+        "units": "E10"
     },
     {
-        "id": "MF2405288",
+        "id": "BF2402218",
         "date": "2024-06-27",
-        "time": "9:54:56 PM",
+        "time": "10:12:48 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "WF2401034",
+        "date": "2024-06-27",
+        "time": "10:11:43 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "3950 SAND HILL RD ,WDS",
+        "latitude": 37.4050126591942,
+        "longitude": -122.245281367085,
+        "units": ">R7 >BC2 >E7 CM11X4 ?TAC16"
+    },
+    {
+        "id": "MF2405289",
+        "date": "2024-06-27",
+        "time": "10:11:17 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #304B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
+        "category": "Traffic accident pd request c3",
+        "location": "WB 84 / WO TOLL PLZ",
+        "latitude": 37.5326223484999,
+        "longitude": -122.08773172975,
+        "units": ">E77"
     },
     {
         "id": "NF2407162",
@@ -42,60 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E81"
-    },
-    {
-        "id": "MF2405287",
-        "date": "2024-06-27",
-        "time": "9:44:17 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GREEN ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "FF2403662",
-        "date": "2024-06-27",
-        "time": "9:42:58 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "RIDGE CT ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "LF2400556",
-        "date": "2024-06-27",
-        "time": "9:31:08 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLINS AVE #23 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E86"
-    },
-    {
-        "id": "RF2406996",
-        "date": "2024-06-27",
-        "time": "9:14:38 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "MANZANITA ST / SHASTA ST",
-        "latitude": 37.4782593589767,
-        "longitude": -122.220355441101,
-        "units": "CM11X1 >E9 ?TAC15"
-    },
-    {
-        "id": "NF2407160",
-        "date": "2024-06-27",
-        "time": "9:13:24 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "423 WESTLAKE CTR ,DCY",
-        "latitude": 37.7001232102841,
-        "longitude": -122.482531251966,
-        "units": ">E91"
     }
 ]
