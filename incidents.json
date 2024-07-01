@@ -1,5 +1,27 @@
 [
     {
+        "id": "DF2401174",
+        "date": "2024-07-01",
+        "time": "9:33:36 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Grass fire",
+        "location": "555 GUADALUPE CANYON PKWY ,SON",
+        "latitude": 37.6967731080884,
+        "longitude": -122.433890858128,
+        "units": "CM31X4 ?VF22X4 E93 E81 E92BC20 BC11A"
+    },
+    {
+        "id": "FF2403729",
+        "date": "2024-07-01",
+        "time": "9:31:18 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "CARTER DR #37 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
         "id": "RF2407122",
         "date": "2024-07-01",
         "time": "9:24:44 AM",
@@ -8,7 +30,7 @@
         "location": "ROOSEVELT AVE / HUDSON ST",
         "latitude": 37.4739614514391,
         "longitude": -122.232057363191,
-        "units": "CM11X5 E10 T9 BC3 ?TAC15"
+        "units": ">E10"
     },
     {
         "id": "FF2403728",
@@ -19,7 +41,7 @@
         "location": "UTAH AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
+        "units": ">Q62"
     },
     {
         "id": "WF2401055",
@@ -33,17 +55,6 @@
         "units": ">E19"
     },
     {
-        "id": "SF2408445",
-        "date": "2024-07-01",
-        "time": "9:19:56 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N ELDORADO ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
         "id": "SF2408444",
         "date": "2024-07-01",
         "time": "9:19:12 AM",
@@ -53,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E23"
-    },
-    {
-        "id": "MF2405398",
-        "date": "2024-07-01",
-        "time": "8:57:15 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #UNIT 347B ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "MF2405397",
-        "date": "2024-07-01",
-        "time": "8:55:12 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PULGAS AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "MF2405396",
-        "date": "2024-07-01",
-        "time": "8:53:48 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E O'KEEFE ST #15 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
     }
 ]
