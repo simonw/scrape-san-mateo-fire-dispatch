@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2407125",
+        "date": "2024-07-01",
+        "time": "10:38:51 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE #14A ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
+    },
+    {
+        "id": "DF2401175",
+        "date": "2024-07-01",
+        "time": "10:36:38 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LEXINGTON AVE ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17"
+    },
+    {
+        "id": "HF2401520",
+        "date": "2024-07-01",
+        "time": "10:25:06 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ARNOLD WAY #280A ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
         "id": "SF2408447",
         "date": "2024-07-01",
         "time": "10:22:29 AM",
@@ -8,7 +41,7 @@
         "location": "BIRCH AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E24"
     },
     {
         "id": "MF2405401",
@@ -19,50 +52,6 @@
         "location": "795 WILLOW RD ,MNP",
         "latitude": 37.4663546046411,
         "longitude": -122.160234197566,
-        "units": "SQ401 E6 E1 T4 BC1E5 CM11X2 ?TAC15"
-    },
-    {
-        "id": "RF2407124",
-        "date": "2024-07-01",
-        "time": "10:18:39 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "JEFFERSON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2408446",
-        "date": "2024-07-01",
-        "time": "10:15:42 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Lock out - residential",
-        "location": "1001 CONTINENTALS WAY #200 ,BLM",
-        "latitude": 37.51125171713,
-        "longitude": -122.304083499992,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2407282",
-        "date": "2024-07-01",
-        "time": "10:03:33 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ROCKAWAY BEACH AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2407281",
-        "date": "2024-07-01",
-        "time": "10:02:56 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SCHOOL ST #2 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ">T4 CM11X2 >BC1 ?TAC15 >E1"
     }
 ]
