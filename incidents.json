@@ -1,35 +1,46 @@
 [
     {
-        "id": "MF2405410",
+        "id": "RF2407137",
         "date": "2024-07-01",
-        "time": "4:11:25 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "4:41:03 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2873 MEDFORD AVE ,RCY",
+        "latitude": 37.4637348124747,
+        "longitude": -122.247616851941,
+        "units": "E12"
+    },
+    {
+        "id": "CF2404487",
+        "date": "2024-07-01",
+        "time": "4:39:20 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1177 AIRPORT BLVD ,BRM",
+        "latitude": 37.5902385190885,
+        "longitude": -122.359714256636,
+        "units": "E24 T34 E34 BC8 E35CM21X5 ?TAC25"
+    },
+    {
+        "id": "SF2408471",
+        "date": "2024-07-01",
+        "time": "4:39:11 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "E O'KEEFE ST #101 ,EPA",
+        "location": "THAYER LN #525 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E1"
+        "units": ">E28"
     },
     {
-        "id": "RF2407136",
+        "id": "DF2401178",
         "date": "2024-07-01",
-        "time": "3:46:24 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "1746 CONNECTICUT DR ,RCY",
-        "latitude": 37.4574761275134,
-        "longitude": -122.232501579167,
-        "units": ">E12"
-    },
-    {
-        "id": "NF2407293",
-        "date": "2024-07-01",
-        "time": "3:28:07 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "CLOISTER WAY / SOUTH HILL BLVD",
-        "latitude": 37.7027959862992,
-        "longitude": -122.442476503465,
-        "units": ">E93"
+        "time": "4:36:05 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MORELAND DR ,SON",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E52"
     }
 ]
