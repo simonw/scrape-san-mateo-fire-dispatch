@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2408506",
+        "id": "MF2405432",
         "date": "2024-07-02",
-        "time": "11:06:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:16:29 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "JODY CT ,SMO",
+        "location": "COOLEY AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E24"
+        "units": ">E2"
+    },
+    {
+        "id": "CF2404504",
+        "date": "2024-07-02",
+        "time": "11:12:41 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #101 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
+        "id": "BF2402267",
+        "date": "2024-07-02",
+        "time": "11:11:18 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "SF2408507",
+        "date": "2024-07-02",
+        "time": "11:10:36 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #515 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E23"
     },
     {
         "id": "CF2404503",
@@ -19,40 +52,7 @@
         "location": "FLORIBUNDA AVE #15 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34"
-    },
-    {
-        "id": "SF2408505",
-        "date": "2024-07-02",
-        "time": "11:00:51 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "700 MARLIN AVE ,FCY",
-        "latitude": 37.5540556243744,
-        "longitude": -122.255028398012,
-        "units": "E26 BC5 T23 E28 E29CM21X2 ?TAC25"
-    },
-    {
-        "id": "FF2403755",
-        "date": "2024-07-02",
-        "time": "10:56:09 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "1445 SAN MATEO AVE ,SSF",
-        "latitude": 37.6474981994294,
-        "longitude": -122.409991818282,
-        "units": ""
-    },
-    {
-        "id": "FF2403754",
-        "date": "2024-07-02",
-        "time": "10:45:20 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "S AIRPORT BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
+        "units": ">E34"
     },
     {
         "id": "DF2401183",
@@ -63,7 +63,7 @@
         "location": "1 SAN BRUNO MTN BRS ,SON",
         "latitude": 37.6886618218911,
         "longitude": -122.436535118874,
-        "units": "BC11 >BC124 >E92 >E81 >E93CM31X2 ?VF22X2"
+        "units": "WT158 E2610 WT156 WT157 E2606E2609 ?WTG E2608 BC10 E2607"
     },
     {
         "id": "DF2401182",
@@ -75,27 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E17"
-    },
-    {
-        "id": "SF2408502",
-        "date": "2024-07-02",
-        "time": "10:13:56 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "W HILLSDALE BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E27"
-    },
-    {
-        "id": "CF2404502",
-        "date": "2024-07-02",
-        "time": "10:13:00 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "777 AIRPORT BLVD ,BRM",
-        "latitude": 37.5895216315467,
-        "longitude": -122.350306879904,
-        "units": ">E35"
     }
 ]
