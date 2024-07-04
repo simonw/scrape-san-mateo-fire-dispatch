@@ -1,25 +1,25 @@
 [
     {
+        "id": "SF2408609",
+        "date": "2024-07-04",
+        "time": "2:06:20 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "120 SEM LN ,BLM",
+        "latitude": 37.5249242961001,
+        "longitude": -122.266962106106,
+        "units": ">E14"
+    },
+    {
         "id": "FF2403790",
         "date": "2024-07-04",
         "time": "1:54:55 AM",
         "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
+        "category": "Hazardous material - consult",
         "location": "1000 GATEWAY BLVD ,SSF",
         "latitude": 37.6498545943162,
         "longitude": -122.405277709497,
-        "units": ">Q62"
-    },
-    {
-        "id": "MF2405481",
-        "date": "2024-07-04",
-        "time": "1:50:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": "?HM14 >Q62"
     },
     {
         "id": "NF2407400",
@@ -30,18 +30,7 @@
         "location": "OCEAN VIEW AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "TAC35 CM31X1 >E92 >BC20"
-    },
-    {
-        "id": "SF2408607",
-        "date": "2024-07-04",
-        "time": "1:33:01 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OREGON AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">TAC35 >CM31X1"
     },
     {
         "id": "BF2402296",
@@ -63,6 +52,6 @@
         "location": "BEACH PARK BLVD / EGRET ST",
         "latitude": 37.5701830333431,
         "longitude": -122.257213308969,
-        "units": ">BOAT11 >JS28 CM51X1"
+        "units": ">BOAT11"
     }
 ]
