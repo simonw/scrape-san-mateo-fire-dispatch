@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2407265",
+        "date": "2024-07-04",
+        "time": "4:38:09 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "IRIS LN ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E18"
+    },
+    {
+        "id": "NF2407428",
+        "date": "2024-07-04",
+        "time": "4:34:58 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, water problem",
+        "location": "5100 CABRILLO HWY ,PCF",
+        "latitude": 37.5983310494369,
+        "longitude": -122.501447237564,
+        "units": ">E72"
+    },
+    {
+        "id": "MF2405501",
+        "date": "2024-07-04",
+        "time": "4:30:47 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "612 CREEK DR ,MNP",
+        "latitude": 37.4467344740779,
+        "longitude": -122.172941312138,
+        "units": ">E6 ?TAC16 >BC1 ?CM11X1"
+    },
+    {
+        "id": "CF2404562",
+        "date": "2024-07-04",
+        "time": "4:29:28 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HEMLOCK AVE #10B ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "DF2401204",
+        "date": "2024-07-04",
+        "time": "4:28:07 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN GREGORIO BEACH RD ,SNG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E44 ?VFIR24"
+    },
+    {
+        "id": "DF2401203",
+        "date": "2024-07-04",
+        "time": "4:26:48 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "STAGE RD / PESCADERO CREEK RD",
+        "latitude": 37.2516279235126,
+        "longitude": -122.38286945541,
+        "units": "?TAC46 >U55 >BC10 E17 >E41?CO57 >R57"
+    },
+    {
         "id": "SF2408639",
         "date": "2024-07-04",
         "time": "4:18:34 PM",
@@ -11,28 +77,6 @@
         "units": ">E29"
     },
     {
-        "id": "NF2407427",
-        "date": "2024-07-04",
-        "time": "4:11:27 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAKESHIRE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "MF2405500",
-        "date": "2024-07-04",
-        "time": "4:10:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #223 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
         "id": "MF2405499",
         "date": "2024-07-04",
         "time": "4:07:53 PM",
@@ -41,18 +85,7 @@
         "location": "TERMINAL AVE #CLINIC ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">U77 >E5"
-    },
-    {
-        "id": "MF2405498",
-        "date": "2024-07-04",
-        "time": "4:00:24 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CARLTON AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">U77"
     },
     {
         "id": "DF2401202",
@@ -63,7 +96,7 @@
         "location": "5751 PESCADERO CREEK RD ,PES",
         "latitude": 37.2637148778641,
         "longitude": -122.329855940887,
-        "units": ">E59 >R57 >E40 >U55 TAC45E58"
+        "units": "*>E59 TAC45"
     },
     {
         "id": "RF2407261",
@@ -74,7 +107,7 @@
         "location": "299 FRANKLIN ST #650 ,RCY",
         "latitude": 37.4828959364743,
         "longitude": -122.227852742834,
-        "units": ">TAC15 >CM11X5"
+        "units": ">CM11X5 >TAC15"
     },
     {
         "id": "DF2401200",
@@ -85,6 +118,6 @@
         "location": "PESCADERO CREEK RD / BURNS VALLEY RD",
         "latitude": 37.2800517486447,
         "longitude": -122.285517614553,
-        "units": ">CO55"
+        "units": ">E55 >E58 >CO55"
     }
 ]
