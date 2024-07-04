@@ -1,25 +1,58 @@
 [
     {
-        "id": "BF2402292",
+        "id": "CF2404546",
         "date": "2024-07-03",
-        "time": "5:22:18 PM",
-        "summary": "San Bruno Fire on Control-3",
+        "time": "5:55:48 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "SHELTER CREEK LN ,SNB",
+        "location": "TROUSDALE DR #516 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "?T51"
+        "units": ">E33"
     },
     {
-        "id": "NF2407382",
+        "id": "SF2408587",
         "date": "2024-07-03",
-        "time": "5:18:38 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "5:53:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
+        "location": "TOWN GREEN LN #138 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
+        "units": ">E29"
+    },
+    {
+        "id": "FF2403785",
+        "date": "2024-07-03",
+        "time": "5:47:38 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "TIPPERARY AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "CF2404545",
+        "date": "2024-07-03",
+        "time": "5:45:27 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SANTA BARBARA AVE ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "NF2407383",
+        "date": "2024-07-03",
+        "time": "5:34:27 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Gas main break",
+        "location": "215 ROBERTS RD ,PCF",
+        "latitude": 37.604849768522,
+        "longitude": -122.497731153166,
+        "units": ">E172"
     },
     {
         "id": "DF2401194",
@@ -30,29 +63,7 @@
         "location": "1 MONTARA STATE BEACH RD ,SON",
         "latitude": 37.5518557904059,
         "longitude": -122.51226806474,
-        "units": "?E41 E44 CM41X1 E72 BC10?CG22A ?TAC45"
-    },
-    {
-        "id": "CF2404543",
-        "date": "2024-07-03",
-        "time": "5:15:10 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHADBOURNE AVE #100 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "NF2407381",
-        "date": "2024-07-03",
-        "time": "5:14:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SERRAMONTE CTR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": "CH10A"
     },
     {
         "id": "SF2408586",
@@ -63,7 +74,7 @@
         "location": "EL CAMINO REAL ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
+        "units": "E14"
     },
     {
         "id": "CF2404542",
@@ -74,18 +85,7 @@
         "location": "1400 MILLBRAE AVE #1 ,MLB",
         "latitude": 37.5884795023055,
         "longitude": -122.409817316569,
-        "units": ">E38"
-    },
-    {
-        "id": "MF2405471",
-        "date": "2024-07-03",
-        "time": "5:06:41 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "W BAYSHORE RD ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": "?CM21X1"
     },
     {
         "id": "DF2401193",
@@ -96,18 +96,7 @@
         "location": "ALPINE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "?VFIR24 E58 ?CFE21 E1762 >R57"
-    },
-    {
-        "id": "RF2407217",
-        "date": "2024-07-03",
-        "time": "4:48:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "823 9TH AVE ,NFO",
-        "latitude": 37.4795061064328,
-        "longitude": -122.196022102205,
-        "units": ""
+        "units": "?VFIR24 >E58 >R57"
     },
     {
         "id": "CF2404538",
@@ -118,6 +107,6 @@
         "location": "1085 CAROLAN AVE ,BRM",
         "latitude": 37.5875120864274,
         "longitude": -122.359632356215,
-        "units": ">PR8 PR8D >BC16 >E24 >E37TO16 >E21 >E34 >E35 >BC8"
+        "units": ">TO16 >PR8D >PR8 >E37 >E34>E35 >BC8 >T34 CM21X3 ?TAC25"
     }
 ]
