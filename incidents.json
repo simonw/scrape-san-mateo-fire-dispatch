@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2407408",
+        "date": "2024-07-04",
+        "time": "10:24:47 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "REINA DEL MAR AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "RF2407248",
+        "date": "2024-07-04",
+        "time": "10:22:03 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Wires down (not sparking)",
+        "location": "1386 WOODLAND AVE ,SNC",
+        "latitude": 37.4949391537706,
+        "longitude": -122.253378265909,
+        "units": "E13"
+    },
+    {
+        "id": "SF2408618",
+        "date": "2024-07-04",
+        "time": "10:14:11 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "RF2407247",
+        "date": "2024-07-04",
+        "time": "10:10:40 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "558 SEAHORSE LN ,RWS",
+        "latitude": 37.5330696524964,
+        "longitude": -122.243189328653,
+        "units": ">E20"
+    },
+    {
         "id": "CF2404552",
         "date": "2024-07-04",
         "time": "10:04:55 AM",
@@ -8,7 +52,7 @@
         "location": "VALLEJO DR #IFO ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "?E38"
+        "units": ">E37 >E38 CM21X1"
     },
     {
         "id": "WF2401079",
@@ -19,7 +63,7 @@
         "location": "S CASTANYA WAY ,LAD",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
+        "units": ">E8"
     },
     {
         "id": "DF2401198",
@@ -30,18 +74,7 @@
         "location": "EDMONDS RD ,EML",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "SF2408617",
-        "date": "2024-07-04",
-        "time": "9:52:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #WELLNESS ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ">E12"
     },
     {
         "id": "DF2401197",
@@ -52,39 +85,6 @@
         "location": "LAKEVIEW WAY ,EML",
         "latitude": null,
         "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "MF2405488",
-        "date": "2024-07-04",
-        "time": "9:43:13 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BARMETTA WAY ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "CF2404551",
-        "date": "2024-07-04",
-        "time": "9:40:45 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #148 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2401077",
-        "date": "2024-07-04",
-        "time": "9:39:32 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "PORTOLA RD / SAND HILL RD",
-        "latitude": 37.4024369970635,
-        "longitude": -122.245031769094,
-        "units": ">E7 >CM11X2 >R7 >BC2 >TAC15"
+        "units": "*>E18"
     }
 ]
