@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2408599",
+        "id": "RF2407232",
         "date": "2024-07-03",
-        "time": "9:23:40 PM",
+        "time": "9:40:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "157 ARCH ST #303 ,RCY",
+        "latitude": 37.4875564235066,
+        "longitude": -122.237602571234,
+        "units": "E10"
+    },
+    {
+        "id": "SF2408600",
+        "date": "2024-07-03",
+        "time": "9:38:38 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "RAMONA ST / E POPLAR AVE",
+        "latitude": 37.5734677584386,
+        "longitude": -122.330874355274,
+        "units": "T21 E21 BC8 TAC25 ?CM21X5"
+    },
+    {
+        "id": "CF2404548",
+        "date": "2024-07-03",
+        "time": "9:37:29 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "MONTE DIABLO AVE ,SMO",
+        "location": "TROUSDALE DR #308 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E37"
+    },
+    {
+        "id": "WF2401071",
+        "date": "2024-07-03",
+        "time": "9:36:16 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PHILLIP RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E7"
+    },
+    {
+        "id": "FF2403788",
+        "date": "2024-07-03",
+        "time": "9:31:27 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
     },
     {
         "id": "WF2401070",
@@ -19,18 +63,7 @@
         "location": "ALPINE RD / WILLOWBROOK DR",
         "latitude": 37.3645244509325,
         "longitude": -122.21557442916,
-        "units": "E8"
-    },
-    {
-        "id": "SF2408598",
-        "date": "2024-07-03",
-        "time": "9:12:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "818 WILMINGTON RD ,SMO",
-        "latitude": 37.5445722169932,
-        "longitude": -122.331075071202,
-        "units": ">E25"
+        "units": ">E8"
     },
     {
         "id": "RF2407231",
@@ -41,28 +74,6 @@
         "location": "ALAMEDA DE LAS PULGAS ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "SF2408594",
-        "date": "2024-07-03",
-        "time": "8:49:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "OLD COUNTY RD #21 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23 CM11X3 >E14"
-    },
-    {
-        "id": "RF2407230",
-        "date": "2024-07-03",
-        "time": "8:26:52 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "RUBY AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": "E12"
     }
 ]
