@@ -1,5 +1,60 @@
 [
     {
+        "id": "HF2401537",
+        "date": "2024-07-03",
+        "time": "8:04:19 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Lock out - vehicle",
+        "location": "1191 MAIN ST ,HMB",
+        "latitude": 37.4512343743218,
+        "longitude": -122.428917567055,
+        "units": ">E40"
+    },
+    {
+        "id": "MF2405476",
+        "date": "2024-07-03",
+        "time": "7:59:58 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "242 POLHEMUS AVE ,ATN",
+        "latitude": 37.4477310561377,
+        "longitude": -122.217856443468,
+        "units": "E3"
+    },
+    {
+        "id": "SF2408592",
+        "date": "2024-07-03",
+        "time": "7:56:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E HILLSDALE BLVD ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "SF2408591",
+        "date": "2024-07-03",
+        "time": "7:54:52 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EB 92 / EO HIGH RI",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "MF2405475",
+        "date": "2024-07-03",
+        "time": "7:46:56 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "6 KNOLL VISTA ,ATN",
+        "latitude": 37.4292124584963,
+        "longitude": -122.220592193184,
+        "units": ">E4"
+    },
+    {
         "id": "RF2407225",
         "date": "2024-07-03",
         "time": "7:46:41 PM",
@@ -8,7 +63,7 @@
         "location": "CENTER ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "LF2400573",
@@ -19,7 +74,7 @@
         "location": "D ST ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "E86"
+        "units": ">E86"
     },
     {
         "id": "MF2405474",
@@ -31,49 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E6"
-    },
-    {
-        "id": "NF2407387",
-        "date": "2024-07-03",
-        "time": "7:27:59 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL DORADO DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "CF2404547",
-        "date": "2024-07-03",
-        "time": "7:26:33 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ADELINE DR #104 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "HF2401536",
-        "date": "2024-07-03",
-        "time": "7:12:35 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BONITA LN ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E41"
-    },
-    {
-        "id": "BF2402293",
-        "date": "2024-07-03",
-        "time": "7:09:18 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "W SAN BRUNO AVE / SHELTER CREEK LN",
-        "latitude": 37.6234394035836,
-        "longitude": -122.429067011138,
-        "units": ">BC16 >T51"
     }
 ]
