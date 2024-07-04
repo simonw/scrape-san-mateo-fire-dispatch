@@ -1,36 +1,58 @@
 [
     {
-        "id": "BF2402301",
+        "id": "WF2401082",
         "date": "2024-07-04",
-        "time": "2:42:43 PM",
+        "time": "2:57:19 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WILMINGTON WAY ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E19"
+    },
+    {
+        "id": "SF2408634",
+        "date": "2024-07-04",
+        "time": "2:52:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "1101 FOSTER CITY BLVD #1 ,FCY",
+        "latitude": 37.5537647252267,
+        "longitude": -122.2551940592,
+        "units": ">E28"
+    },
+    {
+        "id": "BF2402302",
+        "date": "2024-07-04",
+        "time": "2:51:05 PM",
         "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SNEATH LN / EL CAMINO REAL",
-        "latitude": 37.6368636007923,
-        "longitude": -122.421363139369,
-        "units": "BC16 T51 E51 ?TAC35 ?CM31X5"
-    },
-    {
-        "id": "NF2407422",
-        "date": "2024-07-04",
-        "time": "2:39:43 PM",
-        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "YOSEMITE DR ,PCF",
+        "location": "EL CAMINO REAL #210 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": ">E51 >E151"
     },
     {
-        "id": "NF2407421",
+        "id": "MF2405496",
         "date": "2024-07-04",
-        "time": "2:21:47 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "2:48:45 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "CRESCENT CT ,BRS",
+        "location": "CRANE ST #306B ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E81"
+        "units": ">E6"
+    },
+    {
+        "id": "DF2401200",
+        "date": "2024-07-04",
+        "time": "2:45:50 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Tree down",
+        "location": "PESCADERO CREEK RD / BURNS VALLEY RD",
+        "latitude": 37.2800517486447,
+        "longitude": -122.285517614553,
+        "units": "CO55 E59"
     },
     {
         "id": "RF2407260",
@@ -41,17 +63,6 @@
         "location": "212 WALDRON DR ,RWS",
         "latitude": 37.5407662109198,
         "longitude": -122.24912344905,
-        "units": ">VF22X3 >CM11X4 >BC3 >BC103 >E512>E14 >E13 >E16"
-    },
-    {
-        "id": "RF2407259",
-        "date": "2024-07-04",
-        "time": "1:30:46 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PELICAN LN ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": "E20"
+        "units": ">E13 >E512 >BC3 >BC103 >E16>CM11X4 >E14 >VF22X3"
     }
 ]
