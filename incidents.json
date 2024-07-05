@@ -1,25 +1,58 @@
 [
     {
-        "id": "NF2407468",
+        "id": "DF2401208",
         "date": "2024-07-05",
-        "time": "7/4/2024 11:57:26 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "12:20:09 AM",
+        "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "CABRILLO HWY ,PCF",
+        "location": "CORDILLERAS RD ,EML",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": "E18"
     },
     {
-        "id": "SF2408656",
+        "id": "MF2405519",
         "date": "2024-07-05",
-        "time": "7/4/2024 11:56:00 PM",
+        "time": "12:18:44 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "1650 BAY RD ,EPA",
+        "latitude": 37.4714534590656,
+        "longitude": -122.138090813313,
+        "units": ">E2"
+    },
+    {
+        "id": "NF2407469",
+        "date": "2024-07-05",
+        "time": "12:17:41 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "SKYLINE BLVD / WESTMOOR AVE",
+        "latitude": 37.6833409160063,
+        "longitude": -122.489100467712,
+        "units": "MED20 BC123 CM31X5 TAC37 E94T21"
+    },
+    {
+        "id": "SF2408657",
+        "date": "2024-07-05",
+        "time": "12:12:34 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Trash fire",
-        "location": "2ND AVE / S HUMBOLDT ST",
-        "latitude": 37.5708331540007,
-        "longitude": -122.317615946627,
-        "units": ">E24"
+        "category": "Landscape fire",
+        "location": "E 38TH AVE / CURTISS ST",
+        "latitude": 37.536032566921,
+        "longitude": -122.290030020383,
+        "units": ">E23"
+    },
+    {
+        "id": "CF2404571",
+        "date": "2024-07-05",
+        "time": "12:06:43 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "817 MURCHISON DR ,MLB",
+        "latitude": 37.5909500237222,
+        "longitude": -122.390718012696,
+        "units": ">E35 >E34 >BC8 >T34 >E37CM21X4 ?TAC25"
     },
     {
         "id": "NF2407461",
@@ -30,7 +63,7 @@
         "location": "243 MARVILLA CIR ,PCF",
         "latitude": 37.5931748997537,
         "longitude": -122.496758515906,
-        "units": "?TAC35 >E172 E195 ?CM31X4 >PR20"
+        "units": ">CM31X4 >E195 >TAC35 >PR20 >E172"
     },
     {
         "id": "BF2402320",
@@ -52,7 +85,7 @@
         "location": "330 COMMERCIAL AVE ,SSF",
         "latitude": 37.6537667190135,
         "longitude": -122.411856084624,
-        "units": ">T95 >PR17B BS86 >T51 >E95>OES31 >BC17 >Q62 >E64 >E161"
+        "units": ">BS86 >T95 >PR17B >T51 >E95>OES31 >BC17 >Q62 >E64 >E161"
     },
     {
         "id": "BF2402319",
@@ -74,6 +107,6 @@
         "location": "MANDALAY PL / POINTE VIEW PL",
         "latitude": 37.666105148082,
         "longitude": -122.403268124289,
-        "units": "?CM31X2 ?VF22X5 >E65"
+        "units": ""
     }
 ]
