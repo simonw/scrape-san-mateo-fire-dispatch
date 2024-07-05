@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2407321",
+        "id": "SF2408696",
         "date": "2024-07-05",
-        "time": "2:23:01 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "2:40:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MIDDLEFIELD RD ,RCY",
+        "location": "E 41ST PL #A ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E11"
+        "units": "E23"
+    },
+    {
+        "id": "MF2405534",
+        "date": "2024-07-05",
+        "time": "2:37:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
     },
     {
         "id": "SF2408695",
@@ -33,17 +44,6 @@
         "units": "E61"
     },
     {
-        "id": "FF2403833",
-        "date": "2024-07-05",
-        "time": "1:32:08 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #ER ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E64"
-    },
-    {
         "id": "CF2404585",
         "date": "2024-07-05",
         "time": "1:32:00 PM",
@@ -52,18 +52,18 @@
         "location": "OLD BAYSHORE HWY #371 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": ">T34 >E37 >BC8 CM21X2"
+        "units": "E37"
     },
     {
-        "id": "SF2408690",
+        "id": "FM2400073",
         "date": "2024-07-05",
-        "time": "1:01:54 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE ,SMO",
+        "time": "12:58:33 PM",
+        "summary": "Fire Mutual Aid on White-1",
+        "category": "Ca task force 3 request",
+        "location": "TROPICAL CYCLONE BERYL, TEXAS ,OC",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": "OH1"
     },
     {
         "id": "FF2403818",
@@ -74,6 +74,6 @@
         "location": "330 COMMERCIAL AVE ,SSF",
         "latitude": 37.6537667190135,
         "longitude": -122.411856084624,
-        "units": "E63 >E65"
+        "units": ">E63"
     }
 ]
