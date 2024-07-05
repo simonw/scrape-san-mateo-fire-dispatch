@@ -1,47 +1,69 @@
 [
     {
-        "id": "RF2407265",
+        "id": "HF2401548",
         "date": "2024-07-04",
-        "time": "4:38:09 PM",
+        "time": "5:22:08 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ST ,MON",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E71"
+    },
+    {
+        "id": "FF2403802",
+        "date": "2024-07-04",
+        "time": "5:20:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD #271 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E65"
+    },
+    {
+        "id": "FF2403801",
+        "date": "2024-07-04",
+        "time": "5:14:08 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MANZANITA AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E161"
+    },
+    {
+        "id": "RF2407266",
+        "date": "2024-07-04",
+        "time": "5:12:13 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "IRIS LN ,SNC",
+        "location": "ELM ST ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E18"
+        "units": ">E13"
     },
     {
-        "id": "NF2407428",
+        "id": "NF2407429",
         "date": "2024-07-04",
-        "time": "4:34:58 PM",
+        "time": "5:11:44 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "5100 CABRILLO HWY ,PCF",
-        "latitude": 37.5983310494369,
-        "longitude": -122.501447237564,
-        "units": ">E72"
-    },
-    {
-        "id": "MF2405501",
-        "date": "2024-07-04",
-        "time": "4:30:47 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "612 CREEK DR ,MNP",
-        "latitude": 37.4467344740779,
-        "longitude": -122.172941312138,
-        "units": ">E6 ?TAC16 >BC1 ?CM11X1"
-    },
-    {
-        "id": "CF2404562",
-        "date": "2024-07-04",
-        "time": "4:29:28 PM",
-        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "HEMLOCK AVE #10B ,MLB",
+        "location": "ESCUELA DR #111A ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E37"
+        "units": ">E95"
+    },
+    {
+        "id": "HF2401547",
+        "date": "2024-07-04",
+        "time": "4:52:04 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIRAMONTES POINT RD ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E640"
     },
     {
         "id": "DF2401204",
@@ -52,62 +74,7 @@
         "location": "SAN GREGORIO BEACH RD ,SNG",
         "latitude": null,
         "longitude": null,
-        "units": ">E44 ?VFIR24"
-    },
-    {
-        "id": "DF2401203",
-        "date": "2024-07-04",
-        "time": "4:26:48 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "STAGE RD / PESCADERO CREEK RD",
-        "latitude": 37.2516279235126,
-        "longitude": -122.38286945541,
-        "units": "?TAC46 >U55 >BC10 E17 >E41?CO57 >R57"
-    },
-    {
-        "id": "SF2408639",
-        "date": "2024-07-04",
-        "time": "4:18:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E HILLSDALE BLVD ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "MF2405499",
-        "date": "2024-07-04",
-        "time": "4:07:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TERMINAL AVE #CLINIC ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">U77"
-    },
-    {
-        "id": "DF2401202",
-        "date": "2024-07-04",
-        "time": "3:52:00 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "5751 PESCADERO CREEK RD ,PES",
-        "latitude": 37.2637148778641,
-        "longitude": -122.329855940887,
-        "units": "*>E59 TAC45"
-    },
-    {
-        "id": "RF2407261",
-        "date": "2024-07-04",
-        "time": "3:34:56 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "299 FRANKLIN ST #650 ,RCY",
-        "latitude": 37.4828959364743,
-        "longitude": -122.227852742834,
-        "units": ">CM11X5 >TAC15"
+        "units": "?VFIR24 >E44"
     },
     {
         "id": "DF2401200",
@@ -118,6 +85,6 @@
         "location": "PESCADERO CREEK RD / BURNS VALLEY RD",
         "latitude": 37.2800517486447,
         "longitude": -122.285517614553,
-        "units": ">E55 >E58 >CO55"
+        "units": ">E55"
     }
 ]
