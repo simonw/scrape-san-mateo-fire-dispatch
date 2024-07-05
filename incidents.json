@@ -1,5 +1,49 @@
 [
     {
+        "id": "NF2407476",
+        "date": "2024-07-05",
+        "time": "2:37:36 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "550 CLARINADA AVE ,DCY",
+        "latitude": 37.6721162858998,
+        "longitude": -122.47771016109,
+        "units": ">E94"
+    },
+    {
+        "id": "RF2407299",
+        "date": "2024-07-05",
+        "time": "2:35:31 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "185 CHESTNUT ST ,RCY",
+        "latitude": 37.4793554065474,
+        "longitude": -122.2242859724,
+        "units": "T9"
+    },
+    {
+        "id": "WF2401087",
+        "date": "2024-07-05",
+        "time": "2:32:02 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "524 LAKEMEAD WAY ,EML",
+        "latitude": 37.4618908951421,
+        "longitude": -122.265107079256,
+        "units": ">E19"
+    },
+    {
+        "id": "SF2408667",
+        "date": "2024-07-05",
+        "time": "2:28:49 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S FREMONT ST #408 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "DF2401210",
         "date": "2024-07-05",
         "time": "2:15:06 AM",
@@ -8,73 +52,7 @@
         "location": "PESCADERO CREEK RD ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": "U55 E59 VFIR23"
-    },
-    {
-        "id": "SF2408666",
-        "date": "2024-07-05",
-        "time": "2:14:56 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "GRAND BLVD #5 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "SF2408665",
-        "date": "2024-07-05",
-        "time": "2:10:42 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "886 PARROTT DR ,SMO",
-        "latitude": 37.5475772593869,
-        "longitude": -122.338297437711,
-        "units": "T21"
-    },
-    {
-        "id": "NF2407474",
-        "date": "2024-07-05",
-        "time": "2:08:45 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SOUTHGATE AVE #217 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "NF2407475",
-        "date": "2024-07-05",
-        "time": "2:08:19 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Trash fire",
-        "location": "67 ARDEN CT ,DCY",
-        "latitude": 37.7057126328984,
-        "longitude": -122.428809282288,
-        "units": ">E93"
-    },
-    {
-        "id": "SF2408664",
-        "date": "2024-07-05",
-        "time": "2:07:47 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ELKHORN CT #135 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E25"
-    },
-    {
-        "id": "CF2404576",
-        "date": "2024-07-05",
-        "time": "2:00:36 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MATEO AVE #7C ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": ">E59 >E55 VFIR23"
     },
     {
         "id": "FF2403818",
@@ -85,6 +63,6 @@
         "location": "330 COMMERCIAL AVE ,SSF",
         "latitude": 37.6537667190135,
         "longitude": -122.411856084624,
-        "units": "*>BC117 >DEM57 >BC121 >E65 >E52>T95 >BS86 >PR17B >T51 >E95"
+        "units": "*>BC117 >DEM57 >E65 >E52 >T95>BS86 >PR17B >T51 >OES31 >BC17"
     }
 ]
