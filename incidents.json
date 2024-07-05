@@ -1,25 +1,80 @@
 [
     {
-        "id": "SF2408659",
+        "id": "NF2407473",
         "date": "2024-07-05",
-        "time": "12:42:12 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "1:06:10 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "MONTE DIABLO AVE ,SMO",
+        "location": "GELLERT BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": "?E92 ?E171"
     },
     {
-        "id": "SF2408658",
+        "id": "CF2404572",
         "date": "2024-07-05",
-        "time": "12:39:17 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "1:03:35 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "MEZES AVE ,BLM",
+        "location": "BROADWAY #1110 ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E37"
+    },
+    {
+        "id": "NF2407472",
+        "date": "2024-07-05",
+        "time": "1:02:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MANZANITA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94 MED20"
+    },
+    {
+        "id": "BF2402325",
+        "date": "2024-07-05",
+        "time": "1:01:19 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Landscape fire",
+        "location": "HUNTINGTON AVE / SYLVAN AVE",
+        "latitude": 37.6247516625883,
+        "longitude": -122.408738049733,
+        "units": ">E151"
+    },
+    {
+        "id": "FF2403820",
+        "date": "2024-07-05",
+        "time": "12:58:03 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "DONEGAL AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
+    },
+    {
+        "id": "SF2408660",
+        "date": "2024-07-05",
+        "time": "12:53:08 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Trash fire",
+        "location": "LODI AVE / S NORFOLK ST",
+        "latitude": 37.5621625851141,
+        "longitude": -122.299843708768,
+        "units": ""
+    },
+    {
+        "id": "FF2403819",
+        "date": "2024-07-05",
+        "time": "12:52:29 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "GALWAY DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
     },
     {
         "id": "NF2407470",
@@ -31,50 +86,6 @@
         "latitude": 37.705107719457,
         "longitude": -122.415717594834,
         "units": ">E93"
-    },
-    {
-        "id": "BF2402324",
-        "date": "2024-07-05",
-        "time": "12:29:15 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "2081 WHITMAN WAY ,SNB",
-        "latitude": 37.6178294999366,
-        "longitude": -122.426922111167,
-        "units": ">E38"
-    },
-    {
-        "id": "DF2401208",
-        "date": "2024-07-05",
-        "time": "12:20:09 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CORDILLERAS RD ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2405519",
-        "date": "2024-07-05",
-        "time": "12:18:44 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Landscape fire",
-        "location": "1650 BAY RD ,EPA",
-        "latitude": 37.4714534590656,
-        "longitude": -122.138090813313,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2407469",
-        "date": "2024-07-05",
-        "time": "12:17:41 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SKYLINE BLVD / WESTMOOR AVE",
-        "latitude": 37.6833409160063,
-        "longitude": -122.489100467712,
-        "units": "MED20"
     },
     {
         "id": "NF2407461",
@@ -96,6 +107,6 @@
         "location": "330 COMMERCIAL AVE ,SSF",
         "latitude": 37.6537667190135,
         "longitude": -122.411856084624,
-        "units": ">BC121 >E65 >E52 >T95 ?OESC>BS86 >PR17B >T51 >E95 >OES31"
+        "units": "DEM57 >BC121 >E65 >E52 >T95>BS86 >PR17B >T51 >E95 >OES31"
     }
 ]
