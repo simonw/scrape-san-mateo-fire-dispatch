@@ -1,5 +1,49 @@
 [
     {
+        "id": "SF2408730",
+        "date": "2024-07-06",
+        "time": "10:04:19 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CONTINENTALS WAY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E15"
+    },
+    {
+        "id": "MF2405555",
+        "date": "2024-07-06",
+        "time": "10:01:38 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ADDISON AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "FF2403845",
+        "date": "2024-07-06",
+        "time": "9:59:14 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SAN FELIPE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E63"
+    },
+    {
+        "id": "FF2403844",
+        "date": "2024-07-06",
+        "time": "9:57:08 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "264 S AIRPORT BLVD ,SSF",
+        "latitude": 37.6473532841139,
+        "longitude": -122.405883874304,
+        "units": ">Q62"
+    },
+    {
         "id": "SF2408729",
         "date": "2024-07-06",
         "time": "9:42:20 AM",
@@ -8,7 +52,7 @@
         "location": "FLORES ST #111B ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E23"
     },
     {
         "id": "CF2404603",
@@ -22,39 +66,6 @@
         "units": ">E33"
     },
     {
-        "id": "RF2407341",
-        "date": "2024-07-06",
-        "time": "9:25:42 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PINE ST #1 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "CF2404602",
-        "date": "2024-07-06",
-        "time": "9:21:58 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CABRILLO AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "SF2408727",
-        "date": "2024-07-06",
-        "time": "9:19:14 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EPPLETON LN #403 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
         "id": "SF2408726",
         "date": "2024-07-06",
         "time": "8:57:51 AM",
@@ -63,6 +74,6 @@
         "location": "886 PARROTT DR ,SMO",
         "latitude": 37.5475772593869,
         "longitude": -122.338297437711,
-        "units": ">E21"
+        "units": "*>E21"
     }
 ]
