@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2403858",
+        "id": "RF2407363",
         "date": "2024-07-07",
-        "time": "2:01:32 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "2:25:19 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "MILLER AVE ,SSF",
+        "location": "BROADWAY ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E81"
+        "units": "?E9"
+    },
+    {
+        "id": "MF2405577",
+        "date": "2024-07-07",
+        "time": "2:21:28 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "1805 E BAYSHORE RD ,EPA",
+        "latitude": 37.456882075852,
+        "longitude": -122.133305178237,
+        "units": "E2"
+    },
+    {
+        "id": "MF2405576",
+        "date": "2024-07-07",
+        "time": "2:21:19 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1359 HOLLYBURNE AVE ,MNP",
+        "latitude": 37.4782804799706,
+        "longitude": -122.156615236979,
+        "units": ">E77"
+    },
+    {
+        "id": "CF2404619",
+        "date": "2024-07-07",
+        "time": "2:12:50 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MORNINGSIDE DR ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E38"
     },
     {
         "id": "SF2408778",
@@ -19,40 +52,7 @@
         "location": "NORTON ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
-    },
-    {
-        "id": "RF2407362",
-        "date": "2024-07-07",
-        "time": "1:49:27 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2408777",
-        "date": "2024-07-07",
-        "time": "1:47:00 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLCREST DR ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2407545",
-        "date": "2024-07-07",
-        "time": "1:28:18 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMELIA DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": ">E24"
     },
     {
         "id": "FF2403856",
@@ -63,6 +63,6 @@
         "location": "303 LINDEN AVE ,SSF",
         "latitude": 37.6555156010208,
         "longitude": -122.41022184341,
-        "units": "PR17B >E63 >E61 >E65 >BC17TAC35 CM31X3"
+        "units": ">PR17B >E63 >E61 >E65 >BC17TAC35 CM31X3"
     }
 ]
