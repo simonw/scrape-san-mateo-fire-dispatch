@@ -1,14 +1,80 @@
 [
     {
-        "id": "NF2407538",
+        "id": "SF2408765",
         "date": "2024-07-06",
-        "time": "7:45:27 PM",
+        "time": "8:03:33 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "RF2407355",
+        "date": "2024-07-06",
+        "time": "8:03:14 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist",
+        "location": "3331 LA MESA DR #9 ,SNC",
+        "latitude": 37.4803462492468,
+        "longitude": -122.282830121955,
+        "units": "E13"
+    },
+    {
+        "id": "SF2408764",
+        "date": "2024-07-06",
+        "time": "8:03:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "1750 S EL CAMINO REAL ,SMO",
+        "latitude": 37.551031679559,
+        "longitude": -122.313268616574,
+        "units": "BC5 T23 >E23 CM21X3 ?TAC25"
+    },
+    {
+        "id": "RF2407354",
+        "date": "2024-07-06",
+        "time": "7:56:12 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "210 REDWOOD SHORES PKWY ,RWS",
+        "latitude": 37.5226298360154,
+        "longitude": -122.251605180002,
+        "units": ">E20"
+    },
+    {
+        "id": "BF2402349",
+        "date": "2024-07-06",
+        "time": "7:51:29 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KAINS AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "NF2407539",
+        "date": "2024-07-06",
+        "time": "7:50:12 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Lock out - residential",
-        "location": "1025 CROCKER AVE ,DCY",
-        "latitude": 37.703115098804,
-        "longitude": -122.44876685216,
-        "units": "E92"
+        "category": "Medical aid",
+        "location": "TEMPLETON AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "SF2408762",
+        "date": "2024-07-06",
+        "time": "7:48:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N EL CAMINO REAL #411 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T21"
     },
     {
         "id": "SF2408761",
@@ -19,18 +85,7 @@
         "location": "COLUMBIA DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
-    },
-    {
-        "id": "BF2402348",
-        "date": "2024-07-06",
-        "time": "7:33:39 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "SAN BRUNO AVE W / CHERRY AVE",
-        "latitude": 37.6259233296429,
-        "longitude": -122.424330677594,
-        "units": ">T51 >BC16 >E51 CM31X4 ?TAC35"
+        "units": ">E25"
     },
     {
         "id": "RF2407353",
@@ -41,50 +96,6 @@
         "location": "GREENBRIER RD ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E18 CM11X1"
-    },
-    {
-        "id": "SF2408760",
-        "date": "2024-07-06",
-        "time": "7:31:31 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST #305 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
-    },
-    {
-        "id": "SF2408759",
-        "date": "2024-07-06",
-        "time": "7:27:12 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #238 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "CF2404613",
-        "date": "2024-07-06",
-        "time": "7:14:56 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "910 LINK RD ,HIL",
-        "latitude": 37.5539178893775,
-        "longitude": -122.348763557072,
-        "units": ">E32"
-    },
-    {
-        "id": "SF2408758",
-        "date": "2024-07-06",
-        "time": "7:04:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "987 GULL AVE ,FCY",
-        "latitude": 37.5648500569658,
-        "longitude": -122.25453735947,
-        "units": ">E28"
+        "units": "E18"
     }
 ]
