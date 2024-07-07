@@ -1,14 +1,58 @@
 [
     {
-        "id": "MF2405581",
+        "id": "RF2407373",
         "date": "2024-07-07",
-        "time": "10:39:00 AM",
+        "time": "10:57:32 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WOODSIDE RD / HESS RD",
+        "latitude": 37.4715063958685,
+        "longitude": -122.223049890588,
+        "units": ">E10 >E4 CM11X4 ?TAC15"
+    },
+    {
+        "id": "MF2405582",
+        "date": "2024-07-07",
+        "time": "10:52:40 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "SANTA CRUZ AVE ,MNP",
+        "location": "COLEMAN PL #22 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
+        "units": ">E77"
+    },
+    {
+        "id": "NF2407556",
+        "date": "2024-07-07",
+        "time": "10:52:01 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "830 ROSITA RD ,PCF",
+        "latitude": 37.5854129978709,
+        "longitude": -122.498949469724,
+        "units": ">E72"
+    },
+    {
+        "id": "DF2401227",
+        "date": "2024-07-07",
+        "time": "10:51:52 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Cliff rescue",
+        "location": "1 POMPONIO BEACH RD ,PES",
+        "latitude": 37.2997513718805,
+        "longitude": -122.405067746121,
+        "units": "CO55 >ERV59 >E59 TAC45 R40BC10 E40"
+    },
+    {
+        "id": "RF2407372",
+        "date": "2024-07-07",
+        "time": "10:46:33 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Public assist, water problem",
+        "location": "1030 EL CAMINO REAL ,SNC",
+        "latitude": 37.5011803580975,
+        "longitude": -122.253549188693,
+        "units": ">E13"
     },
     {
         "id": "SF2408799",
@@ -19,7 +63,7 @@
         "location": "GATEWAY DR #110 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26 CM21X1 T23"
+        "units": ">T23 >E26 CM21X1"
     },
     {
         "id": "SF2408798",
@@ -31,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E28"
-    },
-    {
-        "id": "NF2407555",
-        "date": "2024-07-07",
-        "time": "10:12:42 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LUPINE CT ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
     }
 ]
