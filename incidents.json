@@ -1,5 +1,60 @@
 [
     {
+        "id": "CF2404653",
+        "date": "2024-07-08",
+        "time": "4:03:39 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HALE DR ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E35"
+    },
+    {
+        "id": "SF2408850",
+        "date": "2024-07-08",
+        "time": "3:58:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "STRATFORD WAY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E25"
+    },
+    {
+        "id": "MF2405631",
+        "date": "2024-07-08",
+        "time": "3:57:12 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MENALTO AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "CF2404652",
+        "date": "2024-07-08",
+        "time": "3:50:17 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / SANCHEZ AVE",
+        "latitude": 37.5819173922423,
+        "longitude": -122.362181491215,
+        "units": ">E34 CM21X3 >T34 >BC8 ?TAC25"
+    },
+    {
+        "id": "SF2408849",
+        "date": "2024-07-08",
+        "time": "3:47:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
         "id": "MF2405629",
         "date": "2024-07-08",
         "time": "3:43:20 PM",
@@ -8,7 +63,7 @@
         "location": "SHARON PARK DR ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E4"
+        "units": ">E4"
     },
     {
         "id": "RF2407417",
@@ -19,73 +74,7 @@
         "location": "OAKRIDGE DR ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "SF2408847",
-        "date": "2024-07-08",
-        "time": "3:38:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SIXTH AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E15"
-    },
-    {
-        "id": "MF2405627",
-        "date": "2024-07-08",
-        "time": "3:37:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "O'CONNOR ST ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "MF2405626",
-        "date": "2024-07-08",
-        "time": "3:26:37 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SARATOGA AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2407599",
-        "date": "2024-07-08",
-        "time": "3:15:25 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JOHN DALY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2407416",
-        "date": "2024-07-08",
-        "time": "3:13:33 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "205 TIMOTHY DR ,SNC",
-        "latitude": 37.4841504858643,
-        "longitude": -122.261187268183,
-        "units": ">E16"
-    },
-    {
-        "id": "NF2407598",
-        "date": "2024-07-08",
-        "time": "3:08:36 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESPLANADE AVE ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E12"
     },
     {
         "id": "SF2408844",
@@ -96,7 +85,7 @@
         "location": "520 10TH AVE ,SMO",
         "latitude": 37.5619280812682,
         "longitude": -122.314382737201,
-        "units": ">E24 >PR5B >PR5F"
+        "units": ">PR5B >PR5F"
     },
     {
         "id": "RF2407409",
@@ -107,6 +96,6 @@
         "location": "101 WESTPOINT HARBOR DR ,RCY",
         "latitude": 37.5129299005762,
         "longitude": -122.19471703694,
-        "units": ">BOAT11 >BC3 CM11X1 >T9 ?TAC15CM51X1 >AB77 >BC3A >BOAT62"
+        "units": ">BOAT11 >T9 >AB77 >BC3A >BOAT62"
     }
 ]
