@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2408839",
+        "id": "SF2408840",
         "date": "2024-07-08",
-        "time": "12:42:57 PM",
+        "time": "1:01:51 PM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "316 N EL CAMINO REAL ,SMO",
+        "latitude": 37.5697181153863,
+        "longitude": -122.33387434816,
+        "units": "E32"
+    },
+    {
+        "id": "RF2407409",
+        "date": "2024-07-08",
+        "time": "12:58:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Boat/marine fire",
+        "location": "101 WESTPOINT HARBOR DR ,RCY",
+        "latitude": 37.5129299005762,
+        "longitude": -122.19471703694,
+        "units": "E10 BC3 CM11X1 E11 E9T9 ?TAC15 AB77"
+    },
+    {
+        "id": "CF2404650",
+        "date": "2024-07-08",
+        "time": "12:57:26 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "545 EUCALYPTUS AVE ,HIL",
+        "latitude": 37.5681919643555,
+        "longitude": -122.36245606708,
+        "units": ">E33"
+    },
+    {
+        "id": "MF2405622",
+        "date": "2024-07-08",
+        "time": "12:54:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "EDISON ST ,SMO",
+        "location": "SAND HILL RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "?E23"
+        "units": ">E4"
+    },
+    {
+        "id": "FF2403885",
+        "date": "2024-07-08",
+        "time": "12:52:38 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "LN ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "WF2401112",
+        "date": "2024-07-08",
+        "time": "12:49:12 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "200 CHEROKEE WAY ,PVY",
+        "latitude": 37.3811058199396,
+        "longitude": -122.210623292342,
+        "units": ">E7"
     },
     {
         "id": "WF2401111",
@@ -19,18 +74,7 @@
         "location": "PORTOLA RD ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": "E8"
-    },
-    {
-        "id": "NF2407588",
-        "date": "2024-07-08",
-        "time": "12:40:45 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GATEWAY DR #143 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E71"
+        "units": ">E8"
     },
     {
         "id": "CF2404649",
@@ -41,72 +85,6 @@
         "location": "1503 TRAIN TRACK ,BRM",
         "latitude": 37.5878880323164,
         "longitude": -122.363300802318,
-        "units": ">E34 E38 T34 USR133 BC8?TAC25 ?CM21X1"
-    },
-    {
-        "id": "RF2407408",
-        "date": "2024-07-08",
-        "time": "12:37:10 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ATHERWOOD AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "RF2407407",
-        "date": "2024-07-08",
-        "time": "12:36:08 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLOMQUIST ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "DF2401234",
-        "date": "2024-07-08",
-        "time": "12:22:03 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TICONDEROGA DR ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E17"
-    },
-    {
-        "id": "FF2403884",
-        "date": "2024-07-08",
-        "time": "12:21:28 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DELVIN WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2408838",
-        "date": "2024-07-08",
-        "time": "12:18:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "E POPLAR AVE / RAMONA ST",
-        "latitude": 37.5721272666724,
-        "longitude": -122.332460010128,
-        "units": ">E24"
-    },
-    {
-        "id": "SF2408837",
-        "date": "2024-07-08",
-        "time": "12:15:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "1830 GATEWAY DR #110 ,SMO",
-        "latitude": 37.5581808690618,
-        "longitude": -122.280638564422,
-        "units": ">E26"
+        "units": ">E34 >BC8 ?TAC25 CM21X1"
     }
 ]
