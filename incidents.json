@@ -1,5 +1,71 @@
 [
     {
+        "id": "DF2401234",
+        "date": "2024-07-08",
+        "time": "12:22:03 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TICONDEROGA DR ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E17"
+    },
+    {
+        "id": "FF2403884",
+        "date": "2024-07-08",
+        "time": "12:21:28 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "DELVIN WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E64"
+    },
+    {
+        "id": "SF2408838",
+        "date": "2024-07-08",
+        "time": "12:18:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "E POPLAR AVE / N SAN MATEO DR",
+        "latitude": 37.5721272666724,
+        "longitude": -122.332460010128,
+        "units": "T21 E24 ?TAC25 CM21X2 BC5"
+    },
+    {
+        "id": "SF2408837",
+        "date": "2024-07-08",
+        "time": "12:15:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "1830 GATEWAY DR #110 ,SMO",
+        "latitude": 37.5581808690618,
+        "longitude": -122.280638564422,
+        "units": "E26"
+    },
+    {
+        "id": "SF2408836",
+        "date": "2024-07-08",
+        "time": "12:13:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "58 E POPLAR AVE ,SMO",
+        "latitude": 37.5711452233419,
+        "longitude": -122.33360578633,
+        "units": ">E21"
+    },
+    {
+        "id": "CF2404648",
+        "date": "2024-07-08",
+        "time": "12:11:29 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "OAK GROVE AVE #2 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
+    },
+    {
         "id": "RF2407406",
         "date": "2024-07-08",
         "time": "12:01:33 PM",
@@ -8,18 +74,7 @@
         "location": "MELENDY DR ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E13"
-    },
-    {
-        "id": "CF2404647",
-        "date": "2024-07-08",
-        "time": "11:59:46 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "30 HERMOSA AVE ,MLB",
-        "latitude": 37.6037634115257,
-        "longitude": -122.393014926617,
-        "units": "E34"
+        "units": ">E13"
     },
     {
         "id": "BF2402368",
@@ -31,27 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E51"
-    },
-    {
-        "id": "CF2404645",
-        "date": "2024-07-08",
-        "time": "11:45:55 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #2003 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "CF2404644",
-        "date": "2024-07-08",
-        "time": "11:36:05 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Tree down",
-        "location": "NB 280 / SKYLINE BLVD OFF RAMP",
-        "latitude": 37.6006341159904,
-        "longitude": -122.424526344735,
-        "units": ">E37"
     }
 ]
