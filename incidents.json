@@ -1,5 +1,16 @@
 [
     {
+        "id": "CF2404651",
+        "date": "2024-07-08",
+        "time": "2:41:20 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E34"
+    },
+    {
         "id": "NF2407595",
         "date": "2024-07-08",
         "time": "2:22:21 PM",
@@ -8,7 +19,7 @@
         "location": "HUMBOLDT RD ,BRS",
         "latitude": null,
         "longitude": null,
-        "units": "E81"
+        "units": ">E81"
     },
     {
         "id": "FF2403887",
@@ -19,7 +30,7 @@
         "location": "FIR AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": ""
     },
     {
         "id": "SF2408844",
@@ -27,32 +38,10 @@
         "time": "2:19:47 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Structure fire",
-        "location": "10TH AVE / S DELAWARE ST",
+        "location": "520 10TH AVE ,SMO",
         "latitude": 37.5619280812682,
         "longitude": -122.314382737201,
-        "units": "E29 T21 T23 E32 >E24BC8 E21 ?TAC25 E25 CM21X4"
-    },
-    {
-        "id": "DF2401237",
-        "date": "2024-07-08",
-        "time": "2:12:20 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EDMONDS RD ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
-    },
-    {
-        "id": "BF2402369",
-        "date": "2024-07-08",
-        "time": "2:04:40 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE #2218 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
+        "units": "PR5F PR5B >TO5 >E23 >MED5TAC25 >T21 >E21 >BC5 >E24"
     },
     {
         "id": "RF2407409",
@@ -63,6 +52,6 @@
         "location": "101 WESTPOINT HARBOR DR ,RCY",
         "latitude": 37.5129299005762,
         "longitude": -122.19471703694,
-        "units": ">E12 >BC3A >AB77 >PR3D BOAT62BOAT11 >PR3E >PR3C CM51X1 >T9"
+        "units": ">BOAT62 >E12 >BC3A >AB77 >PR3DBOAT11 >PR3E >PR3C CM51X1 >T9"
     }
 ]
