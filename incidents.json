@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2405629",
+        "date": "2024-07-08",
+        "time": "3:43:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHARON PARK DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E4"
+    },
+    {
+        "id": "RF2407417",
+        "date": "2024-07-08",
+        "time": "3:41:56 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAKRIDGE DR ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E12"
+    },
+    {
+        "id": "SF2408847",
+        "date": "2024-07-08",
+        "time": "3:38:28 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SIXTH AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "MF2405627",
+        "date": "2024-07-08",
+        "time": "3:37:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "O'CONNOR ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "MF2405626",
         "date": "2024-07-08",
         "time": "3:26:37 PM",
@@ -8,29 +52,7 @@
         "location": "SARATOGA AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E2"
-    },
-    {
-        "id": "SF2408846",
-        "date": "2024-07-08",
-        "time": "3:22:18 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LA SELVA ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "E23"
-    },
-    {
-        "id": "SF2408845",
-        "date": "2024-07-08",
-        "time": "3:20:58 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "1554 VISTA DEL SOL ,SMO",
-        "latitude": 37.5552310391639,
-        "longitude": -122.286226666012,
-        "units": "E29 TO5 T23 CM21X5 ?TAC26"
+        "units": ">E2"
     },
     {
         "id": "NF2407599",
@@ -41,7 +63,7 @@
         "location": "JOHN DALY BLVD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ""
     },
     {
         "id": "RF2407416",
@@ -63,7 +85,7 @@
         "location": "ESPLANADE AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E71"
+        "units": ""
     },
     {
         "id": "SF2408844",
@@ -74,7 +96,7 @@
         "location": "520 10TH AVE ,SMO",
         "latitude": 37.5619280812682,
         "longitude": -122.314382737201,
-        "units": ">PR5F >PR5B TAC25 >E24 CM21X4"
+        "units": ">E24 >PR5B >PR5F"
     },
     {
         "id": "RF2407409",
@@ -85,6 +107,6 @@
         "location": "101 WESTPOINT HARBOR DR ,RCY",
         "latitude": 37.5129299005762,
         "longitude": -122.19471703694,
-        "units": ">BOAT11 >BOAT62 >BC3A >AB77 CM51X1>T9 >BC3 CM11X1 ?TAC15"
+        "units": ">BOAT11 >BC3 CM11X1 >T9 ?TAC15CM51X1 >AB77 >BC3A >BOAT62"
     }
 ]
