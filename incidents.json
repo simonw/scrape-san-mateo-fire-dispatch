@@ -1,25 +1,58 @@
 [
     {
-        "id": "FF2403897",
+        "id": "NF2407612",
         "date": "2024-07-08",
-        "time": "9:38:17 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - smoke detector",
-        "location": "737 ALMOND AVE ,SSF",
-        "latitude": 37.6613001777036,
-        "longitude": -122.423411021873,
-        "units": "E61"
+        "time": "10:00:19 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "65 E CAVOUR ST ,DCY",
+        "latitude": 37.6952767739633,
+        "longitude": -122.462569162712,
+        "units": "E92"
     },
     {
-        "id": "FF2403896",
+        "id": "FF2403898",
         "date": "2024-07-08",
-        "time": "9:32:12 PM",
+        "time": "10:00:15 PM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "KENRY WAY ,SSF",
+        "location": "VERANO DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E64"
+        "units": ">E63"
+    },
+    {
+        "id": "SF2408869",
+        "date": "2024-07-08",
+        "time": "9:58:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST #447 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "NF2407611",
+        "date": "2024-07-08",
+        "time": "9:45:41 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PALMETTO AVE #141 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E71"
+    },
+    {
+        "id": "DF2401240",
+        "date": "2024-07-08",
+        "time": "9:43:50 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ADELINE DR ,BRH",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E35"
     },
     {
         "id": "NF2407610",
@@ -33,28 +66,6 @@
         "units": ">E81"
     },
     {
-        "id": "HF2401575",
-        "date": "2024-07-08",
-        "time": "9:16:50 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRIG CT ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E40"
-    },
-    {
-        "id": "BF2402375",
-        "date": "2024-07-08",
-        "time": "9:14:39 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Full assignment response",
-        "location": "3502 BERING DR ,SNB",
-        "latitude": 37.6322758630239,
-        "longitude": -122.463477483025,
-        "units": "CM31X2 ?TAC35"
-    },
-    {
         "id": "SF2408866",
         "date": "2024-07-08",
         "time": "8:54:52 PM",
@@ -63,6 +74,6 @@
         "location": "3245 GLENDORA DR #1 ,SMO",
         "latitude": 37.5313105390738,
         "longitude": -122.326092660141,
-        "units": ">T17 >E25 >E17 >BC5 >E27TAC25 ?CM21X5"
+        "units": "?CM21X5 >T17 TAC25 >E17 >E27>BC5"
     }
 ]
