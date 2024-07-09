@@ -1,5 +1,38 @@
 [
     {
+        "id": "DF2401239",
+        "date": "2024-07-08",
+        "time": "8:08:55 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "413 LAKEVIEW WAY ,EML",
+        "latitude": 37.4714132867215,
+        "longitude": -122.268110310807,
+        "units": ">E18"
+    },
+    {
+        "id": "SF2408865",
+        "date": "2024-07-08",
+        "time": "8:08:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Structure fire",
+        "location": "3245 GLENDORA DR #1 ,SMO",
+        "latitude": 37.5313105390738,
+        "longitude": -122.326092660141,
+        "units": ">T23 >E23 >BC5 >E27"
+    },
+    {
+        "id": "FF2403895",
+        "date": "2024-07-08",
+        "time": "8:08:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "400 B ST ,SSF",
+        "latitude": 37.6478816196094,
+        "longitude": -122.426577629477,
+        "units": ">E63"
+    },
+    {
         "id": "NF2407608",
         "date": "2024-07-08",
         "time": "8:06:35 PM",
@@ -8,7 +41,18 @@
         "location": "MARINER LN ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E92"
+        "units": ">E92"
+    },
+    {
+        "id": "FF2403894",
+        "date": "2024-07-08",
+        "time": "8:06:04 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1333 VETERANS BLVD ,SSF",
+        "latitude": 37.6646169409594,
+        "longitude": -122.395738458473,
+        "units": ">E65"
     },
     {
         "id": "FF2403893",
@@ -19,50 +63,6 @@
         "location": "S AIRPORT BLVD #302 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
-    },
-    {
-        "id": "BF2402374",
-        "date": "2024-07-08",
-        "time": "7:59:06 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "NATIONAL AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "SF2408864",
-        "date": "2024-07-08",
-        "time": "7:49:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "3245 GLENDORA DR #1 ,SMO",
-        "latitude": 37.5313105390738,
-        "longitude": -122.326092660141,
-        "units": ""
-    },
-    {
-        "id": "SF2408862",
-        "date": "2024-07-08",
-        "time": "7:43:15 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #107A ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2408863",
-        "date": "2024-07-08",
-        "time": "7:42:34 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - manual",
-        "location": "205 S ELLSWORTH AVE ,SMO",
-        "latitude": 37.565696457042,
-        "longitude": -122.323464077289,
-        "units": ""
+        "units": ">Q62"
     }
 ]
