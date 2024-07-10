@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2405676",
+        "date": "2024-07-10",
+        "time": "12:34:59 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL #14 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1"
+    },
+    {
+        "id": "SF2408944",
+        "date": "2024-07-10",
+        "time": "12:30:19 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #208E ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "CF2404706",
+        "date": "2024-07-10",
+        "time": "12:27:45 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALBERTA WAY ,HIL",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E33"
+    },
+    {
+        "id": "NF2407688",
+        "date": "2024-07-10",
+        "time": "12:27:17 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "4338 CALLAN BLVD ,DCY",
+        "latitude": 37.6587641138701,
+        "longitude": -122.470116299661,
+        "units": ">E94"
+    },
+    {
         "id": "MF2405675",
         "date": "2024-07-10",
         "time": "12:24:47 PM",
@@ -8,7 +52,7 @@
         "location": "CRANE ST ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E6"
     },
     {
         "id": "FF2403926",
@@ -19,7 +63,7 @@
         "location": "W ORANGE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": "E63"
     },
     {
         "id": "SF2408943",
@@ -30,7 +74,7 @@
         "location": "CREST VIEW AVE #132 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
+        "units": ""
     },
     {
         "id": "DF2401247",
@@ -41,29 +85,7 @@
         "location": "CUESTA REAL ,LAH",
         "latitude": null,
         "longitude": null,
-        "units": ">R57 E58 VFIR23"
-    },
-    {
-        "id": "BF2402390",
-        "date": "2024-07-10",
-        "time": "12:15:05 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "1801 NILES AVE ,SNB",
-        "latitude": 37.6157383307213,
-        "longitude": -122.418562842241,
-        "units": ""
-    },
-    {
-        "id": "MF2405674",
-        "date": "2024-07-10",
-        "time": "12:11:56 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "POLHEMUS AVE ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
+        "units": ">R57"
     },
     {
         "id": "RF2407488",
@@ -74,6 +96,6 @@
         "location": "BREWSTER AVE / ARGUELLO ST",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "E9"
     }
 ]
