@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2405697",
+        "date": "2024-07-11",
+        "time": "8:20:51 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "150 VALPARAISO AVE ,ATN",
+        "latitude": 37.4494230768729,
+        "longitude": -122.195951485811,
+        "units": ">E6 E4 T4 BC1 CM11X3?TAC15 SQ401 E1"
+    },
+    {
+        "id": "NF2407724",
+        "date": "2024-07-11",
+        "time": "8:13:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "STERLING AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "MF2405696",
+        "date": "2024-07-11",
+        "time": "8:12:04 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Carbon monoxide alarm",
+        "location": "1 FAIRFAX AVE ,ATN",
+        "latitude": 37.4665528506341,
+        "longitude": -122.203912312735,
+        "units": ">E3"
+    },
+    {
         "id": "WF2401126",
         "date": "2024-07-11",
         "time": "8:03:34 AM",
@@ -8,7 +41,7 @@
         "location": "SB 280 / NO WOODSIDE RD",
         "latitude": 37.4414953804549,
         "longitude": -122.251137026606,
-        "units": "BC2 ?E7 ?TAC16 R7 E19?CM11X1"
+        "units": ">E7 ?TAC16 >R7 CM11X1"
     },
     {
         "id": "SF2408986",
@@ -19,7 +52,7 @@
         "location": "MUIR WAY ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "NF2407723",
@@ -30,7 +63,7 @@
         "location": "ARGUELLO BLVD ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">T95"
     },
     {
         "id": "NF2407722",
@@ -41,29 +74,7 @@
         "location": "CABRILLO HWY / FASSLER AVE",
         "latitude": 37.6087196963782,
         "longitude": -122.495179645355,
-        "units": "T95 CM31X3 BC20 >E72 ?TAC36"
-    },
-    {
-        "id": "RF2407515",
-        "date": "2024-07-11",
-        "time": "7:56:05 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "WOODSIDE RD / UNDER 101",
-        "latitude": 37.4889950161234,
-        "longitude": -122.212788196617,
-        "units": ">BC3 >E9 >T9 CM11X4 >E11?TAC15"
-    },
-    {
-        "id": "CF2404725",
-        "date": "2024-07-11",
-        "time": "7:41:56 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1067A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ">E72"
     },
     {
         "id": "NF2407721",
@@ -74,6 +85,6 @@
         "location": "20 EUREKA DR ,PCF",
         "latitude": 37.6326341592018,
         "longitude": -122.48810778015,
-        "units": "?TAC35 >BC121 CM31X1 >E71 >PR20A>PR20C"
+        "units": ">PR20A >PR20C"
     }
 ]
