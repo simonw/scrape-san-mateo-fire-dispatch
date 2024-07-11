@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2405709",
+        "date": "2024-07-11",
+        "time": "2:47:24 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "WF2401133",
         "date": "2024-07-11",
         "time": "2:33:31 PM",
@@ -8,18 +19,7 @@
         "location": "PORTOLA RD ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": ">E8"
-    },
-    {
-        "id": "CF2404738",
-        "date": "2024-07-11",
-        "time": "2:28:57 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HEMLOCK AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
+        "units": "*>E8"
     },
     {
         "id": "HF2401607",
@@ -30,18 +30,7 @@
         "location": "ALTA VISTA RD / LINDA VISTA RD",
         "latitude": null,
         "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "RF2407525",
-        "date": "2024-07-11",
-        "time": "2:20:27 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "ALAMEDA DE LAS PULGAS / BRITTAN AVE",
-        "latitude": 37.4911457053255,
-        "longitude": -122.265475581688,
-        "units": ""
+        "units": "CG22A >E72"
     },
     {
         "id": "NF2407739",
@@ -52,7 +41,7 @@
         "location": "SOUTHGATE AVE #155 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E95"
+        "units": "E95"
     },
     {
         "id": "DF2401253",
@@ -63,6 +52,6 @@
         "location": "3636 LOBITOS CREEK RD ,SOS",
         "latitude": 37.396089055552,
         "longitude": -122.367379647725,
-        "units": ">E58 >WT158 >E41 >E40 >BC10PR11C WT157 VF22X2 ?WTG"
+        "units": ">WT158 ?WTG >E41 >E40 >E58>PR11C VF22X2 WT157 >BC10"
     }
 ]
