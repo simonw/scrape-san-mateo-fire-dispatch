@@ -1,5 +1,49 @@
 [
     {
+        "id": "HF2401603",
+        "date": "2024-07-11",
+        "time": "10:40:06 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BLOOM LN #1212 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "NF2407730",
+        "date": "2024-07-11",
+        "time": "10:36:07 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "CF2404730",
+        "date": "2024-07-11",
+        "time": "10:35:49 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Traffic accident - structure",
+        "location": "1111 HOWARD AVE ,BRM",
+        "latitude": 37.5781428452331,
+        "longitude": -122.344070367528,
+        "units": ">T34 >BC8 >E34 CM21X1 ?TAC25"
+    },
+    {
+        "id": "SF2408994",
+        "date": "2024-07-11",
+        "time": "10:27:02 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S SAN MATEO DR ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
         "id": "SF2408993",
         "date": "2024-07-11",
         "time": "10:21:18 AM",
@@ -19,40 +63,7 @@
         "location": "AVENUE CABRILLO ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": ">E41"
-    },
-    {
-        "id": "RF2407521",
-        "date": "2024-07-11",
-        "time": "10:15:05 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "2750 HASTINGS AVE ,RCY",
-        "latitude": 37.4625931480502,
-        "longitude": -122.245884302724,
-        "units": ">E12"
-    },
-    {
-        "id": "CF2404729",
-        "date": "2024-07-11",
-        "time": "10:03:33 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #141 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "CF2404728",
-        "date": "2024-07-11",
-        "time": "9:58:14 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #240A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": "*>E41"
     },
     {
         "id": "HF2401601",
@@ -63,6 +74,6 @@
         "location": "ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": "*>E44"
+        "units": ""
     }
 ]
