@@ -1,14 +1,36 @@
 [
     {
-        "id": "FF2403941",
+        "id": "SF2408993",
         "date": "2024-07-11",
-        "time": "10:05:12 AM",
-        "summary": "South San Francisco on Control-3",
+        "time": "10:21:18 AM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "GELLERT BLVD ,SSF",
+        "location": "E HILLSDALE BLVD #A108 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E64"
+        "units": ">E29"
+    },
+    {
+        "id": "HF2401602",
+        "date": "2024-07-11",
+        "time": "10:15:46 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVENUE CABRILLO ,ELG",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "RF2407521",
+        "date": "2024-07-11",
+        "time": "10:15:05 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2750 HASTINGS AVE ,RCY",
+        "latitude": 37.4625931480502,
+        "longitude": -122.245884302724,
+        "units": ">E12"
     },
     {
         "id": "CF2404729",
@@ -19,18 +41,7 @@
         "location": "TROUSDALE DR #141 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
-    },
-    {
-        "id": "LF2400595",
-        "date": "2024-07-11",
-        "time": "9:59:53 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD #211 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E86"
+        "units": ">T34"
     },
     {
         "id": "CF2404728",
@@ -52,50 +63,6 @@
         "location": "ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "WF2401130",
-        "date": "2024-07-11",
-        "time": "9:55:31 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SUNRISE DR ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E58 ?TAC15 ?CM11X5 ?CO56"
-    },
-    {
-        "id": "CF2404727",
-        "date": "2024-07-11",
-        "time": "9:55:16 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "1290 OLD BAYSHORE HWY ,BRM",
-        "latitude": 37.5929842324816,
-        "longitude": -122.36309002151,
-        "units": ">E32"
-    },
-    {
-        "id": "NF2407727",
-        "date": "2024-07-11",
-        "time": "9:50:24 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PACIFIC AVE #8 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "WF2401127",
-        "date": "2024-07-11",
-        "time": "9:30:39 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Landscape fire",
-        "location": "1400 PORTOLA RD ,WDS",
-        "latitude": 37.391251878624,
-        "longitude": -122.239826532706,
-        "units": ">BC2 >E8 VF22X1 CM11X2"
+        "units": "*>E44"
     }
 ]
