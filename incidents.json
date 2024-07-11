@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2405686",
+        "date": "2024-07-10",
+        "time": "8:26:45 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MARLBOROUGH AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "HF2401595",
+        "date": "2024-07-10",
+        "time": "8:19:00 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Sparking/arcing wires down",
+        "location": "415 KEHOE AVE ,HMB",
+        "latitude": 37.4747801475636,
+        "longitude": -122.442189984501,
+        "units": ">E40"
+    },
+    {
+        "id": "NF2407704",
+        "date": "2024-07-10",
+        "time": "8:16:08 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SYLVAN ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
         "id": "SF2408970",
         "date": "2024-07-10",
         "time": "8:05:51 PM",
@@ -8,7 +41,7 @@
         "location": "MAPLE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E25"
+        "units": "*>E25"
     },
     {
         "id": "RF2407503",
@@ -19,61 +52,6 @@
         "location": "EL CAMINO REAL #510 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "T9"
-    },
-    {
-        "id": "NF2407703",
-        "date": "2024-07-10",
-        "time": "7:59:45 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "DF2401250",
-        "date": "2024-07-10",
-        "time": "7:57:34 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident pd request c2",
-        "location": "NB 280 / SO VISTA 2",
-        "latitude": 37.485892737192,
-        "longitude": -122.29811648812,
-        "units": ">E18"
-    },
-    {
-        "id": "MF2405685",
-        "date": "2024-07-10",
-        "time": "7:55:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E BAYSHORE RD #6406 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "RF2407501",
-        "date": "2024-07-10",
-        "time": "7:53:32 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "400 CHESAPEAKE DR ,RCY",
-        "latitude": 37.5002692863469,
-        "longitude": -122.212343867846,
-        "units": ">E9"
-    },
-    {
-        "id": "BF2402397",
-        "date": "2024-07-10",
-        "time": "6:06:54 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Pole fire",
-        "location": "2680 RIDGEWAY AVE ,SNB",
-        "latitude": 37.6163078034895,
-        "longitude": -122.437449850651,
-        "units": "TAC35 CM31X1"
+        "units": ">T9"
     }
 ]
