@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2405809",
+        "id": "CF2404799",
         "date": "2024-07-14",
-        "time": "8:26:50 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "8:41:36 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "SAN RAYMUNDO RD / LA CUMBRE RD",
+        "latitude": 37.5587951189852,
+        "longitude": -122.355475220675,
+        "units": "E32"
+    },
+    {
+        "id": "CF2404798",
+        "date": "2024-07-14",
+        "time": "8:40:03 PM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "WB 84 / CHILCO ST",
+        "location": "BROADWAY ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "?E4"
+        "units": ">E37"
+    },
+    {
+        "id": "SF2409166",
+        "date": "2024-07-14",
+        "time": "8:35:21 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
     },
     {
         "id": "MF2405810",
@@ -19,51 +41,7 @@
         "location": "1730 BAY RD ,EPA",
         "latitude": 37.471266014797,
         "longitude": -122.136956280652,
-        "units": "?E10"
-    },
-    {
-        "id": "NF2407854",
-        "date": "2024-07-14",
-        "time": "8:24:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BAYBERRY CIR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E71"
-    },
-    {
-        "id": "DF2401281",
-        "date": "2024-07-14",
-        "time": "8:17:53 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "TARRYTOWN ST ,EIC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T17"
-    },
-    {
-        "id": "FF2404004",
-        "date": "2024-07-14",
-        "time": "8:11:51 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / COUNTRY CLUB DR",
-        "latitude": 37.6460163279642,
-        "longitude": -122.427589918752,
-        "units": ">E61 ?TAC35 ?CM31X4"
-    },
-    {
-        "id": "SF2409165",
-        "date": "2024-07-14",
-        "time": "8:07:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm - smoke detector",
-        "location": "700 LAUREL AVE ,SMO",
-        "latitude": 37.5619406872266,
-        "longitude": -122.320673682428,
-        "units": "CM21X5 ?TAC25"
+        "units": ">E11"
     },
     {
         "id": "MF2405804",
@@ -74,6 +52,6 @@
         "location": "2091 BAY RD ,EPA",
         "latitude": 37.471730697279,
         "longitude": -122.13948235998,
-        "units": "E77 >PR1C PR1 >BS17 >BC2>T9 >E9 >E6 >E3 >E11"
+        "units": ">PR1 >E77 >PR1C >BS17 >T9>E9 >E6 >E3 >BC1 CM11X2"
     }
 ]
