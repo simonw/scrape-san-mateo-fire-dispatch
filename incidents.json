@@ -1,5 +1,16 @@
 [
     {
+        "id": "MF2405812",
+        "date": "2024-07-14",
+        "time": "10:23:26 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "WILLOW RD / BAY RD",
+        "latitude": 37.4663783910698,
+        "longitude": -122.156605902506,
+        "units": ">E1 T4 BC1 CM11X3 ?TAC16"
+    },
+    {
         "id": "CF2404802",
         "date": "2024-07-14",
         "time": "10:03:21 PM",
@@ -8,29 +19,7 @@
         "location": "NB 101 / SO MILLBRAE AVE",
         "latitude": 37.5969854169125,
         "longitude": -122.371638087183,
-        "units": "E34 T34 CM21X3 E37 BC8?TAC25"
-    },
-    {
-        "id": "CF2404801",
-        "date": "2024-07-14",
-        "time": "9:47:53 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FAGAN DR ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "NF2407856",
-        "date": "2024-07-14",
-        "time": "9:39:27 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SHEILA LN ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">T34 >E34 CM21X3 ?TAC25"
     },
     {
         "id": "MF2405804",
@@ -41,6 +30,6 @@
         "location": "2091 BAY RD ,EPA",
         "latitude": 37.471730697279,
         "longitude": -122.13948235998,
-        "units": ">T2 E77 >PR1C >PR1 CM11X2>E2 ?TAC15 >BC101 >SQ401"
+        "units": ">E77 >PR1 >PR1C CM11X2 >E2>SQ401 >BC101 >T2 ?TAC15"
     }
 ]
