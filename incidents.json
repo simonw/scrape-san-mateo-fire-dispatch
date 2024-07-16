@@ -1,14 +1,25 @@
 [
     {
-        "id": "WF2401159",
+        "id": "RF2407702",
         "date": "2024-07-16",
-        "time": "3:01:53 PM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "3:25:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ROSEMARY LN ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "SF2409266",
+        "date": "2024-07-16",
+        "time": "3:23:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Fire alarm - smoke detector",
-        "location": "45 TRIPP CT ,WDS",
-        "latitude": 37.4259716528109,
-        "longitude": -122.276044189163,
-        "units": "E7"
+        "location": "120 SEM LN #328 ,BLM",
+        "latitude": 37.5249242961001,
+        "longitude": -122.266962106106,
+        "units": "E14 BC5 T23 ?TAC15 ?CM11X3"
     },
     {
         "id": "FF2404026",
@@ -19,28 +30,6 @@
         "location": "542 GRAND AVE ,SSF",
         "latitude": 37.6571679138959,
         "longitude": -122.417737856042,
-        "units": ">E61 >BC17 CM31X1"
-    },
-    {
-        "id": "MF2405857",
-        "date": "2024-07-16",
-        "time": "2:38:19 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLEMAN PL ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2409264",
-        "date": "2024-07-16",
-        "time": "2:36:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FOSTER CITY BLVD #O2 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E61"
     }
 ]
