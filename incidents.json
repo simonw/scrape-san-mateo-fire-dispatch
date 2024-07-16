@@ -1,16 +1,5 @@
 [
     {
-        "id": "MF2405853",
-        "date": "2024-07-16",
-        "time": "12:04:40 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "UNIVERSITY AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
         "id": "SF2409256",
         "date": "2024-07-16",
         "time": "11:59:06 AM",
@@ -19,7 +8,7 @@
         "location": "CARLMONT DR #112E ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E15"
+        "units": ">E15"
     },
     {
         "id": "RF2407692",
@@ -30,18 +19,7 @@
         "location": "1044 MIDDLEFIELD RD #TRO ,RCY",
         "latitude": 37.4841360450849,
         "longitude": -122.227767725382,
-        "units": "E11"
-    },
-    {
-        "id": "RF2407691",
-        "date": "2024-07-16",
-        "time": "11:57:02 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WALNUT ST #101 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T9"
+        "units": ""
     },
     {
         "id": "BF2402465",
@@ -52,7 +30,7 @@
         "location": "HENSLEY AVE ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E51"
+        "units": ""
     },
     {
         "id": "FF2404024",
@@ -63,6 +41,6 @@
         "location": "OYSTER POINT BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E65"
+        "units": "E65"
     }
 ]
