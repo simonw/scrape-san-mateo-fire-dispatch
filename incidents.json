@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2407667",
+        "id": "MF2405839",
         "date": "2024-07-15",
-        "time": "8:35:17 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "9:01:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "PALM AVE ,RCY",
+        "location": "STERLING AVE ,WMP",
         "latitude": null,
         "longitude": null,
-        "units": ">E12"
+        "units": ">E4"
+    },
+    {
+        "id": "SF2409225",
+        "date": "2024-07-15",
+        "time": "8:56:09 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SKYMONT CT ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
     },
     {
         "id": "MF2405838",
@@ -19,18 +30,7 @@
         "location": "1235 CARLTON AVE ,MNP",
         "latitude": 37.474452336794,
         "longitude": -122.155375608954,
-        "units": ">BC101 >E2 >T2 >E77 ?TAC15?CM11X5"
-    },
-    {
-        "id": "RF2407666",
-        "date": "2024-07-15",
-        "time": "8:21:33 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "2421 MELENDY DR ,SNC",
-        "latitude": 37.492993691847,
-        "longitude": -122.268625519739,
-        "units": ">E16"
+        "units": "?TAC15 ?CM11X5"
     },
     {
         "id": "SF2409224",
@@ -42,27 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E25"
-    },
-    {
-        "id": "NF2407889",
-        "date": "2024-07-15",
-        "time": "8:11:48 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "VICTORIA WAY ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "SF2409223",
-        "date": "2024-07-15",
-        "time": "8:07:02 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FOSTER CITY BLVD ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E28"
     }
 ]
