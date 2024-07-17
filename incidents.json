@@ -1,5 +1,27 @@
 [
     {
+        "id": "BF2402473",
+        "date": "2024-07-16",
+        "time": "11:13:57 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / COMMODORE DR ,SNB",
+        "latitude": 37.6352010680088,
+        "longitude": -122.420391038716,
+        "units": ">T51"
+    },
+    {
+        "id": "MF2405874",
+        "date": "2024-07-16",
+        "time": "11:12:11 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "1773 WOODLAND AVE ,EPA",
+        "latitude": 37.4545301965167,
+        "longitude": -122.136106653988,
+        "units": ">E2"
+    },
+    {
         "id": "NF2407939",
         "date": "2024-07-16",
         "time": "11:06:11 PM",
@@ -8,29 +30,7 @@
         "location": "TALBOT AVE #M10 ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
-    },
-    {
-        "id": "MF2405873",
-        "date": "2024-07-16",
-        "time": "10:50:23 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MARLBOROUGH AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "DF2401297",
-        "date": "2024-07-16",
-        "time": "10:24:28 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "STAGE RD / PESCADERO CREEK RD ,PES",
-        "latitude": 37.2516279235126,
-        "longitude": -122.38286945541,
-        "units": "*>E59"
+        "units": ">E71"
     },
     {
         "id": "HF2401636",
@@ -41,6 +41,6 @@
         "location": "200 NEVADA AVE ,MBH",
         "latitude": 37.5240464600715,
         "longitude": -122.516159668908,
-        "units": ">E41 >TAC45 CG22A CM51X3"
+        "units": ">TAC45 >E41 CM51X3 CG22A"
     }
 ]
