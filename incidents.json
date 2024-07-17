@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2407745",
+        "id": "RF2407747",
         "date": "2024-07-17",
-        "time": "4:04:06 PM",
+        "time": "4:21:30 PM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - water flow",
-        "location": "210 REDWOOD SHORES PKWY ,RWS",
-        "latitude": 37.5226298360154,
-        "longitude": -122.251605180002,
-        "units": "E20"
+        "category": "Fire alarm - smoke detector",
+        "location": "35 INNER CIR ,RCY",
+        "latitude": 37.4765060119558,
+        "longitude": -122.246644298733,
+        "units": "E10"
+    },
+    {
+        "id": "RF2407746",
+        "date": "2024-07-17",
+        "time": "4:14:19 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E BAYSHORE RD #13 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "FF2404053",
+        "date": "2024-07-17",
+        "time": "4:11:38 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ALTA VISTA DR ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
     },
     {
         "id": "RF2407744",
@@ -19,18 +41,7 @@
         "location": "E OAKWOOD BLVD / OAKWOOD DR ,RCY",
         "latitude": 37.4679451789464,
         "longitude": -122.215630468377,
-        "units": "E9"
-    },
-    {
-        "id": "NF2407962",
-        "date": "2024-07-17",
-        "time": "4:02:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "NB 101 / NO SIERRA POINT PKWY ,BRS",
-        "latitude": 37.6927809446673,
-        "longitude": -122.391323110023,
-        "units": "CM31X1 E93 T51 E51 BC20?TAC36"
+        "units": ""
     },
     {
         "id": "SF2409306",
@@ -52,6 +63,6 @@
         "location": "800 EL CAMINO REAL #11 ,SSF",
         "latitude": 37.6522507819183,
         "longitude": -122.431348082302,
-        "units": "PR17A >E81 >OES31 >BC16 >E65TAC35 CM31X4 >Q62 >E64 >E61"
+        "units": ">PR17A >OES31 TAC35 CM31X4 >Q62>E61 >BC17 >E63"
     }
 ]
