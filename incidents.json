@@ -1,5 +1,49 @@
 [
     {
+        "id": "MF2405920",
+        "date": "2024-07-18",
+        "time": "12:41:33 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CONSTITUTION DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E77"
+    },
+    {
+        "id": "FF2404061",
+        "date": "2024-07-18",
+        "time": "12:35:06 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "ECCLES AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "NF2407977",
+        "date": "2024-07-18",
+        "time": "12:30:46 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HAMPSHIRE AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "MF2405918",
+        "date": "2024-07-18",
+        "time": "12:24:26 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "RUNNYMEDE ST / PULGAS AVE ,EPA",
+        "latitude": 37.4686860285653,
+        "longitude": -122.130293161126,
+        "units": ">E2"
+    },
+    {
         "id": "MF2405917",
         "date": "2024-07-18",
         "time": "12:18:15 PM",
@@ -8,18 +52,7 @@
         "location": "WILLOW RD / GILBERT AVE ,MNP",
         "latitude": 37.4602178291707,
         "longitude": -122.161028001571,
-        "units": ">T2 >SQ401 >E1 >BC1 CM11X2?TAC15"
-    },
-    {
-        "id": "NF2407976",
-        "date": "2024-07-18",
-        "time": "12:13:01 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MARINER LN ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": "CM11X2 >BC1 ?TAC15 >E1 >SQ401"
     },
     {
         "id": "SF2409340",
@@ -30,7 +63,7 @@
         "location": "E 3RD AVE / S DELAWARE ST ,SMO",
         "latitude": 37.5671281985217,
         "longitude": -122.320058531086,
-        "units": ">E24 >E21 CM21X4 ?TAC25"
+        "units": ">E24"
     },
     {
         "id": "SF2409338",
@@ -41,6 +74,6 @@
         "location": "1717 HILLMAN AVE ,BLM",
         "latitude": 37.5254449791371,
         "longitude": -122.2924314479,
-        "units": "*>BC5 >E15"
+        "units": ">E15"
     }
 ]
