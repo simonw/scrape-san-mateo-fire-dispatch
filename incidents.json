@@ -1,14 +1,36 @@
 [
     {
-        "id": "NF2407985",
+        "id": "SF2409351",
         "date": "2024-07-18",
-        "time": "4:17:27 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "4:39:54 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "MISSION ST ,DCY",
+        "location": "N DELAWARE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": "E24"
+    },
+    {
+        "id": "CF2404888",
+        "date": "2024-07-18",
+        "time": "4:34:48 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Carbon monoxide alarm",
+        "location": "35 CINNAMON CT ,HIL",
+        "latitude": 37.5656886921684,
+        "longitude": -122.378388482052,
+        "units": ">E33"
+    },
+    {
+        "id": "CF2404887",
+        "date": "2024-07-18",
+        "time": "4:24:56 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Water rescue response",
+        "location": "1125 AIRPORT BLVD ,BRM",
+        "latitude": 37.5905569336978,
+        "longitude": -122.338592177784,
+        "units": "BOAT11 JS28"
     },
     {
         "id": "FF2404063",
@@ -19,7 +41,7 @@
         "location": "1300 VETERANS BLVD ,SSF",
         "latitude": 37.6659729323026,
         "longitude": -122.394435704439,
-        "units": "BOAT11 E63 CM51X4 JS28 >E65>Q62 BC17 CG22A ?TAC36 ?BOAT62"
+        "units": "*>E63 >BC17 >Q62 >E65 CM51X4?TAC36 ?BOAT62"
     },
     {
         "id": "NF2407984",
@@ -30,39 +52,6 @@
         "location": "368 IMPERIAL WAY ,DCY",
         "latitude": 37.6659652460316,
         "longitude": -122.463959013715,
-        "units": "?TAC35 >E92 CM31X2 >T95 E95>E94 >BC20"
-    },
-    {
-        "id": "SF2409350",
-        "date": "2024-07-18",
-        "time": "4:12:10 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "LAKE RD #308 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "MF2405927",
-        "date": "2024-07-18",
-        "time": "4:03:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CRANE ST #231A ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "NF2407983",
-        "date": "2024-07-18",
-        "time": "3:51:08 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAUSANNE AVE #2 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E92 >E95 >E94 >BC20"
     }
 ]
