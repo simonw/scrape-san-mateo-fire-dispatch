@@ -1,5 +1,71 @@
 [
     {
+        "id": "SF2409451",
+        "date": "2024-07-20",
+        "time": "12:03:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "HILLSDALE MALL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "RF2407869",
+        "date": "2024-07-20",
+        "time": "12:02:30 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "INDUSTRIAL RD ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E16"
+    },
+    {
+        "id": "HF2401661",
+        "date": "2024-07-20",
+        "time": "11:58:28 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Structure fire",
+        "location": "99 SAN MATEO RD ,HMB",
+        "latitude": 37.4675754757188,
+        "longitude": -122.430315529483,
+        "units": ">BC10 >E40 E41 E44 E72CM41X5 ?TAC45"
+    },
+    {
+        "id": "NF2408057",
+        "date": "2024-07-20",
+        "time": "11:52:56 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EATON AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "BF2402517",
+        "date": "2024-07-20",
+        "time": "11:52:13 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "NATIONAL AVE #2123 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T51"
+    },
+    {
+        "id": "DF2401312",
+        "date": "2024-07-20",
+        "time": "11:44:55 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOODS POINT WAY ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17"
+    },
+    {
         "id": "SF2409450",
         "date": "2024-07-20",
         "time": "11:41:42 AM",
@@ -8,7 +74,7 @@
         "location": "SIXTH AVE #225 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E14"
     },
     {
         "id": "CF2404942",
@@ -19,40 +85,7 @@
         "location": "765 BROMFIELD RD ,HIL",
         "latitude": 37.5656014282306,
         "longitude": -122.35185913053,
-        "units": ">T34 >E34 >E33 >BC8 E21?TAC25 ?CM21X2"
-    },
-    {
-        "id": "FF2404100",
-        "date": "2024-07-20",
-        "time": "11:33:46 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "SUSIE WAY #2 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "FF2404099",
-        "date": "2024-07-20",
-        "time": "11:31:13 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "CLIFDEN DR ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "RF2407868",
-        "date": "2024-07-20",
-        "time": "11:30:23 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HIGHLAND AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ""
     },
     {
         "id": "RF2407867",
@@ -63,7 +96,7 @@
         "location": "SEAPORT BLVD ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">BOAT11 >E11 >BC3 >T9 CM51X1?CG22A"
+        "units": ">BOAT11"
     },
     {
         "id": "CF2404940",
@@ -75,16 +108,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E32"
-    },
-    {
-        "id": "FF2404095",
-        "date": "2024-07-20",
-        "time": "9:35:02 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Vehicle fire",
-        "location": "138 ESCANYO DR ,SSF",
-        "latitude": 37.650894255222,
-        "longitude": -122.448815505568,
-        "units": ">E64"
     }
 ]
