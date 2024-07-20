@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2409426",
+        "date": "2024-07-19",
+        "time": "7:16:24 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S B ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "T21"
+    },
+    {
+        "id": "NF2408033",
+        "date": "2024-07-19",
+        "time": "7:06:25 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "6543 MISSION ST ,DCY",
+        "latitude": 37.7034623133302,
+        "longitude": -122.462761044657,
+        "units": ">E92"
+    },
+    {
+        "id": "RF2407844",
+        "date": "2024-07-19",
+        "time": "7:04:29 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "30 BURBANK AVE ,RCY",
+        "latitude": 37.4819422269764,
+        "longitude": -122.211571442643,
+        "units": ">E11"
+    },
+    {
         "id": "CF2404922",
         "date": "2024-07-19",
         "time": "6:41:17 PM",
@@ -8,7 +41,7 @@
         "location": "SB 101 / SO BROADWAY ,BRM",
         "latitude": 37.5866627903477,
         "longitude": -122.334833597726,
-        "units": "E26 T34 TAC26 BC8 >E37?CM21X1"
+        "units": ">E37"
     },
     {
         "id": "FF2404083",
@@ -19,18 +52,7 @@
         "location": "MILLER AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2408032",
-        "date": "2024-07-19",
-        "time": "6:31:31 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BAY RIDGE DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
+        "units": "E61"
     },
     {
         "id": "SF2409424",
@@ -41,39 +63,6 @@
         "location": "NB 101 / SO E 3RD AVE ,SMO",
         "latitude": 37.5750510119517,
         "longitude": -122.318419501939,
-        "units": ">T21 >E21 >BC5 TAC25 ?CM21X4"
-    },
-    {
-        "id": "CF2404920",
-        "date": "2024-07-19",
-        "time": "6:29:32 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1076 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2409423",
-        "date": "2024-07-19",
-        "time": "6:27:05 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COYOTE POINT DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "CF2404921",
-        "date": "2024-07-19",
-        "time": "6:24:21 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "1396 EL CAMINO REAL ,MLB",
-        "latitude": 37.6107197614931,
-        "longitude": -122.401126882352,
-        "units": "T51"
+        "units": ">E21"
     }
 ]
