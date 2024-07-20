@@ -1,14 +1,58 @@
 [
     {
-        "id": "BF2402514",
+        "id": "BF2402515",
         "date": "2024-07-20",
-        "time": "10:01:55 AM",
+        "time": "10:24:57 AM",
         "summary": "San Bruno Fire on Control-3",
         "category": "Medical aid",
-        "location": "JUNIPER AVE ,SNB",
+        "location": "NATIONAL AVE #2123 ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": "E51"
+        "units": "?E51"
+    },
+    {
+        "id": "WF2401188",
+        "date": "2024-07-20",
+        "time": "10:23:43 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SOUTHDALE WAY / WOODSIDE WAY ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E19"
+    },
+    {
+        "id": "NF2408056",
+        "date": "2024-07-20",
+        "time": "10:13:07 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CHANNING WAY ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "CF2404939",
+        "date": "2024-07-20",
+        "time": "10:11:58 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "SF2409448",
+        "date": "2024-07-20",
+        "time": "10:09:12 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #310C ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
     },
     {
         "id": "SF2409447",
@@ -19,40 +63,7 @@
         "location": "MARLIN AVE #3 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "NF2408055",
-        "date": "2024-07-20",
-        "time": "9:44:26 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, ladder request",
-        "location": "1800 SADDLEBACK DR ,DCY",
-        "latitude": 37.707172932793,
-        "longitude": -122.424677391938,
-        "units": ">E81"
-    },
-    {
-        "id": "FF2404097",
-        "date": "2024-07-20",
-        "time": "9:43:07 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "1700 EL CAMINO REAL ,SSF",
-        "latitude": 37.6669637186074,
-        "longitude": -122.450663722253,
-        "units": ">E65"
-    },
-    {
-        "id": "BF2402513",
-        "date": "2024-07-20",
-        "time": "9:36:39 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Elevator rescue",
-        "location": "1150 EL CAMINO REAL #300 ,SNB",
-        "latitude": 37.6364709775789,
-        "longitude": -122.416803771445,
-        "units": ">T51"
+        "units": ""
     },
     {
         "id": "FF2404095",
@@ -64,16 +75,5 @@
         "latitude": 37.650894255222,
         "longitude": -122.448815505568,
         "units": ">E64"
-    },
-    {
-        "id": "CF2404938",
-        "date": "2024-07-20",
-        "time": "9:34:07 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TIOGA DR ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
