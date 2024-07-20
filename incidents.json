@@ -1,5 +1,49 @@
 [
     {
+        "id": "BF2402514",
+        "date": "2024-07-20",
+        "time": "10:01:55 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPER AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E51"
+    },
+    {
+        "id": "SF2409447",
+        "date": "2024-07-20",
+        "time": "9:49:28 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MARLIN AVE #3 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "NF2408055",
+        "date": "2024-07-20",
+        "time": "9:44:26 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist, ladder request",
+        "location": "1800 SADDLEBACK DR ,DCY",
+        "latitude": 37.707172932793,
+        "longitude": -122.424677391938,
+        "units": ">E81"
+    },
+    {
+        "id": "FF2404097",
+        "date": "2024-07-20",
+        "time": "9:43:07 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Carbon monoxide alarm",
+        "location": "1700 EL CAMINO REAL ,SSF",
+        "latitude": 37.6669637186074,
+        "longitude": -122.450663722253,
+        "units": ">E65"
+    },
+    {
         "id": "BF2402513",
         "date": "2024-07-20",
         "time": "9:36:39 AM",
@@ -8,18 +52,7 @@
         "location": "1150 EL CAMINO REAL #300 ,SNB",
         "latitude": 37.6364709775789,
         "longitude": -122.416803771445,
-        "units": "T51"
-    },
-    {
-        "id": "SF2409446",
-        "date": "2024-07-20",
-        "time": "9:35:13 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHELL BLVD #B ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
+        "units": ">T51"
     },
     {
         "id": "FF2404095",
@@ -30,7 +63,7 @@
         "location": "138 ESCANYO DR ,SSF",
         "latitude": 37.650894255222,
         "longitude": -122.448815505568,
-        "units": ">E64 >CM31X1 ?E61"
+        "units": ">E64"
     },
     {
         "id": "CF2404938",
@@ -42,60 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "FF2404094",
-        "date": "2024-07-20",
-        "time": "9:33:14 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm - water flow",
-        "location": "301 E GRAND AVE ,SSF",
-        "latitude": 37.6521733809765,
-        "longitude": -122.391119971772,
-        "units": ">Q62"
-    },
-    {
-        "id": "BF2402512",
-        "date": "2024-07-20",
-        "time": "9:29:23 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #300 ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
-    },
-    {
-        "id": "HF2401660",
-        "date": "2024-07-20",
-        "time": "9:28:53 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ARNOLD WAY #213 ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "FF2404093",
-        "date": "2024-07-20",
-        "time": "9:27:19 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "OAK AVE #305 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "BF2402511",
-        "date": "2024-07-20",
-        "time": "9:19:09 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "COLLEGE DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E52"
     }
 ]
