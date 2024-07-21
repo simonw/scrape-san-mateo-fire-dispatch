@@ -1,5 +1,71 @@
 [
     {
+        "id": "RF2407903",
+        "date": "2024-07-21",
+        "time": "10:42:44 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WARRINGTON AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E11"
+    },
+    {
+        "id": "SF2409494",
+        "date": "2024-07-21",
+        "time": "10:41:38 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E15"
+    },
+    {
+        "id": "MF2405996",
+        "date": "2024-07-21",
+        "time": "10:35:50 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ALMANOR AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "FF2404122",
+        "date": "2024-07-21",
+        "time": "10:34:28 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "233 8TH LN ,SSF",
+        "latitude": 37.6590889071756,
+        "longitude": -122.407881083367,
+        "units": ">E65"
+    },
+    {
+        "id": "MF2405995",
+        "date": "2024-07-21",
+        "time": "10:28:58 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "E O'KEEFE ST #306 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2409493",
+        "date": "2024-07-21",
+        "time": "10:25:35 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PILGRIM DR ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "*>E29"
+    },
+    {
         "id": "SF2409492",
         "date": "2024-07-21",
         "time": "10:23:11 AM",
@@ -8,18 +74,7 @@
         "location": "BALDWIN AVE #911 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "CF2404958",
-        "date": "2024-07-21",
-        "time": "10:21:10 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "735 HILLSBOROUGH BLVD ,HIL",
-        "latitude": 37.5680602713988,
-        "longitude": -122.355671519389,
-        "units": "E32"
+        "units": ">E21"
     },
     {
         "id": "DF2401320",
@@ -30,18 +85,7 @@
         "location": "CABRILLO HWY S / LA HONDA RD ,SNG",
         "latitude": 37.3245009945071,
         "longitude": -122.399899192199,
-        "units": ">R57 >BC10 >E40 >E59 TAC15"
-    },
-    {
-        "id": "DF2401319",
-        "date": "2024-07-21",
-        "time": "8:19:40 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "2001 BEAR GULCH RD ,SKY",
-        "latitude": 37.3920879222226,
-        "longitude": -122.295530219398,
-        "units": ">E356"
+        "units": ">E40 >E59 >BC10 TAC15 >R57"
     },
     {
         "id": "SF2409485",
@@ -52,6 +96,6 @@
         "location": "1442 CARY AVE ,SMO",
         "latitude": 37.5722847829676,
         "longitude": -122.310414241465,
-        "units": ">E28 >CM21X1 >E24"
+        "units": ">E28"
     }
 ]
