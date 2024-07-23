@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2409564",
+        "id": "SF2409566",
         "date": "2024-07-23",
-        "time": "12:31:49 AM",
+        "time": "1:02:32 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Carbon monoxide alarm",
-        "location": "1727 DEWEY ST ,SMO",
-        "latitude": 37.5598918507112,
-        "longitude": -122.294029797373,
+        "category": "Fire alarm - smoke detector",
+        "location": "311 WATERS PARK CIR ,SMO",
+        "latitude": 37.551490238213,
+        "longitude": -122.290525632682,
+        "units": "E29"
+    },
+    {
+        "id": "CF2404992",
+        "date": "2024-07-23",
+        "time": "1:01:51 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S ASHTON AVE ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E37"
+    },
+    {
+        "id": "SF2409565",
+        "date": "2024-07-23",
+        "time": "12:57:22 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "KEHOE AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
         "units": ">E26"
+    },
+    {
+        "id": "RF2407965",
+        "date": "2024-07-23",
+        "time": "12:52:06 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "DUANE ST #5 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "NF2408146",
+        "date": "2024-07-23",
+        "time": "12:48:31 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MONTEZUMA DR ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E72"
     },
     {
         "id": "SF2409563",
@@ -20,16 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E23"
-    },
-    {
-        "id": "NF2408144",
-        "date": "2024-07-23",
-        "time": "12:30:19 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "TRANQUILITY CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
     }
 ]
