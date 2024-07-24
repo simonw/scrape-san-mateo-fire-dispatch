@@ -1,47 +1,80 @@
 [
     {
-        "id": "SF2409600",
+        "id": "SF2409602",
         "date": "2024-07-23",
-        "time": "8:31:22 PM",
+        "time": "9:04:48 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVE ,SMO",
+        "location": "S EL CAMINO REAL ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E25"
+    },
+    {
+        "id": "NF2408174",
+        "date": "2024-07-23",
+        "time": "9:03:34 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "REICHLING AVE ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "RF2408003",
+        "date": "2024-07-23",
+        "time": "9:02:04 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BUCKLAND AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "SF2409601",
+        "date": "2024-07-23",
+        "time": "9:00:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S GRANT ST #3 ,SMO",
         "latitude": null,
         "longitude": null,
         "units": ">E24"
     },
     {
-        "id": "HF2401678",
+        "id": "FF2404165",
         "date": "2024-07-23",
-        "time": "8:26:53 PM",
+        "time": "9:00:12 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Elevator rescue",
+        "location": "300 GATEWAY BLVD ,SSF",
+        "latitude": 37.6560162072702,
+        "longitude": -122.400339193572,
+        "units": ">Q62"
+    },
+    {
+        "id": "HF2401680",
+        "date": "2024-07-23",
+        "time": "8:52:20 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Trash fire",
+        "location": "800 SANTIAGO AVE ,ELG",
+        "latitude": 37.500141080709,
+        "longitude": -122.460359360001,
+        "units": ""
+    },
+    {
+        "id": "HF2401679",
+        "date": "2024-07-23",
+        "time": "8:48:15 PM",
         "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "LORYN LN ,HMB",
+        "location": "SPRUCE ST ,HMB",
         "latitude": null,
         "longitude": null,
         "units": ">E40"
-    },
-    {
-        "id": "FF2404164",
-        "date": "2024-07-23",
-        "time": "8:19:57 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "COTTONWOOD AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2409599",
-        "date": "2024-07-23",
-        "time": "8:18:56 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ROSSI WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     },
     {
         "id": "MF2406051",
@@ -52,6 +85,6 @@
         "location": "NEWBRIDGE ST / HENDERSON AVE ,MNP",
         "latitude": 37.4747019381351,
         "longitude": -122.160264926593,
-        "units": ">E77"
+        "units": ""
     }
 ]
