@@ -1,5 +1,27 @@
 [
     {
+        "id": "MF2406089",
+        "date": "2024-07-25",
+        "time": "12:48:26 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "6 MAPLE AVE ,ATN",
+        "latitude": 37.4603622178717,
+        "longitude": -122.198353902787,
+        "units": ">E3"
+    },
+    {
+        "id": "MF2406088",
+        "date": "2024-07-25",
+        "time": "12:45:36 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MESA CT ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T4"
+    },
+    {
         "id": "RF2408071",
         "date": "2024-07-25",
         "time": "12:39:19 PM",
@@ -8,7 +30,7 @@
         "location": "400 COUNTY CN ,RCY",
         "latitude": 37.4884170053135,
         "longitude": -122.230666083051,
-        "units": ">E9 >T9 ?TAC15 ?CM11X1"
+        "units": ">T9 >E9 ?CM11X1 ?TAC15"
     },
     {
         "id": "MF2406087",
@@ -20,38 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "NF2408242",
-        "date": "2024-07-25",
-        "time": "12:28:23 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "588 MOANA WAY ,PCF",
-        "latitude": 37.63146065868,
-        "longitude": -122.482929886219,
-        "units": ""
-    },
-    {
-        "id": "RF2408070",
-        "date": "2024-07-25",
-        "time": "12:24:11 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "REDWOOD AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "BF2402576",
-        "date": "2024-07-25",
-        "time": "11:39:15 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Fire alarm - manual",
-        "location": "2000 CRYSTAL SPRINGS RD ,SNB",
-        "latitude": 37.6064502458462,
-        "longitude": -122.426997019799,
-        "units": "?SBFINV >T51"
     }
 ]
