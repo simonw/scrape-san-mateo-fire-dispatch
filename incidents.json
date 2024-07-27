@@ -1,5 +1,60 @@
 [
     {
+        "id": "MF2406128",
+        "date": "2024-07-26",
+        "time": "8:41:33 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Trash fire",
+        "location": "3301 EL CAMINO REAL ,NFO",
+        "latitude": 37.4665026476931,
+        "longitude": -122.207367718631,
+        "units": "E3"
+    },
+    {
+        "id": "FF2404220",
+        "date": "2024-07-26",
+        "time": "8:37:21 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "911 MARINA BLVD ,SSF",
+        "latitude": 37.6619891618369,
+        "longitude": -122.377506465624,
+        "units": "E65"
+    },
+    {
+        "id": "RF2408135",
+        "date": "2024-07-26",
+        "time": "8:36:40 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "SEAPORT BLVD / BLOMQUIST ST ,RCY",
+        "latitude": 37.4929867127668,
+        "longitude": -122.213510776097,
+        "units": ">BC3 >E11 E10 E9 T9CM11X2 ?TAC15"
+    },
+    {
+        "id": "MF2406126",
+        "date": "2024-07-26",
+        "time": "8:36:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "KAVANAUGH DR ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "RF2408134",
+        "date": "2024-07-26",
+        "time": "8:27:56 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SAN CARLOS AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
         "id": "SF2409754",
         "date": "2024-07-26",
         "time": "8:26:22 PM",
@@ -8,29 +63,7 @@
         "location": "THAYER LN #506 ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
-    },
-    {
-        "id": "NF2408279",
-        "date": "2024-07-26",
-        "time": "8:13:44 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "EL PORTAL WAY ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "HF2401704",
-        "date": "2024-07-26",
-        "time": "8:13:40 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SPRUCE ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E41"
+        "units": ">E29"
     },
     {
         "id": "BF2402592",
@@ -44,28 +77,6 @@
         "units": ">E51"
     },
     {
-        "id": "SF2409753",
-        "date": "2024-07-26",
-        "time": "8:06:59 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "NOE AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2401233",
-        "date": "2024-07-26",
-        "time": "8:03:39 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CERVANTES RD ,PVY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E8"
-    },
-    {
         "id": "SF2409750",
         "date": "2024-07-26",
         "time": "6:49:01 PM",
@@ -74,6 +85,6 @@
         "location": "30 LAKESIDE DR ,FCY",
         "latitude": 37.5721818430181,
         "longitude": -122.279554872808,
-        "units": ">BOAT14 >JS28 >BC5 CM51X5 ?CG22A"
+        "units": ">JS28 >BOAT14"
     }
 ]
