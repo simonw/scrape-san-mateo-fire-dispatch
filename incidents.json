@@ -1,5 +1,27 @@
 [
     {
+        "id": "FF2404254",
+        "date": "2024-07-28",
+        "time": "11:40:07 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "POPLAR AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "MF2406168",
+        "date": "2024-07-28",
+        "time": "11:34:00 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COLEMAN PL #1A ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E1"
+    },
+    {
         "id": "FF2404253",
         "date": "2024-07-28",
         "time": "11:26:47 AM",
@@ -8,7 +30,7 @@
         "location": "CLAY AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "E64"
+        "units": ">E64"
     },
     {
         "id": "SF2409807",
@@ -19,18 +41,7 @@
         "location": "N DELAWARE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
-    },
-    {
-        "id": "BF2402603",
-        "date": "2024-07-28",
-        "time": "11:19:07 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "JENEVEIN AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
+        "units": ">E21"
     },
     {
         "id": "CF2405122",
@@ -55,17 +66,6 @@
         "units": ">E63"
     },
     {
-        "id": "RF2408200",
-        "date": "2024-07-28",
-        "time": "11:07:06 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "781 LAUREL ST ,SNC",
-        "latitude": 37.5042831892173,
-        "longitude": -122.258039055982,
-        "units": ">E13"
-    },
-    {
         "id": "WF2401243",
         "date": "2024-07-28",
         "time": "10:58:38 AM",
@@ -75,16 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E19"
-    },
-    {
-        "id": "CF2405121",
-        "date": "2024-07-28",
-        "time": "10:54:16 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "150 PARK RD ,BRM",
-        "latitude": 37.5767350387357,
-        "longitude": -122.345032966382,
-        "units": ">E34"
     }
 ]
