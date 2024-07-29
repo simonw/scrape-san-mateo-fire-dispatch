@@ -1,11 +1,44 @@
 [
     {
-        "id": "FF2404273",
+        "id": "RF2408235",
         "date": "2024-07-29",
-        "time": "11:28:22 AM",
+        "time": "12:02:32 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "ENSENADA RD ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "SF2409846",
+        "date": "2024-07-29",
+        "time": "12:01:40 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PONCE AVE ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "SF2409845",
+        "date": "2024-07-29",
+        "time": "11:57:40 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Sparking/arcing wires down",
+        "location": "382 BISCAYNE AVE ,FCY",
+        "latitude": 37.5362458499851,
+        "longitude": -122.269966009423,
+        "units": "E29"
+    },
+    {
+        "id": "FF2404274",
+        "date": "2024-07-29",
+        "time": "11:49:39 AM",
         "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "KENWOOD WAY ,SSF",
+        "location": "COUNTRY CLUB DR ,SSF",
         "latitude": null,
         "longitude": null,
         "units": ">E63"
@@ -22,28 +55,6 @@
         "units": ">E64"
     },
     {
-        "id": "MF2406197",
-        "date": "2024-07-29",
-        "time": "11:17:52 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,ATN",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E6"
-    },
-    {
-        "id": "MF2406195",
-        "date": "2024-07-29",
-        "time": "11:08:43 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "GLORIA WAY ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": "E2"
-    },
-    {
         "id": "CF2405143",
         "date": "2024-07-29",
         "time": "11:08:29 AM",
@@ -52,6 +63,6 @@
         "location": "1007 HEMLOCK AVE ,MLB",
         "latitude": 37.6059651740288,
         "longitude": -122.39377873912,
-        "units": ">BC16 >E37 >E38 CM21X5 ?TAC25"
+        "units": ">E38 CM21X5 >BC16 >E37 ?TAC25"
     }
 ]
