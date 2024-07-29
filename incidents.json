@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2408226",
+        "date": "2024-07-29",
+        "time": "9:27:41 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TRUMAN ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "BF2402617",
+        "date": "2024-07-29",
+        "time": "9:24:19 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "CRYSTAL SPRINGS RD #1013 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E52"
+    },
+    {
+        "id": "NF2408383",
+        "date": "2024-07-29",
+        "time": "9:18:16 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Odor investigation",
+        "location": "1132 DE SOLO DR ,PCF",
+        "latitude": 37.5961113822433,
+        "longitude": -122.499512899917,
+        "units": ">E72"
+    },
+    {
+        "id": "NF2408382",
+        "date": "2024-07-29",
+        "time": "9:14:13 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KING DR #126 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
         "id": "MF2406194",
         "date": "2024-07-29",
         "time": "9:03:10 AM",
@@ -8,29 +52,7 @@
         "location": "W SELBY LN ,WSB",
         "latitude": null,
         "longitude": null,
-        "units": "E3"
-    },
-    {
-        "id": "SF2409840",
-        "date": "2024-07-29",
-        "time": "8:59:40 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SUZIE ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "FF2404268",
-        "date": "2024-07-29",
-        "time": "8:58:25 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "DEL MONTE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">E3"
     },
     {
         "id": "SF2409839",
@@ -41,29 +63,7 @@
         "location": "S NORFOLK ST / FASHION ISLAND BLVD ,SMO",
         "latitude": 37.5542165431378,
         "longitude": -122.291698714802,
-        "units": ">E26 >BC5 T21 CM21X2 ?TAC25"
-    },
-    {
-        "id": "MF2406193",
-        "date": "2024-07-29",
-        "time": "8:56:30 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ADDISON AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
-    },
-    {
-        "id": "NF2408381",
-        "date": "2024-07-29",
-        "time": "8:55:35 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ANZA DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": ">T21 >E26 >BC5 CM21X2 ?TAC25"
     },
     {
         "id": "NF2408380",
@@ -74,18 +74,7 @@
         "location": "GREEN RIDGE DR #6 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "RF2408225",
-        "date": "2024-07-29",
-        "time": "8:52:28 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": "E91"
     },
     {
         "id": "CF2405142",
@@ -97,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E37"
-    },
-    {
-        "id": "DF2401371",
-        "date": "2024-07-29",
-        "time": "8:31:29 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Tree down",
-        "location": "CABRILLO HWY / NEW YEARS CREEK RD ,SOS",
-        "latitude": 37.1247700990933,
-        "longitude": -122.308232607311,
-        "units": ">E659"
     }
 ]
