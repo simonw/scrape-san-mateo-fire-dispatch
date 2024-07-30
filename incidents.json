@@ -1,5 +1,27 @@
 [
     {
+        "id": "NF2408434",
+        "date": "2024-07-30",
+        "time": "2:40:48 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "6543 MISSION ST ,DCY",
+        "latitude": 37.7034623133302,
+        "longitude": -122.462761044657,
+        "units": "E92"
+    },
+    {
+        "id": "SF2409891",
+        "date": "2024-07-30",
+        "time": "2:38:42 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N DELAWARE ST #301 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E24"
+    },
+    {
         "id": "MF2406225",
         "date": "2024-07-30",
         "time": "2:19:23 PM",
@@ -8,7 +30,7 @@
         "location": "795 WILLOW RD ,MNP",
         "latitude": 37.4663546046411,
         "longitude": -122.160234197566,
-        "units": "E6 T2 E5 CM11X2 BC1?TAC15 E1"
+        "units": ">E1"
     },
     {
         "id": "MF2406224",
@@ -19,39 +41,6 @@
         "location": "907 NEWBRIDGE ST ,EPA",
         "latitude": 37.4728987768982,
         "longitude": -122.153928071271,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2409890",
-        "date": "2024-07-30",
-        "time": "2:09:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "7TH AVE / LAUREL AVE ,SMO",
-        "latitude": 37.5620069628936,
-        "longitude": -122.320651147365,
-        "units": ">E21"
-    },
-    {
-        "id": "RF2408300",
-        "date": "2024-07-30",
-        "time": "2:08:35 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "KELTON AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "RF2408299",
-        "date": "2024-07-30",
-        "time": "2:02:31 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MADDUX DR ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
+        "units": "*>E2"
     }
 ]
