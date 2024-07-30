@@ -1,36 +1,69 @@
 [
     {
-        "id": "MF2406217",
+        "id": "MF2406218",
         "date": "2024-07-30",
-        "time": "11:05:18 AM",
+        "time": "11:26:49 AM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "NB 101 / SO MARSH RD ,MNP",
-        "latitude": 37.4775715102468,
-        "longitude": -122.169821019453,
-        "units": "E2 ?TAC16 ?CM11X4 ?E5 ?BC101?T2"
-    },
-    {
-        "id": "RF2408290",
-        "date": "2024-07-30",
-        "time": "10:51:43 AM",
-        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "JEFFERSON AVE ,RCY",
+        "location": "RALMAR AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": "E2"
     },
     {
-        "id": "SF2409879",
+        "id": "SF2409882",
         "date": "2024-07-30",
-        "time": "10:47:06 AM",
+        "time": "11:23:59 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CARLMONT DR #310C ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "SF2409880",
+        "date": "2024-07-30",
+        "time": "11:22:11 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
         "location": "S EL CAMINO REAL ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ""
+        "units": ">E27"
+    },
+    {
+        "id": "SF2409881",
+        "date": "2024-07-30",
+        "time": "11:18:06 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "1490 MIRAMAR #110 ,SMO",
+        "latitude": 37.5544794215048,
+        "longitude": -122.285977471664,
+        "units": "E26"
+    },
+    {
+        "id": "HF2401730",
+        "date": "2024-07-30",
+        "time": "11:17:55 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SUNSET TE ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "NF2408428",
+        "date": "2024-07-30",
+        "time": "11:12:10 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GELLERT BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
     },
     {
         "id": "WF2401255",
@@ -41,7 +74,7 @@
         "location": "KINGS MOUNTAIN RD ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": "ERV7 >E19 ?TAC15 CM11X5"
+        "units": ">E19"
     },
     {
         "id": "DF2401383",
@@ -52,6 +85,6 @@
         "location": "SKYLINE BLVD / BEAR GULCH RD ,SKY",
         "latitude": null,
         "longitude": null,
-        "units": ">E58 >R56 ?TAC45"
+        "units": ""
     }
 ]
