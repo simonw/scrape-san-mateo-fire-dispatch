@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2408433",
+        "id": "MF2406225",
         "date": "2024-07-30",
-        "time": "2:05:43 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "2:19:23 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "795 WILLOW RD ,MNP",
+        "latitude": 37.4663546046411,
+        "longitude": -122.160234197566,
+        "units": "E6 T2 E5 CM11X2 BC1?TAC15 E1"
+    },
+    {
+        "id": "MF2406224",
+        "date": "2024-07-30",
+        "time": "2:15:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "907 NEWBRIDGE ST ,EPA",
+        "latitude": 37.4728987768982,
+        "longitude": -122.153928071271,
+        "units": ">E2"
+    },
+    {
+        "id": "SF2409890",
+        "date": "2024-07-30",
+        "time": "2:09:57 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "7TH AVE / LAUREL AVE ,SMO",
+        "latitude": 37.5620069628936,
+        "longitude": -122.320651147365,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2408300",
+        "date": "2024-07-30",
+        "time": "2:08:35 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "KING DR ,DCY",
+        "location": "KELTON AVE ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "?E94"
+        "units": ">E16"
     },
     {
         "id": "RF2408299",
@@ -19,28 +52,6 @@
         "location": "MADDUX DR ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "MF2406222",
-        "date": "2024-07-30",
-        "time": "1:29:01 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLEMAN AVE #A ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E1"
-    },
-    {
-        "id": "SF2409889",
-        "date": "2024-07-30",
-        "time": "1:18:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "STATION PARK CIR #334 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E12"
     }
 ]
