@@ -1,5 +1,49 @@
 [
     {
+        "id": "DF2401388",
+        "date": "2024-07-31",
+        "time": "11:04:44 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TARRYTOWN ST ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E217"
+    },
+    {
+        "id": "SF2409934",
+        "date": "2024-07-31",
+        "time": "11:04:25 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATSONIA DR ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E28"
+    },
+    {
+        "id": "NF2408467",
+        "date": "2024-07-31",
+        "time": "11:01:53 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "JOHN DALY BLVD / SKYLINE BLVD ,DCY",
+        "latitude": 37.6984508080946,
+        "longitude": -122.494863325599,
+        "units": ">E95 >BC20 CM31X4 T95 ?TAC35"
+    },
+    {
+        "id": "DF2401387",
+        "date": "2024-07-31",
+        "time": "10:51:02 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LEXINGTON AVE ,EIC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E17 CM11X1 >CH10A"
+    },
+    {
         "id": "SF2409933",
         "date": "2024-07-31",
         "time": "10:43:04 AM",
@@ -8,7 +52,7 @@
         "location": "REGULUS ST ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "?E29"
+        "units": ""
     },
     {
         "id": "CF2405190",
@@ -19,7 +63,7 @@
         "location": "COSTA RICA AVE ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": ""
     },
     {
         "id": "HF2401735",
@@ -30,29 +74,7 @@
         "location": "N CABRILLO HWY ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "FF2404317",
-        "date": "2024-07-31",
-        "time": "10:36:56 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MYRTLE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "NF2408465",
-        "date": "2024-07-31",
-        "time": "10:32:31 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WILDWOOD AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
+        "units": "*>E40"
     },
     {
         "id": "NF2408464",
@@ -64,16 +86,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E91"
-    },
-    {
-        "id": "NF2408463",
-        "date": "2024-07-31",
-        "time": "10:21:40 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BIG BEND DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
     }
 ]
