@@ -1,14 +1,36 @@
 [
     {
-        "id": "DF2401388",
+        "id": "NF2408469",
         "date": "2024-07-31",
-        "time": "11:04:44 AM",
-        "summary": "County Fire on Control-1",
+        "time": "11:25:30 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "TARRYTOWN ST ,EIC",
+        "location": "S MAYFAIR AVE ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E217"
+        "units": ">E91"
+    },
+    {
+        "id": "FF2404318",
+        "date": "2024-07-31",
+        "time": "11:20:43 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "217 VILLAGE WAY ,SSF",
+        "latitude": 37.6533864717273,
+        "longitude": -122.409897683741,
+        "units": ">E61"
+    },
+    {
+        "id": "SF2409935",
+        "date": "2024-07-31",
+        "time": "11:10:37 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "412 PARROTT DR ,SMO",
+        "latitude": 37.5564707417433,
+        "longitude": -122.331333031911,
+        "units": ">E25"
     },
     {
         "id": "SF2409934",
@@ -19,7 +41,7 @@
         "location": "MATSONIA DR ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E28"
+        "units": ""
     },
     {
         "id": "NF2408467",
@@ -30,7 +52,7 @@
         "location": "JOHN DALY BLVD / SKYLINE BLVD ,DCY",
         "latitude": 37.6984508080946,
         "longitude": -122.494863325599,
-        "units": ">E95 >BC20 CM31X4 T95 ?TAC35"
+        "units": "?TAC35 CM31X4 >E95"
     },
     {
         "id": "DF2401387",
@@ -41,50 +63,6 @@
         "location": "LEXINGTON AVE ,EIC",
         "latitude": null,
         "longitude": null,
-        "units": ">E17 CM11X1 >CH10A"
-    },
-    {
-        "id": "SF2409933",
-        "date": "2024-07-31",
-        "time": "10:43:04 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "REGULUS ST ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2405190",
-        "date": "2024-07-31",
-        "time": "10:39:48 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "COSTA RICA AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2401735",
-        "date": "2024-07-31",
-        "time": "10:38:50 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "N CABRILLO HWY ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E40"
-    },
-    {
-        "id": "NF2408464",
-        "date": "2024-07-31",
-        "time": "10:26:09 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FRANKFORT ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ">CH10A"
     }
 ]
