@@ -1,5 +1,49 @@
 [
     {
+        "id": "DF2401395",
+        "date": "2024-08-01",
+        "time": "9:41:18 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LAKEVIEW WAY ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": "E19"
+    },
+    {
+        "id": "NF2408501",
+        "date": "2024-08-01",
+        "time": "9:37:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "KING DR #1102 ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E94"
+    },
+    {
+        "id": "SF2409986",
+        "date": "2024-08-01",
+        "time": "9:36:35 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS #128 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E27"
+    },
+    {
+        "id": "RF2408377",
+        "date": "2024-08-01",
+        "time": "9:29:10 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WARRINGTON AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
         "id": "SF2409985",
         "date": "2024-08-01",
         "time": "9:27:34 AM",
@@ -8,29 +52,18 @@
         "location": "CASTILIAN WAY ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "SF2409984",
         "date": "2024-08-01",
         "time": "9:25:56 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E23"
-    },
-    {
-        "id": "NF2408500",
-        "date": "2024-08-01",
-        "time": "9:21:57 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MATEO AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
+        "category": "Usar response",
+        "location": "330 41ST AVE ,SMO",
+        "latitude": 37.5274728702267,
+        "longitude": -122.302085955644,
+        "units": ">BC3 >BC5 >T21 >BC11 >E26>E15 T23 >E23 USR133 CM21X2"
     },
     {
         "id": "FF2404331",
@@ -41,7 +74,7 @@
         "location": "MILLER AVE / SPRUCE AVE ,SSF",
         "latitude": 37.6574676672679,
         "longitude": -122.415693188543,
-        "units": "CM31X2 Q62 >E61 >BC17 ?TAC36"
+        "units": ">Q62 >E61 >BC17 CM31X2 ?TAC36"
     },
     {
         "id": "RF2408376",
@@ -55,17 +88,6 @@
         "units": ">E10"
     },
     {
-        "id": "WF2401268",
-        "date": "2024-08-01",
-        "time": "9:09:58 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GREER RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">R7"
-    },
-    {
         "id": "CF2405220",
         "date": "2024-08-01",
         "time": "9:09:35 AM",
@@ -77,17 +99,6 @@
         "units": ">E34"
     },
     {
-        "id": "SF2409983",
-        "date": "2024-08-01",
-        "time": "9:05:51 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "WB 92 / EO HIGH RI ,FCY",
-        "latitude": 37.5970069460201,
-        "longitude": -122.222650415637,
-        "units": "T23 ?TAC25 CM21X1 E27 BC5HABC2 HAE2 HAT7"
-    },
-    {
         "id": "RF2408372",
         "date": "2024-08-01",
         "time": "8:50:20 AM",
@@ -96,6 +107,6 @@
         "location": "1100 INDUSTRIAL RD #12 ,SNC",
         "latitude": 37.5029645735567,
         "longitude": -122.248660616537,
-        "units": ">E13 ?ENVHAZ HM14"
+        "units": "T9 ?ENVHAZ >E13"
     }
 ]
