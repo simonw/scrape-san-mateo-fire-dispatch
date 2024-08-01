@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2409988",
+        "id": "RF2408382",
         "date": "2024-08-01",
-        "time": "11:08:04 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "11:35:35 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "777 INDUSTRIAL RD ,SNC",
+        "latitude": 37.5081903522359,
+        "longitude": -122.252086551686,
+        "units": ">E13"
+    },
+    {
+        "id": "HF2401747",
+        "date": "2024-08-01",
+        "time": "11:35:18 AM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "S GRANT ST ,SMO",
+        "location": "ISABELLA RD ,ELG",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": ">E41"
+    },
+    {
+        "id": "MF2406287",
+        "date": "2024-08-01",
+        "time": "11:30:21 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "NB 101 / NO WILLOW RD ,MNP",
+        "latitude": 37.4775715102468,
+        "longitude": -122.169821019453,
+        "units": ">T2"
     },
     {
         "id": "SF2409984",
@@ -19,6 +41,6 @@
         "location": "330 41ST AVE ,SMO",
         "latitude": 37.5274728702267,
         "longitude": -122.302085955644,
-        "units": ">T21 >E15 >USR133 >BC11 >E23CM21X2 >BC5 ?TAC26"
+        "units": ">E15 >E23 CM21X2 >BC5 ?TAC26"
     }
 ]
