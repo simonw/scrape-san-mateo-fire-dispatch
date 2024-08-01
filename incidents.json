@@ -1,68 +1,101 @@
 [
     {
-        "id": "BF2402637",
+        "id": "SF2409985",
         "date": "2024-08-01",
-        "time": "9:01:47 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUNTINGTON AVE ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E51"
-    },
-    {
-        "id": "SF2409982",
-        "date": "2024-08-01",
-        "time": "8:59:06 AM",
+        "time": "9:27:34 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "THAYER LN #402 ,FCY",
+        "location": "CASTILIAN WAY ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E29"
+        "units": "E21"
     },
     {
-        "id": "SF2409981",
+        "id": "SF2409984",
         "date": "2024-08-01",
-        "time": "8:58:08 AM",
+        "time": "9:25:56 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "N ELDORADO ST #6 ,SMO",
+        "location": "AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": "?E23"
+    },
+    {
+        "id": "NF2408500",
+        "date": "2024-08-01",
+        "time": "9:21:57 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MATEO AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T95"
+    },
+    {
+        "id": "FF2404331",
+        "date": "2024-08-01",
+        "time": "9:18:53 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "MILLER AVE / SPRUCE AVE ,SSF",
+        "latitude": 37.6574676672679,
+        "longitude": -122.415693188543,
+        "units": "CM31X2 Q62 >E61 >BC17 ?TAC36"
+    },
+    {
+        "id": "RF2408376",
+        "date": "2024-08-01",
+        "time": "9:15:40 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "830 JEFFERSON AVE ,RCY",
+        "latitude": 37.4857318856983,
+        "longitude": -122.228335558305,
+        "units": ">E10"
+    },
+    {
+        "id": "WF2401268",
+        "date": "2024-08-01",
+        "time": "9:09:58 AM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GREER RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">R7"
+    },
+    {
+        "id": "CF2405220",
+        "date": "2024-08-01",
+        "time": "9:09:35 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #617 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "SF2409983",
+        "date": "2024-08-01",
+        "time": "9:05:51 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "WB 92 / EO HIGH RI ,FCY",
+        "latitude": 37.5970069460201,
+        "longitude": -122.222650415637,
+        "units": "T23 ?TAC25 CM21X1 E27 BC5HABC2 HAE2 HAT7"
     },
     {
         "id": "RF2408372",
         "date": "2024-08-01",
         "time": "8:50:20 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
+        "category": "Hazardous material - consult",
         "location": "1100 INDUSTRIAL RD #12 ,SNC",
         "latitude": 37.5029645735567,
         "longitude": -122.248660616537,
-        "units": ">E13"
-    },
-    {
-        "id": "CF2405219",
-        "date": "2024-08-01",
-        "time": "8:48:23 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2406283",
-        "date": "2024-08-01",
-        "time": "8:33:39 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Gas main break",
-        "location": "1000 EL CAMINO REAL ,ATN",
-        "latitude": 37.4560770363324,
-        "longitude": -122.192078155915,
-        "units": ""
+        "units": ">E13 ?ENVHAZ HM14"
     }
 ]
