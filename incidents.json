@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2409998",
+        "date": "2024-08-01",
+        "time": "2:41:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATSONIA DR ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E28"
+    },
+    {
+        "id": "BF2402638",
+        "date": "2024-08-01",
+        "time": "2:40:20 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "1051 NATIONAL AVE ,SNB",
+        "latitude": 37.6334364130272,
+        "longitude": -122.422980976669,
+        "units": "E51"
+    },
+    {
+        "id": "MF2406295",
+        "date": "2024-08-01",
+        "time": "2:26:08 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CURTIS AVE #3 ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E5"
+    },
+    {
         "id": "SF2409997",
         "date": "2024-08-01",
         "time": "2:18:36 PM",
@@ -11,28 +44,6 @@
         "units": ">E23"
     },
     {
-        "id": "RF2408387",
-        "date": "2024-08-01",
-        "time": "2:17:41 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIDDLEFIELD RD #7 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "FF2404336",
-        "date": "2024-08-01",
-        "time": "2:11:38 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Wires down (not sparking)",
-        "location": "975 LINDEN AVE ,SSF",
-        "latitude": 37.6616428188343,
-        "longitude": -122.404705424037,
-        "units": ">E61"
-    },
-    {
         "id": "FF2404335",
         "date": "2024-08-01",
         "time": "1:50:17 PM",
@@ -41,7 +52,7 @@
         "location": "385 OYSTER POINT BLVD ,SSF",
         "latitude": 37.6638003153385,
         "longitude": -122.384839781686,
-        "units": "?TAC35 ?CM51X4 >E65 >Q62 >BC17CG22A BOAT9 BOAT62"
+        "units": ">BOAT62 BOAT9 CG22A >E65 >BC17>Q62 ?TAC35 ?CM51X4"
     },
     {
         "id": "HF2401748",
@@ -52,6 +63,6 @@
         "location": "N CABRILLO HWY / CORAL REEF AVE ,ELG",
         "latitude": 37.508104880694,
         "longitude": -122.485700233911,
-        "units": ">E41 >BC10 >E44 ?TAC45 CM41X5CH10A"
+        "units": ">E41 >BC10 >E44 ?TAC45 CM41X5>CH10A"
     }
 ]
