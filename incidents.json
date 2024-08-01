@@ -1,46 +1,68 @@
 [
     {
-        "id": "SF2409958",
+        "id": "SF2409959",
         "date": "2024-07-31",
-        "time": "7:40:03 PM",
+        "time": "8:06:18 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "HOSMER ST ,SMO",
+        "location": "N DELAWARE ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": "?E24"
     },
     {
-        "id": "NF2408485",
+        "id": "MF2406269",
         "date": "2024-07-31",
-        "time": "7:36:53 PM",
+        "time": "8:05:33 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOOVER ST ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": "E6"
+    },
+    {
+        "id": "NF2408486",
+        "date": "2024-07-31",
+        "time": "7:58:29 PM",
         "summary": "North County Fire on Control-3",
+        "category": "Elevator rescue",
+        "location": "130 SERRAMONTE CTR ,DCY",
+        "latitude": 37.671104784259,
+        "longitude": -122.471687299226,
+        "units": "E94"
+    },
+    {
+        "id": "MF2406268",
+        "date": "2024-07-31",
+        "time": "7:56:44 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Public assist",
-        "location": "65 SHAKESPEARE ST ,DCY",
-        "latitude": 37.7074937077551,
-        "longitude": -122.462006547645,
+        "location": "711 PIERCE RD ,MNP",
+        "latitude": 37.4718370216773,
+        "longitude": -122.159287846441,
         "units": ""
     },
     {
-        "id": "SF2409957",
+        "id": "CF2405207",
         "date": "2024-07-31",
-        "time": "7:28:25 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S B ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "CF2405206",
-        "date": "2024-07-31",
-        "time": "7:23:34 PM",
+        "time": "7:54:53 PM",
         "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "MATEO AVE ,MLB",
+        "location": "CORTEZ AVE ,BRM",
         "latitude": null,
         "longitude": null,
+        "units": ">E35"
+    },
+    {
+        "id": "CF2405208",
+        "date": "2024-07-31",
+        "time": "7:53:50 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Elevator rescue",
+        "location": "1415 FLORIBUNDA AVE ,BRM",
+        "latitude": 37.5797830608516,
+        "longitude": -122.351742371616,
         "units": ""
     }
 ]
