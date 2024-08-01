@@ -1,16 +1,5 @@
 [
     {
-        "id": "DF2401395",
-        "date": "2024-08-01",
-        "time": "9:41:18 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAKEVIEW WAY ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": "E19"
-    },
-    {
         "id": "NF2408501",
         "date": "2024-08-01",
         "time": "9:37:45 AM",
@@ -19,7 +8,7 @@
         "location": "KING DR #1102 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E94"
+        "units": ">E94"
     },
     {
         "id": "SF2409986",
@@ -30,7 +19,7 @@
         "location": "ALAMEDA DE LAS PULGAS #128 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E27"
+        "units": ">E27"
     },
     {
         "id": "RF2408377",
@@ -52,7 +41,7 @@
         "location": "CASTILIAN WAY ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E21"
+        "units": "*>E21"
     },
     {
         "id": "SF2409984",
@@ -63,40 +52,7 @@
         "location": "330 41ST AVE ,SMO",
         "latitude": 37.5274728702267,
         "longitude": -122.302085955644,
-        "units": ">BC3 >BC5 >T21 >BC11 >E26>E15 T23 >E23 USR133 CM21X2"
-    },
-    {
-        "id": "FF2404331",
-        "date": "2024-08-01",
-        "time": "9:18:53 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "MILLER AVE / SPRUCE AVE ,SSF",
-        "latitude": 37.6574676672679,
-        "longitude": -122.415693188543,
-        "units": ">Q62 >E61 >BC17 CM31X2 ?TAC36"
-    },
-    {
-        "id": "RF2408376",
-        "date": "2024-08-01",
-        "time": "9:15:40 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "830 JEFFERSON AVE ,RCY",
-        "latitude": 37.4857318856983,
-        "longitude": -122.228335558305,
-        "units": ">E10"
-    },
-    {
-        "id": "CF2405220",
-        "date": "2024-08-01",
-        "time": "9:09:35 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #617 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
+        "units": ">T23 >T21 >E26 >E15 T34>USR133 >BC11 >E23 CM21X2 >BC5"
     },
     {
         "id": "RF2408372",
@@ -107,6 +63,6 @@
         "location": "1100 INDUSTRIAL RD #12 ,SNC",
         "latitude": 37.5029645735567,
         "longitude": -122.248660616537,
-        "units": "T9 ?ENVHAZ >E13"
+        "units": ">E13 >T9"
     }
 ]
