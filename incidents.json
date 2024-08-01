@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2409996",
+        "id": "SF2409997",
         "date": "2024-08-01",
-        "time": "1:55:36 PM",
+        "time": "2:18:36 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "AVE ,SMO",
+        "location": "HILLSDALE MALL ,SMO",
         "latitude": null,
         "longitude": null,
         "units": ">E23"
+    },
+    {
+        "id": "RF2408387",
+        "date": "2024-08-01",
+        "time": "2:17:41 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLEFIELD RD #7 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "FF2404336",
+        "date": "2024-08-01",
+        "time": "2:11:38 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Wires down (not sparking)",
+        "location": "975 LINDEN AVE ,SSF",
+        "latitude": 37.6616428188343,
+        "longitude": -122.404705424037,
+        "units": ">E61"
     },
     {
         "id": "FF2404335",
@@ -19,7 +41,7 @@
         "location": "385 OYSTER POINT BLVD ,SSF",
         "latitude": 37.6638003153385,
         "longitude": -122.384839781686,
-        "units": "?TAC35 ?CM51X4 JS28 >E65 >Q62>BC17 CG22A BOAT9 ?BOAT62"
+        "units": "?TAC35 ?CM51X4 >E65 >Q62 >BC17CG22A BOAT9 BOAT62"
     },
     {
         "id": "HF2401748",
@@ -31,16 +53,5 @@
         "latitude": 37.508104880694,
         "longitude": -122.485700233911,
         "units": ">E41 >BC10 >E44 ?TAC45 CM41X5CH10A"
-    },
-    {
-        "id": "LF2400641",
-        "date": "2024-08-01",
-        "time": "1:38:42 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GILMAN DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E86"
     }
 ]
