@@ -1,36 +1,47 @@
 [
     {
-        "id": "DF2401391",
+        "id": "FF2404324",
         "date": "2024-07-31",
-        "time": "4:39:29 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "313 WINDSOR DR ,DVN",
-        "latitude": 37.4956334122374,
-        "longitude": -122.277727763939,
-        "units": "E16"
+        "time": "5:26:44 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "GRAND AVE / AIRPORT BLVD ,SSF",
+        "latitude": 37.6546812516489,
+        "longitude": -122.407806053003,
+        "units": "?TAC35 ?CM31X2 ?Q62 E61 BC17"
     },
     {
-        "id": "NF2408481",
+        "id": "CF2405202",
         "date": "2024-07-31",
-        "time": "4:39:22 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "5:24:45 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "890 COWAN RD ,BRM",
+        "latitude": 37.601281910344,
+        "longitude": -122.376793759522,
+        "units": "E34"
+    },
+    {
+        "id": "MF2406264",
+        "date": "2024-07-31",
+        "time": "5:21:43 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "CAMPUS DR #111 ,DCY",
+        "location": "DAPHNE WAY ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": "E2"
     },
     {
-        "id": "BF2402632",
+        "id": "CF2405201",
         "date": "2024-07-31",
-        "time": "4:37:21 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "2400 WHITMAN WAY ,SNB",
-        "latitude": 37.6173794493432,
-        "longitude": -122.433423496419,
-        "units": "E52"
+        "time": "5:11:23 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BROADWAY ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "DF2401390",
@@ -41,28 +52,6 @@
         "location": "2655 BEAR GULCH RD ,SKY",
         "latitude": 37.365315970849,
         "longitude": -122.307149065236,
-        "units": "E356 E58 TAC45"
-    },
-    {
-        "id": "MF2406263",
-        "date": "2024-07-31",
-        "time": "4:34:24 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "162 GREENOAKS DR ,ATN",
-        "latitude": 37.470185468425,
-        "longitude": -122.173077892207,
-        "units": ">E1"
-    },
-    {
-        "id": "SF2409947",
-        "date": "2024-07-31",
-        "time": "4:28:57 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "ELMER ST / RALSTON AVE ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
+        "units": ">E58"
     }
 ]
