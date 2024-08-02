@@ -1,13 +1,68 @@
 [
     {
-        "id": "MF2406315",
+        "id": "NF2408537",
         "date": "2024-08-02",
-        "time": "10:30:27 AM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "11:01:55 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "COLEMAN PL #1B ,MNP",
+        "location": "CAMPUS DR #210 ,DCY",
         "latitude": null,
         "longitude": null,
+        "units": "T95"
+    },
+    {
+        "id": "NF2408536",
+        "date": "2024-08-02",
+        "time": "10:59:26 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #225B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E94"
+    },
+    {
+        "id": "NF2408535",
+        "date": "2024-08-02",
+        "time": "10:55:24 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESCUELA DR #212B ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "SF2410036",
+        "date": "2024-08-02",
+        "time": "10:51:56 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "650 SHELL BLVD ,FCY",
+        "latitude": 37.5563641885036,
+        "longitude": -122.268877521048,
+        "units": ">E28"
+    },
+    {
+        "id": "BF2402646",
+        "date": "2024-08-02",
+        "time": "10:46:40 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "611 E SAN BRUNO AVE ,SNB",
+        "latitude": 37.6311000568588,
+        "longitude": -122.407374218895,
+        "units": "?TAC35 >BC16 CM31X1 >Q62"
+    },
+    {
+        "id": "MF2406316",
+        "date": "2024-08-02",
+        "time": "10:46:31 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "795 WILLOW RD ,MNP",
+        "latitude": 37.4663546046411,
+        "longitude": -122.160234197566,
         "units": ">E1"
     },
     {
@@ -19,6 +74,6 @@
         "location": "350 HATCH DR ,FCY",
         "latitude": 37.566218250247,
         "longitude": -122.274833081721,
-        "units": ">T23 >E29 CM21X3 ?TAC25"
+        "units": ">T23 >E29 PR5C CM21X3 ?TAC25"
     }
 ]
