@@ -1,14 +1,69 @@
 [
     {
-        "id": "MF2406336",
+        "id": "RF2408458",
         "date": "2024-08-03",
-        "time": "12:19:24 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "12:42:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #408 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "NF2408578",
+        "date": "2024-08-03",
+        "time": "12:41:26 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SKYLINE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "T95"
+    },
+    {
+        "id": "WF2401284",
+        "date": "2024-08-03",
+        "time": "12:35:07 PM",
+        "summary": "Woodside Fire on Control-3",
         "category": "Wires down (not sparking)",
-        "location": "2066 STERLING AVE ,WMP",
-        "latitude": 37.4342199463671,
-        "longitude": -122.20479301408,
-        "units": ">E4"
+        "location": "3300 ALPINE RD #B ,LAD",
+        "latitude": 37.3974895910785,
+        "longitude": -122.193129394609,
+        "units": ">E8"
+    },
+    {
+        "id": "SF2410093",
+        "date": "2024-08-03",
+        "time": "12:28:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BRIDGEPOINTE PKWY ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "MF2406337",
+        "date": "2024-08-03",
+        "time": "12:26:21 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Grass fire",
+        "location": "UNIVERSITY AVE / PURDUE AVE ,EPA",
+        "latitude": 37.4795398149281,
+        "longitude": -122.139695401956,
+        "units": ">E77 >BC101 >TAC16 >CM11X1 >E2"
+    },
+    {
+        "id": "SF2410092",
+        "date": "2024-08-03",
+        "time": "12:23:36 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "GLENDORA DR #4 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
     },
     {
         "id": "NF2408577",
@@ -19,18 +74,7 @@
         "location": "IMPERIAL WAY #115 ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E95"
-    },
-    {
-        "id": "NF2408576",
-        "date": "2024-08-03",
-        "time": "12:16:47 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CAMELIA DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T95"
+        "units": ">E95"
     },
     {
         "id": "DF2401405",
@@ -41,7 +85,7 @@
         "location": "PAGE MILL RD / SKYLINE BLVD ,SOS",
         "latitude": 37.3149197614327,
         "longitude": -122.18724185588,
-        "units": "E2936 BC2 E7 E58 TAC45R57"
+        "units": ">E2936 >BC2 >E58 TAC45"
     },
     {
         "id": "SF2410091",
@@ -52,39 +96,6 @@
         "location": "PORT DR #12 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2408575",
-        "date": "2024-08-03",
-        "time": "12:08:06 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 1 / SO 280 ,DCY",
-        "latitude": 37.673070457036,
-        "longitude": -122.474379776397,
-        "units": "?TAC35 >E91 CM31X5 >BC20"
-    },
-    {
-        "id": "CF2405265",
-        "date": "2024-08-03",
-        "time": "12:06:50 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #1076A ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "SF2410090",
-        "date": "2024-08-03",
-        "time": "11:48:50 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1700 W HILLSDALE BLVD ,SMO",
-        "latitude": 37.5349190302448,
-        "longitude": -122.334973775451,
         "units": ""
     }
 ]
