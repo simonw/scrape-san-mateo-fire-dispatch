@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2406347",
+        "date": "2024-08-03",
+        "time": "3:03:01 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "24 HAWTHORNE DR ,ATN",
+        "latitude": 37.4695738926482,
+        "longitude": -122.188741571785,
+        "units": "?E1"
+    },
+    {
+        "id": "FF2404373",
+        "date": "2024-08-03",
+        "time": "2:56:20 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident",
+        "location": "EL CAMINO REAL / 2ND ST ,SSF",
+        "latitude": 37.6519065611678,
+        "longitude": -122.431567173907,
+        "units": ">T51 >E63 >BC17 CM31X2 ?TAC35"
+    },
+    {
+        "id": "BF2402654",
+        "date": "2024-08-03",
+        "time": "2:49:55 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SNEATH LN / HUNTINGTON AVE ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
         "id": "NF2408584",
         "date": "2024-08-03",
         "time": "2:39:12 PM",
@@ -8,29 +41,7 @@
         "location": "TERRA NOVA BLVD #310D ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": "E71"
-    },
-    {
-        "id": "RF2408463",
-        "date": "2024-08-03",
-        "time": "2:39:02 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HORGAN AVE #33 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "LF2400649",
-        "date": "2024-08-03",
-        "time": "2:38:34 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LARCHMONT DR ,BRD",
-        "latitude": null,
-        "longitude": null,
-        "units": "E86"
+        "units": ">E71"
     },
     {
         "id": "SF2410098",
@@ -41,39 +52,6 @@
         "location": "CONTINENTALS WAY #226 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "SF2410097",
-        "date": "2024-08-03",
-        "time": "2:28:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "PACIFIC BLVD ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "NF2408583",
-        "date": "2024-08-03",
-        "time": "2:26:57 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Water rescue response",
-        "location": "400 SIERRA POINT PKWY ,BRS",
-        "latitude": 37.6731632094396,
-        "longitude": -122.381151137457,
-        "units": "BOAT62 >E81 >E93 BOAT9 ?CG22A"
-    },
-    {
-        "id": "NF2408580",
-        "date": "2024-08-03",
-        "time": "1:53:09 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Water rescue investigation",
-        "location": "1 ROCKAWAY BEACH RD ,PCF",
-        "latitude": 37.609874888495,
-        "longitude": -122.497037277987,
-        "units": "E72 >E92"
+        "units": ""
     }
 ]
