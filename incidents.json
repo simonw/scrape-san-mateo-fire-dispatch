@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2410147",
+        "id": "MF2406376",
         "date": "2024-08-04",
-        "time": "12:18:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "12:41:00 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "BOBSTAY LN ,FCY",
+        "location": "BAY RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E29"
+        "units": "E5"
+    },
+    {
+        "id": "RF2408494",
+        "date": "2024-08-04",
+        "time": "12:39:46 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E13"
+    },
+    {
+        "id": "FF2404389",
+        "date": "2024-08-04",
+        "time": "12:36:00 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "COMMERCIAL AVE #5 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "NF2408608",
+        "date": "2024-08-04",
+        "time": "12:33:55 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "608 ESTATE CT ,DCY",
+        "latitude": 37.7034602423526,
+        "longitude": -122.441674463175,
+        "units": "?TAC35 CM31X4 >E93 T95 >BC20"
+    },
+    {
+        "id": "WF2401288",
+        "date": "2024-08-04",
+        "time": "12:27:16 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PARTITION RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">R7"
+    },
+    {
+        "id": "MF2406375",
+        "date": "2024-08-04",
+        "time": "12:24:48 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MIDDLE AVE #2 ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
     },
     {
         "id": "MF2406374",
@@ -19,51 +74,7 @@
         "location": "ATHERTON AVE / ALAMEDA DE LAS PULGAS ,A",
         "latitude": 37.4398437911526,
         "longitude": -122.217164992205,
-        "units": ">BC1 >E4"
-    },
-    {
-        "id": "SF2410146",
-        "date": "2024-08-04",
-        "time": "12:08:42 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BALDWIN AVE #620 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
-        "id": "MF2406373",
-        "date": "2024-08-04",
-        "time": "12:06:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CAPITOL AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "BF2402664",
-        "date": "2024-08-04",
-        "time": "12:05:04 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "FLEETWOOD DR ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
-    },
-    {
-        "id": "SF2410145",
-        "date": "2024-08-04",
-        "time": "11:53:59 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E4"
     },
     {
         "id": "DF2401419",
@@ -74,6 +85,6 @@
         "location": "ALPINE RD / PAGE MILL RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": ">ERV58 >E58 >E318 >BC11 >VFIR23>R57"
+        "units": ">E58 >BC11 >VFIR23"
     }
 ]
