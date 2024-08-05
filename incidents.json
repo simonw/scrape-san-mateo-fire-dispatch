@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2406414",
+        "date": "2024-08-05",
+        "time": "2:41:18 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "321 BELL ST ,EPA",
+        "latitude": 37.4661155942468,
+        "longitude": -122.145996230294,
+        "units": "E5 BC101 CM11X3 TAC15 E2T2 ?E77"
+    },
+    {
+        "id": "NF2408639",
+        "date": "2024-08-05",
+        "time": "2:35:36 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "6543 MISSION ST ,DCY",
+        "latitude": 37.7034623133302,
+        "longitude": -122.462761044657,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2406413",
+        "date": "2024-08-05",
+        "time": "2:35:12 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VALPARAISO AVE / VICTORIA DR ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
         "id": "NF2408638",
         "date": "2024-08-05",
         "time": "2:25:28 PM",
@@ -8,7 +41,7 @@
         "location": "THORNTON BEACH RD ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": "E91"
+        "units": ">E91 CM31X1 >BC20"
     },
     {
         "id": "MF2406412",
@@ -20,82 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E4"
-    },
-    {
-        "id": "MF2406411",
-        "date": "2024-08-05",
-        "time": "2:16:01 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "715 SANTA CRUZ AVE ,MNP",
-        "latitude": 37.4517147866121,
-        "longitude": -122.184068300849,
-        "units": ">BC1 CM11X4 TAC15"
-    },
-    {
-        "id": "SF2410207",
-        "date": "2024-08-05",
-        "time": "2:13:47 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 40TH AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T23"
-    },
-    {
-        "id": "NF2408636",
-        "date": "2024-08-05",
-        "time": "2:12:11 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Fire alarm",
-        "location": "380 90TH ST ,DCY",
-        "latitude": 37.6913245247008,
-        "longitude": -122.474197303856,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2410206",
-        "date": "2024-08-05",
-        "time": "2:04:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Trash fire",
-        "location": "111 LAURIE MEADOWS DR ,SMO",
-        "latitude": 37.532284145817,
-        "longitude": -122.281640937291,
-        "units": ">E23"
-    },
-    {
-        "id": "MF2406410",
-        "date": "2024-08-05",
-        "time": "2:03:52 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WILLOW RD #106 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2404410",
-        "date": "2024-08-05",
-        "time": "2:03:26 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E63"
-    },
-    {
-        "id": "LF2400661",
-        "date": "2024-08-05",
-        "time": "1:48:06 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "428 88TH ST ,BRD",
-        "latitude": 37.6927308467566,
-        "longitude": -122.477643140345,
-        "units": "?TAC35 >E86 CM31X5"
     }
 ]
