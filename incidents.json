@@ -1,5 +1,16 @@
 [
     {
+        "id": "BF2402670",
+        "date": "2024-08-04",
+        "time": "8:39:03 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Gas main break",
+        "location": "222 E SAN BRUNO AVE ,SNB",
+        "latitude": 37.6307944391713,
+        "longitude": -122.411310815352,
+        "units": "T51 BC16 E61 E51 Q62?TAC35 ?CM31X2"
+    },
+    {
         "id": "RF2408509",
         "date": "2024-08-04",
         "time": "8:21:05 PM",
@@ -19,40 +30,7 @@
         "location": "SILVER AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E12"
-    },
-    {
-        "id": "SF2410174",
-        "date": "2024-08-04",
-        "time": "8:18:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #613 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E29"
-    },
-    {
-        "id": "RF2408507",
-        "date": "2024-08-04",
-        "time": "8:14:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HOPKINS AVE #29 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "SF2410172",
-        "date": "2024-08-04",
-        "time": "8:13:16 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "E 3RD AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
+        "units": ">E12"
     },
     {
         "id": "DF2401423",
@@ -63,7 +41,7 @@
         "location": "HWY 9 / SHINGLE MILL RD ,SOS",
         "latitude": 37.2488822373429,
         "longitude": -122.154050299146,
-        "units": "E2936 E7 E8 ?TAC45 BC11?CFE21 E1762 ?CO57"
+        "units": ">E2936 >BC11 E1762 ?TAC45"
     },
     {
         "id": "RF2408506",
@@ -85,29 +63,7 @@
         "location": "4000 S EL CAMINO REAL ,SMO",
         "latitude": 37.5312091771616,
         "longitude": -122.291997515352,
-        "units": ">T23 CM21X3 ?TAC25 >E23 >BC5"
-    },
-    {
-        "id": "SF2410169",
-        "date": "2024-08-04",
-        "time": "8:02:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "RALSTON AVE #213 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2410168",
-        "date": "2024-08-04",
-        "time": "8:02:22 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S NORFOLK ST / LODI AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
+        "units": ">E23"
     },
     {
         "id": "DF2401422",
@@ -118,6 +74,6 @@
         "location": "MINDEGO HILL TRL / ALPINE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "*>E58 VFIR23"
+        "units": "VFIR23"
     }
 ]
