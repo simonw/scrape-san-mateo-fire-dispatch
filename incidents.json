@@ -1,5 +1,93 @@
 [
     {
+        "id": "RF2408509",
+        "date": "2024-08-04",
+        "time": "8:21:05 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVE ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "RF2408508",
+        "date": "2024-08-04",
+        "time": "8:19:25 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SILVER AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E12"
+    },
+    {
+        "id": "SF2410174",
+        "date": "2024-08-04",
+        "time": "8:18:04 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "THAYER LN #613 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E29"
+    },
+    {
+        "id": "RF2408507",
+        "date": "2024-08-04",
+        "time": "8:14:36 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE #29 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E10"
+    },
+    {
+        "id": "SF2410172",
+        "date": "2024-08-04",
+        "time": "8:13:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "E 3RD AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
+    },
+    {
+        "id": "DF2401423",
+        "date": "2024-08-04",
+        "time": "8:12:06 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "HWY 9 / SHINGLE MILL RD ,SOS",
+        "latitude": 37.2488822373429,
+        "longitude": -122.154050299146,
+        "units": "E2936 E7 E8 ?TAC45 BC11?CFE21 E1762 ?CO57"
+    },
+    {
+        "id": "RF2408506",
+        "date": "2024-08-04",
+        "time": "8:11:15 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "670 AIRPORT WAY ,SNC",
+        "latitude": 37.5154867050009,
+        "longitude": -122.250023428173,
+        "units": ">E16"
+    },
+    {
+        "id": "SF2410170",
+        "date": "2024-08-04",
+        "time": "8:09:31 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "4000 S EL CAMINO REAL ,SMO",
+        "latitude": 37.5312091771616,
+        "longitude": -122.291997515352,
+        "units": ">T23 CM21X3 ?TAC25 >E23 >BC5"
+    },
+    {
         "id": "SF2410169",
         "date": "2024-08-04",
         "time": "8:02:51 PM",
@@ -8,7 +96,7 @@
         "location": "RALSTON AVE #213 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ""
     },
     {
         "id": "SF2410168",
@@ -19,40 +107,7 @@
         "location": "S NORFOLK ST / LODI AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "FF2404394",
-        "date": "2024-08-04",
-        "time": "7:49:00 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Water rescue response",
-        "location": "95 HARBOR MASTER RD ,SSF",
-        "latitude": 37.6634387941809,
-        "longitude": -122.37858660283,
-        "units": "?TAC35 CM51X5 JS28 >E65 >Q62>BC17 ?CG22A BOAT9"
-    },
-    {
-        "id": "SF2410167",
-        "date": "2024-08-04",
-        "time": "7:43:24 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Odor investigation",
-        "location": "200 PUFFIN CT ,FCY",
-        "latitude": 37.5710556086496,
-        "longitude": -122.260764358184,
-        "units": ""
-    },
-    {
-        "id": "WF2401289",
-        "date": "2024-08-04",
-        "time": "7:36:42 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "2100 STOCKBRIDGE AVE ,WDS",
-        "latitude": 37.4439897632834,
-        "longitude": -122.225346262967,
-        "units": ">E4"
+        "units": ">E26"
     },
     {
         "id": "DF2401422",
@@ -63,17 +118,6 @@
         "location": "MINDEGO HILL TRL / ALPINE RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": ">E2936 >E58 >BC11 VFIR23 >R57"
-    },
-    {
-        "id": "BF2402668",
-        "date": "2024-08-04",
-        "time": "6:04:49 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "293 EL CAMINO REAL ,SNB",
-        "latitude": 37.6198159456259,
-        "longitude": -122.410731896935,
-        "units": ">T51"
+        "units": "*>E58 VFIR23"
     }
 ]
