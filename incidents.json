@@ -1,5 +1,38 @@
 [
     {
+        "id": "MF2406491",
+        "date": "2024-08-08",
+        "time": "9:35:40 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "PARK LN ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "RF2408662",
+        "date": "2024-08-08",
+        "time": "9:32:42 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "RF2408663",
+        "date": "2024-08-08",
+        "time": "9:32:21 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "353 MAIN ST ,RCY",
+        "latitude": 37.4913954502611,
+        "longitude": -122.226132964594,
+        "units": ">E11"
+    },
+    {
         "id": "BF2402697",
         "date": "2024-08-08",
         "time": "9:21:13 AM",
@@ -8,39 +41,6 @@
         "location": "EB 380 OFF RAMP / SB 101 FRONTAGE RD ,S",
         "latitude": 37.6359095760953,
         "longitude": -122.404178009539,
-        "units": ">BC16 >PR16 Q62 E61 CM31X5?TAC35"
-    },
-    {
-        "id": "SF2410336",
-        "date": "2024-08-08",
-        "time": "9:08:20 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #121 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
-        "id": "MF2406489",
-        "date": "2024-08-08",
-        "time": "9:07:11 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CONSTITUTION DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "RF2408661",
-        "date": "2024-08-08",
-        "time": "9:05:54 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "VISTA AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
+        "units": ">Q62 >E61 >BC16 >PR16 CM31X5?TAC35"
     }
 ]
