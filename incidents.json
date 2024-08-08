@@ -1,5 +1,49 @@
 [
     {
+        "id": "WF2401306",
+        "date": "2024-08-07",
+        "time": "9:23:42 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "47 TUM SUDEN WAY ,RCY",
+        "latitude": 37.4560099447897,
+        "longitude": -122.268375791281,
+        "units": ">E19"
+    },
+    {
+        "id": "RF2408648",
+        "date": "2024-08-07",
+        "time": "9:22:49 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "BRADFORD ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E16"
+    },
+    {
+        "id": "SF2410316",
+        "date": "2024-08-07",
+        "time": "9:16:29 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Wires down (not sparking)",
+        "location": "CALIFORNIA DR / PENINSULA AVE ,SMO",
+        "latitude": 37.5770708257447,
+        "longitude": -122.339380947644,
+        "units": ">E21"
+    },
+    {
+        "id": "RF2408647",
+        "date": "2024-08-07",
+        "time": "9:14:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO WHIPPLE AVE ,SNC",
+        "latitude": 37.501502985081,
+        "longitude": -122.242206420289,
+        "units": ">T9 CM11X2 >E14 ?TAC15"
+    },
+    {
         "id": "CF2405361",
         "date": "2024-08-07",
         "time": "9:07:11 PM",
@@ -8,18 +52,7 @@
         "location": "MATEO AVE #30B ,MLB",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
-    },
-    {
-        "id": "SF2410315",
-        "date": "2024-08-07",
-        "time": "9:05:03 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "E HILLSDALE BLVD / EDGEWATER BLVD ,FCY",
-        "latitude": 37.5543267768894,
-        "longitude": -122.277382494056,
-        "units": "T23 E29 ?CM21X5 TAC25 BC5"
+        "units": ">E37"
     },
     {
         "id": "RF2408646",
@@ -27,10 +60,10 @@
         "time": "9:03:25 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Wires down (not sparking)",
-        "location": "1172 OLIVER ST ,RCY",
+        "location": "1179 OLIVER ST ,RCY",
         "latitude": 37.4691574850269,
         "longitude": -122.235750577247,
-        "units": "E10"
+        "units": ">E10"
     },
     {
         "id": "RF2408645",
@@ -41,17 +74,6 @@
         "location": "EL CAMINO REAL ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2410314",
-        "date": "2024-08-07",
-        "time": "8:54:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S CLAREMONT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": "E13"
     }
 ]
