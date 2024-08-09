@@ -1,5 +1,27 @@
 [
     {
+        "id": "WF2401316",
+        "date": "2024-08-09",
+        "time": "4:40:33 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Public assist",
+        "location": "350 GROVE DR ,PVY",
+        "latitude": 37.3769714171493,
+        "longitude": -122.217220004709,
+        "units": "E8"
+    },
+    {
+        "id": "NF2408811",
+        "date": "2024-08-09",
+        "time": "4:32:56 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GENEVA AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E93"
+    },
+    {
         "id": "MF2406546",
         "date": "2024-08-09",
         "time": "4:24:42 PM",
@@ -8,29 +30,7 @@
         "location": "CEDAR AVE ,WMP",
         "latitude": null,
         "longitude": null,
-        "units": "?E4"
-    },
-    {
-        "id": "SF2410389",
-        "date": "2024-08-09",
-        "time": "4:24:29 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "N DELAWARE ST / MONTE DIABLO AVE ,SMO",
-        "latitude": 37.5723168943311,
-        "longitude": -122.325745197813,
-        "units": "?TAC25 ?CM21X2 ?BC8 ?E24 ?T21"
-    },
-    {
-        "id": "CF2405402",
-        "date": "2024-08-09",
-        "time": "4:16:10 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Public assist",
-        "location": "35 PEAR CT ,HIL",
-        "latitude": 37.5619219360801,
-        "longitude": -122.370160084558,
-        "units": ">E33"
+        "units": ">E4 >T4"
     },
     {
         "id": "NF2408809",
@@ -41,28 +41,6 @@
         "location": "288 88TH ST #18 ,DCY",
         "latitude": 37.6927529595223,
         "longitude": -122.474197204134,
-        "units": "?TAC35 >E92 >E91 >T95 >E95CM31X5 >BC20"
-    },
-    {
-        "id": "SF2410388",
-        "date": "2024-08-09",
-        "time": "4:08:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SWORDFISH ST ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "SF2410387",
-        "date": "2024-08-09",
-        "time": "4:06:55 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE / S EL CAMINO REAL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E92 >T95"
     }
 ]
