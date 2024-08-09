@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2408807",
+        "date": "2024-08-09",
+        "time": "3:23:57 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Public assist",
+        "location": "131 S MAYFAIR AVE ,DCY",
+        "latitude": 37.703112994862,
+        "longitude": -122.477075714636,
+        "units": "E91"
+    },
+    {
+        "id": "CF2405401",
+        "date": "2024-08-09",
+        "time": "3:20:05 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #1065A ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "BF2402718",
+        "date": "2024-08-09",
+        "time": "3:15:29 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #107 ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "MF2406543",
+        "date": "2024-08-09",
+        "time": "3:10:37 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "920 PENINSULA WAY ,MOK",
+        "latitude": 37.4663985939327,
+        "longitude": -122.166241870586,
+        "units": ">E77"
+    },
+    {
+        "id": "MF2406542",
+        "date": "2024-08-09",
+        "time": "3:07:20 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "6 NEWELL CT ,EPA",
+        "latitude": 37.4573109602062,
+        "longitude": -122.138796747127,
+        "units": ">E2"
+    },
+    {
         "id": "SF2410381",
         "date": "2024-08-09",
         "time": "3:02:11 PM",
@@ -8,40 +63,7 @@
         "location": "E 3RD AVE ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "CM21X1 BC5 E29"
-    },
-    {
-        "id": "CF2405400",
-        "date": "2024-08-09",
-        "time": "2:57:59 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HOWARD AVE ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T34"
-    },
-    {
-        "id": "SF2410380",
-        "date": "2024-08-09",
-        "time": "2:55:45 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / SO 92 ,SMO",
-        "latitude": 37.5488862457401,
-        "longitude": -122.2917809826,
-        "units": ">E26"
-    },
-    {
-        "id": "NF2408805",
-        "date": "2024-08-09",
-        "time": "2:50:37 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PARK PLAZA DR #3 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
+        "units": ">BC5 >E29 TAC25 CM21X1"
     },
     {
         "id": "RF2408710",
@@ -52,6 +74,6 @@
         "location": "7 AVOCET DR ,RWS",
         "latitude": 37.5348892942891,
         "longitude": -122.239958414318,
-        "units": "CM11X1 >E20 >E13"
+        "units": "CM11X1 >E20"
     }
 ]
