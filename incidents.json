@@ -1,44 +1,33 @@
 [
     {
-        "id": "RF2408719",
+        "id": "MF2406549",
         "date": "2024-08-09",
-        "time": "7:18:40 PM",
+        "time": "7:46:03 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "6 NEWELL CT ,EPA",
+        "latitude": 37.4573109602062,
+        "longitude": -122.138796747127,
+        "units": "E2"
+    },
+    {
+        "id": "CF2405404",
+        "date": "2024-08-09",
+        "time": "7:35:48 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "PINE ST ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "RF2408720",
+        "date": "2024-08-09",
+        "time": "7:20:27 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "ELM ST #214 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "DF2401449",
-        "date": "2024-08-09",
-        "time": "7:10:57 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LAKEVIEW WAY ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": "E18"
-    },
-    {
-        "id": "WF2401318",
-        "date": "2024-08-09",
-        "time": "7:07:28 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MARIANI CT ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E12"
-    },
-    {
-        "id": "RF2408717",
-        "date": "2024-08-09",
-        "time": "6:53:33 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WALNUT ST #103 ,RCY",
+        "location": "WALNUT ST ,RCY",
         "latitude": null,
         "longitude": null,
         "units": ">T9"
@@ -52,7 +41,7 @@
         "location": "LA HONDA RD / SKYWOOD WAY ,WDS",
         "latitude": 37.3927322695448,
         "longitude": -122.261371894566,
-        "units": ">E19"
+        "units": ""
     },
     {
         "id": "DF2401447",
@@ -63,6 +52,6 @@
         "location": "12670 SKYLINE BLVD #D ,KMT",
         "latitude": 37.457808172942,
         "longitude": -122.34430708444,
-        "units": ">E17 >E40 >E58 >BC15 >E318>TAC45 >BC11 >E27 >E56"
+        "units": ">TAC45 >E318 >BC11 >E58 >E40>E27 >BC15 >E17 >E56"
     }
 ]
