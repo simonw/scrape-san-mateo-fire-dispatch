@@ -1,14 +1,69 @@
 [
     {
-        "id": "SF2410425",
+        "id": "RF2408740",
         "date": "2024-08-10",
-        "time": "12:42:27 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "1:04:59 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "S NORFOLK ST ,SMO",
+        "location": "QUARRY RD ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "?E26"
+        "units": "E16"
+    },
+    {
+        "id": "RF2408739",
+        "date": "2024-08-10",
+        "time": "12:59:11 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SPRING ST ,NFO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "NF2408826",
+        "date": "2024-08-10",
+        "time": "12:59:03 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ST FRANCIS BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
+    },
+    {
+        "id": "FF2404511",
+        "date": "2024-08-10",
+        "time": "12:57:17 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Grass fire",
+        "location": "LINDEN AVE / AIRPORT BLVD ,SSF",
+        "latitude": 37.6611126218461,
+        "longitude": -122.404028417312,
+        "units": "CM31X1 >E65 >Q62 >E61 >BC17?VF22X3"
+    },
+    {
+        "id": "MF2406575",
+        "date": "2024-08-10",
+        "time": "12:51:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "920 PENINSULA WAY ,MOK",
+        "latitude": 37.4663985939327,
+        "longitude": -122.166241870586,
+        "units": ">E1"
+    },
+    {
+        "id": "HF2401792",
+        "date": "2024-08-10",
+        "time": "12:49:17 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "547 MAIN ST ,HMB",
+        "latitude": 37.46275308916,
+        "longitude": -122.429060373352,
+        "units": "*>E40"
     },
     {
         "id": "WF2401329",
@@ -19,40 +74,7 @@
         "location": "SKYLINE BLVD / WINDY HILL PARKING ,PVY",
         "latitude": 37.3614779374379,
         "longitude": -122.247388899358,
-        "units": "R56 E58 R7 BC2 CM11X3?TAC15 ?CO56"
-    },
-    {
-        "id": "SF2410424",
-        "date": "2024-08-10",
-        "time": "12:33:49 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "THAYER LN #204 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "FF2404510",
-        "date": "2024-08-10",
-        "time": "12:30:33 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "E GRAND AVE #161 ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "SF2410423",
-        "date": "2024-08-10",
-        "time": "12:23:28 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "833 CORTEZ LN ,FCY",
-        "latitude": 37.5519258645511,
-        "longitude": -122.266639911849,
-        "units": ">E29"
+        "units": ">E58"
     },
     {
         "id": "RF2408738",
@@ -64,16 +86,5 @@
         "latitude": 37.4886766721668,
         "longitude": -122.242640996336,
         "units": ">E10"
-    },
-    {
-        "id": "WF2401328",
-        "date": "2024-08-10",
-        "time": "11:53:52 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "KINGS MOUNTAIN RD ,KMT",
-        "latitude": null,
-        "longitude": null,
-        "units": "E7"
     }
 ]
