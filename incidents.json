@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2408776",
+        "id": "HF2401807",
         "date": "2024-08-11",
-        "time": "12:00:08 PM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "12:23:08 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "WOODSIDE RD ,RCY",
+        "location": "FARALLONE AVE ,MON",
         "latitude": null,
         "longitude": null,
-        "units": ">E9"
+        "units": "?E44"
+    },
+    {
+        "id": "HF2401806",
+        "date": "2024-08-11",
+        "time": "12:20:43 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VUE DE MER AVE ,MBH",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E41"
+    },
+    {
+        "id": "NF2408863",
+        "date": "2024-08-11",
+        "time": "12:14:15 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #205A ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
+    },
+    {
+        "id": "MF2406598",
+        "date": "2024-08-11",
+        "time": "12:11:22 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2245 AVY AVE ,MNP",
+        "latitude": 37.4290583884217,
+        "longitude": -122.203665864042,
+        "units": ">E4"
     },
     {
         "id": "HF2401805",
@@ -19,7 +52,7 @@
         "location": "CENTRAL AVE ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": ">BC10 >E40"
+        "units": "*>E40"
     },
     {
         "id": "MF2406597",
@@ -30,50 +63,6 @@
         "location": "GREEN ST ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">E77"
-    },
-    {
-        "id": "NF2408862",
-        "date": "2024-08-11",
-        "time": "11:54:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "DEL PRADO DR ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "NF2408861",
-        "date": "2024-08-11",
-        "time": "11:45:53 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "S MAYFAIR AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
-        "id": "DF2401455",
-        "date": "2024-08-11",
-        "time": "10:46:57 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SKYLINE BLVD / BEAR GULCH RD ,SKY",
-        "latitude": 37.3958036940609,
-        "longitude": -122.292534647016,
-        "units": ">E7"
-    },
-    {
-        "id": "MF2406596",
-        "date": "2024-08-11",
-        "time": "10:33:13 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODLAND AVE #27 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2 >CM11X1 >TAC15 >E2"
+        "units": ""
     }
 ]
