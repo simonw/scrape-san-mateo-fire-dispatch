@@ -1,14 +1,36 @@
 [
     {
-        "id": "RF2408769",
+        "id": "NF2408842",
         "date": "2024-08-11",
-        "time": "2:34:25 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "3:02:10 AM",
+        "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "GOODWIN AVE ,RCY",
+        "location": "ST ,DCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E10"
+        "units": "E91"
+    },
+    {
+        "id": "LF2400673",
+        "date": "2024-08-11",
+        "time": "2:55:22 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "7620 EL CAMINO REAL ,BRD",
+        "latitude": 37.6856406007153,
+        "longitude": -122.464696412513,
+        "units": ">T85 >TAC36 >CM31X5 >BC19 >E86"
+    },
+    {
+        "id": "CF2405433",
+        "date": "2024-08-11",
+        "time": "2:46:47 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MATEO AVE #30 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
     },
     {
         "id": "NF2408841",
@@ -19,28 +41,6 @@
         "location": "JUNIPERO SERRA BLVD / D ST ,DCY",
         "latitude": 37.6839193761641,
         "longitude": -122.470710144059,
-        "units": ">T95 >BC124 >E95 TAC35 CM31X4"
-    },
-    {
-        "id": "CF2405432",
-        "date": "2024-08-11",
-        "time": "2:00:21 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Vehicle fire",
-        "location": "236 ANITA RD ,BRM",
-        "latitude": 37.5814800979291,
-        "longitude": -122.342161416681,
-        "units": ">T34 >CM21X1 >E34"
-    },
-    {
-        "id": "SF2410457",
-        "date": "2024-08-11",
-        "time": "1:55:50 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SHOREWAY RD #6215 ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">TAC35 >CM31X4 >T95 >BC124 >E95"
     }
 ]
