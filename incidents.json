@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2410461",
+        "date": "2024-08-11",
+        "time": "8:55:09 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "555 LAUREL AVE ,SMO",
+        "latitude": 37.5633958435899,
+        "longitude": -122.321075032549,
+        "units": ">T23 >BC5 >E21 CM21X4 ?TAC25"
+    },
+    {
+        "id": "SF2410460",
+        "date": "2024-08-11",
+        "time": "8:50:16 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E27"
+    },
+    {
         "id": "HF2401802",
         "date": "2024-08-11",
         "time": "8:40:51 AM",
@@ -8,18 +30,7 @@
         "location": "ASHDOWN PL ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "MF2406594",
-        "date": "2024-08-11",
-        "time": "8:37:13 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist, water problem",
-        "location": "1960 TATE ST ,EPA",
-        "latitude": 37.4589585773209,
-        "longitude": -122.132327236846,
-        "units": "T2"
+        "units": ">E40"
     },
     {
         "id": "BF2402743",
@@ -31,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E52"
-    },
-    {
-        "id": "NF2408852",
-        "date": "2024-08-11",
-        "time": "8:34:05 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ODDSTAD BLVD #219 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
     }
 ]
