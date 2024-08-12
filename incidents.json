@@ -1,5 +1,71 @@
 [
     {
+        "id": "CF2405454",
+        "date": "2024-08-11",
+        "time": "9:26:41 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "808 IRWIN DR ,HIL",
+        "latitude": 37.5755610713762,
+        "longitude": -122.364252142432,
+        "units": "?E34"
+    },
+    {
+        "id": "SF2410484",
+        "date": "2024-08-11",
+        "time": "9:25:45 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SYLVAN AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "?E23"
+    },
+    {
+        "id": "NF2408883",
+        "date": "2024-08-11",
+        "time": "9:20:06 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "BRUNSWICK ST / TEMPLETON AVE ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "BF2402749",
+        "date": "2024-08-11",
+        "time": "9:14:03 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "3300 COLLEGE DR ,SNB",
+        "latitude": 37.6297229529346,
+        "longitude": -122.466494512477,
+        "units": ">E64"
+    },
+    {
+        "id": "FF2404536",
+        "date": "2024-08-11",
+        "time": "9:12:23 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "5000 SHORELINE CT ,SSF",
+        "latitude": 37.6698877575948,
+        "longitude": -122.388425616689,
+        "units": ">E65"
+    },
+    {
+        "id": "RF2408786",
+        "date": "2024-08-11",
+        "time": "9:11:08 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "SB 101 / NO MARSH RD ,RCY",
+        "latitude": 37.4859579510142,
+        "longitude": -122.193590413825,
+        "units": ">T9 >BC3 >E11 CM11X4 TAC16"
+    },
+    {
         "id": "MF2406614",
         "date": "2024-08-11",
         "time": "9:03:40 PM",
@@ -8,7 +74,7 @@
         "location": "2830 TRAIN TRACK ,MNP",
         "latitude": 37.4587084786773,
         "longitude": -122.188650652771,
-        "units": "E6 T4 BC1 E3 TAC15CM11X5 E1 SQ401 ?USR102"
+        "units": ">BC1 >E3 >TAC15 >CM11X5"
     },
     {
         "id": "MF2406613",
@@ -19,28 +85,6 @@
         "location": "E BAYSHORE RD ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": ">T2 >E2 CM11X1"
-    },
-    {
-        "id": "CF2405453",
-        "date": "2024-08-11",
-        "time": "8:48:22 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CONCORD WAY ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2406612",
-        "date": "2024-08-11",
-        "time": "8:27:04 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "NB 101 / NO MARSH RD ,RCY",
-        "latitude": 37.4860898454352,
-        "longitude": -122.193396924125,
-        "units": ""
+        "units": ">T2 CM11X1"
     }
 ]
