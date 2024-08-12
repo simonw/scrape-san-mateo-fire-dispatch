@@ -1,5 +1,38 @@
 [
     {
+        "id": "DF2401463",
+        "date": "2024-08-12",
+        "time": "12:20:00 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Fire alarm - manual",
+        "location": "360 BUTANO CUT OFF ,PES",
+        "latitude": 37.2481691744767,
+        "longitude": -122.365556348509,
+        "units": "?E59 ?TAC45 ?CO55"
+    },
+    {
+        "id": "SF2410512",
+        "date": "2024-08-12",
+        "time": "12:09:58 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S NORFOLK ST #204 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "CF2405471",
+        "date": "2024-08-12",
+        "time": "12:09:47 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "TROUSDALE DR #104 ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
         "id": "RF2408801",
         "date": "2024-08-12",
         "time": "12:01:21 PM",
@@ -8,72 +41,6 @@
         "location": "WHIPPLE AVE #4 ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
-    },
-    {
-        "id": "CF2405470",
-        "date": "2024-08-12",
-        "time": "12:00:10 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "1182 BARROILHET AVE ,HIL",
-        "latitude": 37.5615788513402,
-        "longitude": -122.362356282599,
-        "units": "E32 E38 E34 CM21X1 BC11T34 ?TAC25"
-    },
-    {
-        "id": "FF2404546",
-        "date": "2024-08-12",
-        "time": "11:51:09 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "MORNINGSIDE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E65"
-    },
-    {
-        "id": "NF2408903",
-        "date": "2024-08-12",
-        "time": "11:45:59 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HICKEY BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E64"
-    },
-    {
-        "id": "HF2401814",
-        "date": "2024-08-12",
-        "time": "11:40:34 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SPRUCE ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "SF2410510",
-        "date": "2024-08-12",
-        "time": "11:37:57 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #205E ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "HF2401813",
-        "date": "2024-08-12",
-        "time": "11:30:01 AM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ACACIA ST ,MON",
-        "latitude": null,
-        "longitude": null,
-        "units": "*>E44"
+        "units": ">E10"
     }
 ]
