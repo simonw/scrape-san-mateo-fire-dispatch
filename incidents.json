@@ -1,25 +1,47 @@
 [
     {
-        "id": "MF2406623",
+        "id": "RF2408801",
         "date": "2024-08-12",
-        "time": "11:43:27 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "4 NEWELL CT ,EPA",
-        "latitude": 37.4573109602062,
-        "longitude": -122.138796747127,
-        "units": "E2"
+        "time": "12:01:21 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "WHIPPLE AVE #4 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
     },
     {
-        "id": "SF2410511",
+        "id": "CF2405470",
         "date": "2024-08-12",
-        "time": "11:42:33 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Wires down (not sparking)",
-        "location": "300 BLOCK SAN ANTONIO ST ,SMO",
-        "latitude": 37.5752892922059,
-        "longitude": -122.326439304745,
-        "units": "E24"
+        "time": "12:00:10 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Full assignment response",
+        "location": "1182 BARROILHET AVE ,HIL",
+        "latitude": 37.5615788513402,
+        "longitude": -122.362356282599,
+        "units": "E32 E38 E34 CM21X1 BC11T34 ?TAC25"
+    },
+    {
+        "id": "FF2404546",
+        "date": "2024-08-12",
+        "time": "11:51:09 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MORNINGSIDE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
+        "id": "NF2408903",
+        "date": "2024-08-12",
+        "time": "11:45:59 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "HICKEY BLVD ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
     },
     {
         "id": "HF2401814",
@@ -30,7 +52,7 @@
         "location": "SPRUCE ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": ">E40"
     },
     {
         "id": "SF2410510",
@@ -44,17 +66,6 @@
         "units": ">E15"
     },
     {
-        "id": "RF2408800",
-        "date": "2024-08-12",
-        "time": "11:36:59 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMPTON AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E12"
-    },
-    {
         "id": "HF2401813",
         "date": "2024-08-12",
         "time": "11:30:01 AM",
@@ -63,28 +74,6 @@
         "location": "ACACIA ST ,MON",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "NF2408902",
-        "date": "2024-08-12",
-        "time": "11:27:30 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Lock out - commercial",
-        "location": "7217 MISSION ST ,DCY",
-        "latitude": 37.6931741760839,
-        "longitude": -122.46461546385,
-        "units": ""
-    },
-    {
-        "id": "RF2408799",
-        "date": "2024-08-12",
-        "time": "11:17:44 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD #3211 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
+        "units": "*>E44"
     }
 ]
