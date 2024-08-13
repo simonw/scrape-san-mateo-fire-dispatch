@@ -1,14 +1,47 @@
 [
     {
-        "id": "MF2406648",
+        "id": "BF2402762",
         "date": "2024-08-13",
-        "time": "12:38:16 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "1:03:20 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "3300 COLLEGE DR ,SNB",
+        "latitude": 37.6297229529346,
+        "longitude": -122.466494512477,
+        "units": "E94"
+    },
+    {
+        "id": "RF2408843",
+        "date": "2024-08-13",
+        "time": "1:01:14 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "OLYMPIC AVE ,MNP",
+        "location": "MACARTHUR AVE ,NFO",
         "latitude": null,
         "longitude": null,
-        "units": ">E4"
+        "units": "E11"
+    },
+    {
+        "id": "FF2404568",
+        "date": "2024-08-13",
+        "time": "12:55:50 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "MILLER AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "FF2404567",
+        "date": "2024-08-13",
+        "time": "12:48:05 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "WEXFORD AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
     },
     {
         "id": "FF2404566",
@@ -19,18 +52,7 @@
         "location": "SAN FELIPE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "MF2406647",
-        "date": "2024-08-13",
-        "time": "12:32:40 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Public assist",
-        "location": "163 AMHERST AVE ,NFO",
-        "latitude": 37.4688175367524,
-        "longitude": -122.205907775463,
-        "units": ">E3"
+        "units": "E63"
     },
     {
         "id": "SF2410563",
@@ -48,10 +70,10 @@
         "date": "2024-08-13",
         "time": "11:45:43 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Vehicle fire",
+        "category": "Hazardous material - consult",
         "location": "425 N AMPHLETT BLVD ,SMO",
         "latitude": 37.579000136149,
         "longitude": -122.323979653604,
-        "units": ">PR5E >PR5C >PR5B >E21"
+        "units": "HM14 >PR5E >PR5C >PR5B >E21"
     }
 ]
