@@ -1,5 +1,16 @@
 [
     {
+        "id": "SF2410547",
+        "date": "2024-08-13",
+        "time": "8:15:09 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "W 25TH AVE ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T23"
+    },
+    {
         "id": "SF2410545",
         "date": "2024-08-13",
         "time": "8:01:39 AM",
@@ -11,17 +22,6 @@
         "units": ">E23"
     },
     {
-        "id": "RF2408835",
-        "date": "2024-08-13",
-        "time": "7:58:34 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "1836 EL CAMINO REAL ,RCY",
-        "latitude": 37.4775973352205,
-        "longitude": -122.224476254737,
-        "units": ">E10"
-    },
-    {
         "id": "WF2401355",
         "date": "2024-08-13",
         "time": "7:52:54 AM",
@@ -30,7 +30,7 @@
         "location": "441 WHISKEY HILL RD ,WDS",
         "latitude": 37.424090146155,
         "longitude": -122.242138575038,
-        "units": ">R7 >BC2 >E7 ?TAC16 CM11X3"
+        "units": ">PR2B >PR2C >R7 >BC2 >E7CM11X3 ?TAC16"
     },
     {
         "id": "RF2408834",
@@ -42,16 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E11"
-    },
-    {
-        "id": "MF2406642",
-        "date": "2024-08-13",
-        "time": "7:45:47 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident",
-        "location": "SB 101 / SO MARSH RD ,MNP",
-        "latitude": 37.4775111992726,
-        "longitude": -122.170198805936,
-        "units": ">E2 >E5 CM11X1"
     }
 ]
