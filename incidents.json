@@ -1,14 +1,25 @@
 [
     {
-        "id": "NF2409019",
+        "id": "MF2406722",
         "date": "2024-08-15",
-        "time": "11:41:49 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Lock out - vehicle",
-        "location": "5100 CABRILLO HWY ,PCF",
-        "latitude": 37.5983310494369,
-        "longitude": -122.501447237564,
-        "units": "?E72"
+        "time": "11:58:22 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "N LEMON AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "CF2405549",
+        "date": "2024-08-15",
+        "time": "11:55:41 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "1201 BROADWAY ,MLB",
+        "latitude": 37.6074088658413,
+        "longitude": -122.400665964601,
+        "units": "?BC8 ?TAC25 CM21X4"
     },
     {
         "id": "MF2406720",
@@ -19,40 +30,7 @@
         "location": "1222 N LEMON AVE ,MNP",
         "latitude": 37.4384471121392,
         "longitude": -122.198754200946,
-        "units": ">T4 >E4 SQ401 E1 E6CM11X5 BC1 ?TAC16"
-    },
-    {
-        "id": "BF2402779",
-        "date": "2024-08-15",
-        "time": "11:35:08 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BALBOA WAY ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T51"
-    },
-    {
-        "id": "MF2406719",
-        "date": "2024-08-15",
-        "time": "11:34:24 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #304 ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "FF2404623",
-        "date": "2024-08-15",
-        "time": "11:29:03 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
+        "units": ">T4 CM11X5 ?TAC16"
     },
     {
         "id": "MF2406717",
@@ -63,6 +41,6 @@
         "location": "605 WILLOW RD ,MNP",
         "latitude": 37.4630885983856,
         "longitude": -122.160037445701,
-        "units": "HM14 >TAC15 >BC101 >T2 >E77CM11X1"
+        "units": ">E77 >T2 CM11X1 >BC101 >TAC15>SQ401 HM14"
     }
 ]
