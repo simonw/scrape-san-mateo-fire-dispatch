@@ -1,14 +1,80 @@
 [
     {
-        "id": "CF2405558",
+        "id": "MF2406744",
         "date": "2024-08-15",
-        "time": "5:20:34 PM",
+        "time": "6:02:02 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "242 OAK GROVE AVE ,ATN",
+        "latitude": 37.4649453813792,
+        "longitude": -122.17532094572,
+        "units": "?E1"
+    },
+    {
+        "id": "MF2406743",
+        "date": "2024-08-15",
+        "time": "6:00:46 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE #222 ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": "E2"
+    },
+    {
+        "id": "SF2410665",
+        "date": "2024-08-15",
+        "time": "5:58:18 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S B ST #B ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E21"
+    },
+    {
+        "id": "HF2401830",
+        "date": "2024-08-15",
+        "time": "5:52:00 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E41"
+    },
+    {
+        "id": "HF2401829",
+        "date": "2024-08-15",
+        "time": "5:50:31 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MAIN ST #104 ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E40"
+    },
+    {
+        "id": "FF2404630",
+        "date": "2024-08-15",
+        "time": "5:48:41 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist, water problem",
+        "location": "451 S AIRPORT BLVD ,SSF",
+        "latitude": 37.6423435003702,
+        "longitude": -122.401427066303,
+        "units": ">E61"
+    },
+    {
+        "id": "CF2405559",
+        "date": "2024-08-15",
+        "time": "5:42:58 PM",
         "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "1254 HILLCREST BLVD ,MLB",
-        "latitude": 37.5930282590464,
-        "longitude": -122.406616414597,
-        "units": "E38 T34 CM21X5 E33 E37BC8 ?TAC25"
+        "category": "Fire alarm",
+        "location": "2220 SUMMIT DR ,BRM",
+        "latitude": 37.5765450548268,
+        "longitude": -122.381288839729,
+        "units": ">E35"
     },
     {
         "id": "FF2404628",
@@ -19,50 +85,6 @@
         "location": "475 E GRAND AVE ,SSF",
         "latitude": 37.6512286517641,
         "longitude": -122.381508617,
-        "units": "CM31X4 ?VF22X5 E65 >Q62 E61BC17"
-    },
-    {
-        "id": "HF2401827",
-        "date": "2024-08-15",
-        "time": "5:13:26 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SPRUCE ST ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E40"
-    },
-    {
-        "id": "MF2406742",
-        "date": "2024-08-15",
-        "time": "5:13:08 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SHARON PARK DR #D2 ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
-    },
-    {
-        "id": "MF2406740",
-        "date": "2024-08-15",
-        "time": "5:06:03 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident - structure",
-        "location": "1795 OAK AVE ,MNP",
-        "latitude": 37.4330490967515,
-        "longitude": -122.189454734822,
-        "units": ">R7 >E6 >E4 >T4 ?TAC16>BC1 ?CM11X1 >SQ401 >E1 >USR102"
-    },
-    {
-        "id": "NF2409036",
-        "date": "2024-08-15",
-        "time": "4:57:58 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "E MOLTKE ST ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E92"
+        "units": ""
     }
 ]
