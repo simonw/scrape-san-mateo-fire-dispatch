@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2408941",
+        "date": "2024-08-16",
+        "time": "9:00:57 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "2521 GOODWIN AVE ,RCY",
+        "latitude": 37.4601394296125,
+        "longitude": -122.23871444131,
+        "units": "E12"
+    },
+    {
+        "id": "SF2410704",
+        "date": "2024-08-16",
+        "time": "8:57:31 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "225 37TH AVE ,SMO",
+        "latitude": 37.5309086826939,
+        "longitude": -122.300154674965,
+        "units": ">E23"
+    },
+    {
+        "id": "NF2409055",
+        "date": "2024-08-16",
+        "time": "8:51:54 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Full assignment response",
+        "location": "329 GELLERT BLVD ,DCY",
+        "latitude": 37.6663819923391,
+        "longitude": -122.468282683512,
+        "units": ">T95 >E94 E91 CM31X1 ?TAC35"
+    },
+    {
         "id": "SF2410703",
         "date": "2024-08-16",
         "time": "8:43:12 AM",
@@ -8,61 +41,6 @@
         "location": "GATEWAY DR #150 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E26"
-    },
-    {
-        "id": "NF2409054",
-        "date": "2024-08-16",
-        "time": "8:42:48 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD #1 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
-    },
-    {
-        "id": "SF2410702",
-        "date": "2024-08-16",
-        "time": "8:34:39 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N SAN MATEO DR #109 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T21"
-    },
-    {
-        "id": "RF2408938",
-        "date": "2024-08-16",
-        "time": "8:28:40 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CHARTER ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "FF2404647",
-        "date": "2024-08-16",
-        "time": "8:27:21 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #214B ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E63"
-    },
-    {
-        "id": "CF2405572",
-        "date": "2024-08-16",
-        "time": "8:14:33 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WHITWELL RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
+        "units": ">E26"
     }
 ]
