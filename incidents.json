@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2409004",
+        "date": "2024-08-17",
+        "time": "9:57:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "1220 FOOTHILL ST ,RCY",
+        "latitude": 37.4592792686818,
+        "longitude": -122.246695784396,
+        "units": ">E12"
+    },
+    {
+        "id": "MF2406805",
+        "date": "2024-08-17",
+        "time": "9:57:19 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Trash fire",
+        "location": "WOODLAND AVE / EMMA LN ,MNP",
+        "latitude": 37.4568475586153,
+        "longitude": -122.147176911667,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2410789",
+        "date": "2024-08-17",
+        "time": "9:43:46 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SHELL BLVD #101 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
         "id": "FF2404683",
         "date": "2024-08-17",
         "time": "9:40:39 PM",
@@ -8,50 +41,6 @@
         "location": "541 CHESTNUT AVE ,SSF",
         "latitude": 37.6628969684306,
         "longitude": -122.429236766335,
-        "units": "BC17 Q62 E65 ?TAC35 ?CM31X3"
-    },
-    {
-        "id": "CF2405618",
-        "date": "2024-08-17",
-        "time": "9:32:52 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Trash fire",
-        "location": "1025 CADILLAC WAY ,BRM",
-        "latitude": 37.5875120864274,
-        "longitude": -122.359632356215,
-        "units": ">E34"
-    },
-    {
-        "id": "MF2406804",
-        "date": "2024-08-17",
-        "time": "9:31:05 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "1000 EL CAMINO REAL ,ATN",
-        "latitude": 37.4560770363324,
-        "longitude": -122.192078155915,
-        "units": ">E6 >T4 >BC1 CM11X3 >E3?TAC15 >SQ401 >E1"
-    },
-    {
-        "id": "SF2410787",
-        "date": "2024-08-17",
-        "time": "9:23:48 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BOUNTY DR #1813 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2402812",
-        "date": "2024-08-17",
-        "time": "9:10:21 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / SNEATH LN ,SNB",
-        "latitude": 37.6368636007923,
-        "longitude": -122.421363139369,
-        "units": ">T51"
+        "units": ">BC17 >E65 ?TAC35 ?CM31X3"
     }
 ]
