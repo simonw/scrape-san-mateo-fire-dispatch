@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2410860",
+        "date": "2024-08-19",
+        "time": "11:40:58 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - water flow",
+        "location": "1301 DAVID ST ,SMO",
+        "latitude": 37.5464065187312,
+        "longitude": -122.291731697295,
+        "units": "E23"
+    },
+    {
+        "id": "MF2406845",
+        "date": "2024-08-19",
+        "time": "11:37:51 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "GLORIA WAY ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
         "id": "FF2404707",
         "date": "2024-08-19",
         "time": "11:28:06 AM",
@@ -8,7 +30,7 @@
         "location": "DEL MONTE AVE ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": "?E63"
+        "units": "E63"
     },
     {
         "id": "SF2410859",
@@ -19,7 +41,7 @@
         "location": "ROBERTA DR ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E24"
+        "units": ">E24"
     },
     {
         "id": "DF2401492",
@@ -30,7 +52,7 @@
         "location": "SB 280 / NO BLACK MOUNTAIN RD OFF RAMP",
         "latitude": null,
         "longitude": null,
-        "units": ">E25"
+        "units": ""
     },
     {
         "id": "SF2410858",
@@ -44,17 +66,6 @@
         "units": ">T23"
     },
     {
-        "id": "CF2405653",
-        "date": "2024-08-19",
-        "time": "11:11:24 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR #224 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E34"
-    },
-    {
         "id": "RF2409046",
         "date": "2024-08-19",
         "time": "11:01:18 AM",
@@ -64,38 +75,5 @@
         "latitude": null,
         "longitude": null,
         "units": "E11"
-    },
-    {
-        "id": "CF2405652",
-        "date": "2024-08-19",
-        "time": "10:59:07 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BELLEVUE AVE #808 ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "WF2401388",
-        "date": "2024-08-19",
-        "time": "10:44:59 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CALIFORNIA WAY ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E19"
-    },
-    {
-        "id": "NF2409157",
-        "date": "2024-08-19",
-        "time": "10:41:39 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HAMILTON CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
     }
 ]
