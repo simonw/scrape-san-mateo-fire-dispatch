@@ -1,5 +1,27 @@
 [
     {
+        "id": "RF2409045",
+        "date": "2024-08-19",
+        "time": "10:24:28 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1 CAPTAIN LN ,RWS",
+        "latitude": 37.5425536498181,
+        "longitude": -122.237325844289,
+        "units": "?E20"
+    },
+    {
+        "id": "SF2410854",
+        "date": "2024-08-19",
+        "time": "10:13:28 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N HUMBOLDT ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "MF2406843",
         "date": "2024-08-19",
         "time": "10:03:23 AM",
@@ -8,18 +30,7 @@
         "location": "CRANE ST #224 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": "E1"
-    },
-    {
-        "id": "MF2406842",
-        "date": "2024-08-19",
-        "time": "9:55:10 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HAMILTON CT ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E77"
+        "units": ">E1"
     },
     {
         "id": "NF2409154",
@@ -30,7 +41,7 @@
         "location": "700 CABRILLO HWY ,PCF",
         "latitude": 37.6180926983936,
         "longitude": -122.485267425189,
-        "units": ">E72 CM31X1 >E71"
+        "units": "*>E72 >E71"
     },
     {
         "id": "NF2409153",
@@ -42,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E94"
-    },
-    {
-        "id": "RF2409042",
-        "date": "2024-08-19",
-        "time": "9:05:16 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E11"
     }
 ]
