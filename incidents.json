@@ -1,14 +1,36 @@
 [
     {
+        "id": "RF2409074",
+        "date": "2024-08-19",
+        "time": "9:39:53 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "SF2410882",
+        "date": "2024-08-19",
+        "time": "9:33:53 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N BAYSHORE BLVD #2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E24"
+    },
+    {
         "id": "MF2406863",
         "date": "2024-08-19",
         "time": "9:15:46 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Trash fire",
-        "location": "UNIVERSITY AVE / PURDUE AVE ,EPA",
+        "location": "1 DEAD END RUTGERS ST ,EPA",
         "latitude": 37.4795398149281,
         "longitude": -122.139695401956,
-        "units": ">E2"
+        "units": ">E2 TAC15"
     },
     {
         "id": "FF2404716",
@@ -19,6 +41,6 @@
         "location": "MANOR DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E61"
+        "units": "E61"
     }
 ]
