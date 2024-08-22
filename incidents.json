@@ -1,5 +1,49 @@
 [
     {
+        "id": "LF2400702",
+        "date": "2024-08-21",
+        "time": "7:17:01 PM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "51 CHESTER ST ,BRD",
+        "latitude": 37.6872896134198,
+        "longitude": -122.45937183426,
+        "units": "?TAC35 CM31X4 T85 E85"
+    },
+    {
+        "id": "SF2410990",
+        "date": "2024-08-21",
+        "time": "7:06:16 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "643 GREENWICH LN ,FCY",
+        "latitude": 37.5428103601596,
+        "longitude": -122.268183169756,
+        "units": ">E28"
+    },
+    {
+        "id": "SF2410989",
+        "date": "2024-08-21",
+        "time": "6:57:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Public assist",
+        "location": "456 MARINERS ISLAND BLVD ,SMO",
+        "latitude": 37.5680013807829,
+        "longitude": -122.284786730104,
+        "units": ">E29"
+    },
+    {
+        "id": "MF2406914",
+        "date": "2024-08-21",
+        "time": "6:56:09 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "SHEARER DR ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E3"
+    },
+    {
         "id": "SF2410987",
         "date": "2024-08-21",
         "time": "6:47:05 PM",
@@ -8,7 +52,7 @@
         "location": "KELLY ST ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E26"
+        "units": ">E26"
     },
     {
         "id": "DF2401505",
@@ -19,18 +63,7 @@
         "location": "PESCADERO CREEK RD ,PES",
         "latitude": null,
         "longitude": null,
-        "units": "E59 ?VFIR24 ?CO55"
-    },
-    {
-        "id": "RF2409148",
-        "date": "2024-08-21",
-        "time": "6:37:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CEDAR ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
+        "units": ">E59 >E655"
     },
     {
         "id": "SF2410986",
@@ -42,27 +75,5 @@
         "latitude": 37.5489038607272,
         "longitude": -122.318533435572,
         "units": ">E25"
-    },
-    {
-        "id": "NF2409237",
-        "date": "2024-08-21",
-        "time": "6:16:00 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GENEVA AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E93"
-    },
-    {
-        "id": "SF2410985",
-        "date": "2024-08-21",
-        "time": "6:11:23 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EMMETT AVE / EL CAMINO REAL ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
     }
 ]
