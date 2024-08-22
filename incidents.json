@@ -1,47 +1,91 @@
 [
     {
-        "id": "FF2404763",
+        "id": "RF2409175",
         "date": "2024-08-22",
-        "time": "10:37:51 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "413 ZAMORA DR ,SSF",
-        "latitude": 37.6405484713285,
-        "longitude": -122.43820884217,
-        "units": "BC17 CM31X4 Q62 E64 ?TAC35"
-    },
-    {
-        "id": "RF2409174",
-        "date": "2024-08-22",
-        "time": "10:31:10 AM",
+        "time": "11:03:13 AM",
         "summary": "Redwood City Fire on Control-1",
-        "category": "Odor investigation",
-        "location": "SB 101 / NO WHIPPLE AVE ,SNC",
-        "latitude": 37.501502985081,
-        "longitude": -122.242206420289,
-        "units": "E9 CM11X1 E14 ?TAC15"
+        "category": "Fire alarm",
+        "location": "707 ELM ST ,SNC",
+        "latitude": 37.5037873039834,
+        "longitude": -122.260885732391,
+        "units": "BC3 T9 E16 CM11X3 ?TAC16"
     },
     {
-        "id": "NF2409256",
+        "id": "SF2411013",
         "date": "2024-08-22",
-        "time": "10:26:46 AM",
-        "summary": "North County Fire on Control-3",
+        "time": "11:03:05 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "3004 SAN JUAN BLVD ,BLM",
+        "latitude": 37.5169928606664,
+        "longitude": -122.312647439562,
+        "units": "E15"
+    },
+    {
+        "id": "SF2411012",
+        "date": "2024-08-22",
+        "time": "11:01:15 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident",
+        "location": "SB 101 FRONTAGE RD / FASHION ISLAND BLV",
+        "latitude": 37.558006635589,
+        "longitude": -122.30073014274,
+        "units": "E24 >BC5 T21 E23 CM21X4?TAC25"
+    },
+    {
+        "id": "FF2404765",
+        "date": "2024-08-22",
+        "time": "10:53:22 AM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "POINTE PACIFIC DR #9 ,DCY",
+        "location": "WESTBOROUGH BLVD ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ">E64"
     },
     {
-        "id": "MF2406924",
+        "id": "MF2406928",
         "date": "2024-08-22",
-        "time": "10:24:50 AM",
+        "time": "10:51:04 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "CRANE ST ,MNP",
+        "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E6"
+        "units": ""
+    },
+    {
+        "id": "MF2406929",
+        "date": "2024-08-22",
+        "time": "10:50:49 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Structure fire",
+        "location": "2826 CURTIS AVE ,NFO",
+        "latitude": 37.4741806250994,
+        "longitude": -122.210738465935,
+        "units": ">T4 >E5 >E3 CM11X4 ?TAC15"
+    },
+    {
+        "id": "CF2405735",
+        "date": "2024-08-22",
+        "time": "10:48:23 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "LUDEMAN LN ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ""
+    },
+    {
+        "id": "SF2411009",
+        "date": "2024-08-22",
+        "time": "10:43:12 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CONSTITUTION DR ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
     },
     {
         "id": "NF2409255",
@@ -53,16 +97,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E72"
-    },
-    {
-        "id": "MF2406923",
-        "date": "2024-08-22",
-        "time": "10:17:58 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CAPITOL AVE #1 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T2"
     }
 ]
