@@ -1,5 +1,27 @@
 [
     {
+        "id": "SF2411040",
+        "date": "2024-08-22",
+        "time": "8:04:55 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "ISLAND PKWY ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E14"
+    },
+    {
+        "id": "FF2404775",
+        "date": "2024-08-22",
+        "time": "7:59:31 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "AIRPORT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
+    },
+    {
         "id": "CF2405748",
         "date": "2024-08-22",
         "time": "7:40:06 PM",
@@ -8,7 +30,7 @@
         "location": "ROLLINS RD ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": ">E34"
+        "units": "E34"
     },
     {
         "id": "NF2409272",
@@ -22,28 +44,6 @@
         "units": ">E91"
     },
     {
-        "id": "FF2404774",
-        "date": "2024-08-22",
-        "time": "7:32:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "901 CIVIC CAMPUS WAY ,SSF",
-        "latitude": 37.6560792963995,
-        "longitude": -122.435241239794,
-        "units": ">E65"
-    },
-    {
-        "id": "WF2401412",
-        "date": "2024-08-22",
-        "time": "7:28:54 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">R7"
-    },
-    {
         "id": "FF2404773",
         "date": "2024-08-22",
         "time": "7:28:34 PM",
@@ -52,7 +52,7 @@
         "location": "GELLERT BLVD #308 ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E63"
+        "units": "E63"
     },
     {
         "id": "WF2401411",
@@ -63,6 +63,6 @@
         "location": "MINOCA RD ,PVY",
         "latitude": null,
         "longitude": null,
-        "units": ">E8"
+        "units": "*>E8"
     }
 ]
