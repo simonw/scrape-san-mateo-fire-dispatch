@@ -1,57 +1,90 @@
 [
     {
-        "id": "RF2409234",
+        "id": "BF2402891",
         "date": "2024-08-24",
-        "time": "8:41:06 AM",
+        "time": "9:03:37 AM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Public assist",
+        "location": "1961 WILLOW WAY ,SNB",
+        "latitude": 37.6304751085853,
+        "longitude": -122.450518964966,
+        "units": "E52"
+    },
+    {
+        "id": "HF2401903",
+        "date": "2024-08-24",
+        "time": "9:01:25 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY S ,HMB",
+        "latitude": null,
+        "longitude": null,
+        "units": "E40"
+    },
+    {
+        "id": "DF2401517",
+        "date": "2024-08-24",
+        "time": "8:59:05 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CABRILLO HWY / GAZOS CREEK RD ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E1767 E59 ?VFIR23"
+    },
+    {
+        "id": "LF2400716",
+        "date": "2024-08-24",
+        "time": "8:58:50 AM",
+        "summary": "Colma Fire on Control-3",
+        "category": "Medical aid",
+        "location": "MISSION RD #302 ,CLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E85"
+    },
+    {
+        "id": "RF2409235",
+        "date": "2024-08-24",
+        "time": "8:58:02 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "HOPKINS AVE ,RCY",
+        "location": "BLOMQUIST ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": ">E9"
     },
     {
-        "id": "MF2406983",
+        "id": "MF2406985",
         "date": "2024-08-24",
-        "time": "8:35:52 AM",
+        "time": "8:56:22 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "555 MIDDLEFIELD RD ,ATN",
+        "latitude": 37.4611403701171,
+        "longitude": -122.17689987835,
+        "units": ">E1"
+    },
+    {
+        "id": "MF2406984",
+        "date": "2024-08-24",
+        "time": "8:54:57 AM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "TULANE AVE ,EPA",
+        "location": "WILLOW RD ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E2"
+        "units": ">E77"
     },
     {
-        "id": "FF2404813",
+        "id": "CF2405789",
         "date": "2024-08-24",
-        "time": "8:34:37 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Smoke investigation",
-        "location": "345 SHAW RD ,SSF",
-        "latitude": 37.6379757297882,
-        "longitude": -122.405678232178,
-        "units": ">Q62"
-    },
-    {
-        "id": "NF2409344",
-        "date": "2024-08-24",
-        "time": "8:12:44 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESPI DR #S202 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "NF2409341",
-        "date": "2024-08-24",
-        "time": "7:40:33 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident - structure",
-        "location": "377 ORIENTE ST ,DCY",
-        "latitude": 37.7016864967938,
-        "longitude": -122.415964793983,
-        "units": "?TAC35 CM31X4 >E93"
+        "time": "8:54:51 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Gas main break",
+        "location": "600 EL CAMINO REAL ,BRM",
+        "latitude": 37.5784809464648,
+        "longitude": -122.355579125115,
+        "units": ">E33 >BC8 >E34 CM21X3 ?TAC25"
     }
 ]
