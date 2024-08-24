@@ -1,5 +1,38 @@
 [
     {
+        "id": "RF2409234",
+        "date": "2024-08-24",
+        "time": "8:41:06 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HOPKINS AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "MF2406983",
+        "date": "2024-08-24",
+        "time": "8:35:52 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "TULANE AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "FF2404813",
+        "date": "2024-08-24",
+        "time": "8:34:37 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Smoke investigation",
+        "location": "345 SHAW RD ,SSF",
+        "latitude": 37.6379757297882,
+        "longitude": -122.405678232178,
+        "units": ">Q62"
+    },
+    {
         "id": "NF2409344",
         "date": "2024-08-24",
         "time": "8:12:44 AM",
@@ -11,17 +44,6 @@
         "units": ">E72"
     },
     {
-        "id": "RF2409233",
-        "date": "2024-08-24",
-        "time": "7:53:34 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Fire alarm - smoke detector",
-        "location": "840 LAKESHORE DR ,RWS",
-        "latitude": 37.5366594463275,
-        "longitude": -122.244697944164,
-        "units": ">E20"
-    },
-    {
         "id": "NF2409341",
         "date": "2024-08-24",
         "time": "7:40:33 AM",
@@ -30,6 +52,6 @@
         "location": "377 ORIENTE ST ,DCY",
         "latitude": 37.7016864967938,
         "longitude": -122.415964793983,
-        "units": "?TAC35 CM31X4 >E93 >T95"
+        "units": "?TAC35 CM31X4 >E93"
     }
 ]
