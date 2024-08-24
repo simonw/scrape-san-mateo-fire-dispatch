@@ -1,14 +1,25 @@
 [
     {
-        "id": "BF2402891",
+        "id": "MF2406986",
         "date": "2024-08-24",
-        "time": "9:03:37 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Public assist",
-        "location": "1961 WILLOW WAY ,SNB",
-        "latitude": 37.6304751085853,
-        "longitude": -122.450518964966,
-        "units": "E52"
+        "time": "9:26:18 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "MERCEDES LN ,ATN",
+        "latitude": null,
+        "longitude": null,
+        "units": "E3"
+    },
+    {
+        "id": "CF2405790",
+        "date": "2024-08-24",
+        "time": "9:10:11 AM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MAHLER RD ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">T34"
     },
     {
         "id": "HF2401903",
@@ -19,7 +30,7 @@
         "location": "CABRILLO HWY S ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
+        "units": ">E40"
     },
     {
         "id": "DF2401517",
@@ -30,40 +41,7 @@
         "location": "CABRILLO HWY / GAZOS CREEK RD ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": "E1767 E59 ?VFIR23"
-    },
-    {
-        "id": "LF2400716",
-        "date": "2024-08-24",
-        "time": "8:58:50 AM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MISSION RD #302 ,CLM",
-        "latitude": null,
-        "longitude": null,
-        "units": "E85"
-    },
-    {
-        "id": "RF2409235",
-        "date": "2024-08-24",
-        "time": "8:58:02 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BLOMQUIST ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "MF2406985",
-        "date": "2024-08-24",
-        "time": "8:56:22 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "555 MIDDLEFIELD RD ,ATN",
-        "latitude": 37.4611403701171,
-        "longitude": -122.17689987835,
-        "units": ">E1"
+        "units": ">E59 BC10 >E1767 ?VFIR23"
     },
     {
         "id": "MF2406984",
@@ -75,16 +53,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E77"
-    },
-    {
-        "id": "CF2405789",
-        "date": "2024-08-24",
-        "time": "8:54:51 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Gas main break",
-        "location": "600 EL CAMINO REAL ,BRM",
-        "latitude": 37.5784809464648,
-        "longitude": -122.355579125115,
-        "units": ">E33 >BC8 >E34 CM21X3 ?TAC25"
     }
 ]
