@@ -1,80 +1,69 @@
 [
     {
-        "id": "FF2404801",
+        "id": "FF2404803",
         "date": "2024-08-23",
-        "time": "5:23:52 PM",
+        "time": "5:58:30 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "?E63"
+        "category": "Fire alarm",
+        "location": "380 S AIRPORT BLVD ,SSF",
+        "latitude": 37.6434727669517,
+        "longitude": -122.404468291992,
+        "units": "BC17 E63 E51 E65 Q62CM31X4 ?TAC35"
     },
     {
-        "id": "SF2411067",
+        "id": "FF2404802",
         "date": "2024-08-23",
-        "time": "5:20:29 PM",
+        "time": "5:55:58 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "SYCAMORE AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
+        "id": "SF2411068",
+        "date": "2024-08-23",
+        "time": "5:52:46 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident",
-        "location": "451 W 20TH AVE ,SMO",
-        "latitude": 37.5461444445696,
-        "longitude": -122.317386240958,
-        "units": "BC5 E25 T23 CM21X5 ?TAC25"
-    },
-    {
-        "id": "MF2406969",
-        "date": "2024-08-23",
-        "time": "5:18:59 PM",
-        "summary": "Menlo Park Fire on Control-1",
         "category": "Public assist",
-        "location": "MENLO AVE / CRANE ST ,MNP",
-        "latitude": 37.4502290977731,
-        "longitude": -122.184041654203,
-        "units": ">E6"
+        "location": "505 S B ST ,SMO",
+        "latitude": 37.5640881543538,
+        "longitude": -122.320360386943,
+        "units": ">E21"
     },
     {
-        "id": "WF2401414",
+        "id": "DF2401513",
         "date": "2024-08-23",
-        "time": "5:18:05 PM",
-        "summary": "Woodside Fire on Control-3",
+        "time": "5:50:12 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Elevator rescue",
+        "location": "100 LIFEMARK RD ,SON",
+        "latitude": 37.4984792791482,
+        "longitude": -122.369023723921,
+        "units": ">T17"
+    },
+    {
+        "id": "DF2401512",
+        "date": "2024-08-23",
+        "time": "5:44:08 PM",
+        "summary": "County Fire on Control-1",
         "category": "Medical aid",
-        "location": "ELK TREE RD ,SKY",
+        "location": "SKYLINE BLVD ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": ">E58"
+        "units": ">E356 >TAC45 >R56"
     },
     {
-        "id": "FF2404800",
+        "id": "NF2409320",
         "date": "2024-08-23",
-        "time": "5:15:35 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "FORBES BLVD ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">Q62"
-    },
-    {
-        "id": "NF2409318",
-        "date": "2024-08-23",
-        "time": "5:15:33 PM",
+        "time": "5:42:48 PM",
         "summary": "North County Fire on Control-3",
-        "category": "Public assist, water problem",
-        "location": "463 SOUTHGATE AVE ,DCY",
-        "latitude": 37.6971017724188,
-        "longitude": -122.489845434804,
+        "category": "Medical aid",
+        "location": "PIERCE ST #106 ,DCY",
+        "latitude": null,
+        "longitude": null,
         "units": ">E95"
-    },
-    {
-        "id": "MF2406968",
-        "date": "2024-08-23",
-        "time": "5:02:39 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
-        "location": "1600 ADAMS DR ,MNP",
-        "latitude": 37.4787152481818,
-        "longitude": -122.140518275394,
-        "units": ">T2"
     },
     {
         "id": "NF2409317",
@@ -85,6 +74,6 @@
         "location": "111 S MAYFAIR AVE #17 ,DCY",
         "latitude": 37.703236108083,
         "longitude": -122.476287247919,
-        "units": ">PR20A >E93 >T95 >BC20 >E92>E91 CM31X5 ?TAC36"
+        "units": ">PR20A >T95 >BC20 >E92 >E91CM31X5 ?TAC36"
     }
 ]
