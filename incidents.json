@@ -1,22 +1,88 @@
 [
     {
+        "id": "FF2404876",
+        "date": "2024-08-26",
+        "time": "1:23:42 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "AIRPORT BLVD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "NF2409436",
+        "date": "2024-08-26",
+        "time": "1:23:18 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #117 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "RF2409290",
+        "date": "2024-08-26",
+        "time": "1:22:17 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHARTER ST #14 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E9"
+    },
+    {
+        "id": "NF2409435",
+        "date": "2024-08-26",
+        "time": "1:20:37 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "SKYLINE DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E91"
+    },
+    {
+        "id": "RF2409288",
+        "date": "2024-08-26",
+        "time": "1:07:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CHARTER ST ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E11"
+    },
+    {
+        "id": "FF2404872",
+        "date": "2024-08-26",
+        "time": "1:05:03 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm",
+        "location": "65 CHESTNUT AVE ,SSF",
+        "latitude": 37.6569861811527,
+        "longitude": -122.432041129396,
+        "units": ">E65"
+    },
+    {
+        "id": "RF2409287",
+        "date": "2024-08-26",
+        "time": "1:04:38 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "AVOCET DR #7110 ,RWS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E20"
+    },
+    {
         "id": "HF2401927",
         "date": "2024-08-26",
         "time": "1:04:22 PM",
         "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
         "location": "KELMORE ST ,MBH",
-        "latitude": null,
-        "longitude": null,
-        "units": "E44"
-    },
-    {
-        "id": "WF2401433",
-        "date": "2024-08-26",
-        "time": "1:00:37 PM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "WOODSIDE RD ,WDS",
         "latitude": null,
         "longitude": null,
         "units": ""
@@ -30,18 +96,7 @@
         "location": "AIRPORT BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
-    },
-    {
-        "id": "NF2409434",
-        "date": "2024-08-26",
-        "time": "12:53:54 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ALICANTE DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
+        "units": ""
     },
     {
         "id": "SF2411172",
@@ -53,71 +108,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E27"
-    },
-    {
-        "id": "SF2411171",
-        "date": "2024-08-26",
-        "time": "12:46:39 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SEVILLE WAY ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "RF2409286",
-        "date": "2024-08-26",
-        "time": "12:46:37 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PORTO ROSA WAY ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E16"
-    },
-    {
-        "id": "MF2407034",
-        "date": "2024-08-26",
-        "time": "12:42:17 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PULGAS AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "RF2409285",
-        "date": "2024-08-26",
-        "time": "12:36:42 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HIGHLAND AVE ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "FF2404870",
-        "date": "2024-08-26",
-        "time": "12:33:57 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "ARMOUR AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "BF2402920",
-        "date": "2024-08-26",
-        "time": "12:28:55 PM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Medical aid",
-        "location": "SHELTER CREEK LN ,SNB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E51"
     }
 ]
