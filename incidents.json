@@ -1,14 +1,58 @@
 [
     {
-        "id": "CF2405851",
+        "id": "RF2409296",
         "date": "2024-08-26",
-        "time": "3:26:44 PM",
-        "summary": "Central County Fire on Control-2",
+        "time": "3:40:35 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "750 DARTMOUTH AVE #MARIPOSA ,SNC",
+        "latitude": 37.5091112304398,
+        "longitude": -122.286149095172,
+        "units": "E15"
+    },
+    {
+        "id": "RF2409295",
+        "date": "2024-08-26",
+        "time": "3:39:40 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "EL CAMINO REAL ,MLB",
+        "location": "E SAN CARLOS AVE #11 ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": "E16"
+    },
+    {
+        "id": "FF2404879",
+        "date": "2024-08-26",
+        "time": "3:35:31 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "400 HILLSIDE BLVD ,SSF",
+        "latitude": 37.6647923164338,
+        "longitude": -122.409699853165,
+        "units": "?TAC35 CM31X1 >E65 Q62 >BC17"
+    },
+    {
+        "id": "MF2407041",
+        "date": "2024-08-26",
+        "time": "3:29:40 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "OAK KNOLL LN ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E6"
+    },
+    {
+        "id": "RF2409294",
+        "date": "2024-08-26",
+        "time": "3:29:22 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "VETERANS BLVD ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
     },
     {
         "id": "SF2411178",
@@ -22,28 +66,6 @@
         "units": ">E25"
     },
     {
-        "id": "NF2409440",
-        "date": "2024-08-26",
-        "time": "3:19:28 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ESCUELA DR #141A ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E95"
-    },
-    {
-        "id": "SF2411177",
-        "date": "2024-08-26",
-        "time": "3:18:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "AVE ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E21"
-    },
-    {
         "id": "SF2411176",
         "date": "2024-08-26",
         "time": "3:13:31 PM",
@@ -55,28 +77,6 @@
         "units": ">T23"
     },
     {
-        "id": "RF2409293",
-        "date": "2024-08-26",
-        "time": "3:11:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SYCAMORE ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "NF2409439",
-        "date": "2024-08-26",
-        "time": "3:10:48 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "CRESTON AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E91"
-    },
-    {
         "id": "FF2404878",
         "date": "2024-08-26",
         "time": "3:07:31 PM",
@@ -85,51 +85,7 @@
         "location": "65 CHESTNUT AVE ,SSF",
         "latitude": 37.6569861811527,
         "longitude": -122.432041129396,
-        "units": ">E63 >PR17C"
-    },
-    {
-        "id": "MF2407040",
-        "date": "2024-08-26",
-        "time": "3:05:42 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "E O'KEEFE ST #12 ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "MF2407039",
-        "date": "2024-08-26",
-        "time": "3:01:06 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELLIOT DR ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "HF2401928",
-        "date": "2024-08-26",
-        "time": "2:59:39 PM",
-        "summary": "Coastside Fire on Control-1",
-        "category": "Medical aid",
-        "location": "MIRAMONTES POINT RD ,HMB",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "NF2409438",
-        "date": "2024-08-26",
-        "time": "2:52:22 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "GELLERT BLVD ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E94"
+        "units": ">PR17C"
     },
     {
         "id": "MF2407037",
