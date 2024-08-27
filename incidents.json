@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2411194",
+        "date": "2024-08-26",
+        "time": "9:03:43 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Odor investigation",
+        "location": "555 LAUREL AVE ,SMO",
+        "latitude": 37.5633958435899,
+        "longitude": -122.321075032549,
+        "units": "E21"
+    },
+    {
+        "id": "CF2405861",
+        "date": "2024-08-26",
+        "time": "8:55:08 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL #3 ,MLB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E37"
+    },
+    {
+        "id": "WF2401434",
+        "date": "2024-08-26",
+        "time": "8:46:41 PM",
+        "summary": "Woodside Fire on Control-3",
+        "category": "Medical aid",
+        "location": "PHILLIP RD ,WDS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E7"
+    },
+    {
         "id": "SF2411193",
         "date": "2024-08-26",
         "time": "8:41:22 PM",
@@ -8,7 +41,7 @@
         "location": "S FREMONT ST / CYPRESS AVE ,SMO",
         "latitude": 37.5710516835022,
         "longitude": -122.321244966195,
-        "units": "T21 E24 TAC25 CM21X1"
+        "units": ">BC5 >E24 >T21 CM21X1 TAC25"
     },
     {
         "id": "SF2411192",
@@ -19,72 +52,17 @@
         "location": "OLD COUNTY RD #L10 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ""
     },
     {
-        "id": "NF2409453",
+        "id": "SF2411191",
         "date": "2024-08-26",
-        "time": "8:37:32 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "8:37:06 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "BRUNSWICK ST ,DCY",
+        "location": "FLORES ST #117B ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E92"
-    },
-    {
-        "id": "FF2404885",
-        "date": "2024-08-26",
-        "time": "8:34:40 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "KENWOOD WAY ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E61"
-    },
-    {
-        "id": "RF2409313",
-        "date": "2024-08-26",
-        "time": "8:28:18 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "PROSPECT ST ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "CF2405860",
-        "date": "2024-08-26",
-        "time": "8:18:56 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BROADWAY #1205 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
-    },
-    {
-        "id": "RF2409312",
-        "date": "2024-08-26",
-        "time": "8:18:20 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "FAIR OAKS AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E11"
-    },
-    {
-        "id": "NF2409452",
-        "date": "2024-08-26",
-        "time": "8:16:19 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "BROOKHAVEN CT ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E94"
+        "units": ""
     }
 ]
