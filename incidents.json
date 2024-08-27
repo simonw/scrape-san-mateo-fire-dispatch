@@ -1,5 +1,49 @@
 [
     {
+        "id": "RF2409331",
+        "date": "2024-08-27",
+        "time": "10:42:49 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "1567 EDMOND DR ,SNC",
+        "latitude": 37.4762849369345,
+        "longitude": -122.277301004876,
+        "units": "?E18"
+    },
+    {
+        "id": "MF2407065",
+        "date": "2024-08-27",
+        "time": "10:39:54 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "HAMILTON AVE ,MNP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E77"
+    },
+    {
+        "id": "SF2411212",
+        "date": "2024-08-27",
+        "time": "10:39:52 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "120 S ELLSWORTH AVE ,SMO",
+        "latitude": 37.5661539026784,
+        "longitude": -122.324786620493,
+        "units": ">T21"
+    },
+    {
+        "id": "FF2404895",
+        "date": "2024-08-27",
+        "time": "10:35:27 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "S LINDEN AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
+    },
+    {
         "id": "SF2411210",
         "date": "2024-08-27",
         "time": "10:20:56 AM",
@@ -19,18 +63,7 @@
         "location": "EL CAMINO REAL ,SNB",
         "latitude": null,
         "longitude": null,
-        "units": ">E52"
-    },
-    {
-        "id": "FF2404894",
-        "date": "2024-08-27",
-        "time": "10:15:11 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Elevator rescue",
-        "location": "201 GRAND AVE ,SSF",
-        "latitude": 37.6545900348514,
-        "longitude": -122.408857510207,
-        "units": "TAC35 >E61"
+        "units": ""
     },
     {
         "id": "CF2405873",
@@ -41,28 +74,6 @@
         "location": "1100 TROUSDALE DR ,BRM",
         "latitude": 37.5954836542456,
         "longitude": -122.382771993222,
-        "units": ">E37 >E38 >BC8 >T34 CM21X2?TAC25"
-    },
-    {
-        "id": "SF2411209",
-        "date": "2024-08-27",
-        "time": "9:59:28 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SOUTH RD ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "WF2401438",
-        "date": "2024-08-27",
-        "time": "9:58:35 AM",
-        "summary": "Woodside Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PATROL CT ,WDS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E7"
+        "units": ">T34"
     }
 ]
