@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2409378",
+        "id": "FF2404913",
         "date": "2024-08-28",
-        "time": "1:21:03 PM",
+        "time": "1:40:33 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "WESTBOROUGH BLVD / JUNIPERO SERRA BLVD",
+        "latitude": 37.6459959212589,
+        "longitude": -122.448345189396,
+        "units": "E63 CM31X1 Q62 BC17 TAC36"
+    },
+    {
+        "id": "NF2409516",
+        "date": "2024-08-28",
+        "time": "1:39:32 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "BAYSHORE BLVD / OLD COUNTY RD ,BRS",
+        "latitude": 37.6854686085212,
+        "longitude": -122.398150359287,
+        "units": "TAC35 T95 >E81 CM31X3 BC20"
+    },
+    {
+        "id": "RF2409379",
+        "date": "2024-08-28",
+        "time": "1:37:51 PM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "BRITTAN AVE ,SNC",
+        "location": "BAYVIEW DR ,SNC",
         "latitude": null,
         "longitude": null,
-        "units": "E16"
+        "units": "E13"
+    },
+    {
+        "id": "CF2405908",
+        "date": "2024-08-28",
+        "time": "1:27:38 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1801 ADRIAN RD ,BRM",
+        "latitude": 37.599139722206,
+        "longitude": -122.37745442042,
+        "units": ">E34"
     },
     {
         "id": "SF2411266",
@@ -31,38 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E6"
-    },
-    {
-        "id": "CF2405907",
-        "date": "2024-08-28",
-        "time": "1:18:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "FLORIBUNDA AVE ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E35"
-    },
-    {
-        "id": "MF2407102",
-        "date": "2024-08-28",
-        "time": "1:14:38 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ALTSCHUL AVE / ASHTON AVE ,WMP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">T4"
-    },
-    {
-        "id": "MF2407101",
-        "date": "2024-08-28",
-        "time": "1:12:31 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BUCKINGHAM AVE #B ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E3"
     }
 ]
