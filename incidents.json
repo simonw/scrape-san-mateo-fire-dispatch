@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2409492",
+        "id": "NF2409493",
         "date": "2024-08-27",
-        "time": "9:26:46 PM",
+        "time": "9:35:37 PM",
         "summary": "North County Fire on Control-3",
+        "category": "Traffic accident",
+        "location": "JOHN DALY BLVD / SKYLINE BLVD ,DCY",
+        "latitude": 37.6984508080946,
+        "longitude": -122.494863325599,
+        "units": ">E95"
+    },
+    {
+        "id": "MF2407086",
+        "date": "2024-08-27",
+        "time": "9:34:17 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "OAK GROVE AVE / MIDDLEFIELD RD ,ATN",
+        "latitude": 37.4618674817492,
+        "longitude": -122.17849448414,
+        "units": ">E1"
+    },
+    {
+        "id": "SF2411235",
+        "date": "2024-08-27",
+        "time": "9:32:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "LINDA MAR SHOPPING CTR ,PCF",
+        "location": "DOVER LN ,FCY",
         "latitude": null,
         "longitude": null,
-        "units": "E72"
+        "units": ">E29"
+    },
+    {
+        "id": "RF2409358",
+        "date": "2024-08-27",
+        "time": "9:27:52 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "1661 INDUSTRIAL RD #A ,SNC",
+        "latitude": 37.4996625301141,
+        "longitude": -122.241466961272,
+        "units": ">E13"
     },
     {
         "id": "MF2407085",
@@ -19,7 +52,7 @@
         "location": "1885 E BAYSHORE RD #49 ,EPA",
         "latitude": 37.456321249816,
         "longitude": -122.131363309402,
-        "units": "E2"
+        "units": ">E2"
     },
     {
         "id": "MF2407083",
@@ -41,6 +74,6 @@
         "location": "23 PACIFIC BAY CIR #304 ,SNB",
         "latitude": 37.6384938502782,
         "longitude": -122.464373883365,
-        "units": ">T51 >BC16 >T95 >CM31X2 >TAC35>E94 >E52 >E64"
+        "units": ">T51 >BC16 >CM31X2 >TAC35 >E94>E52 >E64"
     }
 ]
