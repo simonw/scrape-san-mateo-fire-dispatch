@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2411263",
+        "id": "MF2407100",
         "date": "2024-08-28",
-        "time": "12:43:09 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "1:03:14 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "KELTON CT ,SMO",
+        "location": "EUCLID AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "?E23"
+        "units": ">E2"
+    },
+    {
+        "id": "RF2409377",
+        "date": "2024-08-28",
+        "time": "12:58:57 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "699 SEAPORT BLVD ,RCY",
+        "latitude": 37.5084297973317,
+        "longitude": -122.209362466591,
+        "units": ">BC3 E10 E9 CM11X2 E11T9 ?TAC15"
+    },
+    {
+        "id": "SF2411265",
+        "date": "2024-08-28",
+        "time": "12:55:37 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "769 SEQUOIA AVE ,SMO",
+        "latitude": 37.5370786431211,
+        "longitude": -122.319572918057,
+        "units": ">E25 >T23 >BC5 CM21X4 ?TAC25"
     },
     {
         "id": "DF2401545",
@@ -19,18 +41,7 @@
         "location": "SKYLINE BLVD ,KMT",
         "latitude": null,
         "longitude": null,
-        "units": "TAC45 >R56 E58"
-    },
-    {
-        "id": "MF2407098",
-        "date": "2024-08-28",
-        "time": "12:28:35 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLARKE AVE ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
+        "units": "*>R56"
     },
     {
         "id": "SF2411261",
@@ -41,6 +52,6 @@
         "location": "1175 PARK PL ,SMO",
         "latitude": 37.5459092334857,
         "longitude": -122.290836552377,
-        "units": ">E26"
+        "units": "CM21X1"
     }
 ]
