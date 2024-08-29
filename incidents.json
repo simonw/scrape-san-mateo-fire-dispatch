@@ -1,14 +1,47 @@
 [
     {
+        "id": "NF2409529",
+        "date": "2024-08-28",
+        "time": "9:41:58 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "ESPLANADE AVE #208B ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E71"
+    },
+    {
+        "id": "NF2409528",
+        "date": "2024-08-28",
+        "time": "9:38:08 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm - manual",
+        "location": "501 KING DR ,DCY",
+        "latitude": 37.6540074635937,
+        "longitude": -122.453402476534,
+        "units": "E64 ?TAC35 BC121 T95 E95E94 CM31X5"
+    },
+    {
+        "id": "SF2411285",
+        "date": "2024-08-28",
+        "time": "9:37:05 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "MIRAMAR #207 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
         "id": "MF2407114",
         "date": "2024-08-28",
         "time": "9:24:46 PM",
         "summary": "Menlo Park Fire on Control-1",
-        "category": "Traffic accident pd request c3",
+        "category": "Traffic accident",
         "location": "NB 101 / SO MARSH RD ,MNP",
         "latitude": 37.4775715102468,
         "longitude": -122.169821019453,
-        "units": "E5 T2 ?TAC16 CM11X1 BC101E2 SQ401"
+        "units": ">E5 >T2 ?TAC16 CM11X1 >E2>BC101 >SQ401"
     },
     {
         "id": "BF2402952",
@@ -30,18 +63,7 @@
         "location": "590 AVOCET DR #7208 ,RWS",
         "latitude": 37.5344090368416,
         "longitude": -122.241040653288,
-        "units": ">BC3 >T9 >E13 >E16 >E26>E20 >E14 ?TAC15 CM11X5 >BC5"
-    },
-    {
-        "id": "SF2411283",
-        "date": "2024-08-28",
-        "time": "9:04:20 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CHERRYWOOD DR ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E27"
+        "units": ">BC3 >E13 >E16 >E20 ?TAC15CM11X5"
     },
     {
         "id": "SF2411282",
@@ -53,16 +75,5 @@
         "latitude": 37.5819022143102,
         "longitude": -122.253289256567,
         "units": ">E29"
-    },
-    {
-        "id": "CF2405918",
-        "date": "2024-08-28",
-        "time": "8:55:01 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "EL CAMINO REAL #305 ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E37"
     }
 ]
