@@ -1,5 +1,38 @@
 [
     {
+        "id": "SF2411371",
+        "date": "2024-08-30",
+        "time": "3:27:00 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "SEM LN ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": "E20"
+    },
+    {
+        "id": "FF2404954",
+        "date": "2024-08-30",
+        "time": "3:26:12 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "COMMERCIAL AVE #5 ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": "E61"
+    },
+    {
+        "id": "NF2409599",
+        "date": "2024-08-30",
+        "time": "3:13:47 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "GLEN PKWY ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
+    },
+    {
         "id": "SF2411370",
         "date": "2024-08-30",
         "time": "3:03:57 PM",
@@ -8,7 +41,7 @@
         "location": "400 PENINSULA AVE ,SMO",
         "latitude": 37.5783859617835,
         "longitude": -122.336962876749,
-        "units": "BC8 E24 CM21X3 ?TAC25 ?T21"
+        "units": "CM21X3 >BC8 ?TAC25"
     },
     {
         "id": "RF2409458",
@@ -19,28 +52,17 @@
         "location": "1001 LAUREL ST ,SNC",
         "latitude": 37.5013370868225,
         "longitude": -122.254090740883,
-        "units": "E16"
-    },
-    {
-        "id": "CF2405964",
-        "date": "2024-08-30",
-        "time": "3:01:35 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HAZEL AVE ,MLB",
-        "latitude": null,
-        "longitude": null,
-        "units": "E37"
+        "units": ">E16"
     },
     {
         "id": "SF2411369",
         "date": "2024-08-30",
         "time": "2:52:57 PM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
+        "category": "Hazardous material - consult",
         "location": "2001 CHESS DR ,SMO",
         "latitude": 37.56168081168,
         "longitude": -122.282064538844,
-        "units": ">E26"
+        "units": ">E26 HM14"
     }
 ]
