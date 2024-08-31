@@ -1,14 +1,36 @@
 [
     {
-        "id": "MF2407184",
+        "id": "HF2401963",
         "date": "2024-08-31",
-        "time": "2:42:10 PM",
-        "summary": "Menlo Park Fire on Control-1",
+        "time": "3:03:06 PM",
+        "summary": "Coastside Fire on Control-1",
         "category": "Medical aid",
-        "location": "MARSH RD ,MNP",
+        "location": "MAIN ST ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E77"
+        "units": ">E40"
+    },
+    {
+        "id": "CF2405987",
+        "date": "2024-08-31",
+        "time": "2:57:58 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,BRM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E34"
+    },
+    {
+        "id": "NF2409632",
+        "date": "2024-08-31",
+        "time": "2:55:12 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "OLD COUNTY RD ,BRS",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E81"
     },
     {
         "id": "HF2401962",
@@ -19,29 +41,7 @@
         "location": "JOHNSON PIER ,PRN",
         "latitude": null,
         "longitude": null,
-        "units": "E41"
-    },
-    {
-        "id": "MF2407183",
-        "date": "2024-08-31",
-        "time": "2:38:35 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "SANTA CRUZ AVE ,MNP",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E4"
-    },
-    {
-        "id": "NF2409631",
-        "date": "2024-08-31",
-        "time": "2:38:18 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "LAUSANNE AVE ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": "E92"
+        "units": ">E41"
     },
     {
         "id": "DF2401570",
@@ -52,17 +52,6 @@
         "location": "9755 LA HONDA RD ,LAH",
         "latitude": 37.3303127784319,
         "longitude": -122.27015165649,
-        "units": "E58 CO57 R57"
-    },
-    {
-        "id": "SF2411411",
-        "date": "2024-08-31",
-        "time": "2:32:08 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist",
-        "location": "507 MONTE DIABLO AVE ,SMO",
-        "latitude": 37.5719654301946,
-        "longitude": -122.326620083549,
-        "units": ">E24"
+        "units": ">E58 >R57"
     }
 ]
