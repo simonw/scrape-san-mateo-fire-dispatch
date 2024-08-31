@@ -1,14 +1,36 @@
 [
     {
-        "id": "CF2405978",
+        "id": "CF2405979",
         "date": "2024-08-31",
-        "time": "9:25:48 AM",
+        "time": "9:43:50 AM",
         "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "1045 MACADAMIA DR ,HIL",
+        "latitude": 37.5708626612369,
+        "longitude": -122.381048674648,
+        "units": "?E33"
+    },
+    {
+        "id": "DF2401566",
+        "date": "2024-08-31",
+        "time": "9:43:01 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "CABRILLO HWY S / LA HONDA RD ,SNG",
+        "latitude": 37.3245009945071,
+        "longitude": -122.399899192199,
+        "units": "E40 E59 ?TAC15 ?BC15 ?CO57"
+    },
+    {
+        "id": "RF2409483",
+        "date": "2024-08-31",
+        "time": "9:36:50 AM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "TROUSDALE DR #409 ,BRM",
+        "location": "PARK ST ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E37"
+        "units": ">E10"
     },
     {
         "id": "SF2411402",
@@ -19,7 +41,7 @@
         "location": "N EL CAMINO REAL #107 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "SF2411401",
@@ -30,50 +52,6 @@
         "location": "SIXTH AVE #308 ,BLM",
         "latitude": null,
         "longitude": null,
-        "units": ">E14"
-    },
-    {
-        "id": "SF2411399",
-        "date": "2024-08-31",
-        "time": "9:12:30 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Traffic accident pd request c3",
-        "location": "S DELAWARE ST / BIRCH AVE ,SMO",
-        "latitude": 37.5604260503235,
-        "longitude": -122.312745057998,
         "units": ""
-    },
-    {
-        "id": "FF2404962",
-        "date": "2024-08-31",
-        "time": "9:10:33 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "850 OLIVE AVE #12 ,SSF",
-        "latitude": 37.6618504793907,
-        "longitude": -122.408674092041,
-        "units": ">E65"
-    },
-    {
-        "id": "NF2409622",
-        "date": "2024-08-31",
-        "time": "9:08:59 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "PIERCE ST #460 ,DCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ""
-    },
-    {
-        "id": "SF2411398",
-        "date": "2024-08-31",
-        "time": "9:05:06 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "MARINERS ISLAND BLVD #324 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E26"
     }
 ]
