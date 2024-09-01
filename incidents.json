@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2404976",
+        "id": "HF2401968",
         "date": "2024-08-31",
-        "time": "8:11:17 PM",
+        "time": "8:25:35 PM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Odor investigation",
+        "location": "ISABELLA AVE / COLUMBUS ST ,ELG",
+        "latitude": 37.5048796720753,
+        "longitude": -122.465294176091,
+        "units": ">E41"
+    },
+    {
+        "id": "SF2411429",
+        "date": "2024-08-31",
+        "time": "8:25:01 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "S EL CAMINO REAL #122 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": "E23"
+    },
+    {
+        "id": "BF2402980",
+        "date": "2024-08-31",
+        "time": "8:20:35 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FLEETWOOD CT ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E64"
+    },
+    {
+        "id": "FF2404977",
+        "date": "2024-08-31",
+        "time": "8:17:24 PM",
         "summary": "South San Francisco on Control-3",
-        "category": "Traffic accident pd request c3",
-        "location": "EL CAMINO REAL / CHESTNUT AVE ,SSF",
-        "latitude": 37.6551542552064,
-        "longitude": -122.434363762518,
-        "units": "E63 BC17 Q62 CM31X2 ?TAC35"
+        "category": "Medical aid",
+        "location": "KENWOOD WAY ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E61"
     },
     {
         "id": "SF2411428",
@@ -16,7 +49,7 @@
         "time": "8:06:17 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "RAMONA ST ,SMO",
+        "location": "RAMONA ST #A ,SMO",
         "latitude": null,
         "longitude": null,
         "units": ">E21"
@@ -31,49 +64,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E40"
-    },
-    {
-        "id": "MF2407192",
-        "date": "2024-08-31",
-        "time": "8:02:53 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Full assignment response",
-        "location": "2150 PULGAS AVE ,EPA",
-        "latitude": 37.4639000297561,
-        "longitude": -122.130164432204,
-        "units": ">E2"
-    },
-    {
-        "id": "NF2409648",
-        "date": "2024-08-31",
-        "time": "7:51:17 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Carbon monoxide alarm",
-        "location": "1528 PEREZ DR ,PCF",
-        "latitude": 37.5785532787692,
-        "longitude": -122.492172764798,
-        "units": ">E71"
-    },
-    {
-        "id": "NF2409647",
-        "date": "2024-08-31",
-        "time": "7:50:04 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "ODDSTAD BLVD #161 ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E72"
-    },
-    {
-        "id": "FF2404975",
-        "date": "2024-08-31",
-        "time": "7:30:20 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Medical aid",
-        "location": "PINE AVE ,SSF",
-        "latitude": null,
-        "longitude": null,
-        "units": "E61"
     }
 ]
