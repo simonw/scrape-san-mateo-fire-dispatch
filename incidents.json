@@ -1,14 +1,47 @@
 [
     {
-        "id": "FF2404999",
+        "id": "LF2400739",
         "date": "2024-09-01",
-        "time": "9:04:33 PM",
-        "summary": "South San Francisco on Control-3",
+        "time": "9:25:19 PM",
+        "summary": "Colma Fire on Control-3",
         "category": "Medical aid",
-        "location": "SAN MATEO AVE ,SSF",
+        "location": "D ST ,BRD",
         "latitude": null,
         "longitude": null,
-        "units": "Q62"
+        "units": "E85"
+    },
+    {
+        "id": "MF2407216",
+        "date": "2024-09-01",
+        "time": "9:19:34 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "STANFORD AVE ,WMP",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E4"
+    },
+    {
+        "id": "DF2401591",
+        "date": "2024-09-01",
+        "time": "9:19:25 PM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COGGINS RD ,SOS",
+        "latitude": null,
+        "longitude": null,
+        "units": "E7 ?VFIR24 ?CO57"
+    },
+    {
+        "id": "RF2409519",
+        "date": "2024-09-01",
+        "time": "9:12:00 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "42 WOODHILL DR ,RCY",
+        "latitude": 37.4490768383276,
+        "longitude": -122.257024080814,
+        "units": ">E12"
     },
     {
         "id": "DF2401590",
@@ -19,28 +52,6 @@
         "location": "10520 LA HONDA RD ,LAH",
         "latitude": 37.3389934269917,
         "longitude": -122.269407777736,
-        "units": "E58 BC15 E1781 E59 ?TAC45R57"
-    },
-    {
-        "id": "LF2400738",
-        "date": "2024-09-01",
-        "time": "9:02:39 PM",
-        "summary": "Colma Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "695 MACARTHUR DR ,BRD",
-        "latitude": 37.6887999227608,
-        "longitude": -122.482868848429,
-        "units": "?TAC35 T85 E85"
-    },
-    {
-        "id": "SF2411478",
-        "date": "2024-09-01",
-        "time": "8:48:40 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "HILLSDALE MALL ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
+        "units": ">E58 ?TAC45 >R57"
     }
 ]
