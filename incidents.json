@@ -1,25 +1,69 @@
 [
     {
-        "id": "SF2411498",
+        "id": "RF2409540",
         "date": "2024-09-02",
-        "time": "11:53:36 AM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "12:19:41 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "COYOTE POINT DR ,SMO",
+        "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": ">E10"
     },
     {
-        "id": "CF2406027",
+        "id": "SF2411500",
         "date": "2024-09-02",
-        "time": "11:39:12 AM",
+        "time": "12:17:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "CASA DE CAMPO #2 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E26"
+    },
+    {
+        "id": "FF2405010",
+        "date": "2024-09-02",
+        "time": "12:16:13 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Smoke investigation",
+        "location": "88 DUVAL DR ,SSF",
+        "latitude": 37.6666354432162,
+        "longitude": -122.455548333073,
+        "units": "E63"
+    },
+    {
+        "id": "CF2406029",
+        "date": "2024-09-02",
+        "time": "12:11:06 PM",
         "summary": "Central County Fire on Control-2",
-        "category": "Full assignment response",
-        "location": "1415 COLUMBUS AVE ,BRM",
-        "latitude": 37.5822547811441,
-        "longitude": -122.377757031634,
-        "units": ">E35"
+        "category": "Lock out - residential",
+        "location": "150 PARK RD #407 ,BRM",
+        "latitude": 37.5767350387357,
+        "longitude": -122.345032966382,
+        "units": ">T34"
+    },
+    {
+        "id": "RF2409539",
+        "date": "2024-09-02",
+        "time": "12:10:31 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "LOCUST ST #4 ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E9"
+    },
+    {
+        "id": "CF2406028",
+        "date": "2024-09-02",
+        "time": "12:07:49 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Vehicle fire",
+        "location": "1580 HAYNE RD ,HIL",
+        "latitude": 37.548932356326,
+        "longitude": -122.370796606702,
+        "units": ">E33"
     },
     {
         "id": "RF2409536",
@@ -30,6 +74,6 @@
         "location": "141 WELLESLEY CRES ,RCY",
         "latitude": 37.4895693160138,
         "longitude": -122.242648069483,
-        "units": ">T9"
+        "units": "*>T9"
     }
 ]
