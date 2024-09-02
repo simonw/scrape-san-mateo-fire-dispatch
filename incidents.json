@@ -1,14 +1,47 @@
 [
     {
-        "id": "NF2409676",
+        "id": "SF2411473",
         "date": "2024-09-01",
-        "time": "7:24:25 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "7:47:35 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Fire alarm - smoke detector",
+        "location": "477 HARBOR BLVD ,BLM",
+        "latitude": 37.5190807917364,
+        "longitude": -122.2684754945,
+        "units": ">E14"
+    },
+    {
+        "id": "RF2409517",
+        "date": "2024-09-01",
+        "time": "7:45:34 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Landscape fire",
+        "location": "MARYLAND ST / MASSACHUSETTS AVE ,RCY",
+        "latitude": 37.4544683501611,
+        "longitude": -122.236769833689,
+        "units": "E12"
+    },
+    {
+        "id": "SF2411472",
+        "date": "2024-09-01",
+        "time": "7:42:22 PM",
+        "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "ESPLANADE AVE #305D ,PCF",
+        "location": "W HILLSDALE BLVD ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "?E71"
+        "units": ">E23"
+    },
+    {
+        "id": "SF2411471",
+        "date": "2024-09-01",
+        "time": "7:34:50 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "N SAN MATEO DR #220 ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E21"
     },
     {
         "id": "CF2406016",
@@ -19,7 +52,7 @@
         "location": "EL CAMINO REAL #7 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "T34"
+        "units": ">T34"
     },
     {
         "id": "HF2401981",
@@ -30,7 +63,7 @@
         "location": "CABRILLO HWY S ,SOS",
         "latitude": null,
         "longitude": null,
-        "units": ">E40"
+        "units": "*>E40"
     },
     {
         "id": "CF2406015",
@@ -41,17 +74,6 @@
         "location": "EL CAMINO REAL #204 ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E34 E35 ?CM21X1"
-    },
-    {
-        "id": "CF2406014",
-        "date": "2024-09-01",
-        "time": "7:11:41 PM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "WHITWELL RD ,HIL",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E32"
+        "units": "E35 ?CM21X1"
     }
 ]
