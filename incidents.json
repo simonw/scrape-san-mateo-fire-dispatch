@@ -1,46 +1,79 @@
 [
     {
-        "id": "NF2409730",
+        "id": "RF2409572",
         "date": "2024-09-03",
-        "time": "10:13:48 AM",
+        "time": "10:40:20 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E10"
+    },
+    {
+        "id": "FF2405028",
+        "date": "2024-09-03",
+        "time": "10:37:11 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "N ACCESS RD ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">Q62"
+    },
+    {
+        "id": "NF2409731",
+        "date": "2024-09-03",
+        "time": "10:35:11 AM",
         "summary": "North County Fire on Control-3",
         "category": "Medical aid",
-        "location": "SOUTHGATE AVE #214 ,DCY",
+        "location": "PALOMA AVE ,PCF",
         "latitude": null,
         "longitude": null,
-        "units": ">E91"
+        "units": ">E71"
     },
     {
-        "id": "CF2406058",
+        "id": "SF2411533",
         "date": "2024-09-03",
-        "time": "10:04:13 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Medical aid",
-        "location": "TROUSDALE DR ,BRM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E38"
-    },
-    {
-        "id": "DF2401598",
-        "date": "2024-09-03",
-        "time": "10:03:35 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Fire alarm",
-        "location": "400 PAUL SCANNELL DR ,SON",
-        "latitude": 37.5113424469024,
-        "longitude": -122.338800410319,
-        "units": ">BC11 CM11X2 ?TAC15"
-    },
-    {
-        "id": "SF2411532",
-        "date": "2024-09-03",
-        "time": "9:40:47 AM",
+        "time": "10:31:04 AM",
         "summary": "San Mateo Con Fire on Control-2",
+        "category": "Trash fire",
+        "location": "WB 92 / EO HIGH RI ,FCY",
+        "latitude": 37.5970069460201,
+        "longitude": -122.222650415637,
+        "units": ">E29"
+    },
+    {
+        "id": "MF2407264",
+        "date": "2024-09-03",
+        "time": "10:30:32 AM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ROYAL AVE ,SMO",
+        "location": "WILLOW RD #210 ,MNP",
         "latitude": null,
         "longitude": null,
-        "units": ">E26"
+        "units": ">E77"
+    },
+    {
+        "id": "MF2407265",
+        "date": "2024-09-03",
+        "time": "10:28:16 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Fire alarm",
+        "location": "2575 SAND HILL RD ,MNP",
+        "latitude": 37.4197700506166,
+        "longitude": -122.20392567363,
+        "units": ">E4"
+    },
+    {
+        "id": "DF2401599",
+        "date": "2024-09-03",
+        "time": "10:27:34 AM",
+        "summary": "County Fire on Control-1",
+        "category": "Medical aid",
+        "location": "EDMONDS RD #202 ,EML",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E12"
     }
 ]
