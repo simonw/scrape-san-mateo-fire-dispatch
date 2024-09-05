@@ -1,14 +1,47 @@
 [
     {
-        "id": "SF2411649",
+        "id": "CF2406130",
         "date": "2024-09-05",
-        "time": "2:04:46 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "2:23:34 PM",
+        "summary": "Central County Fire on Control-2",
+        "category": "Fire alarm",
+        "location": "808 EL CAMINO REAL ,BRM",
+        "latitude": 37.5809117502978,
+        "longitude": -122.359767825196,
+        "units": "E35 E33"
+    },
+    {
+        "id": "RF2409663",
+        "date": "2024-09-05",
+        "time": "2:23:01 PM",
+        "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "OLD COUNTY RD #N ,BLM",
+        "location": "EL CAMINO REAL ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": "E9"
+    },
+    {
+        "id": "MF2407331",
+        "date": "2024-09-05",
+        "time": "2:16:50 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Medical aid",
+        "location": "COOLEY AVE ,EPA",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E2"
+    },
+    {
+        "id": "MF2407332",
+        "date": "2024-09-05",
+        "time": "2:15:42 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Public assist",
+        "location": "3 CHATEAU DR ,MNP",
+        "latitude": 37.4537931027925,
+        "longitude": -122.188732341527,
+        "units": ">E6"
     },
     {
         "id": "WF2401482",
@@ -19,61 +52,6 @@
         "location": "MAPLE WAY ,WDS",
         "latitude": null,
         "longitude": null,
-        "units": "E19"
-    },
-    {
-        "id": "NF2409822",
-        "date": "2024-09-05",
-        "time": "2:00:50 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "HUMBOLDT RD ,BRS",
-        "latitude": null,
-        "longitude": null,
-        "units": "E81"
-    },
-    {
-        "id": "SF2411648",
-        "date": "2024-09-05",
-        "time": "1:59:51 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "SB 101 / EB E HILLSDALE BLVD ON RAMP ,S",
-        "latitude": null,
-        "longitude": null,
-        "units": "E26"
-    },
-    {
-        "id": "MF2407330",
-        "date": "2024-09-05",
-        "time": "1:49:24 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "AVE ,NFO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E5"
-    },
-    {
-        "id": "RF2409662",
-        "date": "2024-09-05",
-        "time": "1:48:36 PM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BROADWAY ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2411647",
-        "date": "2024-09-05",
-        "time": "1:48:30 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "N HUMBOLDT ST ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E24"
+        "units": ">E19"
     }
 ]
