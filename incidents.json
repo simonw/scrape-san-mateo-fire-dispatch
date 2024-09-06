@@ -1,36 +1,58 @@
 [
     {
-        "id": "MF2407336",
+        "id": "RF2409668",
         "date": "2024-09-05",
-        "time": "4:40:25 PM",
+        "time": "5:18:56 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Traffic accident pd request c3",
+        "location": "2345 MIDDLEFIELD RD ,RCY",
+        "latitude": 37.4800752801642,
+        "longitude": -122.216023281198,
+        "units": ">BC3 >T9 >E9 TAC16"
+    },
+    {
+        "id": "MF2407338",
+        "date": "2024-09-05",
+        "time": "5:17:26 PM",
         "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "ENCINAL AVE / GARWOOD WAY ,MNP",
+        "location": "OAKWOOD DR ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E6"
+        "units": ">E5"
     },
     {
-        "id": "SF2411656",
+        "id": "SF2411659",
         "date": "2024-09-05",
-        "time": "4:35:07 PM",
+        "time": "5:10:49 PM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "COYOTE POINT DR ,SMO",
+        "location": "S EL CAMINO REAL #105 ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": ">E24"
+        "units": ">E23"
     },
     {
-        "id": "NF2409826",
+        "id": "FF2405089",
         "date": "2024-09-05",
-        "time": "4:30:05 PM",
-        "summary": "North County Fire on Control-3",
+        "time": "5:10:29 PM",
+        "summary": "South San Francisco on Control-3",
         "category": "Medical aid",
-        "location": "MORTON DR ,DCY",
+        "location": "VALVERDE DR ,SSF",
         "latitude": null,
         "longitude": null,
-        "units": ">E94"
+        "units": ">E64"
+    },
+    {
+        "id": "MF2407337",
+        "date": "2024-09-05",
+        "time": "5:10:28 PM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Full assignment response",
+        "location": "1435 E BAYSHORE RD ,EPA",
+        "latitude": 37.4638616466354,
+        "longitude": -122.145712160052,
+        "units": ">T2"
     },
     {
         "id": "SF2411655",
@@ -42,27 +64,5 @@
         "latitude": 37.5695120333929,
         "longitude": -122.330176631501,
         "units": ">T21"
-    },
-    {
-        "id": "FF2405086",
-        "date": "2024-09-05",
-        "time": "4:02:36 PM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Landscape fire",
-        "location": "650 POPLAR AVE ,SSF",
-        "latitude": 37.662499910353,
-        "longitude": -122.419751625353,
-        "units": ">E61"
-    },
-    {
-        "id": "DF2401613",
-        "date": "2024-09-05",
-        "time": "3:56:57 PM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "LA HONDA RD #23 ,LAH",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E58 >R57 ?VFIR23"
     }
 ]
