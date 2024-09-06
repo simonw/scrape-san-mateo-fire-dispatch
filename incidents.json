@@ -1,14 +1,47 @@
 [
     {
-        "id": "RF2409699",
+        "id": "FF2405104",
         "date": "2024-09-06",
-        "time": "10:40:56 AM",
-        "summary": "Redwood City Fire on Control-1",
+        "time": "11:03:00 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "EL CAMINO REAL / W ORANGE AVE ,SSF",
+        "latitude": 37.6502963997741,
+        "longitude": -122.430589095692,
+        "units": ">E64 >BC17 Q62 CM31X5 ?TAC35"
+    },
+    {
+        "id": "SF2411689",
+        "date": "2024-09-06",
+        "time": "11:02:18 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Traffic accident pd request c3",
+        "location": "59 BAYWOOD AVE ,SMO",
+        "latitude": 37.5637282245084,
+        "longitude": -122.329213231402,
+        "units": ">E24 BC8 T23 CM21X3 TAC26"
+    },
+    {
+        "id": "CF2406157",
+        "date": "2024-09-06",
+        "time": "11:01:45 AM",
+        "summary": "Central County Fire on Control-2",
         "category": "Medical aid",
-        "location": "WOODSIDE RD #4110 ,RCY",
+        "location": "MAHLER RD ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "T34"
+    },
+    {
+        "id": "NF2409857",
+        "date": "2024-09-06",
+        "time": "10:48:26 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL DORADO DR ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E95"
     },
     {
         "id": "CF2406156",
@@ -19,7 +52,7 @@
         "location": "LEXINGTON WAY ,BRM",
         "latitude": null,
         "longitude": null,
-        "units": "E21"
+        "units": ">E21"
     },
     {
         "id": "RF2409698",
@@ -33,50 +66,6 @@
         "units": ">E11"
     },
     {
-        "id": "RF2409697",
-        "date": "2024-09-06",
-        "time": "10:29:22 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CORDILLERAS AVE ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "SF2411688",
-        "date": "2024-09-06",
-        "time": "10:29:10 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "BOUNTY DR #2608 ,FCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E28"
-    },
-    {
-        "id": "CF2406155",
-        "date": "2024-09-06",
-        "time": "10:25:15 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Gas main break",
-        "location": "2298 FOREST VIEW AVE ,HIL",
-        "latitude": 37.5731851334049,
-        "longitude": -122.377531814284,
-        "units": ">BC8 >E35 >E34 TAC25 CM21X2"
-    },
-    {
-        "id": "SF2411687",
-        "date": "2024-09-06",
-        "time": "10:23:11 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "S EL CAMINO REAL #211 ,SMO",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E23"
-    },
-    {
         "id": "DF2401616",
         "date": "2024-09-06",
         "time": "9:16:14 AM",
@@ -85,6 +74,6 @@
         "location": "1350 WURR RD ,LMR",
         "latitude": 37.2715581057263,
         "longitude": -122.286057269807,
-        "units": ">E655"
+        "units": "*>E655"
     }
 ]
