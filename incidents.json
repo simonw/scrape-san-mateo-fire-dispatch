@@ -1,5 +1,60 @@
 [
     {
+        "id": "NF2409890",
+        "date": "2024-09-07",
+        "time": "1:37:21 PM",
+        "summary": "North County Fire on Control-3",
+        "category": "Fire alarm",
+        "location": "403 GOODMAN RD ,PCF",
+        "latitude": 37.6327886120275,
+        "longitude": -122.485956536559,
+        "units": "E71"
+    },
+    {
+        "id": "FF2405118",
+        "date": "2024-09-07",
+        "time": "1:34:46 PM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Public assist",
+        "location": "SB 280 / NO AVALON DR ,SSF",
+        "latitude": 37.6414170599916,
+        "longitude": -122.443838094168,
+        "units": "E64 Q62 CM31X3 ?TAC36"
+    },
+    {
+        "id": "SF2411743",
+        "date": "2024-09-07",
+        "time": "1:32:32 PM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "BOUNTY DR #3810 ,FCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E28"
+    },
+    {
+        "id": "BF2403047",
+        "date": "2024-09-07",
+        "time": "1:31:40 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Medical aid",
+        "location": "EL CAMINO REAL ,SNB",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E51"
+    },
+    {
+        "id": "BF2403046",
+        "date": "2024-09-07",
+        "time": "1:28:17 PM",
+        "summary": "San Bruno Fire on Control-3",
+        "category": "Traffic accident pd request c3",
+        "location": "W SAN BRUNO AVE / GLENVIEW DR ,SNB",
+        "latitude": 37.619009758654,
+        "longitude": -122.441015067089,
+        "units": ">T51 >E52 >BC16"
+    },
+    {
         "id": "HF2402032",
         "date": "2024-09-07",
         "time": "1:20:59 PM",
@@ -8,61 +63,6 @@
         "location": "SAN MATEO RD ,HMB",
         "latitude": null,
         "longitude": null,
-        "units": "E40"
-    },
-    {
-        "id": "NF2409889",
-        "date": "2024-09-07",
-        "time": "1:20:54 PM",
-        "summary": "North County Fire on Control-3",
-        "category": "Medical aid",
-        "location": "MANOR DR ,PCF",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E71"
-    },
-    {
-        "id": "MF2407419",
-        "date": "2024-09-07",
-        "time": "1:20:49 PM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "CLARKE AVE / WEEKS ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "SF2411742",
-        "date": "2024-09-07",
-        "time": "1:14:33 PM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Public assist, water problem",
-        "location": "705 ALAMEDA DE LAS PULGAS ,BLM",
-        "latitude": 37.5184960527487,
-        "longitude": -122.296333775988,
-        "units": ">E15"
-    },
-    {
-        "id": "BF2403045",
-        "date": "2024-09-07",
-        "time": "11:53:06 AM",
-        "summary": "San Bruno Fire on Control-3",
-        "category": "Traffic accident pd request c2",
-        "location": "516 CHESTNUT AVE ,SNB",
-        "latitude": 37.6206018965862,
-        "longitude": -122.419655191097,
-        "units": ">E52"
-    },
-    {
-        "id": "SF2411728",
-        "date": "2024-09-07",
-        "time": "9:02:37 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Structure fire - working",
-        "location": "501 STERLING VIEW AVE ,BLM",
-        "latitude": 37.530529199433,
-        "longitude": -122.285237915962,
-        "units": ">PR5C"
+        "units": ">E40"
     }
 ]
