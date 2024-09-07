@@ -1,14 +1,58 @@
 [
     {
-        "id": "SF2411735",
+        "id": "HF2402031",
         "date": "2024-09-07",
-        "time": "11:00:40 AM",
+        "time": "11:28:16 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Traffic accident",
+        "location": "N CABRILLO HWY / RUISSEAU FRANCAIS AVE",
+        "latitude": 37.4835630432393,
+        "longitude": -122.446300264295,
+        "units": "?TAC45 ?CM41X5 ?BC10 ?E41 ?E40"
+    },
+    {
+        "id": "RF2409741",
+        "date": "2024-09-07",
+        "time": "11:26:07 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "JEFFERSON AVE #5B ,RCY",
+        "latitude": null,
+        "longitude": null,
+        "units": "E19"
+    },
+    {
+        "id": "SF2411737",
+        "date": "2024-09-07",
+        "time": "11:21:29 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "S DELAWARE ST ,SMO",
+        "location": "VINE CT ,SMO",
         "latitude": null,
         "longitude": null,
         "units": "E24"
+    },
+    {
+        "id": "FF2405117",
+        "date": "2024-09-07",
+        "time": "11:15:07 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Sparking/arcing wires down",
+        "location": "501 ELM CT ,SSF",
+        "latitude": 37.6585988524562,
+        "longitude": -122.418089173639,
+        "units": ">E61"
+    },
+    {
+        "id": "SF2411736",
+        "date": "2024-09-07",
+        "time": "11:14:52 AM",
+        "summary": "San Mateo Con Fire on Control-2",
+        "category": "Medical aid",
+        "location": "NADINA ST ,SMO",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E25"
     },
     {
         "id": "BF2403042",
@@ -19,7 +63,7 @@
         "location": "SB 101 / NO MILLBRAE AVE ,SFO",
         "latitude": 37.6076284150697,
         "longitude": -122.388400032852,
-        "units": "?VF22X1 ?E65 ?Q62 >E51 BC16CM31X1"
+        "units": ">E65 >BC16 ?VF22X1 >E51 CM31X1"
     },
     {
         "id": "SF2411728",
@@ -30,6 +74,6 @@
         "location": "501 STERLING VIEW AVE ,BLM",
         "latitude": 37.530529199433,
         "longitude": -122.285237915962,
-        "units": ">PR5C >E14"
+        "units": ">PR5C"
     }
 ]
