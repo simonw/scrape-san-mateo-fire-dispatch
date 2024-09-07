@@ -1,36 +1,47 @@
 [
     {
+        "id": "RF2409738",
+        "date": "2024-09-07",
+        "time": "9:22:15 AM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Medical aid",
+        "location": "CORDILLERAS AVE ,SNC",
+        "latitude": null,
+        "longitude": null,
+        "units": "E13"
+    },
+    {
+        "id": "NF2409885",
+        "date": "2024-09-07",
+        "time": "9:19:33 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "WINCHESTER ST ,DCY",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E92"
+    },
+    {
+        "id": "MF2407410",
+        "date": "2024-09-07",
+        "time": "9:12:50 AM",
+        "summary": "Menlo Park Fire on Control-1",
+        "category": "Vehicle fire",
+        "location": "1 DEAD END O'CONNOR ST ,EPA",
+        "latitude": 37.4609401531321,
+        "longitude": -122.125320274771,
+        "units": ">BC101 TAC16 CM11X1 >E2"
+    },
+    {
         "id": "SF2411728",
         "date": "2024-09-07",
         "time": "9:02:37 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Structure fire",
-        "location": "100 HILLER ST ,BLM",
+        "category": "Structure fire - working",
+        "location": "501 STERLING VIEW AVE ,BLM",
         "latitude": 37.530529199433,
         "longitude": -122.285237915962,
-        "units": "E14 T23 E15 E16 BC11E23 E13 CM11X4 BC5 ?TAC15"
-    },
-    {
-        "id": "MF2407409",
-        "date": "2024-09-07",
-        "time": "8:56:42 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Wires down (not sparking)",
-        "location": "OAKWOOD DR / PALO VERDE AVE ,EPA",
-        "latitude": 37.4683277852752,
-        "longitude": -122.147103052092,
-        "units": ""
-    },
-    {
-        "id": "FF2405116",
-        "date": "2024-09-07",
-        "time": "8:47:42 AM",
-        "summary": "South San Francisco on Control-3",
-        "category": "Fire alarm",
-        "location": "901 CIVIC CAMPUS WAY ,SSF",
-        "latitude": 37.6560792963995,
-        "longitude": -122.435241239794,
-        "units": ">E63"
+        "units": "PR5C >BC11 >E14 >T23 >BC5CM11X4 ?TAC15"
     },
     {
         "id": "FF2405115",
@@ -41,17 +52,6 @@
         "location": "SISTER CITIES BLVD / AIRPORT BLVD ,SSF",
         "latitude": 37.6643553800866,
         "longitude": -122.399183852475,
-        "units": ">E65 >BC17 >Q62 CM31X2 ?TAC35"
-    },
-    {
-        "id": "CF2406174",
-        "date": "2024-09-07",
-        "time": "8:33:16 AM",
-        "summary": "Central County Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "160 BELLA VISTA DR ,HIL",
-        "latitude": 37.5728513483349,
-        "longitude": -122.383801238222,
-        "units": ">E33"
+        "units": ">BC17 >Q62 CM31X2 ?TAC35"
     }
 ]
