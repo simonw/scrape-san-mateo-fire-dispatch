@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2411766",
+        "id": "SF2411767",
         "date": "2024-09-08",
-        "time": "7:01:08 AM",
+        "time": "7:20:50 AM",
         "summary": "San Mateo Con Fire on Control-2",
-        "category": "Fire alarm",
-        "location": "1672 SUNNYSLOPE AVE ,BLM",
-        "latitude": 37.5122107624604,
-        "longitude": -122.270843605489,
-        "units": "E14"
+        "category": "Medical aid",
+        "location": "ALAMEDA DE LAS PULGAS #223 ,BLM",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E15"
+    },
+    {
+        "id": "NF2409913",
+        "date": "2024-09-08",
+        "time": "7:13:45 AM",
+        "summary": "North County Fire on Control-3",
+        "category": "Medical aid",
+        "location": "FRANCISCO BLVD #9 ,PCF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E71"
     },
     {
         "id": "CF2406190",
@@ -22,28 +33,6 @@
         "units": ">E37"
     },
     {
-        "id": "RF2409767",
-        "date": "2024-09-08",
-        "time": "6:47:28 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "HESS RD #3 ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E10"
-    },
-    {
-        "id": "NF2409912",
-        "date": "2024-09-08",
-        "time": "6:43:45 AM",
-        "summary": "North County Fire on Control-3",
-        "category": "Traffic accident",
-        "location": "SB 280 / NO JOHN DALY BLVD ,DCY",
-        "latitude": 37.7068360881013,
-        "longitude": -122.470463627917,
-        "units": ">E95 >E91 >T95 CM31X1 ?TAC36"
-    },
-    {
         "id": "NF2409908",
         "date": "2024-09-08",
         "time": "5:42:58 AM",
@@ -52,6 +41,6 @@
         "location": "SB 101 / SO CANDLESTICK PARK ,BRS",
         "latitude": 37.6989155941404,
         "longitude": -122.392986466886,
-        "units": ">E65 >Q62 >E93 >E61 >BC17>E81 CM31X2 ?TAC35 ?VF22X4"
+        "units": ">E61 ?TAC35 ?VF22X4 CM31X2 >Q62>BC17"
     }
 ]
