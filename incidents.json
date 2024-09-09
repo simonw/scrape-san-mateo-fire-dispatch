@@ -1,14 +1,25 @@
 [
     {
-        "id": "RF2409792",
+        "id": "RF2409793",
         "date": "2024-09-09",
-        "time": "1:06:59 AM",
+        "time": "1:27:39 AM",
         "summary": "Redwood City Fire on Control-1",
         "category": "Medical aid",
-        "location": "POPLAR AVE / HUDSON ST ,RCY",
+        "location": "EL CAMINO REAL / REDWOOD AVE ,RCY",
         "latitude": null,
         "longitude": null,
-        "units": "E10"
+        "units": "E9"
+    },
+    {
+        "id": "FF2405142",
+        "date": "2024-09-09",
+        "time": "1:17:48 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Medical aid",
+        "location": "JUNIPER AVE ,SSF",
+        "latitude": null,
+        "longitude": null,
+        "units": ">E65"
     },
     {
         "id": "DF2401640",
@@ -19,18 +30,7 @@
         "location": "MONTARA STATE BEACH RD ,SON",
         "latitude": null,
         "longitude": null,
-        "units": ">E44"
-    },
-    {
-        "id": "DF2401639",
-        "date": "2024-09-09",
-        "time": "12:56:31 AM",
-        "summary": "County Fire on Control-1",
-        "category": "Medical aid",
-        "location": "EDGEWOOD RD ,EML",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E18"
+        "units": "*>E44"
     },
     {
         "id": "BF2403068",
@@ -41,6 +41,6 @@
         "location": "400 3RD AVE ,SNB",
         "latitude": 37.6245298236364,
         "longitude": -122.406325149398,
-        "units": ">E1765 >E52 >E63 ?CFORD >E61CM31X5 ?VF22X2 >BC16 >E51"
+        "units": ">E1765 ?CFORD CM31X5 ?VF22X2"
     }
 ]
