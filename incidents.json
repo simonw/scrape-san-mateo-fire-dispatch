@@ -1,14 +1,36 @@
 [
     {
-        "id": "SF2411820",
+        "id": "HF2402046",
         "date": "2024-09-09",
-        "time": "10:40:48 AM",
+        "time": "11:00:36 AM",
+        "summary": "Coastside Fire on Control-1",
+        "category": "Fire alarm - smoke detector",
+        "location": "260 CAPISTRANO RD ,PRN",
+        "latitude": 37.504276166802,
+        "longitude": -122.482732823785,
+        "units": ">E41 >BC10"
+    },
+    {
+        "id": "SF2411821",
+        "date": "2024-09-09",
+        "time": "10:54:16 AM",
         "summary": "San Mateo Con Fire on Control-2",
         "category": "Medical aid",
-        "location": "S EL CAMINO REAL #203 ,SMO",
+        "location": "E 4TH AVE ,SMO",
         "latitude": null,
         "longitude": null,
-        "units": "E23"
+        "units": ">E21"
+    },
+    {
+        "id": "FF2405146",
+        "date": "2024-09-09",
+        "time": "10:51:51 AM",
+        "summary": "South San Francisco on Control-3",
+        "category": "Fire alarm - smoke detector",
+        "location": "3560 CALLAN BLVD ,SSF",
+        "latitude": 37.6437406981458,
+        "longitude": -122.462228909548,
+        "units": ">E64"
     },
     {
         "id": "MF2407467",
@@ -20,60 +42,5 @@
         "latitude": null,
         "longitude": null,
         "units": ">E77"
-    },
-    {
-        "id": "MF2407466",
-        "date": "2024-09-09",
-        "time": "10:29:45 AM",
-        "summary": "Menlo Park Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BEECH ST ,EPA",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E2"
-    },
-    {
-        "id": "RF2409807",
-        "date": "2024-09-09",
-        "time": "10:26:24 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "ELM ST #9 ,SNC",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E13"
-    },
-    {
-        "id": "RF2409806",
-        "date": "2024-09-09",
-        "time": "10:24:12 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "BRADFORD ST ,RCY",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E9"
-    },
-    {
-        "id": "SF2411818",
-        "date": "2024-09-09",
-        "time": "10:19:04 AM",
-        "summary": "San Mateo Con Fire on Control-2",
-        "category": "Medical aid",
-        "location": "CARLMONT DR #107B ,BLM",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E15"
-    },
-    {
-        "id": "RF2409805",
-        "date": "2024-09-09",
-        "time": "10:11:51 AM",
-        "summary": "Redwood City Fire on Control-1",
-        "category": "Medical aid",
-        "location": "COLUMBIA CIR ,RWS",
-        "latitude": null,
-        "longitude": null,
-        "units": ">E20"
     }
 ]
