@@ -1,14 +1,25 @@
 [
     {
-        "id": "SF2411850",
+        "id": "RF2409826",
         "date": "2024-09-09",
-        "time": "10:05:04 PM",
-        "summary": "San Mateo Con Fire on Control-2",
+        "time": "10:11:59 PM",
+        "summary": "Redwood City Fire on Control-1",
+        "category": "Fire alarm - water flow",
+        "location": "630 VETERANS BLVD ,RCY",
+        "latitude": 37.492045976967,
+        "longitude": -122.231950016558,
+        "units": "T9 >E9 ?CM11X1"
+    },
+    {
+        "id": "MF2407487",
+        "date": "2024-09-09",
+        "time": "10:07:05 PM",
+        "summary": "Menlo Park Fire on Control-1",
         "category": "Medical aid",
-        "location": "WESSEX WAY #3 ,BLM",
+        "location": "LAUREL AVE ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E14"
+        "units": ">E2"
     },
     {
         "id": "MF2407486",
@@ -19,7 +30,7 @@
         "location": "NEWELL CT ,EPA",
         "latitude": null,
         "longitude": null,
-        "units": "E2"
+        "units": ">T2"
     },
     {
         "id": "HF2402049",
@@ -30,6 +41,6 @@
         "location": "ACACIA ST #200 ,MON",
         "latitude": null,
         "longitude": null,
-        "units": "BC10"
+        "units": ""
     }
 ]
